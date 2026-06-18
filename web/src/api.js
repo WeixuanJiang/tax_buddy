@@ -1,0 +1,91 @@
+// Thin client for the knowledge-engine API. Calls go through the Vite proxy
+// (/api -> FastAPI) in dev; set VITE_API_BASE for other deployments.
+const BASE = import.meta.env.VITE_API_BASE ?? "/api";
+
+async function post(path, body) {
+  const res = await fetch(`${BASE}${path}`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(body),
+  });
+  if (!res.ok) {
+    let detail = `Request failed (${res.status})`;
+    try {
+      const data = await res.json();
+      if (data?.detail) detail = data.detail;
+    } catch {
+      /* keep default */
+    }
+    throw new Error(detail);
+  }
+  return res.json();
+}
+
+// Multi-turn endpoint keeps conversation memory per thread_id.
+export function chat(question, threadId) {
+  return post("/chat", { question, thread_id: threadId });
+}
+
+export function ask(question) {
+  return post("/ask", { question });
+}
+
+function parseSSE(raw) {
+  let event = "message";
+  let data = "";
+  for (const line of raw.split("\n")) {
+    if (line.startsWith("event:")) event = line.slice(6).trim();
+    else if (line.startsWith("data:")) data += line.slice(5).trim();
+  }
+  try {
+    data = JSON.parse(data);
+  } catch {
+    /* leave as string */
+  }
+  return { event, data };
+}
+
+// Streamed multi-turn answer over Server-Sent Events.
+// Calls onStage(label), onToken(text), onDone(payload), onError(err).
+export async function chatStream(question, threadId, handlers, opts = {}) {
+  const { onStage, onToken, onDone, onError } = handlers;
+  let res;
+  try {
+    res = await fetch(`${BASE}/chat/stream`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        question,
+        thread_id: threadId,
+        reasoning: opts.reasoning ?? false,
+      }),
+    });
+  } catch (e) {
+    onError?.(e);
+    return;
+  }
+  if (!res.ok || !res.body) {
+    onError?.(new Error(`Request failed (${res.status})`));
+    return;
+  }
+
+  const reader = res.body.getReader();
+  const decoder = new TextDecoder();
+  let buf = "";
+  while (true) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    buf += decoder.decode(value, { stream: true });
+    let idx;
+    while ((idx = buf.indexOf("\n\n")) >= 0) {
+      const raw = buf.slice(0, idx);
+      buf = buf.slice(idx + 2);
+      if (!raw.trim()) continue;
+      const { event, data } = parseSSE(raw);
+      if (event === "stage") onStage?.(data.label);
+      else if (event === "token") onToken?.(data.text);
+      else if (event === "done") onDone?.(data);
+      else if (event === "error") onError?.(new Error(data.message || "stream error"));
+    }
+  }
+}
