@@ -1,0 +1,347 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/income-you-must-declare/business-partnership-and-trust-income/tax-on-trust-distributions-to-non-resident-beneficiaries",
+  "title": "Tax on trust distributions to non-resident beneficiaries",
+  "description": "Tax on trust distributions to non-resident beneficiaries, including trustee beneficiaries in a chain of trusts.",
+  "nat_number": "",
+  "quick_code": "72104",
+  "date_updated": "2026-06-07T14:00:00Z",
+  "first_published": "",
+  "keywords": "trust distribution to non resident, non resident beneficiary of a trust, withholding tax on trust distributions to non-residents, trust distributions to foreign beneficiaries, trust distributions to non residents, non resident trust distribution",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How a trust distribution to a non-resident beneficiary is taxed"
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, the net income of a trust is taxed to beneficiaries of the trust under section 97 of the Income Tax Assessment Act 1936 (ITAA 1936)."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, if the beneficiary is a non-resident at the end of an income year, the trustee (rather than the beneficiary) is taxed on the beneficiary's share of the trust's net income (subsection 98(3) of the ITAA 1936)."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is to assist in the collection of Australian tax on the income."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tax assessed to a trustee in relation to a non-resident beneficiary is generally not a final tax. When the non-resident beneficiary prepares their Australian tax return, they can claim a credit for the tax paid by the trustee (under subsection 98A(2))."
+    },
+    {
+      "type": "paragraph",
+      "text": "These rules generally don't apply to trustees of Australian managed investment trusts or Australian trustee intermediaries (to the extent their income is managed investment trust income). Instead, these trusts are required to withhold from distributions to non-resident beneficiaries under Subdivision 12-H of the Tax Administration Act 1953 (TAA) ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Rate of tax"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the non-resident beneficiary is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an individual who is not a trustee – the trustee pays tax at the non-resident marginal tax rates",
+        "a company that is not a trustee – the trustee pays tax at the full company or base rate entity rate ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Special rules for specific types of income"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are special rules for particular amounts included in net income:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Dividends, interest and royalties",
+        "Distributions declared to be conduit foreign income",
+        "Capital gains"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Dividends, interest and royalties"
+    },
+    {
+      "type": "paragraph",
+      "text": "Income taxed under the withholding tax rules, or specifically excluded from those rules (for example, franked dividends), is not taxed again to the trustee under section 98 or to a beneficiary."
+    },
+    {
+      "type": "paragraph",
+      "text": "A beneficiary is liable, under the withholding rules in Division 11A of Part III of the ITAA 1936, for tax on Australian dividends, interest and royalties to which they are presently entitled while a non-resident. The withholding tax is collected from the trustee under the pay as you go withholding rules in the TAA."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a non-resident beneficiary is taken by Division 11A of Part III to be presently entitled to a franked distribution received by a trust, the franking credits attached to that distribution are not taxed to the trustee, do not reduce the tax payable of either the trustee or beneficiary, and are not refundable."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Distributions declared to be conduit foreign income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under section 802-17 of the Income Tax Assessment Act 1997 (ITAA 1997), distributions declared to be conduit foreign income are able to flow through trusts to non-resident beneficiaries, free of Australian tax."
+    },
+    {
+      "type": "paragraph",
+      "text": "If an Australian company makes an unfranked frankable distribution to a trustee, and declares that the distribution is conduit foreign income, then:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the trustee is not liable to pay tax on a non-resident beneficiary's share of the net income of the trust that is reasonably attributable to all or part of that distribution (the non-resident beneficiary must be presently entitled to that share of the trust income)",
+        "a non-resident beneficiary is not assessed on their share of the net income of the trust that is reasonably attributable to the distribution."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Capital gains"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount on which a trustee is assessed in relation to a non-resident trustee or company beneficiary includes a discount capital gain, the trustee is assessed as if the discount had not applied to the capital gain (see sections 115-220 and 115-222 of the ITAA 1997)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Trust income of non-resident trustee beneficiaries"
+    },
+    {
+      "type": "paragraph",
+      "text": "The way a trustee is taxed in respect of their non-resident trustee beneficiaries is similar to the way they are assessed for their non-resident company or individual beneficiaries."
+    },
+    {
+      "type": "paragraph",
+      "text": "A trustee is liable to pay tax (under section 98(4) of the ITAA 1936) for a trustee beneficiary's share of the trust's net income that is attributable to Australian sources, if the trustee beneficiary is a non-resident at the end of the income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the beneficiary trust has more than one trustee, subsection 98(4) will apply as if at least one trustee is a non-resident at that time."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this situation:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the trustee beneficiary and any subsequent trustee in the chain of trusts is not taxed again on the amount (under section 98, 99 or 99A) that has already been taxed to the first trustee",
+        "the ultimate individual or company beneficiary may be taxed on the amount that has flowed to them (under section 97, 98A(3) or 100), and they can claim a credit for their share of the tax paid by the first trustee (under section 98B)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the first trust is a closely held trust it is not required to report, in a trustee beneficiary statement, details of the net income of the trust in respect of which the trustee is assessed under subsection 98(4) or which is reasonably attributable to an amount that has previously been assessed under that provision."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Rate of tax"
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustee pays the top tax rate (which is currently 45% for non-resident individuals) for a non-resident trustee beneficiary."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Trustees and beneficiaries in a chain of trusts"
+    },
+    {
+      "type": "paragraph",
+      "text": "A chain of trusts exists where a trustee of a trust is a beneficiary of another trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the trustee is assessed under subsection 98(4) of the ITAA 1936 in respect of a trustee beneficiary, the trustee beneficiary and any later trustee in the chain of trusts is not assessed again on that amount under section 98, 99 or 99A. However, an amount may be taxed to an ultimate individual or company beneficiary under subsection 97, 98A(3) or 100, and allowed a credit under section 98B."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following example of a chain of trusts demonstrates the taxation of trust net income for non-resident beneficiaries."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: chain of trusts"
+    },
+    {
+      "type": "paragraph",
+      "text": "There is a chain of 3 trusts:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Trust 1",
+        "Trust 2",
+        "Trust 3."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Trust 1:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "has Australian sourced rental income as its only income",
+        "may have resident or non-resident trustees",
+        "has one beneficiary, which is Trust 2."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Trust 2:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "has a non-resident trustee at the end of the income year",
+        "is presently entitled to 100% of the income of Trust 1",
+        "has no other income and no allowable deductions",
+        "has 5 beneficiaries, each of which is presently entitled to 20% of the income of that trust and not under a legal disability Individual C, who is non-resident for the full year Company D, which is non-resident for the full year Individual E, who is resident for the full year Company F, which is resident for the full year Trust 3."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Trust 3:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "has a resident trustee at the end of the income year",
+        "has no income other than the income flowing from Trust 1, which can't be reduced by any allowable deductions",
+        "has no presently entitled beneficiary."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The information below explains the tax treatment of each of these trusts and beneficiaries."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Tax treatment of first trustee"
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustee of Trust 1 is taxed on Trust 2's share (100%) of Trust 1's net income. This is because Trust 2 has a non-resident trustee (subsection 98(4) of the ITAA 1936)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The tax paid by the trustee of Trust 1 is not a final tax. The ultimate beneficiaries may be able to claim a credit for the tax paid by the trustee of Trust 1."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Tax treatment of other trustees in chain"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the trustee of Trust 1 has been assessed on an amount that is reasonably attributable to the amount assessed under section 98(4) in respect of Trust 2:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the trustee of Trust 2 is not assessed under section 98 on distributions to their non-resident beneficiaries Individual C or Company D",
+        "the trustee of Trust 3 is not assessed under sections 99 or 99A."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustee of Trust 2 is not assessed on distributions to their resident beneficiaries."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Tax treatment of ultimate beneficiaries"
+    },
+    {
+      "type": "paragraph",
+      "text": "An amount (or part of it) that is reasonably attributable to an amount that has been assessed to a trustee under subsection 98(4) may also be assessed to an ultimate individual or company beneficiary."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Beneficiary is",
+          "resident at the end of income year",
+          "non-resident at the end of income year"
+        ],
+        [
+          "presently entitled to trust income and not under a legal disability",
+          "97(1)",
+          "98A(3)"
+        ],
+        [
+          "under a legal disability or deemed to be presently entitled",
+          "100(1), 100(1B)",
+          "98A(3)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The ultimate individual and company beneficiaries in respect of an amount (or part of it) that has been assessed to the trustee of Trust 1 are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "non-resident Individual C",
+        "non-resident Company D",
+        "resident Individual E",
+        "resident Company F."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Beneficiaries C and D are assessed under subsection 98A(3) on their share of Trust 2's net income, and section 98B allows them to deduct from their tax payable a portion of the tax paid by the trustee of Trust 1."
+    },
+    {
+      "type": "paragraph",
+      "text": "Beneficiaries E and F are assessed under section 97 on their share of Trust 2's net income, and section 98B allows them to deduct from their tax payable a portion of the tax paid by the trustee of Trust 1."
+    },
+    {
+      "type": "paragraph",
+      "text": "When they lodge their Australian tax returns, each of these beneficiaries can deduct, from their tax payable, 20% of the tax paid by the trustee of Trust 1. This is the same as the proportion of the tax paid by the trustee of Trust 1 that is attributable to the amount ultimately assessed to each beneficiary."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount a beneficiary can deduct is more than their tax liability, they are entitled to a refund of the difference (see section 98B)."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, the total amount claimed by all the beneficiaries cannot be more than the total tax paid by the trustee of Trust 1."
+    },
+    {
+      "type": "paragraph",
+      "text": "An ultimate beneficiary can't claim a deduction for the tax the trustee paid if they don't include an amount in their assessable income that is reasonably attributable to the net income on which the trustee of Trust 1 has paid tax under subsection 98(4). For example, if expenses and losses have been offset against that amount as it flows through the chain of trusts – the beneficiary is not entitled to a deduction for the tax the trustee paid."
+    }
+  ],
+  "content_text": "## How a trust distribution to a non-resident beneficiary is taxed\nGenerally, the net income of a trust is taxed to beneficiaries of the trust under section 97 of the Income Tax Assessment Act 1936 (ITAA 1936).\nHowever, if the beneficiary is a non-resident at the end of an income year, the trustee (rather than the beneficiary) is taxed on the beneficiary's share of the trust's net income (subsection 98(3) of the ITAA 1936).\nThis is to assist in the collection of Australian tax on the income.\nTax assessed to a trustee in relation to a non-resident beneficiary is generally not a final tax. When the non-resident beneficiary prepares their Australian tax return, they can claim a credit for the tax paid by the trustee (under subsection 98A(2)).\nThese rules generally don't apply to trustees of Australian managed investment trusts or Australian trustee intermediaries (to the extent their income is managed investment trust income). Instead, these trusts are required to withhold from distributions to non-resident beneficiaries under Subdivision 12-H of the Tax Administration Act 1953 (TAA) .\n### Rate of tax\nIf the non-resident beneficiary is:\n- an individual who is not a trustee – the trustee pays tax at the non-resident marginal tax rates\n- a company that is not a trustee – the trustee pays tax at the full company or base rate entity rate .\n## Special rules for specific types of income\nThere are special rules for particular amounts included in net income:\n- Dividends, interest and royalties\n- Distributions declared to be conduit foreign income\n- Capital gains\n### Dividends, interest and royalties\nIncome taxed under the withholding tax rules, or specifically excluded from those rules (for example, franked dividends), is not taxed again to the trustee under section 98 or to a beneficiary.\nA beneficiary is liable, under the withholding rules in Division 11A of Part III of the ITAA 1936, for tax on Australian dividends, interest and royalties to which they are presently entitled while a non-resident. The withholding tax is collected from the trustee under the pay as you go withholding rules in the TAA.\nIf a non-resident beneficiary is taken by Division 11A of Part III to be presently entitled to a franked distribution received by a trust, the franking credits attached to that distribution are not taxed to the trustee, do not reduce the tax payable of either the trustee or beneficiary, and are not refundable.\n### Distributions declared to be conduit foreign income\nUnder section 802-17 of the Income Tax Assessment Act 1997 (ITAA 1997), distributions declared to be conduit foreign income are able to flow through trusts to non-resident beneficiaries, free of Australian tax.\nIf an Australian company makes an unfranked frankable distribution to a trustee, and declares that the distribution is conduit foreign income, then:\n- the trustee is not liable to pay tax on a non-resident beneficiary's share of the net income of the trust that is reasonably attributable to all or part of that distribution (the non-resident beneficiary must be presently entitled to that share of the trust income)\n- a non-resident beneficiary is not assessed on their share of the net income of the trust that is reasonably attributable to the distribution.\n### Capital gains\nIf the amount on which a trustee is assessed in relation to a non-resident trustee or company beneficiary includes a discount capital gain, the trustee is assessed as if the discount had not applied to the capital gain (see sections 115-220 and 115-222 of the ITAA 1997).\n## Trust income of non-resident trustee beneficiaries\nThe way a trustee is taxed in respect of their non-resident trustee beneficiaries is similar to the way they are assessed for their non-resident company or individual beneficiaries.\nA trustee is liable to pay tax (under section 98(4) of the ITAA 1936) for a trustee beneficiary's share of the trust's net income that is attributable to Australian sources, if the trustee beneficiary is a non-resident at the end of the income year.\nIf the beneficiary trust has more than one trustee, subsection 98(4) will apply as if at least one trustee is a non-resident at that time.\nIn this situation:\n- the trustee beneficiary and any subsequent trustee in the chain of trusts is not taxed again on the amount (under section 98, 99 or 99A) that has already been taxed to the first trustee\n- the ultimate individual or company beneficiary may be taxed on the amount that has flowed to them (under section 97, 98A(3) or 100), and they can claim a credit for their share of the tax paid by the first trustee (under section 98B).\nIf the first trust is a closely held trust it is not required to report, in a trustee beneficiary statement, details of the net income of the trust in respect of which the trustee is assessed under subsection 98(4) or which is reasonably attributable to an amount that has previously been assessed under that provision.\n### Rate of tax\nThe trustee pays the top tax rate (which is currently 45% for non-resident individuals) for a non-resident trustee beneficiary.\n## Trustees and beneficiaries in a chain of trusts\nA chain of trusts exists where a trustee of a trust is a beneficiary of another trust.\nIf the trustee is assessed under subsection 98(4) of the ITAA 1936 in respect of a trustee beneficiary, the trustee beneficiary and any later trustee in the chain of trusts is not assessed again on that amount under section 98, 99 or 99A. However, an amount may be taxed to an ultimate individual or company beneficiary under subsection 97, 98A(3) or 100, and allowed a credit under section 98B.\nThe following example of a chain of trusts demonstrates the taxation of trust net income for non-resident beneficiaries.\n### Example: chain of trusts\nThere is a chain of 3 trusts:\n- Trust 1\n- Trust 2\n- Trust 3.\nTrust 1:\n- has Australian sourced rental income as its only income\n- may have resident or non-resident trustees\n- has one beneficiary, which is Trust 2.\nTrust 2:\n- has a non-resident trustee at the end of the income year\n- is presently entitled to 100% of the income of Trust 1\n- has no other income and no allowable deductions\n- has 5 beneficiaries, each of which is presently entitled to 20% of the income of that trust and not under a legal disability Individual C, who is non-resident for the full year Company D, which is non-resident for the full year Individual E, who is resident for the full year Company F, which is resident for the full year Trust 3.\nTrust 3:\n- has a resident trustee at the end of the income year\n- has no income other than the income flowing from Trust 1, which can't be reduced by any allowable deductions\n- has no presently entitled beneficiary.\nThe information below explains the tax treatment of each of these trusts and beneficiaries.\n### Tax treatment of first trustee\nThe trustee of Trust 1 is taxed on Trust 2's share (100%) of Trust 1's net income. This is because Trust 2 has a non-resident trustee (subsection 98(4) of the ITAA 1936).\nThe tax paid by the trustee of Trust 1 is not a final tax. The ultimate beneficiaries may be able to claim a credit for the tax paid by the trustee of Trust 1.\n### Tax treatment of other trustees in chain\nIf the trustee of Trust 1 has been assessed on an amount that is reasonably attributable to the amount assessed under section 98(4) in respect of Trust 2:\n- the trustee of Trust 2 is not assessed under section 98 on distributions to their non-resident beneficiaries Individual C or Company D\n- the trustee of Trust 3 is not assessed under sections 99 or 99A.\nThe trustee of Trust 2 is not assessed on distributions to their resident beneficiaries.\n### Tax treatment of ultimate beneficiaries\nAn amount (or part of it) that is reasonably attributable to an amount that has been assessed to a trustee under subsection 98(4) may also be assessed to an ultimate individual or company beneficiary.\nBeneficiary is | resident at the end of income year | non-resident at the end of income year\npresently entitled to trust income and not under a legal disability | 97(1) | 98A(3)\nunder a legal disability or deemed to be presently entitled | 100(1), 100(1B) | 98A(3)\nThe ultimate individual and company beneficiaries in respect of an amount (or part of it) that has been assessed to the trustee of Trust 1 are:\n- non-resident Individual C\n- non-resident Company D\n- resident Individual E\n- resident Company F.\nBeneficiaries C and D are assessed under subsection 98A(3) on their share of Trust 2's net income, and section 98B allows them to deduct from their tax payable a portion of the tax paid by the trustee of Trust 1.\nBeneficiaries E and F are assessed under section 97 on their share of Trust 2's net income, and section 98B allows them to deduct from their tax payable a portion of the tax paid by the trustee of Trust 1.\nWhen they lodge their Australian tax returns, each of these beneficiaries can deduct, from their tax payable, 20% of the tax paid by the trustee of Trust 1. This is the same as the proportion of the tax paid by the trustee of Trust 1 that is attributable to the amount ultimately assessed to each beneficiary.\nIf the amount a beneficiary can deduct is more than their tax liability, they are entitled to a refund of the difference (see section 98B).\nHowever, the total amount claimed by all the beneficiaries cannot be more than the total tax paid by the trustee of Trust 1.\nAn ultimate beneficiary can't claim a deduction for the tax the trustee paid if they don't include an amount in their assessable income that is reasonably attributable to the net income on which the trustee of Trust 1 has paid tax under subsection 98(4). For example, if expenses and losses have been offset against that amount as it flows through the chain of trusts – the beneficiary is not entitled to a deduction for the tax the trustee paid.",
+  "child_links": [],
+  "word_count": 1716,
+  "source_title": "Tax on trust distributions to non-resident beneficiaries ...",
+  "source_description": "Tax on trust distributions to non-resident beneficiaries, including trustee beneficiaries in a chain of trusts.",
+  "category": "income-deductions-offsets-and-records"
+}

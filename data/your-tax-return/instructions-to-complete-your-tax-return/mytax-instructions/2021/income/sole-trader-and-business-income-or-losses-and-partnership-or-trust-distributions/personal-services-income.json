@@ -1,0 +1,163 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2021/income/sole-trader-and-business-income-or-losses-and-partnership-or-trust-distributions/personal-services-income",
+  "title": "myTax 2021 Personal services income",
+  "description": "How to report attributed personal services income when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "65558",
+  "date_updated": "2021-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "2021, Personal services income, myTax, e-tax, online tax return, PSI, personal services income, income, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This section relates to personal services income (PSI). Complete this section if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "received income for personal services you provided as a sole trader",
+        "confirmed the PSI rules apply to you , and",
+        "have completed the Business and professional items section."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Personal services income (PSI) is income that is mainly a reward for an individual's personal efforts or skills."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can receive PSI in almost any industry, trade or profession. Some common examples include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "financial professionals",
+        "information technology consultants",
+        "engineers",
+        "construction workers",
+        "medical practitioners",
+        "if you obtain work through an agency."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "PSI doesn't affect you if you're an employee receiving only salaries and wages. If you are operating through an entity, such as a company, partnership or trust, and are an employee of that entity then the PSI rules may still apply."
+    },
+    {
+      "type": "paragraph",
+      "text": "When PSI rules apply, there are limits to deductions that you can claim against this income. In general, an individual who earns PSI is treated as though they are in the same position as an employee. Visit Claiming deductions when receiving PSI to learn more."
+    },
+    {
+      "type": "paragraph",
+      "text": "You generally can't deduct spending on capital assets immediately. Instead you claim the cost over time, reflecting the asset's depreciation (or decline in value). For more information, see Guide to depreciating assets ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're registered or required to register for GST, don't include any GST amounts in your assessable income. Your deductions should not include any amounts that relate to input tax credit entitlements."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Personal services income"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Video tutorial"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following video shows you how to include a labour hire payment in myTax."
+    },
+    {
+      "type": "paragraph",
+      "text": "Media: How to complete myTax if you received labour hire income https://tv.ato.gov.au/ato-tv/media?v=bi9or7on5db7ep External Link ( Duration: 03:21)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "First you will need to complete the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Business and professional items section",
+        "Business income statements and payment summaries section for any of the following where tax has been withheld: Income statement PAYG payment summary – business and personal services income PAYG payment summary – withholding where ABN not quoted, or any payments or grants reported in a Taxable payments annual report (including those shown in a reminder below the Business and professional items section)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your return to show PSI, at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You were a sole trader or had business income or losses, partnership or trust distributions (not from a managed fund)",
+        "Business/Sole trader income or loss",
+        "Personal services income"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your PSI details, at Prepare return select 'Add/Edit' at the Business/sole trader, partnership and trust income (including loss details) banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "Within the Personal services income banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Select Net personal services income to expand the section. Any income amounts entered in Business income statements and payment summaries , where the income type is 'Personal services income' and tax has been withheld, will automatically transfer across and show in the fields Voluntary agreement ABN not quoted Labour hire or other specified payments .",
+        "Add up any other personal services income and enter the amount at Other , including amounts received where either of the following apply No tax has been withheld from Business and personal services income on your income statement or payment summary. There is a reminder below the Business and professional items section that you received payments or grants reported in a Taxable payments annual report where tax has not been withheld. Any amounts invoiced but not actually paid to you in the financial year were not included in this year's Taxable payments annual report.",
+        "Enter the deductions you are eligible to claim in the corresponding fields. See Claiming deductions when receiving PSI to learn more. The Depreciation and capital allowances tool can help you work out any decline in value. It can also work out any deductible balancing adjustment when you stop holding a depreciating asset. Access this tool in the Deductions section on the Prepare return screen. Fields from this tool can't be adjusted in myTax. To make any adjustments, or to add new assets to the tool, select the 'User the depreciation and capital allowances tool' link."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "MyTax will:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "automatically calculate your Net personal services income",
+        "transfer any tax withheld amounts entered in Business income statements and payment summaries and show in the fields: Voluntary agreement ABN not quoted Labour hire or other specified payments ."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Select Save .",
+        "Select Save and continue when you have completed the Business/sole trader, partnership and trust income (including loss details) section."
+      ]
+    }
+  ],
+  "content_text": "This section relates to personal services income (PSI). Complete this section if you:\n- received income for personal services you provided as a sole trader\n- confirmed the PSI rules apply to you , and\n- have completed the Business and professional items section.\n## Things to know\nPersonal services income (PSI) is income that is mainly a reward for an individual's personal efforts or skills.\nYou can receive PSI in almost any industry, trade or profession. Some common examples include:\n- financial professionals\n- information technology consultants\n- engineers\n- construction workers\n- medical practitioners\n- if you obtain work through an agency.\nPSI doesn't affect you if you're an employee receiving only salaries and wages. If you are operating through an entity, such as a company, partnership or trust, and are an employee of that entity then the PSI rules may still apply.\nWhen PSI rules apply, there are limits to deductions that you can claim against this income. In general, an individual who earns PSI is treated as though they are in the same position as an employee. Visit Claiming deductions when receiving PSI to learn more.\nYou generally can't deduct spending on capital assets immediately. Instead you claim the cost over time, reflecting the asset's depreciation (or decline in value). For more information, see Guide to depreciating assets .\nIf you're registered or required to register for GST, don't include any GST amounts in your assessable income. Your deductions should not include any amounts that relate to input tax credit entitlements.\nSee also :\n- Personal services income\n### Video tutorial\nThe following video shows you how to include a labour hire payment in myTax.\nMedia: How to complete myTax if you received labour hire income https://tv.ato.gov.au/ato-tv/media?v=bi9or7on5db7ep External Link ( Duration: 03:21)\n## Completing this section\nFirst you will need to complete the:\n- Business and professional items section\n- Business income statements and payment summaries section for any of the following where tax has been withheld: Income statement PAYG payment summary – business and personal services income PAYG payment summary – withholding where ABN not quoted, or any payments or grants reported in a Taxable payments annual report (including those shown in a reminder below the Business and professional items section).\nTo personalise your return to show PSI, at Personalise return select:\n- You were a sole trader or had business income or losses, partnership or trust distributions (not from a managed fund)\n- Business/Sole trader income or loss\n- Personal services income\nTo show your PSI details, at Prepare return select 'Add/Edit' at the Business/sole trader, partnership and trust income (including loss details) banner.\nWithin the Personal services income banner:\n- Select Net personal services income to expand the section. Any income amounts entered in Business income statements and payment summaries , where the income type is 'Personal services income' and tax has been withheld, will automatically transfer across and show in the fields Voluntary agreement ABN not quoted Labour hire or other specified payments .\n- Add up any other personal services income and enter the amount at Other , including amounts received where either of the following apply No tax has been withheld from Business and personal services income on your income statement or payment summary. There is a reminder below the Business and professional items section that you received payments or grants reported in a Taxable payments annual report where tax has not been withheld. Any amounts invoiced but not actually paid to you in the financial year were not included in this year's Taxable payments annual report.\n- Enter the deductions you are eligible to claim in the corresponding fields. See Claiming deductions when receiving PSI to learn more. The Depreciation and capital allowances tool can help you work out any decline in value. It can also work out any deductible balancing adjustment when you stop holding a depreciating asset. Access this tool in the Deductions section on the Prepare return screen. Fields from this tool can't be adjusted in myTax. To make any adjustments, or to add new assets to the tool, select the 'User the depreciation and capital allowances tool' link.\nMyTax will:\n- automatically calculate your Net personal services income\n- transfer any tax withheld amounts entered in Business income statements and payment summaries and show in the fields: Voluntary agreement ABN not quoted Labour hire or other specified payments .\n- Select Save .\n- Select Save and continue when you have completed the Business/sole trader, partnership and trust income (including loss details) section.",
+  "child_links": [],
+  "word_count": 758,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

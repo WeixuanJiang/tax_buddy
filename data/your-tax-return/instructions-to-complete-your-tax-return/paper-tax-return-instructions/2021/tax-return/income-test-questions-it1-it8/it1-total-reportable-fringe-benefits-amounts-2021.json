@@ -1,0 +1,132 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2021/tax-return/income-test-questions-it1-it8/it1-total-reportable-fringe-benefits-amounts-2021",
+  "title": "IT1 Total reportable fringe benefits amounts 2021",
+  "description": "Complete question IT1 to include any fringe benefits amounts you received from your employer.",
+  "nat_number": "",
+  "quick_code": "64753",
+  "date_updated": "2021-05-26T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, income tests, reportable fringe benefits, 2021, tax return, IT1, paper tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about reportable fringe benefits amounts that you received. Do not show any benefit less than $3,773."
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you receive any reportable fringe benefits amounts of $3,773 or more?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Write 0 at both N and W item IT1 , then go to question IT2 Reportable employer superannuation contributions 2021 , or return to main menu Individual tax return instructions 2021 ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Neither the amount at W item IT1 , nor the amount at S in Spouse details , are adjusted down by:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the dependant (invalid and invalid carer) tax offset",
+        "the zone and overseas forces tax offset",
+        "the seniors and pensioners tax offset",
+        "the low income superannuation tax offset."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need each income statement, PAYG payment summary – individual non-business and PAYG payment summary – foreign employment you received that shows reportable fringe benefits amounts."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Reportable fringe benefits – facts for employees"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a reportable fringe benefits amount shown on your payment summary or income statement is less than $3,773, do not include it in step 1 or step 2. Check with your employer that the amount is correct."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the reportable fringe benefits amounts shown on your:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "payment summaries with Yes selected at Is the employer exempt from FBT under section 57A of the FBTAA 1986?",
+        "income statements at Reportable fringe benefits – exempt amount .",
+        "Write the total at N item IT1 . If your total is 0 , write 0 at N ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the reportable fringe benefits amounts shown on your:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "payment summaries with No selected at Is the employer exempt from FBT under section 57A of the FBTAA 1986?",
+        "income statements at Reportable fringe benefits – non-exempt amount .",
+        "Write the total at W item IT1 . If your total is 0 , write 0 at W ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question IT2 Reportable employer superannuation contributions 2021 .",
+        "Return to main menu Individual tax return instructions 2021 .",
+        "Go back to Income tests 2021 ."
+      ]
+    }
+  ],
+  "content_text": "This question is about reportable fringe benefits amounts that you received. Do not show any benefit less than $3,773.\nDid you receive any reportable fringe benefits amounts of $3,773 or more?\nNo | Write 0 at both N and W item IT1 , then go to question IT2 Reportable employer superannuation contributions 2021 , or return to main menu Individual tax return instructions 2021 .\nYes | Read on.\nNeither the amount at W item IT1 , nor the amount at S in Spouse details , are adjusted down by:\n- the dependant (invalid and invalid carer) tax offset\n- the zone and overseas forces tax offset\n- the seniors and pensioners tax offset\n- the low income superannuation tax offset.\n## Answering this question\nYou will need each income statement, PAYG payment summary – individual non-business and PAYG payment summary – foreign employment you received that shows reportable fringe benefits amounts.\nSee also:\n- Reportable fringe benefits – facts for employees\n## Completing your tax return\nIf a reportable fringe benefits amount shown on your payment summary or income statement is less than $3,773, do not include it in step 1 or step 2. Check with your employer that the amount is correct.\n### Step 1\nAdd up all the reportable fringe benefits amounts shown on your:\n- payment summaries with Yes selected at Is the employer exempt from FBT under section 57A of the FBTAA 1986?\n- income statements at Reportable fringe benefits – exempt amount .\n- Write the total at N item IT1 . If your total is 0 , write 0 at N .\n### Step 2\nAdd up all the reportable fringe benefits amounts shown on your:\n- payment summaries with No selected at Is the employer exempt from FBT under section 57A of the FBTAA 1986?\n- income statements at Reportable fringe benefits – non-exempt amount .\n- Write the total at W item IT1 . If your total is 0 , write 0 at W .\n## Where to go next\n- Go to question IT2 Reportable employer superannuation contributions 2021 .\n- Return to main menu Individual tax return instructions 2021 .\n- Go back to Income tests 2021 .",
+  "child_links": [],
+  "word_count": 369,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,110 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2014/tax-offsets/adjusted-taxable-income",
+  "title": "Adjusted taxable income",
+  "description": "Work out your adjusted taxable income and if you're eligible for certain tax offsets.",
+  "nat_number": "",
+  "quick_code": "38856",
+  "date_updated": "2014-06-12T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Adjusted taxable income (ATI) is an amount that is used most commonly to determine eligibility for certain tax offsets."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following amounts are used to calculate a person’s ATI:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "taxable income",
+        "reportable employer superannuation contributions",
+        "deductible personal superannuation contributions",
+        "adjusted fringe benefits",
+        "certain tax-free government pensions or benefits received by the person."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your dependent child or student's ATI use the ATI worksheet below."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Adjusted taxable income (ATI) worksheet"
+        ],
+        [
+          "",
+          "Dependant 1",
+          "Dependant 2",
+          "Dependant 3"
+        ],
+        [
+          "The period for which you need to work out the person's ATI",
+          "from",
+          "",
+          "",
+          ""
+        ],
+        [
+          "to",
+          "",
+          "",
+          ""
+        ],
+        [
+          "The person’s taxable income. If taxable income is a loss, write 0",
+          "",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "The person’s reportable employer superannuation contributions",
+          "",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "The person’s deductible personal superannuation contributions",
+          "",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "The person’s tax-free government pensions or benefits",
+          "",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "The person’s total reportable fringe benefits amounts, multiplied by 0.535 and rounded down to the nearest dollar",
+          "",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "Add all the amounts from above. This is the ATI.",
+          "",
+          "$",
+          "$",
+          "$"
+        ]
+      ]
+    }
+  ],
+  "content_text": "Adjusted taxable income (ATI) is an amount that is used most commonly to determine eligibility for certain tax offsets.\nThe following amounts are used to calculate a person’s ATI:\n- taxable income\n- reportable employer superannuation contributions\n- deductible personal superannuation contributions\n- adjusted fringe benefits\n- certain tax-free government pensions or benefits received by the person.\nTo work out your dependent child or student's ATI use the ATI worksheet below.\nAdjusted taxable income (ATI) worksheet\n | Dependant 1 | Dependant 2 | Dependant 3\nThe period for which you need to work out the person's ATI | from |  |  | \nto |  |  | \nThe person’s taxable income. If taxable income is a loss, write 0 |  | $ | $ | $\nThe person’s reportable employer superannuation contributions |  | $ | $ | $\nThe person’s deductible personal superannuation contributions |  | $ | $ | $\nThe person’s tax-free government pensions or benefits |  | $ | $ | $\nThe person’s total reportable fringe benefits amounts, multiplied by 0.535 and rounded down to the nearest dollar |  | $ | $ | $\nAdd all the amounts from above. This is the ATI. |  | $ | $ | $",
+  "child_links": [],
+  "word_count": 206,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

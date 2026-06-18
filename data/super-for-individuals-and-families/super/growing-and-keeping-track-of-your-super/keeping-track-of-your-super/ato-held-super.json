@@ -1,0 +1,404 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/super/growing-and-keeping-track-of-your-super/keeping-track-of-your-super/ato-held-super",
+  "title": "ATO-held super",
+  "description": "Find out if the ATO holds super that belongs to you, how you can recover and transfer it into an account of your choice.",
+  "nat_number": "74131",
+  "quick_code": "25544",
+  "date_updated": "2026-05-10T14:00:00Z",
+  "first_published": "",
+  "keywords": "ATO held super, unclaimed super, usm, low balance super, inactive super, superannuation holding account",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where ATO-held super comes from"
+    },
+    {
+      "type": "paragraph",
+      "text": "ATO-held super is super money we hold for you but which should be in your retirement savings. It includes unclaimed superannuation money (USM) and money held in the Superannuation Holding Account (SHA)."
+    },
+    {
+      "type": "paragraph",
+      "text": "ATO-held super includes amounts paid by employers, super funds and the government."
+    },
+    {
+      "type": "paragraph",
+      "text": "If we hold your super, you can consolidate or claim it from us once you've met certain conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "To find out if you have ATO-held super, use either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "our online services sign in to myGov External Link select Australian Taxation Office select Super, then Fund details",
+        "the ATO app ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Employer super guarantee payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your employer has not paid the right amount of super for you , they have to pay the gap to us. We hold the money on your behalf if it can't be paid into an active account."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Government super contributions"
+    },
+    {
+      "type": "paragraph",
+      "text": "The government helps low and middle-income earners to boost their super savings by matching some or all of their personal contributions in the form of a super co-contribution ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Unclaimed super money received from super funds"
+    },
+    {
+      "type": "paragraph",
+      "text": "Super funds must report and pay lost or unclaimed super benefits to us for account holders who are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "aged 65 years or over, haven't made a contribution for the past 2 years and who the fund has been unable to contact for 5 years",
+        "deceased, and the fund has been unable to pay their benefit to the rightful owner",
+        "former temporary Australian residents , after 6 months of leaving Australia or their visa having expired or cancelled",
+        "party to a divorce and whose ex-spouse is entitled to the super benefit, and the fund is unable to contact the ex-spouse",
+        "lost members whose account balance is less than $6,000",
+        "lost members whose accounts have been inactive for 12 months, and the fund doesn't have the information needed to pay them",
+        "members with inactive low-balance accounts",
+        "members for whom their super fund has paid amounts to us on a voluntary basis."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a beneficiary of a deceased person , you may be able to claim their USM."
+    },
+    {
+      "type": "paragraph",
+      "text": "For your super account to not be taken as an inactive low-balance account, you will need to give a written notice to your super fund declaring you're not a member with an inactive low-balance account. The written notice is valid for 16 months."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Superannuation holding account (SHA) special account"
+    },
+    {
+      "type": "paragraph",
+      "text": "The SHA special account is a holding account designed to protect your small super amounts, until they can be transferred into a super fund or retirement savings account. It is not a trust fund or super fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "We deposit government super contributions or super guarantee payments that have not been paid to a fund into a SHA special account."
+    },
+    {
+      "type": "paragraph",
+      "text": "If there has been no account activity for 10 years, it becomes an inactive account."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Transferring ATO-held super to your super account"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have ATO-held super, you can use ATO online services or the ATO app to nominate the eligible super fund you would like to transfer the money to. This is the quickest way to transfer any ATO-held super to your preferred fund. In ATO online services – select Super , then Manage , then Transfer super ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you registered your device using the ATO app, you will need to verify the request to transfer super in the app before it's submitted. For more information, go to managing your tax and super with the ATO app ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Super Health Check has step-by-step instructions on checking for lost super and transferring or withdrawing ATO-held super."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you can't use our online services, you can phone us ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "When will we transfer ATO-held super"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the following circumstances, we will initiate the transfer of certain types of ATO-held super to an eligible (active) super account on your behalf:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the amount of ATO-held super is $200 or more",
+        "you are aged less than 65 years",
+        "you have not made a request to transfer ATO-held super to your preferred super fund."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Where possible, we will notify you if we do this."
+    },
+    {
+      "type": "paragraph",
+      "text": "An eligible, active super account is one that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "is held by a living person",
+        "is in accumulation phase",
+        "accepts government rollovers",
+        "has received a contribution in the current or previous financial year",
+        "has a balance of $6,000 or more after the transfer of ATO-held super."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For self-managed superannuation funds (SMSF), the fund also needs to have a status of complying or registered on Super Fund Lookup External Link ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If there is more than one eligible active account, the rules provide we select the account as follows:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "account most recently received a rollover from the ATO within the current financial year, or",
+        "account most recently received a contribution within the current or previous financial year, or",
+        "account with the largest balance at the end of the last financial year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If following these rules doesn't return one eligible active account, the ATO will determine where to send ATO-held super."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Direct payment of ATO-held super"
+    },
+    {
+      "type": "paragraph",
+      "text": "We will make a direct payment to you of your ATO-held super if you're aged 65 years or over . Where possible, you will be notified if we have made payments to you. We will also make a direct payment of unclaimed superannuation money where the amount is less than $200."
+    },
+    {
+      "type": "paragraph",
+      "text": "To ensure you receive your ATO-held super money, we encourage you to check and update your financial institution details with us. You can do this through ATO online services . Select My profile , then Financial institution details ."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a direct payment of ATO-held super less than $200 is not subject to tax and has no tax withheld, you don't need to include this amount in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may also be able to withdraw your ATO-held super if you meet the general conditions of release of superannuation."
+    },
+    {
+      "type": "paragraph",
+      "text": "If eligible, you can apply using ATO online services . Select Super , then Manage , then Withdraw ATO-held super . Alternatively, use the paper form Application for payment of ATO-held superannuation money ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Unclaimed super for 65 years of age or over"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are aged 65 years or over and we receive any unclaimed super money for you from your super fund, we may make a direct lump sum payment to you (where possible). In this case, your super money will be withdrawn from the superannuation system."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't wish us to make a direct lump sum payment to you of your ATO-held unclaimed super, you must request a super fund nomination which can only be made over the phone."
+    },
+    {
+      "type": "paragraph",
+      "text": "This will enable the ATO to directly pay these amounts to your nominated super fund if eligible . You should make this request before we receive any unclaimed superannuation from your super fund."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Temporary resident claims"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a temporary resident who has left Australia and your visa has expired, you can claim your super as a Departing Australia superannuation payment (DASP)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't claim your super within 6 months of departing Australia and your visa expiring, your super will be transferred to the ATO as unclaimed super money. You can claim your super at any time."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on eligibility and how you can claim DASP, see Departing Australia superannuation payment (DASP) ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Transferring ATO-held USM to New Zealand"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have permanently emigrated to New Zealand (or are a New Zealand citizen) and have received superannuation while working in Australia, you may be eligible to transfer your ATO-held USM to a New Zealand KiwiSaver scheme provider."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Trans-Tasman retirement savings transfers ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Statement of accounts for ATO-held super"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may receive a statement of account (SOA) for your ATO-held super if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a direct payment has been made to you",
+        "an overpayment has been made direct to you and we're requesting you repay the amount",
+        "you have incurred a penalty",
+        "we have offset a credit to other current tax debts, debts we previously put on hold or debts you have with other government agencies",
+        "you're entitled to a government contribution and it has not yet been distributed to a super fund on your behalf",
+        "we have received a super entitlement from a third party (such as an employer or super fund) and it has not yet been distributed to a super fund on your behalf",
+        "we have received a request for an SOA."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Understanding your statement of account"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your SOA will include either a refund cheque or electronic funds transfer details. It will also list transactions that occurred over the period covered by the statement."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Transaction list"
+    },
+    {
+      "type": "paragraph",
+      "text": "A debit amount is an amount debited to your account such as a penalty, refund or overpayment."
+    },
+    {
+      "type": "paragraph",
+      "text": "A credit is an amount credited to your account such as credit interest, payment or an amount waiting to be paid into your super fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can find out the current balance of your account and details of other accounts by phoning us on 13 28 61 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Making a payment"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need to make a payment, use the payment reference details on your SOA. This ensures that the amount is applied to the correct sub-accounts (such as co-contribution recovery)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your payment results in a credit on one of your sub-accounts, we don't automatically use this credit to pay a debt on another sub-account."
+    },
+    {
+      "type": "paragraph",
+      "text": "You make a payment to us by BPAY® or electronic funds transfer (EFT)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to specify which sub-accounts you are paying, by using the following payment reference details. If you don’t, we will allocate the amount to one of your debts according to a payment hierarchy which may not include the debt you wanted to pay."
+    },
+    {
+      "type": "paragraph",
+      "text": "BPAY details for unclaimed super money"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Biller code",
+          "75556"
+        ],
+        [
+          "Customer reference number",
+          "123 00123 456 789 1234"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Return payment details for unclaimed super money"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Return payment EFT code",
+          "123 00123 456 789 1234"
+        ],
+        [
+          "BSB number",
+          "093 003"
+        ],
+        [
+          "Account number",
+          "316385"
+        ],
+        [
+          "Account name",
+          "ATO deposits trust"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're having difficulty making your payment by the due date, phone us on 13 28 61 to discuss options."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on making a payment, visit How to pay ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "General interest charge"
+    },
+    {
+      "type": "paragraph",
+      "text": "The general interest charge (GIC) applies to some unpaid superannuation debts. If GIC has been applied, details are included in the transactions list in your account summary in ATO online services."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where any amount is not paid by the due date, GIC accrues on the outstanding balance until the entire amount has been paid. Interest is calculated on a daily compounding basis."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can request a remission of some or all of your GIC. We may remit the GIC if you have extenuating circumstances which caused your delay in payment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Interest credited to your superannuation holding account (SHA) special account in this statement period is only paid on the first $1,200."
+    }
+  ],
+  "content_text": "## Where ATO-held super comes from\nATO-held super is super money we hold for you but which should be in your retirement savings. It includes unclaimed superannuation money (USM) and money held in the Superannuation Holding Account (SHA).\nATO-held super includes amounts paid by employers, super funds and the government.\nIf we hold your super, you can consolidate or claim it from us once you've met certain conditions.\nTo find out if you have ATO-held super, use either:\n- our online services sign in to myGov External Link select Australian Taxation Office select Super, then Fund details\n- the ATO app .\n### Employer super guarantee payments\nIf your employer has not paid the right amount of super for you , they have to pay the gap to us. We hold the money on your behalf if it can't be paid into an active account.\n### Government super contributions\nThe government helps low and middle-income earners to boost their super savings by matching some or all of their personal contributions in the form of a super co-contribution .\n### Unclaimed super money received from super funds\nSuper funds must report and pay lost or unclaimed super benefits to us for account holders who are:\n- aged 65 years or over, haven't made a contribution for the past 2 years and who the fund has been unable to contact for 5 years\n- deceased, and the fund has been unable to pay their benefit to the rightful owner\n- former temporary Australian residents , after 6 months of leaving Australia or their visa having expired or cancelled\n- party to a divorce and whose ex-spouse is entitled to the super benefit, and the fund is unable to contact the ex-spouse\n- lost members whose account balance is less than $6,000\n- lost members whose accounts have been inactive for 12 months, and the fund doesn't have the information needed to pay them\n- members with inactive low-balance accounts\n- members for whom their super fund has paid amounts to us on a voluntary basis.\nIf you are a beneficiary of a deceased person , you may be able to claim their USM.\nFor your super account to not be taken as an inactive low-balance account, you will need to give a written notice to your super fund declaring you're not a member with an inactive low-balance account. The written notice is valid for 16 months.\n### Superannuation holding account (SHA) special account\nThe SHA special account is a holding account designed to protect your small super amounts, until they can be transferred into a super fund or retirement savings account. It is not a trust fund or super fund.\nWe deposit government super contributions or super guarantee payments that have not been paid to a fund into a SHA special account.\nIf there has been no account activity for 10 years, it becomes an inactive account.\n## Transferring ATO-held super to your super account\nIf you have ATO-held super, you can use ATO online services or the ATO app to nominate the eligible super fund you would like to transfer the money to. This is the quickest way to transfer any ATO-held super to your preferred fund. In ATO online services – select Super , then Manage , then Transfer super .\nIf you registered your device using the ATO app, you will need to verify the request to transfer super in the app before it's submitted. For more information, go to managing your tax and super with the ATO app .\nThe Super Health Check has step-by-step instructions on checking for lost super and transferring or withdrawing ATO-held super.\nIf you can't use our online services, you can phone us .\n### When will we transfer ATO-held super\nIn the following circumstances, we will initiate the transfer of certain types of ATO-held super to an eligible (active) super account on your behalf:\n- the amount of ATO-held super is $200 or more\n- you are aged less than 65 years\n- you have not made a request to transfer ATO-held super to your preferred super fund.\nWhere possible, we will notify you if we do this.\nAn eligible, active super account is one that:\n- is held by a living person\n- is in accumulation phase\n- accepts government rollovers\n- has received a contribution in the current or previous financial year\n- has a balance of $6,000 or more after the transfer of ATO-held super.\nFor self-managed superannuation funds (SMSF), the fund also needs to have a status of complying or registered on Super Fund Lookup External Link .\nIf there is more than one eligible active account, the rules provide we select the account as follows:\n- account most recently received a rollover from the ATO within the current financial year, or\n- account most recently received a contribution within the current or previous financial year, or\n- account with the largest balance at the end of the last financial year.\nIf following these rules doesn't return one eligible active account, the ATO will determine where to send ATO-held super.\n## Direct payment of ATO-held super\nWe will make a direct payment to you of your ATO-held super if you're aged 65 years or over . Where possible, you will be notified if we have made payments to you. We will also make a direct payment of unclaimed superannuation money where the amount is less than $200.\nTo ensure you receive your ATO-held super money, we encourage you to check and update your financial institution details with us. You can do this through ATO online services . Select My profile , then Financial institution details .\nAs a direct payment of ATO-held super less than $200 is not subject to tax and has no tax withheld, you don't need to include this amount in your tax return.\nYou may also be able to withdraw your ATO-held super if you meet the general conditions of release of superannuation.\nIf eligible, you can apply using ATO online services . Select Super , then Manage , then Withdraw ATO-held super . Alternatively, use the paper form Application for payment of ATO-held superannuation money .\n### Unclaimed super for 65 years of age or over\nIf you are aged 65 years or over and we receive any unclaimed super money for you from your super fund, we may make a direct lump sum payment to you (where possible). In this case, your super money will be withdrawn from the superannuation system.\nIf you don't wish us to make a direct lump sum payment to you of your ATO-held unclaimed super, you must request a super fund nomination which can only be made over the phone.\nThis will enable the ATO to directly pay these amounts to your nominated super fund if eligible . You should make this request before we receive any unclaimed superannuation from your super fund.\n### Temporary resident claims\nIf you are a temporary resident who has left Australia and your visa has expired, you can claim your super as a Departing Australia superannuation payment (DASP).\nIf you don't claim your super within 6 months of departing Australia and your visa expiring, your super will be transferred to the ATO as unclaimed super money. You can claim your super at any time.\nFor more information on eligibility and how you can claim DASP, see Departing Australia superannuation payment (DASP) .\n### Transferring ATO-held USM to New Zealand\nIf you have permanently emigrated to New Zealand (or are a New Zealand citizen) and have received superannuation while working in Australia, you may be eligible to transfer your ATO-held USM to a New Zealand KiwiSaver scheme provider.\nFor more information, see Trans-Tasman retirement savings transfers .\n## Statement of accounts for ATO-held super\nYou may receive a statement of account (SOA) for your ATO-held super if:\n- a direct payment has been made to you\n- an overpayment has been made direct to you and we're requesting you repay the amount\n- you have incurred a penalty\n- we have offset a credit to other current tax debts, debts we previously put on hold or debts you have with other government agencies\n- you're entitled to a government contribution and it has not yet been distributed to a super fund on your behalf\n- we have received a super entitlement from a third party (such as an employer or super fund) and it has not yet been distributed to a super fund on your behalf\n- we have received a request for an SOA.\n### Understanding your statement of account\nYour SOA will include either a refund cheque or electronic funds transfer details. It will also list transactions that occurred over the period covered by the statement.\n#### Transaction list\nA debit amount is an amount debited to your account such as a penalty, refund or overpayment.\nA credit is an amount credited to your account such as credit interest, payment or an amount waiting to be paid into your super fund.\nYou can find out the current balance of your account and details of other accounts by phoning us on 13 28 61 .\n### Making a payment\nIf you need to make a payment, use the payment reference details on your SOA. This ensures that the amount is applied to the correct sub-accounts (such as co-contribution recovery).\nIf your payment results in a credit on one of your sub-accounts, we don't automatically use this credit to pay a debt on another sub-account.\nYou make a payment to us by BPAY® or electronic funds transfer (EFT).\nYou need to specify which sub-accounts you are paying, by using the following payment reference details. If you don’t, we will allocate the amount to one of your debts according to a payment hierarchy which may not include the debt you wanted to pay.\nBPAY details for unclaimed super money\nBiller code | 75556\nCustomer reference number | 123 00123 456 789 1234\nReturn payment details for unclaimed super money\nReturn payment EFT code | 123 00123 456 789 1234\nBSB number | 093 003\nAccount number | 316385\nAccount name | ATO deposits trust\nIf you're having difficulty making your payment by the due date, phone us on 13 28 61 to discuss options.\nFor more information on making a payment, visit How to pay .\n### General interest charge\nThe general interest charge (GIC) applies to some unpaid superannuation debts. If GIC has been applied, details are included in the transactions list in your account summary in ATO online services.\nWhere any amount is not paid by the due date, GIC accrues on the outstanding balance until the entire amount has been paid. Interest is calculated on a daily compounding basis.\nYou can request a remission of some or all of your GIC. We may remit the GIC if you have extenuating circumstances which caused your delay in payment.\nInterest credited to your superannuation holding account (SHA) special account in this statement period is only paid on the first $1,200.",
+  "child_links": [],
+  "word_count": 1848,
+  "source_title": "",
+  "source_description": "",
+  "category": "super-for-individuals-and-families"
+}

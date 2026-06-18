@@ -1,0 +1,209 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/tax-offsets/small-business-income-tax-offset/net-small-business-income-from-sole-trading-activities",
+  "title": "Net small business income (from sole trading activities)",
+  "description": "Use this guide to work out your net small business income so we can calculate your tax offset.",
+  "nat_number": "",
+  "quick_code": "80426",
+  "date_updated": "2018-06-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "If you are a small business entity with a turnover of less than $5 million, you need to work out your net small business income so we can calculate your tax offset. The maximum offset is $1,000 per year per person from all your sources of small business income."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your net small business income is your assessable income from carrying on your business less your deductions to the extent that they are attributable to that assessable income."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you carry on multiple businesses combine the profit or loss from each business activity to work out your net small business income from all your businesses. If one or more of your business activities made a loss you must first apply the non-commercial loss rules to work out how each loss is to be treated. Any loss you are unable to claim because of these rules is not taken into account in working out net small business income."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use your Total primary production net income or loss from business and Total non-primary production net income or loss from business amounts as your starting point for working out your net small business income. Any prior year deferred non-commercial losses being claimed as a deduction this year are already included in the amounts. You do not need to include them again in your net small business income calculation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "any net capital gains you made from assets used in carrying on your business",
+        "any personal services income unless you were a personal services business",
+        "any of the following deductions tax-related expenses gifts or contributions personal superannuation contributions tax losses from prior years."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Working out your net small business income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you have either of the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "business income or deductions shown at sections other than Total primary production net income or loss from business and Total non-primary production net income or loss from business (see worksheet 1 for a list)",
+        "business losses that are not deductible under the non-commercial loss rules?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "No – Add the amount at Total primary production net income or loss from business and Total non-primary production net income or loss from business , a negative amount will offset a positive amount. This is the amount you need to show at Net small business income (from sole trading activities)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes – go to Step 2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the worksheet below to adjust your Total primary production net income or loss from business and Total non-primary production net income or loss from business amounts. Show these amounts at rows a and b in the worksheet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "If any business losses are not allowable deductions for non-commercial loss purposes show them at row h . If the loss includes a net capital gain, deduct the amount of net capital gain from the loss and show the result at row h ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the amounts at rows a to h and deduct the amount at rows j and k . Show the result at row m . If the result is positive this is your net small business income. If the result is a loss, use 0 . This is the amount you need to show at Net small business income (from sole trading activities)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Worksheet 1"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation elements",
+          "Amount"
+        ],
+        [
+          "a",
+          "Total primary production net income or loss from business If this amount is a negative show it in brackets",
+          "$"
+        ],
+        [
+          "b",
+          "Total non-primary production net income or loss from business If this amount is a negative show it in brackets",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation elements",
+          "Amount"
+        ],
+        [
+          "c",
+          "'Early repayments – natural disaster and drought' or 'Other repayments' at Net farm management deposits or repayments relating to the business",
+          "$"
+        ],
+        [
+          "d",
+          "Foreign source business income at Foreign income, assets and entities",
+          "$"
+        ],
+        [
+          "e",
+          "Business interest income (do not include interest on an FMD as it is not business interest income)",
+          "$"
+        ],
+        [
+          "f",
+          "Business dividend income",
+          "$"
+        ],
+        [
+          "g",
+          "Other business income not already shown at Business income or losses",
+          "$"
+        ],
+        [
+          "h",
+          "Business losses which are not allowable deductions (excluding any net capital gains)",
+          "$"
+        ],
+        [
+          "i",
+          "Add the amounts at rows a to h above",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation elements",
+          "Amount"
+        ],
+        [
+          "j",
+          "'Deductible deposits' at Net farm management deposits or repayments relating to the business",
+          "$"
+        ],
+        [
+          "k",
+          "Other business deductions not already claimed at Business income or losses",
+          "$"
+        ],
+        [
+          "l",
+          "Add the amounts at rows j and k",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation elements",
+          "Amount"
+        ],
+        [
+          "m",
+          "Take the amount at row l away from the amount at row i . If the result is positive this is your net small business income. If the result is a loss use 0 .",
+          "$"
+        ]
+      ]
+    }
+  ],
+  "content_text": "If you are a small business entity with a turnover of less than $5 million, you need to work out your net small business income so we can calculate your tax offset. The maximum offset is $1,000 per year per person from all your sources of small business income.\nYour net small business income is your assessable income from carrying on your business less your deductions to the extent that they are attributable to that assessable income.\nIf you carry on multiple businesses combine the profit or loss from each business activity to work out your net small business income from all your businesses. If one or more of your business activities made a loss you must first apply the non-commercial loss rules to work out how each loss is to be treated. Any loss you are unable to claim because of these rules is not taken into account in working out net small business income.\nUse your Total primary production net income or loss from business and Total non-primary production net income or loss from business amounts as your starting point for working out your net small business income. Any prior year deferred non-commercial losses being claimed as a deduction this year are already included in the amounts. You do not need to include them again in your net small business income calculation.\nDo not include:\n- any net capital gains you made from assets used in carrying on your business\n- any personal services income unless you were a personal services business\n- any of the following deductions tax-related expenses gifts or contributions personal superannuation contributions tax losses from prior years.\n## Working out your net small business income\nStep 1\nDid you have either of the following:\n- business income or deductions shown at sections other than Total primary production net income or loss from business and Total non-primary production net income or loss from business (see worksheet 1 for a list)\n- business losses that are not deductible under the non-commercial loss rules?\nNo – Add the amount at Total primary production net income or loss from business and Total non-primary production net income or loss from business , a negative amount will offset a positive amount. This is the amount you need to show at Net small business income (from sole trading activities).\nYes – go to Step 2 .\nStep 2\nUse the worksheet below to adjust your Total primary production net income or loss from business and Total non-primary production net income or loss from business amounts. Show these amounts at rows a and b in the worksheet.\nStep 3\nIf any business losses are not allowable deductions for non-commercial loss purposes show them at row h . If the loss includes a net capital gain, deduct the amount of net capital gain from the loss and show the result at row h .\nStep 4\nAdd up all the amounts at rows a to h and deduct the amount at rows j and k . Show the result at row m . If the result is positive this is your net small business income. If the result is a loss, use 0 . This is the amount you need to show at Net small business income (from sole trading activities).\nWorksheet 1\nRow | Calculation elements | Amount\na | Total primary production net income or loss from business If this amount is a negative show it in brackets | $\nb | Total non-primary production net income or loss from business If this amount is a negative show it in brackets | $\nRow | Calculation elements | Amount\nc | 'Early repayments – natural disaster and drought' or 'Other repayments' at Net farm management deposits or repayments relating to the business | $\nd | Foreign source business income at Foreign income, assets and entities | $\ne | Business interest income (do not include interest on an FMD as it is not business interest income) | $\nf | Business dividend income | $\ng | Other business income not already shown at Business income or losses | $\nh | Business losses which are not allowable deductions (excluding any net capital gains) | $\ni | Add the amounts at rows a to h above | $\nRow | Calculation elements | Amount\nj | 'Deductible deposits' at Net farm management deposits or repayments relating to the business | $\nk | Other business deductions not already claimed at Business income or losses | $\nl | Add the amounts at rows j and k | $\nRow | Calculation elements | Amount\nm | Take the amount at row l away from the amount at row i . If the result is positive this is your net small business income. If the result is a loss use 0 . | $",
+  "child_links": [],
+  "word_count": 814,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

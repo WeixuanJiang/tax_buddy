@@ -1,0 +1,819 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2018/supporting-information/westfield-group-takeover-by-unibail-rodamco-se-2018/appendix-a-how-to-work-out-the-cost-base-of-your-wat-units-wfdt-units-and-wcl-shares/definitions",
+  "title": "Definitions",
+  "description": "",
+  "nat_number": "",
+  "quick_code": "80690",
+  "date_updated": "2018-08-26T14:00:00Z",
+  "first_published": "",
+  "keywords": "WCL, definitions, calculations",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "WCL = Westfield Corporation Limited (after June 2014)"
+    },
+    {
+      "type": "paragraph",
+      "text": "WFDT = WFD Trust (after June 2014)"
+    },
+    {
+      "type": "paragraph",
+      "text": "WAT = Westfield America Trust"
+    },
+    {
+      "type": "paragraph",
+      "text": "WHL = Westfield Holdings Limited (prior to June 2014)"
+    },
+    {
+      "type": "paragraph",
+      "text": "WFT = Westfield Trust (prior to June 2014)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Calculations for examples"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Event",
+          "WHL/WCL",
+          "WFT/WFDT",
+          "WAT",
+          "Calculation description"
+        ],
+        [
+          "Acquisition 1/09/2015 ($10)",
+          "1.638",
+          "6.022",
+          "2.34",
+          "Allocate purchase price based on NTA table as at 30 June 2015"
+        ],
+        [
+          "-",
+          "-",
+          "-0.1619",
+          "-0.109",
+          "Subtract deferred tax amounts between September 2015 and June 2018"
+        ],
+        [
+          "Just before 2018 restructure",
+          "1.638",
+          "5.8601",
+          "2.231",
+          "Cost base just before 7 June 2018 restructure."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Event",
+          "WHL/WCL",
+          "WFT/WFDT",
+          "WAT",
+          "Calculation Description"
+        ],
+        [
+          "Acquisition 1/09/2005 ($6)",
+          "0.4266",
+          "3.1170",
+          "2.4564",
+          "Allocate purchase price based on NTA table as at 30 June 2005"
+        ],
+        [
+          "-",
+          "-",
+          "-1.4016",
+          "-1.4063",
+          "Subtract deferred tax amounts between September 2005 and December 2010"
+        ],
+        [
+          "Just prior 2010 restructure",
+          "0.4266",
+          "1.7154",
+          "1.0501",
+          "-"
+        ],
+        [
+          "2010 restructure event",
+          "-",
+          "x0.59",
+          "-",
+          "Make adjustment to WFT"
+        ],
+        [
+          "Just after 2010 restructure",
+          "0.4266",
+          "1.0121",
+          "1.0501",
+          "-"
+        ],
+        [
+          "-",
+          "-",
+          "-0.2690",
+          "-0.1946",
+          "Subtract deferred tax amounts between December 2010 and June 2014"
+        ],
+        [
+          "Just before 2014 restructure",
+          "0.4266",
+          "0.7431",
+          "0.8555",
+          "-"
+        ],
+        [
+          "2014 restructure event",
+          "x0.737",
+          "x0.533",
+          "-",
+          "Make adjustments to WHL and WFT"
+        ],
+        [
+          "Just after 2014 restructure",
+          "0.3144",
+          "0.3961",
+          "0.8555",
+          "-"
+        ],
+        [
+          "-",
+          "-",
+          "-0.2574",
+          "-0.1207",
+          "Subtract deferred tax amounts between June 2014 and June 2018"
+        ],
+        [
+          "Just before 2018 restructure",
+          "0.3144",
+          "0.1387",
+          "0.7348",
+          "Cost base just before 7 June 2018 restructure."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Event",
+          "WHL/WCL",
+          "WFT/WFDT",
+          "WAT",
+          "Calculation Description"
+        ],
+        [
+          "Acquisition 8/4/2012 ($12)",
+          "0.4296",
+          "8.2200",
+          "3.3504",
+          "Allocate purchase price based on NTA table as at 31 December 2011"
+        ],
+        [
+          "-",
+          "-",
+          "-0.0098",
+          "-0.0848",
+          "Subtract deferred tax amounts between April 2012 and June 2014"
+        ],
+        [
+          "Just before 2014 restructure",
+          "0.4296",
+          "8.2102",
+          "3.2656",
+          "-"
+        ],
+        [
+          "2014 restructure event",
+          "x0.737",
+          "x0.533",
+          "-",
+          "Make adjustments to WHL and WFT"
+        ],
+        [
+          "Just after 2014 restructure",
+          "0.3166",
+          "4.3760",
+          "3.2656",
+          "-"
+        ],
+        [
+          "-",
+          "-",
+          "-0.2574",
+          "-0.1207",
+          "Subtract deferred tax amounts between June 2014 and June 2018"
+        ],
+        [
+          "Just before 2018 restructure",
+          "0.3166",
+          "4.1186",
+          "3.1449",
+          "Cost base just before 7 June 2018 restructure."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Transaction",
+          "WCL",
+          "WFDT",
+          "WAT"
+        ],
+        [
+          "June 2014 Scentre/Westfield Group Restructure",
+          "WCL after restructure = WHL before restructure × 0.737",
+          "WFDT after restructure = WFT before restructure × 0.533",
+          "No change"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Transaction",
+          "WHL",
+          "WFT",
+          "WAT"
+        ],
+        [
+          "December 2010 Westfield Retail Trust Restructure",
+          "No Change",
+          "WFT after restructure = WFT before restructure × 0.59",
+          "No change"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Net Tangible Assets and Deferred Tax Distributions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Start Date",
+          "End Date",
+          "WCL",
+          "WFDT",
+          "WAT"
+        ],
+        [
+          "31-Dec-17",
+          "7-Jun-18",
+          "21.40%",
+          "45.80%",
+          "32.80%"
+        ],
+        [
+          "30-Jun-17",
+          "30-Dec-17",
+          "20.25%",
+          "47.53%",
+          "32.22%"
+        ],
+        [
+          "31-Dec-16",
+          "29-Jun-17",
+          "19.99%",
+          "45.96%",
+          "34.05%"
+        ],
+        [
+          "30-Jun-16",
+          "30-Dec-16",
+          "19.55%",
+          "49.35%",
+          "31.10%"
+        ],
+        [
+          "31-Dec-15",
+          "29-Jun-16",
+          "17.98%",
+          "50.99%",
+          "31.03%"
+        ],
+        [
+          "30-Jun-15",
+          "30-Dec-15",
+          "16.38%",
+          "60.22%",
+          "23.40%"
+        ],
+        [
+          "31-Dec-14",
+          "29-Jun-15",
+          "13.48%",
+          "66.67%",
+          "19.85%"
+        ],
+        [
+          "30-Jun-14",
+          "30-Dec-14",
+          "12.63%",
+          "75.79%",
+          "11.58%"
+        ],
+        [
+          "31-Dec-13",
+          "29-Jun-14",
+          "10.70%",
+          "71.88%",
+          "17.42%"
+        ],
+        [
+          "31-Dec-17",
+          "7-Jun-18",
+          "21.40%",
+          "45.80%",
+          "32.80%"
+        ],
+        [
+          "30-Jun-17",
+          "30-Dec-17",
+          "20.25%",
+          "47.53%",
+          "32.22%"
+        ],
+        [
+          "31-Dec-16",
+          "29-Jun-17",
+          "19.99%",
+          "45.96%",
+          "34.05%"
+        ],
+        [
+          "30-Jun-16",
+          "30-Dec-16",
+          "19.55%",
+          "49.35%",
+          "31.10%"
+        ],
+        [
+          "31-Dec-15",
+          "29-Jun-16",
+          "17.98%",
+          "50.99%",
+          "31.03%"
+        ],
+        [
+          "30-Jun-15",
+          "30-Dec-15",
+          "16.38%",
+          "60.22%",
+          "23.40%"
+        ],
+        [
+          "31-Dec-14",
+          "29-Jun-15",
+          "13.48%",
+          "66.67%",
+          "19.85%"
+        ],
+        [
+          "30-Jun-14",
+          "30-Dec-14",
+          "12.63%",
+          "75.79%",
+          "11.58%"
+        ],
+        [
+          "31-Dec-13",
+          "29-Jun-14",
+          "10.70%",
+          "71.88%",
+          "17.42%"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Start Date",
+          "End Date",
+          "WHL",
+          "WFT",
+          "WAT"
+        ],
+        [
+          "30-Jun-13",
+          "30-Dec-13",
+          "6.72%",
+          "73.82%",
+          "19.46%"
+        ],
+        [
+          "31-Dec-12",
+          "29-Jun-13",
+          "5.36%",
+          "75.51%",
+          "19.13%"
+        ],
+        [
+          "30-Jun-12",
+          "30-Dec-12",
+          "4.71%",
+          "75.41%",
+          "19.88%"
+        ],
+        [
+          "31-Dec-11",
+          "29-Jun-12",
+          "3.58%",
+          "68.50%",
+          "27.92%"
+        ],
+        [
+          "30-Jun-11",
+          "30-Dec-11",
+          "3.96%",
+          "68.32%",
+          "27.72%"
+        ],
+        [
+          "31-Dec-10",
+          "29-Jun-11",
+          "4.04%",
+          "67.27%",
+          "28.69%"
+        ],
+        [
+          "20-Dec-10",
+          "30-Dec-10",
+          "3.15%",
+          "74.54%",
+          "22.31%"
+        ],
+        [
+          "31-Dec-09",
+          "29-Jun-10",
+          "4.01%",
+          "74.59%",
+          "21.40%"
+        ],
+        [
+          "30-Jun-09",
+          "30-Dec-09",
+          "4.63%",
+          "71.32%",
+          "24.05%"
+        ],
+        [
+          "31-Dec-08",
+          "29-Jun-09",
+          "5.70%",
+          "65.72%",
+          "28.58%"
+        ],
+        [
+          "30-Jun-08",
+          "30-Dec-08",
+          "6.83%",
+          "65.29%",
+          "27.88%"
+        ],
+        [
+          "31-Dec-07",
+          "29-Jun-08",
+          "8.07%",
+          "62.46%",
+          "29.47%"
+        ],
+        [
+          "30-Jun-07",
+          "30-Dec-07",
+          "7.54%",
+          "59.22%",
+          "33.24%"
+        ],
+        [
+          "31-Dec-06",
+          "29-Jun-07",
+          "7.38%",
+          "58.43%",
+          "34.19%"
+        ],
+        [
+          "30-Jun-06",
+          "30-Dec-06",
+          "8.02%",
+          "54.90%",
+          "37.08%"
+        ],
+        [
+          "31-Dec-05",
+          "29-Jun-06",
+          "8.05%",
+          "51.66%",
+          "40.29%"
+        ],
+        [
+          "30-Jun-05",
+          "30-Dec-05",
+          "7.11%",
+          "51.95%",
+          "40.94%"
+        ],
+        [
+          "31-Dec-04",
+          "29-Jun-05",
+          "9.24%",
+          "49.86%",
+          "40.90%"
+        ],
+        [
+          "1-July-04",
+          "30-Dec-04",
+          "9.09%",
+          "52.39%",
+          "38.52%"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Start date",
+          "End date",
+          "WFDT Single",
+          "WFDT Cum.",
+          "WAT Single",
+          "WAT Cum."
+        ],
+        [
+          "13-Feb-18",
+          "8-Jun-18",
+          "0.0000",
+          "0.0000",
+          "0.0000",
+          "0.0000"
+        ],
+        [
+          "11-Aug-17",
+          "12-Feb-18",
+          "0.1076",
+          "0.1076",
+          "0.0120",
+          "0.0120"
+        ],
+        [
+          "13-Feb-17",
+          "10-Aug-17",
+          "0.0267",
+          "0.1344",
+          "0.0477",
+          "0.0597"
+        ],
+        [
+          "11-Aug-16",
+          "12-Feb-17",
+          "0.0169",
+          "0.1512",
+          "0.0166",
+          "0.0764"
+        ],
+        [
+          "11-Feb-16",
+          "10-Aug-16",
+          "0.0106",
+          "0.1618",
+          "0.0176",
+          "0.0939"
+        ],
+        [
+          "13-Aug-15",
+          "10-Feb-16",
+          "0.0001",
+          "0.1619",
+          "0.0150",
+          "0.1090"
+        ],
+        [
+          "11-Feb-15",
+          "12-Aug-15",
+          "0.0019",
+          "0.1638",
+          "0.0105",
+          "0.1194"
+        ],
+        [
+          "25-Jun-14",
+          "10-Feb-15",
+          "0.0936",
+          "0.2574",
+          "0.0012",
+          "0.1207"
+        ],
+        [
+          "Rollover",
+          "24-Jun-14",
+          "0.0000",
+          "0.2574",
+          "0.0000",
+          "0.1207"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Start date",
+          "End date",
+          "WFDT Single",
+          "WFDT Cum.",
+          "WAT Single",
+          "WAT Cum."
+        ],
+        [
+          "7-Feb-14",
+          "24-Jun-14",
+          "0.0075",
+          "0.0075",
+          "0.0054",
+          "0.0054"
+        ],
+        [
+          "9-Aug-13",
+          "6-Feb-14",
+          "0.0016",
+          "0.0091",
+          "0.0212",
+          "0.0266"
+        ],
+        [
+          "8-Feb-13",
+          "8-Aug-13",
+          "0.0007",
+          "0.0098",
+          "0.0581",
+          "0.0847"
+        ],
+        [
+          "13-Aug-12",
+          "7-Feb-13",
+          "0.0000",
+          "0.0098",
+          "0.0000",
+          "0.0847"
+        ],
+        [
+          "9-Feb-12",
+          "12-Aug-12",
+          "0.0000",
+          "0.0098",
+          "0.0001",
+          "0.0848"
+        ],
+        [
+          "10-Aug-11",
+          "8-Feb-12",
+          "0.0590",
+          "0.0688",
+          "0.0372",
+          "0.1220"
+        ],
+        [
+          "8-Feb-11",
+          "9-Aug-11",
+          "0.0514",
+          "0.1202",
+          "0.0495",
+          "0.1715"
+        ],
+        [
+          "10-Aug-10",
+          "7-Feb-11",
+          "0.1488",
+          "0.2690",
+          "0.0231",
+          "0.1946"
+        ],
+        [
+          "Rollover",
+          "9-Aug-10",
+          "0.0000",
+          "0.2690",
+          "0.0000",
+          "0.1946"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Start date",
+          "End date",
+          "WFDT Single",
+          "WFDT Cum.",
+          "WAT Single",
+          "WAT Cum."
+        ],
+        [
+          "5-Feb-10",
+          "9-Aug-10",
+          "0.1736",
+          "0.1736",
+          "0.0297",
+          "0.0297"
+        ],
+        [
+          "11-Aug-09",
+          "4-Feb-10",
+          "0.1805",
+          "0.3541",
+          "0.1890",
+          "0.2187"
+        ],
+        [
+          "2-Feb-09",
+          "10-Aug-09",
+          "0.1805",
+          "0.5346",
+          "0.1890",
+          "0.4077"
+        ],
+        [
+          "11-Aug-08",
+          "1-Feb-09",
+          "0.1752",
+          "0.7098",
+          "0.0935",
+          "0.5012"
+        ],
+        [
+          "11-Feb-08",
+          "10-Aug-08",
+          "0.1904",
+          "0.9002",
+          "0.1354",
+          "0.6366"
+        ],
+        [
+          "8-Aug-07",
+          "10-Feb-08",
+          "0.0878",
+          "0.9880",
+          "0.1756",
+          "0.8122"
+        ],
+        [
+          "7-Feb-07",
+          "7-Aug-07",
+          "0.1108",
+          "1.0988",
+          "0.2103",
+          "1.0225"
+        ],
+        [
+          "9-Aug-06",
+          "6-Feb-07",
+          "0.1008",
+          "1.1996",
+          "0.1347",
+          "1.1572"
+        ],
+        [
+          "7-Feb-06",
+          "8-Aug-06",
+          "0.1551",
+          "1.3547",
+          "0.1161",
+          "1.2733"
+        ],
+        [
+          "9-Aug-05",
+          "6-Feb-06",
+          "0.0469",
+          "1.4016",
+          "0.1330",
+          "1.4063"
+        ],
+        [
+          "8-Feb-05",
+          "8-Aug-05",
+          "0.0415",
+          "1.4431",
+          "0.1140",
+          "1.5203"
+        ]
+      ]
+    }
+  ],
+  "content_text": "WCL = Westfield Corporation Limited (after June 2014)\nWFDT = WFD Trust (after June 2014)\nWAT = Westfield America Trust\nWHL = Westfield Holdings Limited (prior to June 2014)\nWFT = Westfield Trust (prior to June 2014)\n## Calculations for examples\nEvent | WHL/WCL | WFT/WFDT | WAT | Calculation description\nAcquisition 1/09/2015 ($10) | 1.638 | 6.022 | 2.34 | Allocate purchase price based on NTA table as at 30 June 2015\n- | - | -0.1619 | -0.109 | Subtract deferred tax amounts between September 2015 and June 2018\nJust before 2018 restructure | 1.638 | 5.8601 | 2.231 | Cost base just before 7 June 2018 restructure.\nEvent | WHL/WCL | WFT/WFDT | WAT | Calculation Description\nAcquisition 1/09/2005 ($6) | 0.4266 | 3.1170 | 2.4564 | Allocate purchase price based on NTA table as at 30 June 2005\n- | - | -1.4016 | -1.4063 | Subtract deferred tax amounts between September 2005 and December 2010\nJust prior 2010 restructure | 0.4266 | 1.7154 | 1.0501 | -\n2010 restructure event | - | x0.59 | - | Make adjustment to WFT\nJust after 2010 restructure | 0.4266 | 1.0121 | 1.0501 | -\n- | - | -0.2690 | -0.1946 | Subtract deferred tax amounts between December 2010 and June 2014\nJust before 2014 restructure | 0.4266 | 0.7431 | 0.8555 | -\n2014 restructure event | x0.737 | x0.533 | - | Make adjustments to WHL and WFT\nJust after 2014 restructure | 0.3144 | 0.3961 | 0.8555 | -\n- | - | -0.2574 | -0.1207 | Subtract deferred tax amounts between June 2014 and June 2018\nJust before 2018 restructure | 0.3144 | 0.1387 | 0.7348 | Cost base just before 7 June 2018 restructure.\nEvent | WHL/WCL | WFT/WFDT | WAT | Calculation Description\nAcquisition 8/4/2012 ($12) | 0.4296 | 8.2200 | 3.3504 | Allocate purchase price based on NTA table as at 31 December 2011\n- | - | -0.0098 | -0.0848 | Subtract deferred tax amounts between April 2012 and June 2014\nJust before 2014 restructure | 0.4296 | 8.2102 | 3.2656 | -\n2014 restructure event | x0.737 | x0.533 | - | Make adjustments to WHL and WFT\nJust after 2014 restructure | 0.3166 | 4.3760 | 3.2656 | -\n- | - | -0.2574 | -0.1207 | Subtract deferred tax amounts between June 2014 and June 2018\nJust before 2018 restructure | 0.3166 | 4.1186 | 3.1449 | Cost base just before 7 June 2018 restructure.\nTransaction | WCL | WFDT | WAT\nJune 2014 Scentre/Westfield Group Restructure | WCL after restructure = WHL before restructure × 0.737 | WFDT after restructure = WFT before restructure × 0.533 | No change\nTransaction | WHL | WFT | WAT\nDecember 2010 Westfield Retail Trust Restructure | No Change | WFT after restructure = WFT before restructure × 0.59 | No change\n## Net Tangible Assets and Deferred Tax Distributions\nStart Date | End Date | WCL | WFDT | WAT\n31-Dec-17 | 7-Jun-18 | 21.40% | 45.80% | 32.80%\n30-Jun-17 | 30-Dec-17 | 20.25% | 47.53% | 32.22%\n31-Dec-16 | 29-Jun-17 | 19.99% | 45.96% | 34.05%\n30-Jun-16 | 30-Dec-16 | 19.55% | 49.35% | 31.10%\n31-Dec-15 | 29-Jun-16 | 17.98% | 50.99% | 31.03%\n30-Jun-15 | 30-Dec-15 | 16.38% | 60.22% | 23.40%\n31-Dec-14 | 29-Jun-15 | 13.48% | 66.67% | 19.85%\n30-Jun-14 | 30-Dec-14 | 12.63% | 75.79% | 11.58%\n31-Dec-13 | 29-Jun-14 | 10.70% | 71.88% | 17.42%\n31-Dec-17 | 7-Jun-18 | 21.40% | 45.80% | 32.80%\n30-Jun-17 | 30-Dec-17 | 20.25% | 47.53% | 32.22%\n31-Dec-16 | 29-Jun-17 | 19.99% | 45.96% | 34.05%\n30-Jun-16 | 30-Dec-16 | 19.55% | 49.35% | 31.10%\n31-Dec-15 | 29-Jun-16 | 17.98% | 50.99% | 31.03%\n30-Jun-15 | 30-Dec-15 | 16.38% | 60.22% | 23.40%\n31-Dec-14 | 29-Jun-15 | 13.48% | 66.67% | 19.85%\n30-Jun-14 | 30-Dec-14 | 12.63% | 75.79% | 11.58%\n31-Dec-13 | 29-Jun-14 | 10.70% | 71.88% | 17.42%\nStart Date | End Date | WHL | WFT | WAT\n30-Jun-13 | 30-Dec-13 | 6.72% | 73.82% | 19.46%\n31-Dec-12 | 29-Jun-13 | 5.36% | 75.51% | 19.13%\n30-Jun-12 | 30-Dec-12 | 4.71% | 75.41% | 19.88%\n31-Dec-11 | 29-Jun-12 | 3.58% | 68.50% | 27.92%\n30-Jun-11 | 30-Dec-11 | 3.96% | 68.32% | 27.72%\n31-Dec-10 | 29-Jun-11 | 4.04% | 67.27% | 28.69%\n20-Dec-10 | 30-Dec-10 | 3.15% | 74.54% | 22.31%\n31-Dec-09 | 29-Jun-10 | 4.01% | 74.59% | 21.40%\n30-Jun-09 | 30-Dec-09 | 4.63% | 71.32% | 24.05%\n31-Dec-08 | 29-Jun-09 | 5.70% | 65.72% | 28.58%\n30-Jun-08 | 30-Dec-08 | 6.83% | 65.29% | 27.88%\n31-Dec-07 | 29-Jun-08 | 8.07% | 62.46% | 29.47%\n30-Jun-07 | 30-Dec-07 | 7.54% | 59.22% | 33.24%\n31-Dec-06 | 29-Jun-07 | 7.38% | 58.43% | 34.19%\n30-Jun-06 | 30-Dec-06 | 8.02% | 54.90% | 37.08%\n31-Dec-05 | 29-Jun-06 | 8.05% | 51.66% | 40.29%\n30-Jun-05 | 30-Dec-05 | 7.11% | 51.95% | 40.94%\n31-Dec-04 | 29-Jun-05 | 9.24% | 49.86% | 40.90%\n1-July-04 | 30-Dec-04 | 9.09% | 52.39% | 38.52%\nStart date | End date | WFDT Single | WFDT Cum. | WAT Single | WAT Cum.\n13-Feb-18 | 8-Jun-18 | 0.0000 | 0.0000 | 0.0000 | 0.0000\n11-Aug-17 | 12-Feb-18 | 0.1076 | 0.1076 | 0.0120 | 0.0120\n13-Feb-17 | 10-Aug-17 | 0.0267 | 0.1344 | 0.0477 | 0.0597\n11-Aug-16 | 12-Feb-17 | 0.0169 | 0.1512 | 0.0166 | 0.0764\n11-Feb-16 | 10-Aug-16 | 0.0106 | 0.1618 | 0.0176 | 0.0939\n13-Aug-15 | 10-Feb-16 | 0.0001 | 0.1619 | 0.0150 | 0.1090\n11-Feb-15 | 12-Aug-15 | 0.0019 | 0.1638 | 0.0105 | 0.1194\n25-Jun-14 | 10-Feb-15 | 0.0936 | 0.2574 | 0.0012 | 0.1207\nRollover | 24-Jun-14 | 0.0000 | 0.2574 | 0.0000 | 0.1207\nStart date | End date | WFDT Single | WFDT Cum. | WAT Single | WAT Cum.\n7-Feb-14 | 24-Jun-14 | 0.0075 | 0.0075 | 0.0054 | 0.0054\n9-Aug-13 | 6-Feb-14 | 0.0016 | 0.0091 | 0.0212 | 0.0266\n8-Feb-13 | 8-Aug-13 | 0.0007 | 0.0098 | 0.0581 | 0.0847\n13-Aug-12 | 7-Feb-13 | 0.0000 | 0.0098 | 0.0000 | 0.0847\n9-Feb-12 | 12-Aug-12 | 0.0000 | 0.0098 | 0.0001 | 0.0848\n10-Aug-11 | 8-Feb-12 | 0.0590 | 0.0688 | 0.0372 | 0.1220\n8-Feb-11 | 9-Aug-11 | 0.0514 | 0.1202 | 0.0495 | 0.1715\n10-Aug-10 | 7-Feb-11 | 0.1488 | 0.2690 | 0.0231 | 0.1946\nRollover | 9-Aug-10 | 0.0000 | 0.2690 | 0.0000 | 0.1946\nStart date | End date | WFDT Single | WFDT Cum. | WAT Single | WAT Cum.\n5-Feb-10 | 9-Aug-10 | 0.1736 | 0.1736 | 0.0297 | 0.0297\n11-Aug-09 | 4-Feb-10 | 0.1805 | 0.3541 | 0.1890 | 0.2187\n2-Feb-09 | 10-Aug-09 | 0.1805 | 0.5346 | 0.1890 | 0.4077\n11-Aug-08 | 1-Feb-09 | 0.1752 | 0.7098 | 0.0935 | 0.5012\n11-Feb-08 | 10-Aug-08 | 0.1904 | 0.9002 | 0.1354 | 0.6366\n8-Aug-07 | 10-Feb-08 | 0.0878 | 0.9880 | 0.1756 | 0.8122\n7-Feb-07 | 7-Aug-07 | 0.1108 | 1.0988 | 0.2103 | 1.0225\n9-Aug-06 | 6-Feb-07 | 0.1008 | 1.1996 | 0.1347 | 1.1572\n7-Feb-06 | 8-Aug-06 | 0.1551 | 1.3547 | 0.1161 | 1.2733\n9-Aug-05 | 6-Feb-06 | 0.0469 | 1.4016 | 0.1330 | 1.4063\n8-Feb-05 | 8-Aug-05 | 0.0415 | 1.4431 | 0.1140 | 1.5203",
+  "child_links": [],
+  "word_count": 1217,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

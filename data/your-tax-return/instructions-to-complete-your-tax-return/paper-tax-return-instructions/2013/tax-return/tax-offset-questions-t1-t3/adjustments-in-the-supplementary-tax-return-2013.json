@@ -1,0 +1,59 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2013/tax-return/tax-offset-questions-t1-t3/adjustments-in-the-supplementary-tax-return-2013",
+  "title": "Adjustments that you show on the supplementary section of the tax return 2013",
+  "description": "Instructions for completing adjustments in the supplementary tax return.",
+  "nat_number": "71050",
+  "quick_code": "32476",
+  "date_updated": "2013-05-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, TaxPack, adjustments, supplementary",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Did you receive a distribution during 2012-13 on which family trust distribution tax has been paid?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "Read question A4 Amount on which family trust distribution tax has been paid . You may be entitled to an adjustment. return to main menu Individual tax return instructions ."
+        ],
+        [
+          "No",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Did you make a payment to us more than 14 days before the due date for payment?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "Read question C1 Credit for interest on early payments . You may be able to claim credit for interest on early payments. return to main menu Individual tax return instructions ."
+        ],
+        [
+          "No",
+          "Go to Private health insurance policy details ."
+        ]
+      ]
+    }
+  ],
+  "content_text": "## Completing your tax return\n### Did you receive a distribution during 2012-13 on which family trust distribution tax has been paid?\nYes | Read question A4 Amount on which family trust distribution tax has been paid . You may be entitled to an adjustment. return to main menu Individual tax return instructions .\nNo | Read on.\n### Did you make a payment to us more than 14 days before the due date for payment?\nYes | Read question C1 Credit for interest on early payments . You may be able to claim credit for interest on early payments. return to main menu Individual tax return instructions .\nNo | Go to Private health insurance policy details .",
+  "child_links": [],
+  "word_count": 119,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

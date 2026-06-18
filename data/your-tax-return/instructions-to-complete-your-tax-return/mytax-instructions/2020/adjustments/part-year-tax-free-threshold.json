@@ -1,0 +1,102 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2020/adjustments/part-year-tax-free-threshold",
+  "title": "myTax 2020 Part-year tax-free threshold",
+  "description": "How to complete your return using myTax if you were not an Australian resident for the whole year.",
+  "nat_number": "",
+  "quick_code": "61978",
+  "date_updated": "2020-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "2020, myTax, e-tax, online tax return, part-year threshold, tax-free threshold, tax-free, etax, part-year resident, foreign resident",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Complete this section if you were an Australian resident for tax purposes for only part of the 2019–20 year."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "We use the information you provide in the Personalise return and Adjustments section to work out your tax-free threshold."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your tax-free threshold is less than $18,200 in a financial year if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "entered with the intention to reside in Australia during the year",
+        "left Australia with the intention to reside overseas during the year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were a resident for part of the year, you have a tax-free threshold of at least $13,464. The remaining $4,736 of the full tax-free threshold is pro-rated according to the number of months you were a resident."
+    },
+    {
+      "type": "paragraph",
+      "text": "Based on the information in your tax return, we will work any tax-free threshold for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're a non-resident you're not entitled to the tax-free threshold. This means you pay tax on every dollar of income you earn in Australia."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Personalise return , check the answer to the question Were you an Australian resident for tax purposes from 1 July 2019 to 30 June 2020?"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If Yes , you are an Australian resident for the full year.",
+        "If No and you leave the date fields blank, you were not a resident at any time during the year.",
+        "If No and you have an entry in the date fields, you were a resident for part of the year. You will need to complete the Adjustments section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At Prepare return , select 'Add/Edit' at the Adjustments banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Part-year tax-free threshold heading, as a resident for part of the year:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Answer the question Did you receive any taxable government benefits other than Australian Government special payments? If unsure, check special payments . If Yes , go to step 2. Otherwise go to step 3.",
+        "Answer the question Were all the benefits you received from the following? Youth allowance Jobseeker payment Newstart allowance sickness allowance special benefit, or payment under the Community Development Employment Projects (CDEP) Scheme",
+        "Select Save and continue when you have completed the Adjustments section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "MyTax will work out how many months you will receive the tax-free threshold for. If you want to work it out, see:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Tax-free threshold for newcomers to Australia",
+        "Tax-free threshold if you are leaving Australia with the intention to reside overseas"
+      ]
+    }
+  ],
+  "content_text": "Complete this section if you were an Australian resident for tax purposes for only part of the 2019–20 year.\n## Things to know\nWe use the information you provide in the Personalise return and Adjustments section to work out your tax-free threshold.\nYour tax-free threshold is less than $18,200 in a financial year if you:\n- entered with the intention to reside in Australia during the year\n- left Australia with the intention to reside overseas during the year.\nIf you were a resident for part of the year, you have a tax-free threshold of at least $13,464. The remaining $4,736 of the full tax-free threshold is pro-rated according to the number of months you were a resident.\nBased on the information in your tax return, we will work any tax-free threshold for you.\nIf you're a non-resident you're not entitled to the tax-free threshold. This means you pay tax on every dollar of income you earn in Australia.\n## Completing this section\nAt Personalise return , check the answer to the question Were you an Australian resident for tax purposes from 1 July 2019 to 30 June 2020?\n- If Yes , you are an Australian resident for the full year.\n- If No and you leave the date fields blank, you were not a resident at any time during the year.\n- If No and you have an entry in the date fields, you were a resident for part of the year. You will need to complete the Adjustments section.\nAt Prepare return , select 'Add/Edit' at the Adjustments banner.\nAt the Part-year tax-free threshold heading, as a resident for part of the year:\n- Answer the question Did you receive any taxable government benefits other than Australian Government special payments? If unsure, check special payments . If Yes , go to step 2. Otherwise go to step 3.\n- Answer the question Were all the benefits you received from the following? Youth allowance Jobseeker payment Newstart allowance sickness allowance special benefit, or payment under the Community Development Employment Projects (CDEP) Scheme\n- Select Save and continue when you have completed the Adjustments section.\nMyTax will work out how many months you will receive the tax-free threshold for. If you want to work it out, see:\n- Tax-free threshold for newcomers to Australia\n- Tax-free threshold if you are leaving Australia with the intention to reside overseas",
+  "child_links": [],
+  "word_count": 399,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

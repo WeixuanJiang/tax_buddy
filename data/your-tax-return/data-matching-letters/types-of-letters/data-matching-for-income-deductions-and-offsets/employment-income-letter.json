@@ -1,0 +1,267 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/data-matching-letters/types-of-letters/data-matching-for-income-deductions-and-offsets/employment-income-letter",
+  "title": "Employment income letter",
+  "description": "What to do if you get a data matching letter from us about the amounts your employer reported to us.",
+  "nat_number": "",
+  "quick_code": "41706",
+  "date_updated": "2024-01-07T14:00:00Z",
+  "first_published": "",
+  "keywords": "employment income letter, data matching, data-matching, discrepancy, letter, schedule, types, declare income, PAYG summary, employment, income, tax return, omitted credit",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Receiving your letter"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may receive a letter if the income amount that your employer (or employers if you have more than one job) reported to us doesn't match the amount in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Employment income is the money you receive from working."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a myGov account linked to us , we will send the letter to your myGov inbox. It will have one of the following titles:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "We have found an error in your income tax return",
+        "We have received more information about your income tax return ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't have a myGov account, we'll send the letter to the most recent postal address we have for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you use a registered tax agent, a copy of the letter will be available for them to view in communication history in Online services for agents. They can use this to review communications and respond on your behalf."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to do"
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to review the income summary and compare the information with your records. You can then determine if you agree or disagree ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a question about your data-matching letter, phone us on 1300 768 912 , and select option 3 between 8:00 am and 6:00 pm, Monday to Friday:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "quoting the reference number found at the top right of your letter",
+        "using the words 'data matching'."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Employment income schedule – sample"
+    },
+    {
+      "type": "paragraph",
+      "text": "Below is a sample of the employment income schedule on the letter. Keep in mind that your letter will have your own details and may not look exactly like this. The definitions will help explain your schedule."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Source of income",
+          "Payer ABN/ Account number",
+          "Amount included on your return",
+          "Amount reported to us by a third party",
+          "Difference"
+        ],
+        [
+          "Ace Employer Pty",
+          "11111111111",
+          "$31,238",
+          "$38,895",
+          "$7,657"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Source of income tax withheld",
+          "Payer ABN/ Account number",
+          "Amount included on your return",
+          "Amount reported to us by a third party",
+          "Difference"
+        ],
+        [
+          "Ace Employer Pty",
+          "11111111111",
+          "$8,328",
+          "$7,657",
+          "$671"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Definitions to understand your schedule"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following definitions will help you to understand your schedule:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Amount included in your return – the income amount you declared for the relevant item or label in your tax return.",
+        "Amount reported to us by a third party – the amount reported by the employer (or employers).",
+        "Difference – the amount of income not declared in your return, or the amount of tax withheld you claimed that is above the total credit advised by your employer (or employers).",
+        "Each table relates to an item or label in your tax return – each will show you what you reported in your tax return.",
+        "Payer ABN – each employer's Australian business number for the employment income reported to us.",
+        "Source of income or tax withheld – all employment income that has been reported to us by your employer (or employers)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Income statement not tax ready sets out what you can do if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your employer hasn't finalised your income statement",
+        "you can't get or locate your payment summary."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Single Touch Payroll for employees explains the nature of the tax and super information you receive when your employer pays you."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you agree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you agree with the information in the letter, you can advise us of your decision, within 28 days, through ATO online services using the ATO app or your myGov account."
+    },
+    {
+      "type": "paragraph",
+      "text": "Log in to ATO online services, then:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "select Manage tax returns",
+        "select Pending ATO amendments",
+        "select Agree with amendment ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We will process the amendment and send you an amended notice of assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alternately, if we don’t hear from you, we will change your tax return to include the information your employer provided. We will send you an amended notice of assessment after 28 days, which may result in more interest charges."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you disagree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with the amounts reported, you have 28 days to respond. You must also provide supporting documents that show how the amounts are incorrect."
+    },
+    {
+      "type": "paragraph",
+      "text": "If we don't receive a response from you within 28 days, we will automatically amend your tax return with the information we have from your employer. You will then receive an amended assessment. Once you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with the information your employer reported, you can contact us:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "online through ATO online services using the ATO app or your myGov account – log in to ATO online services, then select Manage tax returns select Pending ATO amendments select Disagree with amendment select a reason for disagreeing upload your supporting documents",
+        "by mail to Australian Taxation Office PO Box 3543 ALBURY NSW 2640",
+        "by email us at datamatchingteam@ato.gov.au"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The internet is not a secure environment and we don't control the path of inbound and outbound emails. If you choose to email us, we can't guarantee the privacy of your personal information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "quote the reference number found at the top right of your letter",
+        "use the words 'data matching'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We will assess your response and, once finalised, send you an amended notice of assessment. The case officer reviewing your supporting documents may contact you if we need additional information."
+    },
+    {
+      "type": "paragraph",
+      "text": "If we don't receive a response from you in 28 days, we will automatically amend your tax return with the information we have from your employer. You will then receive an amended notice of assessment ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Supporting documents"
+    },
+    {
+      "type": "paragraph",
+      "text": "We may ask you to provide the following supporting documents if you disagree with the information in the letter about your employment income:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an income statement, payment summary or payslips from employers you had during the identified financial year",
+        "any amended payment summaries or income statements from your employer (or employers)",
+        "a final payslip that provides details of your annual salary",
+        "a full year bank statement showing deposits."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You or your tax professional can send this information to us."
+    }
+  ],
+  "content_text": "## Receiving your letter\nYou may receive a letter if the income amount that your employer (or employers if you have more than one job) reported to us doesn't match the amount in your tax return.\nEmployment income is the money you receive from working.\nIf you have a myGov account linked to us , we will send the letter to your myGov inbox. It will have one of the following titles:\n- We have found an error in your income tax return\n- We have received more information about your income tax return .\nIf you don't have a myGov account, we'll send the letter to the most recent postal address we have for you.\nIf you use a registered tax agent, a copy of the letter will be available for them to view in communication history in Online services for agents. They can use this to review communications and respond on your behalf.\n## What to do\nYou need to review the income summary and compare the information with your records. You can then determine if you agree or disagree .\nIf you have a question about your data-matching letter, phone us on 1300 768 912 , and select option 3 between 8:00 am and 6:00 pm, Monday to Friday:\n- quoting the reference number found at the top right of your letter\n- using the words 'data matching'.\n### Employment income schedule – sample\nBelow is a sample of the employment income schedule on the letter. Keep in mind that your letter will have your own details and may not look exactly like this. The definitions will help explain your schedule.\nSource of income | Payer ABN/ Account number | Amount included on your return | Amount reported to us by a third party | Difference\nAce Employer Pty | 11111111111 | $31,238 | $38,895 | $7,657\nSource of income tax withheld | Payer ABN/ Account number | Amount included on your return | Amount reported to us by a third party | Difference\nAce Employer Pty | 11111111111 | $8,328 | $7,657 | $671\n### Definitions to understand your schedule\nThe following definitions will help you to understand your schedule:\n- Amount included in your return – the income amount you declared for the relevant item or label in your tax return.\n- Amount reported to us by a third party – the amount reported by the employer (or employers).\n- Difference – the amount of income not declared in your return, or the amount of tax withheld you claimed that is above the total credit advised by your employer (or employers).\n- Each table relates to an item or label in your tax return – each will show you what you reported in your tax return.\n- Payer ABN – each employer's Australian business number for the employment income reported to us.\n- Source of income or tax withheld – all employment income that has been reported to us by your employer (or employers).\nIncome statement not tax ready sets out what you can do if:\n- your employer hasn't finalised your income statement\n- you can't get or locate your payment summary.\nSingle Touch Payroll for employees explains the nature of the tax and super information you receive when your employer pays you.\n### If you agree\nIf you agree with the information in the letter, you can advise us of your decision, within 28 days, through ATO online services using the ATO app or your myGov account.\nLog in to ATO online services, then:\n- select Manage tax returns\n- select Pending ATO amendments\n- select Agree with amendment .\nWe will process the amendment and send you an amended notice of assessment.\nAlternately, if we don’t hear from you, we will change your tax return to include the information your employer provided. We will send you an amended notice of assessment after 28 days, which may result in more interest charges.\nOnce you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date.\n### If you disagree\nIf you disagree with the amounts reported, you have 28 days to respond. You must also provide supporting documents that show how the amounts are incorrect.\nIf we don't receive a response from you within 28 days, we will automatically amend your tax return with the information we have from your employer. You will then receive an amended assessment. Once you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date.\nIf you disagree with the information your employer reported, you can contact us:\n- online through ATO online services using the ATO app or your myGov account – log in to ATO online services, then select Manage tax returns select Pending ATO amendments select Disagree with amendment select a reason for disagreeing upload your supporting documents\n- by mail to Australian Taxation Office PO Box 3543 ALBURY NSW 2640\n- by email us at datamatchingteam@ato.gov.au\nThe internet is not a secure environment and we don't control the path of inbound and outbound emails. If you choose to email us, we can't guarantee the privacy of your personal information.\nRemember to:\n- quote the reference number found at the top right of your letter\n- use the words 'data matching'.\nWe will assess your response and, once finalised, send you an amended notice of assessment. The case officer reviewing your supporting documents may contact you if we need additional information.\nIf we don't receive a response from you in 28 days, we will automatically amend your tax return with the information we have from your employer. You will then receive an amended notice of assessment .\nOnce you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date.\n#### Supporting documents\nWe may ask you to provide the following supporting documents if you disagree with the information in the letter about your employment income:\n- an income statement, payment summary or payslips from employers you had during the identified financial year\n- any amended payment summaries or income statements from your employer (or employers)\n- a final payslip that provides details of your annual salary\n- a full year bank statement showing deposits.\nYou or your tax professional can send this information to us.",
+  "child_links": [],
+  "word_count": 1066,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

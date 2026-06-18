@@ -1,0 +1,101 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/income/other-income/forestry-managed-investment-scheme-income",
+  "title": "myTax 2019 Forestry managed investment scheme income",
+  "description": "How to report income from forestry managed investment schemes in myTax.",
+  "nat_number": "",
+  "quick_code": "58766",
+  "date_updated": "2019-06-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "2019, myTax, e-tax, online tax return, forestry, managed investment schemes, income, FMIS, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This section is about income you received from forestry managed investment schemes (FMIS)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Essentials"
+    },
+    {
+      "type": "paragraph",
+      "text": "A forestry interest in an FMIS is a right to benefits produced by the scheme (whether the right is actual, prospective or contingent and whether it is enforceable or not)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You are an initial participant in an FMIS if you meet the following conditions:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you obtained your forestry interest in the FMIS from the forestry manager of the scheme",
+        "your payment to obtain the forestry interest in an FMIS results in the establishment of trees."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You are a subsequent participant if you are not an initial participant."
+    },
+    {
+      "type": "paragraph",
+      "text": "A forestry manager of an FMIS is the entity that manages, arranges or promotes the FMIS."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of your total forestry scheme deductions is the total of each amount that you can deduct or have deducted for each income year that you held your forestry interest. For more information on amounts you can deduct, see Forestry managed investment scheme deduction ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of your incidental forestry scheme receipts is the total of each amount that you received under the scheme in each income year that you held your forestry interest, other than amounts received because of a capital gains tax (CGT) event. A CGT event includes, a sale of all or part of a forestry interest or harvest proceeds."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each forestry interest you held in an FMIS, select Add .",
+        "At Type of payment , select Forestry managed investment schemes (FMIS) , enter a description and work through the remaining steps to calculate your FMIS income amount.",
+        "If you are: an initial participant , go to Initial participant calculation a subsequent participant , go to Subsequent participant calculation",
+        "Enter the amount from row c in Worksheet 1 to Amount in myTax.",
+        "Select Save .",
+        "Select Save and continue ."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Description",
+          "Amount"
+        ],
+        [
+          "a",
+          "Amount from row g in Worksheet 2: Initial participants",
+          "$"
+        ],
+        [
+          "b",
+          "Amount from row r in Worksheet 4: Subsequent participants",
+          "$"
+        ],
+        [
+          "c",
+          "Add row a and row b . This is income from forestry interests you held in an FMIS. Show it at Amount in myTax.",
+          "$"
+        ]
+      ]
+    }
+  ],
+  "content_text": "This section is about income you received from forestry managed investment schemes (FMIS).\n## Essentials\nA forestry interest in an FMIS is a right to benefits produced by the scheme (whether the right is actual, prospective or contingent and whether it is enforceable or not).\nYou are an initial participant in an FMIS if you meet the following conditions:\n- you obtained your forestry interest in the FMIS from the forestry manager of the scheme\n- your payment to obtain the forestry interest in an FMIS results in the establishment of trees.\nYou are a subsequent participant if you are not an initial participant.\nA forestry manager of an FMIS is the entity that manages, arranges or promotes the FMIS.\nThe amount of your total forestry scheme deductions is the total of each amount that you can deduct or have deducted for each income year that you held your forestry interest. For more information on amounts you can deduct, see Forestry managed investment scheme deduction .\nThe amount of your incidental forestry scheme receipts is the total of each amount that you received under the scheme in each income year that you held your forestry interest, other than amounts received because of a capital gains tax (CGT) event. A CGT event includes, a sale of all or part of a forestry interest or harvest proceeds.\n## Completing this section\n- For each forestry interest you held in an FMIS, select Add .\n- At Type of payment , select Forestry managed investment schemes (FMIS) , enter a description and work through the remaining steps to calculate your FMIS income amount.\n- If you are: an initial participant , go to Initial participant calculation a subsequent participant , go to Subsequent participant calculation\n- Enter the amount from row c in Worksheet 1 to Amount in myTax.\n- Select Save .\n- Select Save and continue .\nRow | Description | Amount\na | Amount from row g in Worksheet 2: Initial participants | $\nb | Amount from row r in Worksheet 4: Subsequent participants | $\nc | Add row a and row b . This is income from forestry interests you held in an FMIS. Show it at Amount in myTax. | $",
+  "child_links": [],
+  "word_count": 375,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

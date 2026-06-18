@@ -1,0 +1,206 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2024/tax-return/adjustment-questions-a1-a4/a1-under-18-2024",
+  "title": "A1 Under 18 2024",
+  "description": "Complete question A1 if you were under 18 years old on 30 June 2024.",
+  "nat_number": "",
+  "quick_code": "101473",
+  "date_updated": "2024-05-29T01:17:00Z",
+  "first_published": true,
+  "keywords": "Individual tax return instructions, A1 under 18, A1, under 18, 2024, tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things you need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were under 18 years old on 30 June 2024, you must complete this question, or you may be taxed at a higher rate."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're in any of the categories below, you can use the low income tax offset to reduce the tax payable on the income listed at Step 2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, you can't use this low income tax offset to reduce tax payable on unearned income such as trust distributions, dividends, interest and rent."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a distribution from a trust, see question 13 Partnerships and trusts 2024 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were 18 years old or older on 30 June 2024, go to question A2 Part-year tax-free threshold 2024 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you need to answer this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "Did any of the following categories apply to you on 30 June 2024?"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You were working full time, or had worked full time for 3 months or more in 2023–24 (ignoring full-time work followed by full-time study), and you were intending to work full time for most or all of 2024–25, and not study full time in 2024–25.",
+        "You were entitled to a disability support pension or someone was entitled to a carer allowance to care for you.",
+        "You are permanently blind.",
+        "You were disabled and were likely to suffer from that disability permanently or for an extended period.",
+        "You were entitled to a double orphan pension, and you received little or no financial support from your relatives.",
+        "You were unable to work full time because of a permanent mental or physical disability, and you received little or no financial support from your relatives.",
+        "You were the main beneficiary of a special disability trust."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your answer to the above question categories is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "No , go to Step 2 .",
+        "Yes , your income is taxed at normal rates. Go to Step 1 ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete this question, follow the steps 1 to 6 below."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write 0 (zero) at question A1 – label J . Print A in the Type box at label J ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have finished this question, go to Where to go next ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up any of the following income amounts which you have shown in your tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "employment income",
+        "taxable pensions or payments from Centrelink or the Department of Veterans' Affairs",
+        "compensation, superannuation or pension fund benefits",
+        "income from a deceased person's estate",
+        "income from property transferred to you as a result of another's death or family breakdown, or to satisfy a claim for damages for an injury you suffered",
+        "income from your own business",
+        "income from a partnership in which you were an active partner",
+        "net capital gains from the disposal of any of the property or investments referred to above",
+        "income from investment of amounts referred to above."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all your deductions that relate to the income from Step 2 (see Claiming deductions 2024 ). Subtract the total of those deductions from the total income you worked out at Step 2."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the amount from Step 3 at question A1 – label J . This amount is taxed at normal rates."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write 0 (zero) at question A1 – label J if one of the following applies:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you do not have any of the income listed at Step 2",
+        "the amount from Step 3 is $0 or a negative amount."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print M in the Type box at question A1 – label J ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you receive any primary production income?"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "No , you have finished this question. Go to, Where to go next .",
+        "Yes , read on."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount from Step 4 included income from primary production, you will need to provide additional information."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "On a separate sheet of paper print Schedule of additional information – question A1 your name, address, tax file number 'Excepted primary production income' and write the amount of primary production income that is included in the total at Step 4 'Eligible primary production income' and write the amount of any primary production income that you have not included at question A1 .",
+        "Attach your schedule to your tax return.",
+        "Print X in the Yes box at Taxpayer's declaration – question 2 in your tax return."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question A2 Part-year tax-free threshold 2024 .",
+        "Return to main menu Individual tax return instructions 2024 .",
+        "Go back to Private health insurance policy details 2024 ."
+      ]
+    }
+  ],
+  "content_text": "## Things you need to know\nIf you were under 18 years old on 30 June 2024, you must complete this question, or you may be taxed at a higher rate.\nIf you're in any of the categories below, you can use the low income tax offset to reduce the tax payable on the income listed at Step 2 .\nHowever, you can't use this low income tax offset to reduce tax payable on unearned income such as trust distributions, dividends, interest and rent.\nIf you received a distribution from a trust, see question 13 Partnerships and trusts 2024 .\nIf you were 18 years old or older on 30 June 2024, go to question A2 Part-year tax-free threshold 2024 .\n## What you need to answer this question\nDid any of the following categories apply to you on 30 June 2024?\n- You were working full time, or had worked full time for 3 months or more in 2023–24 (ignoring full-time work followed by full-time study), and you were intending to work full time for most or all of 2024–25, and not study full time in 2024–25.\n- You were entitled to a disability support pension or someone was entitled to a carer allowance to care for you.\n- You are permanently blind.\n- You were disabled and were likely to suffer from that disability permanently or for an extended period.\n- You were entitled to a double orphan pension, and you received little or no financial support from your relatives.\n- You were unable to work full time because of a permanent mental or physical disability, and you received little or no financial support from your relatives.\n- You were the main beneficiary of a special disability trust.\nIf your answer to the above question categories is:\n- No , go to Step 2 .\n- Yes , your income is taxed at normal rates. Go to Step 1 .\n## Completing your tax return\nTo complete this question, follow the steps 1 to 6 below.\n### Step 1\nWrite 0 (zero) at question A1 – label J . Print A in the Type box at label J .\nYou have finished this question, go to Where to go next .\n### Step 2\nAdd up any of the following income amounts which you have shown in your tax return:\n- employment income\n- taxable pensions or payments from Centrelink or the Department of Veterans' Affairs\n- compensation, superannuation or pension fund benefits\n- income from a deceased person's estate\n- income from property transferred to you as a result of another's death or family breakdown, or to satisfy a claim for damages for an injury you suffered\n- income from your own business\n- income from a partnership in which you were an active partner\n- net capital gains from the disposal of any of the property or investments referred to above\n- income from investment of amounts referred to above.\n### Step 3\nAdd up all your deductions that relate to the income from Step 2 (see Claiming deductions 2024 ). Subtract the total of those deductions from the total income you worked out at Step 2.\n### Step 4\nWrite the amount from Step 3 at question A1 – label J . This amount is taxed at normal rates.\nWrite 0 (zero) at question A1 – label J if one of the following applies:\n- you do not have any of the income listed at Step 2\n- the amount from Step 3 is $0 or a negative amount.\n### Step 5\nPrint M in the Type box at question A1 – label J .\n### Step 6\nDid you receive any primary production income?\n- No , you have finished this question. Go to, Where to go next .\n- Yes , read on.\nIf the amount from Step 4 included income from primary production, you will need to provide additional information.\n- On a separate sheet of paper print Schedule of additional information – question A1 your name, address, tax file number 'Excepted primary production income' and write the amount of primary production income that is included in the total at Step 4 'Eligible primary production income' and write the amount of any primary production income that you have not included at question A1 .\n- Attach your schedule to your tax return.\n- Print X in the Yes box at Taxpayer's declaration – question 2 in your tax return.\n## Where to go next\n- Go to question A2 Part-year tax-free threshold 2024 .\n- Return to main menu Individual tax return instructions 2024 .\n- Go back to Private health insurance policy details 2024 .",
+  "child_links": [],
+  "word_count": 784,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,254 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/income/sole-trader-and-business-income-or-losses-and-partnership-or-trust-distributions/personal-services-income",
+  "title": "myTax 2018 Personal services income",
+  "description": "How to report attributed personal services income when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "55406",
+  "date_updated": "2018-06-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "2018, Personal services income, myTax, e-tax, online tax return, PSI, personal services income, income, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with payment summary information provided to us. Check for business payment summaries you received that are not pre-filled and ensure you add them at the Business payment summaries section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete this section if you received income for personal services you provided as a sole trader and you did not:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "receive a personal services business determination in relation to your personal services income (PSI)",
+        "satisfy the results test, or",
+        "satisfy at least one of the other three personal services business tests (if less than 80% of your PSI came from each client)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Personal services income is income that is mainly a reward for an individual's personal efforts or skills. To work out whether your income is personal services income you can use the Personal services income tool This link opens in a new window or see Personal services income for more information."
+    },
+    {
+      "type": "paragraph",
+      "text": "PSI is divided into:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "income that was subject to a PAYG voluntary agreement to withhold tax",
+        "income from which tax has been withheld because you did not quote your Australian business number (ABN) to one of your payers",
+        "income received under a labour hire arrangement or from a specified payment",
+        "other PSI."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For further help about this section, use the left hand side table of contents."
+    },
+    {
+      "type": "paragraph",
+      "text": "Goods and services tax (GST)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are registered or required to be registered for GST, do not include any GST amounts in your assessable income. Your deductions should not include any amounts that relate to input tax credit entitlements."
+    },
+    {
+      "type": "paragraph",
+      "text": "Former STS taxpayers"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are eligible and are continuing to use the simplified tax system (STS) accounting method, you must complete the income and deduction parts of this section using the STS accounting method. For more information, see Former simplified tax system (STS) taxpayers ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Limited deductions against personal services income"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are special rules for the tax treatment of personal services income earned by sole traders including contractors and consultants. If you had personal services income as a sole trader and you were subject to the special rules, you will not be able to claim certain deductions, for example, rent, mortgage interest, rates or land tax for your home, or payments to your spouse (or other associate) for support work such as secretarial duties."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will be subject to the special rules if you were not conducting a personal services business. For more information, see Deductions ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Depreciation and capital allowances tool"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use the Depreciation and capital allowances tool to work out any deductible decline in value, deductible balancing adjustments and assessable balancing adjustments. To access the tool, select Work it out in the Deductions section on the Prepare return screen."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Personal services income tool This link opens in a new window . This tool will help you decide whether you were conducting a personal services business. It also tells you how to get more information about personal services income issues.",
+        "Taxation Ruling TR 2001/7 Income tax: the meaning of personal services income",
+        "Taxation Ruling TR 2001/8 Income tax: what is a personal services business",
+        "Taxation Ruling TR 2003/6 Income tax: attribution of personal services income",
+        "Taxation Ruling TR 2003/10 Income tax: deductions that relate to personal services income"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: If you received the following payment summaries, enter the details in the Business payment summaries section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "PAYG payment summary - business and personal services income",
+        "PAYG payment summary - withholding where ABN not quoted"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Income and tax withheld amounts from these payment summaries will be transferred to this section if they relate to personal services income. Add, alter or delete these amounts in the Business payment summaries section."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a reminder at the Business and professional items section that you received payments for building and construction services and tax has been withheld, include these amounts in the Business payment summaries section. These payments have been reported to us in a Taxable payments annual report. Review these payments to ensure your tax return is correct. Amounts invoiced but not actually paid to you in the financial year were not included in this year's report."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Select Net personal services income to expand the section.",
+        "Add up any other PSI income and enter the amount at Other , including amounts received where all of the following apply: you have a reminder at the Business and professional items section that you received payments for building and construction services no tax has been withheld from Business and personal services income payment summaries and the payments are personal services income",
+        "If you have deductions against your PSI, see Limited deductions against personal services income to ensure that you are eligible to claim them. If you had personal services income as a sole trader and you were subject to special rules, you will not be able to claim certain deductions, for example, rent, mortgage interest, rates or land tax for your home, or payments to your spouse (or other associate) for support work such as secretarial duties.",
+        "Enter the deductions you are eligible to claim at: Deductions for payments to associates for principal work Total amount of other deductions against PSI ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: If you used the Depreciation and capital allowances tool, fields containing information from the tool cannot be directly adjusted in myTax. To make any adjustments to this information, or to add new assets to the tool, select Work it out ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Limited deductions against PSI"
+    },
+    {
+      "type": "paragraph",
+      "text": "The PSI rules affect the deductions you can claim against your PSI. They do not affect your legal, contractual or workplace arrangements; you won’t be treated as an employee as a result of the PSI rules."
+    },
+    {
+      "type": "paragraph",
+      "text": "The information on this page is a guide only. You may need further information to determine whether a deduction is available in your circumstances; Taxation Ruling TR 2003/10 Income tax: deductions that relate to personal services income explains the PSI deduction limitation rules."
+    },
+    {
+      "type": "paragraph",
+      "text": "What deductions you may be able to claim"
+    },
+    {
+      "type": "paragraph",
+      "text": "Subject to specific exceptions, the general rule is that you may claim an amount that is incurred in gaining or producing your PSI if you could claim that amount if the income was payable to you as an employee."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following are examples of items you may be able to claim a deduction for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "premiums for workers compensation, public liability and professional indemnity insurance",
+        "financial institution and other account-keeping fees and charges",
+        "tax-related expenses, such as the cost of preparing and lodging a tax return or business activity statement (BAS)",
+        "registration or licensing fees",
+        "expenses for advertising, tendering and quoting for work",
+        "deduction for decline in value of depreciating assets",
+        "simplified depreciation (if you are a small business entity)",
+        "running expenses for your home office, such as heating and lighting for using a room in your house as a home office (not including rent, mortgage interest, rates or land taxes)",
+        "salary and wages for an arm’s length employee (not an associate)",
+        "contributions to a complying superannuation fund on behalf of an arm’s length employee (not an associate)",
+        "reasonable amounts paid to an associate for principal work",
+        "contributions to a complying superannuation fund or retirement savings account up to the superannuation guarantee amount for an associate doing solely principal work."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include any amount that was a superannuation contribution for yourself. Any deduction for your own superannuation contributions must be claimed at Personal super contributions on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "What you cannot claim"
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim an amount for the following if it related to gaining your PSI:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "rent, mortgage interest, rates or land tax for your residence (or the residence of an associate)",
+        "amounts paid to an associate for non-principal work, for example, support such as secretarial work",
+        "contributions to a superannuation fund for an associate doing solely non-principal work."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Deductions for payments to associates for principal work"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the total amount of payments made to associates for principal work."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Total amount of other deductions against PSI"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include only non-commercial business losses deferred from a prior year if they relate to a business activity which is the same as, or similar to, one of your current year business activities. See Loss details for an explanation of how the non-commercial business loss rules work."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your non-commercial business loss deduction may be reduced if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you earned net exempt income in this income year, or",
+        "you became bankrupt or were released from any debts by the operation of an Act relating to bankruptcy."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "See also How to defer your losses or phone 13 28 66 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are registered or required to be registered for GST, your deductions should not include the amount that relates to input tax credit entitlements."
+    }
+  ],
+  "content_text": "We have pre-filled your tax return with payment summary information provided to us. Check for business payment summaries you received that are not pre-filled and ensure you add them at the Business payment summaries section.\nComplete this section if you received income for personal services you provided as a sole trader and you did not:\n- receive a personal services business determination in relation to your personal services income (PSI)\n- satisfy the results test, or\n- satisfy at least one of the other three personal services business tests (if less than 80% of your PSI came from each client).\nPersonal services income is income that is mainly a reward for an individual's personal efforts or skills. To work out whether your income is personal services income you can use the Personal services income tool This link opens in a new window or see Personal services income for more information.\nPSI is divided into:\n- income that was subject to a PAYG voluntary agreement to withhold tax\n- income from which tax has been withheld because you did not quote your Australian business number (ABN) to one of your payers\n- income received under a labour hire arrangement or from a specified payment\n- other PSI.\nFor further help about this section, use the left hand side table of contents.\nGoods and services tax (GST)\nIf you are registered or required to be registered for GST, do not include any GST amounts in your assessable income. Your deductions should not include any amounts that relate to input tax credit entitlements.\nFormer STS taxpayers\nIf you are eligible and are continuing to use the simplified tax system (STS) accounting method, you must complete the income and deduction parts of this section using the STS accounting method. For more information, see Former simplified tax system (STS) taxpayers .\nLimited deductions against personal services income\nThere are special rules for the tax treatment of personal services income earned by sole traders including contractors and consultants. If you had personal services income as a sole trader and you were subject to the special rules, you will not be able to claim certain deductions, for example, rent, mortgage interest, rates or land tax for your home, or payments to your spouse (or other associate) for support work such as secretarial duties.\nYou will be subject to the special rules if you were not conducting a personal services business. For more information, see Deductions .\n## Depreciation and capital allowances tool\nYou can use the Depreciation and capital allowances tool to work out any deductible decline in value, deductible balancing adjustments and assessable balancing adjustments. To access the tool, select Work it out in the Deductions section on the Prepare return screen.\n## Completing this section\nYou may need:\n- Personal services income tool This link opens in a new window . This tool will help you decide whether you were conducting a personal services business. It also tells you how to get more information about personal services income issues.\n- Taxation Ruling TR 2001/7 Income tax: the meaning of personal services income\n- Taxation Ruling TR 2001/8 Income tax: what is a personal services business\n- Taxation Ruling TR 2003/6 Income tax: attribution of personal services income\n- Taxation Ruling TR 2003/10 Income tax: deductions that relate to personal services income\nNote: If you received the following payment summaries, enter the details in the Business payment summaries section:\n- PAYG payment summary - business and personal services income\n- PAYG payment summary - withholding where ABN not quoted\nIncome and tax withheld amounts from these payment summaries will be transferred to this section if they relate to personal services income. Add, alter or delete these amounts in the Business payment summaries section.\nIf you have a reminder at the Business and professional items section that you received payments for building and construction services and tax has been withheld, include these amounts in the Business payment summaries section. These payments have been reported to us in a Taxable payments annual report. Review these payments to ensure your tax return is correct. Amounts invoiced but not actually paid to you in the financial year were not included in this year's report.\n- Select Net personal services income to expand the section.\n- Add up any other PSI income and enter the amount at Other , including amounts received where all of the following apply: you have a reminder at the Business and professional items section that you received payments for building and construction services no tax has been withheld from Business and personal services income payment summaries and the payments are personal services income\n- If you have deductions against your PSI, see Limited deductions against personal services income to ensure that you are eligible to claim them. If you had personal services income as a sole trader and you were subject to special rules, you will not be able to claim certain deductions, for example, rent, mortgage interest, rates or land tax for your home, or payments to your spouse (or other associate) for support work such as secretarial duties.\n- Enter the deductions you are eligible to claim at: Deductions for payments to associates for principal work Total amount of other deductions against PSI .\nNote: If you used the Depreciation and capital allowances tool, fields containing information from the tool cannot be directly adjusted in myTax. To make any adjustments to this information, or to add new assets to the tool, select Work it out .\n## Deductions\nLimited deductions against PSI\nThe PSI rules affect the deductions you can claim against your PSI. They do not affect your legal, contractual or workplace arrangements; you won’t be treated as an employee as a result of the PSI rules.\nThe information on this page is a guide only. You may need further information to determine whether a deduction is available in your circumstances; Taxation Ruling TR 2003/10 Income tax: deductions that relate to personal services income explains the PSI deduction limitation rules.\nWhat deductions you may be able to claim\nSubject to specific exceptions, the general rule is that you may claim an amount that is incurred in gaining or producing your PSI if you could claim that amount if the income was payable to you as an employee.\nThe following are examples of items you may be able to claim a deduction for:\n- premiums for workers compensation, public liability and professional indemnity insurance\n- financial institution and other account-keeping fees and charges\n- tax-related expenses, such as the cost of preparing and lodging a tax return or business activity statement (BAS)\n- registration or licensing fees\n- expenses for advertising, tendering and quoting for work\n- deduction for decline in value of depreciating assets\n- simplified depreciation (if you are a small business entity)\n- running expenses for your home office, such as heating and lighting for using a room in your house as a home office (not including rent, mortgage interest, rates or land taxes)\n- salary and wages for an arm’s length employee (not an associate)\n- contributions to a complying superannuation fund on behalf of an arm’s length employee (not an associate)\n- reasonable amounts paid to an associate for principal work\n- contributions to a complying superannuation fund or retirement savings account up to the superannuation guarantee amount for an associate doing solely principal work.\nDo not include any amount that was a superannuation contribution for yourself. Any deduction for your own superannuation contributions must be claimed at Personal super contributions on your tax return.\nWhat you cannot claim\nYou cannot claim an amount for the following if it related to gaining your PSI:\n- rent, mortgage interest, rates or land tax for your residence (or the residence of an associate)\n- amounts paid to an associate for non-principal work, for example, support such as secretarial work\n- contributions to a superannuation fund for an associate doing solely non-principal work.\n### Deductions for payments to associates for principal work\nAdd up the total amount of payments made to associates for principal work.\n### Total amount of other deductions against PSI\nInclude only non-commercial business losses deferred from a prior year if they relate to a business activity which is the same as, or similar to, one of your current year business activities. See Loss details for an explanation of how the non-commercial business loss rules work.\nYour non-commercial business loss deduction may be reduced if:\n- you earned net exempt income in this income year, or\n- you became bankrupt or were released from any debts by the operation of an Act relating to bankruptcy.\nSee also How to defer your losses or phone 13 28 66 .\nIf you are registered or required to be registered for GST, your deductions should not include the amount that relates to input tax credit entitlements.",
+  "child_links": [],
+  "word_count": 1484,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

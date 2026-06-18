@@ -1,0 +1,362 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2020/tax-return/tax-offset-questions-t1-t2/t1-seniors-and-pensioners-tax-offset-2020",
+  "title": "T1 Seniors and pensioners (includes self-funded retirees) 2020",
+  "description": "Complete this question if you meet the conditions to claim the seniors and pensioners tax offset.",
+  "nat_number": "",
+  "quick_code": "61658",
+  "date_updated": "2020-05-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "Pensioner, Pensioner tax offset, Senior Australian, Senior Australians tax offset (SATO), TaxPack, tax, government pension, tax return, 2020, paper tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "You can claim the seniors and pensioners tax offset only if you meet all the following conditions relating to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "eligibility for Australian Government pensions and similar payments",
+        "income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a spouse you also need to work out whether they were eligible. See the definition of spouse in Special circumstances and glossary 2020 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim this tax offset if you were in jail for the whole of 2019–20."
+    },
+    {
+      "type": "paragraph",
+      "text": "Work out your rebate income using the worksheet in Rebate income 2020 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Condition 1: Eligibility for Australian Government pensions and similar payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "You meet this condition if any of the following applied to you in 2019–20."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Condition",
+          "Explanation"
+        ],
+        [
+          "A",
+          "You showed at item 6 on your return: an Australian Government pension or allowance from Centrelink, or a pension, allowance or benefit from the Department of Veterans' Affairs (DVA)."
+        ],
+        [
+          "B",
+          "You satisfied the Centrelink age pension age requirement and were eligible for an Australian Government age pension during 2019–20, but did not receive it because you did not make a claim or because of the application of the income test or the assets test, and you satisfy one of the following: you have been an Australian resident for age-pension purposes for either 10 continuous years or for more than 10 years of which five years were continuous you have a qualifying residence exemption (because you arrived in Australia as a refugee or under a special humanitarian program) you are a woman who was widowed in Australia (at a time when both you and your late partner were Australian residents), you have made a claim for the age pension and you had two years residence immediately before your claim you received a widow B pension, widow allowance or partner allowance immediately before turning age-pension age you would qualify under an international social security agreement. To find out whether you meet the Centrelink age pension age requirement, go to More information . If you need help to determine your eligibility for a social security or Centrelink pension only, go to servicesaustralia.gov.au External Link or phone Services Australia on 13 23 00 . For all other enquiries about the seniors and pensioners tax offset, phone 13 28 61 ."
+        ],
+        [
+          "C",
+          "You satisfied the veteran pension age test and were eligible for a pension, allowance or benefit from Veterans' Affairs during 2019–20, but did not receive it because you did not make a claim or because of the application of the income test or the assets test, and you satisfy either of the following: you are a veteran with eligible war service, or you are a Commonwealth veteran, allied veteran or allied mariner with qualifying service. To find out whether you meet the veteran pension age test, go to More information . If you are not sure whether you were eligible for a payment, go to dva.gov.au External Link or phone Veterans' Affairs on 1800 555 254 ."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you meet condition 1?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "Read condition 2."
+        ],
+        [
+          "No",
+          "You are not eligible for this tax offset. Go to question T2 Australian superannuation income stream 2020 , or return to main menu Individual tax return instructions 2020 ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Condition 2: Income"
+    },
+    {
+      "type": "paragraph",
+      "text": "You meet this condition if any of the following applied to you in 2019–20:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you did not have a spouse, and your rebate income was less than $50,119",
+        "you had a spouse, and the combined rebate income of you and your spouse was less than $83,580",
+        "at any time during the year you and your spouse had to live apart due to illness or because one of you was in a nursing home, and the combined rebate income of you and your spouse was less than $95,198."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The combined rebate income is the total of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your rebate income",
+        "your spouse's rebate income",
+        "the amount on which a trustee of a trust was liable to pay tax in respect of your spouse because your spouse was under a legal disability, such as being an undischarged bankrupt or a person who was declared legally incapable because of a mental condition."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you meet condition 2?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "Go to Completing your tax return ."
+        ],
+        [
+          "No",
+          "You are not eligible for this tax offset. Go to question T2 Australian superannuation income stream 2020 , or return to main menu Individual tax return instructions 2020 ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work out which of the following code letters applied to your circumstances at any time in 2019–20."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Code letter",
+          "Explanation"
+        ],
+        [
+          "A",
+          "You were single, separated or widowed."
+        ],
+        [
+          "B",
+          "You and your spouse were both eligible for the seniors and pensioners tax offset, and had to live apart due to illness or lived apart because one of you was in a nursing home."
+        ],
+        [
+          "C",
+          "Your spouse was not eligible for the seniors and pensioners tax offset, and you and your spouse had to live apart due to illness or because one of you was in a nursing home."
+        ],
+        [
+          "D",
+          "You and your spouse lived together and you were both eligible for the seniors and pensioners tax offset."
+        ],
+        [
+          "E",
+          "You and your spouse lived together, but your spouse was not eligible for the seniors and pensioners tax offset."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Had to live apart due to illness refers to situations where you and your spouse did not live together because one or both of you have an indefinitely continuing illness or infirmity and, as a result your combined living expenses were increased."
+    },
+    {
+      "type": "paragraph",
+      "text": "If only one code letter above applied, go to step 2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If more than one code letter applied, use the first code letter in the list above that applied to you, except as shown in the following table."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Code letter",
+          "Explanation"
+        ],
+        [
+          "B",
+          "If both A and B applied, and your spouse's taxable income was less than $18,334."
+        ],
+        [
+          "D",
+          "If both A and D applied, and your spouse's taxable income was less than $12,494."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your spouse's taxable income is the amount shown at label O on page 9 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print your code letter in the TAX OFFSET CODE box at N item T1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "We will work out the amount of your tax offset."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you or your spouse was a veteran, war widow or war widower, read on. Otherwise, go to step 4 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Select the code letter that applies to you."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Code letter",
+          "Explanation"
+        ],
+        [
+          "V",
+          "You were a veteran, war widow or war widower."
+        ],
+        [
+          "W",
+          "Your spouse was a veteran, war widow or war widower."
+        ],
+        [
+          "X",
+          "Both V and W apply to you."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Print the code letter in the VETERAN CODE box at Y item T1 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must read Income tests 2020 and complete all income tests items."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your seniors and pensioners tax offset code letter is A go to question T2 Australian superannuation income stream 2020 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your seniors and pensioners tax offset code letter is B , C , D or E , you must complete Spouse details – married or de facto 2020 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Any unused portion of tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "If both you and your spouse are eligible for the seniors and pensioners tax offset and one of you does not use all of it, the unused portion may be available for transfer to the other person. We will work this out automatically and transfer any entitlement."
+    },
+    {
+      "type": "paragraph",
+      "text": "In working out if there is any unused spouse’s seniors and pensioners tax offset available to transfer to you, we do not take your spouse’s other credits and tax offsets into account."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "More information"
+    },
+    {
+      "type": "paragraph",
+      "text": "To be eligible for an Australian Government age pension from Centrelink, on 30 June 2020 a pensioner must be 66 years or older External Link ."
+    },
+    {
+      "type": "paragraph",
+      "text": "To be eligible for a pension, allowance or benefit from Veterans' Affairs you must meet the veteran pension age test and on 30 June 2020 be 60 years old or older."
+    },
+    {
+      "type": "paragraph",
+      "text": "You meet the veteran pension age test if one of the following applied to you and you were eligible for a pension, allowance or benefit under the Veterans' Entitlements Act 1986 :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you have eligible war service, that is, service in World War II or operational service as a member of the Australian Defence Force",
+        "you are a Commonwealth or allied veteran who served in a conflict in which the Australian Defence Force was engaged during a period of hostilities that is, World War II, or in Korea, Malaya, Indonesia or Vietnam",
+        "you are an Australian or allied mariner who served during World War II",
+        "you are the war widow or widower of a former member of the Australian Defence Force."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Pension, allowance or benefit includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "disability pension",
+        "service pension, and",
+        "white or gold Repatriation health cards for treatment entitlements."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are not sure if you meet the veteran pension age test, go to dva.gov.au External Link or phone Veterans' Affairs on 1800 555 254 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question T2 Australian superannuation income stream 2020 .",
+        "Return to main menu Individual tax return instructions 2020 .",
+        "Go back to Taxable income or loss 2020 ."
+      ]
+    }
+  ],
+  "content_text": "You can claim the seniors and pensioners tax offset only if you meet all the following conditions relating to:\n- eligibility for Australian Government pensions and similar payments\n- income.\nIf you have a spouse you also need to work out whether they were eligible. See the definition of spouse in Special circumstances and glossary 2020 .\nYou cannot claim this tax offset if you were in jail for the whole of 2019–20.\nWork out your rebate income using the worksheet in Rebate income 2020 .\n## Answering this question\n### Condition 1: Eligibility for Australian Government pensions and similar payments\nYou meet this condition if any of the following applied to you in 2019–20.\nCondition | Explanation\nA | You showed at item 6 on your return: an Australian Government pension or allowance from Centrelink, or a pension, allowance or benefit from the Department of Veterans' Affairs (DVA).\nB | You satisfied the Centrelink age pension age requirement and were eligible for an Australian Government age pension during 2019–20, but did not receive it because you did not make a claim or because of the application of the income test or the assets test, and you satisfy one of the following: you have been an Australian resident for age-pension purposes for either 10 continuous years or for more than 10 years of which five years were continuous you have a qualifying residence exemption (because you arrived in Australia as a refugee or under a special humanitarian program) you are a woman who was widowed in Australia (at a time when both you and your late partner were Australian residents), you have made a claim for the age pension and you had two years residence immediately before your claim you received a widow B pension, widow allowance or partner allowance immediately before turning age-pension age you would qualify under an international social security agreement. To find out whether you meet the Centrelink age pension age requirement, go to More information . If you need help to determine your eligibility for a social security or Centrelink pension only, go to servicesaustralia.gov.au External Link or phone Services Australia on 13 23 00 . For all other enquiries about the seniors and pensioners tax offset, phone 13 28 61 .\nC | You satisfied the veteran pension age test and were eligible for a pension, allowance or benefit from Veterans' Affairs during 2019–20, but did not receive it because you did not make a claim or because of the application of the income test or the assets test, and you satisfy either of the following: you are a veteran with eligible war service, or you are a Commonwealth veteran, allied veteran or allied mariner with qualifying service. To find out whether you meet the veteran pension age test, go to More information . If you are not sure whether you were eligible for a payment, go to dva.gov.au External Link or phone Veterans' Affairs on 1800 555 254 .\nDo you meet condition 1?\nYes | Read condition 2.\nNo | You are not eligible for this tax offset. Go to question T2 Australian superannuation income stream 2020 , or return to main menu Individual tax return instructions 2020 .\n### Condition 2: Income\nYou meet this condition if any of the following applied to you in 2019–20:\n- you did not have a spouse, and your rebate income was less than $50,119\n- you had a spouse, and the combined rebate income of you and your spouse was less than $83,580\n- at any time during the year you and your spouse had to live apart due to illness or because one of you was in a nursing home, and the combined rebate income of you and your spouse was less than $95,198.\nThe combined rebate income is the total of:\n- your rebate income\n- your spouse's rebate income\n- the amount on which a trustee of a trust was liable to pay tax in respect of your spouse because your spouse was under a legal disability, such as being an undischarged bankrupt or a person who was declared legally incapable because of a mental condition.\nDo you meet condition 2?\nYes | Go to Completing your tax return .\nNo | You are not eligible for this tax offset. Go to question T2 Australian superannuation income stream 2020 , or return to main menu Individual tax return instructions 2020 .\n## Completing your tax return\n### Step 1\nWork out which of the following code letters applied to your circumstances at any time in 2019–20.\nCode letter | Explanation\nA | You were single, separated or widowed.\nB | You and your spouse were both eligible for the seniors and pensioners tax offset, and had to live apart due to illness or lived apart because one of you was in a nursing home.\nC | Your spouse was not eligible for the seniors and pensioners tax offset, and you and your spouse had to live apart due to illness or because one of you was in a nursing home.\nD | You and your spouse lived together and you were both eligible for the seniors and pensioners tax offset.\nE | You and your spouse lived together, but your spouse was not eligible for the seniors and pensioners tax offset.\nHad to live apart due to illness refers to situations where you and your spouse did not live together because one or both of you have an indefinitely continuing illness or infirmity and, as a result your combined living expenses were increased.\nIf only one code letter above applied, go to step 2 .\nIf more than one code letter applied, use the first code letter in the list above that applied to you, except as shown in the following table.\nCode letter | Explanation\nB | If both A and B applied, and your spouse's taxable income was less than $18,334.\nD | If both A and D applied, and your spouse's taxable income was less than $12,494.\nYour spouse's taxable income is the amount shown at label O on page 9 of your tax return.\n### Step 2\nPrint your code letter in the TAX OFFSET CODE box at N item T1 .\nWe will work out the amount of your tax offset.\n### Step 3\nIf you or your spouse was a veteran, war widow or war widower, read on. Otherwise, go to step 4 .\nSelect the code letter that applies to you.\nCode letter | Explanation\nV | You were a veteran, war widow or war widower.\nW | Your spouse was a veteran, war widow or war widower.\nX | Both V and W apply to you.\nPrint the code letter in the VETERAN CODE box at Y item T1 .\n### Step 4\nYou must read Income tests 2020 and complete all income tests items.\n### Step 5\nIf your seniors and pensioners tax offset code letter is A go to question T2 Australian superannuation income stream 2020 .\nIf your seniors and pensioners tax offset code letter is B , C , D or E , you must complete Spouse details – married or de facto 2020 .\n## Any unused portion of tax offset\nIf both you and your spouse are eligible for the seniors and pensioners tax offset and one of you does not use all of it, the unused portion may be available for transfer to the other person. We will work this out automatically and transfer any entitlement.\nIn working out if there is any unused spouse’s seniors and pensioners tax offset available to transfer to you, we do not take your spouse’s other credits and tax offsets into account.\n## More information\nTo be eligible for an Australian Government age pension from Centrelink, on 30 June 2020 a pensioner must be 66 years or older External Link .\nTo be eligible for a pension, allowance or benefit from Veterans' Affairs you must meet the veteran pension age test and on 30 June 2020 be 60 years old or older.\nYou meet the veteran pension age test if one of the following applied to you and you were eligible for a pension, allowance or benefit under the Veterans' Entitlements Act 1986 :\n- you have eligible war service, that is, service in World War II or operational service as a member of the Australian Defence Force\n- you are a Commonwealth or allied veteran who served in a conflict in which the Australian Defence Force was engaged during a period of hostilities that is, World War II, or in Korea, Malaya, Indonesia or Vietnam\n- you are an Australian or allied mariner who served during World War II\n- you are the war widow or widower of a former member of the Australian Defence Force.\nPension, allowance or benefit includes:\n- disability pension\n- service pension, and\n- white or gold Repatriation health cards for treatment entitlements.\nIf you are not sure if you meet the veteran pension age test, go to dva.gov.au External Link or phone Veterans' Affairs on 1800 555 254 .\n## Where to go next\n- Go to question T2 Australian superannuation income stream 2020 .\n- Return to main menu Individual tax return instructions 2020 .\n- Go back to Taxable income or loss 2020 .",
+  "child_links": [],
+  "word_count": 1563,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

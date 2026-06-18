@@ -1,0 +1,332 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2012/tax-return/deduction-questions-d1-d10/d6-low-value-pool-deduction-2012",
+  "title": "D6 - Low-value pool deduction 2012",
+  "description": "Complete question D6 to claiming a deduction for the decline in value of low-cost and low-value assets.",
+  "nat_number": "71050",
+  "quick_code": "25690",
+  "date_updated": "2012-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about claiming a deduction for the decline in value of low-cost and low-value assets you used in the course of producing income you show on your tax return, by allocating them to what is called a low-value pool. (Claims for deduction for the decline in value of assets are dealt with at other questions.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Low-cost assets are depreciating assets that cost less than $1,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "Low-value assets are depreciating assets that are not low-cost assets but which, on 1 July 2011, had been written off to less than $1,000 under the diminishing value method."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can have only one low-value pool. Once you choose to allocate a low-cost asset to a low-value pool, you must allocate to the pool all other low-cost assets you hold in that year and in future years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Assets you can allocate to a low-value pool include assets you use:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "in your work as an employee (see questions D1 - Work-related car expenses to D5 - Other work-related expenses ), or",
+        "to gain rental income (see question 21 - Rent )."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "However, if you claim the deduction at this item, do not claim it at items D1 to D5 and 21 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following cannot be included in a low-value pool:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "assets you have previously claimed deductions for using the prime cost method",
+        "assets that cost $300 or less for which you can claim an immediate deduction",
+        "assets for which you deduct amounts under the simplified depreciation rules for small business entities; for more information, see Business and professional items 2012 (NAT 2543)",
+        "horticultural plants",
+        "a portable electronic device (such as a mobile phone, personal digital assistant or laptop computer), computer software, protective clothing, a briefcase or a tool of trade, which is primarily for use in your employment, if your employer provided it, paid for it or reimbursed you for any of its cost, and the benefit was exempt from fringe benefits tax."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your low-value pool contains only assets used in business, do not include your deduction here, but include it instead at item P8 on the Business and professional items schedule for individuals 2012 (NAT 2816)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Did you allocate assets to a low-value pool in 2011-12 or in a previous year?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to question D7 - Interest deductions , or return to main menu Individual tax return instructions"
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you allocate an asset to a low-value pool, you must make a reasonable estimate of the percentage you will use the asset to produce your assessable income over its effective life (for a low-cost asset) or remaining effective life (for a low-value asset). This estimate is called your taxable use percentage for the asset."
+    },
+    {
+      "type": "paragraph",
+      "text": "You work out your low-value pool deduction using a diminishing value rate. A rate of 37.5% is generally applied to the pool balance. However, a rate of 18.75%, or half the normal pool rate, is applied to the taxable use percentage of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the cost of each low-cost asset you allocate to the pool this income year",
+        "any additional capital costs (such as improvements) you incur this income year for assets you allocated to the pool in an earlier income year and for low-value assets you allocate to the pool this income year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Read example 1 , then use worksheet 1 to work out your deduction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Edward bought a printer for $600 in 2011-12. His employer did not pay or reimburse any of the cost of the printer. He decided to allocate it to a low-value pool. He estimated that over its effective life the printer would be used 40% of the time to produce his assessable income as an employee."
+    },
+    {
+      "type": "paragraph",
+      "text": "$600 40% is $240. Therefore, Edward will write $240 at (e) in worksheet 1."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the first year of Edward's low-value pool."
+    },
+    {
+      "type": "paragraph",
+      "text": "Edward previously claimed deductions under the diminishing value method for a laptop computer he had purchased for $1,500. His employer did not pay or reimburse any of the cost of the computer. The laptop's opening adjustable value on 1 July 2011 was $900."
+    },
+    {
+      "type": "paragraph",
+      "text": "Edward estimates that he will use it solely to produce his assessable income for its remaining effective life. Edward allocates the laptop to the pool in 2011-12 as it is now a low-value asset."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Work sheet 1"
+        ],
+        [
+          "Low-value pool deduction",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Edward",
+          "You"
+        ],
+        [
+          "The closing balance of the pool for 2010-11. If you did not have a low-value pool in 2010-11, write 0 at (a).",
+          "$0",
+          "$",
+          "(a)"
+        ],
+        [
+          "For each low-value asset allocated to the pool in 2011-12, multiply its opening adjustable value (on 1 July 2011) by your taxable use percentage for the asset. Add up the amounts and write the total at (b).",
+          "$900",
+          "$",
+          "(b)"
+        ],
+        [
+          "Add (a) and (b).",
+          "$900",
+          "$",
+          "(c)"
+        ],
+        [
+          "Multiply (c) by 0.375.",
+          "$337",
+          "$",
+          "(d)"
+        ],
+        [
+          "For each low-cost asset allocated to the pool in 2011-12, multiply its cost (including additional capital costs incurred in 2011-12, such as improvements) by your taxable use percentage for the asset. Add up the amounts and write the total at (e).",
+          "$240",
+          "$",
+          "(e)"
+        ],
+        [
+          "For each asset allocated to the pool in a prior income year, and low-value asset allocated to the pool in 2011-12 for which you incurred additional capital costs (such as improvements) in 2011-12, multiply the costs by your taxable use percentage for the asset. Add up the amounts and write the total at (f).",
+          "$0",
+          "$",
+          "(f)"
+        ],
+        [
+          "Add (e) and (f).",
+          "$240",
+          "$",
+          "(g)"
+        ],
+        [
+          "Multiply (g) by 0.1875.",
+          "$45",
+          "$",
+          "(h)"
+        ],
+        [
+          "Add (d) and (h).",
+          "$382",
+          "$",
+          "(i)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at (i) is the total low-value pool deduction. Edward will show $382 at K item D6 on his tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Using worksheet 1 , work out your total low-value pool deduction. Transfer the amount you worked out at (i) to K item D6 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need the closing pool balance for 2011-12 to calculate your low-value pool deduction for next year. Use worksheet 2 to work out the closing balance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some common events, such as the sale or disposal of an asset in the low-value pool, or the asset's loss or destruction, result in a 'balancing adjustment event'. If there has been a balancing adjustment event for an asset in the pool, you must reduce the closing pool balance. To do this, you multiply the asset's termination value (generally any proceeds, including any insurance payout, from the event) by your taxable use percentage for the asset. Your closing pool balance is reduced by the amount that results from this multiplication. There is space for you to include this amount in worksheet 2 . If this amount is more than the closing pool balance, you reduce the closing pool balance to nil and include the excess amount in Other income at item 24 on your tax return (supplementary section)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep a record of your 2011-12 closing pool balance for next year's tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "More information"
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Guide to depreciating assets 2012 (NAT 1996)."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Wor ksheet 2"
+        ],
+        [
+          "Closing balance for 2011-12",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Edward",
+          "You"
+        ],
+        [
+          "Transfer amount from (a) in worksheet 1.",
+          "$0",
+          "$",
+          "(j)"
+        ],
+        [
+          "Transfer amount from (b) in worksheet 1.",
+          "$900",
+          "$",
+          "(k)"
+        ],
+        [
+          "Transfer amount from (e) in worksheet 1.",
+          "$240",
+          "$",
+          "(l)"
+        ],
+        [
+          "Transfer amount from (f) in worksheet 1.",
+          "$0",
+          "$",
+          "(m)"
+        ],
+        [
+          "Add (j), (k), (l) and (m).",
+          "$1140",
+          "$",
+          "(n)"
+        ],
+        [
+          "Transfer amount from (i) in worksheet 1.",
+          "$382",
+          "$",
+          "(o)"
+        ],
+        [
+          "Take (o) away from (n).",
+          "$758",
+          "$",
+          "(p)"
+        ],
+        [
+          "For each pool asset subject to a balancing adjustment event in 2011-12, multiply its termination value by your taxable use percentage for the asset (see step 2 above). Add up the amounts and write the total at (q).",
+          "$0",
+          "$",
+          "(q)"
+        ],
+        [
+          "Take (q) away from (p). This is your closing pool balance for 2011-12.",
+          "$758",
+          "$",
+          "(r)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to D7 - Interest deductions return to main menu Individual tax return instructions go back to D5 - Other work-related expenses"
+        ]
+      ]
+    }
+  ],
+  "content_text": "This question is about claiming a deduction for the decline in value of low-cost and low-value assets you used in the course of producing income you show on your tax return, by allocating them to what is called a low-value pool. (Claims for deduction for the decline in value of assets are dealt with at other questions.)\nLow-cost assets are depreciating assets that cost less than $1,000.\nLow-value assets are depreciating assets that are not low-cost assets but which, on 1 July 2011, had been written off to less than $1,000 under the diminishing value method.\nYou can have only one low-value pool. Once you choose to allocate a low-cost asset to a low-value pool, you must allocate to the pool all other low-cost assets you hold in that year and in future years.\nAssets you can allocate to a low-value pool include assets you use:\n- in your work as an employee (see questions D1 - Work-related car expenses to D5 - Other work-related expenses ), or\n- to gain rental income (see question 21 - Rent ).\nHowever, if you claim the deduction at this item, do not claim it at items D1 to D5 and 21 .\nThe following cannot be included in a low-value pool:\n- assets you have previously claimed deductions for using the prime cost method\n- assets that cost $300 or less for which you can claim an immediate deduction\n- assets for which you deduct amounts under the simplified depreciation rules for small business entities; for more information, see Business and professional items 2012 (NAT 2543)\n- horticultural plants\n- a portable electronic device (such as a mobile phone, personal digital assistant or laptop computer), computer software, protective clothing, a briefcase or a tool of trade, which is primarily for use in your employment, if your employer provided it, paid for it or reimbursed you for any of its cost, and the benefit was exempt from fringe benefits tax.\nIf your low-value pool contains only assets used in business, do not include your deduction here, but include it instead at item P8 on the Business and professional items schedule for individuals 2012 (NAT 2816).\n## Did you allocate assets to a low-value pool in 2011-12 or in a previous year?\nNO | Go to question D7 - Interest deductions , or return to main menu Individual tax return instructions\nYES | Read below.\n### Answering this question\nWhen you allocate an asset to a low-value pool, you must make a reasonable estimate of the percentage you will use the asset to produce your assessable income over its effective life (for a low-cost asset) or remaining effective life (for a low-value asset). This estimate is called your taxable use percentage for the asset.\nYou work out your low-value pool deduction using a diminishing value rate. A rate of 37.5% is generally applied to the pool balance. However, a rate of 18.75%, or half the normal pool rate, is applied to the taxable use percentage of:\n- the cost of each low-cost asset you allocate to the pool this income year\n- any additional capital costs (such as improvements) you incur this income year for assets you allocated to the pool in an earlier income year and for low-value assets you allocate to the pool this income year.\nRead example 1 , then use worksheet 1 to work out your deduction.\nExample 1\nEdward bought a printer for $600 in 2011-12. His employer did not pay or reimburse any of the cost of the printer. He decided to allocate it to a low-value pool. He estimated that over its effective life the printer would be used 40% of the time to produce his assessable income as an employee.\n$600 40% is $240. Therefore, Edward will write $240 at (e) in worksheet 1.\nThis is the first year of Edward's low-value pool.\nEdward previously claimed deductions under the diminishing value method for a laptop computer he had purchased for $1,500. His employer did not pay or reimburse any of the cost of the computer. The laptop's opening adjustable value on 1 July 2011 was $900.\nEdward estimates that he will use it solely to produce his assessable income for its remaining effective life. Edward allocates the laptop to the pool in 2011-12 as it is now a low-value asset.\nWork sheet 1\nLow-value pool deduction |  | \n | Edward | You\nThe closing balance of the pool for 2010-11. If you did not have a low-value pool in 2010-11, write 0 at (a). | $0 | $ | (a)\nFor each low-value asset allocated to the pool in 2011-12, multiply its opening adjustable value (on 1 July 2011) by your taxable use percentage for the asset. Add up the amounts and write the total at (b). | $900 | $ | (b)\nAdd (a) and (b). | $900 | $ | (c)\nMultiply (c) by 0.375. | $337 | $ | (d)\nFor each low-cost asset allocated to the pool in 2011-12, multiply its cost (including additional capital costs incurred in 2011-12, such as improvements) by your taxable use percentage for the asset. Add up the amounts and write the total at (e). | $240 | $ | (e)\nFor each asset allocated to the pool in a prior income year, and low-value asset allocated to the pool in 2011-12 for which you incurred additional capital costs (such as improvements) in 2011-12, multiply the costs by your taxable use percentage for the asset. Add up the amounts and write the total at (f). | $0 | $ | (f)\nAdd (e) and (f). | $240 | $ | (g)\nMultiply (g) by 0.1875. | $45 | $ | (h)\nAdd (d) and (h). | $382 | $ | (i)\nThe amount at (i) is the total low-value pool deduction. Edward will show $382 at K item D6 on his tax return.\n### Completing your tax return\n#### Step 1\nUsing worksheet 1 , work out your total low-value pool deduction. Transfer the amount you worked out at (i) to K item D6 .\n#### Step 2\nYou will need the closing pool balance for 2011-12 to calculate your low-value pool deduction for next year. Use worksheet 2 to work out the closing balance.\nSome common events, such as the sale or disposal of an asset in the low-value pool, or the asset's loss or destruction, result in a 'balancing adjustment event'. If there has been a balancing adjustment event for an asset in the pool, you must reduce the closing pool balance. To do this, you multiply the asset's termination value (generally any proceeds, including any insurance payout, from the event) by your taxable use percentage for the asset. Your closing pool balance is reduced by the amount that results from this multiplication. There is space for you to include this amount in worksheet 2 . If this amount is more than the closing pool balance, you reduce the closing pool balance to nil and include the excess amount in Other income at item 24 on your tax return (supplementary section).\nKeep a record of your 2011-12 closing pool balance for next year's tax return.\n### More information\nFor more information, see Guide to depreciating assets 2012 (NAT 1996).\nWor ksheet 2\nClosing balance for 2011-12 |  | \n | Edward | You\nTransfer amount from (a) in worksheet 1. | $0 | $ | (j)\nTransfer amount from (b) in worksheet 1. | $900 | $ | (k)\nTransfer amount from (e) in worksheet 1. | $240 | $ | (l)\nTransfer amount from (f) in worksheet 1. | $0 | $ | (m)\nAdd (j), (k), (l) and (m). | $1140 | $ | (n)\nTransfer amount from (i) in worksheet 1. | $382 | $ | (o)\nTake (o) away from (n). | $758 | $ | (p)\nFor each pool asset subject to a balancing adjustment event in 2011-12, multiply its termination value by your taxable use percentage for the asset (see step 2 above). Add up the amounts and write the total at (q). | $0 | $ | (q)\nTake (q) away from (p). This is your closing pool balance for 2011-12. | $758 | $ | (r)\nWhere to go next go to D7 - Interest deductions return to main menu Individual tax return instructions go back to D5 - Other work-related expenses",
+  "child_links": [],
+  "word_count": 1404,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

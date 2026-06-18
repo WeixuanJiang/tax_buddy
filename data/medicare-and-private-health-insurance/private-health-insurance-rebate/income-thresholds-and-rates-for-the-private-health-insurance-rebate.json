@@ -1,0 +1,730 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/private-health-insurance-rebate/income-thresholds-and-rates-for-the-private-health-insurance-rebate",
+  "title": "Income thresholds and rates for the private health insurance rebate",
+  "description": "Find out the private health insurance rebate income thresholds and rebate percentage rates.",
+  "nat_number": "",
+  "quick_code": "49965",
+  "date_updated": "2026-02-25T13:00:00Z",
+  "first_published": "",
+  "keywords": "thresholds PHI, rates PHI, thresholds insurance rebate, threshold health insurance percentage, income thresholds, PHI rebate, medicare levy, private health insurance, rebate rates, rebate tiers",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Income thresholds"
+    },
+    {
+      "type": "paragraph",
+      "text": "The private health insurance rebate is income tested. This means that if your income is higher than the relevant income threshold, you may not be eligible to receive a rebate. Your rebate entitlement depends on your family status on 30 June. Different thresholds apply depending on whether you have a single income or a family income."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you lodge your tax return, we calculate your income for surcharge purposes and determine your rebate entitlement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your entitlement is also based on the age of the oldest person covered by the policy."
+    },
+    {
+      "type": "paragraph",
+      "text": "The income thresholds used to calculate the Medicare levy surcharge and private health insurance rebate have increased from 1 July 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "To calculate your private health insurance rebate, see Private health insurance rebate calculator ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Single or family income threshold"
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on your situation, your income may be tested against either the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Single income thresholds",
+        "Family income thresholds ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Single income thresholds"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are single on the last day of the income year and have no dependants, you are income tested against the single income thresholds."
+    },
+    {
+      "type": "paragraph",
+      "text": "This applies even if you had a spouse for the majority of the year, as long as you were single on the last day (30 June) of the income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you separated from your spouse during the financial year and remain single with no dependants on 30 June, your rebate entitlement is calculated only on your own income."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your entitlement to a private health insurance rebate is based on your income for surcharge purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were single on 30 June, but had dependent children, you are considered a family and will be income tested using the family income thresholds."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Family income thresholds"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a spouse on the last day of the income year (30 June), your income will be tested against the family income thresholds. Your entitlement to a private health insurance rebate is assessed on your and your spouse's combined income for surcharge purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The family income thresholds also apply if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you are a single parent with one or more dependants",
+        "you don't have a spouse on the last day of the income year and you either maintain a dependent child or children or contribute in a substantial way to the maintenance of a dependent child."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your spouse died in the income year and you were single on 30 June with no dependants, use your and your spouse's income for surcharge purposes to determine your entitlement under the family income thresholds."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have 2 or more children, the family income threshold is increased by $1,500 for every Medicare levy surcharge dependent child after the first child. For example, if you have 3 dependent children, your family income threshold increases by $3,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "None of your dependent children's income is included when calculating family income. Medicare levy surcharge dependent child is different to dependent persons who may be covered by your private health insurance policy. See Dependent persons covered by a policy ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Family status on 30 June"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your family status on the last day of the income year (30 June) determines whether the single or family income thresholds apply to you. The table below provides a quick guide to when single or family thresholds apply."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Your status on 30 June",
+          "Single thresholds",
+          "Family thresholds",
+          "Whose income for the full year is included in income test?"
+        ],
+        [
+          "You were single",
+          "Yes",
+          "No",
+          "Yours"
+        ],
+        [
+          "You had a spouse",
+          "No",
+          "Yes (see Note )",
+          "Yours and your spouse’s"
+        ],
+        [
+          "You were a single parent",
+          "No",
+          "Yes (see Note )",
+          "Yours"
+        ],
+        [
+          "You separated from your spouse during the year and were single with no dependent children",
+          "Yes",
+          "No",
+          "Yours"
+        ],
+        [
+          "You separated from your spouse during the year and were single with dependent children",
+          "No",
+          "Yes (see Note )",
+          "Yours"
+        ],
+        [
+          "You were single for part of the year and then had a spouse and no dependent children",
+          "No",
+          "Yes",
+          "Yours and your spouse’s"
+        ],
+        [
+          "You were single for part of the year and then had a spouse and dependent children",
+          "No",
+          "Yes (see Note )",
+          "Yours and your spouse’s"
+        ],
+        [
+          "Your spouse died during the year and you were single and had no dependent children",
+          "No",
+          "Yes",
+          "Yours and your spouse’s"
+        ],
+        [
+          "Your spouse died during the year and you were single and had dependent children",
+          "No",
+          "Yes (see Note )",
+          "Yours and your spouse’s"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note : The family income threshold is increased by $1,500 for each Medicare levy surcharge dependent child after the first child."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Income thresholds and rebate rates by income year"
+    },
+    {
+      "type": "paragraph",
+      "text": "Income thresholds and rebate rates for the private health insurance rebate:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "2025–26 income thresholds and rebate rates",
+        "2024–25 income thresholds and rebate rates",
+        "Prior year thresholds and rebate rates"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "2025–26 income thresholds and rebate rates"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Family status",
+          "Base tier",
+          "Tier 1",
+          "Tier 2",
+          "Tier 3"
+        ],
+        [
+          "Single",
+          "$101,000 or less",
+          "$101,001 – $118,000",
+          "$118,001 – $158,000",
+          "$158,001 or more"
+        ],
+        [
+          "Family (see Note 1 )",
+          "$202,000 or less",
+          "$202,001 – $236,000",
+          "$236,001 – $316,000",
+          "$316,001 or more"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Rebate if the oldest person covered by the policy is:",
+          "Base tier",
+          "Tier 1",
+          "Tier 2",
+          "Tier 3"
+        ],
+        [
+          "Under 65 years old",
+          "24.288%",
+          "16.192%",
+          "8.095%",
+          "0.000%"
+        ],
+        [
+          "65 – 69 years old",
+          "28.337%",
+          "20.240%",
+          "12.143%",
+          "0.000%"
+        ],
+        [
+          "70 years old and over",
+          "32.385%",
+          "24.288%",
+          "16.192%",
+          "0.000%"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Rebate if the oldest person covered by the policy is:",
+          "Base tier",
+          "Tier 1",
+          "Tier 2",
+          "Tier 3"
+        ],
+        [
+          "Under 65 years old",
+          "24.118%",
+          "16.079%",
+          "8.038%",
+          "0.000%"
+        ],
+        [
+          "65 – 69 years old",
+          "28.139%",
+          "20.098%",
+          "12.058%",
+          "0.000%"
+        ],
+        [
+          "70 years old and over",
+          "32.158%",
+          "24.118%",
+          "16.079%",
+          "0.000%"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "2024–25 income thresholds and rebate rates"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Family status",
+          "Base tier",
+          "Tier 1",
+          "Tier 2",
+          "Tier 3"
+        ],
+        [
+          "Single",
+          "$97,000 or less",
+          "$97,001 – $113,000",
+          "$113,001 – $151,000",
+          "$151,001 or more"
+        ],
+        [
+          "Family (see Note 1 )",
+          "$194,000 or less",
+          "$194,001 – $226,000",
+          "$226,001 – $302,000",
+          "$302,001 or more"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Rebate if the oldest person covered by the policy is:",
+          "Base tier",
+          "Tier 1",
+          "Tier 2",
+          "Tier 3"
+        ],
+        [
+          "Under 65 years old",
+          "24.608%",
+          "16.405%",
+          "8.202%",
+          "0.000%"
+        ],
+        [
+          "65 – 69 years old",
+          "28.710%",
+          "20.507%",
+          "12.303%",
+          "0.000%"
+        ],
+        [
+          "70 years old and over",
+          "32.812%",
+          "24.608%",
+          "16.405%",
+          "0.000%"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Rebate if the oldest person covered by the policy is:",
+          "Base tier",
+          "Tier 1",
+          "Tier 2",
+          "Tier 3"
+        ],
+        [
+          "Under 65 years old",
+          "24.288%",
+          "16.192%",
+          "8.095%",
+          "0.000%"
+        ],
+        [
+          "65 – 69 years old",
+          "28.337%",
+          "20.240%",
+          "12.143%",
+          "0.000%"
+        ],
+        [
+          "70 years old and over",
+          "32.385%",
+          "24.288%",
+          "16.192%",
+          "0.000%"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note 1 : The family income threshold is increased by $1,500 for each Medicare levy surcharge dependent child after the first child."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your rebate rate is the percent that you get back from your health insurance premiums in the form of a reduction of the premium or as a refundable tax offset. Your rebate entitlement depends on your family status at the end of the income year (30 June). Different thresholds apply depending on whether you have a single income or a family income ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Income tests for the private health insurance rebate"
+    },
+    {
+      "type": "paragraph",
+      "text": "When estimating your income for private health insurance rebate purposes, you need to think about how your circumstances may affect whether the single or family threshold applies, including:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "whether you or your spouse expects an increase in income in the income year – for example, from a promotion, change in employment, or overtime",
+        "your single or family status – for example, having a partner at the end of the income year",
+        "whether any dependent children will no longer be in your care",
+        "if any dependent children are turning 21 years old older than 21 and under 25 years old, and no longer in full-time study."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Each adult covered by the policy is income tested:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "to determine their entitlement to a private health insurance rebate, regardless of who pays for the insurance policy",
+        "on their share of the cost of the insurance policy."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your circumstances may affect the income test for your private health insurance rebate:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "One adult covered by a policy",
+        "Multiple adults covered by a policy",
+        "Dependent persons covered by a policy",
+        "Dependent person-only policies"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "One adult covered by a policy"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are the only adult covered by a private health insurance policy, your share of the policy for rebate purposes is the total cost of the policy excluding any lifetime health cover loading. You are income tested to determine your private health insurance rebate entitlement regardless of who pays for the policy."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: one adult covered by a policy without lifetime health cover loading"
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2024–25, Narelle is single, 45 years old and the only adult covered by her private health insurance policy. She did not have any lifetime health cover loading."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 1 July 2024, Narelle nominated to receive a premium reduction of 16.405%. On 1 April 2025, the rebate percentage was not adjusted by the government. As a result, the health insurer continued to provide Narelle with a premium reduction of 16.405% for premiums paid from 1 April 2025 to 30 June 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "Narelle paid premiums monthly as follows:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$752 between 1 July 2024 and 31 March 2025 after premium reductions of $148.",
+        "$251 between 1 April 2025 and 30 June 2025 after premium reductions of $49."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When Narelle lodges her 2025 tax return, her income for surcharge purposes is $83,000. As her income is below $93,000, Narelle's private health insurance rebate entitlement is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "24.608% for premiums paid between 1 July 2024 and 30 June 2025."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Because Narelle received less rebate than she was entitled to from her insurer through reduced premiums, she gets a refundable tax offset of $98.30 in her 2025 tax return. This offset is listed on her notice of assessment."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: one adult covered by a policy with LHC loading – employer pays premiums"
+    },
+    {
+      "type": "paragraph",
+      "text": "Peta is 50 years old and is single. In 2024–25, Peta’s employer pays for her private health insurance policy as a condition of her employment. The total cost of Peta's policy is $1,200, which includes her lifetime health cover loading of $200. This means the premiums eligible for the rebate total $1,000. On 1 July 2024, Peta nominated to receive a 24.608% premium reduction for the policy. On 1 April 2025, the rebate percentage was not adjusted by the government and the health insurer continued to provide Peta with a premium reduction of 24.608% for premiums paid from 1 April 2025 to 30 June 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "Peta's employer pays premiums monthly as follows:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$715 between 1 July 2024 and 31 March 2025 after premium reductions of $185.",
+        "$238 between 1 April 2025 and 30 June 2025 after premium reductions of $62."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Peta lodges her 2025 tax return, and her income for surcharge purposes for the year is calculated as $109,000. Peta’s income falls into the income threshold for rebate entitlement of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "16.405% for premiums paid between 1 July 2024 and 31 March 2025.",
+        "16.405% for premiums paid between 1 April 2025 and 30 June 2025."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Because Peta received more rebate than she was entitled to from her insurer in form of reduced premiums, she incurs $82.95 liability for this extra rebate she had already claimed. The liability is listed on her notice of assessment."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Multiple adults covered by a policy"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a policy covers more than one adult, the premiums paid are divided into equal shares by the number of adults covered by the policy at the time of the payment, regardless of who paid the premium or whether the adults on the policy are a part of a couple."
+    },
+    {
+      "type": "paragraph",
+      "text": "Each adult’s share of the policy is equal to the total cost of the policy divided by the number of adults covered by the policy at the time of payment."
+    },
+    {
+      "type": "paragraph",
+      "text": "When they lodge their tax return, each adult is income tested to determine their private health insurance rebate entitlement for their share of the cost of the policy. As each adult will be income tested according to their circumstances, there may be different outcomes for each of them."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: single adult sharing a policy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mike (26) and Elle (22) are both single and live together in shared accommodation. For convenience, they take out a private health insurance policy together in 2024–25, which is paid monthly as a joint expense of the house."
+    },
+    {
+      "type": "paragraph",
+      "text": "The policy costs $1,000, which means they each have a $500 share in the policy. They do not claim the rebate as a premium reduction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mike's income is $150,000 and he is not entitled to any rebate when he lodges his 2025 tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elle's income is $55,000 and she is entitled to a 24.608% rebate from the government in the form of refundable tax offset for premiums paid between 1 July 2024 and 30 June 2025 (the rebate percentage was not adjusted by the government on 1 April 2025)."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: divorced adults covered by the same policy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zoe and Charlie got divorced in January 2025. However, they shared the same complying private health insurance policy throughout 2024–25. Under their family agreement, Zoe pays for her share as well as Charlie’s share of the premiums on a monthly basis. They did not pay any lifetime health cover loading."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 1 July 2024, Zoe nominated to receive a premium reduction of 24.608%. On 1 April 2025, the rebate percentage was not adjusted by the government and, as a result, the health insurer continued to provide Zoe with a premium reduction of 24.608% for premiums paid from 1 April 2025 to 30 June 2025. Zoe paid premiums monthly as follows, which adds up to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$1,131 between 1 July 2024 and 31 March 2025 after a premium reduction of $369",
+        "$377 between 1 April 2025 and 30 June 2025 after a premium reduction of $123."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Zoe and Charlie will be income tested on the policy in equal shares. Any rebate entitlement they are individually eligible for applies to their own share of the policy. Their individual share of the policy is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$565 between 1 July 2024 and 31 March 2025 after a premium reduction of $185",
+        "$188 between 1 April 2025 and 30 June 2025 after a premium reduction of $62."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Zoe and Charlie are both under 65 years old. Zoe has an income of $116,000 and Charlie has an income of $144,200. They are both assessed under the income thresholds as single because they are not married on the last day of the income year and do not have any dependent children."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zoe’s individual income means that her rebate entitlement is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "8.202% for premiums paid between 1 July 2024 and 31 March 2025",
+        "8.202% for premiums paid between 1 April 2025 and 30 June 2025."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When Zoe lodges her tax return for the year, she will need to pay some rebate back because she received more rebate than she was entitled to. Zoe will pay back:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$123.49 for the period 1 July 2024 – 31 March 2025",
+        "$41.50 for the period 1 April 2025 – 30 June 2025."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Zoe will incur a private health insurance liability of $164.99 on her notice of assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because Charlie’s individual income is above the top income threshold, he is not entitled to any rebate. Charlie will need to pay back:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$185 for the period 1 July 2023 – 31 March 2024",
+        "$62 for the period 1 April 2024 – 30 June 2024."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Even though Charlie did not pay for the policy, he will receive a liability of $247 on his notice of assessment for his share of the policy."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Dependent persons covered by a policy"
+    },
+    {
+      "type": "paragraph",
+      "text": "A dependent person is not income tested and their income does not count towards the income test for private health insurance rebate. Therefore, a dependent person on a private health insurance policy is not considered to have a share of the cost of the policy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your private health insurer can advise you who is covered as a dependent person on your policy."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: dependent student covered by a family policy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Caroline and Gordon are married with a son, Archie. Archie is 19 years old, studying full time at university, and he earns $95,000 a year as a part-time model. Under the rules of their private health insurer, Archie is classified as a dependent student because he is studying full time. Because Archie is covered by the family policy, he is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "covered as a dependent student and his income is not taken into consideration for the family income threshold",
+        "not income tested for any share of the policy because he is not entitled to a private health insurance rebate",
+        "exempt from the Medicare levy surcharge as he has an appropriate level of private patient hospital cover for the full year."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Dependent person-only policies"
+    },
+    {
+      "type": "paragraph",
+      "text": "A dependent person covered by a dependent person-only policy is not entitled to a private health insurance rebate. Therefore, a dependent person is not income tested."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prior year thresholds and rebate rates"
+    },
+    {
+      "type": "paragraph",
+      "text": "For prior year private health insurance thresholds and rebate rates from 2023–24 to 2019–20, see:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Income thresholds and rates for the private health insurance rebate 2024",
+        "Income thresholds and rates for the private health insurance rebate 2023",
+        "Income thresholds and rates for the private health insurance rebate 2022",
+        "Income thresholds and rates for the private health insurance rebate 2021",
+        "Income thresholds and rates for the private health insurance rebate 2020"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can find private health insurance thresholds and rebate rates prior to 2019–20 at Prior year tax return forms and schedules ."
+    }
+  ],
+  "content_text": "## Income thresholds\nThe private health insurance rebate is income tested. This means that if your income is higher than the relevant income threshold, you may not be eligible to receive a rebate. Your rebate entitlement depends on your family status on 30 June. Different thresholds apply depending on whether you have a single income or a family income.\nWhen you lodge your tax return, we calculate your income for surcharge purposes and determine your rebate entitlement.\nYour entitlement is also based on the age of the oldest person covered by the policy.\nThe income thresholds used to calculate the Medicare levy surcharge and private health insurance rebate have increased from 1 July 2025.\nTo calculate your private health insurance rebate, see Private health insurance rebate calculator .\n### Single or family income threshold\nDepending on your situation, your income may be tested against either the:\n- Single income thresholds\n- Family income thresholds .\n#### Single income thresholds\nIf you are single on the last day of the income year and have no dependants, you are income tested against the single income thresholds.\nThis applies even if you had a spouse for the majority of the year, as long as you were single on the last day (30 June) of the income year.\nIf you separated from your spouse during the financial year and remain single with no dependants on 30 June, your rebate entitlement is calculated only on your own income.\nYour entitlement to a private health insurance rebate is based on your income for surcharge purposes.\nIf you were single on 30 June, but had dependent children, you are considered a family and will be income tested using the family income thresholds.\n#### Family income thresholds\nIf you had a spouse on the last day of the income year (30 June), your income will be tested against the family income thresholds. Your entitlement to a private health insurance rebate is assessed on your and your spouse's combined income for surcharge purposes.\nThe family income thresholds also apply if:\n- you are a single parent with one or more dependants\n- you don't have a spouse on the last day of the income year and you either maintain a dependent child or children or contribute in a substantial way to the maintenance of a dependent child.\nIf your spouse died in the income year and you were single on 30 June with no dependants, use your and your spouse's income for surcharge purposes to determine your entitlement under the family income thresholds.\nIf you have 2 or more children, the family income threshold is increased by $1,500 for every Medicare levy surcharge dependent child after the first child. For example, if you have 3 dependent children, your family income threshold increases by $3,000.\nNone of your dependent children's income is included when calculating family income. Medicare levy surcharge dependent child is different to dependent persons who may be covered by your private health insurance policy. See Dependent persons covered by a policy .\n#### Family status on 30 June\nYour family status on the last day of the income year (30 June) determines whether the single or family income thresholds apply to you. The table below provides a quick guide to when single or family thresholds apply.\nYour status on 30 June | Single thresholds | Family thresholds | Whose income for the full year is included in income test?\nYou were single | Yes | No | Yours\nYou had a spouse | No | Yes (see Note ) | Yours and your spouse’s\nYou were a single parent | No | Yes (see Note ) | Yours\nYou separated from your spouse during the year and were single with no dependent children | Yes | No | Yours\nYou separated from your spouse during the year and were single with dependent children | No | Yes (see Note ) | Yours\nYou were single for part of the year and then had a spouse and no dependent children | No | Yes | Yours and your spouse’s\nYou were single for part of the year and then had a spouse and dependent children | No | Yes (see Note ) | Yours and your spouse’s\nYour spouse died during the year and you were single and had no dependent children | No | Yes | Yours and your spouse’s\nYour spouse died during the year and you were single and had dependent children | No | Yes (see Note ) | Yours and your spouse’s\nNote : The family income threshold is increased by $1,500 for each Medicare levy surcharge dependent child after the first child.\n### Income thresholds and rebate rates by income year\nIncome thresholds and rebate rates for the private health insurance rebate:\n- 2025–26 income thresholds and rebate rates\n- 2024–25 income thresholds and rebate rates\n- Prior year thresholds and rebate rates\n#### 2025–26 income thresholds and rebate rates\nFamily status | Base tier | Tier 1 | Tier 2 | Tier 3\nSingle | $101,000 or less | $101,001 – $118,000 | $118,001 – $158,000 | $158,001 or more\nFamily (see Note 1 ) | $202,000 or less | $202,001 – $236,000 | $236,001 – $316,000 | $316,001 or more\nRebate if the oldest person covered by the policy is: | Base tier | Tier 1 | Tier 2 | Tier 3\nUnder 65 years old | 24.288% | 16.192% | 8.095% | 0.000%\n65 – 69 years old | 28.337% | 20.240% | 12.143% | 0.000%\n70 years old and over | 32.385% | 24.288% | 16.192% | 0.000%\nRebate if the oldest person covered by the policy is: | Base tier | Tier 1 | Tier 2 | Tier 3\nUnder 65 years old | 24.118% | 16.079% | 8.038% | 0.000%\n65 – 69 years old | 28.139% | 20.098% | 12.058% | 0.000%\n70 years old and over | 32.158% | 24.118% | 16.079% | 0.000%\n#### 2024–25 income thresholds and rebate rates\nFamily status | Base tier | Tier 1 | Tier 2 | Tier 3\nSingle | $97,000 or less | $97,001 – $113,000 | $113,001 – $151,000 | $151,001 or more\nFamily (see Note 1 ) | $194,000 or less | $194,001 – $226,000 | $226,001 – $302,000 | $302,001 or more\nRebate if the oldest person covered by the policy is: | Base tier | Tier 1 | Tier 2 | Tier 3\nUnder 65 years old | 24.608% | 16.405% | 8.202% | 0.000%\n65 – 69 years old | 28.710% | 20.507% | 12.303% | 0.000%\n70 years old and over | 32.812% | 24.608% | 16.405% | 0.000%\nRebate if the oldest person covered by the policy is: | Base tier | Tier 1 | Tier 2 | Tier 3\nUnder 65 years old | 24.288% | 16.192% | 8.095% | 0.000%\n65 – 69 years old | 28.337% | 20.240% | 12.143% | 0.000%\n70 years old and over | 32.385% | 24.288% | 16.192% | 0.000%\nNote 1 : The family income threshold is increased by $1,500 for each Medicare levy surcharge dependent child after the first child.\nYour rebate rate is the percent that you get back from your health insurance premiums in the form of a reduction of the premium or as a refundable tax offset. Your rebate entitlement depends on your family status at the end of the income year (30 June). Different thresholds apply depending on whether you have a single income or a family income .\n## Income tests for the private health insurance rebate\nWhen estimating your income for private health insurance rebate purposes, you need to think about how your circumstances may affect whether the single or family threshold applies, including:\n- whether you or your spouse expects an increase in income in the income year – for example, from a promotion, change in employment, or overtime\n- your single or family status – for example, having a partner at the end of the income year\n- whether any dependent children will no longer be in your care\n- if any dependent children are turning 21 years old older than 21 and under 25 years old, and no longer in full-time study.\nEach adult covered by the policy is income tested:\n- to determine their entitlement to a private health insurance rebate, regardless of who pays for the insurance policy\n- on their share of the cost of the insurance policy.\nYour circumstances may affect the income test for your private health insurance rebate:\n- One adult covered by a policy\n- Multiple adults covered by a policy\n- Dependent persons covered by a policy\n- Dependent person-only policies\n### One adult covered by a policy\nIf you are the only adult covered by a private health insurance policy, your share of the policy for rebate purposes is the total cost of the policy excluding any lifetime health cover loading. You are income tested to determine your private health insurance rebate entitlement regardless of who pays for the policy.\n#### Example: one adult covered by a policy without lifetime health cover loading\nIn 2024–25, Narelle is single, 45 years old and the only adult covered by her private health insurance policy. She did not have any lifetime health cover loading.\nOn 1 July 2024, Narelle nominated to receive a premium reduction of 16.405%. On 1 April 2025, the rebate percentage was not adjusted by the government. As a result, the health insurer continued to provide Narelle with a premium reduction of 16.405% for premiums paid from 1 April 2025 to 30 June 2025.\nNarelle paid premiums monthly as follows:\n- $752 between 1 July 2024 and 31 March 2025 after premium reductions of $148.\n- $251 between 1 April 2025 and 30 June 2025 after premium reductions of $49.\nWhen Narelle lodges her 2025 tax return, her income for surcharge purposes is $83,000. As her income is below $93,000, Narelle's private health insurance rebate entitlement is:\n- 24.608% for premiums paid between 1 July 2024 and 30 June 2025.\nBecause Narelle received less rebate than she was entitled to from her insurer through reduced premiums, she gets a refundable tax offset of $98.30 in her 2025 tax return. This offset is listed on her notice of assessment.\n#### Example: one adult covered by a policy with LHC loading – employer pays premiums\nPeta is 50 years old and is single. In 2024–25, Peta’s employer pays for her private health insurance policy as a condition of her employment. The total cost of Peta's policy is $1,200, which includes her lifetime health cover loading of $200. This means the premiums eligible for the rebate total $1,000. On 1 July 2024, Peta nominated to receive a 24.608% premium reduction for the policy. On 1 April 2025, the rebate percentage was not adjusted by the government and the health insurer continued to provide Peta with a premium reduction of 24.608% for premiums paid from 1 April 2025 to 30 June 2025.\nPeta's employer pays premiums monthly as follows:\n- $715 between 1 July 2024 and 31 March 2025 after premium reductions of $185.\n- $238 between 1 April 2025 and 30 June 2025 after premium reductions of $62.\nPeta lodges her 2025 tax return, and her income for surcharge purposes for the year is calculated as $109,000. Peta’s income falls into the income threshold for rebate entitlement of:\n- 16.405% for premiums paid between 1 July 2024 and 31 March 2025.\n- 16.405% for premiums paid between 1 April 2025 and 30 June 2025.\nBecause Peta received more rebate than she was entitled to from her insurer in form of reduced premiums, she incurs $82.95 liability for this extra rebate she had already claimed. The liability is listed on her notice of assessment.\n### Multiple adults covered by a policy\nIf a policy covers more than one adult, the premiums paid are divided into equal shares by the number of adults covered by the policy at the time of the payment, regardless of who paid the premium or whether the adults on the policy are a part of a couple.\nEach adult’s share of the policy is equal to the total cost of the policy divided by the number of adults covered by the policy at the time of payment.\nWhen they lodge their tax return, each adult is income tested to determine their private health insurance rebate entitlement for their share of the cost of the policy. As each adult will be income tested according to their circumstances, there may be different outcomes for each of them.\n#### Example: single adult sharing a policy\nMike (26) and Elle (22) are both single and live together in shared accommodation. For convenience, they take out a private health insurance policy together in 2024–25, which is paid monthly as a joint expense of the house.\nThe policy costs $1,000, which means they each have a $500 share in the policy. They do not claim the rebate as a premium reduction.\nMike's income is $150,000 and he is not entitled to any rebate when he lodges his 2025 tax return.\nElle's income is $55,000 and she is entitled to a 24.608% rebate from the government in the form of refundable tax offset for premiums paid between 1 July 2024 and 30 June 2025 (the rebate percentage was not adjusted by the government on 1 April 2025).\n#### Example: divorced adults covered by the same policy\nZoe and Charlie got divorced in January 2025. However, they shared the same complying private health insurance policy throughout 2024–25. Under their family agreement, Zoe pays for her share as well as Charlie’s share of the premiums on a monthly basis. They did not pay any lifetime health cover loading.\nOn 1 July 2024, Zoe nominated to receive a premium reduction of 24.608%. On 1 April 2025, the rebate percentage was not adjusted by the government and, as a result, the health insurer continued to provide Zoe with a premium reduction of 24.608% for premiums paid from 1 April 2025 to 30 June 2025. Zoe paid premiums monthly as follows, which adds up to:\n- $1,131 between 1 July 2024 and 31 March 2025 after a premium reduction of $369\n- $377 between 1 April 2025 and 30 June 2025 after a premium reduction of $123.\nZoe and Charlie will be income tested on the policy in equal shares. Any rebate entitlement they are individually eligible for applies to their own share of the policy. Their individual share of the policy is:\n- $565 between 1 July 2024 and 31 March 2025 after a premium reduction of $185\n- $188 between 1 April 2025 and 30 June 2025 after a premium reduction of $62.\nZoe and Charlie are both under 65 years old. Zoe has an income of $116,000 and Charlie has an income of $144,200. They are both assessed under the income thresholds as single because they are not married on the last day of the income year and do not have any dependent children.\nZoe’s individual income means that her rebate entitlement is:\n- 8.202% for premiums paid between 1 July 2024 and 31 March 2025\n- 8.202% for premiums paid between 1 April 2025 and 30 June 2025.\nWhen Zoe lodges her tax return for the year, she will need to pay some rebate back because she received more rebate than she was entitled to. Zoe will pay back:\n- $123.49 for the period 1 July 2024 – 31 March 2025\n- $41.50 for the period 1 April 2025 – 30 June 2025.\nZoe will incur a private health insurance liability of $164.99 on her notice of assessment.\nBecause Charlie’s individual income is above the top income threshold, he is not entitled to any rebate. Charlie will need to pay back:\n- $185 for the period 1 July 2023 – 31 March 2024\n- $62 for the period 1 April 2024 – 30 June 2024.\nEven though Charlie did not pay for the policy, he will receive a liability of $247 on his notice of assessment for his share of the policy.\n### Dependent persons covered by a policy\nA dependent person is not income tested and their income does not count towards the income test for private health insurance rebate. Therefore, a dependent person on a private health insurance policy is not considered to have a share of the cost of the policy.\nYour private health insurer can advise you who is covered as a dependent person on your policy.\n#### Example: dependent student covered by a family policy\nCaroline and Gordon are married with a son, Archie. Archie is 19 years old, studying full time at university, and he earns $95,000 a year as a part-time model. Under the rules of their private health insurer, Archie is classified as a dependent student because he is studying full time. Because Archie is covered by the family policy, he is:\n- covered as a dependent student and his income is not taken into consideration for the family income threshold\n- not income tested for any share of the policy because he is not entitled to a private health insurance rebate\n- exempt from the Medicare levy surcharge as he has an appropriate level of private patient hospital cover for the full year.\n### Dependent person-only policies\nA dependent person covered by a dependent person-only policy is not entitled to a private health insurance rebate. Therefore, a dependent person is not income tested.\n## Prior year thresholds and rebate rates\nFor prior year private health insurance thresholds and rebate rates from 2023–24 to 2019–20, see:\n- Income thresholds and rates for the private health insurance rebate 2024\n- Income thresholds and rates for the private health insurance rebate 2023\n- Income thresholds and rates for the private health insurance rebate 2022\n- Income thresholds and rates for the private health insurance rebate 2021\n- Income thresholds and rates for the private health insurance rebate 2020\nYou can find private health insurance thresholds and rebate rates prior to 2019–20 at Prior year tax return forms and schedules .",
+  "child_links": [],
+  "word_count": 3037,
+  "source_title": "",
+  "source_description": "",
+  "category": "medicare-and-private-health-insurance"
+}

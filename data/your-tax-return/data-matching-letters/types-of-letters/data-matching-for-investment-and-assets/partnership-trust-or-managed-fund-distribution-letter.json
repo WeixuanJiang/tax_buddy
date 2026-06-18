@@ -1,0 +1,292 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/data-matching-letters/types-of-letters/data-matching-for-investment-and-assets/partnership-trust-or-managed-fund-distribution-letter",
+  "title": "Partnership, trust, or managed fund distribution letter",
+  "description": "What to do if you get a data matching letter about partnership, trust or managed fund distributions.",
+  "nat_number": "",
+  "quick_code": "43495",
+  "date_updated": "2024-09-03T14:00:00Z",
+  "first_published": "",
+  "keywords": "data matching, data-matching partnerships, data matching trusts, data matching managed fund distributions, managed fund distributions, partnership distribution summary",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Receiving your letter"
+    },
+    {
+      "type": "paragraph",
+      "text": "We may send you a letter if a partnership, trust, or managed fund reports distribution amounts to us and these don't match the amounts you declared in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "The letter will include a summary that compares the amounts you declare in your tax return with the information the partnership, trust, or managed fund reports to us."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, as a beneficiary of a trust you must include your share (your entitlement) of the net income of the trust in your tax return and pay tax on it, even if you weren't paid the income from the trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a myGov account linked to us , we'll send the letter to your myGov inbox. It will have the title, Have you included all information in your tax return?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don’t have a myGov account, we’ll send the letter to the most recent postal address that we have for you."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you need to do"
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to review the summary and compare the information it contains with your records. You can then determine if you agree or disagree with this information."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a question, phone us on 1300 768 912 and select option 3 between 8:00 am and 6:00 pm, Monday to Friday:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "quoting the reference number found at the top right of your letter",
+        "using the words 'data matching'."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Distribution summary – sample"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following is an example of the summary included with your letter. Keep in mind that your summary will contain the relevant information from your tax return compared with the information reported to us and may not look exactly the same. Use the definitions to help you understand your summary."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Code",
+          "Distributions reported to us",
+          "Amount included in your return",
+          "Difference"
+        ],
+        [
+          "TNI",
+          "$1,986.74",
+          "$1,708.00",
+          "$284.74"
+        ],
+        [
+          "FCT",
+          "$174.86",
+          "$295.59",
+          "$120.73"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Code",
+          "Source of distribution",
+          "Payer ABN/ Account number",
+          "Amount of distribution"
+        ],
+        [
+          "TNI",
+          "ACBD Invest Trust",
+          "123 456 789 10",
+          "$1,986.74"
+        ],
+        [
+          "FCT",
+          "XYZ Trust",
+          "9876543210 /J",
+          "$174.86"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The /I at the end of the account number represents an investment held individually.",
+        "The /J at the end of the account number represents an investment held jointly, and this is your share of the distribution amount."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Definitions to understand your summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following definitions will help you understand your summary:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Amount included in your return – the amount you declared in your tax return for the corresponding code.",
+        "Amount of distribution – the amount reported to us by each source of distribution for each code.",
+        "Code – a 3 letter code indicating the type of distribution reported to us. (a table titled Explanation of the codes is included with your letter).",
+        "Difference – the difference between the distributions reported to us and the amount included in your return for each code. A negative difference amount in your summary represents either: an income amount that was over-reported, or a tax credit, offset or deduction amount that you may have an entitlement to.",
+        "Distributions reported to us – the distribution amount reported to us from a partnership, trust, or a managed fund for the corresponding code.",
+        "Payer ABN / Account number – the Australian business number of the source of distribution or your account number that is held on file by the source of distribution.",
+        "Source of distribution – the name of the partnership, trust, or managed fund that reported the distribution amounts to us."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you agree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you agree with the information in your summary, you don’t need to do anything. We'll change your income tax return to include the amounts in your summary."
+    },
+    {
+      "type": "paragraph",
+      "text": "We will then send you an amended notice of assessment 28 days after the date we issued your letter."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a myGov account linked to ATO online services, your amended notice of assessment will be sent to your myGov inbox."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you receive your amended notice of assessment, you'll need to pay any outstanding amounts by the due date."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you disagree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with the information in your summary, you have 28 days to respond. You must:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "tell us what is incorrect",
+        "provide supporting documents that show how the amounts are incorrect."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can contact us by:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "mail to Australian Taxation Office PO Box 3543 ALBURY NSW 2640",
+        "phone 1300 768 912 and selecting option 3 between 8:00 am and 6:00 pm, Monday to Friday",
+        "email datamatchingteam@ato.gov.au"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The internet isn't a secure environment and we don't control the path of inbound and outbound emails. If you choose to email us, we can't guarantee the privacy of your personal information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "quote the reference number found at the top right of your letter",
+        "use the words 'data matching'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Once we've assessed your response, we will advise you of the outcome. The officer reviewing your supporting documents may contact you if we need additional information."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you don't respond"
+    },
+    {
+      "type": "paragraph",
+      "text": "If we don't receive a response from you within 28 days of your letter's date of issue, we’ll:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "automatically amend your tax return using the information we have",
+        "send you an amended notice of assessment."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Supporting documents"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with the information in your summary, we may ask you to provide the following supporting documents:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a copy of your annual tax statement or statement of distribution you received from the source of distribution confirming the amounts in your tax return",
+        "a financial statement or breakdown you received from the source of distribution showing the distribution amounts",
+        "a breakdown of how you calculated the amounts in your tax return",
+        "an explanation why the amounts in your tax return differs to the amounts reported to us."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Where amounts reported to us by the source of distribution mismatch with the amounts they provided to you in your statement of distribution, we will (in most instances) require you to contact that source of distribution and discuss the anomaly with them. By doing this, they can correct the mismatch by either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "issuing you an amended statement of distribution",
+        "reporting amended amounts to us."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you declare the amounts in an associated entity's tax return (for example, a self-managed superannuation fund), you will need to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "provide us with the tax file number (TFN) of the associated entity",
+        "show us that the amounts have been included in the associated entity's tax return."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You will also need to contact the source of distribution and request them to update their records with the details and TFN of the correct recipient of the distribution. This will assist us to match the distribution amounts to the correct tax return in future years."
+    }
+  ],
+  "content_text": "## Receiving your letter\nWe may send you a letter if a partnership, trust, or managed fund reports distribution amounts to us and these don't match the amounts you declared in your tax return.\nThe letter will include a summary that compares the amounts you declare in your tax return with the information the partnership, trust, or managed fund reports to us.\nGenerally, as a beneficiary of a trust you must include your share (your entitlement) of the net income of the trust in your tax return and pay tax on it, even if you weren't paid the income from the trust.\nIf you have a myGov account linked to us , we'll send the letter to your myGov inbox. It will have the title, Have you included all information in your tax return?\nIf you don’t have a myGov account, we’ll send the letter to the most recent postal address that we have for you.\n## What you need to do\nYou need to review the summary and compare the information it contains with your records. You can then determine if you agree or disagree with this information.\nIf you have a question, phone us on 1300 768 912 and select option 3 between 8:00 am and 6:00 pm, Monday to Friday:\n- quoting the reference number found at the top right of your letter\n- using the words 'data matching'.\n### Distribution summary – sample\nThe following is an example of the summary included with your letter. Keep in mind that your summary will contain the relevant information from your tax return compared with the information reported to us and may not look exactly the same. Use the definitions to help you understand your summary.\nCode | Distributions reported to us | Amount included in your return | Difference\nTNI | $1,986.74 | $1,708.00 | $284.74\nFCT | $174.86 | $295.59 | $120.73\nCode | Source of distribution | Payer ABN/ Account number | Amount of distribution\nTNI | ACBD Invest Trust | 123 456 789 10 | $1,986.74\nFCT | XYZ Trust | 9876543210 /J | $174.86\nNote:\n- The /I at the end of the account number represents an investment held individually.\n- The /J at the end of the account number represents an investment held jointly, and this is your share of the distribution amount.\n### Definitions to understand your summary\nThe following definitions will help you understand your summary:\n- Amount included in your return – the amount you declared in your tax return for the corresponding code.\n- Amount of distribution – the amount reported to us by each source of distribution for each code.\n- Code – a 3 letter code indicating the type of distribution reported to us. (a table titled Explanation of the codes is included with your letter).\n- Difference – the difference between the distributions reported to us and the amount included in your return for each code. A negative difference amount in your summary represents either: an income amount that was over-reported, or a tax credit, offset or deduction amount that you may have an entitlement to.\n- Distributions reported to us – the distribution amount reported to us from a partnership, trust, or a managed fund for the corresponding code.\n- Payer ABN / Account number – the Australian business number of the source of distribution or your account number that is held on file by the source of distribution.\n- Source of distribution – the name of the partnership, trust, or managed fund that reported the distribution amounts to us.\n### If you agree\nIf you agree with the information in your summary, you don’t need to do anything. We'll change your income tax return to include the amounts in your summary.\nWe will then send you an amended notice of assessment 28 days after the date we issued your letter.\nIf you have a myGov account linked to ATO online services, your amended notice of assessment will be sent to your myGov inbox.\nOnce you receive your amended notice of assessment, you'll need to pay any outstanding amounts by the due date.\n### If you disagree\nIf you disagree with the information in your summary, you have 28 days to respond. You must:\n- tell us what is incorrect\n- provide supporting documents that show how the amounts are incorrect.\nYou can contact us by:\n- mail to Australian Taxation Office PO Box 3543 ALBURY NSW 2640\n- phone 1300 768 912 and selecting option 3 between 8:00 am and 6:00 pm, Monday to Friday\n- email datamatchingteam@ato.gov.au\nThe internet isn't a secure environment and we don't control the path of inbound and outbound emails. If you choose to email us, we can't guarantee the privacy of your personal information.\nRemember to:\n- quote the reference number found at the top right of your letter\n- use the words 'data matching'.\nOnce we've assessed your response, we will advise you of the outcome. The officer reviewing your supporting documents may contact you if we need additional information.\n### If you don't respond\nIf we don't receive a response from you within 28 days of your letter's date of issue, we’ll:\n- automatically amend your tax return using the information we have\n- send you an amended notice of assessment.\nOnce you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date.\n## Supporting documents\nIf you disagree with the information in your summary, we may ask you to provide the following supporting documents:\n- a copy of your annual tax statement or statement of distribution you received from the source of distribution confirming the amounts in your tax return\n- a financial statement or breakdown you received from the source of distribution showing the distribution amounts\n- a breakdown of how you calculated the amounts in your tax return\n- an explanation why the amounts in your tax return differs to the amounts reported to us.\nWhere amounts reported to us by the source of distribution mismatch with the amounts they provided to you in your statement of distribution, we will (in most instances) require you to contact that source of distribution and discuss the anomaly with them. By doing this, they can correct the mismatch by either:\n- issuing you an amended statement of distribution\n- reporting amended amounts to us.\nIf you declare the amounts in an associated entity's tax return (for example, a self-managed superannuation fund), you will need to:\n- provide us with the tax file number (TFN) of the associated entity\n- show us that the amounts have been included in the associated entity's tax return.\nYou will also need to contact the source of distribution and request them to update their records with the details and TFN of the correct recipient of the distribution. This will assist us to match the distribution amounts to the correct tax return in future years.",
+  "child_links": [],
+  "word_count": 1162,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,348 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-administration-and-reporting/lodge-smsf-annual-returns",
+  "title": "Lodge SMSF annual returns",
+  "description": "How to lodge an SMSF annual return (SAR) once your SMSF's audit is finalised.",
+  "nat_number": "",
+  "quick_code": "23331",
+  "date_updated": "2025-07-07T14:00:00Z",
+  "first_published": "",
+  "keywords": "SMSF, annual return, lodge, report, income tax, contributions, supervisory levy, lodgement",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why it's important to lodge on time"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must lodge a self-managed super fund annual return (SAR) each financial year, even if your fund does not have a tax liability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lodging the SAR is the most essential compliance obligation trustees must meet. The SAR covers the income tax return, regulatory information and member contribution reporting, and enables payment of the SMSF supervisory levy."
+    },
+    {
+      "type": "paragraph",
+      "text": "If lodgment is overdue, your Super Fund Lookup status may change to 'regulation details removed'. This can restrict your SMSF from receiving rollovers and employer contributions, penalties can be applied and SMSF tax concessions can be lost."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you lodge using the paper form you may experience delays. As per Our service commitment it may take up to 50 days to process a paper return. If you don't lodge your paper return with enough time for processing, your fund's Super Fund Lookup status may change to 'regulation details removed'."
+    },
+    {
+      "type": "paragraph",
+      "text": "An SMSF completes and lodges its SAR and pays the amount it is required to pay (if any) to us. SMSFs do not receive a notice of assessment. However, we will issue a notice of amended assessment if subsequent amendments are made."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before you lodge, you must ensure your SMSF's audit has been finalised."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Do I need to lodge?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your fund had no assets in the first year it was registered, you won’t need to lodge a return for that year, if you ask us to either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "cancel the fund’s registration",
+        "mark the SMSF's record as return not necessary (RNN)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Include your ABN"
+    },
+    {
+      "type": "paragraph",
+      "text": "When lodging your SAR, include your ABN to ensure the member can see the account details for the SMSF when they access ATO online services."
+    },
+    {
+      "type": "paragraph",
+      "text": "This will allow members to choose their SMSF account if they are completing forms online for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "compassionate release of super",
+        "early release of super",
+        "excess concessional contribution election",
+        "excess non-concessional contribution election",
+        "Division 293 election."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Member’s SMSF account details will then also be available on Online services for agents."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When to lodge and pay"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your lodgment due date depends on whether:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you lodge the SAR yourself",
+        "you lodge through a tax agent",
+        "your SMSF is newly registered."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Failure to lodge your SAR by the due date can result in penalties and the loss of your SMSF’s tax concessions."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lodging the SAR yourself"
+    },
+    {
+      "type": "paragraph",
+      "text": "Newly registered funds and those with overdue SARs for prior years (excluding deferrals), need to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "lodge their SAR by 31 October",
+        "pay any owing amount by 1 December."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You should lodge and pay all other SARs by 28 February unless we ask you to lodge on a different date."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "How to lodge"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can lodge your SAR electronically through Standard Business Reporting (SBR) External Link . You'll need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a machine credential External Link",
+        "SBR-enabled business software External Link ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can lodge a paper SAR by downloading the SMSF annual return and SMSF annual return instructions for the relevant year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete the return and post it to:"
+    },
+    {
+      "type": "paragraph",
+      "text": "AUSTRALIAN TAXATION OFFICE GPO BOX 9845 [insert the name and postcode of your state's capital city]"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "When a tax agent lodges your SAR"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your SAR is lodged through a tax agent, they'll provide the due date for lodgment and payment. The super lodgment due dates are set out in the tax agent lodgment program. For your first year or the first lodgment after a 'return not necessary' (RNN), the due date is 28 February."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your SMSF is reviewed by us at registration, your first year return due date is 31 October even if it is prepared and lodged by a tax agent. We will notify you if this is the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a due date falls on a weekend or public holiday you can lodge or pay on the next business day. For more payment options, see How to pay ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Funds without assets"
+    },
+    {
+      "type": "paragraph",
+      "text": "An SMSF is not legally established until the fund has assets set aside for the benefit of members. If your fund had no assets in the first year it was registered, you won’t need to lodge a return for that year. Instead, you must ask us to either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "cancel the fund’s registration by advising us in writing that the fund was never established",
+        "flag the SMSF's record as return not necessary (RNN) if the SMSF confirms in writing that it had no assets and did not receive contributions or rollovers in the first financial year it has documentary evidence of the date it first held assets and started operating, and provides this with their request it will be lodging future returns."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "RNNs for subsequent years will only be granted in limited circumstances and where the fund provides documented evidence of the date assets were first held by the fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "These requests must be made in writing."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're a trustee , your request can be sent to us at:"
+    },
+    {
+      "type": "paragraph",
+      "text": "AUSTRALIAN TAXATION OFFICE GPO BOX 9990 [insert the name and postcode of your state's capital city]"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're a tax agent, you'll need to use the Online services for agents mail option. Select 'Superannuation' as the topic, and choose from the following mail subjects:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "SMSF new registrant – return not necessary (RNN) request",
+        "SMSF cancellation of registration – where a fund has not legally established."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Make sure to include the SMSF's name, TFN or ABN in the request and include all the relevant details and documentation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Amending your SAR"
+    },
+    {
+      "type": "paragraph",
+      "text": "To amend your SAR, you will need to resubmit the whole return and indicate it is an amendment assessment at the relevant question. If you amend one label, other labels will require changes too because information on the SAR is interrelated. You need to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "complete the form in full, not just the parts you want to amend",
+        "provide contributions information for all members, not just the member whose contributions you may need to change."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Members with a zero account balance"
+    },
+    {
+      "type": "paragraph",
+      "text": "If an SMSF member has a zero account balance on 30 June this may indicate issues with the running of the fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "If this occurs, make sure:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the fund has been set up correctly",
+        "the member contributes to the fund",
+        "you are complying with super and tax laws."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Members should only have a zero account balance:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "when your fund is newly established",
+        "if the member was added to the fund just before the end of the year",
+        "if the member has rolled over their funds out of the SMSF just before the end of the year, but may not have totally exited the fund yet",
+        "if the SMSF has a limited recourse borrowing arrangement (LRBA) that complies with super laws where the loan balance exceeds the value of the asset acquired under the LRBA because of a decrease in the asset's value."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Has the super been illegally accessed"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a member has rolled over their super into an SMSF, a zero account balance may indicate the super has been illegally accessed . All trustees must ensure members have met a condition of release before legally releasing super money."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Reporting a member's zero account balance"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a member's account has a zero opening or closing account balance on 30 June of an income year, this needs to be reported as zero on the SAR."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Supervisory levy"
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to pay the annual supervisory levy with your SAR. The amount payable is stated on the return."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Continuing fund payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your fund is continuing, you must pay your supervisory levy in advance of the next financial year. The amount payable will depend on if you are newly registered or not. If you are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "not a newly registered SMSF, your amount payable is $259, which goes towards the next financial year",
+        "a newly registered SMSF, your amount payable is $518, which covers the current financial year and the next financial year."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Winding-up fund payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your fund is winding up, you are not required to pay a supervisory levy if you paid it in the previous financial year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Label M on the SAR will enable funds that have wound up during a financial year to adjust the levy, so they don't pay the levy for the following year."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will be required to pay the supervisory levy of $259 if the SAR relates to the first year of operating."
+    },
+    {
+      "type": "paragraph",
+      "text": "New funds will also have an adjustment Label N on the SAR to add the levy relating to the year of establishment to the amount payable."
+    }
+  ],
+  "content_text": "## Why it's important to lodge on time\nYou must lodge a self-managed super fund annual return (SAR) each financial year, even if your fund does not have a tax liability.\nLodging the SAR is the most essential compliance obligation trustees must meet. The SAR covers the income tax return, regulatory information and member contribution reporting, and enables payment of the SMSF supervisory levy.\nIf lodgment is overdue, your Super Fund Lookup status may change to 'regulation details removed'. This can restrict your SMSF from receiving rollovers and employer contributions, penalties can be applied and SMSF tax concessions can be lost.\nIf you lodge using the paper form you may experience delays. As per Our service commitment it may take up to 50 days to process a paper return. If you don't lodge your paper return with enough time for processing, your fund's Super Fund Lookup status may change to 'regulation details removed'.\nAn SMSF completes and lodges its SAR and pays the amount it is required to pay (if any) to us. SMSFs do not receive a notice of assessment. However, we will issue a notice of amended assessment if subsequent amendments are made.\nBefore you lodge, you must ensure your SMSF's audit has been finalised.\n## Do I need to lodge?\nIf your fund had no assets in the first year it was registered, you won’t need to lodge a return for that year, if you ask us to either:\n- cancel the fund’s registration\n- mark the SMSF's record as return not necessary (RNN).\n## Include your ABN\nWhen lodging your SAR, include your ABN to ensure the member can see the account details for the SMSF when they access ATO online services.\nThis will allow members to choose their SMSF account if they are completing forms online for:\n- compassionate release of super\n- early release of super\n- excess concessional contribution election\n- excess non-concessional contribution election\n- Division 293 election.\nMember’s SMSF account details will then also be available on Online services for agents.\n## When to lodge and pay\nYour lodgment due date depends on whether:\n- you lodge the SAR yourself\n- you lodge through a tax agent\n- your SMSF is newly registered.\nFailure to lodge your SAR by the due date can result in penalties and the loss of your SMSF’s tax concessions.\n### Lodging the SAR yourself\nNewly registered funds and those with overdue SARs for prior years (excluding deferrals), need to:\n- lodge their SAR by 31 October\n- pay any owing amount by 1 December.\nYou should lodge and pay all other SARs by 28 February unless we ask you to lodge on a different date.\n#### How to lodge\nYou can lodge your SAR electronically through Standard Business Reporting (SBR) External Link . You'll need:\n- a machine credential External Link\n- SBR-enabled business software External Link .\nYou can lodge a paper SAR by downloading the SMSF annual return and SMSF annual return instructions for the relevant year.\nComplete the return and post it to:\nAUSTRALIAN TAXATION OFFICE GPO BOX 9845 [insert the name and postcode of your state's capital city]\n### When a tax agent lodges your SAR\nIf your SAR is lodged through a tax agent, they'll provide the due date for lodgment and payment. The super lodgment due dates are set out in the tax agent lodgment program. For your first year or the first lodgment after a 'return not necessary' (RNN), the due date is 28 February.\nIf your SMSF is reviewed by us at registration, your first year return due date is 31 October even if it is prepared and lodged by a tax agent. We will notify you if this is the case.\nIf a due date falls on a weekend or public holiday you can lodge or pay on the next business day. For more payment options, see How to pay .\n## Funds without assets\nAn SMSF is not legally established until the fund has assets set aside for the benefit of members. If your fund had no assets in the first year it was registered, you won’t need to lodge a return for that year. Instead, you must ask us to either:\n- cancel the fund’s registration by advising us in writing that the fund was never established\n- flag the SMSF's record as return not necessary (RNN) if the SMSF confirms in writing that it had no assets and did not receive contributions or rollovers in the first financial year it has documentary evidence of the date it first held assets and started operating, and provides this with their request it will be lodging future returns.\nRNNs for subsequent years will only be granted in limited circumstances and where the fund provides documented evidence of the date assets were first held by the fund.\nThese requests must be made in writing.\nIf you're a trustee , your request can be sent to us at:\nAUSTRALIAN TAXATION OFFICE GPO BOX 9990 [insert the name and postcode of your state's capital city]\nIf you're a tax agent, you'll need to use the Online services for agents mail option. Select 'Superannuation' as the topic, and choose from the following mail subjects:\n- SMSF new registrant – return not necessary (RNN) request\n- SMSF cancellation of registration – where a fund has not legally established.\nMake sure to include the SMSF's name, TFN or ABN in the request and include all the relevant details and documentation.\n## Amending your SAR\nTo amend your SAR, you will need to resubmit the whole return and indicate it is an amendment assessment at the relevant question. If you amend one label, other labels will require changes too because information on the SAR is interrelated. You need to:\n- complete the form in full, not just the parts you want to amend\n- provide contributions information for all members, not just the member whose contributions you may need to change.\n## Members with a zero account balance\nIf an SMSF member has a zero account balance on 30 June this may indicate issues with the running of the fund.\nIf this occurs, make sure:\n- the fund has been set up correctly\n- the member contributes to the fund\n- you are complying with super and tax laws.\nMembers should only have a zero account balance:\n- when your fund is newly established\n- if the member was added to the fund just before the end of the year\n- if the member has rolled over their funds out of the SMSF just before the end of the year, but may not have totally exited the fund yet\n- if the SMSF has a limited recourse borrowing arrangement (LRBA) that complies with super laws where the loan balance exceeds the value of the asset acquired under the LRBA because of a decrease in the asset's value.\n### Has the super been illegally accessed\nIf a member has rolled over their super into an SMSF, a zero account balance may indicate the super has been illegally accessed . All trustees must ensure members have met a condition of release before legally releasing super money.\n### Reporting a member's zero account balance\nIf a member's account has a zero opening or closing account balance on 30 June of an income year, this needs to be reported as zero on the SAR.\n### Supervisory levy\nYou need to pay the annual supervisory levy with your SAR. The amount payable is stated on the return.\n#### Continuing fund payments\nIf your fund is continuing, you must pay your supervisory levy in advance of the next financial year. The amount payable will depend on if you are newly registered or not. If you are:\n- not a newly registered SMSF, your amount payable is $259, which goes towards the next financial year\n- a newly registered SMSF, your amount payable is $518, which covers the current financial year and the next financial year.\n#### Winding-up fund payments\nIf your fund is winding up, you are not required to pay a supervisory levy if you paid it in the previous financial year.\nLabel M on the SAR will enable funds that have wound up during a financial year to adjust the levy, so they don't pay the levy for the following year.\nYou will be required to pay the supervisory levy of $259 if the SAR relates to the first year of operating.\nNew funds will also have an adjustment Label N on the SAR to add the levy relating to the year of establishment to the amount payable.",
+  "child_links": [],
+  "word_count": 1440,
+  "source_title": "",
+  "source_description": "",
+  "category": "super-for-individuals-and-families"
+}

@@ -1,0 +1,413 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2012/supplementary-tax-return/deduction-questions-d11-d15/d12-personal-superannuation-contributions-2012",
+  "title": "D12 - Personal superannuation contributions 2012",
+  "description": "Complete question D12 to claim a personal superannuation contributions deduction.",
+  "nat_number": "71051",
+  "quick_code": "25741",
+  "date_updated": "2012-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, supplement, superannuation, personal superannuation, contributions",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Did you make personal superannuation contributions during the year to a complying superannuation fund or a retirement savings account (RSA)?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to question D13 - Deduction for project pool , or return to main menu Individual tax return instructions ."
+        ],
+        [
+          "YES",
+          "You may be able to claim a deduction. Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim a deduction at this item for personal superannuation contributions if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you did not make personal superannuation contributions before the end of the income year (contributions received by the superannuation fund after the end of the income year can only be claimed for the income year in which they were made)",
+        "you were 75 years old or older and the contributions were paid after the day that is 28 days after the end of the month in which you turned 75 years old",
+        "you were under 18 years old at the end of the income year and you did not receive any income from activities that resulted in you being treated as an employee for the purposes of the superannuation guarantee or from you carrying on a business (see You need to know for an explanation of when you are an employee or when you are carrying on a business)",
+        "either one of the following set of circumstances apply to you",
+        "you made a contribution that was attributable, either in whole or in part, to a capital gain that you have made and you have chosen to apply the small business capital gains tax retirement exemption to all or part of that capital gain, and you were under 55 years old just before you made that choice, or the contribution was attributable, either in whole or in part, to a capital gain and a company or trust has chosen to apply the small business capital gains tax retirement exemption to all or part of that capital gain, and you were under 55 years old just before the contribution was made",
+        "you have not provided your fund with a valid notice of intent to claim a deduction, or",
+        "you have provided your fund with a valid notice of intent to claim a deduction but you have not received an acknowledgment of this notice from your fund (see below)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on the retirement exemption, see Advanced guide to capital gains tax concessions for small business"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be entitled to a super co-contribution for your personal contributions that you do not claim as a tax deduction. For further information on co-contributions, see Super co-contribution ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Are you eligible to claim a deduction?"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be able to claim a deduction for personal contributions you made to a complying superannuation fund or RSA in 2011-12 if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you have, using an approved form, given a valid notice to your fund or RSA provider and advised them of the amount you intend to claim as a deduction (you must give this notice on or before the day you lodge your 2012 tax return or 30 June 2013, whichever is earlier)",
+        "your fund or RSA provider has provided you with an acknowledgment of your valid notice, and",
+        "either of the following applied to you:",
+        "you were fully self-employed and not working under a contract principally for your labour less than 10% of the sum of your assessable income plus your reportable employer superannuation contributions (shown at item IT2 in the Income tests section on page 8 of your tax return) plus your total reportable fringe benefits amounts (shown at item IT1 in the Income tests section on page 8 of your tax return) is attributable to the activities that result in you being treated as an employee for the purposes of the superannuation guarantee. See You need to know below for an explanation of the activities and also see the note below."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Assessable income is the amount you wrote at Total income or loss on page 4 of your tax return unless:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you had a distribution from a partnership or trust, income or losses from rent or business (including personal services income), capital gains or capital losses or foreign source income, or",
+        "you claimed a deductible amount for a foreign pension or annuity at item D11 on your tax return",
+        "you have a deductible farm management deposit amount at item 17 label D ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In either case, phone 13 10 20 for help in working out your assessable income."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You n eed to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "The deduction you claim can only reduce your taxable income to nil. It cannot add to or create a loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "The deduction you claim may also be used in the income tests for eligibility for certain tax offsets and government benefits. See the Income tests section in Individual tax return instructions 2012."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have reached 65 years old, you can only make personal contributions if you meet certain conditions. You should check with your superannuation fund or RSA provider."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, you will be treated as an employee for superannuation guarantee purposes if you are paid salary or wages or other remuneration in return for your personal labour or skills (this includes some contractors). Activities that resulted in you being treated as an employee for the purposes of the superannuation guarantee also include holding office or performing a function or appointment under a law of the Commonwealth, state or territory (for example, a public servant) and performing functions or duties as a member of an executive body of a body corporate (for example, a director of a company). For further information, see Superannuation Guarantee Ruling SGR 2005/1 - Superannuation guarantee: who is an employee? and Superannuation Guarantee Ruling SGR 2005/2 - Superannuation guarantee: work arranged by intermediaries ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You were carrying on a business if you were engaged in any profession, trade, employment, vocation or calling other than being an employee."
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete this item only if your superannuation fund or RSA provider has given you an acknowledgment of your valid notice which advised them of the amount you intend to claim as a deduction."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Superannuation contributions splitting"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complying superannuation funds and RSA providers may allow you to split your superannuation contributions with your spouse. However, personal superannuation contributions for which you don't claim an income tax deduction cannot be split to your spouse's superannuation account."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you intend to lodge a notice of intention to claim a deduction for personal superannuation contributions with your fund, you must do it before you lodge your superannuation contributions splitting application for those contributions."
+    },
+    {
+      "type": "paragraph",
+      "text": "A superannuation contributions splitting application can only be made to your fund or retirement savings account (RSA) provider:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "during the income year that follows the end of the income year in which you made the contributions, or",
+        "during the same income year you made the contributions if your entire benefit is to be rolled over, transferred or cashed before the end of that year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For further information, see the electronic publication Contributions splitting (NAT 15237)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: A spouse can be of the same or opposite sex (see the definition of spouse in Special circumstances and glossary )."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Superannuation contribution caps and the co-contribution"
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount you are allowed as a deduction for your personal superannuation contributions will affect the amounts of your concessional and non-concessional contributions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of your personal superannuation contributions allowed as a personal superannuation deduction will count towards your concessional contributions. The amount of your personal contributions that is not allowed as a personal superannuation deduction will count towards your non-concessional contributions."
+    },
+    {
+      "type": "paragraph",
+      "text": "You are entitled to receive a co-contribution only for the amount of your personal contributions for which you are not allowed a deduction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Check that you have provided your tax file number to your superannuation fund to ensure you can make a personal contribution and ensure you receive your co-contribution entitlement."
+    },
+    {
+      "type": "paragraph",
+      "text": "For further information on the contributions caps or co-contributions, go to www.ato.gov.au/individuals/super/ and see Super contributions - too much super can mean extra tax or Super co-contribution ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this item"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Have you received an acknowledgment from your fund or RSA provider that you gave them a valid notice of your intent to claim a deduction for personal superannuation contributions?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "YES",
+          "Go to step 2 ."
+        ],
+        [
+          "NO",
+          "You are not entitled to a deduction for personal superannuation contributions. Go to question D13 - Deduction for project pool ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ste p 2"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Were you 18 years old or older on 30 June 2012?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "YES",
+          "Go to step 4 ."
+        ],
+        [
+          "NO",
+          "Go to step 3 ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ste p 3"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Did you receive income from carrying on a business or from activities that resulted in you being treated as an employee for superannuation guarantee purposes?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "YES",
+          "Go to step 6 ."
+        ],
+        [
+          "NO",
+          "You are not entitled to a deduction for personal superannuation contributions. Go to question D13 - Deduction for project pool ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ste p 4"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Did you turn 75 years old before 1 June 2011?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "YES",
+          "You are not eligible to claim a deduction for personal superannuation contributions for the 2011-12 year. Go to question D13 - Deduction for project pool ."
+        ],
+        [
+          "NO",
+          "Go to step 5 ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Did you turn 75 years old between 1 June 2011 and 31 May 2012 inclusive?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to step 6 ."
+        ],
+        [
+          "YES",
+          "Add up all the contributions you made between 1 July 2011 and the 28th day of the month following your 75th birthday (inclusive) which you are eligible to claim as a tax deduction. Write the amount at H item D12 on page 15 of your tax return (supplementary section). Do not show cents. Go to step 7 ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ste p 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all your 2011-12 contributions which you are eligible to claim as a tax deduction, and write the amount at H item D12 on page 15 of your tax return. Do not show cents. Go to step 7 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you contributed to only one fund or retirement savings account (RSA), print its full name, either its Australian business number (ABN) or tax file number (TFN), and your account number in the boxes at item D12 . Remember, your fund or RSA provider must have given you an acknowledgment to your valid notice which advised them of the amount you are claiming as a deduction."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you contributed to more than one fund or RSA, print Additional information in the Full name of fund box at item D12 . Add up all your 2011-12 contributions which you are eligible to claim as a tax deduction. Write your answer at H item D12 . In the other boxes, provide details of the fund or RSA provider to which you made the largest contribution and from which you have received an acknowledgment."
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot write an amount at H that is higher than the amount your superannuation fund or RSA provider acknowledged."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may vary your valid notice to reduce the amount stated in relation to your contribution. You cannot vary your valid notice to increase the amount stated in relation to your contribution."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the variation relates to an amount that you can claim as a deduction at this item, you must notify your superannuation fund or RSA provider on or before the day you lodge your 2012 tax return or 30 June 2013, whichever is earlier. Once you have provided notification, the amount you write at H for that contribution is limited to the reduced amount."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Schedules of additional information"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are claiming a deduction at this item you must provide additional information and may need to provide one or both of the following schedules of additional information."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must, on a separate piece of paper, print SCHEDULE OF ADDITIONAL INFORMATION - ITEM D12. Print your name, address and tax file number. For each superannuation fund or RSA provider from which you have received an acknowledgment of your notice of intent to claim the deduction, print the full name of that fund or RSA provider, the fund ABN or TFN of that fund or RSA provider, your account number and the amount that you are claiming as a deduction."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a payment under an income protection, sickness or accident insurance policy held with an insurer which you entered at item 1 because tax was withheld from them, or",
+        "a parental leave payment which you entered at item 1"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "you will need to complete an additional information schedule."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the schedule, you will need to write the following where applicable:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "item number relating to the schedule (item D12 )",
+        "ABN of the insurer",
+        "name of the person or the entity that holds the policy",
+        "type of policy (for example, 'income protection insurance policy')",
+        "amount received,",
+        "amount of tax withheld",
+        "amount of parental leave payment."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Print X in the Yes box at Taxpayer's declaration question 2a on page 12 of your tax return. Attach your schedule to page 3 of your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need more information, phone 13 10 20 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Check that you have..."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "kept your acknowledgment of your notice of intent to claim a deduction from your superannuation fund or RSA provider, as we may ask to see it",
+        "attached to page 3 of your tax return your SCHEDULE OF ADDITIONAL INFORMATION - ITEM D12, if you need to send us one."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question D13 - Deduction for project pool return to main menu Individual tax return instructions go back to question D11 - Deductible amount of undeducted purchase price of a foreign pension or annuity"
+        ]
+      ]
+    }
+  ],
+  "content_text": "## Did you make personal superannuation contributions during the year to a complying superannuation fund or a retirement savings account (RSA)?\nNO | Go to question D13 - Deduction for project pool , or return to main menu Individual tax return instructions .\nYES | You may be able to claim a deduction. Read below.\nYou cannot claim a deduction at this item for personal superannuation contributions if:\n- you did not make personal superannuation contributions before the end of the income year (contributions received by the superannuation fund after the end of the income year can only be claimed for the income year in which they were made)\n- you were 75 years old or older and the contributions were paid after the day that is 28 days after the end of the month in which you turned 75 years old\n- you were under 18 years old at the end of the income year and you did not receive any income from activities that resulted in you being treated as an employee for the purposes of the superannuation guarantee or from you carrying on a business (see You need to know for an explanation of when you are an employee or when you are carrying on a business)\n- either one of the following set of circumstances apply to you\n- you made a contribution that was attributable, either in whole or in part, to a capital gain that you have made and you have chosen to apply the small business capital gains tax retirement exemption to all or part of that capital gain, and you were under 55 years old just before you made that choice, or the contribution was attributable, either in whole or in part, to a capital gain and a company or trust has chosen to apply the small business capital gains tax retirement exemption to all or part of that capital gain, and you were under 55 years old just before the contribution was made\n- you have not provided your fund with a valid notice of intent to claim a deduction, or\n- you have provided your fund with a valid notice of intent to claim a deduction but you have not received an acknowledgment of this notice from your fund (see below).\nFor more information on the retirement exemption, see Advanced guide to capital gains tax concessions for small business\nYou may be entitled to a super co-contribution for your personal contributions that you do not claim as a tax deduction. For further information on co-contributions, see Super co-contribution .\n### Are you eligible to claim a deduction?\nYou may be able to claim a deduction for personal contributions you made to a complying superannuation fund or RSA in 2011-12 if:\n- you have, using an approved form, given a valid notice to your fund or RSA provider and advised them of the amount you intend to claim as a deduction (you must give this notice on or before the day you lodge your 2012 tax return or 30 June 2013, whichever is earlier)\n- your fund or RSA provider has provided you with an acknowledgment of your valid notice, and\n- either of the following applied to you:\n- you were fully self-employed and not working under a contract principally for your labour less than 10% of the sum of your assessable income plus your reportable employer superannuation contributions (shown at item IT2 in the Income tests section on page 8 of your tax return) plus your total reportable fringe benefits amounts (shown at item IT1 in the Income tests section on page 8 of your tax return) is attributable to the activities that result in you being treated as an employee for the purposes of the superannuation guarantee. See You need to know below for an explanation of the activities and also see the note below.\nAssessable income is the amount you wrote at Total income or loss on page 4 of your tax return unless:\n- you had a distribution from a partnership or trust, income or losses from rent or business (including personal services income), capital gains or capital losses or foreign source income, or\n- you claimed a deductible amount for a foreign pension or annuity at item D11 on your tax return\n- you have a deductible farm management deposit amount at item 17 label D .\nIn either case, phone 13 10 20 for help in working out your assessable income.\n## You n eed to know\nThe deduction you claim can only reduce your taxable income to nil. It cannot add to or create a loss.\nThe deduction you claim may also be used in the income tests for eligibility for certain tax offsets and government benefits. See the Income tests section in Individual tax return instructions 2012.\nIf you have reached 65 years old, you can only make personal contributions if you meet certain conditions. You should check with your superannuation fund or RSA provider.\nGenerally, you will be treated as an employee for superannuation guarantee purposes if you are paid salary or wages or other remuneration in return for your personal labour or skills (this includes some contractors). Activities that resulted in you being treated as an employee for the purposes of the superannuation guarantee also include holding office or performing a function or appointment under a law of the Commonwealth, state or territory (for example, a public servant) and performing functions or duties as a member of an executive body of a body corporate (for example, a director of a company). For further information, see Superannuation Guarantee Ruling SGR 2005/1 - Superannuation guarantee: who is an employee? and Superannuation Guarantee Ruling SGR 2005/2 - Superannuation guarantee: work arranged by intermediaries .\nYou were carrying on a business if you were engaged in any profession, trade, employment, vocation or calling other than being an employee.\nComplete this item only if your superannuation fund or RSA provider has given you an acknowledgment of your valid notice which advised them of the amount you intend to claim as a deduction.\n### Superannuation contributions splitting\nComplying superannuation funds and RSA providers may allow you to split your superannuation contributions with your spouse. However, personal superannuation contributions for which you don't claim an income tax deduction cannot be split to your spouse's superannuation account.\nIf you intend to lodge a notice of intention to claim a deduction for personal superannuation contributions with your fund, you must do it before you lodge your superannuation contributions splitting application for those contributions.\nA superannuation contributions splitting application can only be made to your fund or retirement savings account (RSA) provider:\n- during the income year that follows the end of the income year in which you made the contributions, or\n- during the same income year you made the contributions if your entire benefit is to be rolled over, transferred or cashed before the end of that year.\nFor further information, see the electronic publication Contributions splitting (NAT 15237)\nNote: A spouse can be of the same or opposite sex (see the definition of spouse in Special circumstances and glossary ).\n### Superannuation contribution caps and the co-contribution\nThe amount you are allowed as a deduction for your personal superannuation contributions will affect the amounts of your concessional and non-concessional contributions.\nThe amount of your personal superannuation contributions allowed as a personal superannuation deduction will count towards your concessional contributions. The amount of your personal contributions that is not allowed as a personal superannuation deduction will count towards your non-concessional contributions.\nYou are entitled to receive a co-contribution only for the amount of your personal contributions for which you are not allowed a deduction.\nCheck that you have provided your tax file number to your superannuation fund to ensure you can make a personal contribution and ensure you receive your co-contribution entitlement.\nFor further information on the contributions caps or co-contributions, go to www.ato.gov.au/individuals/super/ and see Super contributions - too much super can mean extra tax or Super co-contribution .\n## Completing this item\n### Step 1\n#### Have you received an acknowledgment from your fund or RSA provider that you gave them a valid notice of your intent to claim a deduction for personal superannuation contributions?\nYES | Go to step 2 .\nNO | You are not entitled to a deduction for personal superannuation contributions. Go to question D13 - Deduction for project pool .\n### Ste p 2\n#### Were you 18 years old or older on 30 June 2012?\nYES | Go to step 4 .\nNO | Go to step 3 .\n### Ste p 3\n#### Did you receive income from carrying on a business or from activities that resulted in you being treated as an employee for superannuation guarantee purposes?\nYES | Go to step 6 .\nNO | You are not entitled to a deduction for personal superannuation contributions. Go to question D13 - Deduction for project pool .\n### Ste p 4\n#### Did you turn 75 years old before 1 June 2011?\nYES | You are not eligible to claim a deduction for personal superannuation contributions for the 2011-12 year. Go to question D13 - Deduction for project pool .\nNO | Go to step 5 .\n### Step 5\n#### Did you turn 75 years old between 1 June 2011 and 31 May 2012 inclusive?\nNO | Go to step 6 .\nYES | Add up all the contributions you made between 1 July 2011 and the 28th day of the month following your 75th birthday (inclusive) which you are eligible to claim as a tax deduction. Write the amount at H item D12 on page 15 of your tax return (supplementary section). Do not show cents. Go to step 7 .\n### Ste p 6\nAdd up all your 2011-12 contributions which you are eligible to claim as a tax deduction, and write the amount at H item D12 on page 15 of your tax return. Do not show cents. Go to step 7 .\n### Step 7\nIf you contributed to only one fund or retirement savings account (RSA), print its full name, either its Australian business number (ABN) or tax file number (TFN), and your account number in the boxes at item D12 . Remember, your fund or RSA provider must have given you an acknowledgment to your valid notice which advised them of the amount you are claiming as a deduction.\nIf you contributed to more than one fund or RSA, print Additional information in the Full name of fund box at item D12 . Add up all your 2011-12 contributions which you are eligible to claim as a tax deduction. Write your answer at H item D12 . In the other boxes, provide details of the fund or RSA provider to which you made the largest contribution and from which you have received an acknowledgment.\nYou cannot write an amount at H that is higher than the amount your superannuation fund or RSA provider acknowledged.\nYou may vary your valid notice to reduce the amount stated in relation to your contribution. You cannot vary your valid notice to increase the amount stated in relation to your contribution.\nIf the variation relates to an amount that you can claim as a deduction at this item, you must notify your superannuation fund or RSA provider on or before the day you lodge your 2012 tax return or 30 June 2013, whichever is earlier. Once you have provided notification, the amount you write at H for that contribution is limited to the reduced amount.\n### Schedules of additional information\nIf you are claiming a deduction at this item you must provide additional information and may need to provide one or both of the following schedules of additional information.\nYou must, on a separate piece of paper, print SCHEDULE OF ADDITIONAL INFORMATION - ITEM D12. Print your name, address and tax file number. For each superannuation fund or RSA provider from which you have received an acknowledgment of your notice of intent to claim the deduction, print the full name of that fund or RSA provider, the fund ABN or TFN of that fund or RSA provider, your account number and the amount that you are claiming as a deduction.\nIf you received:\n- a payment under an income protection, sickness or accident insurance policy held with an insurer which you entered at item 1 because tax was withheld from them, or\n- a parental leave payment which you entered at item 1\nyou will need to complete an additional information schedule.\nOn the schedule, you will need to write the following where applicable:\n- item number relating to the schedule (item D12 )\n- ABN of the insurer\n- name of the person or the entity that holds the policy\n- type of policy (for example, 'income protection insurance policy')\n- amount received,\n- amount of tax withheld\n- amount of parental leave payment.\nPrint X in the Yes box at Taxpayer's declaration question 2a on page 12 of your tax return. Attach your schedule to page 3 of your tax return.\nIf you need more information, phone 13 10 20 .\n## Check that you have...\n- kept your acknowledgment of your notice of intent to claim a deduction from your superannuation fund or RSA provider, as we may ask to see it\n- attached to page 3 of your tax return your SCHEDULE OF ADDITIONAL INFORMATION - ITEM D12, if you need to send us one.\nWhere to go next go to question D13 - Deduction for project pool return to main menu Individual tax return instructions go back to question D11 - Deductible amount of undeducted purchase price of a foreign pension or annuity",
+  "child_links": [],
+  "word_count": 2302,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

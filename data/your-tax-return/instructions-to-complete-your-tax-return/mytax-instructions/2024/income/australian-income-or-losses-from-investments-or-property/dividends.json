@@ -1,0 +1,194 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2024/income/australian-income-or-losses-from-investments-or-property/dividends",
+  "title": "myTax 2024 Dividends",
+  "description": "How to report dividends when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "101588",
+  "date_updated": "2024-08-08T14:00:00Z",
+  "first_published": "",
+  "keywords": "myTax 2024, myTax, e-tax, dividends, distributions, online tax return, income, shares, etax",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete this section if you had dividends and distributions that were paid or credited to you by Australian companies that you had shares in."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dividends and distributions include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "dividends applied under a dividend reinvestment plan",
+        "dividends that were dealt with on your behalf",
+        "bonus shares that qualify as dividends",
+        "distributions by a corporate limited partnership",
+        "dividends paid by a corporate unit trust",
+        "dividends paid by a public trading trust",
+        "dividends paid by a listed investment company",
+        "earnings you received, or were credited with, on a non-share equity interest",
+        "amounts you received from, or were credited by, a private company as a shareholder or an associate of a shareholder in the form of payments, loans or debts forgiven (these are generally unfranked dividends)",
+        "amounts you received from, or were credited by, the trustee of a trust estate in the form of payments, loans or debts forgiven where a private company in which you were a shareholder, or an associate of a shareholder, had an unpaid present entitlement (or was going to have such an entitlement by a certain time) from the trust (these are generally unfranked dividends)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Don’t include dividends paid under a demerger unless the company advised you to include them."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Dividend statement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your statements may show:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "amounts of franked and unfranked dividends",
+        "amounts of franking credits",
+        "tax file number (TFN) amounts withheld from unfranked dividends."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Franking credits are amounts of tax paid by the company that are allocated to your dividend or distribution. You include as assessable income both:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the amount of your dividend or distribution",
+        "the amount of the franking credits allocated to you."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You also receive a tax credit on your tax assessment for an amount equal to the franking credits."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may not be entitled to claim the franking credits if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "within 45 days of buying the shares (excluding the dates of purchase and disposal), you either sold them or entered an arrangement to reduce the risk of making a loss on them. For certain preference shares, this period extends to 90 days.",
+        "you were under an obligation to make, or were likely to make, a related payment, or",
+        "you received a dividend as a result of a dividend washing arrangement."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on these rules, see When you are not entitled to claim a franking tax offset ."
+    },
+    {
+      "type": "paragraph",
+      "text": "TFN amounts are amounts of tax withheld from dividends and some distributions by investment bodies because you did not provide your TFN or ABN to them. TFN amounts are shown on your dividend statement. These amounts must be included in the amount of unfranked dividends you show on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Don’t show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "received a distribution from an exchange traded fund (ETF), a managed investment trust (MIT) or an attribution managed investment trust (AMIT), go to Managed funds",
+        "received a distribution from a partnership or trust, go to Partnerships or Trusts",
+        "carried on a business of trading in shares, go to Business income or losses",
+        "sold, redeemed, cancelled or otherwise disposed of shares during the year (but did not carry on a business of trading in shares), go to Capital gains or losses",
+        "received dividends from a foreign company, go to Other foreign income",
+        "received dividends from a New Zealand company with Australian franking credits attached, go to Other foreign income",
+        "received dividends or a distribution on which family trust distribution tax had been paid, go to Amount on which family trust distribution tax has been paid ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your statements from each Australian company, corporate limited partnership, corporate trading trust, public trading trust and listed investment company that paid you dividends or made distributions to you from 1 July 2023 to 30 June 2024 inclusive. Your dividend statements will show the amounts and should show the payment dates."
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your tax return with dividend information provided to us. Check them and add any dividends and distributions that were paid or credited to you by Australian companies that have not pre-filled."
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your return to show dividends, at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You had Australian interest, or other Australian income or losses from investments or property",
+        "Dividends"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your dividends, at Prepare return select 'Add/Edit' at the Dividends banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Dividends banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each dividend that has not been pre-filled in your tax return, select Add and enter information into the corresponding fields. Joint owners If you held shares in joint names, show the number of account holders and the total amount of dividends, credits and tax withheld. MyTax will divide the amounts equally between the number of account holders. You may alter your share of the amount of dividends, credits and tax withheld if the shares are owned in unequal proportions. If you do, keep a record of how you worked out your share.",
+        "Were you an Australian resident for tax purposes for the full financial year? Yes – go to step 5. No – go to step 3.",
+        "Were you an Australian resident for tax purposes for any part of the financial year? Yes – go to step 4. No – go to step 7.",
+        "For each dividend where you were an Australian resident for tax purposes for part of the financial year, answer the question Were you an Australian resident for tax purposes when the dividend was paid or credited? Yes – go to step 5. No – go to step 7.",
+        "Enter information into the corresponding fields. If your statement does not show franked and unfranked portions of the dividend, enter the total dividend amount at Total franked amount . Go to step 6.",
+        "For each dividend that has been pre-filled which includes a listed investment company (LIC) capital gains deduction, the amount will be 50% of the amount shown as a LIC capital gain on your dividend statement. Dividend deductions provides more information about LIC capital gains. Go to step 9.",
+        "For each dividend where you were not an Australian resident for tax purposes when the dividend was paid or credited, did all of the following conditions apply? It was not fully franked. It was not declared to be conduit foreign income. Withholding tax was not withheld from the unfranked amount. Yes – go to step 8. No – Do not include that dividend . Go to step 9.",
+        "Enter information into the corresponding fields. For each dividend, select the Country of residence when the dividend was paid or credited . This amount will not be included in your taxable income. We will advise you of the amount of withholding tax you have to pay on this dividend. Go to step 9.",
+        "Select Save .",
+        "Select Save and continue when you have finished the Dividends section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The You and your shares guide provides help to people who hold shares or bonds as an investment, including:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "how dividends received by Australian resident and non-resident individuals are taxed",
+        "the type of expenses you may be able to claim against dividend income, and",
+        "records you need to keep."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you acquired shares after 19 September 1985, capital gains tax (CGT) may apply when you dispose of them. For more information see Guide to capital gains tax ."
+    }
+  ],
+  "content_text": "## Things to know\nComplete this section if you had dividends and distributions that were paid or credited to you by Australian companies that you had shares in.\nDividends and distributions include:\n- dividends applied under a dividend reinvestment plan\n- dividends that were dealt with on your behalf\n- bonus shares that qualify as dividends\n- distributions by a corporate limited partnership\n- dividends paid by a corporate unit trust\n- dividends paid by a public trading trust\n- dividends paid by a listed investment company\n- earnings you received, or were credited with, on a non-share equity interest\n- amounts you received from, or were credited by, a private company as a shareholder or an associate of a shareholder in the form of payments, loans or debts forgiven (these are generally unfranked dividends)\n- amounts you received from, or were credited by, the trustee of a trust estate in the form of payments, loans or debts forgiven where a private company in which you were a shareholder, or an associate of a shareholder, had an unpaid present entitlement (or was going to have such an entitlement by a certain time) from the trust (these are generally unfranked dividends).\nDon’t include dividends paid under a demerger unless the company advised you to include them.\n### Dividend statement\nYour statements may show:\n- amounts of franked and unfranked dividends\n- amounts of franking credits\n- tax file number (TFN) amounts withheld from unfranked dividends.\nFranking credits are amounts of tax paid by the company that are allocated to your dividend or distribution. You include as assessable income both:\n- the amount of your dividend or distribution\n- the amount of the franking credits allocated to you.\nYou also receive a tax credit on your tax assessment for an amount equal to the franking credits.\nYou may not be entitled to claim the franking credits if:\n- within 45 days of buying the shares (excluding the dates of purchase and disposal), you either sold them or entered an arrangement to reduce the risk of making a loss on them. For certain preference shares, this period extends to 90 days.\n- you were under an obligation to make, or were likely to make, a related payment, or\n- you received a dividend as a result of a dividend washing arrangement.\nFor more information on these rules, see When you are not entitled to claim a franking tax offset .\nTFN amounts are amounts of tax withheld from dividends and some distributions by investment bodies because you did not provide your TFN or ABN to them. TFN amounts are shown on your dividend statement. These amounts must be included in the amount of unfranked dividends you show on your tax return.\n### Don’t show at this section\nIf you:\n- received a distribution from an exchange traded fund (ETF), a managed investment trust (MIT) or an attribution managed investment trust (AMIT), go to Managed funds\n- received a distribution from a partnership or trust, go to Partnerships or Trusts\n- carried on a business of trading in shares, go to Business income or losses\n- sold, redeemed, cancelled or otherwise disposed of shares during the year (but did not carry on a business of trading in shares), go to Capital gains or losses\n- received dividends from a foreign company, go to Other foreign income\n- received dividends from a New Zealand company with Australian franking credits attached, go to Other foreign income\n- received dividends or a distribution on which family trust distribution tax had been paid, go to Amount on which family trust distribution tax has been paid .\n## Completing this section\nYou will need your statements from each Australian company, corporate limited partnership, corporate trading trust, public trading trust and listed investment company that paid you dividends or made distributions to you from 1 July 2023 to 30 June 2024 inclusive. Your dividend statements will show the amounts and should show the payment dates.\nWe pre-fill your tax return with dividend information provided to us. Check them and add any dividends and distributions that were paid or credited to you by Australian companies that have not pre-filled.\nTo personalise your return to show dividends, at Personalise return select:\n- You had Australian interest, or other Australian income or losses from investments or property\n- Dividends\nTo show your dividends, at Prepare return select 'Add/Edit' at the Dividends banner.\nAt the Dividends banner:\n- For each dividend that has not been pre-filled in your tax return, select Add and enter information into the corresponding fields. Joint owners If you held shares in joint names, show the number of account holders and the total amount of dividends, credits and tax withheld. MyTax will divide the amounts equally between the number of account holders. You may alter your share of the amount of dividends, credits and tax withheld if the shares are owned in unequal proportions. If you do, keep a record of how you worked out your share.\n- Were you an Australian resident for tax purposes for the full financial year? Yes – go to step 5. No – go to step 3.\n- Were you an Australian resident for tax purposes for any part of the financial year? Yes – go to step 4. No – go to step 7.\n- For each dividend where you were an Australian resident for tax purposes for part of the financial year, answer the question Were you an Australian resident for tax purposes when the dividend was paid or credited? Yes – go to step 5. No – go to step 7.\n- Enter information into the corresponding fields. If your statement does not show franked and unfranked portions of the dividend, enter the total dividend amount at Total franked amount . Go to step 6.\n- For each dividend that has been pre-filled which includes a listed investment company (LIC) capital gains deduction, the amount will be 50% of the amount shown as a LIC capital gain on your dividend statement. Dividend deductions provides more information about LIC capital gains. Go to step 9.\n- For each dividend where you were not an Australian resident for tax purposes when the dividend was paid or credited, did all of the following conditions apply? It was not fully franked. It was not declared to be conduit foreign income. Withholding tax was not withheld from the unfranked amount. Yes – go to step 8. No – Do not include that dividend . Go to step 9.\n- Enter information into the corresponding fields. For each dividend, select the Country of residence when the dividend was paid or credited . This amount will not be included in your taxable income. We will advise you of the amount of withholding tax you have to pay on this dividend. Go to step 9.\n- Select Save .\n- Select Save and continue when you have finished the Dividends section.\nThe You and your shares guide provides help to people who hold shares or bonds as an investment, including:\n- how dividends received by Australian resident and non-resident individuals are taxed\n- the type of expenses you may be able to claim against dividend income, and\n- records you need to keep.\nIf you acquired shares after 19 September 1985, capital gains tax (CGT) may apply when you dispose of them. For more information see Guide to capital gains tax .",
+  "child_links": [],
+  "word_count": 1243,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

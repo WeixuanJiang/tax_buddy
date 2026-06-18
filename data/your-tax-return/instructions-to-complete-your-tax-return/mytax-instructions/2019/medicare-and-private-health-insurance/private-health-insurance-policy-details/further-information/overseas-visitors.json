@@ -1,0 +1,192 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/medicare-and-private-health-insurance/private-health-insurance-policy-details/further-information/overseas-visitors",
+  "title": "Overseas visitors",
+  "description": "How to complete Medicare levy surcharge and Private health insurance in myTax if you are an overseas visitor.",
+  "nat_number": "",
+  "quick_code": "80294",
+  "date_updated": "2019-06-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "If you are an overseas visitor, how you complete Medicare levy surcharge and Private health insurance in myTax depends on your circumstances, such as:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If you have an overseas health insurer",
+        "If you have a complying health insurance policy",
+        "If you are not eligible for Medicare",
+        "If you have overseas student or overseas visitor health cover"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "If you have an overseas health insurer"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your private health insurance provider is an overseas provider that is not registered in Australia, you will not be eligible for any rebate on your policy, and you may need to pay the Medicare levy surcharge if you don't meet the conditions for a Medicare levy exemption."
+    },
+    {
+      "type": "paragraph",
+      "text": "When completing myTax, you should:"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Medicare levy surcharge"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Answer No to the question Were you and all of your dependants covered by an appropriate level of private patient hospital cover from 1 July 2018 to 30 June 2019?",
+        "Indicate the Number of days you do not have to pay the surcharge . In some instances, myTax may determine for you that you do not have to pay the Medicare levy surcharge. For more information, see Medicare levy surcharge ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At Private health insurance"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Not show any Private health insurance policies ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "If you have a complying health insurance policy"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may receive private health insurance statement information from your insurance provider if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you have an Australian-registered complying health insurance policy",
+        "are eligible for Medicare",
+        "are a private health insurance incentive beneficiary (PHIIB)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When completing myTax, if you and all your dependents were covered under a complying health insurance policy for the full year with the appropriate level of private patient hospital cover, you should:"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Medicare levy surcharge"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Answer Yes to the question Were you and all of your dependants covered by an appropriate level of private patient hospital cover from 1 July 2018 to 30 June 2019?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At Private health insurance"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Show your Private health insurance policies . For more information, see Completing this section ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "If you are not eligible for Medicare"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are an overseas visitor who is not eligible for Medicare, you are not entitled to any private health insurance rebate."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, you can still purchase a complying health insurance policy with an Australian-registered health insurer. You will need to confirm the details of your private health insurance statement information. Your statement information will include the amount of premiums paid (at label J ), while the rebate received at label K will be zero ($0)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the complying health insurance policy provides you and all of your dependants with the appropriate level of private patient hospital cover, you will be eligible to claim an exemption from the Medicare levy surcharge."
+    },
+    {
+      "type": "paragraph",
+      "text": "When completing myTax, you should:"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Medicare levy surcharge"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Answer No to the question Were you and all of your dependants covered by an appropriate level of private patient hospital cover from 1 July 2018 to 30 June 2019?",
+        "Indicate the Number of days you do not have to pay the surcharge . In some instances, myTax may determine for you that you do not have to pay the Medicare levy surcharge. If not, and you and all of your dependants, including your spouse, were covered under the appropriate level of private patient hospital cover for the full year, enter 365 into Number of days you do not have to pay the surcharge . Otherwise, see Medicare levy surcharge to determine what to enter into Number of days you do not have to pay the surcharge ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At Private health insurance"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Not show any Private health insurance policies ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "If you have overseas student or overseas visitor health cover"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are an overseas visitor, you can purchase Overseas student health cover (OSHC) or Overseas visitors health cover (OVHC) from an Australian-registered health insurer. These are not complying health insurance policies, and you will not be eligible for the private health insurance rebate."
+    },
+    {
+      "type": "paragraph",
+      "text": "When completing myTax as an overseas visitor with OSHC or OVHC, you should:"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Medicare levy surcharge"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Answer No to the question Were you and all of your dependants covered by an appropriate level of private patient hospital cover from 1 July 2018 to 30 June 2019?",
+        "Indicate the Number of days you do not have to pay the surcharge . In some instances, myTax may determine for you that you do not have to pay the Medicare levy surcharge. For more information, see Medicare levy surcharge ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At Private health insurance"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Not show any Private health insurance policies ."
+      ]
+    }
+  ],
+  "content_text": "If you are an overseas visitor, how you complete Medicare levy surcharge and Private health insurance in myTax depends on your circumstances, such as:\n- If you have an overseas health insurer\n- If you have a complying health insurance policy\n- If you are not eligible for Medicare\n- If you have overseas student or overseas visitor health cover\n## If you have an overseas health insurer\nIf your private health insurance provider is an overseas provider that is not registered in Australia, you will not be eligible for any rebate on your policy, and you may need to pay the Medicare levy surcharge if you don't meet the conditions for a Medicare levy exemption.\nWhen completing myTax, you should:\nAt Medicare levy surcharge\n- Answer No to the question Were you and all of your dependants covered by an appropriate level of private patient hospital cover from 1 July 2018 to 30 June 2019?\n- Indicate the Number of days you do not have to pay the surcharge . In some instances, myTax may determine for you that you do not have to pay the Medicare levy surcharge. For more information, see Medicare levy surcharge .\nAt Private health insurance\n- Not show any Private health insurance policies .\n## If you have a complying health insurance policy\nYou may receive private health insurance statement information from your insurance provider if:\n- you have an Australian-registered complying health insurance policy\n- are eligible for Medicare\n- are a private health insurance incentive beneficiary (PHIIB).\nWhen completing myTax, if you and all your dependents were covered under a complying health insurance policy for the full year with the appropriate level of private patient hospital cover, you should:\nAt Medicare levy surcharge\n- Answer Yes to the question Were you and all of your dependants covered by an appropriate level of private patient hospital cover from 1 July 2018 to 30 June 2019?\nAt Private health insurance\n- Show your Private health insurance policies . For more information, see Completing this section .\n## If you are not eligible for Medicare\nIf you are an overseas visitor who is not eligible for Medicare, you are not entitled to any private health insurance rebate.\nHowever, you can still purchase a complying health insurance policy with an Australian-registered health insurer. You will need to confirm the details of your private health insurance statement information. Your statement information will include the amount of premiums paid (at label J ), while the rebate received at label K will be zero ($0).\nIf the complying health insurance policy provides you and all of your dependants with the appropriate level of private patient hospital cover, you will be eligible to claim an exemption from the Medicare levy surcharge.\nWhen completing myTax, you should:\nAt Medicare levy surcharge\n- Answer No to the question Were you and all of your dependants covered by an appropriate level of private patient hospital cover from 1 July 2018 to 30 June 2019?\n- Indicate the Number of days you do not have to pay the surcharge . In some instances, myTax may determine for you that you do not have to pay the Medicare levy surcharge. If not, and you and all of your dependants, including your spouse, were covered under the appropriate level of private patient hospital cover for the full year, enter 365 into Number of days you do not have to pay the surcharge . Otherwise, see Medicare levy surcharge to determine what to enter into Number of days you do not have to pay the surcharge .\nAt Private health insurance\n- Not show any Private health insurance policies .\n## If you have overseas student or overseas visitor health cover\nIf you are an overseas visitor, you can purchase Overseas student health cover (OSHC) or Overseas visitors health cover (OVHC) from an Australian-registered health insurer. These are not complying health insurance policies, and you will not be eligible for the private health insurance rebate.\nWhen completing myTax as an overseas visitor with OSHC or OVHC, you should:\nAt Medicare levy surcharge\n- Answer No to the question Were you and all of your dependants covered by an appropriate level of private patient hospital cover from 1 July 2018 to 30 June 2019?\n- Indicate the Number of days you do not have to pay the surcharge . In some instances, myTax may determine for you that you do not have to pay the Medicare levy surcharge. For more information, see Medicare levy surcharge .\nAt Private health insurance\n- Not show any Private health insurance policies .",
+  "child_links": [],
+  "word_count": 772,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

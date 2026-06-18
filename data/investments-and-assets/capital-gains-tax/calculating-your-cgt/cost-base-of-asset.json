@@ -1,0 +1,397 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/capital-gains-tax/calculating-your-cgt/cost-base-of-asset",
+  "title": "Cost base of assets",
+  "description": "Work out the cost base of an asset, including foreign currency and excluded amounts, and when not to use the cost base.",
+  "nat_number": "",
+  "quick_code": "66022",
+  "date_updated": "2025-06-22T14:00:00Z",
+  "first_published": "",
+  "keywords": "cost base, reduced cost base, element of cost base",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Work out the cost base for a capital gain"
+    },
+    {
+      "type": "paragraph",
+      "text": "The cost base of a capital gains tax (CGT) asset is generally what it cost you to buy it, plus other costs you incur to hold and dispose of it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Work out your cost base using our online calculator and record keeping tool. You can also access the tool and save your data through your myGov account External Link ."
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out the cost base of a CGT asset yourself, add these 5 elements:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Money paid or property given for the CGT asset",
+        "Incidental costs of acquiring the CGT asset or that relate to the CGT event",
+        "Costs of owning the CGT asset",
+        "Capital costs to increase or preserve the value of your asset or to install or move it",
+        "Capital costs of preserving or defending your title or rights to your CGT asset"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't include any costs for which you can claim a tax deduction. For example, you don't include the cost of capital works for which you can claim a deduction."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "First element: money paid or property given for the CGT asset"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the money paid (or required to be paid) for the asset and the market value of property given (or required to be given) to acquire the asset."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Second element: incidental costs of acquiring the CGT asset or that relate to the CGT event"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are 10 incidental costs you may have incurred when you acquired the asset or when the CGT event (such as selling or disposing of the asset) occurred."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "remuneration for the services of a surveyor, valuer, auctioneer, accountant, broker, agent, consultant, or legal adviser – you can include the cost of tax advice as an incidental cost if the advice was provided by a recognised tax adviser and you incurred it after 30 June 1989",
+        "costs of transfer",
+        "stamp duty or other similar duty",
+        "costs of advertising or marketing (but not entertainment) to find a seller or buyer",
+        "costs of making a valuation or apportionment to calculate your capital gain or loss",
+        "search fees for an asset – this includes fees to check land titles, but not travel costs to find an asset suitable for purchase",
+        "cost of a conveyancing kit (or a similar cost)",
+        "borrowing expenses, such as loan application fees and mortgage discharge fees",
+        "expenses incurred as a direct result of your ownership of a CGT asset ending. This includes termination and exit fees",
+        "expenses by the head company of a consolidated group where the expense is to an entity that is not a member of the group reasonably relates to a CGT asset held by the head company is incurred because of a transaction between members of the group."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Third element: costs of owning the CGT asset"
+    },
+    {
+      "type": "paragraph",
+      "text": "The costs of owning an asset include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "rates",
+        "land taxes",
+        "repairs",
+        "insurance premiums",
+        "any non-deductible interest on loans used to finance the acquisition of a CGT asset capital expenditure to increase an asset’s value."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "These expenses can be included in the cost base only if they are not deductible. This would happen if, for example, they were incurred for vacant land."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can’t:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "include costs you can claim an income tax deduction for",
+        "include these costs in the cost base of collectables or personal use assets",
+        "index these costs",
+        "use these costs to work out a capital loss",
+        "include these costs if you acquired the asset before 21 August 1991."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fourth element: capital costs to increase or preserve the value of your asset or to install or move it"
+    },
+    {
+      "type": "paragraph",
+      "text": "These are capital costs you incurred:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "for the purpose of increasing or preserving the asset’s value – for example, the costs of applying (successfully or unsuccessfully) for zoning changes",
+        "to install or move an asset."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The fourth element doesn’t include capital expenditure for goodwill. This may be deductible as a business-related cost."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fifth element: capital costs of preserving or defending your title or rights to your CGT asset"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is your capital expenditure to preserve or defend your ownership of, or rights to, the asset – for example, if you paid a call on shares."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Work out the reduced cost base for a capital loss"
+    },
+    {
+      "type": "paragraph",
+      "text": "The reduced cost base of a CGT asset has the same 5 elements as the cost base, except that the third element is different."
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out the reduced cost base of a CGT asset , add these 5 elements:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Money paid or property given for the CGT asset",
+        "Incidental costs of acquiring the CGT asset or that relate to the CGT event",
+        "Balancing adjustment amount for the asset. This is any amount that is assessable because of a balancing adjustment for the asset. It includes amounts that would be assessable if certain balancing adjustment relief were not available",
+        "Capital costs to increase or preserve the value of your asset or to install or move it",
+        "Capital costs of preserving or defending your title or rights to your CGT asset ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You don't index these elements because you can't use indexation for capital losses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Don’t include any costs you can claim a tax deduction for, such as the cost of capital works."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Foreign currency amounts"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the cost base or reduced cost base includes an amount paid in a foreign currency, you must convert it to Australian currency."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the exchange rate at the time of the relevant transaction or event – for example, when the money was paid for the asset."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Amounts not included"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following amounts aren’t included in the cost base or the reduced cost base."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Deductible costs"
+    },
+    {
+      "type": "paragraph",
+      "text": "The cost base and reduced cost base don’t include any costs you can claim as a tax deduction."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: effect of capital works deduction on reduced cost base"
+    },
+    {
+      "type": "paragraph",
+      "text": "Danuta acquired a new income-producing asset on 28 September 2012 for $100,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "She sold it for $90,000 in November 2024"
+    },
+    {
+      "type": "paragraph",
+      "text": "While she owned it, she claimed capital works deductions of $7,500 for expenditure incurred by the previous owner."
+    },
+    {
+      "type": "paragraph",
+      "text": "Her capital loss is worked out as follows:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Cost base",
+          "$100,000"
+        ],
+        [
+          "less capital works deductions",
+          "$7,500"
+        ],
+        [
+          "Reduced cost base",
+          "$92,500"
+        ],
+        [
+          "less capital proceeds",
+          "$90,000"
+        ],
+        [
+          "Capital loss",
+          "$2,500"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In some cases, a deduction you have claimed on a CGT asset can be partly or wholly 'reversed'. This happens when the value of part or all of the deduction may be declared as income in the year the CGT event happens."
+    },
+    {
+      "type": "paragraph",
+      "text": "When a deduction is wholly or partly reversed, the cost base of the CGT asset is increased by the amount reversed and must be included in your assessable income."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "GST for registered businesses"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "registered for GST , you reduce each element by the amount of any GST net input tax credits included in the cost",
+        "not registered for GST , you don't make any adjustment. The GST is included in the cost base."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Expenditure on heritage conservation, land care and water facilities"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you acquired a CGT asset after 13 May 1997, the cost base and reduced cost base don't include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "heritage conservation expenditure",
+        "land care and water facilities expenditure incurred after 12 November 1998, which gave rise to a tax offset."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Recouped expenditure"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recouped expenditure includes insurance payouts you received or an amount paid for by someone else."
+    },
+    {
+      "type": "paragraph",
+      "text": "You don't include expenditure you subsequently recoup in the cost base and reduced cost of a CGT asset, unless you included the recouped amount in your assessable income."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: recouped expenditure"
+    },
+    {
+      "type": "paragraph",
+      "text": "Amid bought a building in 2003 for $200,000 and incurred $10,000 in legal costs associated with the purchase."
+    },
+    {
+      "type": "paragraph",
+      "text": "As part of the settlement, the vendor agreed to pay $4,000 of the legal costs. Amid did not claim any part of the $6,000 he paid in legal costs as a tax deduction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Amid later sells the building. As he received reimbursement of $4,000 of the legal costs, he includes only the $6,000 he incurred in the cost base when working out his capital gain."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Expenditure not attributable to asset"
+    },
+    {
+      "type": "paragraph",
+      "text": "If only part of your expenditure can be attributed to acquiring a CGT asset, only that part can be included in the asset’s cost base or reduced cost base."
+    },
+    {
+      "type": "paragraph",
+      "text": "The same applies to other elements of the cost base and reduced cost base."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, if a CGT event happens to only part of a CGT asset, you apportion the cost base or reduced cost base of the asset to work out your capital gain or loss."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "CGT events where cost base isn’t used"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cost base and reduced cost base aren’t relevant for some CGT events. For example, if you enter an agreement not to work in a particular industry for a period, calculate your capital gain or loss by comparing the capital proceeds with the incidental costs."
+    },
+    {
+      "type": "paragraph",
+      "text": "For depreciating assets there are special rules for calculating capital gains – the cost base is not relevant."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interaction with other rules"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are other CGT rules that may affect the cost base or reduced cost base of an asset. You should check these rules if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the asset is your home and you used your home to produce income",
+        "the asset is a property and you have capital works expenses for which you can claim a deduction",
+        "the asset is an inherited property",
+        "the asset is bonus shares , bonus units , rights and options to acquire shares or units , or convertible notes",
+        "the asset is a depreciating asset",
+        "the CGT event happens under a demerger",
+        "you are in a consolidated group",
+        "you are affected by the general value shifting regime",
+        "you have been freed from paying a debt",
+        "you start or cease to have a financial arrangement as consideration for acquiring a CGT asset."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your capital gain or loss for each asset, see Calculating your CGT ."
+    }
+  ],
+  "content_text": "## Work out the cost base for a capital gain\nThe cost base of a capital gains tax (CGT) asset is generally what it cost you to buy it, plus other costs you incur to hold and dispose of it.\nWork out your cost base using our online calculator and record keeping tool. You can also access the tool and save your data through your myGov account External Link .\nTo work out the cost base of a CGT asset yourself, add these 5 elements:\n- Money paid or property given for the CGT asset\n- Incidental costs of acquiring the CGT asset or that relate to the CGT event\n- Costs of owning the CGT asset\n- Capital costs to increase or preserve the value of your asset or to install or move it\n- Capital costs of preserving or defending your title or rights to your CGT asset\nDon't include any costs for which you can claim a tax deduction. For example, you don't include the cost of capital works for which you can claim a deduction.\n### First element: money paid or property given for the CGT asset\nThis is the money paid (or required to be paid) for the asset and the market value of property given (or required to be given) to acquire the asset.\n### Second element: incidental costs of acquiring the CGT asset or that relate to the CGT event\nThere are 10 incidental costs you may have incurred when you acquired the asset or when the CGT event (such as selling or disposing of the asset) occurred.\nThey are:\n- remuneration for the services of a surveyor, valuer, auctioneer, accountant, broker, agent, consultant, or legal adviser – you can include the cost of tax advice as an incidental cost if the advice was provided by a recognised tax adviser and you incurred it after 30 June 1989\n- costs of transfer\n- stamp duty or other similar duty\n- costs of advertising or marketing (but not entertainment) to find a seller or buyer\n- costs of making a valuation or apportionment to calculate your capital gain or loss\n- search fees for an asset – this includes fees to check land titles, but not travel costs to find an asset suitable for purchase\n- cost of a conveyancing kit (or a similar cost)\n- borrowing expenses, such as loan application fees and mortgage discharge fees\n- expenses incurred as a direct result of your ownership of a CGT asset ending. This includes termination and exit fees\n- expenses by the head company of a consolidated group where the expense is to an entity that is not a member of the group reasonably relates to a CGT asset held by the head company is incurred because of a transaction between members of the group.\n### Third element: costs of owning the CGT asset\nThe costs of owning an asset include:\n- rates\n- land taxes\n- repairs\n- insurance premiums\n- any non-deductible interest on loans used to finance the acquisition of a CGT asset capital expenditure to increase an asset’s value.\nThese expenses can be included in the cost base only if they are not deductible. This would happen if, for example, they were incurred for vacant land.\nYou can’t:\n- include costs you can claim an income tax deduction for\n- include these costs in the cost base of collectables or personal use assets\n- index these costs\n- use these costs to work out a capital loss\n- include these costs if you acquired the asset before 21 August 1991.\n### Fourth element: capital costs to increase or preserve the value of your asset or to install or move it\nThese are capital costs you incurred:\n- for the purpose of increasing or preserving the asset’s value – for example, the costs of applying (successfully or unsuccessfully) for zoning changes\n- to install or move an asset.\nThe fourth element doesn’t include capital expenditure for goodwill. This may be deductible as a business-related cost.\n### Fifth element: capital costs of preserving or defending your title or rights to your CGT asset\nThis is your capital expenditure to preserve or defend your ownership of, or rights to, the asset – for example, if you paid a call on shares.\n## Work out the reduced cost base for a capital loss\nThe reduced cost base of a CGT asset has the same 5 elements as the cost base, except that the third element is different.\nTo work out the reduced cost base of a CGT asset , add these 5 elements:\n- Money paid or property given for the CGT asset\n- Incidental costs of acquiring the CGT asset or that relate to the CGT event\n- Balancing adjustment amount for the asset. This is any amount that is assessable because of a balancing adjustment for the asset. It includes amounts that would be assessable if certain balancing adjustment relief were not available\n- Capital costs to increase or preserve the value of your asset or to install or move it\n- Capital costs of preserving or defending your title or rights to your CGT asset .\nYou don't index these elements because you can't use indexation for capital losses.\nDon’t include any costs you can claim a tax deduction for, such as the cost of capital works.\n## Foreign currency amounts\nIf the cost base or reduced cost base includes an amount paid in a foreign currency, you must convert it to Australian currency.\nUse the exchange rate at the time of the relevant transaction or event – for example, when the money was paid for the asset.\n## Amounts not included\nThe following amounts aren’t included in the cost base or the reduced cost base.\n### Deductible costs\nThe cost base and reduced cost base don’t include any costs you can claim as a tax deduction.\n#### Example: effect of capital works deduction on reduced cost base\nDanuta acquired a new income-producing asset on 28 September 2012 for $100,000.\nShe sold it for $90,000 in November 2024\nWhile she owned it, she claimed capital works deductions of $7,500 for expenditure incurred by the previous owner.\nHer capital loss is worked out as follows:\nCost base | $100,000\nless capital works deductions | $7,500\nReduced cost base | $92,500\nless capital proceeds | $90,000\nCapital loss | $2,500\nIn some cases, a deduction you have claimed on a CGT asset can be partly or wholly 'reversed'. This happens when the value of part or all of the deduction may be declared as income in the year the CGT event happens.\nWhen a deduction is wholly or partly reversed, the cost base of the CGT asset is increased by the amount reversed and must be included in your assessable income.\n### GST for registered businesses\nIf you are:\n- registered for GST , you reduce each element by the amount of any GST net input tax credits included in the cost\n- not registered for GST , you don't make any adjustment. The GST is included in the cost base.\n### Expenditure on heritage conservation, land care and water facilities\nIf you acquired a CGT asset after 13 May 1997, the cost base and reduced cost base don't include:\n- heritage conservation expenditure\n- land care and water facilities expenditure incurred after 12 November 1998, which gave rise to a tax offset.\n### Recouped expenditure\nRecouped expenditure includes insurance payouts you received or an amount paid for by someone else.\nYou don't include expenditure you subsequently recoup in the cost base and reduced cost of a CGT asset, unless you included the recouped amount in your assessable income.\n#### Example: recouped expenditure\nAmid bought a building in 2003 for $200,000 and incurred $10,000 in legal costs associated with the purchase.\nAs part of the settlement, the vendor agreed to pay $4,000 of the legal costs. Amid did not claim any part of the $6,000 he paid in legal costs as a tax deduction.\nAmid later sells the building. As he received reimbursement of $4,000 of the legal costs, he includes only the $6,000 he incurred in the cost base when working out his capital gain.\n### Expenditure not attributable to asset\nIf only part of your expenditure can be attributed to acquiring a CGT asset, only that part can be included in the asset’s cost base or reduced cost base.\nThe same applies to other elements of the cost base and reduced cost base.\nSimilarly, if a CGT event happens to only part of a CGT asset, you apportion the cost base or reduced cost base of the asset to work out your capital gain or loss.\n## CGT events where cost base isn’t used\nCost base and reduced cost base aren’t relevant for some CGT events. For example, if you enter an agreement not to work in a particular industry for a period, calculate your capital gain or loss by comparing the capital proceeds with the incidental costs.\nFor depreciating assets there are special rules for calculating capital gains – the cost base is not relevant.\n## Interaction with other rules\nThere are other CGT rules that may affect the cost base or reduced cost base of an asset. You should check these rules if:\n- the asset is your home and you used your home to produce income\n- the asset is a property and you have capital works expenses for which you can claim a deduction\n- the asset is an inherited property\n- the asset is bonus shares , bonus units , rights and options to acquire shares or units , or convertible notes\n- the asset is a depreciating asset\n- the CGT event happens under a demerger\n- you are in a consolidated group\n- you are affected by the general value shifting regime\n- you have been freed from paying a debt\n- you start or cease to have a financial arrangement as consideration for acquiring a CGT asset.\nTo work out your capital gain or loss for each asset, see Calculating your CGT .",
+  "child_links": [],
+  "word_count": 1690,
+  "source_title": "Cost base of assets | Australian Taxation Office",
+  "source_description": "Work out the cost base of an asset, including foreign currency and excluded amounts, and when not to use the cost base.",
+  "category": "investments-and-assets"
+}

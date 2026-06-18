@@ -1,0 +1,33 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/tax-file-number/identity-documents",
+  "title": "Identity documents",
+  "description": "The identity documents you need to apply for a TFN, ABN or register for GST and who can certify your original documents.",
+  "nat_number": "",
+  "quick_code": "70396",
+  "date_updated": "2025-06-15T14:00:00Z",
+  "first_published": "",
+  "keywords": "identity documents, proof of identity, copies of documents, certified copies, POI",
+  "content_blocks": [],
+  "content_text": "",
+  "child_links": [
+    {
+      "title": "Copies of identity documents for applicants in Australia",
+      "description": "How applicants in Australia get certified identity documents to apply for a TFN, ABN or register for GST.",
+      "url": "https://www.ato.gov.au/individuals-and-families/tax-file-number/identity-documents/copies-of-identity-documents-for-applicants-in-australia"
+    },
+    {
+      "title": "Copies of identity documents for applicants outside Australia",
+      "description": "Check the certified identity documents you need to apply for a TFN, ABN or register for GST as a non-resident.",
+      "url": "https://www.ato.gov.au/individuals-and-families/tax-file-number/identity-documents/copies-of-identity-documents-for-applicants-outside-australia"
+    },
+    {
+      "title": "Proof of identity – applicants outside Australia",
+      "description": "Identity documents you need to apply for a TFN as an individual or business applicant residing outside of Australia.",
+      "url": "https://www.ato.gov.au/individuals-and-families/tax-file-number/identity-documents/proof-of-identity-applicants-outside-australia"
+    }
+  ],
+  "word_count": 0,
+  "source_title": "",
+  "source_description": "",
+  "category": "tax-file-number"
+}

@@ -1,0 +1,109 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/shares-funds-and-trusts/investing-in-shares/owning-shares",
+  "title": "Owning shares",
+  "description": "Find out about owning shares, including dividends and deductions you can claim.",
+  "nat_number": "9146",
+  "quick_code": "22812",
+  "date_updated": "2025-06-22T14:00:00Z",
+  "first_published": "",
+  "keywords": "shares, investing, tax on shares, tax deductions, deductions, dividends, reinvesting dividends, tax on dividends",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When you own shares"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you own shares, there are tax implications from:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "receiving dividends",
+        "participating in a dividend reinvestment plan",
+        "receiving franking credits",
+        "participating in or receiving a call payment on a bonus share scheme",
+        "receiving non-assessable payments",
+        "transactions the company you have invested in undertakes, such as mergers, takeovers and demergers",
+        "owning shares if you are under 18 years old",
+        "receiving a retail premium for rights or entitlements that you didn't take up."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dividends from shares"
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to declare all your dividend income in your tax return, even if you use your dividend to purchase more shares – for example, through a dividend reinvestment plan."
+    },
+    {
+      "type": "paragraph",
+      "text": "A dividend is assessable income in the year it was paid or credited to you. Your dividend statement shows the relevant date – often referred to as the payment date or date paid."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Reinvesting dividends"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most dividends you are paid or credited will be in the form of money, either by cheque or directly deposited into a bank account. However, the company may give you the option of reinvesting your dividends in the form of new shares in the company – this is called a dividend reinvestment scheme. If you take this option, you must pay tax on your reinvested dividends. The amount of the dividend received will form part of the cost base of the shares you receive."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep a record of your reinvested dividends to help you work out any capital gains or capital losses you make when you dispose of the shares."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Deductions when you own shares"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you own shares, you may be able to claim a deduction for expenses you incur, including:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "management fees",
+        "specialist journals",
+        "interest on money you borrowed to buy the shares."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Shares held in joint names or with another person"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can hold shares in joint names. If you hold shares with another person, such as your spouse, it's assumed that ownership of the shares is divided equally."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can own shares in unequal proportions but you must be able to demonstrate this. For example, you can keep a record of the amount each party contributes to the acquisition cost. Assess dividend income and franking credits in the same proportion as the shares are owned."
+    }
+  ],
+  "content_text": "## When you own shares\nWhen you own shares, there are tax implications from:\n- receiving dividends\n- participating in a dividend reinvestment plan\n- receiving franking credits\n- participating in or receiving a call payment on a bonus share scheme\n- receiving non-assessable payments\n- transactions the company you have invested in undertakes, such as mergers, takeovers and demergers\n- owning shares if you are under 18 years old\n- receiving a retail premium for rights or entitlements that you didn't take up.\n## Dividends from shares\nYou need to declare all your dividend income in your tax return, even if you use your dividend to purchase more shares – for example, through a dividend reinvestment plan.\nA dividend is assessable income in the year it was paid or credited to you. Your dividend statement shows the relevant date – often referred to as the payment date or date paid.\n### Reinvesting dividends\nMost dividends you are paid or credited will be in the form of money, either by cheque or directly deposited into a bank account. However, the company may give you the option of reinvesting your dividends in the form of new shares in the company – this is called a dividend reinvestment scheme. If you take this option, you must pay tax on your reinvested dividends. The amount of the dividend received will form part of the cost base of the shares you receive.\nKeep a record of your reinvested dividends to help you work out any capital gains or capital losses you make when you dispose of the shares.\n## Deductions when you own shares\nWhen you own shares, you may be able to claim a deduction for expenses you incur, including:\n- management fees\n- specialist journals\n- interest on money you borrowed to buy the shares.\n## Shares held in joint names or with another person\nYou can hold shares in joint names. If you hold shares with another person, such as your spouse, it's assumed that ownership of the shares is divided equally.\nYou can own shares in unequal proportions but you must be able to demonstrate this. For example, you can keep a record of the amount each party contributes to the acquisition cost. Assess dividend income and franking credits in the same proportion as the shares are owned.",
+  "child_links": [
+    {
+      "title": "Dividend income deductions",
+      "description": "Find out what deductions you can claim against your dividend income.",
+      "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/shares-funds-and-trusts/investing-in-shares/owning-shares/dividend-income-deductions"
+    },
+    {
+      "title": "Taxing retail premiums",
+      "description": "If you receive retail premiums as a shareholder, check how the retail premium is taxed.",
+      "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/shares-funds-and-trusts/investing-in-shares/owning-shares/taxing-retail-premiums"
+    }
+  ],
+  "word_count": 388,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

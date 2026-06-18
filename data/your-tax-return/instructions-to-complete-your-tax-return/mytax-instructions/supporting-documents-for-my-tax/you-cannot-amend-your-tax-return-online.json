@@ -1,0 +1,85 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/supporting-documents-for-my-tax/you-cannot-amend-your-tax-return-online",
+  "title": "Why you cannot amend your tax return online",
+  "description": "You cannot amend your tax return online because an existing amendment is currently being processed.",
+  "nat_number": "",
+  "quick_code": "47832",
+  "date_updated": "2026-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "amend your tax return online",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Your ATO online services income tax history page is displaying a 'How to amend' button because:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an amendment you have requested is currently being processed",
+        "the ATO has initiated an amendment."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previously requested amendment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Until the status of the amendment is 'Processed' or 'Issued', you will not be able to amend this tax return online."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ATO online services income tax history page should display an 'Amend' button when both:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the status changes to 'Processed' or 'Issued'",
+        "you are within the time limit on tax return amendments ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ATO-initiated amendments"
+    },
+    {
+      "type": "paragraph",
+      "text": "An ATO-initiated amendment most likely resulted from a data-matching review of your tax return. You (or your tax agent) may have been notified of this action."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amendment could also be the result of an objection or appeal lodged by you, a legislative change, or for other reasons."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once this amendment is processed it will be displayed on your ATO online services income tax history page. You will then be able to request a further amendment online if necessary."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you make excess super contributions"
+    },
+    {
+      "type": "paragraph",
+      "text": "This ATO-initiated amendment may be a result of excess super contributions you made."
+    },
+    {
+      "type": "paragraph",
+      "text": "If this is the case, you currently cannot amend your tax return online any further."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to amend your tax return now, you can request an amendment in writing by completing a Request for amendment of income tax return for individuals form."
+    }
+  ],
+  "content_text": "Your ATO online services income tax history page is displaying a 'How to amend' button because:\n- an amendment you have requested is currently being processed\n- the ATO has initiated an amendment.\n## Previously requested amendment\nUntil the status of the amendment is 'Processed' or 'Issued', you will not be able to amend this tax return online.\nThe ATO online services income tax history page should display an 'Amend' button when both:\n- the status changes to 'Processed' or 'Issued'\n- you are within the time limit on tax return amendments .\n## ATO-initiated amendments\nAn ATO-initiated amendment most likely resulted from a data-matching review of your tax return. You (or your tax agent) may have been notified of this action.\nThe amendment could also be the result of an objection or appeal lodged by you, a legislative change, or for other reasons.\nOnce this amendment is processed it will be displayed on your ATO online services income tax history page. You will then be able to request a further amendment online if necessary.\n### If you make excess super contributions\nThis ATO-initiated amendment may be a result of excess super contributions you made.\nIf this is the case, you currently cannot amend your tax return online any further.\nIf you want to amend your tax return now, you can request an amendment in writing by completing a Request for amendment of income tax return for individuals form.",
+  "child_links": [],
+  "word_count": 239,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

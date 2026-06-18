@@ -1,0 +1,194 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2020/tax-return/income-questions-1-12/3-employer-lump-sum-payments-2020",
+  "title": "3 Employer lump sum payments 2020",
+  "description": "Complete question 3 to declare lump sum payments received from an employer for unused annual or long service leave.",
+  "nat_number": "",
+  "quick_code": "61622",
+  "date_updated": "2020-05-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, tax return, 2020, lump sum, income, unused, annual leave, long service leave, payment, paper tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about lump sum payments you received from your employer for unused annual leave or unused long service leave."
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you receive any of these payments?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to question 4 Employment termination payments (ETP) 2020 , or return to main menu Individual tax return instructions 2020 ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include any employer lump sum payments in arrears or non-superannuation annuity payments in arrears shown at 'Lump sum E' on your income statements or payment summaries. These amounts are dealt with at question 24 Other income 2020 . Similarly, 'lump sum payments in arrears' shown on your PAYG payment summary – superannuation income stream are dealt with at question 7 Australian annuities and superannuation income streams 2020 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include payments for early retirement or genuine redundancy shown at 'Lump sum D' on your income statements or PAYG payment summary – individual non-business anywhere on your tax return, as they are not taxed."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your income statement or PAYG payment summary – individual non-business , PAYG payment summary – foreign employment or a comparable statement from your payer showing an amount at 'Lump sum A' or 'Lump sum B' where relevant."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not have all your payment summaries or comparable statements, or if any of your comparable statements do not show an amount you received during the year that is either a 'Lump sum A' or a 'Lump sum B', then contact your employer or payer for a copy, amended income statement or payment summary, or a comparable statement. If you are unsuccessful in obtaining any of these, see Missing payment summary or income statement not finalised . If you can't access your income statement through myGov, contact us on 13 28 61 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have received an income statement or PAYG payment summary – foreign employment showing an amount at 'Lump sum A' on which foreign tax has been paid you will also need to include the amount at U in item 20 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not have amounts shown at 'Lump sum A' on your income statements or payment summaries, go to step 4 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Amounts shown at 'Lump sum A' on your income statements and payment summaries"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the total tax withheld from lump sum A amounts shown on your income statements and payment summaries. Do not include any amounts of tax withheld you have included at any other item, such as item 1 or 2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the answer under Tax withheld at the left of R item 3 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all lump sum A amounts on your income statements and payment summaries."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the answer at R item 3 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print in the Type box at the right of R :"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "R",
+          "if the amount related to a genuine redundancy payment, an early retirement scheme payment, or the invalidity segment of an employment termination payment or superannuation benefit"
+        ],
+        [
+          "T",
+          "for all other situations"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Check with your payer if you are not sure."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not have amounts shown at 'Lump sum B' on your income statements or payment summaries, you have finished this question. Go to question 4 Employment termination payments (ETP) 2020 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Amounts shown at 'Lump sum B' on your income statements and payment summaries"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the total tax withheld from lump sum B amounts shown on your income statements and payment summaries. Do not include amounts of tax withheld you have included at step 1 above or at any other item, such as item 1 or 2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the answer under Tax withheld at the left of H item 3 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all lump sum B amounts on your income statements and payment summaries."
+    },
+    {
+      "type": "paragraph",
+      "text": "Divide the total by 20. This is because only 5% is taxable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the answer at H item 3 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Taxation of termination payments"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question 4 Employment termination payments (ETP) 2020 .",
+        "Return to main menu Individual tax return instructions 2020 .",
+        "Go back to question 2 Allowances, earnings, tips, directors fees etc 2020 ."
+      ]
+    }
+  ],
+  "content_text": "This question is about lump sum payments you received from your employer for unused annual leave or unused long service leave.\nDid you receive any of these payments?\nNo | Go to question 4 Employment termination payments (ETP) 2020 , or return to main menu Individual tax return instructions 2020 .\nYes | Read on.\nDo not include any employer lump sum payments in arrears or non-superannuation annuity payments in arrears shown at 'Lump sum E' on your income statements or payment summaries. These amounts are dealt with at question 24 Other income 2020 . Similarly, 'lump sum payments in arrears' shown on your PAYG payment summary – superannuation income stream are dealt with at question 7 Australian annuities and superannuation income streams 2020 .\nDo not include payments for early retirement or genuine redundancy shown at 'Lump sum D' on your income statements or PAYG payment summary – individual non-business anywhere on your tax return, as they are not taxed.\n## Answering this question\nYou will need your income statement or PAYG payment summary – individual non-business , PAYG payment summary – foreign employment or a comparable statement from your payer showing an amount at 'Lump sum A' or 'Lump sum B' where relevant.\nIf you do not have all your payment summaries or comparable statements, or if any of your comparable statements do not show an amount you received during the year that is either a 'Lump sum A' or a 'Lump sum B', then contact your employer or payer for a copy, amended income statement or payment summary, or a comparable statement. If you are unsuccessful in obtaining any of these, see Missing payment summary or income statement not finalised . If you can't access your income statement through myGov, contact us on 13 28 61 .\nIf you have received an income statement or PAYG payment summary – foreign employment showing an amount at 'Lump sum A' on which foreign tax has been paid you will also need to include the amount at U in item 20 .\n## Completing your tax return\nIf you do not have amounts shown at 'Lump sum A' on your income statements or payment summaries, go to step 4 .\n### Amounts shown at 'Lump sum A' on your income statements and payment summaries\n#### Step 1\nAdd up the total tax withheld from lump sum A amounts shown on your income statements and payment summaries. Do not include any amounts of tax withheld you have included at any other item, such as item 1 or 2 .\nWrite the answer under Tax withheld at the left of R item 3 .\n#### Step 2\nAdd up all lump sum A amounts on your income statements and payment summaries.\nWrite the answer at R item 3 .\n#### Step 3\nPrint in the Type box at the right of R :\nR | if the amount related to a genuine redundancy payment, an early retirement scheme payment, or the invalidity segment of an employment termination payment or superannuation benefit\nT | for all other situations\nCheck with your payer if you are not sure.\nIf you do not have amounts shown at 'Lump sum B' on your income statements or payment summaries, you have finished this question. Go to question 4 Employment termination payments (ETP) 2020 .\n### Amounts shown at 'Lump sum B' on your income statements and payment summaries\n#### Step 4\nAdd up the total tax withheld from lump sum B amounts shown on your income statements and payment summaries. Do not include amounts of tax withheld you have included at step 1 above or at any other item, such as item 1 or 2 .\nWrite the answer under Tax withheld at the left of H item 3 .\n#### Step 5\nAdd up all lump sum B amounts on your income statements and payment summaries.\nDivide the total by 20. This is because only 5% is taxable.\nWrite the answer at H item 3 .\nSee also:\n- Taxation of termination payments\n## Where to go next\n- Go to question 4 Employment termination payments (ETP) 2020 .\n- Return to main menu Individual tax return instructions 2020 .\n- Go back to question 2 Allowances, earnings, tips, directors fees etc 2020 .",
+  "child_links": [],
+  "word_count": 718,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

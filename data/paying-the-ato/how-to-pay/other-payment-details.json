@@ -1,0 +1,313 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/paying-the-ato/how-to-pay/other-payment-details",
+  "title": "Other payment details",
+  "description": "Find out more about payment reference numbers (PRNs), payment slips and card payments.",
+  "nat_number": "",
+  "quick_code": "50297",
+  "date_updated": "2026-03-03T13:00:00Z",
+  "first_published": "",
+  "keywords": "PRN, payment reference number, BPAY, credit card, debt, direct credit, direct debit, paying from overseas, Australia Post, EFT, how to pay, paying tax bill, how to pay tax bill, payment options, Mastercard, visa, Amex, American Express, overseas payments, tax bill, pay BAS, paying activity statement payments, swift, download payment slip, Payment slips, credit card fee, debit card, card payment fee, MSF, merchant service fee, card payment",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Payment reference number"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your unique payment reference number (PRN) ensures your payment is credited to the correct account. A PRN may also be called an EFT code (electronic funds transfer code)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll have different PRNs for different types of tax, for example, one PRN for income tax and one PRN for activity statements. Make sure you use the correct PRN for the type of tax you're paying."
+    },
+    {
+      "type": "paragraph",
+      "text": "Using an incorrect PRN could result in delays to payments being credited to your account and unnecessary debt collection activity."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you have the correct PRN, you'll be able to make your payment ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "How to find your PRN"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use our online services to find your PRN."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Individuals and sole traders"
+    },
+    {
+      "type": "paragraph",
+      "text": "Log in to your myGov account linked to the ATO External Link and select Tax > Accounts > Summary ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Businesses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Log in to Online services for business External Link and select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Accounts and payments from the menu",
+        "Payments",
+        "BPAY or Other payment methods ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Registered agents"
+    },
+    {
+      "type": "paragraph",
+      "text": "Log in to Online services for agents External Link and select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Client summary page",
+        "Accounts summary",
+        "Payment options ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Alternatively, you can:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "obtain your PRN from ATO notices or payment slips",
+        "ask your tax agent",
+        "phone 1800 815 886 between 8:00 am to 6:00 pm, Monday to Friday."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Payment slips"
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll need a payment slip to pay in person at an Australia Post External Link office or by mail."
+    },
+    {
+      "type": "paragraph",
+      "text": "Make sure you have the correct payment slip for the account you want to pay."
+    },
+    {
+      "type": "paragraph",
+      "text": "Find out about:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Printing a payment slip using online services",
+        "Ordering a payment slip to be posted",
+        "If you don't have a payment slip ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Printing a payment slip using online services"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an individual taxpayer, payment slips are generally available on your notice of assessment or statement of account",
+        "a business taxpayer, you can print a payment slip using Online services for business External Link select Accounts and payments from the menu, then Accounts summary choose the account required, then click Payment options select BPAY or Other payment methods select Print-friendly version to print the payment slip",
+        "a registered agent , you can use Online services for agents External Link to print a payment slip for your client go to the Client summary page select Accounts summary select Payment options ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ordering a payment slip to be posted"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can order a payment slip to be posted out to you. If you are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an individual taxpayer, phone 13 28 61 to order an ATO notice with an income tax payment slip. You'll need your tax file number (TFN) to use this service.",
+        "a business taxpayer, phone 13 28 66 to order an activity statement with payment slip. You'll need to have your Australian business number (ABN) and be an authorised representative of the business to use this service."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Before we can access your account, we must establish your identity ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you don't have a payment slip"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are paying by mail and don’t have a payment slip, you must include the following details with your payment to avoid unnecessary delays to payments being credited to your account:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "full name",
+        "address and phone number",
+        "account identifier, for example tax file number (TFN) Australian business number (ABN)",
+        "payment type, for example activity statement payment income tax payment."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Card terms and conditions"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Card payment fee"
+    },
+    {
+      "type": "paragraph",
+      "text": "Card payment fees do not apply when you use your debit card for payments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fees apply to payments made with other cards. The fee:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "is a percentage of the amount being paid, based on the type of card",
+        "is equal to the fee we incur from our bank",
+        "will be reviewed from time to time and may change",
+        "is not part of your ATO debt",
+        "is not subject to goods and services tax (GST)",
+        "may be a deductible expense based on your circumstances."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "On your bank statement, your payment and card fee will appear as a single transaction."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Card type",
+          "Fee"
+        ],
+        [
+          "American Express",
+          "1.45%"
+        ],
+        [
+          "MasterCard – international",
+          "2.01%"
+        ],
+        [
+          "MasterCard – domestic credit",
+          "0.92%"
+        ],
+        [
+          "Visa – international",
+          "2.01%"
+        ],
+        [
+          "Visa – domestic credit",
+          "0.96%"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Before you finalise your payment, you'll be advised of the total amount including the fee."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Card payment receipts"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you pay using any of our card payment services, we'll give you a receipt number."
+    },
+    {
+      "type": "paragraph",
+      "text": "The payment details will be displayed on your card statement as 'ATO payment'."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Card payment refunds and reversals"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need a refund of an incorrect payment or overpayment made from a debit or credit card, it can only be returned to the same card it was made from."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Card payment details"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you pay by card using ATO online services or Government EasyPay, you need to provide details, such as your:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "card verification code (CVC or CVV)",
+        "billing address, and phone number or email that is registered with your financial institution."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The financial institution that issued your card may also request additional information. This could include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "answering security questions",
+        "entering a one-time pin",
+        "using fingerprint or facial recognition verification."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This information will be matched with details your card issuer holds but it will not be stored by us."
+    }
+  ],
+  "content_text": "## Payment reference number\nYour unique payment reference number (PRN) ensures your payment is credited to the correct account. A PRN may also be called an EFT code (electronic funds transfer code).\nYou'll have different PRNs for different types of tax, for example, one PRN for income tax and one PRN for activity statements. Make sure you use the correct PRN for the type of tax you're paying.\nUsing an incorrect PRN could result in delays to payments being credited to your account and unnecessary debt collection activity.\nOnce you have the correct PRN, you'll be able to make your payment .\n### How to find your PRN\nYou can use our online services to find your PRN.\n#### Individuals and sole traders\nLog in to your myGov account linked to the ATO External Link and select Tax > Accounts > Summary .\n#### Businesses\nLog in to Online services for business External Link and select:\n- Accounts and payments from the menu\n- Payments\n- BPAY or Other payment methods .\n#### Registered agents\nLog in to Online services for agents External Link and select:\n- Client summary page\n- Accounts summary\n- Payment options .\nAlternatively, you can:\n- obtain your PRN from ATO notices or payment slips\n- ask your tax agent\n- phone 1800 815 886 between 8:00 am to 6:00 pm, Monday to Friday.\n## Payment slips\nYou'll need a payment slip to pay in person at an Australia Post External Link office or by mail.\nMake sure you have the correct payment slip for the account you want to pay.\nFind out about:\n- Printing a payment slip using online services\n- Ordering a payment slip to be posted\n- If you don't have a payment slip .\n### Printing a payment slip using online services\nIf you are:\n- an individual taxpayer, payment slips are generally available on your notice of assessment or statement of account\n- a business taxpayer, you can print a payment slip using Online services for business External Link select Accounts and payments from the menu, then Accounts summary choose the account required, then click Payment options select BPAY or Other payment methods select Print-friendly version to print the payment slip\n- a registered agent , you can use Online services for agents External Link to print a payment slip for your client go to the Client summary page select Accounts summary select Payment options .\n### Ordering a payment slip to be posted\nYou can order a payment slip to be posted out to you. If you are:\n- an individual taxpayer, phone 13 28 61 to order an ATO notice with an income tax payment slip. You'll need your tax file number (TFN) to use this service.\n- a business taxpayer, phone 13 28 66 to order an activity statement with payment slip. You'll need to have your Australian business number (ABN) and be an authorised representative of the business to use this service.\nBefore we can access your account, we must establish your identity .\n### If you don't have a payment slip\nIf you are paying by mail and don’t have a payment slip, you must include the following details with your payment to avoid unnecessary delays to payments being credited to your account:\n- full name\n- address and phone number\n- account identifier, for example tax file number (TFN) Australian business number (ABN)\n- payment type, for example activity statement payment income tax payment.\n## Card terms and conditions\n### Card payment fee\nCard payment fees do not apply when you use your debit card for payments.\nFees apply to payments made with other cards. The fee:\n- is a percentage of the amount being paid, based on the type of card\n- is equal to the fee we incur from our bank\n- will be reviewed from time to time and may change\n- is not part of your ATO debt\n- is not subject to goods and services tax (GST)\n- may be a deductible expense based on your circumstances.\nOn your bank statement, your payment and card fee will appear as a single transaction.\nCard type | Fee\nAmerican Express | 1.45%\nMasterCard – international | 2.01%\nMasterCard – domestic credit | 0.92%\nVisa – international | 2.01%\nVisa – domestic credit | 0.96%\nBefore you finalise your payment, you'll be advised of the total amount including the fee.\n### Card payment receipts\nWhen you pay using any of our card payment services, we'll give you a receipt number.\nThe payment details will be displayed on your card statement as 'ATO payment'.\n### Card payment refunds and reversals\nIf you need a refund of an incorrect payment or overpayment made from a debit or credit card, it can only be returned to the same card it was made from.\n### Card payment details\nWhen you pay by card using ATO online services or Government EasyPay, you need to provide details, such as your:\n- card verification code (CVC or CVV)\n- billing address, and phone number or email that is registered with your financial institution.\nThe financial institution that issued your card may also request additional information. This could include:\n- answering security questions\n- entering a one-time pin\n- using fingerprint or facial recognition verification.\nThis information will be matched with details your card issuer holds but it will not be stored by us.",
+  "child_links": [],
+  "word_count": 905,
+  "source_title": "",
+  "source_description": "",
+  "category": "paying-the-ato"
+}

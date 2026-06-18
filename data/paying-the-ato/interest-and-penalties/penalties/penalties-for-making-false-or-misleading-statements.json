@@ -1,0 +1,346 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/paying-the-ato/interest-and-penalties/penalties/penalties-for-making-false-or-misleading-statements",
+  "title": "Penalties for making false or misleading statements",
+  "description": "Penalties may apply for making false or misleading statements or taking a position that is not reasonably arguable.",
+  "nat_number": "",
+  "quick_code": "47927",
+  "date_updated": "2026-03-19T13:00:00Z",
+  "first_published": "",
+  "keywords": "false or misleading statement, penalty, penalties, audit, not declaring",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "False or misleading statement penalty – shortfall amount"
+    },
+    {
+      "type": "paragraph",
+      "text": "You’ll be liable for this penalty if you, or your agent, make a false or misleading statement (for example, in a tax return, activity statement, or amendment request) that results in a shortfall amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "A statement is false if it's wrong, incorrect or contrary to fact because of something included or missing from the statement. A statement is misleading if it's uninformative, unclear or deceptive."
+    },
+    {
+      "type": "paragraph",
+      "text": "A shortfall amount is the difference between your correct tax liability or credit entitlement and the amount calculated based on the false or misleading information you or your agent provided."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, you will not be penalised where either of the following apply:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you or your agent (if relevant) took reasonable care in making the statement (but you may still be subject to another penalty provision, such as taking a position that is not reasonably arguable)",
+        "you applied tax law in a particular way, and that way agrees with our advice, published statements or general administrative practices in relation to a tax law."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the safe harbour provisions, you may not be penalised if the statement was made by your registered tax agent or BAS agent when you provided them with the relevant, correct information."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may receive penalty relief where a penalty would otherwise be imposed if you have made an error in your tax return or activity statement."
+    },
+    {
+      "type": "paragraph",
+      "text": "The base penalty amount (BPA) is a percentage of the shortfall amount. The percentage used is determined by the behaviour that led to the shortfall amount. If you have an agent, it will be determined by their behaviour as well."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Behaviour",
+          "Base penalty amount"
+        ],
+        [
+          "Failure to take reasonable care Generally, you fail to take reasonable care if you haven't done what a reasonable person in the same circumstances would have done. Using an agent doesn't by itself mean you have taken reasonable care.",
+          "25% of the shortfall amount."
+        ],
+        [
+          "Recklessness You are reckless if a reasonable person in your circumstances would have been aware that there was a real risk of a shortfall amount arising and you disregarded, or showed indifference to, that risk.",
+          "50% of the shortfall amount."
+        ],
+        [
+          "Intentional disregard You intentionally disregard the law if you're fully aware of a clear tax obligation and you disregard the obligation with the intention of bringing about certain results (underpaying tax or over-claiming an entitlement).",
+          "75% of the shortfall amount."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The penalty percentages are doubled if you are a Significant Global Entity (SGE)."
+    },
+    {
+      "type": "paragraph",
+      "text": "On or after 1 January 2024, the BPA in an item of this table is taken to be doubled if all of the following apply:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you're a Group Entity of an Applicable multinational enterprise group (MNE Group)",
+        "your, or your agent’s, false or misleading statement was in respect of the global and domestic minimum tax (Minimum Tax)",
+        "the BPA arises in relation to Income Inclusion Rule (IIR)/Undertaxed Profit Rule (UTPR) tax or domestic minimum tax (DMT) tax in relation to the Applicable MNE Group."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on our practical administrative approach to the enforcement of penalties in respect of the Minimum Tax during a transition period, see PCG 2025/4 Global and domestic minimum tax lodgment obligations - transitional approach."
+    },
+    {
+      "type": "paragraph",
+      "text": "The BPA can be increased or reduced if there are aggravating or mitigating circumstances or remitted where it's fair and reasonable to do so."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see PS LA 2012/5 Administration of the false or misleading statement penalty – where there is a shortfall amount ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Safe harbour"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may not be liable to an administrative penalty for making a false or misleading statement if all the following apply:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the statement was made by your registered tax agent or BAS agent",
+        "you gave your registered tax agent or BAS agent all the relevant tax information to enable the statement to be made correctly (you or your agent will need to prove that this information was provided)",
+        "the false or misleading statement was the result of your registered tax agent or BAS agent failing to take reasonable care",
+        "the statement was made on or after 1 March 2010."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll consider the available information during an audit and decide if safe harbour applies. Safe harbour does not affect any remission of a penalty."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "False or misleading statement penalty – no shortfall amount"
+    },
+    {
+      "type": "paragraph",
+      "text": "You're liable for this penalty if you, or your agent, make a false or misleading statement (for example, in an objection, private ruling request or during an audit) that does not result in you having a shortfall amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, you will not be penalised where either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you or your agent (if relevant) took reasonable care in making the statement",
+        "you applied a tax law in a particular way, and that way agrees with our advice, published statements or general administrative practices in relation to that tax law."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The BPA is calculated as a multiple of a penalty unit . The multiple used is determined by the behaviour that led to the false or misleading statement. If you have an agent, it will be determined by their behaviour as well."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Behaviour",
+          "Base penalty amount"
+        ],
+        [
+          "Failure to take reasonable care",
+          "20 penalty units"
+        ],
+        [
+          "Recklessness",
+          "40 penalty units"
+        ],
+        [
+          "Intentional disregard",
+          "60 penalty units"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A penalty multiplier will apply to double this penalty if you're a SGE."
+    },
+    {
+      "type": "paragraph",
+      "text": "On or after 1 January 2024, the BPA in an item of this table is taken to be doubled if all of the following apply:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you're a Group Entity of an Applicable MNE Group",
+        "your, or your agent’s, false or misleading statement was in respect of the global and Minimum Tax",
+        "the BPA arises in relation to IIR/UTPR tax or DMT tax in relation to the Applicable MNE Group."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The BPA can be increased or reduced if there are aggravating or mitigating circumstances or remitted where it's fair and reasonable to do so."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the safe harbour provisions, you may not be penalised if the false or misleading statement was made by your registered tax agent or BAS agent when you provided them with the relevant, correct information."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see PS LA 2012/4 Administration of the false or misleading statements penalty – where there is no shortfall amount ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Penalty for taking a position that is not reasonably arguable"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you or your agent treats an income tax, Minimum Tax or petroleum resource rent tax (PRRT) law as applying in a manner that is not reasonably arguable, and the resulting shortfall amount exceeds a certain threshold, you will be liable for a BPA of 25% of the shortfall amount."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "For partnerships and trusts – the threshold is the greater of $20,000 or 2% of the entity's net income (if any) worked out based on its return.",
+        "For other taxpayers – the threshold is the greater of $10,000 or 1% of whichever of the following applies the taxpayer's income tax payable worked out based on their tax return PRRT payable worked out based on their PRRT return the amount of Australian IIR/UTPR tax payable by the entity for the fiscal year, worked out on the basis of the entity’s Australian IIR/UTPR tax return for the fiscal year, or the amount of Australian DMT tax payable by the entity for the fiscal year, worked out on the basis of the entity’s Australian DMT tax return for the fiscal year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "From on or after 1 January 2024, a penalty multiplier will apply to double this penalty if you're a SGE or a Group Entity of an Applicable MNE Group if your statement was made in relation to IIR/UTPR or DMT tax in relation to the Applicable MNE Group."
+    },
+    {
+      "type": "paragraph",
+      "text": "The BPA can be increased or reduced if there are aggravating or mitigating circumstances, or remitted where it's fair and reasonable to do so."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, including an explanation of 'reasonably arguable', see MT 2008/2 Shortfall penalties: administrative penalty for taking a position that is not reasonably arguable ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Penalty for failing to provide a document"
+    },
+    {
+      "type": "paragraph",
+      "text": "You're liable for a BPA of 75% of the tax-related liability if both of the following apply:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you fail to lodge a return, notice or other document (required document) necessary to establish your tax-related liability by the day it's required to be given",
+        "in the absence of that required document, we determine your tax-related liability."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This penalty will apply if, for example, you fail to lodge your tax return and we determine your income tax liability by other methods."
+    },
+    {
+      "type": "paragraph",
+      "text": "From on or after 1 January 2024, if you're a SGE or a Group Entity of an Applicable MNE Group, the BPA of 75% of the tax-related liability is doubled if the statement is in relation to IIR/UTPR or DMT tax in relation to the Applicable MNE Group."
+    },
+    {
+      "type": "paragraph",
+      "text": "The BPA can be increased in some instances or remitted where it's fair and reasonable to do so."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Increases and reductions in the base penalty amount"
+    },
+    {
+      "type": "paragraph",
+      "text": "The BPA for false or misleading statement penalties, and for taking a position on income tax, Minimum Tax or PRRT that is not reasonably arguable, can be increased or reduced if there are aggravating or mitigating circumstances."
+    },
+    {
+      "type": "paragraph",
+      "text": "The BPA will generally be reduced if you voluntarily tell us about the error. The amount of the reduction depends on when you tell us and the shortfall amount. The BPA may be reduced by 20%, 80% or, in some cases, to nil."
+    },
+    {
+      "type": "paragraph",
+      "text": "The BPA is increased by 20% if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "attempted to prevent or obstruct us from finding out about the shortfall amount, or the false or misleading nature of the statement",
+        "became aware of the shortfall amount, or the false or misleading nature of the statement, but did not inform us within a reasonable time",
+        "have previously had the same type of penalty calculated for you."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on when a penalty is increased or reduced, see:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "PS LA 2012/4 Administration of the false or misleading statement penalty - where there is no shortfall amount",
+        "PS LA 2012/5 Administration of the false or misleading statement penalty - where there is a shortfall amount",
+        "MT 2012/3 Administrative penalties: voluntary disclosures ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Remission of penalties"
+    },
+    {
+      "type": "paragraph",
+      "text": "We have discretion to remit (decrease or remove) the penalty imposed according to your individual circumstances. We frequently make decisions about whether to remit a penalty before advising you of your penalty."
+    },
+    {
+      "type": "paragraph",
+      "text": "We consider the following when deciding to remit a penalty:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "there were circumstances beyond your control which prevented you from meeting your obligations",
+        "the imposition of the penalty produces an unjust result",
+        "it would be fair and reasonable to remit the penalty, considering a range of factors, depending on the type of penalty."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If we have already decided not to remit your penalty, or to only remit part of your penalty, you can generally object to this decision through the objection process."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're dissatisfied with a penalty imposed on you, and we have not already made a remission decision, in most cases you may ask us to remit it."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on factors we consider in making a remission decision, see:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "PS LA 2012/4 Administration of the false or misleading statement penalty - where there is no shortfall amount",
+        "PS LA 2012/5 Administration of the false or misleading statement penalty - where there is a shortfall amount."
+      ]
+    }
+  ],
+  "content_text": "## False or misleading statement penalty – shortfall amount\nYou’ll be liable for this penalty if you, or your agent, make a false or misleading statement (for example, in a tax return, activity statement, or amendment request) that results in a shortfall amount.\nA statement is false if it's wrong, incorrect or contrary to fact because of something included or missing from the statement. A statement is misleading if it's uninformative, unclear or deceptive.\nA shortfall amount is the difference between your correct tax liability or credit entitlement and the amount calculated based on the false or misleading information you or your agent provided.\nGenerally, you will not be penalised where either of the following apply:\n- you or your agent (if relevant) took reasonable care in making the statement (but you may still be subject to another penalty provision, such as taking a position that is not reasonably arguable)\n- you applied tax law in a particular way, and that way agrees with our advice, published statements or general administrative practices in relation to a tax law.\nUnder the safe harbour provisions, you may not be penalised if the statement was made by your registered tax agent or BAS agent when you provided them with the relevant, correct information.\nYou may receive penalty relief where a penalty would otherwise be imposed if you have made an error in your tax return or activity statement.\nThe base penalty amount (BPA) is a percentage of the shortfall amount. The percentage used is determined by the behaviour that led to the shortfall amount. If you have an agent, it will be determined by their behaviour as well.\nBehaviour | Base penalty amount\nFailure to take reasonable care Generally, you fail to take reasonable care if you haven't done what a reasonable person in the same circumstances would have done. Using an agent doesn't by itself mean you have taken reasonable care. | 25% of the shortfall amount.\nRecklessness You are reckless if a reasonable person in your circumstances would have been aware that there was a real risk of a shortfall amount arising and you disregarded, or showed indifference to, that risk. | 50% of the shortfall amount.\nIntentional disregard You intentionally disregard the law if you're fully aware of a clear tax obligation and you disregard the obligation with the intention of bringing about certain results (underpaying tax or over-claiming an entitlement). | 75% of the shortfall amount.\nThe penalty percentages are doubled if you are a Significant Global Entity (SGE).\nOn or after 1 January 2024, the BPA in an item of this table is taken to be doubled if all of the following apply:\n- you're a Group Entity of an Applicable multinational enterprise group (MNE Group)\n- your, or your agent’s, false or misleading statement was in respect of the global and domestic minimum tax (Minimum Tax)\n- the BPA arises in relation to Income Inclusion Rule (IIR)/Undertaxed Profit Rule (UTPR) tax or domestic minimum tax (DMT) tax in relation to the Applicable MNE Group.\nFor more information on our practical administrative approach to the enforcement of penalties in respect of the Minimum Tax during a transition period, see PCG 2025/4 Global and domestic minimum tax lodgment obligations - transitional approach.\nThe BPA can be increased or reduced if there are aggravating or mitigating circumstances or remitted where it's fair and reasonable to do so.\nFor more information, see PS LA 2012/5 Administration of the false or misleading statement penalty – where there is a shortfall amount .\n### Safe harbour\nYou may not be liable to an administrative penalty for making a false or misleading statement if all the following apply:\n- the statement was made by your registered tax agent or BAS agent\n- you gave your registered tax agent or BAS agent all the relevant tax information to enable the statement to be made correctly (you or your agent will need to prove that this information was provided)\n- the false or misleading statement was the result of your registered tax agent or BAS agent failing to take reasonable care\n- the statement was made on or after 1 March 2010.\nWe'll consider the available information during an audit and decide if safe harbour applies. Safe harbour does not affect any remission of a penalty.\n## False or misleading statement penalty – no shortfall amount\nYou're liable for this penalty if you, or your agent, make a false or misleading statement (for example, in an objection, private ruling request or during an audit) that does not result in you having a shortfall amount.\nGenerally, you will not be penalised where either:\n- you or your agent (if relevant) took reasonable care in making the statement\n- you applied a tax law in a particular way, and that way agrees with our advice, published statements or general administrative practices in relation to that tax law.\nThe BPA is calculated as a multiple of a penalty unit . The multiple used is determined by the behaviour that led to the false or misleading statement. If you have an agent, it will be determined by their behaviour as well.\nBehaviour | Base penalty amount\nFailure to take reasonable care | 20 penalty units\nRecklessness | 40 penalty units\nIntentional disregard | 60 penalty units\nA penalty multiplier will apply to double this penalty if you're a SGE.\nOn or after 1 January 2024, the BPA in an item of this table is taken to be doubled if all of the following apply:\n- you're a Group Entity of an Applicable MNE Group\n- your, or your agent’s, false or misleading statement was in respect of the global and Minimum Tax\n- the BPA arises in relation to IIR/UTPR tax or DMT tax in relation to the Applicable MNE Group.\nThe BPA can be increased or reduced if there are aggravating or mitigating circumstances or remitted where it's fair and reasonable to do so.\nUnder the safe harbour provisions, you may not be penalised if the false or misleading statement was made by your registered tax agent or BAS agent when you provided them with the relevant, correct information.\nFor more information, see PS LA 2012/4 Administration of the false or misleading statements penalty – where there is no shortfall amount .\n## Penalty for taking a position that is not reasonably arguable\nIf you or your agent treats an income tax, Minimum Tax or petroleum resource rent tax (PRRT) law as applying in a manner that is not reasonably arguable, and the resulting shortfall amount exceeds a certain threshold, you will be liable for a BPA of 25% of the shortfall amount.\n- For partnerships and trusts – the threshold is the greater of $20,000 or 2% of the entity's net income (if any) worked out based on its return.\n- For other taxpayers – the threshold is the greater of $10,000 or 1% of whichever of the following applies the taxpayer's income tax payable worked out based on their tax return PRRT payable worked out based on their PRRT return the amount of Australian IIR/UTPR tax payable by the entity for the fiscal year, worked out on the basis of the entity’s Australian IIR/UTPR tax return for the fiscal year, or the amount of Australian DMT tax payable by the entity for the fiscal year, worked out on the basis of the entity’s Australian DMT tax return for the fiscal year.\nFrom on or after 1 January 2024, a penalty multiplier will apply to double this penalty if you're a SGE or a Group Entity of an Applicable MNE Group if your statement was made in relation to IIR/UTPR or DMT tax in relation to the Applicable MNE Group.\nThe BPA can be increased or reduced if there are aggravating or mitigating circumstances, or remitted where it's fair and reasonable to do so.\nFor more information, including an explanation of 'reasonably arguable', see MT 2008/2 Shortfall penalties: administrative penalty for taking a position that is not reasonably arguable .\n## Penalty for failing to provide a document\nYou're liable for a BPA of 75% of the tax-related liability if both of the following apply:\n- you fail to lodge a return, notice or other document (required document) necessary to establish your tax-related liability by the day it's required to be given\n- in the absence of that required document, we determine your tax-related liability.\nThis penalty will apply if, for example, you fail to lodge your tax return and we determine your income tax liability by other methods.\nFrom on or after 1 January 2024, if you're a SGE or a Group Entity of an Applicable MNE Group, the BPA of 75% of the tax-related liability is doubled if the statement is in relation to IIR/UTPR or DMT tax in relation to the Applicable MNE Group.\nThe BPA can be increased in some instances or remitted where it's fair and reasonable to do so.\n## Increases and reductions in the base penalty amount\nThe BPA for false or misleading statement penalties, and for taking a position on income tax, Minimum Tax or PRRT that is not reasonably arguable, can be increased or reduced if there are aggravating or mitigating circumstances.\nThe BPA will generally be reduced if you voluntarily tell us about the error. The amount of the reduction depends on when you tell us and the shortfall amount. The BPA may be reduced by 20%, 80% or, in some cases, to nil.\nThe BPA is increased by 20% if you:\n- attempted to prevent or obstruct us from finding out about the shortfall amount, or the false or misleading nature of the statement\n- became aware of the shortfall amount, or the false or misleading nature of the statement, but did not inform us within a reasonable time\n- have previously had the same type of penalty calculated for you.\nFor more information on when a penalty is increased or reduced, see:\n- PS LA 2012/4 Administration of the false or misleading statement penalty - where there is no shortfall amount\n- PS LA 2012/5 Administration of the false or misleading statement penalty - where there is a shortfall amount\n- MT 2012/3 Administrative penalties: voluntary disclosures .\n## Remission of penalties\nWe have discretion to remit (decrease or remove) the penalty imposed according to your individual circumstances. We frequently make decisions about whether to remit a penalty before advising you of your penalty.\nWe consider the following when deciding to remit a penalty:\n- there were circumstances beyond your control which prevented you from meeting your obligations\n- the imposition of the penalty produces an unjust result\n- it would be fair and reasonable to remit the penalty, considering a range of factors, depending on the type of penalty.\nIf we have already decided not to remit your penalty, or to only remit part of your penalty, you can generally object to this decision through the objection process.\nIf you're dissatisfied with a penalty imposed on you, and we have not already made a remission decision, in most cases you may ask us to remit it.\nFor more information on factors we consider in making a remission decision, see:\n- PS LA 2012/4 Administration of the false or misleading statement penalty - where there is no shortfall amount\n- PS LA 2012/5 Administration of the false or misleading statement penalty - where there is a shortfall amount.",
+  "child_links": [],
+  "word_count": 1912,
+  "source_title": "Penalties for making false or misleading statements | Aus...",
+  "source_description": "Penalties may apply for making false or misleading statements or taking a position that is not reasonably arguable.",
+  "category": "paying-the-ato"
+}

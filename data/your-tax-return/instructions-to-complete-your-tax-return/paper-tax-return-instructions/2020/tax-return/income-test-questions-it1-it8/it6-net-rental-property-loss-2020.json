@@ -1,0 +1,160 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2020/tax-return/income-test-questions-it1-it8/it6-net-rental-property-loss-2020",
+  "title": "IT6 Net rental property loss 2020",
+  "description": "Complete question IT6 to include the net loss from any rental property you owned.",
+  "nat_number": "",
+  "quick_code": "61677",
+  "date_updated": "2020-05-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, income test, net rental loss, rental property, loss, IT6, TaxPack, income test, net rental loss, rental property, loss, paper tax return, paper form, paper return, paper lodgement, 2020",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about the net loss from any rental property you owned."
+    },
+    {
+      "type": "paragraph",
+      "text": "This question is not about capital gains or capital losses from your rental properties."
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you earn rental income, claim rental deductions, or receive a partnership distribution that included rental income or losses?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Write 0 at Y item IT6 , then go to question IT7 Child support you paid 2020 , or return to main menu Individual tax return instructions 2020 ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "We will calculate the amount of your net rental property loss for you using the information you provide in your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete worksheet 1 to work out your net rental property loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any loss amounts in worksheet 1 must be shown as negative amounts (including any totals)."
+    },
+    {
+      "type": "paragraph",
+      "text": "At row c write your share of net rental property income or loss from the partnership tax return statement of distribution."
+    },
+    {
+      "type": "paragraph",
+      "text": "At row d write the net income or loss from carrying on a rental property business which you take into account in working out the amount at Z item P8 of the Business and professional items schedule for individuals 2020 . If this applies to you, then you should lodge your tax return using myTax or a registered tax agent."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are unable to use myTax or a registered tax agent, contact us on 13 28 66 and we will mail you a paper tax return and Business and Professional items schedule. At row f write the total of the low-value pool deductions relating to your rental properties that you included at item D6 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "Net foreign rent (from R item 20 )",
+          "$"
+        ],
+        [
+          "b",
+          "Net rent (from item 21 )",
+          "$"
+        ],
+        [
+          "c",
+          "Share of net rental property income or loss",
+          "$"
+        ],
+        [
+          "d",
+          "Net income or loss from rental property business",
+          "$"
+        ],
+        [
+          "e",
+          "Add rows a , b , c and d .",
+          "$"
+        ],
+        [
+          "f",
+          "Total of the low-value pool deductions",
+          "$"
+        ],
+        [
+          "g",
+          "Any other deductions attributable to a rental property, including debt deductions at J item D15",
+          "$"
+        ],
+        [
+          "h",
+          "Add f and g .",
+          "$"
+        ],
+        [
+          "i",
+          "Take away row h from row e .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at row i in worksheet 1 is negative (that is, a loss), write that amount at Y item IT6 . Otherwise write 0 at Y ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question IT7 Child support you paid 2020 .",
+        "Return to main menu Individual tax return instructions 2020 .",
+        "Go back to question IT5 Net financial investment loss 2020 ."
+      ]
+    }
+  ],
+  "content_text": "This question is about the net loss from any rental property you owned.\nThis question is not about capital gains or capital losses from your rental properties.\nDid you earn rental income, claim rental deductions, or receive a partnership distribution that included rental income or losses?\nNo | Write 0 at Y item IT6 , then go to question IT7 Child support you paid 2020 , or return to main menu Individual tax return instructions 2020 .\nYes | Read on.\n## Answering this question\nWe will calculate the amount of your net rental property loss for you using the information you provide in your tax return.\n## Completing your tax return\n### Step 1\nComplete worksheet 1 to work out your net rental property loss.\nAny loss amounts in worksheet 1 must be shown as negative amounts (including any totals).\nAt row c write your share of net rental property income or loss from the partnership tax return statement of distribution.\nAt row d write the net income or loss from carrying on a rental property business which you take into account in working out the amount at Z item P8 of the Business and professional items schedule for individuals 2020 . If this applies to you, then you should lodge your tax return using myTax or a registered tax agent.\nIf you are unable to use myTax or a registered tax agent, contact us on 13 28 66 and we will mail you a paper tax return and Business and Professional items schedule. At row f write the total of the low-value pool deductions relating to your rental properties that you included at item D6 .\nRow | Calculation | Amount\na | Net foreign rent (from R item 20 ) | $\nb | Net rent (from item 21 ) | $\nc | Share of net rental property income or loss | $\nd | Net income or loss from rental property business | $\ne | Add rows a , b , c and d . | $\nf | Total of the low-value pool deductions | $\ng | Any other deductions attributable to a rental property, including debt deductions at J item D15 | $\nh | Add f and g . | $\ni | Take away row h from row e . | $\n### Step 2\nIf the amount at row i in worksheet 1 is negative (that is, a loss), write that amount at Y item IT6 . Otherwise write 0 at Y .\n## Where to go next\n- Go to question IT7 Child support you paid 2020 .\n- Return to main menu Individual tax return instructions 2020 .\n- Go back to question IT5 Net financial investment loss 2020 .",
+  "child_links": [],
+  "word_count": 464,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

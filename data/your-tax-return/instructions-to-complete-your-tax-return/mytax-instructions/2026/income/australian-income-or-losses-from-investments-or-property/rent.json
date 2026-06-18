@@ -1,0 +1,560 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2026/income/australian-income-or-losses-from-investments-or-property/rent",
+  "title": "myTax 2026 Rent",
+  "description": "How to report rental income and expenses when lodging your tax return using myTax.",
+  "nat_number": "",
+  "quick_code": "106913",
+  "date_updated": "2026-06-01T01:26:00Z",
+  "first_published": true,
+  "keywords": "myTax 2026, myTax, e-tax, online tax return, rent, co-ownership, holiday homes, vacant land",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete this section for rental income earned and expenses incurred when you rent out your rental property located in Australia."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Co-ownership"
+    },
+    {
+      "type": "paragraph",
+      "text": "The division of rental income and expenses between co-owners varies depending on whether the co-owners are joint tenants, tenants in common or there is a partnership carrying on a business of letting rental properties."
+    },
+    {
+      "type": "paragraph",
+      "text": "Co-ownership of rental property provides more information on how to work out your share of the rent and expenses that you can claim, including:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "dividing income and expenses according to legal interest",
+        "co-owners of an investment property (not in business)",
+        "partners carrying on a business of letting rental properties."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Renting out part or all of your home"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you rented out part, or all, of your home, the rent money you received is assessable income. This means you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "must declare the rental income in your tax return",
+        "can claim deductions for associated expenses, such as part or all of the interest on your home loan",
+        "aren't entitled to the full main residence exemption from capital gains tax (CGT), so you'll have to pay CGT on part of any capital gain when you sell your home."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you rented out part, or all, of your home at normal commercial rates, the tax treatment of income and expenses is the same as for any residential rental property ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Payments from members of a household or family members that related to the provision of family care or shared responsibility for household expenses are considered to be domestic arrangements and aren't rental income. You can't claim income tax deductions that related to these amounts."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you rent our part of your home or your entire home through the sharing economy, see Renting out all or part of your home ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Renting out your holiday home"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a holiday home that you rented out, you must include the rent money you received in your assessable income."
+    },
+    {
+      "type": "paragraph",
+      "text": "The deductions you can claim for your holiday home depend on whether it is mainly used (or held for use) to derive rental income."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your holiday home is not used (or held for use) mainly to derive rental income, you can't claim deductions for your ownership and use expenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may claim a deduction for expenses that do not relate to ownership or use of a holiday home, such as advertising expenses, booking and commission fees, or cleaning costs after a guest stay, to the extent they relate to earning income from your holiday home."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your holiday home is used (or held for use) mainly to derive rental income, deductions must be apportioned to reflect any non-income producing or private use."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "about whether you used (or held for use) your property mainly to derive rental income, see Practical Compliance Guideline PCG 2026/3 Application of section 26-50 of the Income Tax Assessment Act 1997 to holiday homes that you also rent out – ATO compliance approach .",
+        "about whether amounts you receive for the use of your holiday home are assessable income, and what deductions you can claim for your holiday home, see Taxation Ruling TR 2026/1 Income tax: rental property income and deductions for individuals who are not in business ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Rental deductions for vacant land"
+    },
+    {
+      "type": "paragraph",
+      "text": "From 1 July 2019, you can't claim rental deductions for the cost of holding vacant land , even if you're building or intend to build a rental property."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Taxation Ruling TR 2023/3 Income tax: expenses associated with holding vacant land ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your rental property was destroyed by a natural disaster or circumstances beyond your control, you can still claim deductions for the cost of holding the land for 3 years from the time the property was destroyed. You may apply to the Commissioner for an extension to the 3-year limit."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Don’t show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't show the following at this section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a deduction for the decline in value of a low-value pool, go to Low-value pool deduction",
+        "foreign source rental income, that is, rental income from properties outside Australia, go to Other foreign income",
+        "expenses you incurred in earning rental income from properties located outside Australia, go to Other foreign income",
+        "income you earned, or expenses you incurred, from peer-to-peer sharing of your car, caravan or car parking space, go to Any other income",
+        "capital gains or losses if you disposed of your property (for example, by selling it, gifting it or transferring it to someone else), go to Capital gains or losses From 1 July 2021 no CGT event arises to eligible individuals on certain granny flat arrangements. See Granny flat arrangements and CGT ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Video tutorials"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following video shows you how to include rental income and expenses in myTax."
+    },
+    {
+      "type": "paragraph",
+      "text": "Media: How to include rental income and expenses in myTax http://tv.ato.gov.au/ato-tv/media?v=bd1bdiubtjsfhw External Link ( Duration: 4:06)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following video shows you how to use the Depreciation and capital allowances tool."
+    },
+    {
+      "type": "paragraph",
+      "text": "Media: How to use the Depreciation and capital allowance tool https://tv.ato.gov.au/ato-tv/media?v=bd1bdiuboi7hki External Link ( Duration: 3:56)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must have the correct records for the claims that you make. You'll need details of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "all rental income you earned",
+        "interest you were charged on money you borrowed for the rental property",
+        "other expenses relating to your rental property",
+        "the period your property was rented or available for rent on commercial terms (if applicable)",
+        "If your property was also your holiday home, the period the property was used (or held for use) mainly to produce rental income.",
+        "any expenditure on capital works to your rental property."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For useful guidance on how to show your income and expenses, see Simple steps when preparing your tax return . You may also like to read Rental properties guide 2026 , a guide on how to treat rental income and expenses, including how to treat many residential rental property assets and items."
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your tax return to show Australian rental income and expenses, at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You had Australian interest, or other Australian income or losses from investments or property",
+        "Rent (Australian properties)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your Australian rental income and expenses, at Prepare return select 'Add/Edit' at the Rent banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Rent banner, complete the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Rental property details",
+        "Rental income",
+        "Rental expenses"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Rental property details"
+    },
+    {
+      "type": "paragraph",
+      "text": "We may pre-fill your tax return with some rental property details from your last year's tax return."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each rental property that has pre-filled in your tax return, check them and add any details not pre-filled.",
+        "For each rental property you own or have an interest in that hasn't pre-filled in your tax return, select Add and complete the rental property details fields. Property name Address In the Search address field, start entering an address and select your property address from the drop-down menu. If your rental property address isn't listed in the drop-down menu, select Use entered address and enter the full rental property address in the fields provided. Date property first available for rent on commercial terms Enter the first date that the property was genuinely available for rent Number of weeks property was rented this year Enter the number of weeks the property was rented out during the income year Ownership percentage Enter the percentage amount of your ownership. If you co-own the rental property, you need to be aware of the way that rental income and expenses are divided between co-owners. To learn more, see Co-ownership ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Rental income"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each rental property, complete the rental income fields Total rental income Enter the total amount of rent payments received for the property Total other rental-related income Enter the total of other rental-related income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your ownership percentage is less than 100%, myTax will use your ownership percentage to calculate your share of the income amounts. You may alter your share of the amounts. If you do, keep a record of how you worked out your share."
+    },
+    {
+      "type": "paragraph",
+      "text": "myTax will calculate Total gross rent . If your ownership percentage is less than 100%, myTax will also calculate Your share of gross rent ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Rental expenses"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each rental property, complete the rental expenses fields."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The Depreciation and capital allowances tool can help you work out any decline in value. It can also work out any deductible balancing adjustment when you stop holding a depreciating asset. Access this tool when you enter your rental income or expense details. Fields from this tool can’t be adjusted in myTax. To make any adjustments or to add new assets to the tool, select the ‘Use the depreciation and capital allowances tool’ link."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your ownership percentage is less than 100%, myTax will use your ownership percentage to calculate your share of the expense amounts. You may alter your share of the amounts. If you do, keep a record of how you worked out your share."
+    },
+    {
+      "type": "paragraph",
+      "text": "myTax will calculate Total expenses . If your ownership percentage is less than 100%, myTax will also calculate Your share of total expenses ."
+    },
+    {
+      "type": "paragraph",
+      "text": "myTax will calculate Net rent based on the calculated amounts in Total gross rent and Total expenses . If your ownership percentage is less than 100%, myTax will also calculate Your share of net rent ."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Select Save .",
+        "Select Save and continue when you have completed the Rent section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep records of your rental income and expenses for 5 years from 31 October 2026 or, if you lodge later, for 5 years from the date you lodge your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "More information"
+    },
+    {
+      "type": "paragraph",
+      "text": "More information about completing the rent section of your tax return using myTax."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Rental income",
+        "Rental expenses",
+        "Other tax considerations"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Rental income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rental income is the full amount of rent and associated payments that you received, or became entitled to, when you rent out your property (including renting out a room through the sharing economy). If payment is made in goods or services, you'll need to work out the monetary value of these. Your gross rental income amount includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Rental income – rent paid to you",
+        "Other rental-related income – such as any bond money you retained in place of rent or kept because of damage to the property requiring repairs an insurance payout for lost rent, or a reimbursement of any rental expenses, you claimed in 2025–26 or in an earlier year fees retained from cancelled booking."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You must declare all the income you receive for your Australian rental property in this section. Rental income you must declare includes more information, including types of rental income."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your holiday home is rented out, you need to include the rental income you receive as income in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "For information on when amounts from family and friends is treated as assessable income and how to apportion your rental expenses, see Domestic arrangements – renting to family and friends ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to keep records of all rental income earned and declare it in your tax return. GST isn't payable on amounts of residential rent you earn."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Rental expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rental expenses are deductible to the extent that they are incurred for the purpose of producing rental income."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim expenses that relate to aa rental property you own for the period the property was rented or held to produce rental income . A rental property is held to produce income if it's available for rent on commercial terms ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you rented out only part of your home (for example, a single room), you can claim expenses related to renting out only that part of the house for the days it was actually rented."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can’t claim the total amount of expenses related to the whole property – for example, council rates and interest expenses need to be apportioned. As a general guide, you should apportion expenses based on the area that was solely occupied by the renter (user) and add that to a reasonable amount based on their access to common areas."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim expenses only for the period you rented the room in your home to a tenant. You can’t claim deductions for expenses when the room wasn't rented so your expense must also be apportioned on a time basis, that is the number of days rented divided by the number of days in the income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on apportionment, see Practical Compliance Guideline PCG 2026/2 Apportionment of rental property deductions - ATO compliance approach ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim expenditure such as interest on loans, local council, water and sewerage rates, land taxes and emergency service levies you incurred prior to using it provided you are holding it to produce assessable income. Evidence of you holding the property to produce assessable rental income must be kept, such as communications with real estate agents or rental managers."
+    },
+    {
+      "type": "paragraph",
+      "text": "You won't be holding the property to produce assessable rental income if it isn't available for rent on commercial terms or you use the property for private purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the land is vacant under the vacant land provisions, you generally can't claim deductions for expenses incurred in holding land before the property can be occupied and held to produce assessable rental income."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim 100% of fees or commissions charged by a sharing economy facilitator or administrator."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your rental property is also a holiday home , you may not be able to claim ownership and use expenses ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the co-owner of the property rents the property the nature of the arrangement affects the deductibility of the expenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are 3 categories of rental expenses:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "expenses you can claim a deduction now (in the income year you incur the expense)",
+        "expenses you can claim a deduction over several years",
+        "expenses you can't claim a deduction"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Expenses you can claim a deduction for now"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be able to claim an immediate deduction for these expenses in the income year you incur them. To claim a deduction you must actually incur the cost. You can't claim a deduction where the cost is paid by the tenant."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your rental property is also your holiday home , you can only claim an immediate deduction for ownership and use expenses , such as interest expenses and body corporate fees, if you used the property (or held it for use) mainly to produce rental income . For more information about what expenses you can and can't claim for a holiday home, see Holiday homes ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expenses that you can claim now may include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Body corporate fees and charges",
+        "Council rates and local government expenses",
+        "Interest on loans",
+        "Land tax",
+        "Legal expenses (excluding acquisition, sale and borrowing costs)",
+        "Agent fees or commissions",
+        "Repairs and maintenance",
+        "Travel and car expenses (in some cases only)",
+        "Other expenses Lease document expenses Mortgage discharge expenses"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Expenses you can claim a deduction for over several years"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are 3 types of expenses you may incur for your rental property that may be claimed over several years :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Borrowing expenses If your property is your holiday home, you can't claim deductions for borrowing expenses unless the property is used (and held for use) mainly to produce rental income. You claim a deduction for all eligible borrowing expenses for 5 years or spread it over the term of the loan, whichever is shorter. However, if the total deductible borrowing expenses are $100 or less, they are fully deductible in the income year you incur them. You also need to apportion your borrowing expenses if you use your property partly to produce income and partly for private purposes. You can use the deductible borrowing expenses calculator (XLSX, 176KB) This link will download a file to work it out.",
+        "Capital allowances, including decline in value of depreciating assets Limit on deductions for decline in value of second-hand depreciating assets",
+        "Capital works"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Expenses you can’t claim a deduction for"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rental expenses you can't claim a deduction for include expenses:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you didn't incur, such as water or electricity usage charges borne by your tenant",
+        "where your property (including your holiday home) wasn't rented or available for rent on commercial terms",
+        "that relate to the ownership or use of your holiday home that isn't used or held for use mainly to produce rental income",
+        "that don't relate to the rental of a property, for example expenses you incurred for your own use of your holiday home that is used or held for use mainly to produce rental income, see How to claim rental expenses costs of maintaining a non-income producing property used as collateral for the investment loan",
+        "that related to holding vacant land ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Other rental expenses information"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you prepay a rental property expense , such as insurance or interest on money you borrowed, that covers a period of 12 months or less and the period ends on or before 30 June 2027, you can claim an immediate deduction. A prepayment that doesn't meet these criteria and is $1,000 or more may have to be spread over 2 or more years."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Related pages"
+    },
+    {
+      "type": "paragraph",
+      "text": "Guide to depreciating assets Guide to claiming the decline in value of capital assets used in gaining assessable income."
+    },
+    {
+      "type": "paragraph",
+      "text": "Always check your supplier's ABN If you make a payment to a contractor (such as a tradesperson) for services connected with your rental property and they don't provide you with an ABN, you may have to withhold 47% from that payment and pay it to us."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Other tax considerations"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are some other tax considerations you may need to know about for your rental property:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Capital gains tax (CGT)",
+        "Granny flat arrangements and CGT",
+        "Goods and services tax (GST)",
+        "Negative gearing",
+        "Pay as you go (PAYG) instalments"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Simple steps when preparing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rental property owners should remember 3 simple steps when preparing their tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Include all the income you receive, including income from short term rental arrangements (for example, a holiday home) sharing part of your home other rental-related income such as insurance payouts and rental bond money you retain.",
+        "Get your expenses right Eligibility – claim only for expenses incurred for the period your property was rented or when you were actively trying to rent the property on commercial terms. Timing – some expenses must be claimed over a number of years. Apportionment – apportion your claim where your property was rented out for part of the year or only part of your property was rented out, where you used the property yourself or rented it below market rates. You must also apportion in line with your ownership interest.",
+        "Keep records You should keep records of both income and expenses relating to your rental property, as well as purchase and sale records."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "And remember, renting property (including all or part of your own home) will usually give rise to a capital gain or loss when you sell the property – which you'll need to include in your tax return in that year. For more information, see Capital gains or losses ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you lodge your tax return yourself or with a tax agent, see Top 10 tips for rental property owners ."
+    }
+  ],
+  "content_text": "## Things to know\nComplete this section for rental income earned and expenses incurred when you rent out your rental property located in Australia.\n### Co-ownership\nThe division of rental income and expenses between co-owners varies depending on whether the co-owners are joint tenants, tenants in common or there is a partnership carrying on a business of letting rental properties.\nCo-ownership of rental property provides more information on how to work out your share of the rent and expenses that you can claim, including:\n- dividing income and expenses according to legal interest\n- co-owners of an investment property (not in business)\n- partners carrying on a business of letting rental properties.\n### Renting out part or all of your home\nIf you rented out part, or all, of your home, the rent money you received is assessable income. This means you:\n- must declare the rental income in your tax return\n- can claim deductions for associated expenses, such as part or all of the interest on your home loan\n- aren't entitled to the full main residence exemption from capital gains tax (CGT), so you'll have to pay CGT on part of any capital gain when you sell your home.\nIf you rented out part, or all, of your home at normal commercial rates, the tax treatment of income and expenses is the same as for any residential rental property .\nPayments from members of a household or family members that related to the provision of family care or shared responsibility for household expenses are considered to be domestic arrangements and aren't rental income. You can't claim income tax deductions that related to these amounts.\nIf you rent our part of your home or your entire home through the sharing economy, see Renting out all or part of your home .\n### Renting out your holiday home\nIf you have a holiday home that you rented out, you must include the rent money you received in your assessable income.\nThe deductions you can claim for your holiday home depend on whether it is mainly used (or held for use) to derive rental income.\nIf your holiday home is not used (or held for use) mainly to derive rental income, you can't claim deductions for your ownership and use expenses.\nYou may claim a deduction for expenses that do not relate to ownership or use of a holiday home, such as advertising expenses, booking and commission fees, or cleaning costs after a guest stay, to the extent they relate to earning income from your holiday home.\nIf your holiday home is used (or held for use) mainly to derive rental income, deductions must be apportioned to reflect any non-income producing or private use.\nFor more information:\n- about whether you used (or held for use) your property mainly to derive rental income, see Practical Compliance Guideline PCG 2026/3 Application of section 26-50 of the Income Tax Assessment Act 1997 to holiday homes that you also rent out – ATO compliance approach .\n- about whether amounts you receive for the use of your holiday home are assessable income, and what deductions you can claim for your holiday home, see Taxation Ruling TR 2026/1 Income tax: rental property income and deductions for individuals who are not in business .\n### Rental deductions for vacant land\nFrom 1 July 2019, you can't claim rental deductions for the cost of holding vacant land , even if you're building or intend to build a rental property.\nFor more information, see Taxation Ruling TR 2023/3 Income tax: expenses associated with holding vacant land .\nIf your rental property was destroyed by a natural disaster or circumstances beyond your control, you can still claim deductions for the cost of holding the land for 3 years from the time the property was destroyed. You may apply to the Commissioner for an extension to the 3-year limit.\n### Don’t show at this section\nDon't show the following at this section:\n- a deduction for the decline in value of a low-value pool, go to Low-value pool deduction\n- foreign source rental income, that is, rental income from properties outside Australia, go to Other foreign income\n- expenses you incurred in earning rental income from properties located outside Australia, go to Other foreign income\n- income you earned, or expenses you incurred, from peer-to-peer sharing of your car, caravan or car parking space, go to Any other income\n- capital gains or losses if you disposed of your property (for example, by selling it, gifting it or transferring it to someone else), go to Capital gains or losses From 1 July 2021 no CGT event arises to eligible individuals on certain granny flat arrangements. See Granny flat arrangements and CGT .\n### Video tutorials\nThe following video shows you how to include rental income and expenses in myTax.\nMedia: How to include rental income and expenses in myTax http://tv.ato.gov.au/ato-tv/media?v=bd1bdiubtjsfhw External Link ( Duration: 4:06)\nThe following video shows you how to use the Depreciation and capital allowances tool.\nMedia: How to use the Depreciation and capital allowance tool https://tv.ato.gov.au/ato-tv/media?v=bd1bdiuboi7hki External Link ( Duration: 3:56)\n## Completing this section\nYou must have the correct records for the claims that you make. You'll need details of:\n- all rental income you earned\n- interest you were charged on money you borrowed for the rental property\n- other expenses relating to your rental property\n- the period your property was rented or available for rent on commercial terms (if applicable)\n- If your property was also your holiday home, the period the property was used (or held for use) mainly to produce rental income.\n- any expenditure on capital works to your rental property.\nFor useful guidance on how to show your income and expenses, see Simple steps when preparing your tax return . You may also like to read Rental properties guide 2026 , a guide on how to treat rental income and expenses, including how to treat many residential rental property assets and items.\nTo personalise your tax return to show Australian rental income and expenses, at Personalise return select:\n- You had Australian interest, or other Australian income or losses from investments or property\n- Rent (Australian properties)\nTo show your Australian rental income and expenses, at Prepare return select 'Add/Edit' at the Rent banner.\nAt the Rent banner, complete the:\n- Rental property details\n- Rental income\n- Rental expenses\n### Rental property details\nWe may pre-fill your tax return with some rental property details from your last year's tax return.\n- For each rental property that has pre-filled in your tax return, check them and add any details not pre-filled.\n- For each rental property you own or have an interest in that hasn't pre-filled in your tax return, select Add and complete the rental property details fields. Property name Address In the Search address field, start entering an address and select your property address from the drop-down menu. If your rental property address isn't listed in the drop-down menu, select Use entered address and enter the full rental property address in the fields provided. Date property first available for rent on commercial terms Enter the first date that the property was genuinely available for rent Number of weeks property was rented this year Enter the number of weeks the property was rented out during the income year Ownership percentage Enter the percentage amount of your ownership. If you co-own the rental property, you need to be aware of the way that rental income and expenses are divided between co-owners. To learn more, see Co-ownership .\n### Rental income\n- For each rental property, complete the rental income fields Total rental income Enter the total amount of rent payments received for the property Total other rental-related income Enter the total of other rental-related income.\nIf your ownership percentage is less than 100%, myTax will use your ownership percentage to calculate your share of the income amounts. You may alter your share of the amounts. If you do, keep a record of how you worked out your share.\nmyTax will calculate Total gross rent . If your ownership percentage is less than 100%, myTax will also calculate Your share of gross rent .\n### Rental expenses\n- For each rental property, complete the rental expenses fields.\nThe Depreciation and capital allowances tool can help you work out any decline in value. It can also work out any deductible balancing adjustment when you stop holding a depreciating asset. Access this tool when you enter your rental income or expense details. Fields from this tool can’t be adjusted in myTax. To make any adjustments or to add new assets to the tool, select the ‘Use the depreciation and capital allowances tool’ link.\nIf your ownership percentage is less than 100%, myTax will use your ownership percentage to calculate your share of the expense amounts. You may alter your share of the amounts. If you do, keep a record of how you worked out your share.\nmyTax will calculate Total expenses . If your ownership percentage is less than 100%, myTax will also calculate Your share of total expenses .\nmyTax will calculate Net rent based on the calculated amounts in Total gross rent and Total expenses . If your ownership percentage is less than 100%, myTax will also calculate Your share of net rent .\n- Select Save .\n- Select Save and continue when you have completed the Rent section.\nKeep records of your rental income and expenses for 5 years from 31 October 2026 or, if you lodge later, for 5 years from the date you lodge your tax return\n### More information\nMore information about completing the rent section of your tax return using myTax.\n- Rental income\n- Rental expenses\n- Other tax considerations\n#### Rental income\nRental income is the full amount of rent and associated payments that you received, or became entitled to, when you rent out your property (including renting out a room through the sharing economy). If payment is made in goods or services, you'll need to work out the monetary value of these. Your gross rental income amount includes:\n- Rental income – rent paid to you\n- Other rental-related income – such as any bond money you retained in place of rent or kept because of damage to the property requiring repairs an insurance payout for lost rent, or a reimbursement of any rental expenses, you claimed in 2025–26 or in an earlier year fees retained from cancelled booking.\nYou must declare all the income you receive for your Australian rental property in this section. Rental income you must declare includes more information, including types of rental income.\nIf your holiday home is rented out, you need to include the rental income you receive as income in your tax return.\nFor information on when amounts from family and friends is treated as assessable income and how to apportion your rental expenses, see Domestic arrangements – renting to family and friends .\nYou need to keep records of all rental income earned and declare it in your tax return. GST isn't payable on amounts of residential rent you earn.\n#### Rental expenses\nRental expenses are deductible to the extent that they are incurred for the purpose of producing rental income.\nYou can claim expenses that relate to aa rental property you own for the period the property was rented or held to produce rental income . A rental property is held to produce income if it's available for rent on commercial terms .\nIf you rented out only part of your home (for example, a single room), you can claim expenses related to renting out only that part of the house for the days it was actually rented.\nYou can’t claim the total amount of expenses related to the whole property – for example, council rates and interest expenses need to be apportioned. As a general guide, you should apportion expenses based on the area that was solely occupied by the renter (user) and add that to a reasonable amount based on their access to common areas.\nYou can claim expenses only for the period you rented the room in your home to a tenant. You can’t claim deductions for expenses when the room wasn't rented so your expense must also be apportioned on a time basis, that is the number of days rented divided by the number of days in the income year.\nFor more information on apportionment, see Practical Compliance Guideline PCG 2026/2 Apportionment of rental property deductions - ATO compliance approach .\nYou can claim expenditure such as interest on loans, local council, water and sewerage rates, land taxes and emergency service levies you incurred prior to using it provided you are holding it to produce assessable income. Evidence of you holding the property to produce assessable rental income must be kept, such as communications with real estate agents or rental managers.\nYou won't be holding the property to produce assessable rental income if it isn't available for rent on commercial terms or you use the property for private purposes.\nIf the land is vacant under the vacant land provisions, you generally can't claim deductions for expenses incurred in holding land before the property can be occupied and held to produce assessable rental income.\nYou can claim 100% of fees or commissions charged by a sharing economy facilitator or administrator.\nIf your rental property is also a holiday home , you may not be able to claim ownership and use expenses .\nIf the co-owner of the property rents the property the nature of the arrangement affects the deductibility of the expenses.\nThere are 3 categories of rental expenses:\n- expenses you can claim a deduction now (in the income year you incur the expense)\n- expenses you can claim a deduction over several years\n- expenses you can't claim a deduction\n##### Expenses you can claim a deduction for now\nYou may be able to claim an immediate deduction for these expenses in the income year you incur them. To claim a deduction you must actually incur the cost. You can't claim a deduction where the cost is paid by the tenant.\nIf your rental property is also your holiday home , you can only claim an immediate deduction for ownership and use expenses , such as interest expenses and body corporate fees, if you used the property (or held it for use) mainly to produce rental income . For more information about what expenses you can and can't claim for a holiday home, see Holiday homes .\nExpenses that you can claim now may include:\n- Body corporate fees and charges\n- Council rates and local government expenses\n- Interest on loans\n- Land tax\n- Legal expenses (excluding acquisition, sale and borrowing costs)\n- Agent fees or commissions\n- Repairs and maintenance\n- Travel and car expenses (in some cases only)\n- Other expenses Lease document expenses Mortgage discharge expenses\n##### Expenses you can claim a deduction for over several years\nThere are 3 types of expenses you may incur for your rental property that may be claimed over several years :\n- Borrowing expenses If your property is your holiday home, you can't claim deductions for borrowing expenses unless the property is used (and held for use) mainly to produce rental income. You claim a deduction for all eligible borrowing expenses for 5 years or spread it over the term of the loan, whichever is shorter. However, if the total deductible borrowing expenses are $100 or less, they are fully deductible in the income year you incur them. You also need to apportion your borrowing expenses if you use your property partly to produce income and partly for private purposes. You can use the deductible borrowing expenses calculator (XLSX, 176KB) This link will download a file to work it out.\n- Capital allowances, including decline in value of depreciating assets Limit on deductions for decline in value of second-hand depreciating assets\n- Capital works\n##### Expenses you can’t claim a deduction for\nRental expenses you can't claim a deduction for include expenses:\n- you didn't incur, such as water or electricity usage charges borne by your tenant\n- where your property (including your holiday home) wasn't rented or available for rent on commercial terms\n- that relate to the ownership or use of your holiday home that isn't used or held for use mainly to produce rental income\n- that don't relate to the rental of a property, for example expenses you incurred for your own use of your holiday home that is used or held for use mainly to produce rental income, see How to claim rental expenses costs of maintaining a non-income producing property used as collateral for the investment loan\n- that related to holding vacant land .\n##### Other rental expenses information\nIf you prepay a rental property expense , such as insurance or interest on money you borrowed, that covers a period of 12 months or less and the period ends on or before 30 June 2027, you can claim an immediate deduction. A prepayment that doesn't meet these criteria and is $1,000 or more may have to be spread over 2 or more years.\n##### Related pages\nGuide to depreciating assets Guide to claiming the decline in value of capital assets used in gaining assessable income.\nAlways check your supplier's ABN If you make a payment to a contractor (such as a tradesperson) for services connected with your rental property and they don't provide you with an ABN, you may have to withhold 47% from that payment and pay it to us.\n#### Other tax considerations\nThere are some other tax considerations you may need to know about for your rental property:\n- Capital gains tax (CGT)\n- Granny flat arrangements and CGT\n- Goods and services tax (GST)\n- Negative gearing\n- Pay as you go (PAYG) instalments\n## Simple steps when preparing your tax return\nRental property owners should remember 3 simple steps when preparing their tax return:\n- Include all the income you receive, including income from short term rental arrangements (for example, a holiday home) sharing part of your home other rental-related income such as insurance payouts and rental bond money you retain.\n- Get your expenses right Eligibility – claim only for expenses incurred for the period your property was rented or when you were actively trying to rent the property on commercial terms. Timing – some expenses must be claimed over a number of years. Apportionment – apportion your claim where your property was rented out for part of the year or only part of your property was rented out, where you used the property yourself or rented it below market rates. You must also apportion in line with your ownership interest.\n- Keep records You should keep records of both income and expenses relating to your rental property, as well as purchase and sale records.\nAnd remember, renting property (including all or part of your own home) will usually give rise to a capital gain or loss when you sell the property – which you'll need to include in your tax return in that year. For more information, see Capital gains or losses .\nIf you lodge your tax return yourself or with a tax agent, see Top 10 tips for rental property owners .",
+  "child_links": [],
+  "word_count": 3245,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

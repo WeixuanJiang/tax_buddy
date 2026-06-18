@@ -1,0 +1,731 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/paying-smsf-benefits/income-stream-pension-rules-and-payments",
+  "title": "Income stream (pension) rules and payments",
+  "description": "SMSF requirements for paying income stream (pension) benefits to members once members have met a condition of release.",
+  "nat_number": "",
+  "quick_code": "42480",
+  "date_updated": "2026-04-29T14:00:00Z",
+  "first_published": "",
+  "keywords": "SMSF account-based pension rules, account based pension SMSF, smsf pension, SMSF minimum pension, account based pension minimum SMSF, smsf minimum pension, smsf pension rates, minimum pension smsf, account-based pension rules SMSF, SMSFpension minimum drawdown, smsf pension",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "About income streams (pensions)"
+    },
+    {
+      "type": "paragraph",
+      "text": "A super income stream is an income stream that's a pension according to the Superannuation Industry (Supervision) Regulations 1994 (SISR) ."
+    },
+    {
+      "type": "paragraph",
+      "text": "We use the term:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "pension – when referring to the operation of the Superannuation Industry (Supervision) Act 1993 (SISA) or SISR",
+        "super income stream – when referring to the operation of the income tax laws."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "An income stream can't be a pension in accordance with the regulations, unless it meets 2 fundamental requirements:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "payment occurs at least annually",
+        "a minimum amount is paid to the member each year (for an account-based pension)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A super income stream exists when all of the following apply:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a member is entitled to a series of payments that relate to each other",
+        "the payments are periodic, whether paid annually or more frequently",
+        "the payments are made over an identifiable period of time",
+        "the pension standards of the SISR have been met."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A liability to make a single payment for one year is not a series of payments and won't satisfy the requirements of being a super income stream."
+    },
+    {
+      "type": "paragraph",
+      "text": "An income stream is a series of periodic benefit payments to a member. Income streams from a self-managed super fund (SMSF) are usually account-based. This means the amount supporting the pension is allocated to a separate member's account."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Minimum pension standards"
+    },
+    {
+      "type": "paragraph",
+      "text": "As an SMSF trustee, you may need to amend your fund trust deed so that it meets the minimum pension standards. For more information on how to do this, talk to your legal adviser."
+    },
+    {
+      "type": "paragraph",
+      "text": "All pensions that start from 20 September 2007 must meet the minimum pension standards."
+    },
+    {
+      "type": "paragraph",
+      "text": "Super income streams that SMSFs pay must be pensions that meet all the following minimum standards:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The pension must be account-based, except in limited circumstances.",
+        "You must pay a minimum amount at least once a year - from 1 July 2017, partial commutation payments don't count towards minimum annual pension payments.",
+        "Once the pension has started, you can't increase the capital supporting the pension using contributions or rollover amounts.",
+        "When a member dies, their pension can only be transferred to a dependant beneficiary of that member.",
+        "You can't use the capital value of the pension or the income from it as security for borrowing.",
+        "Before you can fully commute a pension, you must pay a minimum amount except in limited circumstances.",
+        "Before you partially commute a pension, you must make sure there are sufficient assets to pay the minimum amount."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Pension payments from pensions that meet the minimum standards will be treated as super income stream benefits for income tax purposes. This means the fund may be able to claim an exemption for the income earned on pension assets, called exempt current pension income (ECPI)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Income streams started before 1 July 2007, such as market linked pensions, that complied with the rules applicable at the time:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "are considered to meet the new requirements",
+        "must continue to be paid under the former rules."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Transition to retirement income streams"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transition to retirement account-based income streams must meet the same standards as account-based pensions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additionally, there is a maximum annual payment limit of 10% of the account balance. This is unless the member has met a condition of release with no cashing restrictions."
+    },
+    {
+      "type": "paragraph",
+      "text": "When a fund exceeds the maximum annual payment limit for a transition to retirement income stream (TRIS) in a financial year, the super income stream is considered to have stopped at the start of that year for income tax purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "These income streams can only be commuted to a lump sum in limited circumstances."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Minimum pension payment requirements"
+    },
+    {
+      "type": "paragraph",
+      "text": "The SMSF must pay a minimum amount each year to a member from their pension account. The minimum amount that must be paid depends on several factors, including:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the recipient's age",
+        "their account balance",
+        "the start date of the pension."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Where a member receiving a reversionary pension dies, the minimum pension payment must still be made for that year."
+    },
+    {
+      "type": "paragraph",
+      "text": "When a member receiving a non-reversionary account-based pension dies, we won't require a minimum pension payment to be made in the year of death. If the deceased member’s benefits are later used to start a new pension to a beneficiary, you must ensure the new minimum annual pension amount is paid in the relevant year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further information can be found in Taxation Ruling TR 2013/5 Income tax: when a superannuation income stream commences and ceases."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pension payments for the 2019–20 financial year above the reduced minimum withdrawal rate, paid before 25 March 2020, can't be re-categorised as a lump sum or commutation. This is even if a valid minute or election from the member was in place before the government announced the reduction."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "How to calculate the minimum annual payment"
+    },
+    {
+      "type": "paragraph",
+      "text": "The minimum annual payment amount is worked out by multiplying the member’s pension account balance by a percentage factor. The amount is rounded to the nearest 10 whole dollars. If the amount ends in exactly 5 dollars, it is rounded up to the next 10 whole dollars."
+    },
+    {
+      "type": "paragraph",
+      "text": "Account balance means one of the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "pension account balance on 1 July in the financial year in which the payment is made",
+        "balance on the pension start day if the pension started during the financial year",
+        "amount of the withdrawal benefit, if the amount of the pension account balance is less than the withdrawal benefit that the member would be entitled to if the pension were to be fully commuted."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When the pension starts after 1 July, the minimum payment amount for the first year is calculated proportionately to the number of days remaining in the financial year, starting from the pension start day."
+    },
+    {
+      "type": "paragraph",
+      "text": "To calculate the minimum payment amount, multiply the minimum annual payment amount by the remaining number of days in the financial year and divide by 365 (or 366 in a leap year). That is:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Minimum payment amount = minimum annual payment amount × (remaining number of days ÷ 365 (or 366))"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the pension starts from 1 June in a financial year, no minimum payment is required for that financial year."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to global conditions, pension drawdown relief was provided during the following income years:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "2008–09",
+        "2009–10",
+        "2010–11",
+        "2011–12",
+        "2012–13",
+        "2019–20",
+        "2020–21",
+        "2021–22",
+        "2022–23."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The minimum payment amount returned to normal:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "for 2013–14 up to and including 2018–19 income years",
+        "from the 2023–24 income year and onwards."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the following tables to find the relevant percentage factor based on the member’s age. The member's age is determined at either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "1 July in the financial year in which the payment is made",
+        "the start day of the pension, if that is the year in which it starts."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Age",
+          "2007–08 income year",
+          "2008–09 to 2010–11 income years (inclusive)",
+          "2011–12 and 2012–13 income years (inclusive)"
+        ],
+        [
+          "Under 65",
+          "4.0%",
+          "2.0%",
+          "3.0%"
+        ],
+        [
+          "65–74",
+          "5.0%",
+          "2.5%",
+          "3.75%"
+        ],
+        [
+          "75–79",
+          "6.0%",
+          "3.0%",
+          "4.5%"
+        ],
+        [
+          "80–84",
+          "7.0%",
+          "3.5%",
+          "5.25%"
+        ],
+        [
+          "85–89",
+          "9.0%",
+          "4.5%",
+          "6.75%"
+        ],
+        [
+          "90–94",
+          "11.0%",
+          "5.5%",
+          "8.25%"
+        ],
+        [
+          "95 or more",
+          "14.0%",
+          "7.0%",
+          "10.5%"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Age",
+          "2013–14 to 2018–19 income years (inclusive)",
+          "2019–20 to 2022–23 income years (inclusive)",
+          "2023–24 onwards"
+        ],
+        [
+          "Under 65",
+          "4.0%",
+          "2.0%",
+          "4.0%"
+        ],
+        [
+          "65–74",
+          "5.0%",
+          "2.5%",
+          "5.0%"
+        ],
+        [
+          "75–79",
+          "6.0%",
+          "3.0%",
+          "6.0%"
+        ],
+        [
+          "80–84",
+          "7.0%",
+          "3.5%",
+          "7.0%"
+        ],
+        [
+          "85–89",
+          "9.0%",
+          "4.5%",
+          "9.0%"
+        ],
+        [
+          "90–94",
+          "11.0%",
+          "5.5%",
+          "11.0%"
+        ],
+        [
+          "95 or more",
+          "14.0%",
+          "7.0%",
+          "14.0%"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: pension starts after 1 July"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thavi starts an account-based pension on 1 January 2023 at age 66. His pension account balance on the start day is $250,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "The minimum annual payment amount would be $6,250 (2.5% of $250,000). However, as the pension started on 1 January 2023, the required minimum amount is calculated proportionately from the start day to the end of the financial year. This is calculated as:"
+    },
+    {
+      "type": "paragraph",
+      "text": "$6,250 (minimum annual payment amount)"
+    },
+    {
+      "type": "paragraph",
+      "text": "× 181 (days remaining in the year)"
+    },
+    {
+      "type": "paragraph",
+      "text": "÷ 365 (2023 is not a leap year)"
+    },
+    {
+      "type": "paragraph",
+      "text": "= $3,099."
+    },
+    {
+      "type": "paragraph",
+      "text": "$3,099 rounded up to the nearest 10 whole dollars so the minimum payment required for 2022–23 is $3,100."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Timing of income stream (pension) payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "To ensure minimum pension standards are met, it is important you, as fund trustee, consider the time a member’s benefit is cashed (paid)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, a benefit is cashed when both the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "member receives the payment",
+        "member’s benefits in the SMSF are reduced."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the end of the financial year falls on a weekend or public holiday, you must ensure all pension payments are made before 30 June. The benefit payment must be recorded as debited from the SMSF's bank account and credited into the member's account."
+    },
+    {
+      "type": "paragraph",
+      "text": "Benefits can only be cashed with:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a cheque honoured with an actual payment of money, or",
+        "a transfer of benefits from the fund."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A member is considered to have received the benefit when:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "for cash payments: the member receives the cash",
+        "for electronic funds transfer: the funds are credited to the member's account",
+        "for cheque: the member receives the cheque (as long as it is presented promptly and is honoured)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Taxation Ruling TR 2010/1 Income tax: superannuation contributions further outlines our view on how and when a contribution is made. This view is equally relevant when considering how and when a benefit payment is made from an SMSF."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When minimum pension standards aren't met"
+    },
+    {
+      "type": "paragraph",
+      "text": "Failing to meet the minimum pension standards means:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the super income stream will be taken to have ceased at the start of the income year for income tax purposes",
+        "the payments for the income year and subsequent income years won't be treated as super income stream benefits",
+        "the fund won't be able to claim ECPI for the income year or subsequent income years",
+        "there will be transfer balance account consequences, including that the credit that arose when the member started the super income stream remains in the individual's transfer balance account trustee must report to us, on a transfer balance account report ( TBAR ), the date that the super income stream stops being in the retirement phase."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For the member to receive a super income stream for income tax purposes in future years, the income stream must cease (for example by commutation) and a new super income stream start."
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustee must:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "revalue assets at market value and recalculate the minimum pension payment required at the start of the new super income stream",
+        "calculate the tax-free and taxable components of the new super income stream",
+        "report the new super income stream on a TBAR."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "There are limited circumstances where the Commissioner of Taxation's general administrative powers may allow a pension to continue even though the minimum pension standards have not been met."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further information about the tax effects of withdrawing your super is available at Tax on super benefits ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Record keeping for pensions"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must keep appropriate records while running an account-based pension. These include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the date the member requested to start a pension and the condition of release was met",
+        "the value of the pension at start date",
+        "the taxable and tax-free components of the pension at start date",
+        "the earnings from assets set aside to support the pension",
+        "the pension payments made",
+        "the account the payment was paid from",
+        "any commutations to lump sums made from the pension account, ensuring you document these at the time the payment is requested record these in trustee minutes."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Each commutation will need to be reported to us as a transfer balance cap event on a TBAR. This may mean more events to report 28 days after the end of the quarter in which they happened."
+    },
+    {
+      "type": "paragraph",
+      "text": "When one or more of your members is being paid a pension that started between 1 July 2007 and 19 September 2007, you also need to keep a record of their election to be paid a pension (under either the current or the former standards)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Before starting an income stream (pension)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before starting a pension, you must determine the market value of the assets supporting the pension on the start day of the pension. The valuation must be based on objective and supportable data. This is similar to valuing assets for the purpose of financial reports."
+    },
+    {
+      "type": "paragraph",
+      "text": "A reasonable estimate of the value of the account balance can be used when a pension is started part way through the year."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Starting an income stream (pension)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Once a super income stream starts, you're required to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "treat the amount supporting the income stream as a separate interest",
+        "determine the value of the separate interest, including the amount of its tax-free and taxable components."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The proportions of the tax components of this separate interest will be the same proportions of the member’s original non-pension interest just prior to the start of the income stream. This is called the proportioning rule. The proportioning rule prevents members from selecting which tax components their super income stream will be paid from."
+    },
+    {
+      "type": "paragraph",
+      "text": "The SMSF is required to report the value on the start day of the super income stream in the TBAR ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further information can be found on when to lodge a transfer balance account report for SMSFs ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Super income stream (pension) start day"
+    },
+    {
+      "type": "paragraph",
+      "text": "A pension's start day is the first day of the payment period. For example, if a pension is paid fortnightly, it will start on day 1 of the 14-day payment period. Funds generally determine the frequency of payments."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Pensions started before 1 July 2007"
+    },
+    {
+      "type": "paragraph",
+      "text": "The SMSF must continue to pay pensions under the previous pension payment standards unless the pension is an allocated pension. For allocated pensions, the SMSF can choose to start paying under the minimum standards any time after 1 July 2007 without having to commute and start a new pension, provided this is permitted by the rules of your fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "Complying super pensions include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "market-linked pensions",
+        "lifetime pensions",
+        "life expectancy pensions",
+        "a TRIS."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "From 7 December 2024, a 5 year exemption period allows members to commute in full specific legacy retirement products. This doesn't include TRIS."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once commuted in full, the entitlement can be used to start an account-based income stream that will be required to meet the new pension rules."
+    },
+    {
+      "type": "paragraph",
+      "text": "After the 5 year exemption period has finished, any remaining pensions can't be commuted to start another pension to adopt the new pension rules."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further information on the 5 year exemption period can be found on Relaxed commutation rules for legacy retirement products ."
+    },
+    {
+      "type": "paragraph",
+      "text": "There will still be an exception for existing, complying pensions that were commuted from 20 September 2007 in order to purchase a market-linked pension. In these circumstances, the new minimum pension standards will apply to the new market-linked pension, in addition to the rules that normally apply to market-linked pensions."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Pensions started between 1 July and 19 September 2007"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pensions may be paid under the previous or the new pension rules, provided this is permitted by the rules of your fund."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Electing to treat a pension payment as a lump sum"
+    },
+    {
+      "type": "paragraph",
+      "text": "From 1 July 2017, members can no longer elect to treat SMSF pension payments as lump sums for tax purposes. This election has been removed for everyone who is receiving a super income stream."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ending an income stream (pension)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The most common circumstances for a pension ending are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the pension capital is exhausted",
+        "the member dies",
+        "failing to meet the minimum pension standards",
+        "the pension is fully commuted to a lump sum."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You are required to report the amount to us through a TBAR if you end an income stream due to either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "failing to meet the minimum pension standards",
+        "commuting an amount to a lump sum."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pension capital is exhausted"
+    },
+    {
+      "type": "paragraph",
+      "text": "A super income stream ends when both the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "capital supporting the pension has been reduced to zero",
+        "member's right to have any other amounts applied (other than by way of contribution or rollover) to their super interest has been exhausted."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For an account-based pension, the pension ends when the money funding the pension has run out."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Death benefit income streams (pensions)"
+    },
+    {
+      "type": "paragraph",
+      "text": "As soon as a member receiving a pension dies, the pension ends. This is unless a dependent beneficiary is automatically entitled to a reversionary pension."
+    },
+    {
+      "type": "paragraph",
+      "text": "A reversionary pension is when a super income stream (pension) automatically transfers to a nominated beneficiary on the death of its current recipient (the SMSF member)."
+    },
+    {
+      "type": "paragraph",
+      "text": "When a member who was receiving a non-reversionary super income stream that was in the retirement phase dies:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The fund will continue to be entitled to claim ECPI in the period from the member’s death. This is until their benefits are applied to start a new super income stream or paid as a lump sum (subject to the benefits being cashed as soon as practicable).",
+        "An alternative treatment will apply to determine the tax-free and taxable components of a death benefit lump sum or a death benefit superannuation income stream that started from the deceased's super interest. The superannuation death benefit lump sum or superannuation income stream benefit will generally have the same proportions of tax-free and taxable components as the superannuation income stream benefits that were paid to the deceased before their death."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Further information about what trustees need to do when a member dies can be found at Death of an SMSF member ."
+    }
+  ],
+  "content_text": "## About income streams (pensions)\nA super income stream is an income stream that's a pension according to the Superannuation Industry (Supervision) Regulations 1994 (SISR) .\nWe use the term:\n- pension – when referring to the operation of the Superannuation Industry (Supervision) Act 1993 (SISA) or SISR\n- super income stream – when referring to the operation of the income tax laws.\nAn income stream can't be a pension in accordance with the regulations, unless it meets 2 fundamental requirements:\n- payment occurs at least annually\n- a minimum amount is paid to the member each year (for an account-based pension).\nA super income stream exists when all of the following apply:\n- a member is entitled to a series of payments that relate to each other\n- the payments are periodic, whether paid annually or more frequently\n- the payments are made over an identifiable period of time\n- the pension standards of the SISR have been met.\nA liability to make a single payment for one year is not a series of payments and won't satisfy the requirements of being a super income stream.\nAn income stream is a series of periodic benefit payments to a member. Income streams from a self-managed super fund (SMSF) are usually account-based. This means the amount supporting the pension is allocated to a separate member's account.\n## Minimum pension standards\nAs an SMSF trustee, you may need to amend your fund trust deed so that it meets the minimum pension standards. For more information on how to do this, talk to your legal adviser.\nAll pensions that start from 20 September 2007 must meet the minimum pension standards.\nSuper income streams that SMSFs pay must be pensions that meet all the following minimum standards:\n- The pension must be account-based, except in limited circumstances.\n- You must pay a minimum amount at least once a year - from 1 July 2017, partial commutation payments don't count towards minimum annual pension payments.\n- Once the pension has started, you can't increase the capital supporting the pension using contributions or rollover amounts.\n- When a member dies, their pension can only be transferred to a dependant beneficiary of that member.\n- You can't use the capital value of the pension or the income from it as security for borrowing.\n- Before you can fully commute a pension, you must pay a minimum amount except in limited circumstances.\n- Before you partially commute a pension, you must make sure there are sufficient assets to pay the minimum amount.\nPension payments from pensions that meet the minimum standards will be treated as super income stream benefits for income tax purposes. This means the fund may be able to claim an exemption for the income earned on pension assets, called exempt current pension income (ECPI).\nIncome streams started before 1 July 2007, such as market linked pensions, that complied with the rules applicable at the time:\n- are considered to meet the new requirements\n- must continue to be paid under the former rules.\n### Transition to retirement income streams\nTransition to retirement account-based income streams must meet the same standards as account-based pensions.\nAdditionally, there is a maximum annual payment limit of 10% of the account balance. This is unless the member has met a condition of release with no cashing restrictions.\nWhen a fund exceeds the maximum annual payment limit for a transition to retirement income stream (TRIS) in a financial year, the super income stream is considered to have stopped at the start of that year for income tax purposes.\nThese income streams can only be commuted to a lump sum in limited circumstances.\n### Minimum pension payment requirements\nThe SMSF must pay a minimum amount each year to a member from their pension account. The minimum amount that must be paid depends on several factors, including:\n- the recipient's age\n- their account balance\n- the start date of the pension.\nWhere a member receiving a reversionary pension dies, the minimum pension payment must still be made for that year.\nWhen a member receiving a non-reversionary account-based pension dies, we won't require a minimum pension payment to be made in the year of death. If the deceased member’s benefits are later used to start a new pension to a beneficiary, you must ensure the new minimum annual pension amount is paid in the relevant year.\nFurther information can be found in Taxation Ruling TR 2013/5 Income tax: when a superannuation income stream commences and ceases.\nPension payments for the 2019–20 financial year above the reduced minimum withdrawal rate, paid before 25 March 2020, can't be re-categorised as a lump sum or commutation. This is even if a valid minute or election from the member was in place before the government announced the reduction.\n### How to calculate the minimum annual payment\nThe minimum annual payment amount is worked out by multiplying the member’s pension account balance by a percentage factor. The amount is rounded to the nearest 10 whole dollars. If the amount ends in exactly 5 dollars, it is rounded up to the next 10 whole dollars.\nAccount balance means one of the following:\n- pension account balance on 1 July in the financial year in which the payment is made\n- balance on the pension start day if the pension started during the financial year\n- amount of the withdrawal benefit, if the amount of the pension account balance is less than the withdrawal benefit that the member would be entitled to if the pension were to be fully commuted.\nWhen the pension starts after 1 July, the minimum payment amount for the first year is calculated proportionately to the number of days remaining in the financial year, starting from the pension start day.\nTo calculate the minimum payment amount, multiply the minimum annual payment amount by the remaining number of days in the financial year and divide by 365 (or 366 in a leap year). That is:\nMinimum payment amount = minimum annual payment amount × (remaining number of days ÷ 365 (or 366))\nIf the pension starts from 1 June in a financial year, no minimum payment is required for that financial year.\nIn response to global conditions, pension drawdown relief was provided during the following income years:\n- 2008–09\n- 2009–10\n- 2010–11\n- 2011–12\n- 2012–13\n- 2019–20\n- 2020–21\n- 2021–22\n- 2022–23.\nThe minimum payment amount returned to normal:\n- for 2013–14 up to and including 2018–19 income years\n- from the 2023–24 income year and onwards.\nUse the following tables to find the relevant percentage factor based on the member’s age. The member's age is determined at either:\n- 1 July in the financial year in which the payment is made\n- the start day of the pension, if that is the year in which it starts.\nAge | 2007–08 income year | 2008–09 to 2010–11 income years (inclusive) | 2011–12 and 2012–13 income years (inclusive)\nUnder 65 | 4.0% | 2.0% | 3.0%\n65–74 | 5.0% | 2.5% | 3.75%\n75–79 | 6.0% | 3.0% | 4.5%\n80–84 | 7.0% | 3.5% | 5.25%\n85–89 | 9.0% | 4.5% | 6.75%\n90–94 | 11.0% | 5.5% | 8.25%\n95 or more | 14.0% | 7.0% | 10.5%\nAge | 2013–14 to 2018–19 income years (inclusive) | 2019–20 to 2022–23 income years (inclusive) | 2023–24 onwards\nUnder 65 | 4.0% | 2.0% | 4.0%\n65–74 | 5.0% | 2.5% | 5.0%\n75–79 | 6.0% | 3.0% | 6.0%\n80–84 | 7.0% | 3.5% | 7.0%\n85–89 | 9.0% | 4.5% | 9.0%\n90–94 | 11.0% | 5.5% | 11.0%\n95 or more | 14.0% | 7.0% | 14.0%\n#### Example: pension starts after 1 July\nThavi starts an account-based pension on 1 January 2023 at age 66. His pension account balance on the start day is $250,000.\nThe minimum annual payment amount would be $6,250 (2.5% of $250,000). However, as the pension started on 1 January 2023, the required minimum amount is calculated proportionately from the start day to the end of the financial year. This is calculated as:\n$6,250 (minimum annual payment amount)\n× 181 (days remaining in the year)\n÷ 365 (2023 is not a leap year)\n= $3,099.\n$3,099 rounded up to the nearest 10 whole dollars so the minimum payment required for 2022–23 is $3,100.\n### Timing of income stream (pension) payments\nTo ensure minimum pension standards are met, it is important you, as fund trustee, consider the time a member’s benefit is cashed (paid).\nGenerally, a benefit is cashed when both the:\n- member receives the payment\n- member’s benefits in the SMSF are reduced.\nIf the end of the financial year falls on a weekend or public holiday, you must ensure all pension payments are made before 30 June. The benefit payment must be recorded as debited from the SMSF's bank account and credited into the member's account.\nBenefits can only be cashed with:\n- a cheque honoured with an actual payment of money, or\n- a transfer of benefits from the fund.\nA member is considered to have received the benefit when:\n- for cash payments: the member receives the cash\n- for electronic funds transfer: the funds are credited to the member's account\n- for cheque: the member receives the cheque (as long as it is presented promptly and is honoured).\nTaxation Ruling TR 2010/1 Income tax: superannuation contributions further outlines our view on how and when a contribution is made. This view is equally relevant when considering how and when a benefit payment is made from an SMSF.\n## When minimum pension standards aren't met\nFailing to meet the minimum pension standards means:\n- the super income stream will be taken to have ceased at the start of the income year for income tax purposes\n- the payments for the income year and subsequent income years won't be treated as super income stream benefits\n- the fund won't be able to claim ECPI for the income year or subsequent income years\n- there will be transfer balance account consequences, including that the credit that arose when the member started the super income stream remains in the individual's transfer balance account trustee must report to us, on a transfer balance account report ( TBAR ), the date that the super income stream stops being in the retirement phase.\nFor the member to receive a super income stream for income tax purposes in future years, the income stream must cease (for example by commutation) and a new super income stream start.\nThe trustee must:\n- revalue assets at market value and recalculate the minimum pension payment required at the start of the new super income stream\n- calculate the tax-free and taxable components of the new super income stream\n- report the new super income stream on a TBAR.\nThere are limited circumstances where the Commissioner of Taxation's general administrative powers may allow a pension to continue even though the minimum pension standards have not been met.\nFurther information about the tax effects of withdrawing your super is available at Tax on super benefits .\n## Record keeping for pensions\nYou must keep appropriate records while running an account-based pension. These include:\n- the date the member requested to start a pension and the condition of release was met\n- the value of the pension at start date\n- the taxable and tax-free components of the pension at start date\n- the earnings from assets set aside to support the pension\n- the pension payments made\n- the account the payment was paid from\n- any commutations to lump sums made from the pension account, ensuring you document these at the time the payment is requested record these in trustee minutes.\nEach commutation will need to be reported to us as a transfer balance cap event on a TBAR. This may mean more events to report 28 days after the end of the quarter in which they happened.\nWhen one or more of your members is being paid a pension that started between 1 July 2007 and 19 September 2007, you also need to keep a record of their election to be paid a pension (under either the current or the former standards).\n## Before starting an income stream (pension)\nBefore starting a pension, you must determine the market value of the assets supporting the pension on the start day of the pension. The valuation must be based on objective and supportable data. This is similar to valuing assets for the purpose of financial reports.\nA reasonable estimate of the value of the account balance can be used when a pension is started part way through the year.\n## Starting an income stream (pension)\nOnce a super income stream starts, you're required to:\n- treat the amount supporting the income stream as a separate interest\n- determine the value of the separate interest, including the amount of its tax-free and taxable components.\nThe proportions of the tax components of this separate interest will be the same proportions of the member’s original non-pension interest just prior to the start of the income stream. This is called the proportioning rule. The proportioning rule prevents members from selecting which tax components their super income stream will be paid from.\nThe SMSF is required to report the value on the start day of the super income stream in the TBAR .\nFurther information can be found on when to lodge a transfer balance account report for SMSFs .\n### Super income stream (pension) start day\nA pension's start day is the first day of the payment period. For example, if a pension is paid fortnightly, it will start on day 1 of the 14-day payment period. Funds generally determine the frequency of payments.\n#### Pensions started before 1 July 2007\nThe SMSF must continue to pay pensions under the previous pension payment standards unless the pension is an allocated pension. For allocated pensions, the SMSF can choose to start paying under the minimum standards any time after 1 July 2007 without having to commute and start a new pension, provided this is permitted by the rules of your fund.\nComplying super pensions include:\n- market-linked pensions\n- lifetime pensions\n- life expectancy pensions\n- a TRIS.\nFrom 7 December 2024, a 5 year exemption period allows members to commute in full specific legacy retirement products. This doesn't include TRIS.\nOnce commuted in full, the entitlement can be used to start an account-based income stream that will be required to meet the new pension rules.\nAfter the 5 year exemption period has finished, any remaining pensions can't be commuted to start another pension to adopt the new pension rules.\nFurther information on the 5 year exemption period can be found on Relaxed commutation rules for legacy retirement products .\nThere will still be an exception for existing, complying pensions that were commuted from 20 September 2007 in order to purchase a market-linked pension. In these circumstances, the new minimum pension standards will apply to the new market-linked pension, in addition to the rules that normally apply to market-linked pensions.\n#### Pensions started between 1 July and 19 September 2007\nPensions may be paid under the previous or the new pension rules, provided this is permitted by the rules of your fund.\n## Electing to treat a pension payment as a lump sum\nFrom 1 July 2017, members can no longer elect to treat SMSF pension payments as lump sums for tax purposes. This election has been removed for everyone who is receiving a super income stream.\n## Ending an income stream (pension)\nThe most common circumstances for a pension ending are:\n- the pension capital is exhausted\n- the member dies\n- failing to meet the minimum pension standards\n- the pension is fully commuted to a lump sum.\nYou are required to report the amount to us through a TBAR if you end an income stream due to either:\n- failing to meet the minimum pension standards\n- commuting an amount to a lump sum.\n### Pension capital is exhausted\nA super income stream ends when both the:\n- capital supporting the pension has been reduced to zero\n- member's right to have any other amounts applied (other than by way of contribution or rollover) to their super interest has been exhausted.\nFor an account-based pension, the pension ends when the money funding the pension has run out.\n### Death benefit income streams (pensions)\nAs soon as a member receiving a pension dies, the pension ends. This is unless a dependent beneficiary is automatically entitled to a reversionary pension.\nA reversionary pension is when a super income stream (pension) automatically transfers to a nominated beneficiary on the death of its current recipient (the SMSF member).\nWhen a member who was receiving a non-reversionary super income stream that was in the retirement phase dies:\n- The fund will continue to be entitled to claim ECPI in the period from the member’s death. This is until their benefits are applied to start a new super income stream or paid as a lump sum (subject to the benefits being cashed as soon as practicable).\n- An alternative treatment will apply to determine the tax-free and taxable components of a death benefit lump sum or a death benefit superannuation income stream that started from the deceased's super interest. The superannuation death benefit lump sum or superannuation income stream benefit will generally have the same proportions of tax-free and taxable components as the superannuation income stream benefits that were paid to the deceased before their death.\nFurther information about what trustees need to do when a member dies can be found at Death of an SMSF member .",
+  "child_links": [
+    {
+      "title": "Commutations for SMSFs",
+      "description": "How to action a partial or full commutation request and related tax consequences.",
+      "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/paying-smsf-benefits/income-stream-pension-rules-and-payments/commutations-for-smsfs"
+    },
+    {
+      "title": "Transition to retirement income streams (TRIS)",
+      "description": "Revised TRIS requirements a trustee must know for starting, paying, commuting and ending this type of pension.",
+      "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/paying-smsf-benefits/income-stream-pension-rules-and-payments/transition-to-retirement-income-streams"
+    },
+    {
+      "title": "Exception to minimum pension payment requirements",
+      "description": "The required conditions for us to consider allowing a pension to continue when it hasn't met minimum pension payments.",
+      "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/paying-smsf-benefits/income-stream-pension-rules-and-payments/exception-to-minimum-pension-payment-requirements"
+    }
+  ],
+  "word_count": 2963,
+  "source_title": "Income stream (pension) rules and payments | Australian T...",
+  "source_description": "SMSF requirements for paying income stream (pension) benefits to members once members have met a condition of release.",
+  "category": "super-for-individuals-and-families"
+}

@@ -1,0 +1,344 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/income/other-income/other-income-not-listed-above",
+  "title": "myTax 2018 Other income",
+  "description": "How to report other types of income in your return using myTax.",
+  "nat_number": "",
+  "quick_code": "55659",
+  "date_updated": "2018-06-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "2018, myTax, e-tax, online tax return, other income, income, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Complete this section if you have any other income that you have not been able to show anywhere on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any other income includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an amount released by one or more of your superannuation funds greater than the liability stated on a release authority",
+        "jury attendance fees",
+        "foreign exchange gains",
+        "royalties",
+        "bonus amounts distributed from friendly society income bonds",
+        "taxable scholarships, bursaries, grants or other educational awards",
+        "benefits or prizes from investment-related lotteries and some game-show winnings",
+        "income from activities as a special professional (author of a literary, dramatic, musical or artistic work, inventor, performing artist, production associate or active sportsperson) amounts you have already included elsewhere, may also have to be shown here as you may be entitled to a concessional rate of tax if you have certain amounts of professional income; you will not be taxed twice on these amounts",
+        "reimbursements of tax-related expenses (not including ATO interest remitted) or election expenses which you have claimed as a deduction",
+        "ATO interest remitted",
+        "any assessable balancing adjustment when you stop holding a depreciating asset (for example, because of its disposal, loss or destruction) for which you have claimed a deduction for depreciation or decline in value in previous years; your car is a depreciating asset",
+        "payments made to you under an income protection, sickness or accident insurance policy where the premiums were deductible and the payments replaced income; do not include payments you've already shown at Salary, wages, allowances, tips, bonuses etc in the Payment summaries section",
+        "interest from infrastructure borrowings if you intend to claim a tax offset at Other non-refundable tax offsets",
+        "gains derived on disposal or redemption of traditional securities that are assessable under section 26BB of the Income Tax Assessment Act 1936",
+        "allowances or payments you received as a member of a local government council that you have not shown at Salary, wages, allowances, tips, bonuses etc in the Payment summaries section",
+        "work-in-progress amounts assessable under section 15-50 of the Income Tax Assessment Act 1997 that you received and have not included at Business income or losses ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see You need to know ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Amounts that you do not need to include in your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "You might have received amounts that you do not need to include as income in your tax return. For more information, see Amounts that you do not pay tax on ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Do not show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show the following amounts at this section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "lump sum payments in arrears. Show these at: Salary, wages, allowances, tips, bonuses etc , or Foreign employment income (on a payment summary) in the Payment summaries section, or Foreign pensions and annuities or Foreign employment income (not on a payment summary) in the Foreign income, assets and entities section.",
+        "other taxable allowances or payments you received from Services Australia. Show these at Australian Government special payments in the Payment summaries section. Other taxable allowances or payments include: activity supplement or farm financial assessment supplement that are paid under the farm household allowance program Business Services Wage Assessment Tool (BSWAT) lump sum payment in arrears Australian Government emergency payments.",
+        "foreign exchange losses. Show these at Other foreign income in the Foreign income, assets and entities section",
+        "rental income or losses. Show these in the Rent section",
+        "business income or losses. Show these at Business income or losses in the Business/sole trader, partnership and trust income (including loss details) section",
+        "partnership income or losses. Show these at Partnerships in the Business/sole trader, partnership and trust income (including loss details) section",
+        "capital gains or capital losses. Show these in the Capital gains or losses section",
+        "discounts on shares, stapled securities (provided at least one of the stapled interests is a share in a company) or rights to acquire shares or such stapled securities, acquired under an employee share scheme. Show these at Employee share schemes in the Other income section"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you can't see these sections, use the Personalise return screen to select those sections that apply to you. For further help with personalising your return, see How to personalise your return ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Depreciation and capital allowances tool"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use the Depreciation and capital allowances tool to work out any assessable balancing adjustment when you stop holding a depreciating asset. To access the tool, select Work it out in the Deductions section on the Prepare return screen."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with ATO interest remitted by us. Check for other income amounts you received that are not pre-filled and ensure you add them."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each type of other income, select Add .",
+        "Select the Type of payment and enter information into the corresponding fields. MyTax will permit only one Type of payment of Special professional income . Select Save .",
+        "Select Save and continue ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Other income shown at this section where the Type of payment is Financial investments not shown elsewhere , Other or Special professional income , is used in working out whether you have to pay PAYG instalments and, if so, your instalment rate.",
+        "If you used the Depreciation and capital allowances tool, fields containing information from the tool cannot be directly adjusted in myTax. To make any adjustments to this information, or to add new assets to the tool, select Work it out ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have income not listed here that you are unsure about, search our website or phone 13 28 61 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "An amount released by one or more of your superannuation funds which is greater than the liability stated on a release authority"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you use a release authority that we give you to withdraw an amount from your superannuation fund, the payment is tax-free unless you withdraw an amount greater than the liability printed on the release authority."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must include the excess of the total amount released to you over the liability printed on the release authority in your assessable income for the income year in which you withdrew the money."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Super contributions - too much can mean extra tax"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Jury attendance fees"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include any jury attendance fees you received here. Do not include attendance fees if you had to pay the fees to your employer because you received your normal income while on jury duty. Do not include anywhere on your tax return travel and meal allowances that were included in the jury fees."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Foreign exchange gains"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unless you carried on a business and have included all your foreign exchange gains (forex gains) in calculating your business net income or loss at Business income or losses , your forex gains must be shown at this section (except any foreign source forex gains that you have included at Other foreign income )."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the forex measures, gains attributable to a fluctuation in a currency exchange rate or to an agreed exchange rate differing from an actual exchange rate are included in assessable income. The gains are assessable when they are realised. This is when:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you dispose of foreign currency or a right thereto",
+        "you cease to have a right to receive or pay foreign currency, or",
+        "you cease to have an obligation to pay or receive foreign currency."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Some forex gains are not assessable, and in some circumstances, you might make an election that affects the realisation or treatment of a forex gain. These are set out at Foreign exchange gains and losses together with more information about the forex measures and how to calculate your foreign exchange gains."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a deductible foreign exchange loss, see Other deductions ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Royalties"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were an Australian resident for tax purposes in 2017–18, include at this section income from royalties that has not been included at either Business income or losses or Other foreign income ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bonus amounts distributed from friendly society income bonds"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must include at this section any bonus amounts distributed from a friendly society income bond. Your friendly society income bond distribution statement will advise you of the amount to include."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Taxable scholarships, bursaries, grants and other educational awards"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include at this section any income from a scholarship, bursary, grant or other award, on which you have to pay tax, unless you have already shown it:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "at Salary, wages, allowances, tips, bonuses etc , or",
+        "in calculating your business net income or loss shown at Business income or losses ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are not sure about a payment, contact the organisation that paid you. If you then need more information, phone 13 28 61 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a taxable scholarship you may be able to claim the self-education expenses you incurred in meeting the study requirements of the scholarship. For more information, see Other deductions ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Benefits or prizes from investment-related lotteries and some game-show winnings"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must include at this section the value of benefits or prizes you received from an investment-related lottery offered by an investment body such as a bank, building society or credit union. Prizes can include cash, low-interest or interest-free loans, holidays or cars."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include prizes won in ordinary lotteries, for example, lotto draws, caskets and raffles. Do not include prizes won in game shows unless you regularly receive appearance fees or game-show winnings."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Income from activities as a special professional"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a special professional, you must include your taxable professional income at this section."
+    },
+    {
+      "type": "paragraph",
+      "text": "A special professional is an author of a literary, dramatic, musical or artistic work, an inventor, a performing artist, a production associate or an active sportsperson. As a special professional, you may be entitled to a concessional rate of tax where your taxable income includes certain amounts of professional income which, when added to your other income, moves you into a higher tax bracket."
+    },
+    {
+      "type": "paragraph",
+      "text": "You are entitled to this concession in 2017–18 if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were an Australian resident",
+        "you were a special professional, and",
+        "your taxable professional income was more than $2,500 in the first year that this concession applied."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your taxable professional income, see Income averaging for special professionals ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Reimbursements and recoupments of tax-related expenses (not including ATO interest remitted) or election expenses which you have claimed as a deduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a reimbursement or refund in 2017–18 of any tax-related expenses (not including ATO interest remitted) or election expenses which you have claimed, you must include the amount at this section."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must also include at this section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "any remissions of goods and services tax (GST)",
+        "pay as you go (PAYG) instalment underestimation charge."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "ATO interest remitted"
+    },
+    {
+      "type": "paragraph",
+      "text": "This applies to any remission of an ATO interest or underestimation charge. If you claimed or can claim a deduction for an interest or underestimation charge incurred in 2016–17 or earlier years and received a remission (a partial or full reduction) of that charge in 2017–18, you must include the amount of the remission at this section. Similarly, if you are claiming at Cost of managing tax affairs a deduction for an interest charge incurred during 2017–18, and some or all of it was remitted during 2017–18, you must include the amount of the remission at this section."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see ATO interest - calculation and reporting ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Assessable balancing adjustment"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must include at this section any assessable balancing adjustment when you stop holding a depreciating asset (for example, when it is sold, lost or destroyed) for which you have claimed a deduction for depreciation or decline in value in previous years. You may be entitled to a deduction if an employee or agent misappropriates some or all of the amount that you received, or were entitled to receive, as a result of you no longer holding the depreciating asset."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Guide to depreciating assets ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Gains derived on disposal or redemption of traditional securities"
+    },
+    {
+      "type": "paragraph",
+      "text": "The gains derived on disposal or redemption of traditional securities are assessable under section 26BB of the Income Tax Assessment Act 1936 (ITAA 1936)."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also 'Sale or disposal of company bonds and convertible notes' in You and your shares ."
+    }
+  ],
+  "content_text": "Complete this section if you have any other income that you have not been able to show anywhere on your tax return.\nAny other income includes:\n- an amount released by one or more of your superannuation funds greater than the liability stated on a release authority\n- jury attendance fees\n- foreign exchange gains\n- royalties\n- bonus amounts distributed from friendly society income bonds\n- taxable scholarships, bursaries, grants or other educational awards\n- benefits or prizes from investment-related lotteries and some game-show winnings\n- income from activities as a special professional (author of a literary, dramatic, musical or artistic work, inventor, performing artist, production associate or active sportsperson) amounts you have already included elsewhere, may also have to be shown here as you may be entitled to a concessional rate of tax if you have certain amounts of professional income; you will not be taxed twice on these amounts\n- reimbursements of tax-related expenses (not including ATO interest remitted) or election expenses which you have claimed as a deduction\n- ATO interest remitted\n- any assessable balancing adjustment when you stop holding a depreciating asset (for example, because of its disposal, loss or destruction) for which you have claimed a deduction for depreciation or decline in value in previous years; your car is a depreciating asset\n- payments made to you under an income protection, sickness or accident insurance policy where the premiums were deductible and the payments replaced income; do not include payments you've already shown at Salary, wages, allowances, tips, bonuses etc in the Payment summaries section\n- interest from infrastructure borrowings if you intend to claim a tax offset at Other non-refundable tax offsets\n- gains derived on disposal or redemption of traditional securities that are assessable under section 26BB of the Income Tax Assessment Act 1936\n- allowances or payments you received as a member of a local government council that you have not shown at Salary, wages, allowances, tips, bonuses etc in the Payment summaries section\n- work-in-progress amounts assessable under section 15-50 of the Income Tax Assessment Act 1997 that you received and have not included at Business income or losses .\nFor more information, see You need to know .\nAmounts that you do not need to include in your tax return\nYou might have received amounts that you do not need to include as income in your tax return. For more information, see Amounts that you do not pay tax on .\n## Do not show at this section\nDo not show the following amounts at this section:\n- lump sum payments in arrears. Show these at: Salary, wages, allowances, tips, bonuses etc , or Foreign employment income (on a payment summary) in the Payment summaries section, or Foreign pensions and annuities or Foreign employment income (not on a payment summary) in the Foreign income, assets and entities section.\n- other taxable allowances or payments you received from Services Australia. Show these at Australian Government special payments in the Payment summaries section. Other taxable allowances or payments include: activity supplement or farm financial assessment supplement that are paid under the farm household allowance program Business Services Wage Assessment Tool (BSWAT) lump sum payment in arrears Australian Government emergency payments.\n- foreign exchange losses. Show these at Other foreign income in the Foreign income, assets and entities section\n- rental income or losses. Show these in the Rent section\n- business income or losses. Show these at Business income or losses in the Business/sole trader, partnership and trust income (including loss details) section\n- partnership income or losses. Show these at Partnerships in the Business/sole trader, partnership and trust income (including loss details) section\n- capital gains or capital losses. Show these in the Capital gains or losses section\n- discounts on shares, stapled securities (provided at least one of the stapled interests is a share in a company) or rights to acquire shares or such stapled securities, acquired under an employee share scheme. Show these at Employee share schemes in the Other income section\nIf you can't see these sections, use the Personalise return screen to select those sections that apply to you. For further help with personalising your return, see How to personalise your return .\n## Depreciation and capital allowances tool\nYou can use the Depreciation and capital allowances tool to work out any assessable balancing adjustment when you stop holding a depreciating asset. To access the tool, select Work it out in the Deductions section on the Prepare return screen.\n## Completing this section\nWe have pre-filled your tax return with ATO interest remitted by us. Check for other income amounts you received that are not pre-filled and ensure you add them.\n- For each type of other income, select Add .\n- Select the Type of payment and enter information into the corresponding fields. MyTax will permit only one Type of payment of Special professional income . Select Save .\n- Select Save and continue .\nNotes:\n- Other income shown at this section where the Type of payment is Financial investments not shown elsewhere , Other or Special professional income , is used in working out whether you have to pay PAYG instalments and, if so, your instalment rate.\n- If you used the Depreciation and capital allowances tool, fields containing information from the tool cannot be directly adjusted in myTax. To make any adjustments to this information, or to add new assets to the tool, select Work it out .\n## You need to know\nIf you have income not listed here that you are unsure about, search our website or phone 13 28 61 .\n### An amount released by one or more of your superannuation funds which is greater than the liability stated on a release authority\nIf you use a release authority that we give you to withdraw an amount from your superannuation fund, the payment is tax-free unless you withdraw an amount greater than the liability printed on the release authority.\nYou must include the excess of the total amount released to you over the liability printed on the release authority in your assessable income for the income year in which you withdrew the money.\nSee also\n- Super contributions - too much can mean extra tax\n### Jury attendance fees\nInclude any jury attendance fees you received here. Do not include attendance fees if you had to pay the fees to your employer because you received your normal income while on jury duty. Do not include anywhere on your tax return travel and meal allowances that were included in the jury fees.\n### Foreign exchange gains\nUnless you carried on a business and have included all your foreign exchange gains (forex gains) in calculating your business net income or loss at Business income or losses , your forex gains must be shown at this section (except any foreign source forex gains that you have included at Other foreign income ).\nUnder the forex measures, gains attributable to a fluctuation in a currency exchange rate or to an agreed exchange rate differing from an actual exchange rate are included in assessable income. The gains are assessable when they are realised. This is when:\n- you dispose of foreign currency or a right thereto\n- you cease to have a right to receive or pay foreign currency, or\n- you cease to have an obligation to pay or receive foreign currency.\nSome forex gains are not assessable, and in some circumstances, you might make an election that affects the realisation or treatment of a forex gain. These are set out at Foreign exchange gains and losses together with more information about the forex measures and how to calculate your foreign exchange gains.\nIf you had a deductible foreign exchange loss, see Other deductions .\n### Royalties\nIf you were an Australian resident for tax purposes in 2017–18, include at this section income from royalties that has not been included at either Business income or losses or Other foreign income .\n### Bonus amounts distributed from friendly society income bonds\nYou must include at this section any bonus amounts distributed from a friendly society income bond. Your friendly society income bond distribution statement will advise you of the amount to include.\n### Taxable scholarships, bursaries, grants and other educational awards\nInclude at this section any income from a scholarship, bursary, grant or other award, on which you have to pay tax, unless you have already shown it:\n- at Salary, wages, allowances, tips, bonuses etc , or\n- in calculating your business net income or loss shown at Business income or losses .\nIf you are not sure about a payment, contact the organisation that paid you. If you then need more information, phone 13 28 61 .\nIf you received a taxable scholarship you may be able to claim the self-education expenses you incurred in meeting the study requirements of the scholarship. For more information, see Other deductions .\n### Benefits or prizes from investment-related lotteries and some game-show winnings\nYou must include at this section the value of benefits or prizes you received from an investment-related lottery offered by an investment body such as a bank, building society or credit union. Prizes can include cash, low-interest or interest-free loans, holidays or cars.\nDo not include prizes won in ordinary lotteries, for example, lotto draws, caskets and raffles. Do not include prizes won in game shows unless you regularly receive appearance fees or game-show winnings.\n### Income from activities as a special professional\nIf you are a special professional, you must include your taxable professional income at this section.\nA special professional is an author of a literary, dramatic, musical or artistic work, an inventor, a performing artist, a production associate or an active sportsperson. As a special professional, you may be entitled to a concessional rate of tax where your taxable income includes certain amounts of professional income which, when added to your other income, moves you into a higher tax bracket.\nYou are entitled to this concession in 2017–18 if:\n- you were an Australian resident\n- you were a special professional, and\n- your taxable professional income was more than $2,500 in the first year that this concession applied.\nTo work out your taxable professional income, see Income averaging for special professionals .\n### Reimbursements and recoupments of tax-related expenses (not including ATO interest remitted) or election expenses which you have claimed as a deduction\nIf you received a reimbursement or refund in 2017–18 of any tax-related expenses (not including ATO interest remitted) or election expenses which you have claimed, you must include the amount at this section.\nYou must also include at this section:\n- any remissions of goods and services tax (GST)\n- pay as you go (PAYG) instalment underestimation charge.\n### ATO interest remitted\nThis applies to any remission of an ATO interest or underestimation charge. If you claimed or can claim a deduction for an interest or underestimation charge incurred in 2016–17 or earlier years and received a remission (a partial or full reduction) of that charge in 2017–18, you must include the amount of the remission at this section. Similarly, if you are claiming at Cost of managing tax affairs a deduction for an interest charge incurred during 2017–18, and some or all of it was remitted during 2017–18, you must include the amount of the remission at this section.\nFor more information, see ATO interest - calculation and reporting .\n### Assessable balancing adjustment\nYou must include at this section any assessable balancing adjustment when you stop holding a depreciating asset (for example, when it is sold, lost or destroyed) for which you have claimed a deduction for depreciation or decline in value in previous years. You may be entitled to a deduction if an employee or agent misappropriates some or all of the amount that you received, or were entitled to receive, as a result of you no longer holding the depreciating asset.\nFor more information, see Guide to depreciating assets .\n### Gains derived on disposal or redemption of traditional securities\nThe gains derived on disposal or redemption of traditional securities are assessable under section 26BB of the Income Tax Assessment Act 1936 (ITAA 1936).\nSee also 'Sale or disposal of company bonds and convertible notes' in You and your shares .",
+  "child_links": [],
+  "word_count": 2063,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

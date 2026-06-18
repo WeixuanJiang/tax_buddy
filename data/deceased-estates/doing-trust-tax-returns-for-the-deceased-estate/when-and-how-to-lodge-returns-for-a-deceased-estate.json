@@ -1,0 +1,323 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/deceased-estates/doing-trust-tax-returns-for-the-deceased-estate/when-and-how-to-lodge-returns-for-a-deceased-estate",
+  "title": "When and how to lodge returns for a deceased estate",
+  "description": "Work out if a trust tax return is required, how to get a TFN and ABN, and how to lodge.",
+  "nat_number": "",
+  "quick_code": "40483",
+  "date_updated": "2026-06-03T14:00:00Z",
+  "first_published": "",
+  "keywords": "Tax returns deceased estate, Tax returns for a deceased estate, Deceased estate tax return, Deceased estate trustee, deceased estate trust tax return",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What a trust tax return is for"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are no inheritance taxes in Australia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finalising a deceased estate typically takes 6 to 12 months but can take longer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trust tax returns are used to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "report the income of the estate after the person's death, such as rental income or share dividends",
+        "claim any tax refund or franking credits owed to the estate."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If a return needs to be lodged, the estate is treated as a trust for tax purposes. Trust tax returns may need to be lodged each year until the estate is finalised."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is different to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the date of death tax return , which is for the period before the person died",
+        "tax returns for a testamentary trust , which is a separate trust created under the terms of a will and continues after the deceased estate is finalised."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Who can lodge a trust tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can lodge a trust tax return once you notify us of the person's death and you have been entered on our records as the person who is managing their tax affairs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Usually, the authorised legal personal representative (LPR) lodges trust tax returns for the deceased estate."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are not an authorised LPR, we will assess the lodged tax returns and determine the appropriate treatment within the law and our internal policies."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When a trust tax return is required"
+    },
+    {
+      "type": "paragraph",
+      "text": "For the first 3 income years of a deceased estate, you must lodge a trust tax return if any of the following apply in that year:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the deceased estate's net income is more than the tax-free threshold for individuals",
+        "a beneficiary is presently entitled to any of the estate's income at the end of the income year",
+        "a beneficiary of the estate is not an Australian tax resident ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Contact us to advise if the deceased estate has no more tax returns to lodge after income year 3."
+    },
+    {
+      "type": "paragraph",
+      "text": "For income year 4 and later income years, you must lodge a trust tax return if the deceased estate earns any income (including capital gains)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can lodge a trust tax return even if it is not required. For example, you may wish to lodge a return to claim franking credits on dividends paid to the estate."
+    },
+    {
+      "type": "paragraph",
+      "text": "The first income year of a deceased estate starts the day after the person died and ends on the next 30 June."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: lodging tax returns for a deceased estate"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maree died on 4 March 2026. Her authorised LPR is her son, Zach."
+    },
+    {
+      "type": "paragraph",
+      "text": "Individual tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zach lodges a date of death individual tax return for Maree. This covers Maree's income from 1 July 2025 to 4 March 2026."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deceased estate trust tax returns"
+    },
+    {
+      "type": "paragraph",
+      "text": "For Maree's estate, income year 1 is 5 March 2026 to 30 June 2026. In this income year:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the estate's income is $9,500, which is below the tax-free threshold",
+        "there are no presently entitled beneficiaries or non-resident beneficiaries."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Therefore, Zach does not need to lodge a trust tax return for the estate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Income year 2 is 1 July 2026 to 30 June 2027. In this income year:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the estate's income is $30,000, which is above the tax-free threshold."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Therefore, Zach must lodge a trust tax return for the estate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Income year 3 is 1 July 2027 to 30 June 2028. In this income year:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the estate is finalised, on 31 August 2027",
+        "the estate's income is $5,000, which is below the tax-free threshold",
+        "there are presently entitled beneficiaries at the end of the income year",
+        "there are no non-resident beneficiaries."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Therefore, Zach needs to lodge a trust tax return for the estate as there are presently entitled beneficiaries at the end of the income year. He contacts us to advise that the deceased estate will lodge no further returns."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Getting a TFN and ABN for a deceased estate"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need a trust TFN if you need to lodge a trust tax return for the estate. If the deceased estate is running a business, you will also need an Australian business number (ABN)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If the estate is not running a business"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can apply for the trust TFN online through the Australian Business Register."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alternatively, you can download and complete the paper form: TFN application for a deceased estate ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, the authorised LPR or their appointed representative applies for the trust TFN."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to apply for a trust TFN if there is no authorised LPR, and:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you're managing a small estate",
+        "you want to lodge a trust return to claim franking credits or other low value amounts."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll assess the trust returns to determine the appropriate treatment within the law and our internal policies."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If the estate is running a business"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're the authorised LPR and are continuing the deceased's business in order to finalise the estate, you need to apply for a new ABN as well as a trust TFN. You can't use the business's existing ABN."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can apply for the TFN and ABN at the same time."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the online application you will be asked 'For taxation purposes which type of entity is the applicant?'"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "select Company, Partnership, Trust or other organisation",
+        "select Trust / Deceased estate ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Only the authorised LPR or their appointed representative can apply for the ABN."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lodging a trust tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can lodge a trust tax return for the deceased estate using the paper form Trust tax return . Refer to Appendix 8: Instructions to trustees of deceased estates ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're the authorised LPR of the deceased estate and have appointed a tax agent to help you, the agent can prepare and lodge the return online."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Income to include in a trust tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to include all income the deceased estate has earned since the date of death, including:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "capital gains on the sale or transfer of assets, if this was not done as part of the will or the rules of succession",
+        "super lump sums or employment termination payments."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Capital gains"
+    },
+    {
+      "type": "paragraph",
+      "text": "If an asset passes to a beneficiary of the estate (for example, under the will or rules of succession):"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you don't include the capital gain or loss in the trust tax return",
+        "if the beneficiary is a foreign resident, charity or super fund , you report the capital gain or loss in the deceased's date of death tax return ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you transfer or sell an asset of the estate for any other reason, you need to include any capital gain or loss in the trust tax return. This applies even if the transfer or sale is to a person who is a beneficiary."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the deceased had any unapplied net capital losses when they died, these can't be used to offset against any net capital gains of the deceased estate."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Employment termination payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "The deceased person's employer may pay their estate a death benefit employment termination payment (ETP)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will receive a PAYG payment summary – employment termination payment . It will show the tax-free and taxable components."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ETP is taxed as if it was made directly to the beneficiaries, except that the Medicare levy does not apply."
+    }
+  ],
+  "content_text": "## What a trust tax return is for\nThere are no inheritance taxes in Australia.\nFinalising a deceased estate typically takes 6 to 12 months but can take longer.\nTrust tax returns are used to:\n- report the income of the estate after the person's death, such as rental income or share dividends\n- claim any tax refund or franking credits owed to the estate.\nIf a return needs to be lodged, the estate is treated as a trust for tax purposes. Trust tax returns may need to be lodged each year until the estate is finalised.\nThis is different to:\n- the date of death tax return , which is for the period before the person died\n- tax returns for a testamentary trust , which is a separate trust created under the terms of a will and continues after the deceased estate is finalised.\n## Who can lodge a trust tax return\nYou can lodge a trust tax return once you notify us of the person's death and you have been entered on our records as the person who is managing their tax affairs.\nUsually, the authorised legal personal representative (LPR) lodges trust tax returns for the deceased estate.\nIf you are not an authorised LPR, we will assess the lodged tax returns and determine the appropriate treatment within the law and our internal policies.\n## When a trust tax return is required\nFor the first 3 income years of a deceased estate, you must lodge a trust tax return if any of the following apply in that year:\n- the deceased estate's net income is more than the tax-free threshold for individuals\n- a beneficiary is presently entitled to any of the estate's income at the end of the income year\n- a beneficiary of the estate is not an Australian tax resident .\nContact us to advise if the deceased estate has no more tax returns to lodge after income year 3.\nFor income year 4 and later income years, you must lodge a trust tax return if the deceased estate earns any income (including capital gains).\nYou can lodge a trust tax return even if it is not required. For example, you may wish to lodge a return to claim franking credits on dividends paid to the estate.\nThe first income year of a deceased estate starts the day after the person died and ends on the next 30 June.\n### Example: lodging tax returns for a deceased estate\nMaree died on 4 March 2026. Her authorised LPR is her son, Zach.\nIndividual tax return\nZach lodges a date of death individual tax return for Maree. This covers Maree's income from 1 July 2025 to 4 March 2026.\nDeceased estate trust tax returns\nFor Maree's estate, income year 1 is 5 March 2026 to 30 June 2026. In this income year:\n- the estate's income is $9,500, which is below the tax-free threshold\n- there are no presently entitled beneficiaries or non-resident beneficiaries.\nTherefore, Zach does not need to lodge a trust tax return for the estate.\nIncome year 2 is 1 July 2026 to 30 June 2027. In this income year:\n- the estate's income is $30,000, which is above the tax-free threshold.\nTherefore, Zach must lodge a trust tax return for the estate.\nIncome year 3 is 1 July 2027 to 30 June 2028. In this income year:\n- the estate is finalised, on 31 August 2027\n- the estate's income is $5,000, which is below the tax-free threshold\n- there are presently entitled beneficiaries at the end of the income year\n- there are no non-resident beneficiaries.\nTherefore, Zach needs to lodge a trust tax return for the estate as there are presently entitled beneficiaries at the end of the income year. He contacts us to advise that the deceased estate will lodge no further returns.\n## Getting a TFN and ABN for a deceased estate\nYou will need a trust TFN if you need to lodge a trust tax return for the estate. If the deceased estate is running a business, you will also need an Australian business number (ABN).\n### If the estate is not running a business\nYou can apply for the trust TFN online through the Australian Business Register.\nAlternatively, you can download and complete the paper form: TFN application for a deceased estate .\nGenerally, the authorised LPR or their appointed representative applies for the trust TFN.\nYou will need to apply for a trust TFN if there is no authorised LPR, and:\n- you're managing a small estate\n- you want to lodge a trust return to claim franking credits or other low value amounts.\nWe'll assess the trust returns to determine the appropriate treatment within the law and our internal policies.\n### If the estate is running a business\nIf you're the authorised LPR and are continuing the deceased's business in order to finalise the estate, you need to apply for a new ABN as well as a trust TFN. You can't use the business's existing ABN.\nYou can apply for the TFN and ABN at the same time.\nIn the online application you will be asked 'For taxation purposes which type of entity is the applicant?'\n- select Company, Partnership, Trust or other organisation\n- select Trust / Deceased estate .\nOnly the authorised LPR or their appointed representative can apply for the ABN.\n## Lodging a trust tax return\nYou can lodge a trust tax return for the deceased estate using the paper form Trust tax return . Refer to Appendix 8: Instructions to trustees of deceased estates .\nIf you're the authorised LPR of the deceased estate and have appointed a tax agent to help you, the agent can prepare and lodge the return online.\n## Income to include in a trust tax return\nYou need to include all income the deceased estate has earned since the date of death, including:\n- capital gains on the sale or transfer of assets, if this was not done as part of the will or the rules of succession\n- super lump sums or employment termination payments.\n### Capital gains\nIf an asset passes to a beneficiary of the estate (for example, under the will or rules of succession):\n- you don't include the capital gain or loss in the trust tax return\n- if the beneficiary is a foreign resident, charity or super fund , you report the capital gain or loss in the deceased's date of death tax return .\nIf you transfer or sell an asset of the estate for any other reason, you need to include any capital gain or loss in the trust tax return. This applies even if the transfer or sale is to a person who is a beneficiary.\nIf the deceased had any unapplied net capital losses when they died, these can't be used to offset against any net capital gains of the deceased estate.\n### Employment termination payments\nThe deceased person's employer may pay their estate a death benefit employment termination payment (ETP).\nYou will receive a PAYG payment summary – employment termination payment . It will show the tax-free and taxable components.\nThe ETP is taxed as if it was made directly to the beneficiaries, except that the Medicare levy does not apply.",
+  "child_links": [],
+  "word_count": 1218,
+  "source_title": "",
+  "source_description": "",
+  "category": "deceased-estates"
+}

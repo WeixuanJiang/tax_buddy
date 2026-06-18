@@ -1,0 +1,126 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2017/income/sole-trader-and-business-income-or-losses-and-partnership-or-trust-distributions/business-income-statements-and-payment-summaries",
+  "title": "myTax 2017 Business payment summaries",
+  "description": "How to report business payment summary information when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "50975",
+  "date_updated": "2017-06-11T14:00:00Z",
+  "first_published": "",
+  "keywords": "myTax, e-tax, payment summary, business payment summary, online tax return, etax, group certificate",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with business-related payment summary information provided to us. If tax has been withheld from your business income, you should have received a payment summary. Check for the following payment summaries that are not pre-filled and ensure you add them:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "PAYG payment summary – business and personal services income where the payment type is: Voluntary agreement Labour-hire payment Other specified payments.",
+        "PAYG payment summary – withholding where ABN not quoted",
+        "PAYG withholding payment summary – foreign residents Do not include amounts subject to foreign resident capital gains withholding. Include these amounts at the Capital gains or losses section."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Payment summaries with no tax withheld"
+    },
+    {
+      "type": "paragraph",
+      "text": "Business and personal services income payment summaries where no tax has been withheld are incorrectly being pre-filled at this section. If you have a pre-filled payment summary where no tax has been withheld you need to take the following steps."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If the PSI rules apply to the income from the payment summary, select Net Personal services income to expand the section and enter the amount at Other – manually calculated",
+        "If the PSI rules do not apply to the income from the payment summary, select either Net primary production or Net non-primary production to expand the section and enter the amount at Other business income – manually calculated",
+        "Delete the pre-filled payment summary where no tax has been withheld from the Business payment summaries section."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Personal services income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Personal services income (PSI) is income that is mainly a reward for an individual’s personal efforts or skills."
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out whether your income is personal services income you can use the Personal services income tool This link opens in a new window or see Personal services income for more information."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Primary production and non-primary production income"
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to separate your business income into primary production income and non-primary production income. Primary production activities are described in Information for primary producers 2017 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before you start completing this section, read Payment summaries with no tax withheld above."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "PAYG payment summary – business and personal services income",
+        "PAYG payment summary – withholding where ABN not quoted",
+        "PAYG withholding payment summary – foreign residents"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not have all your payment summaries, contact your payer for a copy or comparable statement."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a reminder at the Business and professional items section that you received payments for building and construction services and tax has been withheld, include these amounts in this section."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each payment summary that has not been pre-filled in your tax return, select Add and enter information into the corresponding fields.",
+        "At Payment type , select one of the following: Voluntary agreement if you have a PAYG payment summary - business and personal services income where the payment type is Voluntary agreement Labour hire if you have a PAYG payment summary - business and personal services income where the payment type is Labour-hire payment Other specified payments if you have a PAYG payment summary - business and personal services income where the payment type is Other specified payments. No ABN quoted if you have a PAYG payment summary - withholding where ABN not quoted Foreign resident withholding if you have a PAYG withholding payment summary - foreign residents. Do not include amounts subject to foreign resident capital gains withholding. Include these amounts at the Capital gains or losses section.",
+        "Select the Income type and, where required, whether the income is Primary production or Non-primary production .",
+        "Select Save ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a PAYG payment summary - business and personal services income where the payment type is Personal services attributed income, enter the details in the Payment Summary section at Attributed personal services income . If you can't see it, go to the Personalise return screen and select the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "'You received salary, wages or other income on a payment summary, or Australian Government payments' 'Attributed personal services income (on a payment summary)'"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "MyTax will use the information in this section to complete income and tax withheld fields in either the Personal services income or Business income or losses sections."
+    }
+  ],
+  "content_text": "We have pre-filled your tax return with business-related payment summary information provided to us. If tax has been withheld from your business income, you should have received a payment summary. Check for the following payment summaries that are not pre-filled and ensure you add them:\n- PAYG payment summary – business and personal services income where the payment type is: Voluntary agreement Labour-hire payment Other specified payments.\n- PAYG payment summary – withholding where ABN not quoted\n- PAYG withholding payment summary – foreign residents Do not include amounts subject to foreign resident capital gains withholding. Include these amounts at the Capital gains or losses section.\n## Payment summaries with no tax withheld\nBusiness and personal services income payment summaries where no tax has been withheld are incorrectly being pre-filled at this section. If you have a pre-filled payment summary where no tax has been withheld you need to take the following steps.\n- If the PSI rules apply to the income from the payment summary, select Net Personal services income to expand the section and enter the amount at Other – manually calculated\n- If the PSI rules do not apply to the income from the payment summary, select either Net primary production or Net non-primary production to expand the section and enter the amount at Other business income – manually calculated\n- Delete the pre-filled payment summary where no tax has been withheld from the Business payment summaries section.\n## Personal services income\nPersonal services income (PSI) is income that is mainly a reward for an individual’s personal efforts or skills.\nTo work out whether your income is personal services income you can use the Personal services income tool This link opens in a new window or see Personal services income for more information.\n## Primary production and non-primary production income\nYou need to separate your business income into primary production income and non-primary production income. Primary production activities are described in Information for primary producers 2017 .\n## Completing this section\nBefore you start completing this section, read Payment summaries with no tax withheld above.\nYou will need your:\n- PAYG payment summary – business and personal services income\n- PAYG payment summary – withholding where ABN not quoted\n- PAYG withholding payment summary – foreign residents\nIf you do not have all your payment summaries, contact your payer for a copy or comparable statement.\nIf you have a reminder at the Business and professional items section that you received payments for building and construction services and tax has been withheld, include these amounts in this section.\n- For each payment summary that has not been pre-filled in your tax return, select Add and enter information into the corresponding fields.\n- At Payment type , select one of the following: Voluntary agreement if you have a PAYG payment summary - business and personal services income where the payment type is Voluntary agreement Labour hire if you have a PAYG payment summary - business and personal services income where the payment type is Labour-hire payment Other specified payments if you have a PAYG payment summary - business and personal services income where the payment type is Other specified payments. No ABN quoted if you have a PAYG payment summary - withholding where ABN not quoted Foreign resident withholding if you have a PAYG withholding payment summary - foreign residents. Do not include amounts subject to foreign resident capital gains withholding. Include these amounts at the Capital gains or losses section.\n- Select the Income type and, where required, whether the income is Primary production or Non-primary production .\n- Select Save .\nIf you have a PAYG payment summary - business and personal services income where the payment type is Personal services attributed income, enter the details in the Payment Summary section at Attributed personal services income . If you can't see it, go to the Personalise return screen and select the following:\n- 'You received salary, wages or other income on a payment summary, or Australian Government payments' 'Attributed personal services income (on a payment summary)'\nMyTax will use the information in this section to complete income and tax withheld fields in either the Personal services income or Business income or losses sections.",
+  "child_links": [],
+  "word_count": 706,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

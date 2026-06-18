@@ -1,0 +1,185 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/adjustments/credit-for-interest-on-tax-paid",
+  "title": "myTax 2018 Credit for interest on tax paid",
+  "description": "How to complete myTax for credit for interest on tax paid.",
+  "nat_number": "",
+  "quick_code": "55631",
+  "date_updated": "2018-06-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "2018, myTax, e-tax, credit for interest, interest, early payments, interest on early payments, credit, online tax return, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "You can claim for interest on an early payments made to the ATO more than 14 days before the due date during 2017–18 income year, for the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "income tax (including Medicare levy and Medicare levy surcharge) shown on your notice of assessment",
+        "compulsory Higher Education Loan Program (HELP) repayment amount shown on your notice of assessment",
+        "compulsory Student Financial Supplement Scheme (SFSS) debt repayment shown on your notice of assessment",
+        "compulsory Trade Support Loan (TSL) debt repayment shown on your notice of assessment",
+        "compulsory Student Start-up Loan (SSL) repayment shown on your notice of assessment",
+        "compulsory ABSTUDY Student Start-up Loan (ABSTUDY SSL) repayment shown on your notice of assessment",
+        "interest on distributions from non-resident trust estates",
+        "shortfall interest charge",
+        "income tax penalty for the 1999–2000 and earlier income years",
+        "general interest charge for lodging a late income tax return for income years up to and including 1999–2000",
+        "general interest charge on an increase in the tax payable resulting from an amended assessment for income years up to and including 1999–2000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have already requested the direct payment of interest on your early payment, do not claim it in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following are not early payments:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "pay as you go (PAYG) withholding amounts including amounts withheld from interest, dividends and royalties amounts withheld by payers, including those withheld for HELP, SFSS or TSL, SSL or ABSTUDY SSL.",
+        "PAYG instalments."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "See also"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Interest on early payments and overpayments of tax",
+        "Practice Statement Law Administration PS LA 2011/23 Credit interest which discusses the policy and details when interest is payable."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received interest from us, you must show it as income on your tax return for the year in which we paid or credited that interest to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "The period for which you can claim interest starts on the later of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the date you made your payment",
+        "the date of issue of our notice informing you of the amount of tax, debt, interest or instalment."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "That period ends on the earlier of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the due date for payment",
+        "the date when we refunded your early payment, if we refunded it."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, a notice of assessment issued to you on 19 September 2017 showed an amount of tax payable. If the amount was due on 21 November 2017 but you paid early, on 1 November 2017, the interest period would be 21 days: 1 November to 21 November."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "notification from the ATO showing the date of the notice, the amount owing and the due date",
+        "details of your date of payment, shown on your bank statement or receipt from the post office or the ATO. Allow three extra days if you posted your payment.",
+        "Calculate your interest amount. To calculate your interest amount you can use our calculator This link opens in a new window or worksheet",
+        "Enter your interest amount.",
+        "Select Save and continue ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Worksheet"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the early payment extends over two or more interest periods, you will need to do steps 1 to 4 for the number of days in each period."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Work out the number of days your payment was early by. This is the number of days from the later of:"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the date you paid the amount, or",
+        "the issue date on your notice informing you of the amount of tax, debt, interest or instalment up to and including the date when the payment was due (or the date when we refunded your early payment)."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Divide the number of days from step 1 by 365.",
+        "Multiply the answer you got at step 2 by the amount of the payment.",
+        "Multiply the answer from step 3 by the rate of interest for the period and divide by 100. For example, for the period 1 July 2017 to 30 September 2017, multiply by 1.73 and divide by 100. The interest rate that applies to each quarter of 2017–18 appears below."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Period",
+          "Interest rate (% pa)"
+        ],
+        [
+          "1 July 2017 to 30 September 2017",
+          "1.73"
+        ],
+        [
+          "1 October 2017 to 31 December 2017",
+          "1.70"
+        ],
+        [
+          "1 January 2018 to 31 March 2018",
+          "1.72"
+        ],
+        [
+          "1 April 2018 to 30 June 2018",
+          "1.77"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Add up the amounts you worked out for each period at step 4.",
+        "If the amount from step 5 is equal to or greater than 50 cents, enter the total on your tax return. Show cents. If the amount is less than 50 cents, you cannot claim."
+      ]
+    }
+  ],
+  "content_text": "You can claim for interest on an early payments made to the ATO more than 14 days before the due date during 2017–18 income year, for the following:\n- income tax (including Medicare levy and Medicare levy surcharge) shown on your notice of assessment\n- compulsory Higher Education Loan Program (HELP) repayment amount shown on your notice of assessment\n- compulsory Student Financial Supplement Scheme (SFSS) debt repayment shown on your notice of assessment\n- compulsory Trade Support Loan (TSL) debt repayment shown on your notice of assessment\n- compulsory Student Start-up Loan (SSL) repayment shown on your notice of assessment\n- compulsory ABSTUDY Student Start-up Loan (ABSTUDY SSL) repayment shown on your notice of assessment\n- interest on distributions from non-resident trust estates\n- shortfall interest charge\n- income tax penalty for the 1999–2000 and earlier income years\n- general interest charge for lodging a late income tax return for income years up to and including 1999–2000\n- general interest charge on an increase in the tax payable resulting from an amended assessment for income years up to and including 1999–2000.\nIf you have already requested the direct payment of interest on your early payment, do not claim it in your tax return.\nThe following are not early payments:\n- pay as you go (PAYG) withholding amounts including amounts withheld from interest, dividends and royalties amounts withheld by payers, including those withheld for HELP, SFSS or TSL, SSL or ABSTUDY SSL.\n- PAYG instalments.\nSee also\n- Interest on early payments and overpayments of tax\n- Practice Statement Law Administration PS LA 2011/23 Credit interest which discusses the policy and details when interest is payable.\nIf you received interest from us, you must show it as income on your tax return for the year in which we paid or credited that interest to you.\nThe period for which you can claim interest starts on the later of:\n- the date you made your payment\n- the date of issue of our notice informing you of the amount of tax, debt, interest or instalment.\nThat period ends on the earlier of:\n- the due date for payment\n- the date when we refunded your early payment, if we refunded it.\nFor example, a notice of assessment issued to you on 19 September 2017 showed an amount of tax payable. If the amount was due on 21 November 2017 but you paid early, on 1 November 2017, the interest period would be 21 days: 1 November to 21 November.\n## Completing this section\nYou will need:\n- notification from the ATO showing the date of the notice, the amount owing and the due date\n- details of your date of payment, shown on your bank statement or receipt from the post office or the ATO. Allow three extra days if you posted your payment.\n- Calculate your interest amount. To calculate your interest amount you can use our calculator This link opens in a new window or worksheet\n- Enter your interest amount.\n- Select Save and continue .\n## Worksheet\nIf the early payment extends over two or more interest periods, you will need to do steps 1 to 4 for the number of days in each period.\n- Work out the number of days your payment was early by. This is the number of days from the later of:\n- the date you paid the amount, or\n- the issue date on your notice informing you of the amount of tax, debt, interest or instalment up to and including the date when the payment was due (or the date when we refunded your early payment).\n- Divide the number of days from step 1 by 365.\n- Multiply the answer you got at step 2 by the amount of the payment.\n- Multiply the answer from step 3 by the rate of interest for the period and divide by 100. For example, for the period 1 July 2017 to 30 September 2017, multiply by 1.73 and divide by 100. The interest rate that applies to each quarter of 2017–18 appears below.\nPeriod | Interest rate (% pa)\n1 July 2017 to 30 September 2017 | 1.73\n1 October 2017 to 31 December 2017 | 1.70\n1 January 2018 to 31 March 2018 | 1.72\n1 April 2018 to 30 June 2018 | 1.77\n- Add up the amounts you worked out for each period at step 4.\n- If the amount from step 5 is equal to or greater than 50 cents, enter the total on your tax return. Show cents. If the amount is less than 50 cents, you cannot claim.",
+  "child_links": [],
+  "word_count": 773,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

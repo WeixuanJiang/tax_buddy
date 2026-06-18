@@ -1,0 +1,73 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/income/foreign-income/foreign-entities",
+  "title": "myTax 2019 Foreign entities",
+  "description": "How to complete the business section of your return using myTax.",
+  "nat_number": "",
+  "quick_code": "58764",
+  "date_updated": "2019-06-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "2019, Foreign entity, myTax, e-tax, online tax return, foreign entities, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "You may need to complete this section if you are an Australian resident for tax purposes who:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "had either a direct or an indirect interest in a controlled foreign company (CFC), or",
+        "at any time, directly or indirectly transferred or caused the transfer of property (including money) or services to a non-resident trust."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a temporary resident you will not need to show your foreign investment income at this section. See Tax-free income for temporary residents in Amounts that you do not pay tax on for the definition of a temporary resident and details of the exemption."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Essentials"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Controlled foreign company (CFC) income"
+    },
+    {
+      "type": "paragraph",
+      "text": "The controlled foreign company (CFC) measures may apply to income and gains of foreign companies in which you had a direct or indirect controlling interest, or which you effectively controlled. For more information, see chapter 1 of the Foreign income return form guide ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Income from transfer of property (including money) or services to a non-resident trust estate"
+    },
+    {
+      "type": "paragraph",
+      "text": "The transferor trust measures may apply if, at any time, you directly or indirectly transferred or caused the transfer of property (including money) or services to a non-resident trust. A trust is a non-resident trust if no trustee of the trust estate was an Australian resident, and the trust estate's central management and control was not in Australia, at any time during the income year. For more information, see chapter 2 in the Foreign income return form guide ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "You will need to enter your attributed foreign income from any CFC at Controlled foreign company (CFC) income , if you, alone or with associates had: direct or indirect controlling interests totalling 10% or more in a foreign company, or effective control of a foreign company.",
+        "If you, at any time, directly or indirectly transferred or caused the transfer of property (including money) or services to a non-resident trust, then enter your attributed foreign income from transferor trusts at Income from transfer of property (including money) or services to a non-resident trust estate .",
+        "If you have entered an amount at Income from transfer of property (including money) or services to a non-resident trust estate greater than '0', enter the required additional information ( Name of non-resident trust and Name of trustee or trustees ).",
+        "Select Save .",
+        "Select Save and continue ."
+      ]
+    }
+  ],
+  "content_text": "You may need to complete this section if you are an Australian resident for tax purposes who:\n- had either a direct or an indirect interest in a controlled foreign company (CFC), or\n- at any time, directly or indirectly transferred or caused the transfer of property (including money) or services to a non-resident trust.\nIf you are a temporary resident you will not need to show your foreign investment income at this section. See Tax-free income for temporary residents in Amounts that you do not pay tax on for the definition of a temporary resident and details of the exemption.\n## Essentials\n### Controlled foreign company (CFC) income\nThe controlled foreign company (CFC) measures may apply to income and gains of foreign companies in which you had a direct or indirect controlling interest, or which you effectively controlled. For more information, see chapter 1 of the Foreign income return form guide .\n### Income from transfer of property (including money) or services to a non-resident trust estate\nThe transferor trust measures may apply if, at any time, you directly or indirectly transferred or caused the transfer of property (including money) or services to a non-resident trust. A trust is a non-resident trust if no trustee of the trust estate was an Australian resident, and the trust estate's central management and control was not in Australia, at any time during the income year. For more information, see chapter 2 in the Foreign income return form guide .\n## Completing this section\n- You will need to enter your attributed foreign income from any CFC at Controlled foreign company (CFC) income , if you, alone or with associates had: direct or indirect controlling interests totalling 10% or more in a foreign company, or effective control of a foreign company.\n- If you, at any time, directly or indirectly transferred or caused the transfer of property (including money) or services to a non-resident trust, then enter your attributed foreign income from transferor trusts at Income from transfer of property (including money) or services to a non-resident trust estate .\n- If you have entered an amount at Income from transfer of property (including money) or services to a non-resident trust estate greater than '0', enter the required additional information ( Name of non-resident trust and Name of trustee or trustees ).\n- Select Save .\n- Select Save and continue .",
+  "child_links": [],
+  "word_count": 399,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

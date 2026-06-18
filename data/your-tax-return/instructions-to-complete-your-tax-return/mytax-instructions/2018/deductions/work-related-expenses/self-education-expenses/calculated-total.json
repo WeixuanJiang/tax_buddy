@@ -1,0 +1,174 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/deductions/work-related-expenses/self-education-expenses/calculated-total",
+  "title": "Calculated total",
+  "description": "Find out how myTax works out the total amount you can claim for your work-related self-education expenses.",
+  "nat_number": "",
+  "quick_code": "80418",
+  "date_updated": "2018-06-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "myTax works out the total amount you can claim for your work-related self-education expenses from the information you provide. If you would like to see how myTax works this out, use this worksheet."
+    },
+    {
+      "type": "paragraph",
+      "text": "The worksheet adds up your self-education expenses under the following categories because, in working out what you can claim, certain costs are reduced by $250."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Category type",
+          "Explanation",
+          "Amount"
+        ],
+        [
+          "A",
+          "General expenses and Car expenses where Calculation method is 'Logbook'",
+          "General expenses that are deductible, including textbooks, stationery, student union fees, student services and amenities fees, course fees and public transport fares. Also includes car expenses (other than 'Decline in value' amounts) worked out under the 'Logbook' method.",
+          "$"
+        ],
+        [
+          "B",
+          "Decline in value",
+          "Deductions for the decline in value of depreciating assets used for self-education, including computers. Also includes 'Decline in value' amounts for car expenses worked out under the Logbook method.",
+          "$"
+        ],
+        [
+          "C",
+          "Repair expenses",
+          "Expenses for repairs to items of equipment used for self-education.",
+          "$"
+        ],
+        [
+          "D",
+          "Car expenses where Calculation method is 'Cents per kilometre'",
+          "Car expenses related to your self-education for which you are claiming deductions under the 'Cents per kilometre' method. If you have included deductions for the decline in value of or repairs to your car under Category type 'Decline in value' or 'Repair expenses', you cannot claim car expenses under this category.",
+          "$"
+        ],
+        [
+          "E",
+          "Non-deductible expenses",
+          "Self-education expenses that are not deductible, which are: private costs, including non-deductible travel and childcare costs, and capital costs, like the purchase price of a desk or computer. Do not include contributions you made under HECS-HELP or repayments under HELP, SFSS, SSL or TSL.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had any row A expenses, go to step 2. Otherwise, read on."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "F",
+          "Add rows B , C and D .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at row F is the total amount you can claim for your work-related self-education expenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 2"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "G",
+          "Add rows C , D and E .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at row G is less than $250, go to step 3. Otherwise, read on."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "H",
+          "Add rows A , B , C and D .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at row H is the total amount you can claim for your work-related self-education expenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "I",
+          "Take the amount at row G away from $250.",
+          "$"
+        ],
+        [
+          "J",
+          "Take the amount at row I away from your category A amount. If the result is zero or less, write 0",
+          "$"
+        ],
+        [
+          "K",
+          "Add rows B , C and D .",
+          "$"
+        ],
+        [
+          "L",
+          "Add rows K and J .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at row L is the total amount you can claim for your work-related self-education expenses."
+    }
+  ],
+  "content_text": "myTax works out the total amount you can claim for your work-related self-education expenses from the information you provide. If you would like to see how myTax works this out, use this worksheet.\nThe worksheet adds up your self-education expenses under the following categories because, in working out what you can claim, certain costs are reduced by $250.\nRow | Category type | Explanation | Amount\nA | General expenses and Car expenses where Calculation method is 'Logbook' | General expenses that are deductible, including textbooks, stationery, student union fees, student services and amenities fees, course fees and public transport fares. Also includes car expenses (other than 'Decline in value' amounts) worked out under the 'Logbook' method. | $\nB | Decline in value | Deductions for the decline in value of depreciating assets used for self-education, including computers. Also includes 'Decline in value' amounts for car expenses worked out under the Logbook method. | $\nC | Repair expenses | Expenses for repairs to items of equipment used for self-education. | $\nD | Car expenses where Calculation method is 'Cents per kilometre' | Car expenses related to your self-education for which you are claiming deductions under the 'Cents per kilometre' method. If you have included deductions for the decline in value of or repairs to your car under Category type 'Decline in value' or 'Repair expenses', you cannot claim car expenses under this category. | $\nE | Non-deductible expenses | Self-education expenses that are not deductible, which are: private costs, including non-deductible travel and childcare costs, and capital costs, like the purchase price of a desk or computer. Do not include contributions you made under HECS-HELP or repayments under HELP, SFSS, SSL or TSL. | $\nStep 1\nIf you had any row A expenses, go to step 2. Otherwise, read on.\nRow | Calculation | Amount\nF | Add rows B , C and D . | $\nThe amount at row F is the total amount you can claim for your work-related self-education expenses.\nStep 2\nRow | Calculation | Amount\nG | Add rows C , D and E . | $\nIf the amount at row G is less than $250, go to step 3. Otherwise, read on.\nRow | Calculation | Amount\nH | Add rows A , B , C and D . | $\nThe amount at row H is the total amount you can claim for your work-related self-education expenses.\nStep 3\nRow | Calculation | Amount\nI | Take the amount at row G away from $250. | $\nJ | Take the amount at row I away from your category A amount. If the result is zero or less, write 0 | $\nK | Add rows B , C and D . | $\nL | Add rows K and J . | $\nThe amount at row L is the total amount you can claim for your work-related self-education expenses.",
+  "child_links": [],
+  "word_count": 495,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

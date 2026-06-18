@@ -1,0 +1,205 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/deductions-you-can-claim/work-related-deductions/cars-transport-and-travel/motor-vehicle-and-car-expenses/expenses-for-a-car-you-own-or-lease",
+  "title": "Expenses for a car you own or lease",
+  "description": "Deductions for work-related car expenses you incur for the use of your own car.",
+  "nat_number": "",
+  "quick_code": "72124",
+  "date_updated": "2026-05-03T14:00:00Z",
+  "first_published": "",
+  "keywords": "car expenses, cents per kilometre, cents per km, logbook, logbook method, car log, claiming car deductions, claiming car expenses",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What are car expenses?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Car expenses are the costs you incur to own and operate a car, including its decline in value."
+    },
+    {
+      "type": "paragraph",
+      "text": "This includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "fuel and oil expenses",
+        "repairs, servicing, maintenance and cleaning expenses",
+        "registration",
+        "insurance",
+        "interest on a car loan",
+        "lease payments",
+        "decline in value of the car."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The following expenses aren't car expenses:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the purchase price of the car",
+        "principal repayments of a car loan",
+        "modifications, alterations of improvements to the car",
+        "parking and tolls ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Modifications, alterations and improvements can be added to the cost (as a second element cost ) of the car for the purpose of calculating it's decline in value."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Claiming a deduction for car expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "To claim a deduction for car expenses:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Your vehicle must meet the definition of a car .",
+        "You must own or lease the car . You do not own or lease the car if you use it under a salary sacrifice or novated lease arrangement.",
+        "The expenses must be for work-related trips . You can claim for trips between workplaces or to perform your work duties. You can't claim for trips between your home and place of work, except in limited circumstances.",
+        "You must have spent the money yourself and weren't reimbursed.",
+        "You must have the required records ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If it's someone else's car or it's another type of vehicle (such as a truck or motorcycle), see Expenses for a vehicle that isn't yours or isn't a car ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your travel is partly private, you can only claim a deduction for the work-related portion of your expenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "You claim the tax deduction in your income tax return as a work-related car expense ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you receive an allowance from your employer for car expenses, you must include it as assessable income in your tax return. The allowance amount is shown on your income statement or payment summary."
+    },
+    {
+      "type": "paragraph",
+      "text": "For a summary of this information in PDF format, see Car expenses (PDF, 322KB) This link will download a file ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Definition of a car"
+    },
+    {
+      "type": "paragraph",
+      "text": "To claim a work-related car expense, the vehicle must be a car."
+    },
+    {
+      "type": "paragraph",
+      "text": "A car is a motor vehicle that carries a load of less than one tonne and fewer than 9 passengers (including the driver). This includes electric (zero emissions) vehicles (EVs), plug-in hybrid vehicles (PHEVs) and hybrid vehicles if they meet this definition."
+    },
+    {
+      "type": "paragraph",
+      "text": "Motorcycles and similar vehicles are not cars."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your vehicle is a car and you use it for work-related purposes, you must calculate your deduction using one of the 2 methods below ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your vehicle doesn't meet this definition, see Expenses for a vehicle that isn't yours or isn't a car ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You must own or lease the car"
+    },
+    {
+      "type": "paragraph",
+      "text": "To claim car expenses you must own, lease (from a finance company) or hire the car (under a hire-purchase arrangement with the dealership)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you use a car owned by a family member, and you can show there is a private arrangement that made you the owner or lessee of the car (even if you aren't the registered owner or lessee), you work out your car expenses as though it is your car."
+    },
+    {
+      "type": "paragraph",
+      "text": "A car you use under a salary sacrifice or novated lease arrangement is usually leased by your employer from a financing company, and your employer typically pays for the running costs and claims deductions. You can't claim running costs for such a car because you don't own or lease it but you can claim additional expenses, like parking and tolls associated with your work use of the car."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't own or lease the car (or don't have a private arrangement that makes you the owner or lessee), see Expenses for a vehicle that isn't yours or isn't a car ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: private arrangement"
+    },
+    {
+      "type": "paragraph",
+      "text": "When Rory turned 18, she bought a car from her parents for $1,000. She now pays the insurance, fuel, registration and other running costs, and no one else uses the car. However, the registration hasn't been updated and the car is still registered in her mother's name."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rory is eligible to claim her work-related car expenses even though the registration hasn't been changed to her name. She would be treated as the owner because she can show that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "she bought the car from her parents",
+        "she is now responsible for all ownership and running costs of the car."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Calculating your car expense deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your deduction for car expenses, you can use either the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Cents per kilometre method",
+        "Logbook method"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use the calculator to work out your deduction for either method."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're claiming car expenses for more than one car, you can use a different method for each car. You can also change the method you use in different income years for the same car."
+    }
+  ],
+  "content_text": "## What are car expenses?\nCar expenses are the costs you incur to own and operate a car, including its decline in value.\nThis includes:\n- fuel and oil expenses\n- repairs, servicing, maintenance and cleaning expenses\n- registration\n- insurance\n- interest on a car loan\n- lease payments\n- decline in value of the car.\nThe following expenses aren't car expenses:\n- the purchase price of the car\n- principal repayments of a car loan\n- modifications, alterations of improvements to the car\n- parking and tolls .\nModifications, alterations and improvements can be added to the cost (as a second element cost ) of the car for the purpose of calculating it's decline in value.\n## Claiming a deduction for car expenses\nTo claim a deduction for car expenses:\n- Your vehicle must meet the definition of a car .\n- You must own or lease the car . You do not own or lease the car if you use it under a salary sacrifice or novated lease arrangement.\n- The expenses must be for work-related trips . You can claim for trips between workplaces or to perform your work duties. You can't claim for trips between your home and place of work, except in limited circumstances.\n- You must have spent the money yourself and weren't reimbursed.\n- You must have the required records .\nIf it's someone else's car or it's another type of vehicle (such as a truck or motorcycle), see Expenses for a vehicle that isn't yours or isn't a car .\nIf your travel is partly private, you can only claim a deduction for the work-related portion of your expenses.\nYou claim the tax deduction in your income tax return as a work-related car expense .\nIf you receive an allowance from your employer for car expenses, you must include it as assessable income in your tax return. The allowance amount is shown on your income statement or payment summary.\nFor a summary of this information in PDF format, see Car expenses (PDF, 322KB) This link will download a file .\n## Definition of a car\nTo claim a work-related car expense, the vehicle must be a car.\nA car is a motor vehicle that carries a load of less than one tonne and fewer than 9 passengers (including the driver). This includes electric (zero emissions) vehicles (EVs), plug-in hybrid vehicles (PHEVs) and hybrid vehicles if they meet this definition.\nMotorcycles and similar vehicles are not cars.\nIf your vehicle is a car and you use it for work-related purposes, you must calculate your deduction using one of the 2 methods below .\nIf your vehicle doesn't meet this definition, see Expenses for a vehicle that isn't yours or isn't a car .\n## You must own or lease the car\nTo claim car expenses you must own, lease (from a finance company) or hire the car (under a hire-purchase arrangement with the dealership).\nIf you use a car owned by a family member, and you can show there is a private arrangement that made you the owner or lessee of the car (even if you aren't the registered owner or lessee), you work out your car expenses as though it is your car.\nA car you use under a salary sacrifice or novated lease arrangement is usually leased by your employer from a financing company, and your employer typically pays for the running costs and claims deductions. You can't claim running costs for such a car because you don't own or lease it but you can claim additional expenses, like parking and tolls associated with your work use of the car.\nIf you don't own or lease the car (or don't have a private arrangement that makes you the owner or lessee), see Expenses for a vehicle that isn't yours or isn't a car .\n### Example: private arrangement\nWhen Rory turned 18, she bought a car from her parents for $1,000. She now pays the insurance, fuel, registration and other running costs, and no one else uses the car. However, the registration hasn't been updated and the car is still registered in her mother's name.\nRory is eligible to claim her work-related car expenses even though the registration hasn't been changed to her name. She would be treated as the owner because she can show that:\n- she bought the car from her parents\n- she is now responsible for all ownership and running costs of the car.\n## Calculating your car expense deductions\nTo work out your deduction for car expenses, you can use either the:\n- Cents per kilometre method\n- Logbook method\nYou can also use the calculator to work out your deduction for either method.\nIf you're claiming car expenses for more than one car, you can use a different method for each car. You can also change the method you use in different income years for the same car.",
+  "child_links": [
+    {
+      "title": "Cents per kilometre method",
+      "description": "How to calculate a deduction for car expenses using the cents per kilometre method and the records you need to keep.",
+      "url": "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/deductions-you-can-claim/work-related-deductions/cars-transport-and-travel/motor-vehicle-and-car-expenses/expenses-for-a-car-you-own-or-lease/cents-per-kilometre-method"
+    },
+    {
+      "title": "Logbook method",
+      "description": "How to calculate a deduction for car expenses using the logbook method and the records you need to keep.",
+      "url": "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/deductions-you-can-claim/work-related-deductions/cars-transport-and-travel/motor-vehicle-and-car-expenses/expenses-for-a-car-you-own-or-lease/logbook-method"
+    }
+  ],
+  "word_count": 824,
+  "source_title": "Expenses for a car you own or lease | Australian Taxation...",
+  "source_description": "Deductions for work-related car expenses you incur for the use of your own car.",
+  "category": "income-deductions-offsets-and-records"
+}

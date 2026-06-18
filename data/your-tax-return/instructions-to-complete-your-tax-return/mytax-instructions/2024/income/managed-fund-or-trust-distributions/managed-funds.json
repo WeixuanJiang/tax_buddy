@@ -1,0 +1,167 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2024/income/managed-fund-or-trust-distributions/managed-funds",
+  "title": "myTax 2024 Managed funds",
+  "description": "How to complete the managed funds section in your return using myTax.",
+  "nat_number": "",
+  "quick_code": "101590",
+  "date_updated": "2024-08-08T14:00:00Z",
+  "first_published": "",
+  "keywords": "2024, myTax, online tax return, managed funds",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete this section if your only source of income from trusts, capital gains or foreign income is from managed funds – this includes exchange traded funds (ETFs)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a managed funds statement that shows income, deductions or credits, you can show the distribution amounts at this section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some examples of a managed fund include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "cash management trust",
+        "money market trust",
+        "mortgage trust",
+        "unit trust",
+        "property trust",
+        "share trust",
+        "equity trust",
+        "growth trust",
+        "imputation trust",
+        "balanced trust."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are unsure whether you have invested in such a trust, check with the entity in which you have invested."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your tax return with information provided to us by managed investment funds and trusts. Check them and add any managed fund distributions you received that has not pre-filled."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the information is not pre-filled, you will need your statement from the managed fund. Your statement will indicate where you need to show the amounts on your tax return."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Your statement may include the tax return: label (such as 13U ) field name (such as Non-primary production income ).",
+        "In myTax at Managed fund distributions, enter the amount at the corresponding field, such as 13U Total non-primary production income ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you think that any detail is wrong or is missing from the statement, contact the fund manager."
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your return to show managed fund distributions, at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You had managed fund or trust distributions (including where distribution has capital gains and foreign income)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your managed fund distributions, at Prepare return select 'Add/Edit' at the Managed fund and trust distributions banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Managed fund distributions banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each managed fund distribution not pre-filled, select Add and enter information into the corresponding fields. Joint accounts If you had a joint account, show the number of account holders and the total amounts. MyTax will divide the amounts equally between the number of account holders. You may alter your share of the amounts. If you do, keep a record of how you worked out your share.",
+        "For each managed fund that has an amount at 20O. Total foreign income tax offset , check your distribution statement to see if you have a ‘Foreign tax offset applicable to discountable capital gains’. If so, you need to apportion that amount. To learn more, see Foreign income tax offset .",
+        "For each managed fund statement that has a 13S. Total credit for tax paid by trustee greater than '0'. select the Reason the trustee paid tax enter the Share of income .",
+        "Select Save .",
+        "Select Save and continue when you have completed the Managed fund and trust distributions section."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Foreign income tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "In some situations, only part of an amount on which foreign tax has been paid is included in Australian assessable income. When this occurs, only that proportion of the foreign income tax which equates to the proportion of foreign income included would be available as a tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "In other situations, the foreign income tax paid relates to only part of an amount included in the taxpayer’s income for Australian income tax purposes. This typically applies where a foreign source gain on which foreign income tax has been paid is part of a net amount included in a taxpayer’s assessable income. When this occurs, the foreign income tax counts towards the tax offset only to the extent that it is paid in respect of that part of the amount that is included in the taxpayer’s assessable income."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, this may be relevant where a taxpayer has both a capital gain and a capital loss, and only the net amount is included in their assessable income. Under the rules applying to capital gains and capital losses, a taxpayer can choose the order in which capital losses are offset against gains. In particular, a taxpayer can choose to offset capital losses (whether current year or prior-year unapplied net capital losses) first against domestic capital gains or foreign gains on which no foreign tax has been paid. Such an ordering of the losses maximises the foreign source capital gain component of a net capital gain on which foreign income tax has been paid."
+    },
+    {
+      "type": "paragraph",
+      "text": "If only part of a foreign capital gain is assessable in Australia (for example, the gain is subject to the discount capital gains concessions in Division 115 of the ITAA 1997) the foreign tax paid on the gain must be apportioned accordingly. This includes, where a foreign capital gain is distributed to a unitholder of a managed investment trust (MIT) or attribution managed investment trust (AMIT). In such circumstances, when calculating your FITO, the 'Foreign tax offset applicable to discountable capital gains' shown at Part C – Tax offsets of the Attribution Managed Investment Trust Member Annual (AMMA) statement or Standard Distribution Statement (SDS) must be reduced for discounted capital gains."
+    },
+    {
+      "type": "paragraph",
+      "text": "To learn more, see when a foreign income tax offset applies ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Capital gains and managed funds"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your managed fund distribution includes a capital gains component, how you complete the rest of your myTax return will depend on your circumstances."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your only capital gains are from managed funds or trusts and shown at the Managed fund and trust distributions section and:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your current year capital gains are $10,000 or less, you do not need to complete the Capital gains or losses section",
+        "your current year capital gains are more than $10,000, you need to complete the Capital gains or losses section myTax will prompt you to complete the Capital gains or losses section myTax will complete Total current year capital gains and Net capital gain in the Capital gains or losses section from information shown in the Managed fund and trust distributions section you will need to complete the Capital gains tax schedule."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have other capital gains tax events during the year or you have carried forward capital losses from a prior year:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you need to complete the Capital gains or losses section myTax will prompt you to complete the Capital gains or losses section the capital gains amounts shown in the Managed fund and trust distributions section will be automatically carried over to the Capital gains or losses section for you to review you will need to ensure that all your capital gains from managed funds and trusts are included in what you show at Total current year capital gains and Net capital gain ."
+      ]
+    }
+  ],
+  "content_text": "## Things to know\nComplete this section if your only source of income from trusts, capital gains or foreign income is from managed funds – this includes exchange traded funds (ETFs).\nIf you received a managed funds statement that shows income, deductions or credits, you can show the distribution amounts at this section.\nSome examples of a managed fund include:\n- cash management trust\n- money market trust\n- mortgage trust\n- unit trust\n- property trust\n- share trust\n- equity trust\n- growth trust\n- imputation trust\n- balanced trust.\nIf you are unsure whether you have invested in such a trust, check with the entity in which you have invested.\n## Completing this section\nWe pre-fill your tax return with information provided to us by managed investment funds and trusts. Check them and add any managed fund distributions you received that has not pre-filled.\nIf the information is not pre-filled, you will need your statement from the managed fund. Your statement will indicate where you need to show the amounts on your tax return.\n- Your statement may include the tax return: label (such as 13U ) field name (such as Non-primary production income ).\n- In myTax at Managed fund distributions, enter the amount at the corresponding field, such as 13U Total non-primary production income .\nIf you think that any detail is wrong or is missing from the statement, contact the fund manager.\nTo personalise your return to show managed fund distributions, at Personalise return select:\n- You had managed fund or trust distributions (including where distribution has capital gains and foreign income).\nTo show your managed fund distributions, at Prepare return select 'Add/Edit' at the Managed fund and trust distributions banner.\nAt the Managed fund distributions banner:\n- For each managed fund distribution not pre-filled, select Add and enter information into the corresponding fields. Joint accounts If you had a joint account, show the number of account holders and the total amounts. MyTax will divide the amounts equally between the number of account holders. You may alter your share of the amounts. If you do, keep a record of how you worked out your share.\n- For each managed fund that has an amount at 20O. Total foreign income tax offset , check your distribution statement to see if you have a ‘Foreign tax offset applicable to discountable capital gains’. If so, you need to apportion that amount. To learn more, see Foreign income tax offset .\n- For each managed fund statement that has a 13S. Total credit for tax paid by trustee greater than '0'. select the Reason the trustee paid tax enter the Share of income .\n- Select Save .\n- Select Save and continue when you have completed the Managed fund and trust distributions section.\n### Foreign income tax offset\nIn some situations, only part of an amount on which foreign tax has been paid is included in Australian assessable income. When this occurs, only that proportion of the foreign income tax which equates to the proportion of foreign income included would be available as a tax offset.\nIn other situations, the foreign income tax paid relates to only part of an amount included in the taxpayer’s income for Australian income tax purposes. This typically applies where a foreign source gain on which foreign income tax has been paid is part of a net amount included in a taxpayer’s assessable income. When this occurs, the foreign income tax counts towards the tax offset only to the extent that it is paid in respect of that part of the amount that is included in the taxpayer’s assessable income.\nFor example, this may be relevant where a taxpayer has both a capital gain and a capital loss, and only the net amount is included in their assessable income. Under the rules applying to capital gains and capital losses, a taxpayer can choose the order in which capital losses are offset against gains. In particular, a taxpayer can choose to offset capital losses (whether current year or prior-year unapplied net capital losses) first against domestic capital gains or foreign gains on which no foreign tax has been paid. Such an ordering of the losses maximises the foreign source capital gain component of a net capital gain on which foreign income tax has been paid.\nIf only part of a foreign capital gain is assessable in Australia (for example, the gain is subject to the discount capital gains concessions in Division 115 of the ITAA 1997) the foreign tax paid on the gain must be apportioned accordingly. This includes, where a foreign capital gain is distributed to a unitholder of a managed investment trust (MIT) or attribution managed investment trust (AMIT). In such circumstances, when calculating your FITO, the 'Foreign tax offset applicable to discountable capital gains' shown at Part C – Tax offsets of the Attribution Managed Investment Trust Member Annual (AMMA) statement or Standard Distribution Statement (SDS) must be reduced for discounted capital gains.\nTo learn more, see when a foreign income tax offset applies .\n### Capital gains and managed funds\nIf your managed fund distribution includes a capital gains component, how you complete the rest of your myTax return will depend on your circumstances.\nIf your only capital gains are from managed funds or trusts and shown at the Managed fund and trust distributions section and:\n- your current year capital gains are $10,000 or less, you do not need to complete the Capital gains or losses section\n- your current year capital gains are more than $10,000, you need to complete the Capital gains or losses section myTax will prompt you to complete the Capital gains or losses section myTax will complete Total current year capital gains and Net capital gain in the Capital gains or losses section from information shown in the Managed fund and trust distributions section you will need to complete the Capital gains tax schedule.\nIf you have other capital gains tax events during the year or you have carried forward capital losses from a prior year:\n- you need to complete the Capital gains or losses section myTax will prompt you to complete the Capital gains or losses section the capital gains amounts shown in the Managed fund and trust distributions section will be automatically carried over to the Capital gains or losses section for you to review you will need to ensure that all your capital gains from managed funds and trusts are included in what you show at Total current year capital gains and Net capital gain .",
+  "child_links": [],
+  "word_count": 1097,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,791 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2012/supplementary-tax-return/income-questions-13-24/13-partnerships-and-trusts-2012",
+  "title": "13 - Partnerships and trusts 2012",
+  "description": "Complete question 13 to report income from partnerships and trusts.",
+  "nat_number": "71051",
+  "quick_code": "25727",
+  "date_updated": "2012-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, income, partnerships, trusts, partnership income, trust income",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Do not show the following income at this item or you may be taxed incorrectly:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "attributed foreign income and any other foreign source income from a partnership or trust; see question 19 and 20",
+        "a net capital gain from a trust (unless instructed otherwise); see question 18",
+        "a capital gain or a capital loss in respect of your interest in a partnership or a partnership asset; see question 18",
+        "income from a corporate limited partnership ; see question 11",
+        "income from a public trading trust or a corporate unit trust ; see question 11",
+        "interest you received, or were credited with, from a joint account, where you quoted your individual tax file number to the financial institution; see question 10",
+        "that part of a distribution which relates to an amount of trust income on which family trust distribution tax has been paid (see question A4 ) or trustee beneficiary non-disclosure tax has been paid",
+        "rent derived jointly (or in common) with another person from a jointly held property where you were not a member of a partnership carrying on a business of renting out properties."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Did you receive or were you entitled to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "income or a loss from a partnership",
+        "income from a trust (including a managed fund)",
+        "a credit for amounts of tax paid on or amounts withheld from partnership or trust income, or",
+        "a share of the national rental affordability scheme tax offset"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "or"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "did you have an interest in a trust that made a loss from primary production activities?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the partnership in which you were a partner paid you salary, wages or allowances, you must show that income at this item."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received or were entitled to a share of the income of a trust (including a managed fund) you must show your share of the trust's net income (for tax purposes) at this item. Do not show these amounts at item 10 or item 24 . The amount of your share of the trust's net income (for tax purposes) may be different from the actual distribution which you receive or are entitled to receive from the trust. Your trustee should provide you with details of your share of the trust's net income in your trust statement of distribution or advice. If you have not been advised about your share of the trust's net income, contact your trustee."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must show at this item your share of the net income of a managed fund, including a cash management trust, money market trust, mortgage trust, unit trust or managed fund such as a property trust, share trust, equity trust, growth trust, imputation trust or balanced trust. If you are unsure whether you have invested in such a trust, check with your advisor or the entity in which you have invested."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are the principal beneficiary of a special disability trust you are considered to be entitled to all the income of the trust."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to question 14 - Personal services income (PSI) , or return to main menu Individual tax return instructions"
+        ],
+        [
+          "YES",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have received or are entitled to an amount of income from a partnership or trust which includes a dividend with Australian franking credits from a New Zealand company, you may be eligible to claim the Australian franking credits. The instructions at question 20 - Foreign source income and foreign assets or property provide guidance on how to claim Australian franking credits from a New Zealand company. However, you cannot claim New Zealand imputation credits."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have deferred non-commercial business losses from a prior year, you may be able to claim them this year if you operated the same or a similar business. The deferred non-commercial business loss deduction you can claim in 2011-12 may be reduced if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you earned net exempt income in 2011-12, or",
+        "you have become bankrupt or were released from any debts by the operation of an Act relating to bankruptcy."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Phone 13 28 66 for more information."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were entitled to an amount of trust income at 30 June 2012, you need to include your share of the net income of the trust in your 2011-12 tax return even if you did not receive a distribution from the trust until after 30 June 2012. If you have not been advised about all of your trust entitlements, contact your trustee."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the trust income which you have received or are entitled to includes an amount described as tax-free, tax deferred, tax exempted or as a capital gains tax (CGT) concession, then read the information on non-assessable payments in Guide to capital gains tax 2012 (NAT 4151)"
+    },
+    {
+      "type": "paragraph",
+      "text": "While such amounts may not need to be included at this item, they may be relevant in determining the amount of a net capital gain you show at item 18 or may affect the cost base of your unit or trust interest."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show all categories of income from a partnership or trust at this item. If your partnership distribution or your trust statement of distribution or advice includes amounts of the following categories, show them at other items on your tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "unless instructed otherwise, show net capital gains from trusts at item 18",
+        "show attributed foreign income at item 19",
+        "show other foreign source income at item 20 ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You should not receive a distribution of a net capital gain or a net capital loss from a partnership. For information about how a partner shows their share of a capital gain or capital loss, see Guide to capital gains tax 2012 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you may need"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "A statement of distribution or advice from the partnership or trustee showing the following details in relation to your share of any distribution and your share of the trust's net income for tax purposes: the amount of any primary production income or loss and the amount of any non-primary production income or loss the amount of any franked distribution from a trust the amount of attributed foreign income and other foreign source income the amount of any income on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid your entitlement to any of the following credits or tax offsets credit for amounts of tax withheld because the partnership or trust failed to quote its Australian business number credit for amounts of tax withheld by the trustee of a closely held trust because you did not provide your TFN credit for amounts of tax withheld due to the imposition of non-resident withholding tax or managed investment trust withholding tax from partnership or trust income you received when you were a resident credit for amounts withheld from partnership and trust income as a result of the foreign resident withholding rules share of the national rental affordability scheme tax offset allowable franking credits from franked dividends credit for tax file number amounts withheld credit for tax paid by the trustee that you are a chosen beneficiary if you are the beneficiary of a discretionary primary production trust that has made a loss",
+        "Details of any deductions you can claim against your partnership income or your share of the trust's net income that have not already been claimed by the partnership or trust",
+        "The publication Business and professional items 2012 (NAT 2543) which contains the Business and professional items schedule for individuals 2012 (NAT 2816). If you conducted a business activity as a partner in a partnership that resulted in a loss, or resulted in a loss after deducting your expenses, you must complete items P3 and P9 on the Business and professional items schedule for individuals 2012 in addition to item 13 ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you think that any details are wrong or are missing from the statement of distribution or advice you received from the partnership or trust, contact the managing partner or trustee."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a foreign resident who has received a fund payment from a managed investment trust on which an amount was withheld, then read New withholding arrangements for managed fund distributions to foreign residents ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this item"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer the following three questions first."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were an Australian resident, you may be able to claim a credit for Australian withholding tax you have borne on any Australian source dividend, interest, royalty or payment from an Australian managed investment trust included in the income of a non-resident trust to which you are entitled. A non-resident trust is a trust which, for all of the income year:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "only has non-resident trustees, and",
+        "has its central management and control outside Australia."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1 Were you an Australian resident in receipt of, or entitled to receive, Australian source income from a non-resident trust?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were under a legal disability, you may be able to claim a credit for the tax that the trustee has paid on your share of the trust's net income. You are considered to be under a legal disability if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you are under 18 years old on 30 June 2012",
+        "you are a person who is bankrupt",
+        "you have been declared legally incapable because of a mental condition, or",
+        "you are the principal beneficiary of a special disability trust and you are an Australian resident on 30 June 2012."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2 Were you under a legal disability?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were not an Australian resident, you may be able to claim a credit for the tax that the trustee has paid on your share of income from a resident trust."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3 Were you a foreign resident?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you answered No to all three questions, go to part A ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you answered Yes to one or more of these questions, you will need to provide additional information. Print 'SCHEDULE OF ADDITIONAL INFORMATION - ITEM 13' at the top of a separate sheet of paper. Print your name, address, tax file number, the name of the trust, your share of income from the trust and any credits you are entitled to claim for that income, and explain your situation. Print X in the Yes box at Taxpayer's declaration question 2a on page 12 of your tax return. Attach your schedule to page 3 of your tax return. Read below."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pa rt A"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Were you a partner in a partnership that derived income or made a loss?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to part B below."
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total of your share of primary production partnership income or loss at N item 13 on page 13 of your tax return. Do not show cents. If you have a loss, print L in the box at the right of N ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total of your share of non-primary production partnership income or loss (excluding any attributed foreign income or other foreign source income) at O item 13 . Ensure that your share of any franked distributions (that may be shown on your distribution statement from the partnership) are included at O . The amount included at O should include the amount of any attached franking credits. Do not show cents. If you have a loss, print L in the box at the right of O ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete items P3 and P9 on the Business and professional items schedule for individuals 2012 if the amount at N or O includes a loss from a business activity operated by one or more of your partnerships."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Par t B"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Did you receive or were you entitled to income from a trust, or did you have an interest in a trust that made a loss from primary production activities?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are the principal beneficiary of a special disability trust you are considered to be entitled to all of the income of the trust."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to part C below."
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your statement of distribution or advice from the trust should show separately your share of primary production and non-primary production income (excluding net capital gains and foreign income) included in the calculation of the trust's net income (for tax purposes). It will also show whether the trust made a loss in relation to either or both of these income categories. This information is needed for averaging purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "You show your share of any primary production trust income or loss included in the calculation of the trust's net income at L item 13 on your tax return and your share of other trust income or loss included in the calculation of the trust's net income at the relevant item, either U item 13 , C item 13 or item 18 , 19 or 20 on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the trust made an overall loss for tax law purposes in 2011-12, the loss is retained in the trust. You will have no share of the net income of the trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need help, phone 13 28 61 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total of your share of primary production trust net income or loss at L item 13 on your tax return. Do not show cents. If you have a loss, print L in the box at the right of L ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write at U the total of your share of non-primary production trust net income or loss. If your statement of distribution or advice shows these amounts separately, exclude:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "net capital gains",
+        "attributed foreign income",
+        "other foreign source income, and",
+        "franked distributions from trusts."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Include any share of credits to be shown for share of credits from income covered in part E ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a loss, print L in the box at the right of U ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your statement of distribution or advice may show that your share of the trust's net capital gain is more than the overall amount of your share of the trust's net income (for tax purposes) included at item 13 , for example because it shows a share of primary production or non-primary production loss. In this situation, there may be a limit to the amount of the net capital gain component that you exclude from U and show at item 18 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information see the Guide to capital gains tax 2012 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your statement of distribution or advice shows your share of franked distributions from trusts separately, write this amount at C , together with any share of franking credits referrable to those franked distributions. The franking credits are also shown at Q under Share of credits from income and tax offsets covered in part E ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where you are a partner in a partnership, record the franked distributions shown on your statement of distribution from the partnership at O not C ."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Exception for primary producers"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may still be eligible for income averaging even where the trust reports a loss. While beneficiaries of fixed trusts that report a loss continue to be eligible for income averaging, beneficiaries of discretionary trusts are now required to meet some additional requirements."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information about these, see Income averaging for beneficiaries of primary production trusts ."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Completing your claim for income averaging"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are an eligible beneficiary and you show nothing at L so far write a zero amount at L ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information about how to complete your tax return, see Income averaging for beneficiaries of primary production trusts ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part C"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Can you claim any deductions in relation to a distribution from a partnership or trust?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to part D below."
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember, you cannot claim a deduction for amounts already claimed by the partnership or trust, or for expenses incurred in deriving exempt income or non-assessable non-exempt income (for example, expenses incurred in deriving distributions on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are the beneficiary of a discretionary trust you would not normally be able to claim a deduction for expenses you incurred in relation to your share of any net income of the trust under the general deduction provisions. This is because at the time you incurred the expense, you would not have been entitled to any income of the trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you made a prepayment of $1,000 or more for something to be done (in whole or in part) in a future income year, the amount you can deduct at X and Y may be affected by the rules relating to prepayments."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on prepayments, see Deductions for prepaid expenses 2012 (NAT 4170)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have incurred debt deductions, such as interest and borrowing costs, in relation to a distribution from a partnership or trust of more than $250,000 (alone or combined with those of your associate entities) for 2011-12, the amount that you can deduct at X and Y may be affected by the thin capitalisation rules. See more information at Thin capitalisation ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Primary production deductions"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were a partner in a partnership that incurred eligible expenditure on landcare operations or water facilities, the partnership cannot claim the expenditure. Costs incurred by the partnership are allocated to each partner who can then claim the deduction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write your share of the total of any such expenditure that relates to primary production income or loss from partnerships that you can deduct this year at I item 13 on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a trustee incurred eligible expenditure on landcare operations or water facilities, only the trustee, not a beneficiary of the trust, can claim deductions for that expenditure."
+    },
+    {
+      "type": "paragraph",
+      "text": "For further information on deductions for expenditure on landcare operations and water facilities, see Guide to depreciating assets 2012 (NAT 1996)."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write at X item 13 the total of any other deductions (including non-commercial business losses deferred from a prior year) you can claim in relation to your share of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "primary production income or loss from a partnership, or",
+        "primary production income of a trust."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were a partner in a partnership and you can claim a deduction in relation to your share of eligible expenditure incurred by the partnership on horticultural plants, grapevines, electricity connections or phone lines, include any such deduction that relates to primary production income or loss from a partnership at X . For information about deductions for expenditure on horticultural plants, grapevines, electricity connections and phone lines, see Guide to depreciating assets 2012 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Include a non-commercial business loss deferred from a prior year business activity only if it relates to one of your current year partnership business activities which is the same as, or similar to, the prior year business activity which generated the loss. See the example below ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "From the list below, print the code letter in the TYPE box at the right of X that describes business losses from a prior year that you are claiming at X ."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Print D if the entire amount at X is a deferred non-commercial business loss from a prior year.",
+        "Print P if only part of the amount at X is a deferred non-commercial business loss from a prior year.",
+        "Leave the TYPE box blank if the amount at X does not include any deferred non-commercial business losses from a prior year."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Non-primary production deductions"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a partnership incurs eligible expenditure on landcare operations, the partnership cannot claim the expenditure. Costs incurred by the partnership are allocated to each partner who can then claim the deduction. Write your share of the total of any such expenditure that relates to non-primary production income or loss from partnerships that you can deduct this year at J item 13 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a trustee incurred eligible expenditure on landcare operations, only the trustee, not a beneficiary of the trust, can claim deductions for that expenditure. For more information on deductions for expenditure on landcare operations, see Guide to depreciating assets 2012 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write at Y item 13 the total of other deductions (including non-commercial business losses deferred from a prior year) you can claim in relation to your share of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "non-primary production income or loss from a partnership, and",
+        "non-primary production income of a trust, including any deductions relating to franked distributions from trusts."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were a partner in a partnership and you can claim a deduction in relation to your share of eligible expenditure incurred by the partnership on electricity connections, include any such deduction that relates to non-primary production income or loss from partnerships at Y item 13 . For information about deductions for expenditure on electricity connections, see Guide to depreciating assets 2012 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Include non-commercial business losses deferred from a prior year only if they relate to a partnership activity which is the same as, or similar to, your current year partnership activity."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "From the list below, print the code letter in the TYPE box at the right of Y that describes business losses from a prior year that you are claiming at Y ."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Print D if the entire amount at Y is a deferred non-commercial business loss from a prior year.",
+        "Print P if only part of the amount at Y is a deferred non-commercial business loss from a prior year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Leave the TYPE box blank if the amount at Y does not include any deferred non-commercial business losses from a prior year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exam ple"
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2010-11 Lisa deferred total non-commercial business losses of $6,000 from her share of partnership business activities made up of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$5,000 from a furniture restoration business, and",
+        "$1,000 from a computer consultancy business."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The partnership did not carry on the computer consultancy business in 2011-12. Lisa cannot include her $1,000 loss from the computer consultancy business at Y. This amount does not relate to a business activity which is the same as, or similar to, her current year partnership business activity."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2011-12 Lisa's partnership distribution from the furniture restoration business was $2,000. Lisa includes the $2,000 at O, $5,000 as a deferred loss relating to the furniture restoration business at Y and prints D in the TYPE box. Therefore, her net distribution from this partnership business activity is a loss of $3,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lisa must also show her $5,000 loss from the furniture restoration business at item 16 and against Deferred non-commercial business loss from a prior year at item P9 on the Business and professional items schedule for individuals 2012 . She must also show the net distribution of the $3,000 loss from the furniture restoration business against Net loss at item P9 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lisa should keep a record of her $1,000 deferred loss from the computer consultancy business, as she may be able to claim it in a later year if that business starts again or she starts a similar business."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "P art D"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Working out net distribution from primary production and non-primary production"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Net primary production distribution"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add the income amounts at N and L or deduct loss amounts (if any) and take away the amounts at I and X . Write the answer at item 13 Net primary production distribution on your tax return. Do not show cents."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your answer is a loss, print L in the LOSS box at the right of Net primary production distribution ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a total net loss from a partnership business activity, complete items P3 and P9 on the Business and professional items schedule for individuals 2012 in addition to item 13 on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Net non-primary production distribution"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add the income amounts at O and U or deduct loss amounts (if any), add any amounts at C and take away the amounts at J and Y . Write the answer at item 13 Net non-primary production distribution ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your answer is a loss, print L in the LOSS box at the right of Net non-primary production distribution ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a total net loss from a partnership business activity, complete items P3 and P9 on the Business and professional items schedule for individuals 2012 in addition to item 13 on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the partnership or trust income which you have received or to which you are entitled includes income from activities as an author of a literary, dramatic, musical or artistic work, inventor, performing artist, production associate or active sportsperson, you must also write the amount of this taxable professional income at Z item 24 . You will not be taxed twice on this income. More information is available at question 24 - Other income ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Par t E"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Share of credits from income and tax offsets"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the partnership or trust income you have shown at N , L , O , U or C item 13 on your tax return includes or is attributable to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "income from which an amount of tax was withheld because an Australian business number was not quoted; write your share of the distributed credit at P item 13 (show cents)",
+        "interest, dividends and unit trust distributions from which tax file number (TFN) amounts have been withheld; write the total of your share of credits for TFN amounts withheld at R item 13 (show cents)",
+        "payments from a closely held trust from which TFN amounts have been withheld; write the total of your credits for those amounts withheld at M item 13 (show cents)",
+        "income you received when you were an Australian resident from which an amount of tax was withheld because of the imposition of non-resident withholding tax or managed investment trust withholding tax you derived as a foreign resident from which an amount of tax was withheld because of the operation of the foreign resident withholding rules; write the total amount of these credits for amounts withheld at A item 13 (show cents)",
+        "national rental affordability scheme rent; write your share of national rental affordability scheme tax offset at B item 13 (show cents)",
+        "other credits for tax paid by a trustee on trust income; write the total of your share of credits for tax paid by a trustee at S item 13 (show cents)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Franking credits"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the amount of your share of any allowable franking credits which you are entitled to claim as a franking tax offset through a partnership or trust at Q item 13 . Show cents."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can only claim a share of a franking credit which relates to the share of a franked dividend paid to a partnership or trust which is indirectly included in the amount of partnership income or loss you show at O item 13 , or in the amount of trust income you show at U item 13 or franked distribution you show at C item 13 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Therefore, you cannot claim a franking credit for a dividend paid to the partnership or trust which was exempt income or non-assessable non-exempt income (for example, a distribution on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim a share of a franking credit through a trust in the following circumstances:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the trust has an overall loss for tax purposes for 2011-12, or",
+        "you did not show an amount of franked distributions from trusts at C item 13 , or",
+        "the amount of income from the trust you have shown at U item 13 is not attributable to the franked dividend which has generated the franking credit."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition, in order to claim a franking credit in respect of a particular dividend both you and the partnership or trustee must be qualified persons in relation to that dividend, see Qualified person below."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Qualified person"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are rules, known as franking credit trading rules, designed to prevent the use of franking credits by persons who only briefly own their shares or who do not effectively own their shares. Under these rules, known as the 'holding period rule' and the 'related payments rule', you must satisfy certain criteria before you are considered to be a qualified person."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you derived dividends indirectly through a distribution from a partnership or trust (except a widely held trust) you need to determine what component of the trust or partnership distribution is attributable to a particular dividend, and then determine whether you have satisfied the holding period rule and the related payments rule in relation to that dividend."
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustee or the partnership itself must also have satisfied these rules."
+    },
+    {
+      "type": "paragraph",
+      "text": "The holding period rule applies to shares bought on or after 1 July 1997. It applies to you if you (or the partnership or trust) sold shares within 45 days of buying them. It also applies to you if you (or the partnership or trust) entered into a risk reduction arrangement, such as a derivative transaction, within that time. The holding period is 90 days for certain preference shares."
+    },
+    {
+      "type": "paragraph",
+      "text": "The related payments rule applies to arrangements entered into after 7.30pm (Australian Eastern Standard Time) on 13 May 1997. It applies to you (or the partnership or trust) if you were under an obligation to make a related payment for a dividend and you did not hold your shares 'at risk' during a specified qualifying period."
+    },
+    {
+      "type": "paragraph",
+      "text": "Special rules apply if you are the beneficiary of a trust and the trustee has made a family trust election."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a beneficiary in a widely held trust, you are treated as holding an interest in all the shares or interests held by the trust. You are only required to satisfy the 45-day rule in relation to your interest in the trust as a whole, rather than in relation to each share in which you had an interest under the trust. The trustee should be able to advise if a particular trust qualifies as a widely held trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you failed to satisfy the holding period rule, and the related payments rule does not apply to you, you may still be entitled to a franking tax offset if you qualify for the small shareholder exemption. The small shareholder exemption applies provided that you do not exceed the franking tax offset ceiling of $5,000 on all your franking tax offset entitlements in a given year, whether received directly or indirectly through a partnership or trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "If any of these measures are likely to affect you, read You and your shares 2012 (NAT 2632)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Check that you have ..."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "completed as necessary parts A , B , C , D and E",
+        "attached to page 3 of your tax return your SCHEDULE OF ADDITIONAL INFORMATION - ITEM 13, if you need to send us one",
+        "kept a record of each distribution with your other records. You need the following information: name and tax file number of the partnership or trust, amount and source of distribution, amount of any taxable professional income, amount and type of deductions claimed, and amount and type of any share of credits."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a distribution from a partnership or trust that is a small business entity, you may be eligible to claim the entrepreneurs tax offset. You may need to complete item T13 - Entrepreneurs tax offset ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question 14 - Personal services income (PSI) . return to main menu Individual tax return instructions go back to Income that you show on the supplementary section of the tax return"
+        ]
+      ]
+    }
+  ],
+  "content_text": "Do not show the following income at this item or you may be taxed incorrectly:\n- attributed foreign income and any other foreign source income from a partnership or trust; see question 19 and 20\n- a net capital gain from a trust (unless instructed otherwise); see question 18\n- a capital gain or a capital loss in respect of your interest in a partnership or a partnership asset; see question 18\n- income from a corporate limited partnership ; see question 11\n- income from a public trading trust or a corporate unit trust ; see question 11\n- interest you received, or were credited with, from a joint account, where you quoted your individual tax file number to the financial institution; see question 10\n- that part of a distribution which relates to an amount of trust income on which family trust distribution tax has been paid (see question A4 ) or trustee beneficiary non-disclosure tax has been paid\n- rent derived jointly (or in common) with another person from a jointly held property where you were not a member of a partnership carrying on a business of renting out properties.\n## Did you receive or were you entitled to:\n- income or a loss from a partnership\n- income from a trust (including a managed fund)\n- a credit for amounts of tax paid on or amounts withheld from partnership or trust income, or\n- a share of the national rental affordability scheme tax offset\nor\n- did you have an interest in a trust that made a loss from primary production activities?\nIf the partnership in which you were a partner paid you salary, wages or allowances, you must show that income at this item.\nIf you received or were entitled to a share of the income of a trust (including a managed fund) you must show your share of the trust's net income (for tax purposes) at this item. Do not show these amounts at item 10 or item 24 . The amount of your share of the trust's net income (for tax purposes) may be different from the actual distribution which you receive or are entitled to receive from the trust. Your trustee should provide you with details of your share of the trust's net income in your trust statement of distribution or advice. If you have not been advised about your share of the trust's net income, contact your trustee.\nYou must show at this item your share of the net income of a managed fund, including a cash management trust, money market trust, mortgage trust, unit trust or managed fund such as a property trust, share trust, equity trust, growth trust, imputation trust or balanced trust. If you are unsure whether you have invested in such a trust, check with your advisor or the entity in which you have invested.\nIf you are the principal beneficiary of a special disability trust you are considered to be entitled to all the income of the trust.\nNO | Go to question 14 - Personal services income (PSI) , or return to main menu Individual tax return instructions\nYES | Read on.\n## You need to know\nIf you have received or are entitled to an amount of income from a partnership or trust which includes a dividend with Australian franking credits from a New Zealand company, you may be eligible to claim the Australian franking credits. The instructions at question 20 - Foreign source income and foreign assets or property provide guidance on how to claim Australian franking credits from a New Zealand company. However, you cannot claim New Zealand imputation credits.\nIf you have deferred non-commercial business losses from a prior year, you may be able to claim them this year if you operated the same or a similar business. The deferred non-commercial business loss deduction you can claim in 2011-12 may be reduced if:\n- you earned net exempt income in 2011-12, or\n- you have become bankrupt or were released from any debts by the operation of an Act relating to bankruptcy.\nPhone 13 28 66 for more information.\nIf you were entitled to an amount of trust income at 30 June 2012, you need to include your share of the net income of the trust in your 2011-12 tax return even if you did not receive a distribution from the trust until after 30 June 2012. If you have not been advised about all of your trust entitlements, contact your trustee.\nIf the trust income which you have received or are entitled to includes an amount described as tax-free, tax deferred, tax exempted or as a capital gains tax (CGT) concession, then read the information on non-assessable payments in Guide to capital gains tax 2012 (NAT 4151)\nWhile such amounts may not need to be included at this item, they may be relevant in determining the amount of a net capital gain you show at item 18 or may affect the cost base of your unit or trust interest.\nDo not show all categories of income from a partnership or trust at this item. If your partnership distribution or your trust statement of distribution or advice includes amounts of the following categories, show them at other items on your tax return:\n- unless instructed otherwise, show net capital gains from trusts at item 18\n- show attributed foreign income at item 19\n- show other foreign source income at item 20 .\nYou should not receive a distribution of a net capital gain or a net capital loss from a partnership. For information about how a partner shows their share of a capital gain or capital loss, see Guide to capital gains tax 2012 .\n## What you may need\n- A statement of distribution or advice from the partnership or trustee showing the following details in relation to your share of any distribution and your share of the trust's net income for tax purposes: the amount of any primary production income or loss and the amount of any non-primary production income or loss the amount of any franked distribution from a trust the amount of attributed foreign income and other foreign source income the amount of any income on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid your entitlement to any of the following credits or tax offsets credit for amounts of tax withheld because the partnership or trust failed to quote its Australian business number credit for amounts of tax withheld by the trustee of a closely held trust because you did not provide your TFN credit for amounts of tax withheld due to the imposition of non-resident withholding tax or managed investment trust withholding tax from partnership or trust income you received when you were a resident credit for amounts withheld from partnership and trust income as a result of the foreign resident withholding rules share of the national rental affordability scheme tax offset allowable franking credits from franked dividends credit for tax file number amounts withheld credit for tax paid by the trustee that you are a chosen beneficiary if you are the beneficiary of a discretionary primary production trust that has made a loss\n- Details of any deductions you can claim against your partnership income or your share of the trust's net income that have not already been claimed by the partnership or trust\n- The publication Business and professional items 2012 (NAT 2543) which contains the Business and professional items schedule for individuals 2012 (NAT 2816). If you conducted a business activity as a partner in a partnership that resulted in a loss, or resulted in a loss after deducting your expenses, you must complete items P3 and P9 on the Business and professional items schedule for individuals 2012 in addition to item 13 .\nIf you think that any details are wrong or are missing from the statement of distribution or advice you received from the partnership or trust, contact the managing partner or trustee.\nIf you are a foreign resident who has received a fund payment from a managed investment trust on which an amount was withheld, then read New withholding arrangements for managed fund distributions to foreign residents .\n## Completing this item\nAnswer the following three questions first.\nIf you were an Australian resident, you may be able to claim a credit for Australian withholding tax you have borne on any Australian source dividend, interest, royalty or payment from an Australian managed investment trust included in the income of a non-resident trust to which you are entitled. A non-resident trust is a trust which, for all of the income year:\n- only has non-resident trustees, and\n- has its central management and control outside Australia.\n### 1 Were you an Australian resident in receipt of, or entitled to receive, Australian source income from a non-resident trust?\nIf you were under a legal disability, you may be able to claim a credit for the tax that the trustee has paid on your share of the trust's net income. You are considered to be under a legal disability if:\n- you are under 18 years old on 30 June 2012\n- you are a person who is bankrupt\n- you have been declared legally incapable because of a mental condition, or\n- you are the principal beneficiary of a special disability trust and you are an Australian resident on 30 June 2012.\n### 2 Were you under a legal disability?\nIf you were not an Australian resident, you may be able to claim a credit for the tax that the trustee has paid on your share of income from a resident trust.\n### 3 Were you a foreign resident?\nIf you answered No to all three questions, go to part A .\nIf you answered Yes to one or more of these questions, you will need to provide additional information. Print 'SCHEDULE OF ADDITIONAL INFORMATION - ITEM 13' at the top of a separate sheet of paper. Print your name, address, tax file number, the name of the trust, your share of income from the trust and any credits you are entitled to claim for that income, and explain your situation. Print X in the Yes box at Taxpayer's declaration question 2a on page 12 of your tax return. Attach your schedule to page 3 of your tax return. Read below.\n### Pa rt A\n#### Were you a partner in a partnership that derived income or made a loss?\nNO | Go to part B below.\nYES | Read below.\n#### Step 1\nWrite the total of your share of primary production partnership income or loss at N item 13 on page 13 of your tax return. Do not show cents. If you have a loss, print L in the box at the right of N .\n#### Step 2\nWrite the total of your share of non-primary production partnership income or loss (excluding any attributed foreign income or other foreign source income) at O item 13 . Ensure that your share of any franked distributions (that may be shown on your distribution statement from the partnership) are included at O . The amount included at O should include the amount of any attached franking credits. Do not show cents. If you have a loss, print L in the box at the right of O .\n#### Step 3\nComplete items P3 and P9 on the Business and professional items schedule for individuals 2012 if the amount at N or O includes a loss from a business activity operated by one or more of your partnerships.\n### Par t B\n#### Did you receive or were you entitled to income from a trust, or did you have an interest in a trust that made a loss from primary production activities?\nIf you are the principal beneficiary of a special disability trust you are considered to be entitled to all of the income of the trust.\nNO | Go to part C below.\nYES | Read below.\nYour statement of distribution or advice from the trust should show separately your share of primary production and non-primary production income (excluding net capital gains and foreign income) included in the calculation of the trust's net income (for tax purposes). It will also show whether the trust made a loss in relation to either or both of these income categories. This information is needed for averaging purposes.\nYou show your share of any primary production trust income or loss included in the calculation of the trust's net income at L item 13 on your tax return and your share of other trust income or loss included in the calculation of the trust's net income at the relevant item, either U item 13 , C item 13 or item 18 , 19 or 20 on your tax return.\nIf the trust made an overall loss for tax law purposes in 2011-12, the loss is retained in the trust. You will have no share of the net income of the trust.\nIf you need help, phone 13 28 61 .\n#### Step 1\nWrite the total of your share of primary production trust net income or loss at L item 13 on your tax return. Do not show cents. If you have a loss, print L in the box at the right of L .\n#### Step 2\nWrite at U the total of your share of non-primary production trust net income or loss. If your statement of distribution or advice shows these amounts separately, exclude:\n- net capital gains\n- attributed foreign income\n- other foreign source income, and\n- franked distributions from trusts.\nInclude any share of credits to be shown for share of credits from income covered in part E .\nIf you have a loss, print L in the box at the right of U .\nYour statement of distribution or advice may show that your share of the trust's net capital gain is more than the overall amount of your share of the trust's net income (for tax purposes) included at item 13 , for example because it shows a share of primary production or non-primary production loss. In this situation, there may be a limit to the amount of the net capital gain component that you exclude from U and show at item 18 .\nFor more information see the Guide to capital gains tax 2012 .\nIf your statement of distribution or advice shows your share of franked distributions from trusts separately, write this amount at C , together with any share of franking credits referrable to those franked distributions. The franking credits are also shown at Q under Share of credits from income and tax offsets covered in part E .\nWhere you are a partner in a partnership, record the franked distributions shown on your statement of distribution from the partnership at O not C .\n##### Exception for primary producers\nYou may still be eligible for income averaging even where the trust reports a loss. While beneficiaries of fixed trusts that report a loss continue to be eligible for income averaging, beneficiaries of discretionary trusts are now required to meet some additional requirements.\nFor more information about these, see Income averaging for beneficiaries of primary production trusts .\n##### Completing your claim for income averaging\nIf you are an eligible beneficiary and you show nothing at L so far write a zero amount at L .\nFor more information about how to complete your tax return, see Income averaging for beneficiaries of primary production trusts .\n### Part C\n#### Can you claim any deductions in relation to a distribution from a partnership or trust?\nNO | Go to part D below.\nYES | Read below.\nRemember, you cannot claim a deduction for amounts already claimed by the partnership or trust, or for expenses incurred in deriving exempt income or non-assessable non-exempt income (for example, expenses incurred in deriving distributions on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid).\nIf you are the beneficiary of a discretionary trust you would not normally be able to claim a deduction for expenses you incurred in relation to your share of any net income of the trust under the general deduction provisions. This is because at the time you incurred the expense, you would not have been entitled to any income of the trust.\nIf you made a prepayment of $1,000 or more for something to be done (in whole or in part) in a future income year, the amount you can deduct at X and Y may be affected by the rules relating to prepayments.\nFor more information on prepayments, see Deductions for prepaid expenses 2012 (NAT 4170)\nIf you have incurred debt deductions, such as interest and borrowing costs, in relation to a distribution from a partnership or trust of more than $250,000 (alone or combined with those of your associate entities) for 2011-12, the amount that you can deduct at X and Y may be affected by the thin capitalisation rules. See more information at Thin capitalisation .\n#### Primary production deductions\n#### Step 1\nIf you were a partner in a partnership that incurred eligible expenditure on landcare operations or water facilities, the partnership cannot claim the expenditure. Costs incurred by the partnership are allocated to each partner who can then claim the deduction.\nWrite your share of the total of any such expenditure that relates to primary production income or loss from partnerships that you can deduct this year at I item 13 on your tax return.\nIf a trustee incurred eligible expenditure on landcare operations or water facilities, only the trustee, not a beneficiary of the trust, can claim deductions for that expenditure.\nFor further information on deductions for expenditure on landcare operations and water facilities, see Guide to depreciating assets 2012 (NAT 1996).\n#### Step 2\nWrite at X item 13 the total of any other deductions (including non-commercial business losses deferred from a prior year) you can claim in relation to your share of:\n- primary production income or loss from a partnership, or\n- primary production income of a trust.\nIf you were a partner in a partnership and you can claim a deduction in relation to your share of eligible expenditure incurred by the partnership on horticultural plants, grapevines, electricity connections or phone lines, include any such deduction that relates to primary production income or loss from a partnership at X . For information about deductions for expenditure on horticultural plants, grapevines, electricity connections and phone lines, see Guide to depreciating assets 2012 .\nInclude a non-commercial business loss deferred from a prior year business activity only if it relates to one of your current year partnership business activities which is the same as, or similar to, the prior year business activity which generated the loss. See the example below .\n#### Step 3\nFrom the list below, print the code letter in the TYPE box at the right of X that describes business losses from a prior year that you are claiming at X .\n- Print D if the entire amount at X is a deferred non-commercial business loss from a prior year.\n- Print P if only part of the amount at X is a deferred non-commercial business loss from a prior year.\n- Leave the TYPE box blank if the amount at X does not include any deferred non-commercial business losses from a prior year.\n#### Non-primary production deductions\n#### Step 1\nIf a partnership incurs eligible expenditure on landcare operations, the partnership cannot claim the expenditure. Costs incurred by the partnership are allocated to each partner who can then claim the deduction. Write your share of the total of any such expenditure that relates to non-primary production income or loss from partnerships that you can deduct this year at J item 13 .\nIf a trustee incurred eligible expenditure on landcare operations, only the trustee, not a beneficiary of the trust, can claim deductions for that expenditure. For more information on deductions for expenditure on landcare operations, see Guide to depreciating assets 2012 .\n#### Step 2\nWrite at Y item 13 the total of other deductions (including non-commercial business losses deferred from a prior year) you can claim in relation to your share of:\n- non-primary production income or loss from a partnership, and\n- non-primary production income of a trust, including any deductions relating to franked distributions from trusts.\nIf you were a partner in a partnership and you can claim a deduction in relation to your share of eligible expenditure incurred by the partnership on electricity connections, include any such deduction that relates to non-primary production income or loss from partnerships at Y item 13 . For information about deductions for expenditure on electricity connections, see Guide to depreciating assets 2012 .\nInclude non-commercial business losses deferred from a prior year only if they relate to a partnership activity which is the same as, or similar to, your current year partnership activity.\n#### Step 3\nFrom the list below, print the code letter in the TYPE box at the right of Y that describes business losses from a prior year that you are claiming at Y .\n- Print D if the entire amount at Y is a deferred non-commercial business loss from a prior year.\n- Print P if only part of the amount at Y is a deferred non-commercial business loss from a prior year.\nLeave the TYPE box blank if the amount at Y does not include any deferred non-commercial business losses from a prior year.\nExam ple\nIn 2010-11 Lisa deferred total non-commercial business losses of $6,000 from her share of partnership business activities made up of:\n- $5,000 from a furniture restoration business, and\n- $1,000 from a computer consultancy business.\nThe partnership did not carry on the computer consultancy business in 2011-12. Lisa cannot include her $1,000 loss from the computer consultancy business at Y. This amount does not relate to a business activity which is the same as, or similar to, her current year partnership business activity.\nIn 2011-12 Lisa's partnership distribution from the furniture restoration business was $2,000. Lisa includes the $2,000 at O, $5,000 as a deferred loss relating to the furniture restoration business at Y and prints D in the TYPE box. Therefore, her net distribution from this partnership business activity is a loss of $3,000.\nLisa must also show her $5,000 loss from the furniture restoration business at item 16 and against Deferred non-commercial business loss from a prior year at item P9 on the Business and professional items schedule for individuals 2012 . She must also show the net distribution of the $3,000 loss from the furniture restoration business against Net loss at item P9 .\nLisa should keep a record of her $1,000 deferred loss from the computer consultancy business, as she may be able to claim it in a later year if that business starts again or she starts a similar business.\n### P art D\n#### Working out net distribution from primary production and non-primary production\n#### Step 1\nNet primary production distribution\nAdd the income amounts at N and L or deduct loss amounts (if any) and take away the amounts at I and X . Write the answer at item 13 Net primary production distribution on your tax return. Do not show cents.\nIf your answer is a loss, print L in the LOSS box at the right of Net primary production distribution .\nIf you have a total net loss from a partnership business activity, complete items P3 and P9 on the Business and professional items schedule for individuals 2012 in addition to item 13 on your tax return.\n#### Step 2\nNet non-primary production distribution\nAdd the income amounts at O and U or deduct loss amounts (if any), add any amounts at C and take away the amounts at J and Y . Write the answer at item 13 Net non-primary production distribution .\nIf your answer is a loss, print L in the LOSS box at the right of Net non-primary production distribution .\nIf you have a total net loss from a partnership business activity, complete items P3 and P9 on the Business and professional items schedule for individuals 2012 in addition to item 13 on your tax return.\nIf the partnership or trust income which you have received or to which you are entitled includes income from activities as an author of a literary, dramatic, musical or artistic work, inventor, performing artist, production associate or active sportsperson, you must also write the amount of this taxable professional income at Z item 24 . You will not be taxed twice on this income. More information is available at question 24 - Other income .\n### Par t E\n#### Share of credits from income and tax offsets\nIf the partnership or trust income you have shown at N , L , O , U or C item 13 on your tax return includes or is attributable to:\n- income from which an amount of tax was withheld because an Australian business number was not quoted; write your share of the distributed credit at P item 13 (show cents)\n- interest, dividends and unit trust distributions from which tax file number (TFN) amounts have been withheld; write the total of your share of credits for TFN amounts withheld at R item 13 (show cents)\n- payments from a closely held trust from which TFN amounts have been withheld; write the total of your credits for those amounts withheld at M item 13 (show cents)\n- income you received when you were an Australian resident from which an amount of tax was withheld because of the imposition of non-resident withholding tax or managed investment trust withholding tax you derived as a foreign resident from which an amount of tax was withheld because of the operation of the foreign resident withholding rules; write the total amount of these credits for amounts withheld at A item 13 (show cents)\n- national rental affordability scheme rent; write your share of national rental affordability scheme tax offset at B item 13 (show cents)\n- other credits for tax paid by a trustee on trust income; write the total of your share of credits for tax paid by a trustee at S item 13 (show cents).\n#### Franking credits\nWrite the amount of your share of any allowable franking credits which you are entitled to claim as a franking tax offset through a partnership or trust at Q item 13 . Show cents.\nYou can only claim a share of a franking credit which relates to the share of a franked dividend paid to a partnership or trust which is indirectly included in the amount of partnership income or loss you show at O item 13 , or in the amount of trust income you show at U item 13 or franked distribution you show at C item 13 .\nTherefore, you cannot claim a franking credit for a dividend paid to the partnership or trust which was exempt income or non-assessable non-exempt income (for example, a distribution on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid).\nYou cannot claim a share of a franking credit through a trust in the following circumstances:\n- the trust has an overall loss for tax purposes for 2011-12, or\n- you did not show an amount of franked distributions from trusts at C item 13 , or\n- the amount of income from the trust you have shown at U item 13 is not attributable to the franked dividend which has generated the franking credit.\nIn addition, in order to claim a franking credit in respect of a particular dividend both you and the partnership or trustee must be qualified persons in relation to that dividend, see Qualified person below.\n#### Qualified person\nThere are rules, known as franking credit trading rules, designed to prevent the use of franking credits by persons who only briefly own their shares or who do not effectively own their shares. Under these rules, known as the 'holding period rule' and the 'related payments rule', you must satisfy certain criteria before you are considered to be a qualified person.\nIf you derived dividends indirectly through a distribution from a partnership or trust (except a widely held trust) you need to determine what component of the trust or partnership distribution is attributable to a particular dividend, and then determine whether you have satisfied the holding period rule and the related payments rule in relation to that dividend.\nThe trustee or the partnership itself must also have satisfied these rules.\nThe holding period rule applies to shares bought on or after 1 July 1997. It applies to you if you (or the partnership or trust) sold shares within 45 days of buying them. It also applies to you if you (or the partnership or trust) entered into a risk reduction arrangement, such as a derivative transaction, within that time. The holding period is 90 days for certain preference shares.\nThe related payments rule applies to arrangements entered into after 7.30pm (Australian Eastern Standard Time) on 13 May 1997. It applies to you (or the partnership or trust) if you were under an obligation to make a related payment for a dividend and you did not hold your shares 'at risk' during a specified qualifying period.\nSpecial rules apply if you are the beneficiary of a trust and the trustee has made a family trust election.\nIf you are a beneficiary in a widely held trust, you are treated as holding an interest in all the shares or interests held by the trust. You are only required to satisfy the 45-day rule in relation to your interest in the trust as a whole, rather than in relation to each share in which you had an interest under the trust. The trustee should be able to advise if a particular trust qualifies as a widely held trust.\nIf you failed to satisfy the holding period rule, and the related payments rule does not apply to you, you may still be entitled to a franking tax offset if you qualify for the small shareholder exemption. The small shareholder exemption applies provided that you do not exceed the franking tax offset ceiling of $5,000 on all your franking tax offset entitlements in a given year, whether received directly or indirectly through a partnership or trust.\nIf any of these measures are likely to affect you, read You and your shares 2012 (NAT 2632).\n### Check that you have ...\n- completed as necessary parts A , B , C , D and E\n- attached to page 3 of your tax return your SCHEDULE OF ADDITIONAL INFORMATION - ITEM 13, if you need to send us one\n- kept a record of each distribution with your other records. You need the following information: name and tax file number of the partnership or trust, amount and source of distribution, amount of any taxable professional income, amount and type of deductions claimed, and amount and type of any share of credits.\nIf you received a distribution from a partnership or trust that is a small business entity, you may be eligible to claim the entrepreneurs tax offset. You may need to complete item T13 - Entrepreneurs tax offset .\nWhere to go next go to question 14 - Personal services income (PSI) . return to main menu Individual tax return instructions go back to Income that you show on the supplementary section of the tax return",
+  "child_links": [],
+  "word_count": 5299,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

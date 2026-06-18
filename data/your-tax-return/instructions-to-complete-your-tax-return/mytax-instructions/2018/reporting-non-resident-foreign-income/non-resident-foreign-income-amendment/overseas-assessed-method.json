@@ -1,0 +1,70 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/reporting-non-resident-foreign-income/non-resident-foreign-income-amendment/overseas-assessed-method",
+  "title": "Overseas assessed method",
+  "description": "How to use the overseas assessed method to complete the Non-resident foreign income section.",
+  "nat_number": "",
+  "quick_code": "80478",
+  "date_updated": "2024-03-05T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Under the overseas assessed method, your net non-resident foreign income amount is your income for taxation purposes according to the most recent tax assessment by a taxation authority of a foreign country."
+    },
+    {
+      "type": "paragraph",
+      "text": "If no tax was payable because the foreign income is below the foreign country's tax threshold, this option is still available provided there is an income assessment (provide your income for taxation purposes)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The assessment must cover a period of 12 months, even if income was not earned for the whole 12 months. If this period of 12 months overlaps with the Australian income year (1 July to 30 June), you can use the assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot use this method of assessment if any of the following apply:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the period of 12 months for which your income was assessed by a foreign taxation authority does not overlap with the relevant Australian income year that the assessment relates to. This is to ensure that you are reporting your income for a period of time as closely aligned as possible with the Australian income year",
+        "multiple assessments of your income have been made by tax authorities of different foreign countries for periods of 12 months that overlap with the relevant Australian income year",
+        "the most recent tax assessment made by a foreign tax authority has already been used to work out your foreign-sourced income for a previous income year."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "TFN equivalent in the relevant tax jurisdiction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Each tax jurisdiction will use an identifier for their taxpayers, whether it is an identity number to access all government services, or an identifier specific to that nation's revenue agency. You need to include the identifier here."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Net non-resident foreign income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enter the income amount that appears on your foreign income tax assessment. That is, your income for taxation purposes according to the tax assessment you received from a taxation authority of the foreign country that made the assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "All amounts must be converted to Australian dollars before being reported, using the average annual exchange rate for the financial year most closely corresponding to the 2017–18 income year. For assistance converting your currency, you can use the foreign income conversion calculator This link opens in a new window ."
+    }
+  ],
+  "content_text": "Under the overseas assessed method, your net non-resident foreign income amount is your income for taxation purposes according to the most recent tax assessment by a taxation authority of a foreign country.\nIf no tax was payable because the foreign income is below the foreign country's tax threshold, this option is still available provided there is an income assessment (provide your income for taxation purposes).\nThe assessment must cover a period of 12 months, even if income was not earned for the whole 12 months. If this period of 12 months overlaps with the Australian income year (1 July to 30 June), you can use the assessment.\nYou cannot use this method of assessment if any of the following apply:\n- the period of 12 months for which your income was assessed by a foreign taxation authority does not overlap with the relevant Australian income year that the assessment relates to. This is to ensure that you are reporting your income for a period of time as closely aligned as possible with the Australian income year\n- multiple assessments of your income have been made by tax authorities of different foreign countries for periods of 12 months that overlap with the relevant Australian income year\n- the most recent tax assessment made by a foreign tax authority has already been used to work out your foreign-sourced income for a previous income year.\n## Completing this section\n### TFN equivalent in the relevant tax jurisdiction\nEach tax jurisdiction will use an identifier for their taxpayers, whether it is an identity number to access all government services, or an identifier specific to that nation's revenue agency. You need to include the identifier here.\n### Net non-resident foreign income\nEnter the income amount that appears on your foreign income tax assessment. That is, your income for taxation purposes according to the tax assessment you received from a taxation authority of the foreign country that made the assessment.\nAll amounts must be converted to Australian dollars before being reported, using the average annual exchange rate for the financial year most closely corresponding to the 2017–18 income year. For assistance converting your currency, you can use the foreign income conversion calculator This link opens in a new window .",
+  "child_links": [],
+  "word_count": 374,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,241 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2012/supplementary-tax-return/income-questions-13-24/19-foreign-entities-2012",
+  "title": "19 - Foreign entities 2012",
+  "description": "Complete question 19 to report your interests in foreign entities.",
+  "nat_number": "71051",
+  "quick_code": "25733",
+  "date_updated": "2012-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, TaxPack supplement, foreign entities",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Are you an Australian resident for tax purposes who:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "had either a direct or an indirect interest in a controlled foreign company (CFC), or",
+        "at any time, directly or indirectly transferred or caused the transfer of property (including money) or services to a non-resident trust?"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to question 20 - Foreign source income and foreign assets or property , or return to main menu Individual tax return instructions"
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you need"
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign income return form guide (NAT 1840)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a temporary resident you will not need to show your foreign investment income at this item. See Tax-free income for temporary residents in Amounts that you do not pay tax on for the definition of a temporary resident and details of the exemption."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A"
+    },
+    {
+      "type": "paragraph",
+      "text": "The controlled foreign company (CFC) measures may apply to income and gains of foreign companies in which you had a direct or indirect controlling interest, or which you effectively controlled. Read chapter 1 of the Foreign income return form guide for more information."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Completing this part"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Did you have either a direct or indirect interest in a CFC?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Print X in the NO box at I item 19 on page 14 of your tax return. Go to part B ."
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Did you, alone or with associates:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "have direct or indirect controlling interests totalling 10% or more in a foreign company, or",
+        "have effective control of a foreign company?"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Print X in the NO box at I item 19 on page 14 of your tax return. Go to part B ."
+        ],
+        [
+          "YES",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print X in the YES box at I item 19 on page 14 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work out your attributed foreign income from any CFC."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write this amount at K item 19 . Do not show cents. Read on."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pa rt B"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Completing this part"
+    },
+    {
+      "type": "paragraph",
+      "text": "The transferor trust measures may apply if, at any time, you directly or indirectly transferred or caused the transfer of property (including money) or services to a non-resident trust. A trust is a non-resident trust if no trustee of the trust estate was an Australian resident, and the trust estate's central management and control was not in Australia, at any time during the income year. Read chapter 2 in the Foreign income return form guide for more information."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Did you, at any time, directly or indirectly transfer or cause the transfer of property (including money) or services to a non-resident trust?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Print X in the NO box at W item 19 on page 14 of your tax return."
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print X in the YES box at W item 19 on page 14 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work out your attributed foreign income from transferor trusts."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the amount you worked out at step 2 at B item 19 . Do not show cents."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "On a separate sheet of paper, print SCHEDULE OF ADDITIONAL INFORMATION - ITEM 19. Print your name, address, tax file number, the name of the non-resident trust and its trustee or trustees, and the amount of any attributable income in relation to the trust. Attach your schedule to page 3 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print X in the YES box at Taxpayer's declaration question 2a on page 12 of your tax return. Read on."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Check that you have ..."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "written on your tax return your attributed foreign income from all CFCs",
+        "written on your tax return your attributed foreign income from transferor trusts",
+        "attached to page 3 of your tax return your SCHEDULE OF ADDITIONAL INFORMATION - ITEM 19, if you need to send us one."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question 20 - Foreign source income and foreign assets or property . return to main menu Individual tax return instructions go back to 18 - Capital gains"
+        ]
+      ]
+    }
+  ],
+  "content_text": "## Are you an Australian resident for tax purposes who:\n- had either a direct or an indirect interest in a controlled foreign company (CFC), or\n- at any time, directly or indirectly transferred or caused the transfer of property (including money) or services to a non-resident trust?\nNO | Go to question 20 - Foreign source income and foreign assets or property , or return to main menu Individual tax return instructions\nYES | Read below.\n## What you need\nForeign income return form guide (NAT 1840)\nIf you are a temporary resident you will not need to show your foreign investment income at this item. See Tax-free income for temporary residents in Amounts that you do not pay tax on for the definition of a temporary resident and details of the exemption.\n### Part A\nThe controlled foreign company (CFC) measures may apply to income and gains of foreign companies in which you had a direct or indirect controlling interest, or which you effectively controlled. Read chapter 1 of the Foreign income return form guide for more information.\n#### Completing this part\n##### Did you have either a direct or indirect interest in a CFC?\nNO | Print X in the NO box at I item 19 on page 14 of your tax return. Go to part B .\nYES | Read below.\n##### Did you, alone or with associates:\n- have direct or indirect controlling interests totalling 10% or more in a foreign company, or\n- have effective control of a foreign company?\nNO | Print X in the NO box at I item 19 on page 14 of your tax return. Go to part B .\nYES | Read on.\n##### Step 1\nPrint X in the YES box at I item 19 on page 14 of your tax return.\n##### Step 2\nWork out your attributed foreign income from any CFC.\n##### Step 3\nWrite this amount at K item 19 . Do not show cents. Read on.\n### Pa rt B\n#### Completing this part\nThe transferor trust measures may apply if, at any time, you directly or indirectly transferred or caused the transfer of property (including money) or services to a non-resident trust. A trust is a non-resident trust if no trustee of the trust estate was an Australian resident, and the trust estate's central management and control was not in Australia, at any time during the income year. Read chapter 2 in the Foreign income return form guide for more information.\n##### Did you, at any time, directly or indirectly transfer or cause the transfer of property (including money) or services to a non-resident trust?\nNO | Print X in the NO box at W item 19 on page 14 of your tax return.\nYES | Read below.\n##### Step 1\nPrint X in the YES box at W item 19 on page 14 of your tax return.\n##### Step 2\nWork out your attributed foreign income from transferor trusts.\n##### Step 3\nWrite the amount you worked out at step 2 at B item 19 . Do not show cents.\n##### Step 4\nOn a separate sheet of paper, print SCHEDULE OF ADDITIONAL INFORMATION - ITEM 19. Print your name, address, tax file number, the name of the non-resident trust and its trustee or trustees, and the amount of any attributable income in relation to the trust. Attach your schedule to page 3 of your tax return.\n##### Step 5\nPrint X in the YES box at Taxpayer's declaration question 2a on page 12 of your tax return. Read on.\n## Check that you have ...\n- written on your tax return your attributed foreign income from all CFCs\n- written on your tax return your attributed foreign income from transferor trusts\n- attached to page 3 of your tax return your SCHEDULE OF ADDITIONAL INFORMATION - ITEM 19, if you need to send us one.\nWhere to go next go to question 20 - Foreign source income and foreign assets or property . return to main menu Individual tax return instructions go back to 18 - Capital gains",
+  "child_links": [],
+  "word_count": 688,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

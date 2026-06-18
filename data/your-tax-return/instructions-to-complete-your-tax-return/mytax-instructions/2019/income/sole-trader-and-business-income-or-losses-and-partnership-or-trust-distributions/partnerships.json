@@ -1,0 +1,418 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/income/sole-trader-and-business-income-or-losses-and-partnership-or-trust-distributions/partnerships",
+  "title": "myTax 2019 Partnerships",
+  "description": "How to complete the partnerships section of your return using myTax.",
+  "nat_number": "",
+  "quick_code": "58939",
+  "date_updated": "2019-06-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "2019, myTax, e-tax, online tax return, income, partnerships, partnership income, partnership distributions, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Complete this section if you received, or were entitled to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "income or loss from a partnership",
+        "a credit for amounts of tax paid on, or amounts withheld from, partnership income",
+        "a share of the 'national rental affordability scheme' tax offset."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Essentials"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have received or are entitled to an amount of income from a partnership which includes a dividend with Australian franking credits from a New Zealand franking company, you may be eligible to claim Australian franking credits. However, you cannot claim New Zealand imputation credits. For more information, see Other foreign income."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have deferred non-commercial business losses from a prior year, you may be able to claim them this year if you operated the same or a similar business activity. For more information, see Deductions ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show all categories of income from a partnership at this section. For more information, see Do not show at this section ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Statement of distribution or advice from the partnership"
+    },
+    {
+      "type": "paragraph",
+      "text": "A statement of distribution or advice from the partnership may show the following details in relation to your share of partnership distribution for tax purposes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the amount of any primary production income or loss and the amount of any non-primary production income or loss",
+        "the amount of attributed foreign income and other foreign source income",
+        "the amount of any income on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid",
+        "your entitlement to any of the following credits or tax offsets credit for amounts of tax withheld because the partnership failed to quote its Australian business number credit for amounts of tax withheld due to the imposition of non-resident withholding tax or managed investment trust withholding tax from partnership income you received when you were a resident share of the 'national rental affordability scheme' tax offset allowable franking credits from franked dividends credit for tax file number amounts withheld."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Depreciation and capital expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "You generally can't deduct spending on capital assets immediately; instead you claim the cost over time, reflecting the asset's depreciation (or decline in value). For more information, see Guide to depreciating assets ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use the Depreciation and capital allowances tool to work out any decline in value deduction as well as any deductible balancing adjustment when you stop holding a depreciating asset."
+    },
+    {
+      "type": "paragraph",
+      "text": "The tool can be accessed in the Deductions section on the Prepare return screen."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Do not show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show the following income at this section or you may be taxed incorrectly:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Attributed foreign income from a partnership (unless instructed otherwise). Show this at Foreign entities in the Foreign income, assets and entities section.",
+        "Any other foreign source income from a partnership (unless instructed otherwise). Show this at Other foreign income in the Foreign income, assets and entities section.",
+        "A capital gain or a capital loss in respect of your interest in a partnership or a partnership asset. Show this in the Capital gains or losses section.",
+        "Income from a corporate limited partnership. Show this in the Dividends section.",
+        "Interest you received, or were credited with, from a joint account, where you quoted your individual tax file number to the financial institution. Show this in the Interest section.",
+        "Rent derived jointly (or in common) with another person from a jointly held property where you were not a member of a partnership carrying on a business of renting out properties, Show this in the Rent section.",
+        "Any distribution in relation to a foreign resident capital gains withholding credit. Show this in the Capital gains or losses section.",
+        "Your entitlement to an early stage venture capital limited partnership (ESVCLP) tax offset or early stage investor tax offset as a partner in a partnership. Show these in the Offsets section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you can't see these sections, use the Personalise return screen to select those sections that apply to you. For further help with personalising your return, see How to personalise your return ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You should not receive a distribution of a net capital gain or a net capital loss from a partnership. For information about how a partner shows their share of a capital gain or capital loss, see Guide to capital gains tax ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "A statement of distribution or advice from the partnership showing details in relation to your share of partnership distribution for tax purposes. If you think that any details are wrong or are missing from the statement of distribution or advice you received from the partnership, contact the managing partner.",
+        "Details of any deductions you can claim against your partnership income that has not already been claimed by the partnership."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your tax return with partnership information provided to us. Check for partnership distributions you received that are not pre-filled and ensure you add them."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each partnership distribution that has been pre-filled in your tax return, add any information not pre-filled.",
+        "For each partnership distribution that has not been pre-filled in your tax return, select Add and enter information.",
+        "Show your share of partnership Primary production and Non-primary production income in the corresponding fields.",
+        "Show your share of partnership Primary production deductions and Non-primary production deductions in the corresponding fields. If you show an amount at Other deductions , select one of the following Type codes: D if the entire amount at Other deductions is a deferred non-commercial business loss from a prior year N if the amount at Other deductions does not include any deferred non-commercial business loss from a prior year P if only part of the amount at Other deductions is a deferred non-commercial business loss from a prior year. Note: If you used the Depreciation and capital allowances tool, fields containing information from the tool cannot be directly adjusted in myTax . To make any adjustments to this information, or to add new assets to the tool, select the 'Use the depreciation and capital allowances tool' link. MyTax will automatically calculate the Net primary production and Net non-primary production amounts. If the partnership income includes professional income you must also include this in the Other income section. For more information see, Professional income .",
+        "Show your partnership share of credits from income and tax offsets in the corresponding fields.",
+        "Select Save ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "MyTax may remind you of partnership distribution amounts you need to include at Other foreign income in the Foreign income, assets and entities section.",
+        "If you conducted a business activity as a partner in a partnership that resulted in a loss, or resulted in a loss after deducting your expenses, you must complete the Loss details section.",
+        "You may be entitled to the small business income tax offset if either of the following apply: your partnership distribution included a share of net small business income you had a farm management repayment or other amount you received as a partner in a small business entity."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tax tip"
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep a record of each partnership distribution with your other records."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need the following information:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "name and tax file number of the partnership",
+        "amount and source of each partnership distribution",
+        "amount of any taxable professional income",
+        "amount and type of deductions claimed, and",
+        "amount and type of any share of credits."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "More information"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Partnership income or loss"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the partnership in which you were a partner paid you salary, wages or allowances you must show that income at this section."
+    },
+    {
+      "type": "paragraph",
+      "text": "You show your share of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "any primary production partnership income or loss at Distribution from partnerships under the Primary production section",
+        "any non-primary production partnership income or loss (excluding any attributed foreign income or other foreign source income) at Distribution from partnerships less foreign income under the Non-primary production section. Ensure that your share of any franked distributions (that may be shown on your distribution statement from the partnership) is included at this field. The amount included should include the amount of any attached franking credits."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Professional income"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the partnership income which you have received, or to which you are entitled, includes income from activities as an author of a literary, dramatic, musical or artistic work, or as an inventor, performing artist, production associate or active sportsperson, you must also enter the amount of this taxable professional income in the Other income section. Select Any other income and then Type of payment is 'Special professional income'. You will not be taxed twice on this income."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember, you cannot claim a deduction for amounts already claimed by the partnership, or for expenses incurred in deriving exempt income or non-assessable non-exempt income."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you made a prepayment of $1,000 or more for something to be done (in whole or in part) in a future income year, the amount you can deduct may be affected by the rules relating to prepayments. For more information on prepayments, see Deductions for prepaid expenses ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have incurred debt deductions, such as interest and borrowing costs, in deriving assessable income from a partnership, of more than $2,000,000 (alone or combined with those of your associate entities) for 2018–19, the amount that you can deduct may be affected by the thin capitalisation rules. For more information, see Thin capitalisation ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Primary production deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Landcare operations and business deduction for decline in value of water facility, fencing asset and fodder storage asset"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were a partner in a partnership that incurred eligible expenditure on landcare operations, water facilities, fencing assets or fodder storage assets, the partnership cannot claim the expenditure. Costs incurred by the partnership are allocated to each partner who can then claim the deduction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Enter your share of the total of any such expenditure that relates to primary production income or loss from partnerships that you can deduct this year at Landcare operations and business deduction for decline in value of water facility, fencing asset and fodder storage asset ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on deductions for expenditure on landcare operations, water facilities, fencing assets and fodder storage assets, see the Guide to depreciating assets ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enter the total of any other deductions (including non-commercial business losses deferred from a prior year) you can claim in relation to your share of primary production income or loss from a partnership at Other deductions ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were a partner in a partnership and you can claim a deduction in relation to your share of eligible expenditure incurred by the partnership on horticultural plants, grapevines, electricity connections or phone lines, include any such deduction that relates to primary production income or loss from a partnership at Other deductions . For information about deductions for expenditure on horticultural plants, grapevines, electricity connections and phone lines, see Guide to depreciating assets ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Include a non-commercial business loss deferred from a prior year business activity only if it relates to one of your current year partnership business activities which is the same as, or similar to, the prior year business activity which generated the loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "The deferred non-commercial business loss deduction you can claim in 2018–19 may be reduced if you earned net exempt income in 2018–19. For more information see How to offset your losses ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you became bankrupt (or received a relief from debt) the deferred losses will no longer be available. The loss cannot be deducted in the current year or any future year."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information about how exempt income and bankruptcy affect deferred non-commercial business losses, phone 13 28 66 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Non-primary production deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Landcare operations expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a partnership incurs eligible expenditure on landcare operations, the partnership cannot claim the expenditure. Costs incurred by the partnership are allocated to each partner who can then claim the deduction. Enter your share of the total of any such expenditure that relates to non-primary production income or loss from partnerships that you can deduct this year at Landcare operations expenses ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on deductions for expenditure on landcare operations, see Guide to depreciating assets ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enter the total of other deductions (including non-commercial business losses deferred from a prior year) you can claim in relation to your share of non-primary production income or loss from a partnership at Other deductions ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were a partner in a partnership and you can claim a deduction in relation to your share of eligible expenditure incurred by the partnership on electricity connections, include any such deduction that relates to non-primary production income or loss from partnerships at Other deductions . For information about deductions for expenditure on electricity connections, see the Guide to depreciating assets ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Include non-commercial business losses deferred from a prior year only if they relate to a partnership activity which is the same as, or similar to, your current year partnership activity."
+    },
+    {
+      "type": "paragraph",
+      "text": "The deferred non-commercial business loss deduction you can claim in 2018–19 may be reduced if you earned net exempt income in 2018–19. For more information see How to offset your losses ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you became bankrupt (or received a relief from debt) the deferred losses will no longer be available. The loss cannot be deducted in the current year or any future year."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information about how exempt income and bankruptcy affect deferred non-commercial business losses, phone 13 28 66 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Share of credits from income and tax offsets"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the partnership income includes or is attributable to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "income from which an amount of tax was withheld because an Australian business number was not quoted, then enter your share of the credit at Tax withheld where ABN not quoted",
+        "interest, dividends and unit trust distributions from which tax file number (TFN) amounts have been withheld, then enter your share of the credit at TFN amounts withheld from interest, dividends, and unit trust distributions",
+        "payments from a closely held trust from which TFN amounts have been withheld, then enter your share of the credits for those amounts withheld at TFN amounts withheld from payments from closely held trusts",
+        "national rental affordability scheme (NRAS) rent, then enter your share of the NRAS tax offset at National rental affordability scheme tax offset ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, if the partnership income includes or is attributable to income that"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you received when you were an Australian resident from which an amount of tax was withheld because of the imposition of non-resident withholding tax or managed investment trust withholding tax, or",
+        "you derived as a foreign resident from which an amount of tax was withheld because of the operation of the foreign resident withholding rules."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "then enter the amount of these credits for amounts withheld at Credit for foreign resident withholding amounts (excluding capital gains)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Franking credits"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enter the amount of your share of any allowable franking credits which you are entitled to claim as a franking tax offset through a partnership at Franking credit from franked dividends ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can only claim a share of a franking credit which relates to the share of a franked dividend paid to a partnership which is indirectly included in the amount of partnership income or loss you show at Distribution from partnerships less foreign income ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Therefore, you cannot claim a franking credit for a dividend paid to the partnership which was exempt income or non-assessable non-exempt income."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition, in order to claim a franking credit in respect of a particular dividend both you and the partnership must be qualified persons in relation to that dividend (see below)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Qualified person"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are rules, known as franking credit trading rules, designed to prevent the use of franking credits by persons who only briefly own their shares or who do not effectively own their shares. Under these rules, known as the 'holding period rule' and the 'related payments rule', you must satisfy certain criteria before you are considered to be a qualified person."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you derived dividends indirectly through a partnership you need to determine what component of the partnership distribution is attributable to a particular dividend, and then determine whether you have satisfied the holding period rule and the related payments rule in relation to that dividend."
+    },
+    {
+      "type": "paragraph",
+      "text": "The partnership itself must also have satisfied these rules."
+    },
+    {
+      "type": "paragraph",
+      "text": "The holding period rule applies to shares bought on or after 1 July 1997. It applies to you if you (or the partnership) sold shares within 45 days of buying them. It also applies to you if you (or the partnership) entered into a risk reduction arrangement, such as a derivative transaction, within that time. The holding period is 90 days for certain preference shares."
+    },
+    {
+      "type": "paragraph",
+      "text": "The related payments rule applies to arrangements entered into after 7.30pm (Australian Eastern Standard Time) on 13 May 1997. It applies to you (or the partnership) if you were under an obligation to make a related payment for a dividend and you did not hold your shares 'at risk' during a specified qualifying period."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you failed to satisfy the holding period rule, and the related payments rule does not apply to you, you may still be entitled to a franking tax offset if you qualify for the small shareholder exemption. The small shareholder exemption applies provided that you do not exceed the franking tax offset ceiling of $5,000 on all your franking tax offset entitlements in a given year, whether received directly or indirectly through a partnership."
+    },
+    {
+      "type": "paragraph",
+      "text": "If any of these measures are likely to affect you, see You and your shares ."
+    }
+  ],
+  "content_text": "Complete this section if you received, or were entitled to:\n- income or loss from a partnership\n- a credit for amounts of tax paid on, or amounts withheld from, partnership income\n- a share of the 'national rental affordability scheme' tax offset.\n## Essentials\nIf you have received or are entitled to an amount of income from a partnership which includes a dividend with Australian franking credits from a New Zealand franking company, you may be eligible to claim Australian franking credits. However, you cannot claim New Zealand imputation credits. For more information, see Other foreign income.\nIf you have deferred non-commercial business losses from a prior year, you may be able to claim them this year if you operated the same or a similar business activity. For more information, see Deductions .\nDo not show all categories of income from a partnership at this section. For more information, see Do not show at this section .\n### Statement of distribution or advice from the partnership\nA statement of distribution or advice from the partnership may show the following details in relation to your share of partnership distribution for tax purposes:\n- the amount of any primary production income or loss and the amount of any non-primary production income or loss\n- the amount of attributed foreign income and other foreign source income\n- the amount of any income on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid\n- your entitlement to any of the following credits or tax offsets credit for amounts of tax withheld because the partnership failed to quote its Australian business number credit for amounts of tax withheld due to the imposition of non-resident withholding tax or managed investment trust withholding tax from partnership income you received when you were a resident share of the 'national rental affordability scheme' tax offset allowable franking credits from franked dividends credit for tax file number amounts withheld.\n### Depreciation and capital expenses\nYou generally can't deduct spending on capital assets immediately; instead you claim the cost over time, reflecting the asset's depreciation (or decline in value). For more information, see Guide to depreciating assets .\nYou can use the Depreciation and capital allowances tool to work out any decline in value deduction as well as any deductible balancing adjustment when you stop holding a depreciating asset.\nThe tool can be accessed in the Deductions section on the Prepare return screen.\n## Do not show at this section\nDo not show the following income at this section or you may be taxed incorrectly:\n- Attributed foreign income from a partnership (unless instructed otherwise). Show this at Foreign entities in the Foreign income, assets and entities section.\n- Any other foreign source income from a partnership (unless instructed otherwise). Show this at Other foreign income in the Foreign income, assets and entities section.\n- A capital gain or a capital loss in respect of your interest in a partnership or a partnership asset. Show this in the Capital gains or losses section.\n- Income from a corporate limited partnership. Show this in the Dividends section.\n- Interest you received, or were credited with, from a joint account, where you quoted your individual tax file number to the financial institution. Show this in the Interest section.\n- Rent derived jointly (or in common) with another person from a jointly held property where you were not a member of a partnership carrying on a business of renting out properties, Show this in the Rent section.\n- Any distribution in relation to a foreign resident capital gains withholding credit. Show this in the Capital gains or losses section.\n- Your entitlement to an early stage venture capital limited partnership (ESVCLP) tax offset or early stage investor tax offset as a partner in a partnership. Show these in the Offsets section.\nIf you can't see these sections, use the Personalise return screen to select those sections that apply to you. For further help with personalising your return, see How to personalise your return .\nYou should not receive a distribution of a net capital gain or a net capital loss from a partnership. For information about how a partner shows their share of a capital gain or capital loss, see Guide to capital gains tax .\n## Completing this section\nYou will need:\n- A statement of distribution or advice from the partnership showing details in relation to your share of partnership distribution for tax purposes. If you think that any details are wrong or are missing from the statement of distribution or advice you received from the partnership, contact the managing partner.\n- Details of any deductions you can claim against your partnership income that has not already been claimed by the partnership.\nWe pre-fill your tax return with partnership information provided to us. Check for partnership distributions you received that are not pre-filled and ensure you add them.\n- For each partnership distribution that has been pre-filled in your tax return, add any information not pre-filled.\n- For each partnership distribution that has not been pre-filled in your tax return, select Add and enter information.\n- Show your share of partnership Primary production and Non-primary production income in the corresponding fields.\n- Show your share of partnership Primary production deductions and Non-primary production deductions in the corresponding fields. If you show an amount at Other deductions , select one of the following Type codes: D if the entire amount at Other deductions is a deferred non-commercial business loss from a prior year N if the amount at Other deductions does not include any deferred non-commercial business loss from a prior year P if only part of the amount at Other deductions is a deferred non-commercial business loss from a prior year. Note: If you used the Depreciation and capital allowances tool, fields containing information from the tool cannot be directly adjusted in myTax . To make any adjustments to this information, or to add new assets to the tool, select the 'Use the depreciation and capital allowances tool' link. MyTax will automatically calculate the Net primary production and Net non-primary production amounts. If the partnership income includes professional income you must also include this in the Other income section. For more information see, Professional income .\n- Show your partnership share of credits from income and tax offsets in the corresponding fields.\n- Select Save .\nNotes:\n- MyTax may remind you of partnership distribution amounts you need to include at Other foreign income in the Foreign income, assets and entities section.\n- If you conducted a business activity as a partner in a partnership that resulted in a loss, or resulted in a loss after deducting your expenses, you must complete the Loss details section.\n- You may be entitled to the small business income tax offset if either of the following apply: your partnership distribution included a share of net small business income you had a farm management repayment or other amount you received as a partner in a small business entity.\nTax tip\nKeep a record of each partnership distribution with your other records.\nYou need the following information:\n- name and tax file number of the partnership\n- amount and source of each partnership distribution\n- amount of any taxable professional income\n- amount and type of deductions claimed, and\n- amount and type of any share of credits.\n## More information\n### Partnership income or loss\nIf the partnership in which you were a partner paid you salary, wages or allowances you must show that income at this section.\nYou show your share of:\n- any primary production partnership income or loss at Distribution from partnerships under the Primary production section\n- any non-primary production partnership income or loss (excluding any attributed foreign income or other foreign source income) at Distribution from partnerships less foreign income under the Non-primary production section. Ensure that your share of any franked distributions (that may be shown on your distribution statement from the partnership) is included at this field. The amount included should include the amount of any attached franking credits.\n#### Professional income\nIf the partnership income which you have received, or to which you are entitled, includes income from activities as an author of a literary, dramatic, musical or artistic work, or as an inventor, performing artist, production associate or active sportsperson, you must also enter the amount of this taxable professional income in the Other income section. Select Any other income and then Type of payment is 'Special professional income'. You will not be taxed twice on this income.\n### Deductions\nRemember, you cannot claim a deduction for amounts already claimed by the partnership, or for expenses incurred in deriving exempt income or non-assessable non-exempt income.\nIf you made a prepayment of $1,000 or more for something to be done (in whole or in part) in a future income year, the amount you can deduct may be affected by the rules relating to prepayments. For more information on prepayments, see Deductions for prepaid expenses .\nIf you have incurred debt deductions, such as interest and borrowing costs, in deriving assessable income from a partnership, of more than $2,000,000 (alone or combined with those of your associate entities) for 2018–19, the amount that you can deduct may be affected by the thin capitalisation rules. For more information, see Thin capitalisation .\n#### Primary production deductions\nLandcare operations and business deduction for decline in value of water facility, fencing asset and fodder storage asset\nIf you were a partner in a partnership that incurred eligible expenditure on landcare operations, water facilities, fencing assets or fodder storage assets, the partnership cannot claim the expenditure. Costs incurred by the partnership are allocated to each partner who can then claim the deduction.\nEnter your share of the total of any such expenditure that relates to primary production income or loss from partnerships that you can deduct this year at Landcare operations and business deduction for decline in value of water facility, fencing asset and fodder storage asset .\nFor more information on deductions for expenditure on landcare operations, water facilities, fencing assets and fodder storage assets, see the Guide to depreciating assets .\nOther deductions\nEnter the total of any other deductions (including non-commercial business losses deferred from a prior year) you can claim in relation to your share of primary production income or loss from a partnership at Other deductions .\nIf you were a partner in a partnership and you can claim a deduction in relation to your share of eligible expenditure incurred by the partnership on horticultural plants, grapevines, electricity connections or phone lines, include any such deduction that relates to primary production income or loss from a partnership at Other deductions . For information about deductions for expenditure on horticultural plants, grapevines, electricity connections and phone lines, see Guide to depreciating assets .\nInclude a non-commercial business loss deferred from a prior year business activity only if it relates to one of your current year partnership business activities which is the same as, or similar to, the prior year business activity which generated the loss.\nThe deferred non-commercial business loss deduction you can claim in 2018–19 may be reduced if you earned net exempt income in 2018–19. For more information see How to offset your losses .\nIf you became bankrupt (or received a relief from debt) the deferred losses will no longer be available. The loss cannot be deducted in the current year or any future year.\nFor more information about how exempt income and bankruptcy affect deferred non-commercial business losses, phone 13 28 66 .\n#### Non-primary production deductions\nLandcare operations expenses\nIf a partnership incurs eligible expenditure on landcare operations, the partnership cannot claim the expenditure. Costs incurred by the partnership are allocated to each partner who can then claim the deduction. Enter your share of the total of any such expenditure that relates to non-primary production income or loss from partnerships that you can deduct this year at Landcare operations expenses .\nFor more information on deductions for expenditure on landcare operations, see Guide to depreciating assets .\nOther deductions\nEnter the total of other deductions (including non-commercial business losses deferred from a prior year) you can claim in relation to your share of non-primary production income or loss from a partnership at Other deductions .\nIf you were a partner in a partnership and you can claim a deduction in relation to your share of eligible expenditure incurred by the partnership on electricity connections, include any such deduction that relates to non-primary production income or loss from partnerships at Other deductions . For information about deductions for expenditure on electricity connections, see the Guide to depreciating assets .\nInclude non-commercial business losses deferred from a prior year only if they relate to a partnership activity which is the same as, or similar to, your current year partnership activity.\nThe deferred non-commercial business loss deduction you can claim in 2018–19 may be reduced if you earned net exempt income in 2018–19. For more information see How to offset your losses .\nIf you became bankrupt (or received a relief from debt) the deferred losses will no longer be available. The loss cannot be deducted in the current year or any future year.\nFor more information about how exempt income and bankruptcy affect deferred non-commercial business losses, phone 13 28 66 .\n### Share of credits from income and tax offsets\nIf the partnership income includes or is attributable to:\n- income from which an amount of tax was withheld because an Australian business number was not quoted, then enter your share of the credit at Tax withheld where ABN not quoted\n- interest, dividends and unit trust distributions from which tax file number (TFN) amounts have been withheld, then enter your share of the credit at TFN amounts withheld from interest, dividends, and unit trust distributions\n- payments from a closely held trust from which TFN amounts have been withheld, then enter your share of the credits for those amounts withheld at TFN amounts withheld from payments from closely held trusts\n- national rental affordability scheme (NRAS) rent, then enter your share of the NRAS tax offset at National rental affordability scheme tax offset .\nAlso, if the partnership income includes or is attributable to income that\n- you received when you were an Australian resident from which an amount of tax was withheld because of the imposition of non-resident withholding tax or managed investment trust withholding tax, or\n- you derived as a foreign resident from which an amount of tax was withheld because of the operation of the foreign resident withholding rules.\nthen enter the amount of these credits for amounts withheld at Credit for foreign resident withholding amounts (excluding capital gains)\n#### Franking credits\nEnter the amount of your share of any allowable franking credits which you are entitled to claim as a franking tax offset through a partnership at Franking credit from franked dividends .\nYou can only claim a share of a franking credit which relates to the share of a franked dividend paid to a partnership which is indirectly included in the amount of partnership income or loss you show at Distribution from partnerships less foreign income .\nTherefore, you cannot claim a franking credit for a dividend paid to the partnership which was exempt income or non-assessable non-exempt income.\nIn addition, in order to claim a franking credit in respect of a particular dividend both you and the partnership must be qualified persons in relation to that dividend (see below).\nQualified person\nThere are rules, known as franking credit trading rules, designed to prevent the use of franking credits by persons who only briefly own their shares or who do not effectively own their shares. Under these rules, known as the 'holding period rule' and the 'related payments rule', you must satisfy certain criteria before you are considered to be a qualified person.\nIf you derived dividends indirectly through a partnership you need to determine what component of the partnership distribution is attributable to a particular dividend, and then determine whether you have satisfied the holding period rule and the related payments rule in relation to that dividend.\nThe partnership itself must also have satisfied these rules.\nThe holding period rule applies to shares bought on or after 1 July 1997. It applies to you if you (or the partnership) sold shares within 45 days of buying them. It also applies to you if you (or the partnership) entered into a risk reduction arrangement, such as a derivative transaction, within that time. The holding period is 90 days for certain preference shares.\nThe related payments rule applies to arrangements entered into after 7.30pm (Australian Eastern Standard Time) on 13 May 1997. It applies to you (or the partnership) if you were under an obligation to make a related payment for a dividend and you did not hold your shares 'at risk' during a specified qualifying period.\nIf you failed to satisfy the holding period rule, and the related payments rule does not apply to you, you may still be entitled to a franking tax offset if you qualify for the small shareholder exemption. The small shareholder exemption applies provided that you do not exceed the franking tax offset ceiling of $5,000 on all your franking tax offset entitlements in a given year, whether received directly or indirectly through a partnership.\nIf any of these measures are likely to affect you, see You and your shares .",
+  "child_links": [],
+  "word_count": 2933,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

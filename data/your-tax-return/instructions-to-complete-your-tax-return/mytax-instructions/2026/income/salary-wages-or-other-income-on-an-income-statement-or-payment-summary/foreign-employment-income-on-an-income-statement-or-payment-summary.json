@@ -1,0 +1,144 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2026/income/salary-wages-or-other-income-on-an-income-statement-or-payment-summary/foreign-employment-income-on-an-income-statement-or-payment-summary",
+  "title": "myTax 2026 Foreign employment income – on an income statement/payment summary",
+  "description": "How to report foreign income, from an income statement or payment summary, when lodging your tax return using myTax.",
+  "nat_number": "",
+  "quick_code": "107033",
+  "date_updated": "2026-05-31T23:15:00Z",
+  "first_published": true,
+  "keywords": "mytax26, foreign employment income, payment summary",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete this section if you received an income statement or PAYG payment summary – foreign employment for income you earned working overseas as an employee, such as salary, wages, commissions, bonuses or allowances."
+    },
+    {
+      "type": "paragraph",
+      "text": "Include foreign employment income shown on an income statement or PAYG payment summary – foreign employment that shows any of the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "salary and wages",
+        "lump sum payments"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your income statement or payment summary also shows any of the following, include those details here:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "reportable fringe benefit amounts",
+        "reportable employer superannuation contributions",
+        "workplace giving (for more information, see Gifts or donations )",
+        "union or professional association fees (for more information, see Other work-related expenses )"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're an Australian government agency employee (and not a member of a disciplined force), you pay tax on income you earned from delivering Australian Official development assistance (ODA) for your agency. Include your income here."
+    },
+    {
+      "type": "paragraph",
+      "text": "Members of a disciplined force delivering ODA are still eligible for exemption. For more information, see Exempt income from foreign service ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Hybrid mismatch rules"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may need to consider whether the hybrid mismatch rules apply to you if you incurred expenses which are deductible to you in deriving assessable foreign source income. To work out whether an otherwise deductible expense amount isn't allowable as a deduction, see Hybrid mismatch rules ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Don’t show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don’t show at this section if you received:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "foreign employment income that is not shown on an income statement or payment summary, go to Foreign employment",
+        "payments on termination of your employment in a foreign country, go to Employment termination payments",
+        "employee share scheme interests at a discount and that relate to your foreign employment, go to Employee share schemes",
+        "a PAYG payment summary – individual non business , go to Salary, wages, allowances, tips, bonuses ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll need your income statement, PAYG payment summary – foreign employment or a comparable statement such as a letter or signed statement from each employer or payer."
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your tax return with foreign employment income information provided to us. Check them and add any income statement or payment summary information you received for foreign employment income that hasn't pre-filled."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you can't find or think there is an issue with your income statements, payment summaries or similar statements, contact your employer or payer. For more information, see Income statements ."
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your tax return to show foreign employment income on an income statement or payment summary, at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You received salary, wages or other income on an income statement/payment summary, Australian Government payments, or First home super saver (FHSS) scheme payment",
+        "Foreign employment income (on an income statement/payment summary)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your foreign employment income, at Prepare return select 'Add/Edit' at the Income statements and payment summaries banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Foreign employment income banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Enter the Occupation where you earned most income . If you can't find your specific occupation, choose the most appropriate one that applies to you.",
+        "For each income statement or payment summary you received for foreign employment income that hasn't pre-filled in your tax return, select Add and enter information into the corresponding fields. If you don’t know the Payer's Australian business number (ABN) leave this field blank.",
+        "For each income statement or payment summary that has a Lump sum A greater than zero, select the Lump sum A type .",
+        "For each income statement or payment summary that has a Lump sum D greater than zero, enter the full amount. These are the tax-free components of a genuine redundancy payment or an early retirement. myTax won't include this tax-free income in your taxable income.",
+        "For each income statement or payment summary that has a Lump sum E greater than zero, enter the required additional information (year and amount earned) and select Save . To learn how to access and complete your Lump sum E information, see Lump sum payments in arrears .",
+        "For each income statement or payment summary, enter the Net foreign employment income . Your net foreign employment income is the total of your Gross payments and Lump sum A and Lump sum E less your deductible work-related expenses you incurred in earning your foreign income.",
+        "Select Save .",
+        "Select Save and continue when you have finished the Income statements and payment summaries section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to keep records for 5 years from the date you lodge your tax return. A shorter record-keeping period may apply in some situations."
+    }
+  ],
+  "content_text": "## Things to know\nComplete this section if you received an income statement or PAYG payment summary – foreign employment for income you earned working overseas as an employee, such as salary, wages, commissions, bonuses or allowances.\nInclude foreign employment income shown on an income statement or PAYG payment summary – foreign employment that shows any of the following:\n- salary and wages\n- lump sum payments\nIf your income statement or payment summary also shows any of the following, include those details here:\n- reportable fringe benefit amounts\n- reportable employer superannuation contributions\n- workplace giving (for more information, see Gifts or donations )\n- union or professional association fees (for more information, see Other work-related expenses )\nIf you're an Australian government agency employee (and not a member of a disciplined force), you pay tax on income you earned from delivering Australian Official development assistance (ODA) for your agency. Include your income here.\nMembers of a disciplined force delivering ODA are still eligible for exemption. For more information, see Exempt income from foreign service .\n### Hybrid mismatch rules\nYou may need to consider whether the hybrid mismatch rules apply to you if you incurred expenses which are deductible to you in deriving assessable foreign source income. To work out whether an otherwise deductible expense amount isn't allowable as a deduction, see Hybrid mismatch rules .\n### Don’t show at this section\nDon’t show at this section if you received:\n- foreign employment income that is not shown on an income statement or payment summary, go to Foreign employment\n- payments on termination of your employment in a foreign country, go to Employment termination payments\n- employee share scheme interests at a discount and that relate to your foreign employment, go to Employee share schemes\n- a PAYG payment summary – individual non business , go to Salary, wages, allowances, tips, bonuses .\n## Completing this section\nYou'll need your income statement, PAYG payment summary – foreign employment or a comparable statement such as a letter or signed statement from each employer or payer.\nWe pre-fill your tax return with foreign employment income information provided to us. Check them and add any income statement or payment summary information you received for foreign employment income that hasn't pre-filled.\nIf you can't find or think there is an issue with your income statements, payment summaries or similar statements, contact your employer or payer. For more information, see Income statements .\nTo personalise your tax return to show foreign employment income on an income statement or payment summary, at Personalise return select:\n- You received salary, wages or other income on an income statement/payment summary, Australian Government payments, or First home super saver (FHSS) scheme payment\n- Foreign employment income (on an income statement/payment summary)\nTo show your foreign employment income, at Prepare return select 'Add/Edit' at the Income statements and payment summaries banner.\nAt the Foreign employment income banner:\n- Enter the Occupation where you earned most income . If you can't find your specific occupation, choose the most appropriate one that applies to you.\n- For each income statement or payment summary you received for foreign employment income that hasn't pre-filled in your tax return, select Add and enter information into the corresponding fields. If you don’t know the Payer's Australian business number (ABN) leave this field blank.\n- For each income statement or payment summary that has a Lump sum A greater than zero, select the Lump sum A type .\n- For each income statement or payment summary that has a Lump sum D greater than zero, enter the full amount. These are the tax-free components of a genuine redundancy payment or an early retirement. myTax won't include this tax-free income in your taxable income.\n- For each income statement or payment summary that has a Lump sum E greater than zero, enter the required additional information (year and amount earned) and select Save . To learn how to access and complete your Lump sum E information, see Lump sum payments in arrears .\n- For each income statement or payment summary, enter the Net foreign employment income . Your net foreign employment income is the total of your Gross payments and Lump sum A and Lump sum E less your deductible work-related expenses you incurred in earning your foreign income.\n- Select Save .\n- Select Save and continue when you have finished the Income statements and payment summaries section.\nYou need to keep records for 5 years from the date you lodge your tax return. A shorter record-keeping period may apply in some situations.",
+  "child_links": [],
+  "word_count": 769,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

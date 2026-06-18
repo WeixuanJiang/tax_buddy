@@ -1,0 +1,647 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/tax-offsets/seniors-and-pensioners-tax-offset",
+  "title": "Seniors and pensioners tax offset",
+  "description": "Check if you are eligible for the seniors and pensioners tax offset (SAPTO) and if you can transfer unused offsets.",
+  "nat_number": "",
+  "quick_code": "72197",
+  "date_updated": "2026-06-07T14:00:00Z",
+  "first_published": "",
+  "keywords": "sapto eligibility, senior tax offset, SAPTO, mature, age pension, sapto tax offset, pensioner tax offset, seniors, pensioners, beneficiary tax offset, senior australian tax offset",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eligibility for seniors and pensioners tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "To be eligible for the seniors and pensioners tax offset (SAPTO) you must:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "be eligible for an Australian Government pension or allowance",
+        "meet income limits for you and your spouse."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The offset can reduce the amount of income tax you pay. We will apply the non-refundable offset when we assess your tax return. You may be able to transfer an unused amount to your spouse if you're both eligible for SAPTO."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're entitled to SAPTO you are also eligible for an increased Medicare levy low income threshold. You must be entitled to at least $1 of SAPTO in order to use the threshold."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't claim this tax offset if you were in jail for the whole income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use the calculator to check your eligibility and calculate the offset amounts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Beneficiary tax offset and seniors and pensioners tax offset calculator"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Eligibility for an Australian Government pension or allowance"
+    },
+    {
+      "type": "paragraph",
+      "text": "You meet this condition if any of the following applied to you in the income year of your claim:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You received an Australian Government pension or allowance from Centrelink or a pension, allowance or benefit from the Department of Veterans’ Affairs (DVA) Only these listed pensions and allowances satisfy this condition Age Pension Carer Payment Disability Support Pension – if you're age-pension age Education Entry Payment Parenting Payment (single) age service pension income support supplement Veteran Payment invalidity service pension – if you're age-pension age partner service pension.",
+        "You were age-pension age and eligible for an Australian Government age pension during the income year, but you didn't receive it because you didn't make a claim or because you didn’t meet the income test or assets test. You must also meet one of the following conditions You had been an Australian resident for age-pension purposes for 10 years or more. At least 5 years were continuous. You had a qualifying residence exemption. This is because you arrived in Australia either as a refugee under a special humanitarian program. You are a woman who was widowed in Australia, and also you and your late partner were Australian residents when your late partner died you are currently in Australia you have been an Australian resident for at least the last 2 years. You received a widow B pension, widow allowance, or partner allowance just before turning age-pension age. You would have qualified for an age pension under an international social security agreement. You're a woman and on 19 March 2020 you were receiving either a wife pension and you were not receiving a carer allowance a special needs widow B pension.",
+        "You met the veteran pension age test and were eligible for a pension, allowance or benefit from Veterans’ Affairs during the income year, but you didn't receive it because you didn't make a claim or because you didn’t meet the income test or assets test. You were also either a veteran with eligible war service a Commonwealth veteran, allied veteran or allied mariner with qualifying service."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Centrelink age pension age test"
+    },
+    {
+      "type": "paragraph",
+      "text": "To be eligible for an Australian Government age pension External Link from Centrelink, you must be 66 years and 6 months or older from 30 June 2021. This changed to 67 years or older from 1 July 2023."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Veteran pension age test"
+    },
+    {
+      "type": "paragraph",
+      "text": "To qualify for an age service pension External Link from the Department of Veterans' Affairs, you must meet the veteran pension age test and on 30 June 2021 be at least 60 years old."
+    },
+    {
+      "type": "paragraph",
+      "text": "You meet the test if you were eligible for a pension, allowance or benefit under the Veterans' Entitlements Act 1986 , and one of the following also applies to you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You have eligible war service, either service in World War II operational service as a member of the Australian Defence Force.",
+        "You're a Commonwealth or allied veteran who served in a conflict in which the Australian Defence Force (ADF) was engaged during a period of hostilities, that is World War II Korea Malaya Indonesia Vietnam.",
+        "You're an Australian or allied mariner who served during World War II.",
+        "You're the war widow or widower of a former member of the ADF."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Income limits"
+    },
+    {
+      "type": "paragraph",
+      "text": "You meet this condition if any of the following applied to you in the income year of your claim:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You didn't have a spouse and your rebate income was less than $52,759.",
+        "You had a spouse and the combined rebate income for you and your spouse was less than $87,620 (less than $43,810 for each partner).",
+        "At any time during the year you and your spouse had to live apart due to illness or because one of you was in a nursing home, and the combined rebate income of you and your spouse was less than $100,104 (less than $50,052 for each partner)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The combined rebate income is the total of all the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your rebate income",
+        "your spouse’s rebate income",
+        "the amount a trustee of a trust was liable to pay tax for your spouse who was under a legal disability. For example, they were an undischarged bankrupt or a person declared legally incapable because of a mental condition."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The criteria had to live apart due to illness refers to situations where you and your spouse don't live together. This is because one or both of you have an indefinitely continuing illness or infirmity. As a result, your combined living expenses are increased."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Rates and thresholds for SAPTO"
+    },
+    {
+      "type": "paragraph",
+      "text": "To be entitled to the offset, your rebate income must be less than the relevant cut-out threshold in the following table. You receive the maximum offset if your rebate income is less than the shading-out threshold."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Status",
+          "Maximum tax offset amount",
+          "Shading-out threshold",
+          "Cut-out threshold"
+        ],
+        [
+          "Single",
+          "$2,230",
+          "$34,919",
+          "$52,759"
+        ],
+        [
+          "Each partner of a couple",
+          "$1,602",
+          "$30,994",
+          "$43,810"
+        ],
+        [
+          "Each partner of an illness separated couple",
+          "$2,040",
+          "$33,732",
+          "$50,052"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If more than one item in this table applies to you during the income year, we base your offset on the amount giving you the greatest entitlement."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Examples of SAPTO income thresholds"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following examples show when someone will receive SAPTO."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: couple living together and rebate income below the threshold"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clare and Roy are married and live together. Both Clare and Roy receive an age pension from Centrelink. Clare’s rebate income is $23,020 and Roy’s is $25,677 (which also includes interest he has earned)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clare and Roy are entitled to SAPTO. This is because half (50%) of their combined rebate incomes of $48,697 (50% × $48,697 = $24,348.50) is less than the cut-off threshold of $43,810."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clare and Roy each receive the maximum SAPTO amount of $1,602. This is because their rebate incomes are each below the shading-out threshold of $30,994."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: couple living together and combined rebate income above the threshold"
+    },
+    {
+      "type": "paragraph",
+      "text": "Deb and Ivan are married and live together. Both Deb and Ivan receive an age pension from Centrelink. Deb’s rebate income is $64,020 and Ivan’s is $25,677."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deb and Ivan are not entitled to SAPTO. This is because half (50%) of their combined rebate incomes of $89,697 (50% × $89,697 = $44,848.50) is above the cut-off threshold of $43,810."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: couple living together and combined rebate income below the threshold"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ying and Li Jun are married and live together. They both receive an age pension from Centrelink. Ying’s rebate income is $54,020 and Li Jun’s is $25,677."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ying and Li Jun are entitled to SAPTO. This is because half (50%) of their combined rebate incomes of $79,697 (50% × $79,697 = $39,848.50) is less than the cut-off threshold of $43,810."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ying does not receive SAPTO. This is because her income of $54,020 is greater than the cut-off threshold of $43,810."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, Li Jun receives the maximum SAPTO amount of $1,602. This is because his rebate income is below the shading-out threshold of $30,994."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: single with rebate income exceeding the cut-out threshold"
+    },
+    {
+      "type": "paragraph",
+      "text": "Marko is single and is 67 years old. He qualifies for the Centrelink age pension but does not make a claim for it. His rebate income is $85,690."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although Marko qualifies for the age pension (but didn’t make a claim for it), he is not entitled to SAPTO. This is because his rebate income is more than the cut-out threshold of $52,759."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: single with rebate income below the threshold"
+    },
+    {
+      "type": "paragraph",
+      "text": "Simon is single and receives a parenting payment (single) from Centrelink. He has a rebate income of $32,178."
+    },
+    {
+      "type": "paragraph",
+      "text": "Simon is entitled for SAPTO because:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "he receives an Australian Government pension or allowance",
+        "his income is less than the cut-out threshold of $52,759."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Simon is entitled to the maximum SAPTO amount of $2,230. This is because his rebate income is less than the shading-out threshold of $34,919."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tax offset reduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "The tax offset reduces by $0.125 for every dollar your rebate income exceeds the relevant shading-out threshold amount. We round up the amount to the nearest whole dollar."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: single with rebate income above the threshold"
+    },
+    {
+      "type": "paragraph",
+      "text": "José is single and receives an age pension from Centrelink. He has a rebate income of $39,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "José is eligible for SAPTO. His rebate income is less than the cut-out threshold of $52,759.."
+    },
+    {
+      "type": "paragraph",
+      "text": "As José’s rebate income exceeds the shading-out threshold of $34,919, his tax offset is reduced as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "$39,000 − $34,919 = $4,081"
+    },
+    {
+      "type": "paragraph",
+      "text": "$4,081 × 0.125 = $510.125"
+    },
+    {
+      "type": "paragraph",
+      "text": "$2,230 − $510.125 = $1,719.875"
+    },
+    {
+      "type": "paragraph",
+      "text": "José is entitled to a SAPTO amount of $1,720."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: couple with spouse not eligible and rebate income above the threshold"
+    },
+    {
+      "type": "paragraph",
+      "text": "Keith and Jean are a married couple living together. Keith receives an age pension from Centrelink. Jean has not reached age-pension age, so does not qualify for it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keith’s rebate income is $33,650 and Jean’s is nil. Their combined rebate income is $33,650."
+    },
+    {
+      "type": "paragraph",
+      "text": "In determining whether they satisfy the cut-out threshold, each is taken to have a rebate income of:"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.5 × $33,650 = $16,825."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jean is not eligible for the offset. She has not reached age-pension age and is not eligible for an age pension."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keith is eligible for the offset. His determined amount of rebate income ($16,825) is less than the cut-out threshold of $43,810, and he receives the age pension. However, his actual rebate income is used in calculating the tax offset amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keith’s actual rebate income of $33,650 is more than the shade-out threshold of $30,994. We reduce his tax offset as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "$33,650 − $30,994 = $2,656"
+    },
+    {
+      "type": "paragraph",
+      "text": "$2,656 × 0.125 = $332"
+    },
+    {
+      "type": "paragraph",
+      "text": "$1,602 − $332 = $1,270."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keith is entitled to a SAPTO amount of $1,270."
+    },
+    {
+      "type": "paragraph",
+      "text": "In some circumstances, a person may be eligible for SAPTO, but their income amount means the tax offset is reduced to zero. If this is the case they are not entitled to use the Medicare low income threshold for SAPTO."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: couple with spouse eligible for SAPTO and rebate income above the threshold"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanh and his spouse, Mai, live together. They both receive the age pension from Centrelink."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanh has a rebate income of $32,590 and Mai's rebate income is $26,780. Their combined rebate income is $59,370. To determine if they satisfy the cut-out threshold, each is taken to have a rebate income of:"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.5 × $59,370 = $29,685."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both Vanh and Mai are eligible for the offset because:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "they both receive the age pension, and",
+        "their determined amount of rebate income of $29,685 is less than the cut-out threshold of $43,810."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanh’s actual rebate income of $32,590 is more than the shade-out threshold of $30,994. His tax offset is reduced as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "$32,590 − $30,994 = $1,596"
+    },
+    {
+      "type": "paragraph",
+      "text": "$1,596 × 0.125 = $199.50"
+    },
+    {
+      "type": "paragraph",
+      "text": "$1,602 − $199.50 = $1,402.50."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanh is entitled to a SAPTO amount of $1,403."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mai is entitled to the maximum tax offset amount of $1,602. Her actual rebate income of $26,780 is below the shade-out threshold of $30,994."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Transferring unused SAPTO between spouses"
+    },
+    {
+      "type": "paragraph",
+      "text": "You and your spouse may both be eligible for SAPTO. If one of you does not use all of it, you may be able to transfer the unused portion to your spouse."
+    },
+    {
+      "type": "paragraph",
+      "text": "We will work this out for you. We will transfer any entitlement when you lodge your tax returns."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use the calculator to check if you have an unused amount to transfer to your spouse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Beneficiary tax offset and seniors and pensioners tax offset calculator"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "SAPTO amounts for a couple"
+    },
+    {
+      "type": "paragraph",
+      "text": "The maximum SAPTO amounts for an eligible couple depends on your circumstances. If you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "live apart due to illness, the maximum offset is $2,040 each",
+        "live together, the maximum offset is $1,602 each."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Where your spouse's taxable income is $6,000 or less, the full amount of their offset is available for transfer."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your spouse's taxable income is greater than $6,000, we work out their unused offset amount using the following formula:"
+    },
+    {
+      "type": "paragraph",
+      "text": "A − (( B − $6,000) × 0.15), where"
+    },
+    {
+      "type": "paragraph",
+      "text": "A equals the spouse's SAPTO amount for the income year"
+    },
+    {
+      "type": "paragraph",
+      "text": "B equals the spouse's taxable income plus exempt pension income for the income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "We reduce your offset by 12.5 cents for every dollar over your rebate threshold ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The example below shows unused SAPTO transferred to a spouse who is living separately because of illness."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following amounts used in the example calculations are set out in the Income Tax Assessment (1936 Act) – Regulations 2025 :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "rebate maximum amount – $445",
+        "rebate reduction threshold – $37,000",
+        "rebate reduction rate – 0.015."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example 9: transferring unused SAPTO – living apart due to illness during the 2025-26 income year"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Step 1: Calculating your spouse's unused SAPTO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your spouse's offset amount is $2,040 (report at SAPTO code B in their tax return). Their taxable income is $10,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "The calculation is $2,040 − (($10,000 − $6,000) × 0.15) = $1,440. See how this is worked out:"
+    },
+    {
+      "type": "paragraph",
+      "text": "$10,000 − $6,000 = $4,000"
+    },
+    {
+      "type": "paragraph",
+      "text": "($4,000 × 0.15) = $600"
+    },
+    {
+      "type": "paragraph",
+      "text": "$2,040 − $600 = $1,440"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can transfer $1,440 of your spouse's unused offset if you're both eligible."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Step 2: Calculating your rebate threshold"
+    },
+    {
+      "type": "paragraph",
+      "text": "We calculate your rebate threshold using steps A to O as follows:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "A: The maximum offset amount that applies to you = $2,040",
+        "B: Add your spouse's unused offset amount from Step 1 ($1,440) to A $2,040 + $1,440 = $3,480",
+        "C: Add $445 (rebate maximum amount) to B $3,480 + $445 = $3,925",
+        "D: Divide C by the lowest marginal tax rate of 0.16 $3,925 ÷ 0.16 = $24,531.25",
+        "E: Add the income tax-free threshold of $18,200 to D $24,531.25+ $18,200 = $42,731.25",
+        "F: Is the amount at E greater than the rebate reduction threshold of $37,000? if No , your rebate threshold is the amount calculated in E of $42,731.25. Go to Step 3 for the SAPTO calculation if Yes , continue with the steps below and your rebate threshold will be the amount calculated at step O",
+        "G: Add the second lowest marginal tax rate of 0.3 to the rebate reduction rate of 0.015 0.3 + 0.015 = 0.315",
+        "H: Subtract the lowest marginal tax rate of 0.16 from G 0.315 − 0.16 = 0.155",
+        "I: Multiply H by the rebate reduction threshold of $37,000 0.155 × $37,000 = $5,735",
+        "J: Multiply the lowest marginal tax rate of 0.16 by the tax-free threshold ($18,200) 0.16 × $18,200 = $2,912",
+        "K: Add $445 to J $2,912 + $445 = $3,357",
+        "L: Add your maximum offset amount of $2,040 to K $3,357 + $2,040 = $5,397",
+        "M: Add your spouse's unused offset amount of $1,440 to L $5,397 + $1,440 = $6,837",
+        "N: Add I and M $5,735 + $6,837 = $12,572",
+        "O: Divide N by G $12,572÷ 0.315 = $39,911.11."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your rebate threshold (rounded up to the nearest dollar) is $39,912 ."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Step 3: Calculating your SAPTO"
+    },
+    {
+      "type": "paragraph",
+      "text": "We reduce your offset by 12.5 cents for every dollar amount over the rebate threshold calculated in Step 2 above ($39,912)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your rebate income is $48,000 and your maximum offset amount is $2,040."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "A: Add your spouse's unused offset amount from Step 1 ($1,440) to your maximum offset amount $1,440 + $2,040 = $3,480",
+        "B: Subtract your rebate threshold calculated in Step 2 ($39,912) from your rebate income $48,000 − $39,912 = $8,088",
+        "C: Multiply B by the rebate reduction rate of 12.5 cents $8,088 × 0.125 = $1,011",
+        "D: Subtract the amount at C from the amount at A $3,480 − $1,011= $2,469."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your SAPTO is $2,469 after transferring your spouse's unused offset to you."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Exempt pensions"
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purpose of the transfer of your spouse’s unused SAPTO, an exempt pension is a:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "disability support pension paid under Part 2.3 of the Social Security Act 1991",
+        "youth disability supplement (with disability support pension)",
+        "carer payment paid under Part 2.5 of the Social Security Act 1991",
+        "invalidity service pension (paid under Division 4 of Part III of the Veterans’ Entitlements Act 1986 )",
+        "partner service pension (paid under Division 5 of Part III of the Veterans’ Entitlements Act 1986 )."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Foreign residents"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your spouse is a foreign resident and their taxable income is greater than zero, we calculate their unused offset using the following formula:"
+    },
+    {
+      "type": "paragraph",
+      "text": "A − ( B × marginal tax rate), where"
+    },
+    {
+      "type": "paragraph",
+      "text": "A equals your spouse's offset amount for the income year"
+    },
+    {
+      "type": "paragraph",
+      "text": "B equals your spouse's taxable income for the income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your spouse is a foreign resident and is also receiving an Australian Government pension or allowance, we work out their unused amount as if they were a resident."
+    }
+  ],
+  "content_text": "## Eligibility for seniors and pensioners tax offset\nTo be eligible for the seniors and pensioners tax offset (SAPTO) you must:\n- be eligible for an Australian Government pension or allowance\n- meet income limits for you and your spouse.\nThe offset can reduce the amount of income tax you pay. We will apply the non-refundable offset when we assess your tax return. You may be able to transfer an unused amount to your spouse if you're both eligible for SAPTO.\nIf you're entitled to SAPTO you are also eligible for an increased Medicare levy low income threshold. You must be entitled to at least $1 of SAPTO in order to use the threshold.\nYou can't claim this tax offset if you were in jail for the whole income year.\nYou can use the calculator to check your eligibility and calculate the offset amounts.\nBeneficiary tax offset and seniors and pensioners tax offset calculator\n### Eligibility for an Australian Government pension or allowance\nYou meet this condition if any of the following applied to you in the income year of your claim:\n- You received an Australian Government pension or allowance from Centrelink or a pension, allowance or benefit from the Department of Veterans’ Affairs (DVA) Only these listed pensions and allowances satisfy this condition Age Pension Carer Payment Disability Support Pension – if you're age-pension age Education Entry Payment Parenting Payment (single) age service pension income support supplement Veteran Payment invalidity service pension – if you're age-pension age partner service pension.\n- You were age-pension age and eligible for an Australian Government age pension during the income year, but you didn't receive it because you didn't make a claim or because you didn’t meet the income test or assets test. You must also meet one of the following conditions You had been an Australian resident for age-pension purposes for 10 years or more. At least 5 years were continuous. You had a qualifying residence exemption. This is because you arrived in Australia either as a refugee under a special humanitarian program. You are a woman who was widowed in Australia, and also you and your late partner were Australian residents when your late partner died you are currently in Australia you have been an Australian resident for at least the last 2 years. You received a widow B pension, widow allowance, or partner allowance just before turning age-pension age. You would have qualified for an age pension under an international social security agreement. You're a woman and on 19 March 2020 you were receiving either a wife pension and you were not receiving a carer allowance a special needs widow B pension.\n- You met the veteran pension age test and were eligible for a pension, allowance or benefit from Veterans’ Affairs during the income year, but you didn't receive it because you didn't make a claim or because you didn’t meet the income test or assets test. You were also either a veteran with eligible war service a Commonwealth veteran, allied veteran or allied mariner with qualifying service.\n#### Centrelink age pension age test\nTo be eligible for an Australian Government age pension External Link from Centrelink, you must be 66 years and 6 months or older from 30 June 2021. This changed to 67 years or older from 1 July 2023.\n#### Veteran pension age test\nTo qualify for an age service pension External Link from the Department of Veterans' Affairs, you must meet the veteran pension age test and on 30 June 2021 be at least 60 years old.\nYou meet the test if you were eligible for a pension, allowance or benefit under the Veterans' Entitlements Act 1986 , and one of the following also applies to you:\n- You have eligible war service, either service in World War II operational service as a member of the Australian Defence Force.\n- You're a Commonwealth or allied veteran who served in a conflict in which the Australian Defence Force (ADF) was engaged during a period of hostilities, that is World War II Korea Malaya Indonesia Vietnam.\n- You're an Australian or allied mariner who served during World War II.\n- You're the war widow or widower of a former member of the ADF.\n## Income limits\nYou meet this condition if any of the following applied to you in the income year of your claim:\n- You didn't have a spouse and your rebate income was less than $52,759.\n- You had a spouse and the combined rebate income for you and your spouse was less than $87,620 (less than $43,810 for each partner).\n- At any time during the year you and your spouse had to live apart due to illness or because one of you was in a nursing home, and the combined rebate income of you and your spouse was less than $100,104 (less than $50,052 for each partner).\nThe combined rebate income is the total of all the following:\n- your rebate income\n- your spouse’s rebate income\n- the amount a trustee of a trust was liable to pay tax for your spouse who was under a legal disability. For example, they were an undischarged bankrupt or a person declared legally incapable because of a mental condition.\nThe criteria had to live apart due to illness refers to situations where you and your spouse don't live together. This is because one or both of you have an indefinitely continuing illness or infirmity. As a result, your combined living expenses are increased.\n### Rates and thresholds for SAPTO\nTo be entitled to the offset, your rebate income must be less than the relevant cut-out threshold in the following table. You receive the maximum offset if your rebate income is less than the shading-out threshold.\nStatus | Maximum tax offset amount | Shading-out threshold | Cut-out threshold\nSingle | $2,230 | $34,919 | $52,759\nEach partner of a couple | $1,602 | $30,994 | $43,810\nEach partner of an illness separated couple | $2,040 | $33,732 | $50,052\nIf more than one item in this table applies to you during the income year, we base your offset on the amount giving you the greatest entitlement.\n### Examples of SAPTO income thresholds\nThe following examples show when someone will receive SAPTO.\n#### Example: couple living together and rebate income below the threshold\nClare and Roy are married and live together. Both Clare and Roy receive an age pension from Centrelink. Clare’s rebate income is $23,020 and Roy’s is $25,677 (which also includes interest he has earned).\nClare and Roy are entitled to SAPTO. This is because half (50%) of their combined rebate incomes of $48,697 (50% × $48,697 = $24,348.50) is less than the cut-off threshold of $43,810.\nClare and Roy each receive the maximum SAPTO amount of $1,602. This is because their rebate incomes are each below the shading-out threshold of $30,994.\n#### Example: couple living together and combined rebate income above the threshold\nDeb and Ivan are married and live together. Both Deb and Ivan receive an age pension from Centrelink. Deb’s rebate income is $64,020 and Ivan’s is $25,677.\nDeb and Ivan are not entitled to SAPTO. This is because half (50%) of their combined rebate incomes of $89,697 (50% × $89,697 = $44,848.50) is above the cut-off threshold of $43,810.\n#### Example: couple living together and combined rebate income below the threshold\nYing and Li Jun are married and live together. They both receive an age pension from Centrelink. Ying’s rebate income is $54,020 and Li Jun’s is $25,677.\nYing and Li Jun are entitled to SAPTO. This is because half (50%) of their combined rebate incomes of $79,697 (50% × $79,697 = $39,848.50) is less than the cut-off threshold of $43,810.\nYing does not receive SAPTO. This is because her income of $54,020 is greater than the cut-off threshold of $43,810.\nHowever, Li Jun receives the maximum SAPTO amount of $1,602. This is because his rebate income is below the shading-out threshold of $30,994.\n#### Example: single with rebate income exceeding the cut-out threshold\nMarko is single and is 67 years old. He qualifies for the Centrelink age pension but does not make a claim for it. His rebate income is $85,690.\nAlthough Marko qualifies for the age pension (but didn’t make a claim for it), he is not entitled to SAPTO. This is because his rebate income is more than the cut-out threshold of $52,759.\n#### Example: single with rebate income below the threshold\nSimon is single and receives a parenting payment (single) from Centrelink. He has a rebate income of $32,178.\nSimon is entitled for SAPTO because:\n- he receives an Australian Government pension or allowance\n- his income is less than the cut-out threshold of $52,759.\nSimon is entitled to the maximum SAPTO amount of $2,230. This is because his rebate income is less than the shading-out threshold of $34,919.\n## Tax offset reduction\nThe tax offset reduces by $0.125 for every dollar your rebate income exceeds the relevant shading-out threshold amount. We round up the amount to the nearest whole dollar.\n### Example: single with rebate income above the threshold\nJosé is single and receives an age pension from Centrelink. He has a rebate income of $39,000.\nJosé is eligible for SAPTO. His rebate income is less than the cut-out threshold of $52,759..\nAs José’s rebate income exceeds the shading-out threshold of $34,919, his tax offset is reduced as follows:\n$39,000 − $34,919 = $4,081\n$4,081 × 0.125 = $510.125\n$2,230 − $510.125 = $1,719.875\nJosé is entitled to a SAPTO amount of $1,720.\n### Example: couple with spouse not eligible and rebate income above the threshold\nKeith and Jean are a married couple living together. Keith receives an age pension from Centrelink. Jean has not reached age-pension age, so does not qualify for it.\nKeith’s rebate income is $33,650 and Jean’s is nil. Their combined rebate income is $33,650.\nIn determining whether they satisfy the cut-out threshold, each is taken to have a rebate income of:\n0.5 × $33,650 = $16,825.\nJean is not eligible for the offset. She has not reached age-pension age and is not eligible for an age pension.\nKeith is eligible for the offset. His determined amount of rebate income ($16,825) is less than the cut-out threshold of $43,810, and he receives the age pension. However, his actual rebate income is used in calculating the tax offset amount.\nKeith’s actual rebate income of $33,650 is more than the shade-out threshold of $30,994. We reduce his tax offset as follows:\n$33,650 − $30,994 = $2,656\n$2,656 × 0.125 = $332\n$1,602 − $332 = $1,270.\nKeith is entitled to a SAPTO amount of $1,270.\nIn some circumstances, a person may be eligible for SAPTO, but their income amount means the tax offset is reduced to zero. If this is the case they are not entitled to use the Medicare low income threshold for SAPTO.\n### Example: couple with spouse eligible for SAPTO and rebate income above the threshold\nVanh and his spouse, Mai, live together. They both receive the age pension from Centrelink.\nVanh has a rebate income of $32,590 and Mai's rebate income is $26,780. Their combined rebate income is $59,370. To determine if they satisfy the cut-out threshold, each is taken to have a rebate income of:\n0.5 × $59,370 = $29,685.\nBoth Vanh and Mai are eligible for the offset because:\n- they both receive the age pension, and\n- their determined amount of rebate income of $29,685 is less than the cut-out threshold of $43,810.\nVanh’s actual rebate income of $32,590 is more than the shade-out threshold of $30,994. His tax offset is reduced as follows:\n$32,590 − $30,994 = $1,596\n$1,596 × 0.125 = $199.50\n$1,602 − $199.50 = $1,402.50.\nVanh is entitled to a SAPTO amount of $1,403.\nMai is entitled to the maximum tax offset amount of $1,602. Her actual rebate income of $26,780 is below the shade-out threshold of $30,994.\n## Transferring unused SAPTO between spouses\nYou and your spouse may both be eligible for SAPTO. If one of you does not use all of it, you may be able to transfer the unused portion to your spouse.\nWe will work this out for you. We will transfer any entitlement when you lodge your tax returns.\nYou can use the calculator to check if you have an unused amount to transfer to your spouse.\nBeneficiary tax offset and seniors and pensioners tax offset calculator\n### SAPTO amounts for a couple\nThe maximum SAPTO amounts for an eligible couple depends on your circumstances. If you:\n- live apart due to illness, the maximum offset is $2,040 each\n- live together, the maximum offset is $1,602 each.\nWhere your spouse's taxable income is $6,000 or less, the full amount of their offset is available for transfer.\nIf your spouse's taxable income is greater than $6,000, we work out their unused offset amount using the following formula:\nA − (( B − $6,000) × 0.15), where\nA equals the spouse's SAPTO amount for the income year\nB equals the spouse's taxable income plus exempt pension income for the income year.\nWe reduce your offset by 12.5 cents for every dollar over your rebate threshold .\nThe example below shows unused SAPTO transferred to a spouse who is living separately because of illness.\nThe following amounts used in the example calculations are set out in the Income Tax Assessment (1936 Act) – Regulations 2025 :\n- rebate maximum amount – $445\n- rebate reduction threshold – $37,000\n- rebate reduction rate – 0.015.\n#### Example 9: transferring unused SAPTO – living apart due to illness during the 2025-26 income year\n##### Step 1: Calculating your spouse's unused SAPTO\nYour spouse's offset amount is $2,040 (report at SAPTO code B in their tax return). Their taxable income is $10,000.\nThe calculation is $2,040 − (($10,000 − $6,000) × 0.15) = $1,440. See how this is worked out:\n$10,000 − $6,000 = $4,000\n($4,000 × 0.15) = $600\n$2,040 − $600 = $1,440\nYou can transfer $1,440 of your spouse's unused offset if you're both eligible.\n##### Step 2: Calculating your rebate threshold\nWe calculate your rebate threshold using steps A to O as follows:\n- A: The maximum offset amount that applies to you = $2,040\n- B: Add your spouse's unused offset amount from Step 1 ($1,440) to A $2,040 + $1,440 = $3,480\n- C: Add $445 (rebate maximum amount) to B $3,480 + $445 = $3,925\n- D: Divide C by the lowest marginal tax rate of 0.16 $3,925 ÷ 0.16 = $24,531.25\n- E: Add the income tax-free threshold of $18,200 to D $24,531.25+ $18,200 = $42,731.25\n- F: Is the amount at E greater than the rebate reduction threshold of $37,000? if No , your rebate threshold is the amount calculated in E of $42,731.25. Go to Step 3 for the SAPTO calculation if Yes , continue with the steps below and your rebate threshold will be the amount calculated at step O\n- G: Add the second lowest marginal tax rate of 0.3 to the rebate reduction rate of 0.015 0.3 + 0.015 = 0.315\n- H: Subtract the lowest marginal tax rate of 0.16 from G 0.315 − 0.16 = 0.155\n- I: Multiply H by the rebate reduction threshold of $37,000 0.155 × $37,000 = $5,735\n- J: Multiply the lowest marginal tax rate of 0.16 by the tax-free threshold ($18,200) 0.16 × $18,200 = $2,912\n- K: Add $445 to J $2,912 + $445 = $3,357\n- L: Add your maximum offset amount of $2,040 to K $3,357 + $2,040 = $5,397\n- M: Add your spouse's unused offset amount of $1,440 to L $5,397 + $1,440 = $6,837\n- N: Add I and M $5,735 + $6,837 = $12,572\n- O: Divide N by G $12,572÷ 0.315 = $39,911.11.\nYour rebate threshold (rounded up to the nearest dollar) is $39,912 .\n##### Step 3: Calculating your SAPTO\nWe reduce your offset by 12.5 cents for every dollar amount over the rebate threshold calculated in Step 2 above ($39,912).\nYour rebate income is $48,000 and your maximum offset amount is $2,040.\n- A: Add your spouse's unused offset amount from Step 1 ($1,440) to your maximum offset amount $1,440 + $2,040 = $3,480\n- B: Subtract your rebate threshold calculated in Step 2 ($39,912) from your rebate income $48,000 − $39,912 = $8,088\n- C: Multiply B by the rebate reduction rate of 12.5 cents $8,088 × 0.125 = $1,011\n- D: Subtract the amount at C from the amount at A $3,480 − $1,011= $2,469.\nYour SAPTO is $2,469 after transferring your spouse's unused offset to you.\n### Exempt pensions\nFor the purpose of the transfer of your spouse’s unused SAPTO, an exempt pension is a:\n- disability support pension paid under Part 2.3 of the Social Security Act 1991\n- youth disability supplement (with disability support pension)\n- carer payment paid under Part 2.5 of the Social Security Act 1991\n- invalidity service pension (paid under Division 4 of Part III of the Veterans’ Entitlements Act 1986 )\n- partner service pension (paid under Division 5 of Part III of the Veterans’ Entitlements Act 1986 ).\n### Foreign residents\nIf your spouse is a foreign resident and their taxable income is greater than zero, we calculate their unused offset using the following formula:\nA − ( B × marginal tax rate), where\nA equals your spouse's offset amount for the income year\nB equals your spouse's taxable income for the income year.\nIf your spouse is a foreign resident and is also receiving an Australian Government pension or allowance, we work out their unused amount as if they were a resident.",
+  "child_links": [],
+  "word_count": 2964,
+  "source_title": "Seniors and pensioners tax offset | Australian Taxation O...",
+  "source_description": "Check if you are eligible for the seniors and pensioners tax offset (SAPTO) and if you can transfer unused offsets.",
+  "category": "income-deductions-offsets-and-records"
+}

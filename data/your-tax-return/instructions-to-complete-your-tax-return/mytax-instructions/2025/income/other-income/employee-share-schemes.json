@@ -1,0 +1,223 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2025/income/other-income/employee-share-schemes",
+  "title": "myTax 2025 Employee share schemes",
+  "description": "How to report your employee share scheme interests when lodging your tax return using myTax.",
+  "nat_number": "",
+  "quick_code": "104194",
+  "date_updated": "2025-06-01T22:38:00Z",
+  "first_published": "",
+  "keywords": "myTax, shares, stapled securities, acquire shares",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete this section for any employee share scheme interests (ESS interests) that you or your associates received under an employee share scheme."
+    },
+    {
+      "type": "paragraph",
+      "text": "ESS interests are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "shares",
+        "stapled securities (provided at least one of the stapled interests is a share in a company)",
+        "rights to acquire shares and stapled securities."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "An ESS interest acquired by your associate regarding your employment is treated as though the ESS interest was acquired by you."
+    },
+    {
+      "type": "paragraph",
+      "text": "The discount is the difference between the market value of the ESS interests and the amount paid to acquire them."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ESS interests can be:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "from an Australian company or a foreign company",
+        "related to your employment inside or outside Australia",
+        "related to a work relationship other than employment – for example, sub-contracting."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Schemes where you're taxed on the discount in the year you acquired the interest are known as 'taxed-upfront schemes'. However, if you and the scheme meet certain conditions the taxing point is deferred until a later time, this is known as the 'deferred taxing point'. These tax-deferred schemes are known as 'deferral schemes'."
+    },
+    {
+      "type": "paragraph",
+      "text": "Changes to ESS interests acquired on or after 1 July 2015 include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "changes to the timing of the 'deferred taxing point'",
+        "a tax concession through which some discounts on ESS interests in start-up companies won't be taxed under the ESS regime, as long as you meet the eligibility criteria. Subsequent gains on the disposal of these ESS interests will be taxed under the capital gains tax rules."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ceasing employment with the employer you acquired the ESS interests from is not a deferred taxing point. If you cease employment, the deferred taxing point will become the earliest of the remaining deferred taxing points . This applies to ESS interests under deferral schemes, regardless of when they're acquired."
+    },
+    {
+      "type": "paragraph",
+      "text": "Discounts on eligible ESS interests provided to you by a start-up company won't be included on your Employee share scheme statement and shouldn't be included at this section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Read on if any of the following applied to you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you received a discount on ESS interests acquired under a ' taxed-upfront scheme '",
+        "a 'deferred taxing point' occurred in respect of your ESS interests under a 'deferral scheme'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be entitled to reduce the amount of the discounts you received under taxed-upfront schemes by up to $1,000. You may qualify for the reduction if certain amounts on your tax return are $180,000 or less. myTax will calculate this for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rules of the scheme or a letter from your employer should advise you whether you have acquired ESS interests under a taxed-upfront or deferral scheme. Your employer must provide you with an Employee share scheme statement which shows you the value of any discounts you have received on your ESS interests in 2024–25. You'll need this statement to complete this section."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Employee share schemes ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Associates"
+    },
+    {
+      "type": "paragraph",
+      "text": "If an associate has acquired an ESS interest as a result of your employment:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you must include the discount in your assessable income",
+        "your associate doesn't include the discount in their tax return."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Temporary residents"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you qualify as a temporary resident for tax purposes, special rules may apply to the ESS interests you acquired."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see ESS – Foreign income exemption for Australian residents and temporary residents ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Disposal of ESS interests"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disposed of your ESS interests because of a corporate restructure or takeover and received replacement shares, stapled securities or rights, rollover relief may be available under ESS rules."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll need your Employee share scheme statement from each employer with whom you participated in an ESS. For more information, see What you may need ."
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your tax return with employee share scheme information provided to us. Check them and add any employee share scheme statements you received that haven't pre-filled."
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your tax return to show employee share schemes, at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You had other income not listed above (including employee share schemes)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your employee share schemes, at Prepare return select 'Add/Edit' at the Other income banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Employee share schemes (ESS) banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each employee share scheme that hasn't pre-filled in your tax return, select Add and enter information into the corresponding fields.",
+        "Select Save . If myTax calculates that you may be entitled to reduce the amount of the discounts received under taxed-upfront schemes, this will be displayed as ESS adjustment . If you would like to see how this is worked out, see the ESS adjustment (XLSX, 129KB) This link will download a file calculator.",
+        "Select Save and continue when you have completed the Other income section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Record keeping ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "What you may need"
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll need your Employee share scheme statement from each employer with whom you participated in an ESS. You may have a paper or electronic statement. Each statement shows the amount of your discount and whether your discount was from a:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "taxed-upfront scheme eligible for reduction",
+        "taxed-upfront scheme not eligible for reduction",
+        "deferral scheme."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Statements may also show 'tax file number (TFN) amounts withheld' where applicable. TFN amounts withheld are amounts of tax withheld when you don't provide your TFN or ABN to your employer."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't have all your Employee share scheme statements or similar statements, contact your employer. For more information, see Income statement or Lost or missing payment summary ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received ESS interests from a foreign employer, you might not receive an Employee share scheme statement . A foreign employer can provide you the relevant details in writing."
+    }
+  ],
+  "content_text": "## Things to know\nComplete this section for any employee share scheme interests (ESS interests) that you or your associates received under an employee share scheme.\nESS interests are:\n- shares\n- stapled securities (provided at least one of the stapled interests is a share in a company)\n- rights to acquire shares and stapled securities.\nAn ESS interest acquired by your associate regarding your employment is treated as though the ESS interest was acquired by you.\nThe discount is the difference between the market value of the ESS interests and the amount paid to acquire them.\nThe ESS interests can be:\n- from an Australian company or a foreign company\n- related to your employment inside or outside Australia\n- related to a work relationship other than employment – for example, sub-contracting.\nSchemes where you're taxed on the discount in the year you acquired the interest are known as 'taxed-upfront schemes'. However, if you and the scheme meet certain conditions the taxing point is deferred until a later time, this is known as the 'deferred taxing point'. These tax-deferred schemes are known as 'deferral schemes'.\nChanges to ESS interests acquired on or after 1 July 2015 include:\n- changes to the timing of the 'deferred taxing point'\n- a tax concession through which some discounts on ESS interests in start-up companies won't be taxed under the ESS regime, as long as you meet the eligibility criteria. Subsequent gains on the disposal of these ESS interests will be taxed under the capital gains tax rules.\nCeasing employment with the employer you acquired the ESS interests from is not a deferred taxing point. If you cease employment, the deferred taxing point will become the earliest of the remaining deferred taxing points . This applies to ESS interests under deferral schemes, regardless of when they're acquired.\nDiscounts on eligible ESS interests provided to you by a start-up company won't be included on your Employee share scheme statement and shouldn't be included at this section.\nRead on if any of the following applied to you:\n- you received a discount on ESS interests acquired under a ' taxed-upfront scheme '\n- a 'deferred taxing point' occurred in respect of your ESS interests under a 'deferral scheme'.\nYou may be entitled to reduce the amount of the discounts you received under taxed-upfront schemes by up to $1,000. You may qualify for the reduction if certain amounts on your tax return are $180,000 or less. myTax will calculate this for you.\nThe rules of the scheme or a letter from your employer should advise you whether you have acquired ESS interests under a taxed-upfront or deferral scheme. Your employer must provide you with an Employee share scheme statement which shows you the value of any discounts you have received on your ESS interests in 2024–25. You'll need this statement to complete this section.\nFor more information, see Employee share schemes .\n### Associates\nIf an associate has acquired an ESS interest as a result of your employment:\n- you must include the discount in your assessable income\n- your associate doesn't include the discount in their tax return.\n### Temporary residents\nIf you qualify as a temporary resident for tax purposes, special rules may apply to the ESS interests you acquired.\nFor more information, see ESS – Foreign income exemption for Australian residents and temporary residents .\n### Disposal of ESS interests\nIf you disposed of your ESS interests because of a corporate restructure or takeover and received replacement shares, stapled securities or rights, rollover relief may be available under ESS rules.\n## Completing this section\nYou'll need your Employee share scheme statement from each employer with whom you participated in an ESS. For more information, see What you may need .\nWe pre-fill your tax return with employee share scheme information provided to us. Check them and add any employee share scheme statements you received that haven't pre-filled.\nTo personalise your tax return to show employee share schemes, at Personalise return select:\n- You had other income not listed above (including employee share schemes)\nTo show your employee share schemes, at Prepare return select 'Add/Edit' at the Other income banner.\nAt the Employee share schemes (ESS) banner:\n- For each employee share scheme that hasn't pre-filled in your tax return, select Add and enter information into the corresponding fields.\n- Select Save . If myTax calculates that you may be entitled to reduce the amount of the discounts received under taxed-upfront schemes, this will be displayed as ESS adjustment . If you would like to see how this is worked out, see the ESS adjustment (XLSX, 129KB) This link will download a file calculator.\n- Select Save and continue when you have completed the Other income section.\nFor more information, see Record keeping .\n### What you may need\nYou'll need your Employee share scheme statement from each employer with whom you participated in an ESS. You may have a paper or electronic statement. Each statement shows the amount of your discount and whether your discount was from a:\n- taxed-upfront scheme eligible for reduction\n- taxed-upfront scheme not eligible for reduction\n- deferral scheme.\nStatements may also show 'tax file number (TFN) amounts withheld' where applicable. TFN amounts withheld are amounts of tax withheld when you don't provide your TFN or ABN to your employer.\nIf you don't have all your Employee share scheme statements or similar statements, contact your employer. For more information, see Income statement or Lost or missing payment summary .\nIf you received ESS interests from a foreign employer, you might not receive an Employee share scheme statement . A foreign employer can provide you the relevant details in writing.",
+  "child_links": [],
+  "word_count": 951,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

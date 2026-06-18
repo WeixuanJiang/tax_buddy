@@ -1,0 +1,97 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2016/income/australian-income-or-losses-from-investments-or-property/interest",
+  "title": "Interest",
+  "description": "How to report interest when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "48439",
+  "date_updated": "2016-05-26T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with interest information provided to us. This may include any interest from children’s savings accounts that have your TFN or name attached to it (we provide this information to allow you to work out if the income needs to be declared in your tax return or not)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Check for any interest paid or credited to you from any source in Australia that is not pre-filled and ensure you add it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gross interest includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "interest from savings accounts, term deposits and cash management accounts",
+        "interest we paid or credited to you",
+        "interest from children’s savings accounts you opened or operated with funds that you used as if they were yours",
+        "tax file number (TFN) amounts, that is, amounts withheld by financial institutions because you did not provide your TFN or Australian business number (ABN) to them."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Joint accounts"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a joint account, show the number of account holders, the total gross interest and total TFN amounts withheld. myTax will divide the amounts equally between the number of account holders."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may alter your share of the total gross interest and total TFN amounts withheld for any account where the account holders do not share equally in the interest. Keep a record to show how you worked out your share."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Foreign residents"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were a foreign resident for tax purposes when you received or were credited with the interest, and:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "withholding tax was deducted, do not include that interest. Withholding tax deducted is a final tax.",
+        "withholding tax was not deducted, include that interest."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your statements, passbooks and other documentation from your financial institutions and other sources that show 2015–16 interest income (TFN amounts are shown on your statement or document as ‘Commonwealth tax’ or ‘TFN withholding tax’)",
+        "any statement of account or notice of assessment (or amended assessment) you received from us during 2015–16 that shows interest we paid or credited to you, for example: interest on early payments interest on overpayments delayed refund interest."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each account where interest has not been pre-filled in your tax return, select Add and complete all the information. Include details of joint accounts.",
+        "If you were not an Australian resident for tax purposes when the interest was paid or credited to you and withholding tax was not deducted, select the Country of residence when the interest was paid or credited . This interest amount will not be included in your taxable income. We will advise you of the amount of withholding tax you have to pay on this interest.",
+        "Select Save .",
+        "Select Save and continue ."
+      ]
+    }
+  ],
+  "content_text": "We have pre-filled your tax return with interest information provided to us. This may include any interest from children’s savings accounts that have your TFN or name attached to it (we provide this information to allow you to work out if the income needs to be declared in your tax return or not).\nCheck for any interest paid or credited to you from any source in Australia that is not pre-filled and ensure you add it.\nGross interest includes:\n- interest from savings accounts, term deposits and cash management accounts\n- interest we paid or credited to you\n- interest from children’s savings accounts you opened or operated with funds that you used as if they were yours\n- tax file number (TFN) amounts, that is, amounts withheld by financial institutions because you did not provide your TFN or Australian business number (ABN) to them.\n## Joint accounts\nIf you had a joint account, show the number of account holders, the total gross interest and total TFN amounts withheld. myTax will divide the amounts equally between the number of account holders.\nYou may alter your share of the total gross interest and total TFN amounts withheld for any account where the account holders do not share equally in the interest. Keep a record to show how you worked out your share.\n## Foreign residents\nIf you were a foreign resident for tax purposes when you received or were credited with the interest, and:\n- withholding tax was deducted, do not include that interest. Withholding tax deducted is a final tax.\n- withholding tax was not deducted, include that interest.\n## Completing this section\nYou will need:\n- your statements, passbooks and other documentation from your financial institutions and other sources that show 2015–16 interest income (TFN amounts are shown on your statement or document as ‘Commonwealth tax’ or ‘TFN withholding tax’)\n- any statement of account or notice of assessment (or amended assessment) you received from us during 2015–16 that shows interest we paid or credited to you, for example: interest on early payments interest on overpayments delayed refund interest.\n- For each account where interest has not been pre-filled in your tax return, select Add and complete all the information. Include details of joint accounts.\n- If you were not an Australian resident for tax purposes when the interest was paid or credited to you and withholding tax was not deducted, select the Country of residence when the interest was paid or credited . This interest amount will not be included in your taxable income. We will advise you of the amount of withholding tax you have to pay on this interest.\n- Select Save .\n- Select Save and continue .",
+  "child_links": [],
+  "word_count": 453,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,358 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2020/tax-return/private-health-insurance-policy-details-2020",
+  "title": "Private health insurance policy details 2020",
+  "description": "Complete this question if you were covered by private health insurance or paid for a dependant-person-only policy.",
+  "nat_number": "",
+  "quick_code": "61665",
+  "date_updated": "2020-05-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, tax return, 2020, private health, insurance policy, paper tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "At any time during 2019–20:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "were you covered by a private health insurance policy, or",
+        "did you pay for a dependent-child-only policy?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For this question, the definition of a dependent child is affected by the rules of your health fund. If you are under 25 years old and do not have your own policy, you may be covered as a dependent child on your family policy. If you are unsure about whether this applies to you, check your family private health insurance policy details or contact your insurer."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to question A1 Under 18 2020 , or return to main menu Individual tax return instructions 2020 ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We will use the information you provide at this question to work out your share of any rebate entitlement. This may result in a tax offset or liability."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "The law has changed regarding the way insurers provide you with private health insurance details. It is now optional for registered health insurers to provide you with a private health insurance statement. A statement will only be provided if you request one from your registered health insurer."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need a private health insurance statement when lodging a paper tax return. Contact your health insurer for a statement to ensure you use the correct details when completing your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "In most cases there will be two rows of information on your private health insurance statement. One row relating to premiums you paid and rebate you received before 1 April, and the other row relating to premiums you paid and rebate you received after 1 April. However, on 1 April 2020 rebate rates did not change, therefore the same rates applied for the whole of 2019–20. You should still have two rows of information on your private health insurance statement. Simply enter into your income tax return both rows of information as they appear on your private health insurance statement."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were covered as a dependent child on a family policy, use the information shown on the statement for that policy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your tax return may be delayed if you do not use your statement and the private health insurance details you provide are incorrect."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are an overseas visitor who is not eligible for Medicare, and therefore not entitled to any private health insurance rebate, do not complete Private health insurance policy details on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Private health insurance rebate"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the information shown on your statement to complete your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had more than one private health insurance policy, complete the following steps for each line of information on your statement for each policy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Enter all lines of information separately on your income tax return, as they appear on your private health insurance statement. Do not combine the rows of information."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are lodging a paper tax return and have more than four lines of information on your statement, you will need to provide additional information. Complete the following steps for the first four policies. Then on a separate sheet of paper, print Schedule of additional information – Private health insurance policy details . Print your name, address and tax file number and your answer for each step. Attach your schedule to page 3 of your tax return. Print X in the Yes box at Taxpayer's declaration question 2 on page 10 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the health insurer ID shown at B on your statement to B Health insurer ID on page 7 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer your private health insurance membership number, shown at C on your statement to C Membership number on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Were you covered as a dependent child on a private health insurance policy?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "You are not entitled to a private health insurance rebate, however you are exempt from paying the Medicare levy surcharge. Go to step 8 ."
+        ],
+        [
+          "No",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the whole dollar amount shown at J on your statement to J Your premiums eligible for Australian Government rebate on your tax return. Do not show percentage figures at J ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the whole dollar amount shown at K on your statement to K Your Australian Government rebate received on your tax return. Do not show percentage figures at K ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the number shown at L on your statement to L Benefit Code on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 7"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Working out your tax claim code"
+    },
+    {
+      "type": "paragraph",
+      "text": "On 30 June 2020, were you"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Single?",
+          "Go to step 8 ."
+        ],
+        [
+          "Married or de facto? (including if your spouse died during 2019–20 and you did not have another spouse before 30 June 2020.)",
+          "Go to step 9 ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 8"
+    },
+    {
+      "type": "paragraph",
+      "text": "Select the code letter that best describes your circumstances."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Code",
+          "Explanation"
+        ],
+        [
+          "A",
+          "You have no dependants."
+        ],
+        [
+          "B",
+          "You have a dependent child (your child or a sibling who is dependent on you for economic support), or you paid for a dependent-child-only policy."
+        ],
+        [
+          "F",
+          "You were covered as a dependent child on a private health insurance policy."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Print the code letter in the Tax claim code box on your tax return. If you have more than one line of information to transfer from your statement to your tax return that relate to the same membership number, print the same code letter in the Tax claim code box in each line."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have now finished this question, go to question A1 Under 18 2020 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 9"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Are you claiming your spouse's share of the rebate?"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can choose to claim your spouse's share of the rebate on their behalf if both of you meet all of the following three criteria. Both of you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "were covered under the same policy",
+        "were covered for the same period of time",
+        "were together on 30 June 2020."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Alternatively, your spouse can claim for both of you. You and your spouse must agree that only one of you will claim."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "Print C in the Tax claim code box on your tax return. If you have more than one line of information to transfer from your statement to your tax return that relate to the same membership number, print C in the Tax claim code box in each line. Go to step 11 ."
+        ],
+        [
+          "No",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 10"
+    },
+    {
+      "type": "paragraph",
+      "text": "Select the code letter that best describes your circumstances."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Code",
+          "Explanation"
+        ],
+        [
+          "C",
+          "You are claiming your share of the rebate, or you are a parent claiming for a dependent-child-only policy."
+        ],
+        [
+          "E",
+          "Your spouse is claiming your share of the rebate."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Print the code letter in the Tax claim code box on your tax return. If you have more than one line of information to transfer from your statement to your tax return that relate to the same membership number, print the same code letter in the Tax claim code box in each line."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have now finished this question, go to question A1 Under 18 2020 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 11"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must provide information about your spouse's private health insurance in the Private health insurance policy details section of your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your spouse's private health insurance statement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Repeat steps 1 to 6 using the information on your spouse's statement. Print D in the Tax claim code box on your tax return. If you have more than one line of information to transfer from your spouse's statement to your tax return, print D in the Tax claim code box in each line."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tax tip"
+    },
+    {
+      "type": "paragraph",
+      "text": "To check whether your health insurer is a registered private health insurer, see the Australian Prudential Regulation Authority External Link ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question A1 Under 18 2020 .",
+        "Return to main menu Individual tax return instructions 2020 .",
+        "Go back to question M2 Medicare levy surcharge ."
+      ]
+    }
+  ],
+  "content_text": "At any time during 2019–20:\n- were you covered by a private health insurance policy, or\n- did you pay for a dependent-child-only policy?\nFor this question, the definition of a dependent child is affected by the rules of your health fund. If you are under 25 years old and do not have your own policy, you may be covered as a dependent child on your family policy. If you are unsure about whether this applies to you, check your family private health insurance policy details or contact your insurer.\nNo | Go to question A1 Under 18 2020 , or return to main menu Individual tax return instructions 2020 .\nYes | Read on.\nWe will use the information you provide at this question to work out your share of any rebate entitlement. This may result in a tax offset or liability.\n## Answering this question\nThe law has changed regarding the way insurers provide you with private health insurance details. It is now optional for registered health insurers to provide you with a private health insurance statement. A statement will only be provided if you request one from your registered health insurer.\nYou will need a private health insurance statement when lodging a paper tax return. Contact your health insurer for a statement to ensure you use the correct details when completing your tax return.\nIn most cases there will be two rows of information on your private health insurance statement. One row relating to premiums you paid and rebate you received before 1 April, and the other row relating to premiums you paid and rebate you received after 1 April. However, on 1 April 2020 rebate rates did not change, therefore the same rates applied for the whole of 2019–20. You should still have two rows of information on your private health insurance statement. Simply enter into your income tax return both rows of information as they appear on your private health insurance statement.\nIf you were covered as a dependent child on a family policy, use the information shown on the statement for that policy.\nYour tax return may be delayed if you do not use your statement and the private health insurance details you provide are incorrect.\nIf you are an overseas visitor who is not eligible for Medicare, and therefore not entitled to any private health insurance rebate, do not complete Private health insurance policy details on your tax return.\nSee also:\n- Private health insurance rebate\n## Completing your tax return\nUse the information shown on your statement to complete your tax return.\nIf you had more than one private health insurance policy, complete the following steps for each line of information on your statement for each policy.\nEnter all lines of information separately on your income tax return, as they appear on your private health insurance statement. Do not combine the rows of information.\nIf you are lodging a paper tax return and have more than four lines of information on your statement, you will need to provide additional information. Complete the following steps for the first four policies. Then on a separate sheet of paper, print Schedule of additional information – Private health insurance policy details . Print your name, address and tax file number and your answer for each step. Attach your schedule to page 3 of your tax return. Print X in the Yes box at Taxpayer's declaration question 2 on page 10 of your tax return.\n### Step 1\nTransfer the health insurer ID shown at B on your statement to B Health insurer ID on page 7 of your tax return.\n### Step 2\nTransfer your private health insurance membership number, shown at C on your statement to C Membership number on your tax return.\n### Step 3\nWere you covered as a dependent child on a private health insurance policy?\nYes | You are not entitled to a private health insurance rebate, however you are exempt from paying the Medicare levy surcharge. Go to step 8 .\nNo | Read on.\n### Step 4\nTransfer the whole dollar amount shown at J on your statement to J Your premiums eligible for Australian Government rebate on your tax return. Do not show percentage figures at J .\n### Step 5\nTransfer the whole dollar amount shown at K on your statement to K Your Australian Government rebate received on your tax return. Do not show percentage figures at K .\n### Step 6\nTransfer the number shown at L on your statement to L Benefit Code on your tax return.\n### Step 7\n#### Working out your tax claim code\nOn 30 June 2020, were you\nSingle? | Go to step 8 .\nMarried or de facto? (including if your spouse died during 2019–20 and you did not have another spouse before 30 June 2020.) | Go to step 9 .\n### Step 8\nSelect the code letter that best describes your circumstances.\nCode | Explanation\nA | You have no dependants.\nB | You have a dependent child (your child or a sibling who is dependent on you for economic support), or you paid for a dependent-child-only policy.\nF | You were covered as a dependent child on a private health insurance policy.\nPrint the code letter in the Tax claim code box on your tax return. If you have more than one line of information to transfer from your statement to your tax return that relate to the same membership number, print the same code letter in the Tax claim code box in each line.\nYou have now finished this question, go to question A1 Under 18 2020 .\n### Step 9\n#### Are you claiming your spouse's share of the rebate?\nYou can choose to claim your spouse's share of the rebate on their behalf if both of you meet all of the following three criteria. Both of you:\n- were covered under the same policy\n- were covered for the same period of time\n- were together on 30 June 2020.\nAlternatively, your spouse can claim for both of you. You and your spouse must agree that only one of you will claim.\nYes | Print C in the Tax claim code box on your tax return. If you have more than one line of information to transfer from your statement to your tax return that relate to the same membership number, print C in the Tax claim code box in each line. Go to step 11 .\nNo | Read on.\n### Step 10\nSelect the code letter that best describes your circumstances.\nCode | Explanation\nC | You are claiming your share of the rebate, or you are a parent claiming for a dependent-child-only policy.\nE | Your spouse is claiming your share of the rebate.\nPrint the code letter in the Tax claim code box on your tax return. If you have more than one line of information to transfer from your statement to your tax return that relate to the same membership number, print the same code letter in the Tax claim code box in each line.\nYou have now finished this question, go to question A1 Under 18 2020 .\n### Step 11\nYou must provide information about your spouse's private health insurance in the Private health insurance policy details section of your tax return.\nYou will need your spouse's private health insurance statement.\nRepeat steps 1 to 6 using the information on your spouse's statement. Print D in the Tax claim code box on your tax return. If you have more than one line of information to transfer from your spouse's statement to your tax return, print D in the Tax claim code box in each line.\n## Tax tip\nTo check whether your health insurer is a registered private health insurer, see the Australian Prudential Regulation Authority External Link .\n## Where to go next\n- Go to question A1 Under 18 2020 .\n- Return to main menu Individual tax return instructions 2020 .\n- Go back to question M2 Medicare levy surcharge .",
+  "child_links": [],
+  "word_count": 1349,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

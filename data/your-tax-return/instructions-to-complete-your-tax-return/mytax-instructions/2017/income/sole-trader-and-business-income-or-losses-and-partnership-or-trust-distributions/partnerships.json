@@ -1,0 +1,202 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2017/income/sole-trader-and-business-income-or-losses-and-partnership-or-trust-distributions/partnerships",
+  "title": "myTax 2017 Partnerships",
+  "description": "How to complete the partnerships section of your return using myTax.",
+  "nat_number": "",
+  "quick_code": "51020",
+  "date_updated": "2017-06-11T14:00:00Z",
+  "first_published": "",
+  "keywords": "myTax, e-tax, online tax return, income, partnerships, partnership income, partnership distributions, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with partnership information provided to us. Check for partnership distributions you received that are not pre-filled and ensure you add them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Include your share of primary production partnership income or loss and your share of non-primary production partnership income or loss, excluding any attributed foreign income or other foreign source income."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the partnership in which you were a partner paid you salary, wages or allowances you must show that income at this section."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you conducted a business activity as a partner in a partnership that resulted in a loss, or resulted in a loss after deducting your expenses, you must complete the Loss details section."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Do not show at this item:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "attributed foreign income from a partnership (unless instructed otherwise), show this at Foreign entities in the Foreign income, assets and entities section",
+        "any other foreign source income from a partnership (unless instructed otherwise), show this at Other foreign income in the Foreign income, assets and entities section",
+        "a capital gain or a capital loss in respect of your interest in a partnership or a partnership asset, show this at the Capital gains or losses section",
+        "income from a corporate limited partnership, show this at the Dividends section",
+        "interest you received, or were credited with, from a joint account, where you quoted your individual tax file number to the financial institution, show this at the Interest section",
+        "rent derived jointly (or in common) with another person from jointly held property where you were not a member of a partnership carrying on a business of renting out properties, show this at the Rent section",
+        "any distribution in relation to a foreign resident capital gains withholding credit, show this at the Capital gains or losses section",
+        "your entitlement to an early stage venture capital limited partnership (ESVCLP) tax offset or early stage investor tax offset as a partner in a partnership, show these at the Offsets section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you can't see the Foreign entities , Other foreign income , Capital gains or losses , Dividends , Interest , Rent or Offsets section, go to Personalise return screen and select the following:"
+    },
+    {
+      "type": "paragraph",
+      "text": "For Foreign entities"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "'You had foreign income' 'Foreign entities'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For Other foreign income"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "'You had foreign income' 'Other foreign income'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For Capital gains or losses"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "'You had Australian interest, or other Australian income or losses from investments or property' 'Capital gains or losses that are not from a managed fund'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For Dividends"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "'You had Australian interest, or other Australian income or losses from investments or property' 'Dividends'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For Interest"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "'You had Australian interest, or other Australian income or losses from investments or property' 'Interest'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For Rent"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "'You had Australian interest, or other Australian income or losses from investments or property' 'Rent (Australian properties)'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For Offsets"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "'You are claiming tax offsets, adjustments or a credit for early payment' 'Other tax offsets'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You may need to see Partnerships and trusts to complete this section. It contains information about:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "deductions that relate to the partnership distribution you have received",
+        "primary production deductions",
+        "non-primary production deductions",
+        "non-commercial business losses deferred from a prior year",
+        "share of credits from income and tax offsets",
+        "professional income",
+        "franking credits",
+        "qualified persons."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Depreciation and capital allowances tool"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use the Depreciation and capital allowances tool to work out any deductible decline in value. To access the tool, select the 'Work it out' link in the Deductions section on the Prepare return screen."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a statement of distribution or advice from the partnership showing details in relation to your share of partnership distribution",
+        "details of any deductions you can claim against your partnership income that has not already been claimed by the partnership."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each partnership distribution that has not been pre-filled in your tax return, select Add and enter information into the corresponding fields.",
+        "For each partnership distribution that has been pre-filled in your tax return, add any information not pre-filled into the corresponding fields.",
+        "If you have amounts at Other deductions , select one of the following codes at Type D if the entire amount at Other deductions is a deferred non-commercial business loss from a prior year N if the amount at Other deductions does not include any deferred non-commercial business loss from a prior year P if only part of the amount at Other deductions is a deferred non-commercial business loss from a prior year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: If you used the Depreciation and capital allowances tool, fields containing information from the tool cannot be directly adjusted in myTax . To make any adjustments to this information, or to add new assets to the tool, select Work it out ."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Select Save ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: myTax may remind you of partnership distribution amounts you need to include in the Foreign income, assets and entities section at Other foreign income ."
+    }
+  ],
+  "content_text": "We have pre-filled your tax return with partnership information provided to us. Check for partnership distributions you received that are not pre-filled and ensure you add them.\nInclude your share of primary production partnership income or loss and your share of non-primary production partnership income or loss, excluding any attributed foreign income or other foreign source income.\nIf the partnership in which you were a partner paid you salary, wages or allowances you must show that income at this section.\nIf you conducted a business activity as a partner in a partnership that resulted in a loss, or resulted in a loss after deducting your expenses, you must complete the Loss details section.\n## Do not show at this item:\n- attributed foreign income from a partnership (unless instructed otherwise), show this at Foreign entities in the Foreign income, assets and entities section\n- any other foreign source income from a partnership (unless instructed otherwise), show this at Other foreign income in the Foreign income, assets and entities section\n- a capital gain or a capital loss in respect of your interest in a partnership or a partnership asset, show this at the Capital gains or losses section\n- income from a corporate limited partnership, show this at the Dividends section\n- interest you received, or were credited with, from a joint account, where you quoted your individual tax file number to the financial institution, show this at the Interest section\n- rent derived jointly (or in common) with another person from jointly held property where you were not a member of a partnership carrying on a business of renting out properties, show this at the Rent section\n- any distribution in relation to a foreign resident capital gains withholding credit, show this at the Capital gains or losses section\n- your entitlement to an early stage venture capital limited partnership (ESVCLP) tax offset or early stage investor tax offset as a partner in a partnership, show these at the Offsets section.\nIf you can't see the Foreign entities , Other foreign income , Capital gains or losses , Dividends , Interest , Rent or Offsets section, go to Personalise return screen and select the following:\nFor Foreign entities\n- 'You had foreign income' 'Foreign entities'.\nFor Other foreign income\n- 'You had foreign income' 'Other foreign income'.\nFor Capital gains or losses\n- 'You had Australian interest, or other Australian income or losses from investments or property' 'Capital gains or losses that are not from a managed fund'.\nFor Dividends\n- 'You had Australian interest, or other Australian income or losses from investments or property' 'Dividends'.\nFor Interest\n- 'You had Australian interest, or other Australian income or losses from investments or property' 'Interest'.\nFor Rent\n- 'You had Australian interest, or other Australian income or losses from investments or property' 'Rent (Australian properties)'.\nFor Offsets\n- 'You are claiming tax offsets, adjustments or a credit for early payment' 'Other tax offsets'.\nYou may need to see Partnerships and trusts to complete this section. It contains information about:\n- deductions that relate to the partnership distribution you have received\n- primary production deductions\n- non-primary production deductions\n- non-commercial business losses deferred from a prior year\n- share of credits from income and tax offsets\n- professional income\n- franking credits\n- qualified persons.\n## Depreciation and capital allowances tool\nYou can use the Depreciation and capital allowances tool to work out any deductible decline in value. To access the tool, select the 'Work it out' link in the Deductions section on the Prepare return screen.\n## Completing this section\nYou will need:\n- a statement of distribution or advice from the partnership showing details in relation to your share of partnership distribution\n- details of any deductions you can claim against your partnership income that has not already been claimed by the partnership.\n- For each partnership distribution that has not been pre-filled in your tax return, select Add and enter information into the corresponding fields.\n- For each partnership distribution that has been pre-filled in your tax return, add any information not pre-filled into the corresponding fields.\n- If you have amounts at Other deductions , select one of the following codes at Type D if the entire amount at Other deductions is a deferred non-commercial business loss from a prior year N if the amount at Other deductions does not include any deferred non-commercial business loss from a prior year P if only part of the amount at Other deductions is a deferred non-commercial business loss from a prior year.\nNote: If you used the Depreciation and capital allowances tool, fields containing information from the tool cannot be directly adjusted in myTax . To make any adjustments to this information, or to add new assets to the tool, select Work it out .\n- Select Save .\nNote: myTax may remind you of partnership distribution amounts you need to include in the Foreign income, assets and entities section at Other foreign income .",
+  "child_links": [],
+  "word_count": 837,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

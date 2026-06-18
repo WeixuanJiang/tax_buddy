@@ -1,0 +1,199 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2020/income/sole-trader-and-business-income-or-losses-and-partnership-or-trust-distributions/business-income-statements-and-payment-summaries",
+  "title": "myTax 2020 Business income statements and payment summaries",
+  "description": "How to report business payment summary information when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "62363",
+  "date_updated": "2020-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "2020, myTax, e-tax, payment summary, business payment summary, online tax return, etax, group certificate",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Complete this section to show business-related income from income statements and payment summaries."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must include income in this section if you have business-related income and tax has been withheld. If this is the case, you should have received one of the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Income statement or PAYG payment summary – business and personal services income where the payment type is Voluntary agreement Labour-hire payment Other specified payments",
+        "PAYG payment summary – withholding where ABN not quoted",
+        "PAYG withholding payment summary – foreign residents ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Do not show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include the following at this section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Amounts subject to foreign resident capital gains withholding, go to Capital gains or losses .",
+        "Any income statement or PAYG payment summary – business and personal services income where the payment type is Personal services attributed income, go to Attributed personal services income .",
+        "Business income statements and payment summaries where no tax has been withheld , first record the information, delete it from this section and then if PSI rules apply , go to Personal services income . PSI rules do not apply , go to Business income or losses ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you show Business income statements and payment summaries where no tax has been withheld at this section, you will receive an error for the following payment types:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Voluntary agreement",
+        "No ABN quoted",
+        "Foreign resident withholding."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "First you will need to complete the Business and professional items section."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Business-related income statement",
+        "PAYG payment summary – business and personal services income",
+        "PAYG payment summary – withholding where ABN not quoted",
+        "PAYG withholding payment summary – foreign residents"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "See also"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Accessing your income statement or payment summary",
+        "Income statement not finalised or missing payment summary"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your tax return with business-related income statement or payment summary information provided to us. Check them, and add any business-related income statements or payment summaries that have not pre-filled."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a reminder below the Business and professional items section that you received payments or grants reported in a Taxable payments annual report where tax has been withheld, include these amounts in this section. Amounts invoiced but not actually paid to you in the financial year were not included in this year's report."
+    },
+    {
+      "type": "paragraph",
+      "text": "The business income statements and payment summaries section will be automatically displayed if, at Personalise return , you have selected:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You were a sole trader or had business income or losses, partnership or trust distributions (not from a managed fund)",
+        "Business/Sole trader income or loss, and either of Personal services income Business income or loss."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show business-related income from income statements and payment summaries, at Prepare return select 'Add/Edit' at the Business/sole trader, partnership and trust income (including loss details)"
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Business income statements and payment summaries banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each income statement or payment summary that has not been pre-filled in your tax return, select Add and enter information into the corresponding fields. If the income statement or payment summary has no tax withheld, go to Do not show at this section .",
+        "Select the Payment type . For more information, see Payment type . Select one of the following Voluntary agreement if you have an income statement or PAYG payment summary – business and personal services income where the payment type is Voluntary agreement Labour hire if you have an income statement or PAYG payment summary – business and personal services income where the payment type is Labour-hire payment Other specified payments if you have an income statement or PAYG payment summary – business and personal services income where the payment type is Other specified payments. No ABN quoted if you have an income statement, PAYG payment summary – withholding where ABN not quoted or payments or grants reported in a Taxable payments annual report where tax has been withheld Foreign resident withholding if you have an income statement or PAYG withholding payment summary – foreign residents .",
+        "Select the Income type . Personal services income Personal services income is income that is mainly a reward for an individual's personal efforts or skills. To work out whether your income is personal services income you can use the Personal services income tool This link opens in a new window or visit Personal services income to learn more.",
+        "Where the Income type is Business income , select whether the income is Primary production or Non-primary production . You need to separate your business income into primary production income and non primary production income. Primary production activities are described in Information for primary producers .",
+        "Select Save ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "MyTax will use the information in this section to complete income and tax withheld fields under either the Personal services income or Business income or losses banner."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Payment type"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Voluntary agreement"
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount you show is the total income you received that was subject to a PAYG voluntary agreement, including amounts of tax withheld."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "No ABN quoted"
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount you show is your total income from which an amount has been withheld because you did not quote your ABN, including the amounts of tax withheld."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Labour hire or other specified payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "Specified payments include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "tutorial services you provided for the Indigenous Student Success Programme (formerly known as the Indigenous Tutorial Assistance Scheme) of the Department of the Prime Minister and Cabinet",
+        "income from translation and interpretation services for the Translating and Interpreting Service National of the Department of Home Affairs",
+        "income as a performing artist in a promotional activity",
+        "payments of green army allowance (within the meaning of the Social Security Act 1991) ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount you show is the total income you received from labour hire or other specified payments, including amounts of tax withheld."
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't include income received as an employee of a labour hire business. These amounts will appear on your income statement or PAYG payment summary – individual non-business and you should show them at Income statements and payment summaries ."
+    }
+  ],
+  "content_text": "Complete this section to show business-related income from income statements and payment summaries.\n## Things to know\nYou must include income in this section if you have business-related income and tax has been withheld. If this is the case, you should have received one of the following:\n- Income statement or PAYG payment summary – business and personal services income where the payment type is Voluntary agreement Labour-hire payment Other specified payments\n- PAYG payment summary – withholding where ABN not quoted\n- PAYG withholding payment summary – foreign residents .\n### Do not show at this section\nDo not include the following at this section:\n- Amounts subject to foreign resident capital gains withholding, go to Capital gains or losses .\n- Any income statement or PAYG payment summary – business and personal services income where the payment type is Personal services attributed income, go to Attributed personal services income .\n- Business income statements and payment summaries where no tax has been withheld , first record the information, delete it from this section and then if PSI rules apply , go to Personal services income . PSI rules do not apply , go to Business income or losses .\nIf you show Business income statements and payment summaries where no tax has been withheld at this section, you will receive an error for the following payment types:\n- Voluntary agreement\n- No ABN quoted\n- Foreign resident withholding.\n## Completing this section\nFirst you will need to complete the Business and professional items section.\nYou will need your:\n- Business-related income statement\n- PAYG payment summary – business and personal services income\n- PAYG payment summary – withholding where ABN not quoted\n- PAYG withholding payment summary – foreign residents\nSee also\n- Accessing your income statement or payment summary\n- Income statement not finalised or missing payment summary\nWe pre-fill your tax return with business-related income statement or payment summary information provided to us. Check them, and add any business-related income statements or payment summaries that have not pre-filled.\nIf you have a reminder below the Business and professional items section that you received payments or grants reported in a Taxable payments annual report where tax has been withheld, include these amounts in this section. Amounts invoiced but not actually paid to you in the financial year were not included in this year's report.\nThe business income statements and payment summaries section will be automatically displayed if, at Personalise return , you have selected:\n- You were a sole trader or had business income or losses, partnership or trust distributions (not from a managed fund)\n- Business/Sole trader income or loss, and either of Personal services income Business income or loss.\nTo show business-related income from income statements and payment summaries, at Prepare return select 'Add/Edit' at the Business/sole trader, partnership and trust income (including loss details)\nAt the Business income statements and payment summaries banner:\n- For each income statement or payment summary that has not been pre-filled in your tax return, select Add and enter information into the corresponding fields. If the income statement or payment summary has no tax withheld, go to Do not show at this section .\n- Select the Payment type . For more information, see Payment type . Select one of the following Voluntary agreement if you have an income statement or PAYG payment summary – business and personal services income where the payment type is Voluntary agreement Labour hire if you have an income statement or PAYG payment summary – business and personal services income where the payment type is Labour-hire payment Other specified payments if you have an income statement or PAYG payment summary – business and personal services income where the payment type is Other specified payments. No ABN quoted if you have an income statement, PAYG payment summary – withholding where ABN not quoted or payments or grants reported in a Taxable payments annual report where tax has been withheld Foreign resident withholding if you have an income statement or PAYG withholding payment summary – foreign residents .\n- Select the Income type . Personal services income Personal services income is income that is mainly a reward for an individual's personal efforts or skills. To work out whether your income is personal services income you can use the Personal services income tool This link opens in a new window or visit Personal services income to learn more.\n- Where the Income type is Business income , select whether the income is Primary production or Non-primary production . You need to separate your business income into primary production income and non primary production income. Primary production activities are described in Information for primary producers .\n- Select Save .\nMyTax will use the information in this section to complete income and tax withheld fields under either the Personal services income or Business income or losses banner.\n### Payment type\n#### Voluntary agreement\nThe amount you show is the total income you received that was subject to a PAYG voluntary agreement, including amounts of tax withheld.\n#### No ABN quoted\nThe amount you show is your total income from which an amount has been withheld because you did not quote your ABN, including the amounts of tax withheld.\n#### Labour hire or other specified payments\nSpecified payments include:\n- tutorial services you provided for the Indigenous Student Success Programme (formerly known as the Indigenous Tutorial Assistance Scheme) of the Department of the Prime Minister and Cabinet\n- income from translation and interpretation services for the Translating and Interpreting Service National of the Department of Home Affairs\n- income as a performing artist in a promotional activity\n- payments of green army allowance (within the meaning of the Social Security Act 1991) .\nThe amount you show is the total income you received from labour hire or other specified payments, including amounts of tax withheld.\nDon't include income received as an employee of a labour hire business. These amounts will appear on your income statement or PAYG payment summary – individual non-business and you should show them at Income statements and payment summaries .",
+  "child_links": [],
+  "word_count": 1025,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

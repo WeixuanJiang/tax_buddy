@@ -1,0 +1,430 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/your-notice-of-assessment/tax-receipt",
+  "title": "Tax receipt",
+  "description": "Most individuals receive a tax receipt with their notice of assessment after their tax return is processed.",
+  "nat_number": "",
+  "quick_code": "40650",
+  "date_updated": "2026-06-14T14:00:00Z",
+  "first_published": "",
+  "keywords": "Tax Receipt, receipt, tax receipts, assessed tax, Lodge, lodging, tax return, how to lodge, mytax, etax, refund, refunds, assessment, amendment",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tax receipt recipients"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will receive a tax receipt as part of the annual income tax return process if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your assessed income tax for an income year is $100 or more",
+        "you receive a notice of assessment within 18 months from the end of an income year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Assessed income tax is the tax payable on your taxable income minus your tax offsets. We print this amount under the heading Assessed tax payable on your notice of assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "The tax receipt shows how your taxes get allocated to key categories of government expenditure."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When you will receive a tax receipt"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most taxpayers will receive their tax receipt along with their original notice of assessment . Some taxpayers may receive their tax receipt separately."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you lodge your tax return electronically, your tax receipt will be sent to your myGov Inbox ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you lodge your return by paper, you will receive a paper tax receipt along with your notice of assessment. We send this to the postal address on your tax records."
+    },
+    {
+      "type": "paragraph",
+      "text": "We issue your notice of assessment after you lodge your tax return. If you update your tax return later (for example, to correct a mistake), we don't issue a revised tax receipt with your amended notice of assessment. We don't issue tax receipts for years earlier than the 2014–15 income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although your tax receipt is issued along with your original notice of assessment, it's not part of your notice of assessment."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Understanding your tax receipt"
+    },
+    {
+      "type": "paragraph",
+      "text": "The tax receipt contains a table that shows how your taxes are allocated to key categories of government expenditure. The sample table below provides an example of how this information is presented on your tax receipt."
+    },
+    {
+      "type": "paragraph",
+      "text": "The tax receipt also includes information on the level of Australian Government gross debt for the current and previous years. This is to increase transparency on how the government spends taxpayers' money."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expenditure categories"
+    },
+    {
+      "type": "paragraph",
+      "text": "We explain the categories of Australian Government expenditure as shown on the tax receipt below."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Welfare"
+    },
+    {
+      "type": "paragraph",
+      "text": "Welfare assistance provides:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "pensions and services to the aged",
+        "assistance to people with disabilities",
+        "assistance to families with children",
+        "assistance to the unemployed."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "It also includes assistance provided to Indigenous Australians which hasn't been classified elsewhere."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Aged"
+    },
+    {
+      "type": "paragraph",
+      "text": "Assistance provided to the aged includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "income support for seniors (age pension)",
+        "home care",
+        "home support",
+        "the residential and flexible aged care programs."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Disability"
+    },
+    {
+      "type": "paragraph",
+      "text": "The main components of assistance to people with disabilities are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the disability support pension",
+        "income support for carers",
+        "assistance to the states for disability services",
+        "disability employment services."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Families"
+    },
+    {
+      "type": "paragraph",
+      "text": "The main components of assistance for families with children are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "family tax benefit payments",
+        "child care fee assistance",
+        "income support to parents",
+        "paid parental leave."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Unemployed"
+    },
+    {
+      "type": "paragraph",
+      "text": "Assistance to the unemployed includes payments made to support unemployed and sick people who are unable to work."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Health"
+    },
+    {
+      "type": "paragraph",
+      "text": "Health expenses relate to medical services funded through Medicare and the private health insurance rebate. It also covers:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "payments to the states and territories to deliver essential health services, including public hospitals",
+        "Pharmaceutical Benefits Scheme",
+        "Repatriation Pharmaceutical Benefits Scheme",
+        "Aboriginal and Torres Strait Islander health programs",
+        "mental health services",
+        "health workforce initiatives."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Defence"
+    },
+    {
+      "type": "paragraph",
+      "text": "Defence spending supports Australian military operations overseas and the delivery of navy, army, air and intelligence capabilities and strategic policy advice in the defence of Australia and its national interests. Defence expenses also include assistance to veterans and dependants."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Education"
+    },
+    {
+      "type": "paragraph",
+      "text": "Education expenses support the delivery of education services through:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "higher education institutions",
+        "vocational education and training providers (including technical and further education institutions)",
+        "government (state and territory) and non-government primary and secondary schools."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "General public services"
+    },
+    {
+      "type": "paragraph",
+      "text": "General public service expenses support:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the organisation and operation of government, such as those related to the parliament, the governor-general, conduct of elections, the collection of taxes, and management of public funds and debt",
+        "costs related to scientific research, including those incurred by the Commonwealth Scientific and Industrial Research Organisation (CSIRO), the Australian Nuclear Science and Technology Organisation (ANSTO), the Australian Institute of Marine Science (AIMS) and the Australian Research Council (ARC)",
+        "economic and statistical services",
+        "government superannuation benefits."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Interest on government debt"
+    },
+    {
+      "type": "paragraph",
+      "text": "Interest on government debt includes interest expenses on Australian Government securities, plus additional interest expenses incurred on the government's other minor debt liabilities. Interest on government debt is also known as public debt interest expense."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information about interest on government debt, go to 2026–27 Budget documents External Link ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fuel and energy"
+    },
+    {
+      "type": "paragraph",
+      "text": "The main expense under this category is the fuel tax credits scheme."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Transport and communication"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transport and communication expenses support the infrastructure and regulatory framework for Australia's transport and communication sectors."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Public order and safety"
+    },
+    {
+      "type": "paragraph",
+      "text": "Public order and safety expenses relate to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the administration of the federal legal system",
+        "the provision of legal services, including legal aid, to the community",
+        "law enforcement and intelligence activities",
+        "the protection of Australian Government property."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Foreign affairs and economic aid"
+    },
+    {
+      "type": "paragraph",
+      "text": "The foreign affairs and economic aid function includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "assistance to developing countries to reduce poverty and achieve sustainable development, particularly countries in the Pacific region",
+        "contributions to international organisations",
+        "the operations of the foreign service."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Industry assistance"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expenses under industry assistance include funds to support agriculture, forestry and fishing, as well as the mining, manufacturing and construction industries."
+    },
+    {
+      "type": "paragraph",
+      "text": "Agriculture, forestry and fishing expenses support assistance to primary producers, forestry, fishing, land and water resources management, quarantine services and contributions to research and development."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mining, manufacturing and construction expenses support programs designed to promote the efficiency and competitiveness of Australian industries. The major components include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the research and development tax incentive",
+        "programs specific to the automotive, textile, clothing and footwear industries."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Housing and community"
+    },
+    {
+      "type": "paragraph",
+      "text": "Housing and community expenses relate to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the Australian Government's contribution to affordable housing and related national partnerships",
+        "other Australian Government housing programs",
+        "the expenses of Defence Housing Australia",
+        "various regional development and environmental protection programs."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Recreation and culture"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recreation and culture expenses support:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "public broadcasting and cultural institutions",
+        "funding for the arts and the film industry",
+        "assistance to sport and recreation activities",
+        "the management and protection of national parks and other world heritage areas."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "It also includes expenses relating to the protection and preservation of historic sites and buildings, including war graves."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Immigration"
+    },
+    {
+      "type": "paragraph",
+      "text": "The main expenses for immigration relate to providing migration, border management and citizenship services."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Other purposes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Other purposes include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "providing assistance to state, territory and local governments, excluding goods and services tax transfers",
+        "natural disaster relief, the Contingency Reserve, and expenses related to the nominal interest on unfunded liabilities for government superannuation benefits",
+        "other economic affairs that consist of expenses on tourism and area promotion, labour market assistance, industrial relations and other economic affairs not elsewhere classified."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Australian government gross debt"
+    },
+    {
+      "type": "paragraph",
+      "text": "When receipts fall short of payments, the government raises the money through the sale of government bonds, called Australian Government Securities (AGS)."
+    },
+    {
+      "type": "paragraph",
+      "text": "These government securities are fixed-term debt issued by the Government to investors. The gross debt figure on your tax receipt is the value of all Australian government securities on issue at the end of the current year of income (2025–26). The previous year's figure (2024–25) is also shown for comparison purposes so you can see the annual change in the level of gross debt."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interest payments on gross debt"
+    },
+    {
+      "type": "paragraph",
+      "text": "Interest payments on gross debt refer to interest payments to be made by the government during the current income year (2025–26) on the Australian Government gross debt."
+    }
+  ],
+  "content_text": "## Tax receipt recipients\nYou will receive a tax receipt as part of the annual income tax return process if:\n- your assessed income tax for an income year is $100 or more\n- you receive a notice of assessment within 18 months from the end of an income year.\nAssessed income tax is the tax payable on your taxable income minus your tax offsets. We print this amount under the heading Assessed tax payable on your notice of assessment.\nThe tax receipt shows how your taxes get allocated to key categories of government expenditure.\n## When you will receive a tax receipt\nMost taxpayers will receive their tax receipt along with their original notice of assessment . Some taxpayers may receive their tax receipt separately.\nIf you lodge your tax return electronically, your tax receipt will be sent to your myGov Inbox .\nIf you lodge your return by paper, you will receive a paper tax receipt along with your notice of assessment. We send this to the postal address on your tax records.\nWe issue your notice of assessment after you lodge your tax return. If you update your tax return later (for example, to correct a mistake), we don't issue a revised tax receipt with your amended notice of assessment. We don't issue tax receipts for years earlier than the 2014–15 income year.\nAlthough your tax receipt is issued along with your original notice of assessment, it's not part of your notice of assessment.\n## Understanding your tax receipt\nThe tax receipt contains a table that shows how your taxes are allocated to key categories of government expenditure. The sample table below provides an example of how this information is presented on your tax receipt.\nThe tax receipt also includes information on the level of Australian Government gross debt for the current and previous years. This is to increase transparency on how the government spends taxpayers' money.\n## Expenditure categories\nWe explain the categories of Australian Government expenditure as shown on the tax receipt below.\n### Welfare\nWelfare assistance provides:\n- pensions and services to the aged\n- assistance to people with disabilities\n- assistance to families with children\n- assistance to the unemployed.\nIt also includes assistance provided to Indigenous Australians which hasn't been classified elsewhere.\n#### Aged\nAssistance provided to the aged includes:\n- income support for seniors (age pension)\n- home care\n- home support\n- the residential and flexible aged care programs.\n#### Disability\nThe main components of assistance to people with disabilities are:\n- the disability support pension\n- income support for carers\n- assistance to the states for disability services\n- disability employment services.\n#### Families\nThe main components of assistance for families with children are:\n- family tax benefit payments\n- child care fee assistance\n- income support to parents\n- paid parental leave.\n#### Unemployed\nAssistance to the unemployed includes payments made to support unemployed and sick people who are unable to work.\n### Health\nHealth expenses relate to medical services funded through Medicare and the private health insurance rebate. It also covers:\n- payments to the states and territories to deliver essential health services, including public hospitals\n- Pharmaceutical Benefits Scheme\n- Repatriation Pharmaceutical Benefits Scheme\n- Aboriginal and Torres Strait Islander health programs\n- mental health services\n- health workforce initiatives.\n### Defence\nDefence spending supports Australian military operations overseas and the delivery of navy, army, air and intelligence capabilities and strategic policy advice in the defence of Australia and its national interests. Defence expenses also include assistance to veterans and dependants.\n### Education\nEducation expenses support the delivery of education services through:\n- higher education institutions\n- vocational education and training providers (including technical and further education institutions)\n- government (state and territory) and non-government primary and secondary schools.\n### General public services\nGeneral public service expenses support:\n- the organisation and operation of government, such as those related to the parliament, the governor-general, conduct of elections, the collection of taxes, and management of public funds and debt\n- costs related to scientific research, including those incurred by the Commonwealth Scientific and Industrial Research Organisation (CSIRO), the Australian Nuclear Science and Technology Organisation (ANSTO), the Australian Institute of Marine Science (AIMS) and the Australian Research Council (ARC)\n- economic and statistical services\n- government superannuation benefits.\n### Interest on government debt\nInterest on government debt includes interest expenses on Australian Government securities, plus additional interest expenses incurred on the government's other minor debt liabilities. Interest on government debt is also known as public debt interest expense.\nFor more information about interest on government debt, go to 2026–27 Budget documents External Link .\n### Fuel and energy\nThe main expense under this category is the fuel tax credits scheme.\n### Transport and communication\nTransport and communication expenses support the infrastructure and regulatory framework for Australia's transport and communication sectors.\n### Public order and safety\nPublic order and safety expenses relate to:\n- the administration of the federal legal system\n- the provision of legal services, including legal aid, to the community\n- law enforcement and intelligence activities\n- the protection of Australian Government property.\n### Foreign affairs and economic aid\nThe foreign affairs and economic aid function includes:\n- assistance to developing countries to reduce poverty and achieve sustainable development, particularly countries in the Pacific region\n- contributions to international organisations\n- the operations of the foreign service.\n### Industry assistance\nExpenses under industry assistance include funds to support agriculture, forestry and fishing, as well as the mining, manufacturing and construction industries.\nAgriculture, forestry and fishing expenses support assistance to primary producers, forestry, fishing, land and water resources management, quarantine services and contributions to research and development.\nMining, manufacturing and construction expenses support programs designed to promote the efficiency and competitiveness of Australian industries. The major components include:\n- the research and development tax incentive\n- programs specific to the automotive, textile, clothing and footwear industries.\n### Housing and community\nHousing and community expenses relate to:\n- the Australian Government's contribution to affordable housing and related national partnerships\n- other Australian Government housing programs\n- the expenses of Defence Housing Australia\n- various regional development and environmental protection programs.\n### Recreation and culture\nRecreation and culture expenses support:\n- public broadcasting and cultural institutions\n- funding for the arts and the film industry\n- assistance to sport and recreation activities\n- the management and protection of national parks and other world heritage areas.\nIt also includes expenses relating to the protection and preservation of historic sites and buildings, including war graves.\n### Immigration\nThe main expenses for immigration relate to providing migration, border management and citizenship services.\n### Other purposes\nOther purposes include:\n- providing assistance to state, territory and local governments, excluding goods and services tax transfers\n- natural disaster relief, the Contingency Reserve, and expenses related to the nominal interest on unfunded liabilities for government superannuation benefits\n- other economic affairs that consist of expenses on tourism and area promotion, labour market assistance, industrial relations and other economic affairs not elsewhere classified.\n## Australian government gross debt\nWhen receipts fall short of payments, the government raises the money through the sale of government bonds, called Australian Government Securities (AGS).\nThese government securities are fixed-term debt issued by the Government to investors. The gross debt figure on your tax receipt is the value of all Australian government securities on issue at the end of the current year of income (2025–26). The previous year's figure (2024–25) is also shown for comparison purposes so you can see the annual change in the level of gross debt.\n## Interest payments on gross debt\nInterest payments on gross debt refer to interest payments to be made by the government during the current income year (2025–26) on the Australian Government gross debt.",
+  "child_links": [],
+  "word_count": 1301,
+  "source_title": "Tax receipt | Australian Taxation Office",
+  "source_description": "The tax receipt contains a table that shows how your taxes are allocated to key categories of government expenditure. The sample table below ...",
+  "category": "your-tax-return"
+}

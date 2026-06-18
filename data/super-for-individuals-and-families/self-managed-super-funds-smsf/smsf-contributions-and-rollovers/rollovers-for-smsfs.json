@@ -1,0 +1,599 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-contributions-and-rollovers/rollovers-for-smsfs",
+  "title": "Rollovers for SMSFs",
+  "description": "What trustees need to know about self-managed super fund (SMSF) rollovers and how to action them.",
+  "nat_number": "",
+  "quick_code": "23328",
+  "date_updated": "2026-05-10T14:00:00Z",
+  "first_published": "",
+  "keywords": "SMSF rollover, SMSF rollover requirements, SMSF rollover reporting requirements, rollovers into SMSF, rollovers out of SMSF, SMSF death benefit rollovers, SMSF rollover reporting",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rollover requirements"
+    },
+    {
+      "type": "paragraph",
+      "text": "A rollover is when a trustee of a super fund transfers superannuation between funds at the request of a member. This may include all or some of the member's existing super balance."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's a legal requirement for rollovers to be processed electronically, using 2 components:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a data message",
+        "a separate payment transfer for each data message."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "There are some exceptions to electronic rollovers ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trustees must complete the rollover no later than 3 business days after receiving all the required information. Systems must be in place to action the requests. If your fund doesn't meet this requirement, it could receive a compliance breach."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your rollover may fail if trustees do not ensure the following requirements are met:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you engage an SMSF messaging provider to obtain an active electronic service address (ESA) that offers rollover services",
+        "you update your ATO records to notify us of the ESA",
+        "your SMSF has an Australian business number (ABN)",
+        "your SMSF has a 'complying' or 'registered' status on Super Fund Lookup",
+        "member and fund details held by us, the sending fund and the receiving fund are up-to-date and identical – for example, where the member name is recorded as 'Sue' with the fund and 'Susan' with us, this will prevent the rollover",
+        "you contact the transferring fund to understand any proof of identity (POI) requirements",
+        "you have a unique financial institution account for your SMSF recorded with us."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We strongly encourage all SMSFs to be established with a unique bank account. However, it's acknowledged there are some administrative platforms that offer omnibus accounts, where the assets of multiple funds are combined under a single account in the name of a single custodian."
+    },
+    {
+      "type": "paragraph",
+      "text": "As trustee, it is your responsibility to ensure the SMSF is investing in a legitimate product and the risks of investing in a product with an omnibus account feature are understood. The use of omnibus accounts may result in further enquiry and/or delay with some transactions."
+    },
+    {
+      "type": "paragraph",
+      "text": "ESAs can expire over time. It is important to make sure yours is still active with your provider. Contact them for more information."
+    },
+    {
+      "type": "paragraph",
+      "text": "To record your fund’s active ESA details with us, you can:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "use the Profile menu in Online services for business",
+        "contact a registered agent",
+        "phone us on 13 10 20 ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to action rollovers"
+    },
+    {
+      "type": "paragraph",
+      "text": "The process to action a rollover will depend on whether you're rolling super into or out of your SMSF. Follow the steps for rollovers from:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an APRA-regulated fund to your SMSF",
+        "your SMSF to an APRA-regulated fund",
+        "your SMSF to another SMSF ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Rollovers from an APRA-regulated fund to your SMSF"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1: Member requests a rollover"
+    },
+    {
+      "type": "paragraph",
+      "text": "Members should engage with their APRA-regulated fund to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "ensure their details held with the APRA-regulated fund and with us are an exact match – any mismatch could delay or prevent processing",
+        "discuss what POI documents may need to be provided – for example, a marriage certificate or SMSF bank account details."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Members can request a rollover through:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the APRA-regulated fund – whole of balance transfers or partial transfers can be made this way",
+        "ATO online services – only whole of balance transfers can be made this way",
+        "the SMSF messaging provider – issue a rollover initiation request to the APRA-regulated fund. If the member doesn't provide all required information, the rollover will be delayed or rejected."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When members request a rollover, they must include the APRA-regulated fund member number."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the APRA-regulated fund suspects illegal activity, they will report it to the Australian Transaction Reports and Analysis Centre ( AUSTRAC External Link ) and any relevant law enforcement agencies."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2: APRA-regulated fund undertakes mandatory verification"
+    },
+    {
+      "type": "paragraph",
+      "text": "The APRA-regulated fund runs mandatory verification checks to ensure the fund and member details match records held by them and us."
+    },
+    {
+      "type": "paragraph",
+      "text": "To protect against potential fraud, we send members emails or text message alerts advising of the rollover request. If the member is not aware of the request, they need to contact the transferring fund immediately to stop it."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3: Confirm your SMSF has received the rollover"
+    },
+    {
+      "type": "paragraph",
+      "text": "The APRA-regulated fund will usually process and pay the rollover to your SMSF bank account within 3 business days of receiving all the information required. They will notify your SMSF messaging provider when this occurs."
+    },
+    {
+      "type": "paragraph",
+      "text": "They may take longer to process your request when the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "underlying assets are illiquid",
+        "product is a closed or defined benefit product",
+        "pension account is a type other than an account-based pension."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When your SMSF receives the payment and associated data, check that the payment reference number (PRN) in the data message matches the PRN provided with the payment."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must then confirm receipt of the rollover by sending an outcome response message through your SMSF messaging provider to the APRA-regulated fund within 3 business days."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Rollovers from your SMSF to an APRA-regulated fund"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1: Member requests a rollover"
+    },
+    {
+      "type": "paragraph",
+      "text": "Members can request a rollover:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "to their SMSF in writing – include all relevant details and ensure they are identical to those recorded with us and the APRA-regulated fund",
+        "to their APRA-regulated fund – they may need to provide POI or bank verification documents before the APRA-regulated fund sends the request to your SMSF messaging provider",
+        "through ATO online services – only for whole of balance transfers, which can be a preferred option if a relationship breakdown occurs between trustees of the SMSF. If you registered your device using the ATO app and request to transfer super online, you will need to verify the request in the app before it is lodged."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When members request a rollover, they must include the APRA-regulated fund member number."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2: Trustee actions the rollover request"
+    },
+    {
+      "type": "paragraph",
+      "text": "Make sure you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "have enough liquid assets and allow for any fees incurred by your SMSF – you need enough money in your SMSF bank account",
+        "check your financial institution daily transaction limit – if you are rolling over more than your limit, you may need to increase your daily transaction limit make multiple rollovers of a smaller amount – each rollover must match the amount of each separate payment and have a separate PRN",
+        "engage your SMSF messaging provider or administrator to send the data message, ensuring the mandatory verification checks are completed validate the member's tax file number (TFN) with SMSFmemberTICK verify the APRA-regulated fund details using the Fund Validation Service ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "After you action a rollover, your SMSF messaging provider will provide a PRN or advise you to create one. Quote this PRN when making the payment."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Creating a PRN"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will be required to create your PRN. Complete the following steps:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Use the SMSF’s ABN.",
+        "Add the 4 digits to represent the day and month (DDMM).",
+        "Add a 3-digit sequence based on the number of payments the SMSF has made on this day."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For example:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. ABN (12345678910)."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Date (1410)."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Sequence (001 - the first payment of the day)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The PRN for 14 October would be '123456789101410001'."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3: Trustee pays the rollover"
+    },
+    {
+      "type": "paragraph",
+      "text": "The payment of the rollover:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "must be made as soon as possible after sending the data message",
+        "can be made using electronic funds transfer."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the Fund Validation Service to verify the APRA-regulated fund’s current bank details. When making the payment through your financial institution:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "use the correct PRN provided to you by your SMSF messaging provider, or the PRN you created",
+        "only make one payment for each PRN",
+        "pay the exact amount allocated to that PRN",
+        "make sure the PRN on the payment matches the PRN from the rollover message as the receiving fund can only accept the payment if they can reconcile these",
+        "if you need to make multiple payments, you need multiple PRNs for each of the data messages."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Failure to do this will cause the rollover to be delayed or rejected. This can result in a regulatory contravention for the fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the APRA-regulated fund receives your payment and associated data, they will send an outcome response message to your SMSF messaging provider to confirm their receipt within 3 business days."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Rollovers from your SMSF to another SMSF"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1: Member requests a rollover"
+    },
+    {
+      "type": "paragraph",
+      "text": "Members can request a rollover:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "in writing to their SMSF – include all relevant details and ensure they are identical to those recorded with us and the other SMSF",
+        "through ATO online services – only whole of balance transfers can be made this way. Trustees must action this within 3 days of receiving all the required information."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2: Trustee actions the rollover request"
+    },
+    {
+      "type": "paragraph",
+      "text": "Make sure you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "have enough liquid assets and allow for any fees incurred by your SMSF – you need enough money in your SMSF bank account",
+        "check your financial institution daily transaction limit – if you are rolling over more than your limit, you may need to: increase your daily transaction limit make multiple rollovers of a smaller amount – each rollover must match the amount of each separate payment and have a separate PRN",
+        "engage your SMSF messaging provider or administrator to send the data message, ensuring mandatory verification checks are completed validate the member's TFN with SMSFmemberTICK verify the fund and member details using the SMSF verification service (SVS)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The SVS will send a non-verified response if the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "ATO or your SMSF does not hold the required or correct SMSF details, including bank account and ESA",
+        "SMSF is not 'Complying' or 'Registered' on Super Fund Lookup",
+        "provided ABN is not registered as an SMSF."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In these cases, an authorised contact of the receiving SMSF will need to either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "notify us of changes",
+        "telephone us on 13 10 20 and select fast key codes 4 , then 1 ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When the SVS is used, the member receives an email or text message alert before the rollover is made. If they did not request the rollover, they need to contact the transferring fund immediately to stop the rollover."
+    },
+    {
+      "type": "paragraph",
+      "text": "After you action a rollover, your SMSF messaging provider will provide a PRN or advise you to create a PRN. You need to quote this PRN when paying the rollover."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3: Trustee pays the rollover"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must make the payment as soon as possible after sending the data message."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you make the payment through your financial institution:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "use the correct PRN provided to you by your SMSF messaging provider or created by your SMSF",
+        "only make one payment for each PRN",
+        "pay the exact amount allocated to that PRN",
+        "make sure the PRN on the payment matches the PRN from the rollover message, as the receiving fund can only accept the payment if they can reconcile these",
+        "if you need to make multiple payments, you need multiple PRNs for each data message."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Failure to do this will cause the rollover to be delayed or rejected. This can result in a regulatory contravention by the fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the receiving fund receives the payment and associated data, they will send an outcome response to your SMSF messaging provider within 3 business days to confirm their receipt."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Exceptions to electronic rollovers"
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, rollovers to or from your SMSF must be processed electronically. There are some exceptions, including:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "in-specie rollovers – these are managed through a process agreed between the relevant parties",
+        "a foreign super fund transfer",
+        "rollovers to or from a non-complying fund – you must use the Rollover benefits statement (RBS)",
+        "a family law super splitting payment – you must use the RBS."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Death benefit rollovers"
+    },
+    {
+      "type": "paragraph",
+      "text": "If it's a death benefit rollover and the recipient is a dependent beneficiary, you also need to do the following within 30 days of the rollover payment:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "if the dependent beneficiary is a child, complete the Death benefit rollover statement (DBRS) and send to the receiving fund",
+        "for both a dependent adult and child beneficiary, give the DBRS or a statement with the same information to the dependant beneficiary."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A dependent child beneficiary is a child of the member who is one of the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "under 18 years old",
+        "between 18 and 25 years old and was financially dependent on the deceased",
+        "living with a permanent disability."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the rollover is a death benefit and the recipient is a dependent child:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "this is a child death benefit rollover",
+        "the receiving fund will need to check the recipient's date of birth for any cashing obligations."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep a copy of the documentation to show your SMSF auditor that the rollover process was compliant."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rollovers due to winding up"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your SMSF is being wound up, a final rollover must only be made once all:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "liabilities have been paid and",
+        "money owed to the fund have been received."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Once your final annual return is processed and all outstanding obligations have been met your ABN will be cancelled. Make sure you rollover any remaining superannuation benefits in your fund within 28 days to ensure this happens before the ABN is cancelled."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are other actions you need to take if your SMSF is winding up . Follow all steps to wind your fund up successfully."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rolling over untaxed elements of benefits"
+    },
+    {
+      "type": "paragraph",
+      "text": "A rollover from another fund is not included in the assessable income of your fund unless the rollover amount includes an untaxed element."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the financial year the rollover occurs, if it contains an untaxed element, you need to include the amount of that element in the assessable income of your fund up to the untaxed plan cap amount ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the untaxed element exceeds the untaxed plan cap, the originating fund should withhold tax (at the highest marginal tax rate plus Medicare levy) from the amount over the cap, before releasing the rollover to your fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can then add this now-taxed amount to the tax-free component of the rolled-over amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensure you report all member contributions in your SMSF annual return , even if they were rolled out to another fund later."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: rollover with an untaxed element"
+    },
+    {
+      "type": "paragraph",
+      "text": "On 5 September 2023, Tom asks his APRA-regulated fund to roll over his super of $1,890,000 to his SMSF. This is an untaxed element."
+    },
+    {
+      "type": "paragraph",
+      "text": "The untaxed plan cap amount for 2023–24 is $1,705,000, meaning Tom's rollover amount exceeds the cap by $185,000. The originating fund must withhold tax of $86,950. . This is calculated as:"
+    },
+    {
+      "type": "paragraph",
+      "text": "47% (highest marginal tax rate, including the Medicare levy) × $185,000 (rollover amount that exceeds the cap amount) = $86,950"
+    },
+    {
+      "type": "paragraph",
+      "text": "The transferring fund will report on the rollover benefits statement (RBS) for the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "tax-free component label $98,050 ($185,000 − $86,950)",
+        "element untaxed in the fund label $1,705,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tom's SMSF will report $1,705,000 as income at the personal contributions label in the SMSF annual return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Starting a new income stream"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a member of your SMSF was receiving an income stream and starts a new income stream with their new fund following the rollover, you need to report this to us."
+    },
+    {
+      "type": "paragraph",
+      "text": "This needs to be reported as a commutation through the transfer balance account report (TBAR) ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not report the commutation to us when it happens, double counting of your member’s income streams may occur."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Correcting a mistake"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you make a mistake with the rollover payment, contact the receiving fund to resolve the issue."
+    }
+  ],
+  "content_text": "## Rollover requirements\nA rollover is when a trustee of a super fund transfers superannuation between funds at the request of a member. This may include all or some of the member's existing super balance.\nIt's a legal requirement for rollovers to be processed electronically, using 2 components:\n- a data message\n- a separate payment transfer for each data message.\nThere are some exceptions to electronic rollovers .\nTrustees must complete the rollover no later than 3 business days after receiving all the required information. Systems must be in place to action the requests. If your fund doesn't meet this requirement, it could receive a compliance breach.\nYour rollover may fail if trustees do not ensure the following requirements are met:\n- you engage an SMSF messaging provider to obtain an active electronic service address (ESA) that offers rollover services\n- you update your ATO records to notify us of the ESA\n- your SMSF has an Australian business number (ABN)\n- your SMSF has a 'complying' or 'registered' status on Super Fund Lookup\n- member and fund details held by us, the sending fund and the receiving fund are up-to-date and identical – for example, where the member name is recorded as 'Sue' with the fund and 'Susan' with us, this will prevent the rollover\n- you contact the transferring fund to understand any proof of identity (POI) requirements\n- you have a unique financial institution account for your SMSF recorded with us.\nWe strongly encourage all SMSFs to be established with a unique bank account. However, it's acknowledged there are some administrative platforms that offer omnibus accounts, where the assets of multiple funds are combined under a single account in the name of a single custodian.\nAs trustee, it is your responsibility to ensure the SMSF is investing in a legitimate product and the risks of investing in a product with an omnibus account feature are understood. The use of omnibus accounts may result in further enquiry and/or delay with some transactions.\nESAs can expire over time. It is important to make sure yours is still active with your provider. Contact them for more information.\nTo record your fund’s active ESA details with us, you can:\n- use the Profile menu in Online services for business\n- contact a registered agent\n- phone us on 13 10 20 .\n## How to action rollovers\nThe process to action a rollover will depend on whether you're rolling super into or out of your SMSF. Follow the steps for rollovers from:\n- an APRA-regulated fund to your SMSF\n- your SMSF to an APRA-regulated fund\n- your SMSF to another SMSF .\n### Rollovers from an APRA-regulated fund to your SMSF\n#### Step 1: Member requests a rollover\nMembers should engage with their APRA-regulated fund to:\n- ensure their details held with the APRA-regulated fund and with us are an exact match – any mismatch could delay or prevent processing\n- discuss what POI documents may need to be provided – for example, a marriage certificate or SMSF bank account details.\nMembers can request a rollover through:\n- the APRA-regulated fund – whole of balance transfers or partial transfers can be made this way\n- ATO online services – only whole of balance transfers can be made this way\n- the SMSF messaging provider – issue a rollover initiation request to the APRA-regulated fund. If the member doesn't provide all required information, the rollover will be delayed or rejected.\nWhen members request a rollover, they must include the APRA-regulated fund member number.\nIf the APRA-regulated fund suspects illegal activity, they will report it to the Australian Transaction Reports and Analysis Centre ( AUSTRAC External Link ) and any relevant law enforcement agencies.\n#### Step 2: APRA-regulated fund undertakes mandatory verification\nThe APRA-regulated fund runs mandatory verification checks to ensure the fund and member details match records held by them and us.\nTo protect against potential fraud, we send members emails or text message alerts advising of the rollover request. If the member is not aware of the request, they need to contact the transferring fund immediately to stop it.\n#### Step 3: Confirm your SMSF has received the rollover\nThe APRA-regulated fund will usually process and pay the rollover to your SMSF bank account within 3 business days of receiving all the information required. They will notify your SMSF messaging provider when this occurs.\nThey may take longer to process your request when the:\n- underlying assets are illiquid\n- product is a closed or defined benefit product\n- pension account is a type other than an account-based pension.\nWhen your SMSF receives the payment and associated data, check that the payment reference number (PRN) in the data message matches the PRN provided with the payment.\nYou must then confirm receipt of the rollover by sending an outcome response message through your SMSF messaging provider to the APRA-regulated fund within 3 business days.\n### Rollovers from your SMSF to an APRA-regulated fund\n#### Step 1: Member requests a rollover\nMembers can request a rollover:\n- to their SMSF in writing – include all relevant details and ensure they are identical to those recorded with us and the APRA-regulated fund\n- to their APRA-regulated fund – they may need to provide POI or bank verification documents before the APRA-regulated fund sends the request to your SMSF messaging provider\n- through ATO online services – only for whole of balance transfers, which can be a preferred option if a relationship breakdown occurs between trustees of the SMSF. If you registered your device using the ATO app and request to transfer super online, you will need to verify the request in the app before it is lodged.\nWhen members request a rollover, they must include the APRA-regulated fund member number.\n#### Step 2: Trustee actions the rollover request\nMake sure you:\n- have enough liquid assets and allow for any fees incurred by your SMSF – you need enough money in your SMSF bank account\n- check your financial institution daily transaction limit – if you are rolling over more than your limit, you may need to increase your daily transaction limit make multiple rollovers of a smaller amount – each rollover must match the amount of each separate payment and have a separate PRN\n- engage your SMSF messaging provider or administrator to send the data message, ensuring the mandatory verification checks are completed validate the member's tax file number (TFN) with SMSFmemberTICK verify the APRA-regulated fund details using the Fund Validation Service .\nAfter you action a rollover, your SMSF messaging provider will provide a PRN or advise you to create one. Quote this PRN when making the payment.\n##### Creating a PRN\nYou will be required to create your PRN. Complete the following steps:\n- Use the SMSF’s ABN.\n- Add the 4 digits to represent the day and month (DDMM).\n- Add a 3-digit sequence based on the number of payments the SMSF has made on this day.\nFor example:\n1. ABN (12345678910).\n2. Date (1410).\n3. Sequence (001 - the first payment of the day).\nThe PRN for 14 October would be '123456789101410001'.\n#### Step 3: Trustee pays the rollover\nThe payment of the rollover:\n- must be made as soon as possible after sending the data message\n- can be made using electronic funds transfer.\nUse the Fund Validation Service to verify the APRA-regulated fund’s current bank details. When making the payment through your financial institution:\n- use the correct PRN provided to you by your SMSF messaging provider, or the PRN you created\n- only make one payment for each PRN\n- pay the exact amount allocated to that PRN\n- make sure the PRN on the payment matches the PRN from the rollover message as the receiving fund can only accept the payment if they can reconcile these\n- if you need to make multiple payments, you need multiple PRNs for each of the data messages.\nFailure to do this will cause the rollover to be delayed or rejected. This can result in a regulatory contravention for the fund.\nWhen the APRA-regulated fund receives your payment and associated data, they will send an outcome response message to your SMSF messaging provider to confirm their receipt within 3 business days.\n### Rollovers from your SMSF to another SMSF\n#### Step 1: Member requests a rollover\nMembers can request a rollover:\n- in writing to their SMSF – include all relevant details and ensure they are identical to those recorded with us and the other SMSF\n- through ATO online services – only whole of balance transfers can be made this way. Trustees must action this within 3 days of receiving all the required information.\n#### Step 2: Trustee actions the rollover request\nMake sure you:\n- have enough liquid assets and allow for any fees incurred by your SMSF – you need enough money in your SMSF bank account\n- check your financial institution daily transaction limit – if you are rolling over more than your limit, you may need to: increase your daily transaction limit make multiple rollovers of a smaller amount – each rollover must match the amount of each separate payment and have a separate PRN\n- engage your SMSF messaging provider or administrator to send the data message, ensuring mandatory verification checks are completed validate the member's TFN with SMSFmemberTICK verify the fund and member details using the SMSF verification service (SVS).\nThe SVS will send a non-verified response if the:\n- ATO or your SMSF does not hold the required or correct SMSF details, including bank account and ESA\n- SMSF is not 'Complying' or 'Registered' on Super Fund Lookup\n- provided ABN is not registered as an SMSF.\nIn these cases, an authorised contact of the receiving SMSF will need to either:\n- notify us of changes\n- telephone us on 13 10 20 and select fast key codes 4 , then 1 .\nWhen the SVS is used, the member receives an email or text message alert before the rollover is made. If they did not request the rollover, they need to contact the transferring fund immediately to stop the rollover.\nAfter you action a rollover, your SMSF messaging provider will provide a PRN or advise you to create a PRN. You need to quote this PRN when paying the rollover.\n#### Step 3: Trustee pays the rollover\nYou must make the payment as soon as possible after sending the data message.\nWhen you make the payment through your financial institution:\n- use the correct PRN provided to you by your SMSF messaging provider or created by your SMSF\n- only make one payment for each PRN\n- pay the exact amount allocated to that PRN\n- make sure the PRN on the payment matches the PRN from the rollover message, as the receiving fund can only accept the payment if they can reconcile these\n- if you need to make multiple payments, you need multiple PRNs for each data message.\nFailure to do this will cause the rollover to be delayed or rejected. This can result in a regulatory contravention by the fund.\nWhen the receiving fund receives the payment and associated data, they will send an outcome response to your SMSF messaging provider within 3 business days to confirm their receipt.\n## Exceptions to electronic rollovers\nGenerally, rollovers to or from your SMSF must be processed electronically. There are some exceptions, including:\n- in-specie rollovers – these are managed through a process agreed between the relevant parties\n- a foreign super fund transfer\n- rollovers to or from a non-complying fund – you must use the Rollover benefits statement (RBS)\n- a family law super splitting payment – you must use the RBS.\n## Death benefit rollovers\nIf it's a death benefit rollover and the recipient is a dependent beneficiary, you also need to do the following within 30 days of the rollover payment:\n- if the dependent beneficiary is a child, complete the Death benefit rollover statement (DBRS) and send to the receiving fund\n- for both a dependent adult and child beneficiary, give the DBRS or a statement with the same information to the dependant beneficiary.\nA dependent child beneficiary is a child of the member who is one of the following:\n- under 18 years old\n- between 18 and 25 years old and was financially dependent on the deceased\n- living with a permanent disability.\nIf the rollover is a death benefit and the recipient is a dependent child:\n- this is a child death benefit rollover\n- the receiving fund will need to check the recipient's date of birth for any cashing obligations.\nKeep a copy of the documentation to show your SMSF auditor that the rollover process was compliant.\n## Rollovers due to winding up\nIf your SMSF is being wound up, a final rollover must only be made once all:\n- liabilities have been paid and\n- money owed to the fund have been received.\nOnce your final annual return is processed and all outstanding obligations have been met your ABN will be cancelled. Make sure you rollover any remaining superannuation benefits in your fund within 28 days to ensure this happens before the ABN is cancelled.\nThere are other actions you need to take if your SMSF is winding up . Follow all steps to wind your fund up successfully.\n## Rolling over untaxed elements of benefits\nA rollover from another fund is not included in the assessable income of your fund unless the rollover amount includes an untaxed element.\nIn the financial year the rollover occurs, if it contains an untaxed element, you need to include the amount of that element in the assessable income of your fund up to the untaxed plan cap amount .\nIf the untaxed element exceeds the untaxed plan cap, the originating fund should withhold tax (at the highest marginal tax rate plus Medicare levy) from the amount over the cap, before releasing the rollover to your fund.\nYou can then add this now-taxed amount to the tax-free component of the rolled-over amount.\nEnsure you report all member contributions in your SMSF annual return , even if they were rolled out to another fund later.\n### Example: rollover with an untaxed element\nOn 5 September 2023, Tom asks his APRA-regulated fund to roll over his super of $1,890,000 to his SMSF. This is an untaxed element.\nThe untaxed plan cap amount for 2023–24 is $1,705,000, meaning Tom's rollover amount exceeds the cap by $185,000. The originating fund must withhold tax of $86,950. . This is calculated as:\n47% (highest marginal tax rate, including the Medicare levy) × $185,000 (rollover amount that exceeds the cap amount) = $86,950\nThe transferring fund will report on the rollover benefits statement (RBS) for the:\n- tax-free component label $98,050 ($185,000 − $86,950)\n- element untaxed in the fund label $1,705,000.\nTom's SMSF will report $1,705,000 as income at the personal contributions label in the SMSF annual return.\n## Starting a new income stream\nIf a member of your SMSF was receiving an income stream and starts a new income stream with their new fund following the rollover, you need to report this to us.\nThis needs to be reported as a commutation through the transfer balance account report (TBAR) .\nIf you do not report the commutation to us when it happens, double counting of your member’s income streams may occur.\n## Correcting a mistake\nIf you make a mistake with the rollover payment, contact the receiving fund to resolve the issue.",
+  "child_links": [],
+  "word_count": 2606,
+  "source_title": "",
+  "source_description": "",
+  "category": "super-for-individuals-and-families"
+}

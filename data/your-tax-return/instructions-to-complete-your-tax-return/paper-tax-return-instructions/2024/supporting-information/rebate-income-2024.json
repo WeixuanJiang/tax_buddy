@@ -1,0 +1,96 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2024/supporting-information/rebate-income-2024",
+  "title": "Rebate income 2024",
+  "description": "Work out your rebate income and if you're eligible for the seniors and pensioners tax offset at question T1.",
+  "nat_number": "",
+  "quick_code": "101411",
+  "date_updated": "2024-05-29T00:18:00Z",
+  "first_published": true,
+  "keywords": "Individual tax return instructions, rebate, income, senior Australians, tax offset, tax return, 2024, pensioners, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What is rebate income?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your rebate income is the total amount of your taxable income (excluding any assessable First home super saver released amount) plus the following amounts if they apply to you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "adjusted fringe benefits total, which is the sum of reportable fringe benefits amounts you received from employers exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986 multiplied by 0.53, and reportable fringe benefits amounts from employers not exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986",
+        "reportable employer superannuation contributions",
+        "deductible personal superannuation contributions",
+        "your net financial investment loss (that is, the amount your deductions from your financial investments exceeded your total financial investment income)",
+        "your net rental property loss (that is, the amount by which your deductions attributable to rental property exceeded your rental property income)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Calculate your rebate income"
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your rebate income, use the following worksheet."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "Your taxable income (from Taxable income or loss in your tax return – excluding any assessable First home super saver released amount) If your taxable income is a loss, write 0 (zero) .",
+          "$"
+        ],
+        [
+          "b",
+          "Your reportable employer superannuation contributions (from question IT2 – label T in your tax return)",
+          "$"
+        ],
+        [
+          "c",
+          "Your deductible personal superannuation contributions (from question D12 – label H in your tax return)",
+          "$"
+        ],
+        [
+          "d",
+          "Your net financial investment loss (from question IT5 – label X in your tax return)",
+          "$"
+        ],
+        [
+          "e",
+          "Your net rental property loss (from question IT6 – label Y in your tax return)",
+          "$"
+        ],
+        [
+          "f",
+          "Your adjusted fringe benefits total – the sum of: question IT1 – label N in your tax return multiplied by 0.53 and rounded down to the nearest dollar, and question IT1 – label W in your tax return.",
+          "$"
+        ],
+        [
+          "g",
+          "Add up the amounts from rows a to f . This is your rebate income.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Go back to question T1 Seniors and pensioners tax offset 2024 ."
+    }
+  ],
+  "content_text": "## What is rebate income?\nYour rebate income is the total amount of your taxable income (excluding any assessable First home super saver released amount) plus the following amounts if they apply to you:\n- adjusted fringe benefits total, which is the sum of reportable fringe benefits amounts you received from employers exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986 multiplied by 0.53, and reportable fringe benefits amounts from employers not exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986\n- reportable employer superannuation contributions\n- deductible personal superannuation contributions\n- your net financial investment loss (that is, the amount your deductions from your financial investments exceeded your total financial investment income)\n- your net rental property loss (that is, the amount by which your deductions attributable to rental property exceeded your rental property income).\n## Calculate your rebate income\nTo work out your rebate income, use the following worksheet.\nRow | Calculation | Amount\na | Your taxable income (from Taxable income or loss in your tax return – excluding any assessable First home super saver released amount) If your taxable income is a loss, write 0 (zero) . | $\nb | Your reportable employer superannuation contributions (from question IT2 – label T in your tax return) | $\nc | Your deductible personal superannuation contributions (from question D12 – label H in your tax return) | $\nd | Your net financial investment loss (from question IT5 – label X in your tax return) | $\ne | Your net rental property loss (from question IT6 – label Y in your tax return) | $\nf | Your adjusted fringe benefits total – the sum of: question IT1 – label N in your tax return multiplied by 0.53 and rounded down to the nearest dollar, and question IT1 – label W in your tax return. | $\ng | Add up the amounts from rows a to f . This is your rebate income. | $\nGo back to question T1 Seniors and pensioners tax offset 2024 .",
+  "child_links": [],
+  "word_count": 356,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

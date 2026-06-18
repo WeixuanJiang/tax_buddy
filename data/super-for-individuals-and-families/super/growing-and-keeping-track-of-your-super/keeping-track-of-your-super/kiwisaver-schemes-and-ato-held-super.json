@@ -1,0 +1,372 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/super/growing-and-keeping-track-of-your-super/keeping-track-of-your-super/kiwisaver-schemes-and-ato-held-super",
+  "title": "KiwiSaver schemes and ATO-held super",
+  "description": "How KiwiSaver schemes can help their members transfer ATO-held unclaimed super to New Zealand.",
+  "nat_number": "",
+  "quick_code": "70809",
+  "date_updated": "2023-04-10T14:00:00Z",
+  "first_published": "",
+  "keywords": "Kiwi, KiwiSaver, KiwiSaver scheme, KiwiSaver information, New Zealand, Trans-tasman, Retirement saving portability, Unclaimed superannuation monday, USM, NZ, Emigrated, ATO-Held, KiwiSaver scheme registrations, Outside Australia, KSP, Data transfer Facility, DTF, Kiwisaver scheme payment",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How it works"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Trans-Tasman retirement savings portability arrangement allows us to directly transfer ATO-held unclaimed super money (USM) of New Zealand residents to their nominated KiwiSaver scheme."
+    },
+    {
+      "type": "paragraph",
+      "text": "In some circumstances, we can also transfer USM directly to the bank account of a New Zealand resident."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eligible individuals can apply any time to transfer their ATO-held USM to their nominated KiwiSaver scheme."
+    },
+    {
+      "type": "paragraph",
+      "text": "KiwiSaver schemes need to be registered before they can participate in the program."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your scheme is participating, your members can apply to have their ATO-held USM transferred by nominating you as their registered KiwiSaver scheme."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your scheme is not participating, we will not be able to transfer any ATO-held USM on behalf of your members if they select you as their nominated KiwiSaver Scheme provider."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "What is unclaimed super money (USM)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unclaimed super is money that super funds are required to transfer to us twice a year. Generally, super will be transferred to us from providers in these cases:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "unclaimed super of members 65 years or older , non-member spouses and deceased members",
+        "super of former temporary residents who have left Australia for 6 months or more and their visa has expired",
+        "small lost member accounts and insoluble lost member accounts",
+        "inactive low balance accounts",
+        "accounts held in eligible rollover funds (ERFs) that were transferred to us before they wind up",
+        "amounts super funds transfer to us on a voluntary basis."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to register"
+    },
+    {
+      "type": "paragraph",
+      "text": "To register, email KSPsupport@ato.gov.au This link opens in a new window ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Directors need to be verified with POI-certified documents and registered before we can provide an ATO reference number (ARN)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Data transfer"
+    },
+    {
+      "type": "paragraph",
+      "text": "We use the data transfer facility (DTF) to send files to and receive files from KiwiSaver scheme participants."
+    },
+    {
+      "type": "paragraph",
+      "text": "To lodge files using the DTF you need to obtain a user ID and password. Each user in your organisation will need a separate user ID."
+    },
+    {
+      "type": "paragraph",
+      "text": "To obtain a user ID and password for password resets, contact us either by:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "email at ATOBulkDataTransfer@ato.gov.au This link opens in a new window",
+        "phone on +61(02) 6216 4004 between 8:30 am and 4:30 pm, Monday to Friday AEST."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your DTF login and password will expire after 30 days. You need to update your login and password at the beginning of each payment run."
+    },
+    {
+      "type": "paragraph",
+      "text": "DTF files can only be downloaded once. If you can’t download the file, check that other users within your organisation haven’t already downloaded it before contacting us."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more on DTF, see page 26 in the Electronic reporting specifications External Link ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Verification process"
+    },
+    {
+      "type": "paragraph",
+      "text": "Payment runs begin with a verification process. If a member has applied for their USM and nominated you as their KiwiSaver scheme, we:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "send a verification file to your DTF mailbox to determine that they are a member of your scheme",
+        "email you to advise that the verification file has been sent to your DTF mailbox."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to respond with a Y or N and date for each member within 10 business days."
+    },
+    {
+      "type": "paragraph",
+      "text": "If none of your members have nominated your scheme, you will not receive a verification file."
+    },
+    {
+      "type": "paragraph",
+      "text": "We send verification files out each year on the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "4th Monday in January",
+        "4th Monday in July."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you enter the required data for each member, you need to upload the file in CSV format. See details in the Electronic reporting specifications External Link ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Members verified as Y will have their USM paid to their nominated KiwiSaver scheme."
+    },
+    {
+      "type": "paragraph",
+      "text": "When we receive an N notification, we will:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "notify the individual that they have not been verified as a member of your KiwiSaver scheme",
+        "advise them to contact their scheme directly to resolve."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have made an error in the verification file, contact us within 10 days to correct it."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you respond after the 10 business days, the individual’s application may be unnecessarily delayed and fall into the next payment run."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not respond at all, we will be unable to process an application. This may result in clients being directed back to their KiwiSaver scheme for more information."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Payment process"
+    },
+    {
+      "type": "paragraph",
+      "text": "We will make bi-annual payments to KiwiSaver schemes in February and August each year."
+    },
+    {
+      "type": "paragraph",
+      "text": "For verified members, KiwiSaver scheme participants receive a:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "payment file containing member details",
+        "breakdown of the USM entitlement in Australian dollars."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This is sent 28 days after the verification file is issued."
+    },
+    {
+      "type": "paragraph",
+      "text": "Scheme participants also receive a:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "lump sum payment in NZ dollars into their nominated bank account for all members they have verified within 14 days",
+        "payment confirmation notice with the foreign exchange rate to help calculate each member's entitlement within 14 days of receiving the payment."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: Your financial institution may charge additional fees. We do not charge any fee for this service."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eligibility criteria for individuals"
+    },
+    {
+      "type": "paragraph",
+      "text": "To be eligible to receive ATO-held USM, individuals or members must:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "be New Zealand permanent residents or citizens",
+        "have worked in Australia",
+        "have received super."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "USM payments can be made directly to the New Zealand resident (New Zealand bank account) if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "they are over 65 years old, or",
+        "the USM balance for any period is less than A$200.00."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "How individuals apply"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eligible individuals can apply any time to transfer their ATO-held USM to either their:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "nominated KiwiSaver scheme",
+        "New Zealand bank account (if they meet the criteria above)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "KiwiSaver schemes cannot apply on behalf of their members. However, they may be able to help members complete the application form. The member must sign the form."
+    },
+    {
+      "type": "paragraph",
+      "text": "We notify individuals if their application is successful. We will also notify them if they:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "don't meet the eligibility criteria",
+        "haven’t completed the application form correctly",
+        "don’t have USM."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mutual expectations"
+    },
+    {
+      "type": "paragraph",
+      "text": "To ensure efficient resolution of issues, we have established mutual expectations with KiwiSaver schemes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "KiwiSaver schemes"
+    },
+    {
+      "type": "paragraph",
+      "text": "KiwiSaver schemes have agreed to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "be registered before using the ATO DTF",
+        "be prepared to receive verification files",
+        "complete testing and conformance sign off to signal business readiness",
+        "respond to verification files within 10 business days, see Electronic reporting specification External Link",
+        "ensure payments are allocated to members' accounts in a timely manner",
+        "ensure members are advised of payments in a timely manner",
+        "all elements of the electronic reporting specification, to ensure privacy and security are adhered to."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "ATO service commitment"
+    },
+    {
+      "type": "paragraph",
+      "text": "We have agreed to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "respond to all enquiries within 14 business days, including enquiries about: registering new KiwiSaver schemes making changes to bank details, authorised contacts, administrator and trustee names mergers winding-up of a KiwiSaver scheme",
+        "be mindful of issues and prioritise work accordingly",
+        "acknowledge complaints in 3 business days."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Support and enquiries"
+    },
+    {
+      "type": "paragraph",
+      "text": "For technical system support enquiries relating to the DTF, email DPO@ato.gov.au This link opens in a new window ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For all other enquiries, email KSPsupport@ato.gov.au This link opens in a new window . Allow 14 business days for a response. Include the following information:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "KiwiSaver scheme name",
+        "KiwiSaver scheme ARN",
+        "member name and account number",
+        "details of the issue."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include tax file numbers (TFNs) or Inland Revenue Department (IRD) numbers in an email."
+    },
+    {
+      "type": "paragraph",
+      "text": "See details of our planned system maintenance ."
+    }
+  ],
+  "content_text": "## How it works\nThe Trans-Tasman retirement savings portability arrangement allows us to directly transfer ATO-held unclaimed super money (USM) of New Zealand residents to their nominated KiwiSaver scheme.\nIn some circumstances, we can also transfer USM directly to the bank account of a New Zealand resident.\nEligible individuals can apply any time to transfer their ATO-held USM to their nominated KiwiSaver scheme.\nKiwiSaver schemes need to be registered before they can participate in the program.\nIf your scheme is participating, your members can apply to have their ATO-held USM transferred by nominating you as their registered KiwiSaver scheme.\nIf your scheme is not participating, we will not be able to transfer any ATO-held USM on behalf of your members if they select you as their nominated KiwiSaver Scheme provider.\n### What is unclaimed super money (USM)?\nUnclaimed super is money that super funds are required to transfer to us twice a year. Generally, super will be transferred to us from providers in these cases:\n- unclaimed super of members 65 years or older , non-member spouses and deceased members\n- super of former temporary residents who have left Australia for 6 months or more and their visa has expired\n- small lost member accounts and insoluble lost member accounts\n- inactive low balance accounts\n- accounts held in eligible rollover funds (ERFs) that were transferred to us before they wind up\n- amounts super funds transfer to us on a voluntary basis.\n## How to register\nTo register, email KSPsupport@ato.gov.au This link opens in a new window .\nDirectors need to be verified with POI-certified documents and registered before we can provide an ATO reference number (ARN).\n### Data transfer\nWe use the data transfer facility (DTF) to send files to and receive files from KiwiSaver scheme participants.\nTo lodge files using the DTF you need to obtain a user ID and password. Each user in your organisation will need a separate user ID.\nTo obtain a user ID and password for password resets, contact us either by:\n- email at ATOBulkDataTransfer@ato.gov.au This link opens in a new window\n- phone on +61(02) 6216 4004 between 8:30 am and 4:30 pm, Monday to Friday AEST.\nYour DTF login and password will expire after 30 days. You need to update your login and password at the beginning of each payment run.\nDTF files can only be downloaded once. If you can’t download the file, check that other users within your organisation haven’t already downloaded it before contacting us.\nFor more on DTF, see page 26 in the Electronic reporting specifications External Link .\n### Verification process\nPayment runs begin with a verification process. If a member has applied for their USM and nominated you as their KiwiSaver scheme, we:\n- send a verification file to your DTF mailbox to determine that they are a member of your scheme\n- email you to advise that the verification file has been sent to your DTF mailbox.\nYou need to respond with a Y or N and date for each member within 10 business days.\nIf none of your members have nominated your scheme, you will not receive a verification file.\nWe send verification files out each year on the:\n- 4th Monday in January\n- 4th Monday in July.\nOnce you enter the required data for each member, you need to upload the file in CSV format. See details in the Electronic reporting specifications External Link .\nMembers verified as Y will have their USM paid to their nominated KiwiSaver scheme.\nWhen we receive an N notification, we will:\n- notify the individual that they have not been verified as a member of your KiwiSaver scheme\n- advise them to contact their scheme directly to resolve.\nIf you have made an error in the verification file, contact us within 10 days to correct it.\nIf you respond after the 10 business days, the individual’s application may be unnecessarily delayed and fall into the next payment run.\nIf you do not respond at all, we will be unable to process an application. This may result in clients being directed back to their KiwiSaver scheme for more information.\n### Payment process\nWe will make bi-annual payments to KiwiSaver schemes in February and August each year.\nFor verified members, KiwiSaver scheme participants receive a:\n- payment file containing member details\n- breakdown of the USM entitlement in Australian dollars.\nThis is sent 28 days after the verification file is issued.\nScheme participants also receive a:\n- lump sum payment in NZ dollars into their nominated bank account for all members they have verified within 14 days\n- payment confirmation notice with the foreign exchange rate to help calculate each member's entitlement within 14 days of receiving the payment.\nNote: Your financial institution may charge additional fees. We do not charge any fee for this service.\n## Eligibility criteria for individuals\nTo be eligible to receive ATO-held USM, individuals or members must:\n- be New Zealand permanent residents or citizens\n- have worked in Australia\n- have received super.\nUSM payments can be made directly to the New Zealand resident (New Zealand bank account) if:\n- they are over 65 years old, or\n- the USM balance for any period is less than A$200.00.\n### How individuals apply\nEligible individuals can apply any time to transfer their ATO-held USM to either their:\n- nominated KiwiSaver scheme\n- New Zealand bank account (if they meet the criteria above).\nKiwiSaver schemes cannot apply on behalf of their members. However, they may be able to help members complete the application form. The member must sign the form.\nWe notify individuals if their application is successful. We will also notify them if they:\n- don't meet the eligibility criteria\n- haven’t completed the application form correctly\n- don’t have USM.\n## Mutual expectations\nTo ensure efficient resolution of issues, we have established mutual expectations with KiwiSaver schemes.\n### KiwiSaver schemes\nKiwiSaver schemes have agreed to:\n- be registered before using the ATO DTF\n- be prepared to receive verification files\n- complete testing and conformance sign off to signal business readiness\n- respond to verification files within 10 business days, see Electronic reporting specification External Link\n- ensure payments are allocated to members' accounts in a timely manner\n- ensure members are advised of payments in a timely manner\n- all elements of the electronic reporting specification, to ensure privacy and security are adhered to.\n### ATO service commitment\nWe have agreed to:\n- respond to all enquiries within 14 business days, including enquiries about: registering new KiwiSaver schemes making changes to bank details, authorised contacts, administrator and trustee names mergers winding-up of a KiwiSaver scheme\n- be mindful of issues and prioritise work accordingly\n- acknowledge complaints in 3 business days.\n## Support and enquiries\nFor technical system support enquiries relating to the DTF, email DPO@ato.gov.au This link opens in a new window .\nFor all other enquiries, email KSPsupport@ato.gov.au This link opens in a new window . Allow 14 business days for a response. Include the following information:\n- KiwiSaver scheme name\n- KiwiSaver scheme ARN\n- member name and account number\n- details of the issue.\nDo not include tax file numbers (TFNs) or Inland Revenue Department (IRD) numbers in an email.\nSee details of our planned system maintenance .",
+  "child_links": [],
+  "word_count": 1223,
+  "source_title": "",
+  "source_description": "",
+  "category": "super-for-individuals-and-families"
+}

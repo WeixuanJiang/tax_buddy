@@ -1,0 +1,205 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/income/other-income/forestry-managed-investment-scheme-income/subsequent-participant-calculation",
+  "title": "Subsequent participant calculation",
+  "description": "How to calculate income from a forestry managed investment scheme - subsequent participant.",
+  "nat_number": "",
+  "quick_code": "80262",
+  "date_updated": "2019-06-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Did you receive thinning proceeds from your forestry interest?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "No − Go to step 2."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes − Include the actual amount you received at row o in Worksheet 4 . Go to step 2."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Did you receive sale and harvest receipts from a forestry interest you no longer held?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "No − Go to step 5."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes − Go to step 3."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Did the following apply: a CGT event happened you no longer hold your forestry interest as a result of the CGT event (for example, you sold your interest or you received harvest proceeds), and in relation to the forestry interest, you claimed a deduction, or can claim a deduction, or could have deducted an amount if you had paid the amount under the FMIS?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "No − Go to step 5."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes − Go to step 4."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Work out the lesser of the following two amounts: the market value of the forestry interest (at the time of the CGT event) the amount (if any) by which the total forestry scheme deductions exceeded the incidental forestry scheme receipts."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Include at row p in Worksheet 4 the amount you worked out at step 4."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Did you receive sale and harvest receipts from a forestry interest you still held?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "No − Go to step 8."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes − Go to step 6."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Do all of the following apply? A CGT event happened. You still hold your forestry interest (for example because you have sold part of your interest or there was a partial harvest). You have deducted or can deduct or could have deducted an amount if you paid the amount under the FMIS in relation to the forestry interest."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "No − Go to step 8."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes − Go to step 7."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Use Worksheet 3 to work out the amount you need to include in Worksheet 4."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Description",
+          "Amount"
+        ],
+        [
+          "h",
+          "Market value of the forestry interest (at the time of the CGT event)",
+          "$"
+        ],
+        [
+          "i",
+          "Amount (if any) by which the total forestry scheme deductions exceeded the incidental forestry scheme receipts ('net deductions')",
+          "$"
+        ],
+        [
+          "j",
+          "If row h is less than row i , use the amount from row h . Otherwise, use the amount from row i .",
+          "$"
+        ],
+        [
+          "k",
+          "The decrease (if any) in the market value of the forestry interest (as a result of the CGT event)",
+          "$"
+        ],
+        [
+          "l",
+          "The market value of the forestry interest just before the CGT event",
+          "$"
+        ],
+        [
+          "m",
+          "Divide row k by row l",
+          "$"
+        ],
+        [
+          "n",
+          "Multiply row j by row m",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Include at row q in Worksheet 4 the amount you worked out at row n in Worksheet 3 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "In a future income year (a year in which you receive further proceeds from a harvest or the sale of your forestry interest), disregard the amount of the 'net deductions' that has already been included at Amount in myTax."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on the CGT treatment of your forestry interest, see the Guide to capital gains tax ."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Transfer the amount calculated at row 'r' in Worksheet 4 to row 'b' in Worksheet 1 ."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Description",
+          "Amount"
+        ],
+        [
+          "o",
+          "Thinning proceeds (from Step 1)",
+          "$"
+        ],
+        [
+          "p",
+          "Sale and harvest receipts from a forestry interest you no longer hold (from Step 4)",
+          "$"
+        ],
+        [
+          "q",
+          "Sale and harvest receipts from a forestry interest you still hold (from Step 7)",
+          "$"
+        ],
+        [
+          "r",
+          "Add row o and row p and row q",
+          "$"
+        ]
+      ]
+    }
+  ],
+  "content_text": "- Did you receive thinning proceeds from your forestry interest?\nNo − Go to step 2.\nYes − Include the actual amount you received at row o in Worksheet 4 . Go to step 2.\n- Did you receive sale and harvest receipts from a forestry interest you no longer held?\nNo − Go to step 5.\nYes − Go to step 3.\n- Did the following apply: a CGT event happened you no longer hold your forestry interest as a result of the CGT event (for example, you sold your interest or you received harvest proceeds), and in relation to the forestry interest, you claimed a deduction, or can claim a deduction, or could have deducted an amount if you had paid the amount under the FMIS?\nNo − Go to step 5.\nYes − Go to step 4.\n- Work out the lesser of the following two amounts: the market value of the forestry interest (at the time of the CGT event) the amount (if any) by which the total forestry scheme deductions exceeded the incidental forestry scheme receipts.\nInclude at row p in Worksheet 4 the amount you worked out at step 4.\n- Did you receive sale and harvest receipts from a forestry interest you still held?\nNo − Go to step 8.\nYes − Go to step 6.\n- Do all of the following apply? A CGT event happened. You still hold your forestry interest (for example because you have sold part of your interest or there was a partial harvest). You have deducted or can deduct or could have deducted an amount if you paid the amount under the FMIS in relation to the forestry interest.\nNo − Go to step 8.\nYes − Go to step 7.\n- Use Worksheet 3 to work out the amount you need to include in Worksheet 4.\nRow | Description | Amount\nh | Market value of the forestry interest (at the time of the CGT event) | $\ni | Amount (if any) by which the total forestry scheme deductions exceeded the incidental forestry scheme receipts ('net deductions') | $\nj | If row h is less than row i , use the amount from row h . Otherwise, use the amount from row i . | $\nk | The decrease (if any) in the market value of the forestry interest (as a result of the CGT event) | $\nl | The market value of the forestry interest just before the CGT event | $\nm | Divide row k by row l | $\nn | Multiply row j by row m | $\nInclude at row q in Worksheet 4 the amount you worked out at row n in Worksheet 3 .\nIn a future income year (a year in which you receive further proceeds from a harvest or the sale of your forestry interest), disregard the amount of the 'net deductions' that has already been included at Amount in myTax.\nFor more information on the CGT treatment of your forestry interest, see the Guide to capital gains tax .\n- Transfer the amount calculated at row 'r' in Worksheet 4 to row 'b' in Worksheet 1 .\nRow | Description | Amount\no | Thinning proceeds (from Step 1) | $\np | Sale and harvest receipts from a forestry interest you no longer hold (from Step 4) | $\nq | Sale and harvest receipts from a forestry interest you still hold (from Step 7) | $\nr | Add row o and row p and row q | $",
+  "child_links": [],
+  "word_count": 600,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

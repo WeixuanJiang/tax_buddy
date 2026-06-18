@@ -1,0 +1,157 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2020/income/salary-wages-allowances-tips-bonuses-etc-including-lump-sums/salary-wages-allowances-tips-bonuses",
+  "title": "myTax 2020 Salary, wages, allowances, tips, bonuses etc.",
+  "description": "How to complete the salary and wages section of your tax return using myTax.",
+  "nat_number": "",
+  "quick_code": "61980",
+  "date_updated": "2020-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "2020, salary, wages, salary or wages, allowances, bonuses, payment summary, myTax, e-tax, online tax return, lump sum, etax, lump sum A, lump sum B, lump sum E, group certificate",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Complete this section to show employment-related income (such as salary, wages, allowances, tips, bonuses and lump sum payments) and other details from income statements, payment summaries or comparable statements."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include income shown on an income statement or PAYG payment summary – individual non-business from any of the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "salary and wages – including COVID-19 related payments you receive from your employer such as JobKeeper and stand-down payments",
+        "allowances – including COVID-19 related allowances such as a pandemic allowance",
+        "lump sum payments",
+        "Community Development Employment Project (CDEP)",
+        "exempt foreign employment income ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a COVID-19 related payment from your employer and are unsure if you need to declare this income on your tax return, see Tax on employment income for further information."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your income statement or payment summary also shows any of the following, include those details here:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "reportable fringe benefits amount (for more information, see Total reportable fringe benefit amounts )",
+        "reportable employer superannuation contributions (for more information, see Reportable employer superannuation contributions )",
+        "workplace giving (for more information, see Gifts or donations )",
+        "union or professional association fees (for more information, see Other work-related expenses )."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Do not show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Received an employment termination payment, go to Employment termination payments .",
+        "Received a PAYG payment summary – foreign employment , go to Foreign employment income .",
+        "Are an Australian Government agency employee (and not a member of a disciplined force), show income earned from delivering Australian official development assistance (ODA) at Foreign employment income . You are no longer eligible for an Australian income tax exemption on this income.",
+        "Received income for work or services performed in the Joint Petroleum Development Area (JPDA), go to Foreign employment income .",
+        "Received a PAYG payment summary – superannuation income stream , go to Super income stream ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your income statement, PAYG payment summary – individual non-business or a comparable statement such as a letter or signed statement from each employer or payer."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Accessing your income statement or payment summary",
+        "Income statement not finalised or missing payment summary"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your tax return with income statement and payment summary information provided to us. Check them, and add any income statement or payment summary information for salary, wages, allowances, tips, bonuses (including lump sum A, B, D or E payments) you received that has not pre-filled."
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your return to show income statements and payment summary information for salary, wages, allowances, tips, bonuses (including lump sum A, B, D or E payments), at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You received salary, wages or other income on an income statement/payment summary, Australian Government payments, or First home super saver (FHSS) scheme payment.",
+        "Salary, wages, allowances, tips, bonuses etc. (including lump sum A, B, D or E payments)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your income statements and payment summary information for salary, wages, allowances, tips, bonuses (including lump sum A, B, D or E payments), at Prepare return select 'Add/Edit' at the Income statements and payment summaries banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Salary, wages, allowances, tips, bonuses etc. banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Enter the Occupation where you earned most income . If you can't find your specific occupation, choose the most appropriate one that applies to you. If you received payments for lost salary or wages paid under an income protection policy, a sickness or accident insurance policy, or a workers compensation scheme, enter the occupation that best describes the occupation from which you would have earned most of your payments had you not received them from another source.",
+        "For each income statement or payment summary that has not been pre-filled in your tax return, select Add and enter information into the corresponding fields.",
+        "For each income statement or payment summary that has a Gross payment greater than '0', you must provide the Payer's Australian business number (ABN) or Withholding payer number (WPN). If you don’t know the ABN check with your payer or look-up the ABN External Link .",
+        "For each income statement or payment summary that has a Lump sum A greater than '0', select the Lump sum A type .",
+        "For each income statement or payment summary that has a Lump sum B greater than '0', enter the full amount. myTax will divide the Lump sum B amount by 20 and include that as your income. This is because only 5% is taxable.",
+        "For each income statement or payment summary that has a Lump sum D greater than '0', these are the tax-free components of a genuine redundancy payment or an early retirement. myTax will not include this tax-free income in your taxable income.",
+        "For each income statement or payment summary that has a Lump sum E greater than '0', enter the required additional information (year and amount earned) and select Save . If the payment relates to more than one year, select Add and provide additional details.",
+        "For each income statement or payment summary that has Exempt foreign employment income greater than '0' enter the Foreign tax paid on exempt foreign employment income select the Country employed in answer the question Does the exempt foreign employment income include a payment in arrears? If Yes , enter the Lump sum in arrears in $AUD and the required additional information (year and amount earned), and select Save . If the payment relates to more than one year, select Add and provide additional details.",
+        "Select Save .",
+        "Select Save and continue when you have completed the Income statements and payment summaries section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You must ensure Working holiday maker net income is also completed, if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "are between 18 and 35 years old, and",
+        "indicated that you earned income while you held a Working Holiday visa (subclass 417) or Work and Holiday visa (subclass 462)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Keeping your tax records ."
+    }
+  ],
+  "content_text": "Complete this section to show employment-related income (such as salary, wages, allowances, tips, bonuses and lump sum payments) and other details from income statements, payment summaries or comparable statements.\n## Things to know\nInclude income shown on an income statement or PAYG payment summary – individual non-business from any of the following:\n- salary and wages – including COVID-19 related payments you receive from your employer such as JobKeeper and stand-down payments\n- allowances – including COVID-19 related allowances such as a pandemic allowance\n- lump sum payments\n- Community Development Employment Project (CDEP)\n- exempt foreign employment income .\nIf you received a COVID-19 related payment from your employer and are unsure if you need to declare this income on your tax return, see Tax on employment income for further information.\nIf your income statement or payment summary also shows any of the following, include those details here:\n- reportable fringe benefits amount (for more information, see Total reportable fringe benefit amounts )\n- reportable employer superannuation contributions (for more information, see Reportable employer superannuation contributions )\n- workplace giving (for more information, see Gifts or donations )\n- union or professional association fees (for more information, see Other work-related expenses ).\n### Do not show at this section\nIf you:\n- Received an employment termination payment, go to Employment termination payments .\n- Received a PAYG payment summary – foreign employment , go to Foreign employment income .\n- Are an Australian Government agency employee (and not a member of a disciplined force), show income earned from delivering Australian official development assistance (ODA) at Foreign employment income . You are no longer eligible for an Australian income tax exemption on this income.\n- Received income for work or services performed in the Joint Petroleum Development Area (JPDA), go to Foreign employment income .\n- Received a PAYG payment summary – superannuation income stream , go to Super income stream .\n## Completing this section\nYou will need your income statement, PAYG payment summary – individual non-business or a comparable statement such as a letter or signed statement from each employer or payer.\nSee also:\n- Accessing your income statement or payment summary\n- Income statement not finalised or missing payment summary\nWe pre-fill your tax return with income statement and payment summary information provided to us. Check them, and add any income statement or payment summary information for salary, wages, allowances, tips, bonuses (including lump sum A, B, D or E payments) you received that has not pre-filled.\nTo personalise your return to show income statements and payment summary information for salary, wages, allowances, tips, bonuses (including lump sum A, B, D or E payments), at Personalise return select:\n- You received salary, wages or other income on an income statement/payment summary, Australian Government payments, or First home super saver (FHSS) scheme payment.\n- Salary, wages, allowances, tips, bonuses etc. (including lump sum A, B, D or E payments).\nTo show your income statements and payment summary information for salary, wages, allowances, tips, bonuses (including lump sum A, B, D or E payments), at Prepare return select 'Add/Edit' at the Income statements and payment summaries banner.\nAt the Salary, wages, allowances, tips, bonuses etc. banner:\n- Enter the Occupation where you earned most income . If you can't find your specific occupation, choose the most appropriate one that applies to you. If you received payments for lost salary or wages paid under an income protection policy, a sickness or accident insurance policy, or a workers compensation scheme, enter the occupation that best describes the occupation from which you would have earned most of your payments had you not received them from another source.\n- For each income statement or payment summary that has not been pre-filled in your tax return, select Add and enter information into the corresponding fields.\n- For each income statement or payment summary that has a Gross payment greater than '0', you must provide the Payer's Australian business number (ABN) or Withholding payer number (WPN). If you don’t know the ABN check with your payer or look-up the ABN External Link .\n- For each income statement or payment summary that has a Lump sum A greater than '0', select the Lump sum A type .\n- For each income statement or payment summary that has a Lump sum B greater than '0', enter the full amount. myTax will divide the Lump sum B amount by 20 and include that as your income. This is because only 5% is taxable.\n- For each income statement or payment summary that has a Lump sum D greater than '0', these are the tax-free components of a genuine redundancy payment or an early retirement. myTax will not include this tax-free income in your taxable income.\n- For each income statement or payment summary that has a Lump sum E greater than '0', enter the required additional information (year and amount earned) and select Save . If the payment relates to more than one year, select Add and provide additional details.\n- For each income statement or payment summary that has Exempt foreign employment income greater than '0' enter the Foreign tax paid on exempt foreign employment income select the Country employed in answer the question Does the exempt foreign employment income include a payment in arrears? If Yes , enter the Lump sum in arrears in $AUD and the required additional information (year and amount earned), and select Save . If the payment relates to more than one year, select Add and provide additional details.\n- Select Save .\n- Select Save and continue when you have completed the Income statements and payment summaries section.\nYou must ensure Working holiday maker net income is also completed, if you:\n- are between 18 and 35 years old, and\n- indicated that you earned income while you held a Working Holiday visa (subclass 417) or Work and Holiday visa (subclass 462).\nFor more information, see Keeping your tax records .",
+  "child_links": [],
+  "word_count": 1001,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

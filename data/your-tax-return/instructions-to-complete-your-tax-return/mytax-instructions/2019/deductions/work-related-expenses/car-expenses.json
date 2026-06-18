@@ -1,0 +1,547 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/deductions/work-related-expenses/car-expenses",
+  "title": "myTax 2019 Work-related car expenses",
+  "description": "How to complete the work-related car expenses section of your return using myTax.",
+  "nat_number": "",
+  "quick_code": "59092",
+  "date_updated": "2019-06-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "2019, WRE, work-related expenses, car expenses, deductions, car ownership, myTax, e-tax, online tax return, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Work-related car expenses are expenses you incurred as an employee for a car you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "owned",
+        "leased, or",
+        "hired under a hire-purchase agreement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Essentials"
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember, to claim a work-related deduction:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you must have spent the money yourself and weren't reimbursed",
+        "it must be directly related to earning your income",
+        "you must have a record to prove it."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your total claim for work-related expenses is more than $300, you must have written evidence to prove your claims."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "You can claim"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim the cost of trips you undertake in the course of performing your work duties, which may also include trips between your home and your workplace if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you used your car because you had to carry bulky tools or equipment that you used for work and could not leave at your workplace (for example, an extension ladder or cello)",
+        "your home was a base of employment (that is, you were required to start your work at home and travel to a workplace to continue your work for the same employer)",
+        "you had shifting places of employment (that is, you regularly worked at more than one site each day before returning home)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Work-related car expenses also include the cost of trips:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "between two separate places of employment when you have a second job, providing one of those places is not your home",
+        "from your normal workplace or your home to an alternative workplace that is not a regular workplace (for example, a client’s premises) while you are on duty",
+        "from an alternative workplace that is not a regular workplace back to your normal workplace or directly home."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the travel was partly private, you can claim only the work-related part."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received an award transport payment, see Claiming a deduction for car expenses - award transport payments ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have been claiming deductions for your car and, during the income year, you sold or disposed of it, or it was stolen or destroyed, you might need to make a balancing adjustment. Visit If your car was sold, disposed of, stolen or destroyed to learn more."
+    },
+    {
+      "type": "paragraph",
+      "text": "For claiming expenses for a car owned or leased by someone else, visit Owned or leased by others ."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Deductions you can claim",
+        "Taxation Ruling TR 95/34 Income tax: employees carrying out itinerant work - deductions, allowances and reimbursements for transport expenses",
+        "Travel between home and work and between workplaces",
+        "Law Administration Practice Statement PS LA 1999/2 Calculating joint car expense deductions ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "You cannot claim"
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim normal trips between your home and your workplace, even if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you did minor work-related tasks at home or between home and your workplace",
+        "you travelled between your home and workplace more than once a day",
+        "you were on call",
+        "there was no public transport near work",
+        "you worked outside normal business hours",
+        "your home was a place where you ran your own business and you travelled directly to a place of employment where you worked for somebody else."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Expenses relating to foreign employment income"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received assessable income from your work as an employee outside Australia that is shown on a PAYG payment summary - foreign employment , you must claim any work-related car expenses you incurred in earning that income at this section."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Do not show at this section"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Any expenses relating to motorcycles and vehicles with a carrying capacity of one tonne or more, or nine or more passengers, such as a utility truck and panel van. Show these at Travel expenses in the Deductions section. Visit Work-related travel expenses to learn more.",
+        "Deductions against any assessable foreign employment income not shown on a PAYG payment summary - foreign employment . Show these at Foreign employment in the Foreign income, assets and entities section .",
+        "For any balancing adjustment, show: losses at Other work-related expenses in the Deductions section profits at the Other income section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you used the Depreciation and capital allowance tool, any balancing adjustment amount will be automatically shown."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Methods"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use either the cents per kilometre method or the logbook method to claim your work-related car expenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both methods require you to know or estimate your business kilometres. Business kilometres are the kilometres you travelled in the car in the course of earning assessable income (includes work-related activities)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your claim for work-related car expenses is 5,000 business kilometres or less, you can choose either of the methods to work out your work-related car expenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "To claim work-related car expenses over 5,000 business kilometres, you must use the logbook method because under the cents per kilometre method, you can only claim up to 5,000 business kilometres."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cents per kilometre"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Your claim is based on a set rate for each business kilometre.",
+        "The rate is 68 cents per business kilometre.",
+        "You can claim a maximum of 5,000 business kilometres per car, per year.",
+        "You do not need written evidence, but you need to be able to show how you worked out your business kilometres."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Logbook"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Your claim is based on the business use percentage of the expenses for the car.",
+        "Your business use percentage is the percentage of kilometres you travelled in the car for work during the year divided by the total kilometres travelled by the car during the year. To work out your business use percentage, you need a logbook and the odometer readings for the logbook period .",
+        "Expenses include running costs and decline in value but not capital costs, such as the purchase price of your car, the principal on any money borrowed to buy it and any improvement costs. If you need to work out the decline in value of your car, see Depreciation and capital expenses . You can claim fuel and oil costs based on either your actual receipts or you can estimate the expenses based on odometer records that show readings from the start and the end of the period you had the car during the year.",
+        "You need written evidence for all other expenses for the car."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Record keeping under logbook method ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Depreciation and capital expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "A deduction may be available for a car's depreciation (or decline in value). If there is no connection between the car expenses and the earning of assessable income, no deduction will be allowed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Depreciation deductions need to meet the following conditions:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you must apportion your deduction to reflect the: period you owned the car, and percentage that the asset was used for work purposes.",
+        "you must have directly incurred the cost of the asset and it was not reimbursed."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the car starts to decline in value from the day you first use it, even if you don't begin using it for work until a later time",
+        "you can claim a deduction only for the period in the year in which you used the car for work."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Guide to depreciating assets ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you leased a luxury car, see Leased luxury cars ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use the Depreciation and capital allowances tool to work out any decline in value deduction as well as any deductible balancing adjustment when you stop holding a depreciating asset."
+    },
+    {
+      "type": "paragraph",
+      "text": "The tool can be accessed when you add your work-related car expenses and Calculation method is 'Logbook'."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following video shows you how to use the Depreciation and capital allowances tool."
+    },
+    {
+      "type": "paragraph",
+      "text": "Media: How to use the Depreciation and capital allowance tool http://tv.ato.gov.au/ato-tv/media?v=bd1bdiuboi7hki External Link ( Duration: 3:56)"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can watch How to use the Depreciation and capital allowance tool External Link in full screen on atoTV."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "written evidence for your car expenses (receipts, invoices or diary entries)",
+        "your car logbook and odometer records."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your tax return with work-related car expense information you uploaded from myDeductions. Check for work-related car expenses not pre-filled and ensure you add them."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each work-related car that has not been pre-filled, select Add .",
+        "Enter the description of the car (for example, make/model).",
+        "Select the Calculation method you wish to use. If you qualify to use both methods, you can use whichever method gives you the largest deduction or is most convenient. You can enter each in myTax to work this out. If you do, remember to delete the one you don't want to use.",
+        "If you select the 'Cents per kilometre' method, enter the number of business kilometres you travelled. Go to Step 6.",
+        "If you select the 'Logbook' method enter the information into the corresponding fields. MyTax will calculate the total expenses. If you have calculated the decline in value of your car, enter the amount without any reduction for personal use. MyTax will multiply the decline in value you enter by the percentage of business use. If you used the Depreciation and capital allowances tool to work out the decline in value, the calculated amount will automatically exclude the personal use percentage. To display results from the tool you must select the logbook method.",
+        "Select Save .",
+        "Select Save and continue when you have completed the Deductions section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: If you used the Depreciation and capital allowances tool, fields containing information from the tool cannot be directly adjusted in myTax. To make any adjustments to this information, or to add new assets to the tool, select the 'Use the Depreciation and capital allowances tool' link."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Record keeping"
+    },
+    {
+      "type": "paragraph",
+      "text": "Where required, keep written evidence of your car expenses. If you are using the logbook method, see Record keeping under logbook method to find out how to keep records."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep this evidence for five years from the due date for lodging your tax return. If you lodge your tax return after the due date, the five years start from the date you actually lodge it. If at the end of this period you are in a dispute with us that relates to this work expense, you must keep your records until the dispute is resolved."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is more information on record keeping and written evidence in Keeping your tax records ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Managing your deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Are you always on the go? Save time and keep your tax organised with the ATO app's myDeductions tool."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Further information"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Record keeping under logbook method"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under this method, you need to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "keep an electronic or pre-printed logbook (available from stationery suppliers)",
+        "have evidence of your fuel and oil costs, or odometer readings on which your estimates are based",
+        "have evidence for all your other car expenses."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're a sole trader with simple tax affairs, you can create a logbook and record business-related car trips using the myDeductions tool in the ATO app."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Logbook period"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your logbook is valid for five years. If this is the first year you are using this method, you must have kept a logbook during 2018–19. It must cover at least 12 continuous weeks – this period is called the logbook period. If you started using your car for work-related purposes less than 12 weeks before the end of the year, you can extend the 12-week period into 2019–20. (If you are using the logbook method for two or more cars, the logbook for each car must cover the same period.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you established your business use percentage using a logbook from an earlier year, you need to keep that logbook and maintain odometer records. You also need to keep a logbook if we told you in writing to keep one."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "What to record in your logbook"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your logbook must show:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "when the logbook period starts and ends, and the odometer readings at these times",
+        "the total number of kilometres the car travelled during the logbook period",
+        "the number of kilometres travelled for work during the logbook period based on the journeys recorded for the period",
+        "the business use percentage for the period."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Entries in the logbook for each business trip made in the logbook period must be made at the end of the journey (or as soon as possible afterwards) and show the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "date the journey began and ended",
+        "odometer readings at the start and end of the journey",
+        "kilometres travelled on the journey",
+        "reason for the journey (this should be sufficiently descriptive to characterise it as a business journey)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your records must also show the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "make, model, engine capacity and registration number of the car",
+        "odometer readings at the start and end of each subsequent income year your logbook is valid for."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the pattern of your car use changed during the year, make a reasonable estimate of your business use percentage for the whole of 2018–19, taking into account your logbook, odometer and other records, any variations in the pattern of use of your car and any changes in the number of cars you used in the course of earning your income."
+    },
+    {
+      "type": "paragraph",
+      "text": "MyTax will calculate your deduction from the information you provide."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Leased luxury cars"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you leased a luxury car and wish to claim a deduction at this section, the following information about luxury cars will help you."
+    },
+    {
+      "type": "paragraph",
+      "text": "A leased luxury car is a leased car that at the time the lease began had a market value of more than the 'car limit' that applied in the relevant income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim a deduction for the decline in value of a leased luxury car (but not for other leased cars). The car can be new or second-hand. You must use the logbook method."
+    },
+    {
+      "type": "paragraph",
+      "text": "When claiming a deduction for decline in value, the initial value that you use for the car is the limit that applied in the income year in which the lease began."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Year",
+          "Limit"
+        ],
+        [
+          "2018–19",
+          "$57,581"
+        ],
+        [
+          "2017–18",
+          "$57,581"
+        ],
+        [
+          "2016–17",
+          "$57,581"
+        ],
+        [
+          "2015–16",
+          "$57,466"
+        ],
+        [
+          "2014–15",
+          "$57,466"
+        ],
+        [
+          "2013–14",
+          "$57,466"
+        ],
+        [
+          "2012–13",
+          "$57,466"
+        ],
+        [
+          "2011–12",
+          "$57,466"
+        ],
+        [
+          "2010–11",
+          "$57,466"
+        ],
+        [
+          "2009–10",
+          "$57,180"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Owned or leased by others"
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim at this section any expenses relating to a car owned or leased by someone else, including your employer or another member of your family. However, we consider you to be the owner or lessee of a car and eligible to claim expenses where a family or private arrangement made you the owner or lessee even though you were not the registered owner. For example, you can claim for a car that was given to you by another member of your family and which, although it was not registered in your name, you used as your own and for which you paid all expenses."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If your car was sold, disposed of, stolen or destroyed"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have been claiming deductions for your car and, during the income year, you sold or disposed of it, or it was stolen or destroyed, you might need to make a balancing adjustment. You do not need to make a balancing adjustment if you used only the 'cents per kilometre' method for calculating expenses for your car. You will need to make a balancing adjustment if you have used the '12% of original value' method to claim your car expenses for one or more earlier income years."
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out the balancing adjustment, you can use the Depreciation and capital expenses or see Guide to depreciating assets ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any balancing adjustment amount will need to be shown as follows:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "if you had a loss after making the adjustment, at Other work-related expenses",
+        "if you had a profit after making your adjustment, at Other income ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you used the Depreciation and capital allowances tool , any balancing adjustment amount will automatically be shown at these sections."
+    },
+    {
+      "type": "paragraph",
+      "text": "You also make a balancing adjustment if you switched between methods to claim your car expenses. To work out the amount of the balancing adjustment in this situation, contact us or your recognised tax adviser."
+    }
+  ],
+  "content_text": "Work-related car expenses are expenses you incurred as an employee for a car you:\n- owned\n- leased, or\n- hired under a hire-purchase agreement.\n## Essentials\nRemember, to claim a work-related deduction:\n- you must have spent the money yourself and weren't reimbursed\n- it must be directly related to earning your income\n- you must have a record to prove it.\nIf your total claim for work-related expenses is more than $300, you must have written evidence to prove your claims.\n### You can claim\nYou can claim the cost of trips you undertake in the course of performing your work duties, which may also include trips between your home and your workplace if:\n- you used your car because you had to carry bulky tools or equipment that you used for work and could not leave at your workplace (for example, an extension ladder or cello)\n- your home was a base of employment (that is, you were required to start your work at home and travel to a workplace to continue your work for the same employer)\n- you had shifting places of employment (that is, you regularly worked at more than one site each day before returning home).\nWork-related car expenses also include the cost of trips:\n- between two separate places of employment when you have a second job, providing one of those places is not your home\n- from your normal workplace or your home to an alternative workplace that is not a regular workplace (for example, a client’s premises) while you are on duty\n- from an alternative workplace that is not a regular workplace back to your normal workplace or directly home.\nIf the travel was partly private, you can claim only the work-related part.\nIf you received an award transport payment, see Claiming a deduction for car expenses - award transport payments .\nIf you have been claiming deductions for your car and, during the income year, you sold or disposed of it, or it was stolen or destroyed, you might need to make a balancing adjustment. Visit If your car was sold, disposed of, stolen or destroyed to learn more.\nFor claiming expenses for a car owned or leased by someone else, visit Owned or leased by others .\nSee also\n- Deductions you can claim\n- Taxation Ruling TR 95/34 Income tax: employees carrying out itinerant work - deductions, allowances and reimbursements for transport expenses\n- Travel between home and work and between workplaces\n- Law Administration Practice Statement PS LA 1999/2 Calculating joint car expense deductions .\n### You cannot claim\nYou cannot claim normal trips between your home and your workplace, even if:\n- you did minor work-related tasks at home or between home and your workplace\n- you travelled between your home and workplace more than once a day\n- you were on call\n- there was no public transport near work\n- you worked outside normal business hours\n- your home was a place where you ran your own business and you travelled directly to a place of employment where you worked for somebody else.\n### Expenses relating to foreign employment income\nIf you received assessable income from your work as an employee outside Australia that is shown on a PAYG payment summary - foreign employment , you must claim any work-related car expenses you incurred in earning that income at this section.\n## Do not show at this section\n- Any expenses relating to motorcycles and vehicles with a carrying capacity of one tonne or more, or nine or more passengers, such as a utility truck and panel van. Show these at Travel expenses in the Deductions section. Visit Work-related travel expenses to learn more.\n- Deductions against any assessable foreign employment income not shown on a PAYG payment summary - foreign employment . Show these at Foreign employment in the Foreign income, assets and entities section .\n- For any balancing adjustment, show: losses at Other work-related expenses in the Deductions section profits at the Other income section.\nIf you used the Depreciation and capital allowance tool, any balancing adjustment amount will be automatically shown.\n## Methods\nYou can use either the cents per kilometre method or the logbook method to claim your work-related car expenses.\nBoth methods require you to know or estimate your business kilometres. Business kilometres are the kilometres you travelled in the car in the course of earning assessable income (includes work-related activities).\nIf your claim for work-related car expenses is 5,000 business kilometres or less, you can choose either of the methods to work out your work-related car expenses.\nTo claim work-related car expenses over 5,000 business kilometres, you must use the logbook method because under the cents per kilometre method, you can only claim up to 5,000 business kilometres.\n### Cents per kilometre\n- Your claim is based on a set rate for each business kilometre.\n- The rate is 68 cents per business kilometre.\n- You can claim a maximum of 5,000 business kilometres per car, per year.\n- You do not need written evidence, but you need to be able to show how you worked out your business kilometres.\n### Logbook\n- Your claim is based on the business use percentage of the expenses for the car.\n- Your business use percentage is the percentage of kilometres you travelled in the car for work during the year divided by the total kilometres travelled by the car during the year. To work out your business use percentage, you need a logbook and the odometer readings for the logbook period .\n- Expenses include running costs and decline in value but not capital costs, such as the purchase price of your car, the principal on any money borrowed to buy it and any improvement costs. If you need to work out the decline in value of your car, see Depreciation and capital expenses . You can claim fuel and oil costs based on either your actual receipts or you can estimate the expenses based on odometer records that show readings from the start and the end of the period you had the car during the year.\n- You need written evidence for all other expenses for the car.\nFor more information, see Record keeping under logbook method .\n#### Depreciation and capital expenses\nA deduction may be available for a car's depreciation (or decline in value). If there is no connection between the car expenses and the earning of assessable income, no deduction will be allowed.\nDepreciation deductions need to meet the following conditions:\n- you must apportion your deduction to reflect the: period you owned the car, and percentage that the asset was used for work purposes.\n- you must have directly incurred the cost of the asset and it was not reimbursed.\nRemember:\n- the car starts to decline in value from the day you first use it, even if you don't begin using it for work until a later time\n- you can claim a deduction only for the period in the year in which you used the car for work.\nFor more information, see Guide to depreciating assets .\nIf you leased a luxury car, see Leased luxury cars .\nYou can use the Depreciation and capital allowances tool to work out any decline in value deduction as well as any deductible balancing adjustment when you stop holding a depreciating asset.\nThe tool can be accessed when you add your work-related car expenses and Calculation method is 'Logbook'.\nThe following video shows you how to use the Depreciation and capital allowances tool.\nMedia: How to use the Depreciation and capital allowance tool http://tv.ato.gov.au/ato-tv/media?v=bd1bdiuboi7hki External Link ( Duration: 3:56)\nYou can watch How to use the Depreciation and capital allowance tool External Link in full screen on atoTV.\n## Completing this section\nYou may need:\n- written evidence for your car expenses (receipts, invoices or diary entries)\n- your car logbook and odometer records.\nWe pre-fill your tax return with work-related car expense information you uploaded from myDeductions. Check for work-related car expenses not pre-filled and ensure you add them.\n- For each work-related car that has not been pre-filled, select Add .\n- Enter the description of the car (for example, make/model).\n- Select the Calculation method you wish to use. If you qualify to use both methods, you can use whichever method gives you the largest deduction or is most convenient. You can enter each in myTax to work this out. If you do, remember to delete the one you don't want to use.\n- If you select the 'Cents per kilometre' method, enter the number of business kilometres you travelled. Go to Step 6.\n- If you select the 'Logbook' method enter the information into the corresponding fields. MyTax will calculate the total expenses. If you have calculated the decline in value of your car, enter the amount without any reduction for personal use. MyTax will multiply the decline in value you enter by the percentage of business use. If you used the Depreciation and capital allowances tool to work out the decline in value, the calculated amount will automatically exclude the personal use percentage. To display results from the tool you must select the logbook method.\n- Select Save .\n- Select Save and continue when you have completed the Deductions section.\nNote: If you used the Depreciation and capital allowances tool, fields containing information from the tool cannot be directly adjusted in myTax. To make any adjustments to this information, or to add new assets to the tool, select the 'Use the Depreciation and capital allowances tool' link.\n### Record keeping\nWhere required, keep written evidence of your car expenses. If you are using the logbook method, see Record keeping under logbook method to find out how to keep records.\nKeep this evidence for five years from the due date for lodging your tax return. If you lodge your tax return after the due date, the five years start from the date you actually lodge it. If at the end of this period you are in a dispute with us that relates to this work expense, you must keep your records until the dispute is resolved.\nThere is more information on record keeping and written evidence in Keeping your tax records .\n#### Managing your deductions\nAre you always on the go? Save time and keep your tax organised with the ATO app's myDeductions tool.\n## Further information\n### Record keeping under logbook method\nUnder this method, you need to:\n- keep an electronic or pre-printed logbook (available from stationery suppliers)\n- have evidence of your fuel and oil costs, or odometer readings on which your estimates are based\n- have evidence for all your other car expenses.\nIf you're a sole trader with simple tax affairs, you can create a logbook and record business-related car trips using the myDeductions tool in the ATO app.\n#### Logbook period\nYour logbook is valid for five years. If this is the first year you are using this method, you must have kept a logbook during 2018–19. It must cover at least 12 continuous weeks – this period is called the logbook period. If you started using your car for work-related purposes less than 12 weeks before the end of the year, you can extend the 12-week period into 2019–20. (If you are using the logbook method for two or more cars, the logbook for each car must cover the same period.)\nIf you established your business use percentage using a logbook from an earlier year, you need to keep that logbook and maintain odometer records. You also need to keep a logbook if we told you in writing to keep one.\n#### What to record in your logbook\nYour logbook must show:\n- when the logbook period starts and ends, and the odometer readings at these times\n- the total number of kilometres the car travelled during the logbook period\n- the number of kilometres travelled for work during the logbook period based on the journeys recorded for the period\n- the business use percentage for the period.\nEntries in the logbook for each business trip made in the logbook period must be made at the end of the journey (or as soon as possible afterwards) and show the:\n- date the journey began and ended\n- odometer readings at the start and end of the journey\n- kilometres travelled on the journey\n- reason for the journey (this should be sufficiently descriptive to characterise it as a business journey).\nYour records must also show the:\n- make, model, engine capacity and registration number of the car\n- odometer readings at the start and end of each subsequent income year your logbook is valid for.\nIf the pattern of your car use changed during the year, make a reasonable estimate of your business use percentage for the whole of 2018–19, taking into account your logbook, odometer and other records, any variations in the pattern of use of your car and any changes in the number of cars you used in the course of earning your income.\nMyTax will calculate your deduction from the information you provide.\n#### Leased luxury cars\nIf you leased a luxury car and wish to claim a deduction at this section, the following information about luxury cars will help you.\nA leased luxury car is a leased car that at the time the lease began had a market value of more than the 'car limit' that applied in the relevant income year.\nYou can claim a deduction for the decline in value of a leased luxury car (but not for other leased cars). The car can be new or second-hand. You must use the logbook method.\nWhen claiming a deduction for decline in value, the initial value that you use for the car is the limit that applied in the income year in which the lease began.\nYear | Limit\n2018–19 | $57,581\n2017–18 | $57,581\n2016–17 | $57,581\n2015–16 | $57,466\n2014–15 | $57,466\n2013–14 | $57,466\n2012–13 | $57,466\n2011–12 | $57,466\n2010–11 | $57,466\n2009–10 | $57,180\n### Owned or leased by others\nYou cannot claim at this section any expenses relating to a car owned or leased by someone else, including your employer or another member of your family. However, we consider you to be the owner or lessee of a car and eligible to claim expenses where a family or private arrangement made you the owner or lessee even though you were not the registered owner. For example, you can claim for a car that was given to you by another member of your family and which, although it was not registered in your name, you used as your own and for which you paid all expenses.\n### If your car was sold, disposed of, stolen or destroyed\nIf you have been claiming deductions for your car and, during the income year, you sold or disposed of it, or it was stolen or destroyed, you might need to make a balancing adjustment. You do not need to make a balancing adjustment if you used only the 'cents per kilometre' method for calculating expenses for your car. You will need to make a balancing adjustment if you have used the '12% of original value' method to claim your car expenses for one or more earlier income years.\nTo work out the balancing adjustment, you can use the Depreciation and capital expenses or see Guide to depreciating assets .\nAny balancing adjustment amount will need to be shown as follows:\n- if you had a loss after making the adjustment, at Other work-related expenses\n- if you had a profit after making your adjustment, at Other income .\nIf you used the Depreciation and capital allowances tool , any balancing adjustment amount will automatically be shown at these sections.\nYou also make a balancing adjustment if you switched between methods to claim your car expenses. To work out the amount of the balancing adjustment in this situation, contact us or your recognised tax adviser.",
+  "child_links": [],
+  "word_count": 2691,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

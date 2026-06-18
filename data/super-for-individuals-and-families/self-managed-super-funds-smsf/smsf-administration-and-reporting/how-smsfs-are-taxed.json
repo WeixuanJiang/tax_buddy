@@ -1,0 +1,335 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-administration-and-reporting/how-smsfs-are-taxed",
+  "title": "How SMSFs are taxed",
+  "description": "How self-managed super funds (SMSFs) are taxed, what is assessable income, and what are allowable deductions.",
+  "nat_number": "73604",
+  "quick_code": "23341",
+  "date_updated": "2025-04-01T13:00:00Z",
+  "first_published": "",
+  "keywords": "SMSF deductions, SMSF assessable contributions, SMSF income tax rate, complying, no-TFN tax offset, SMSF capital gains tax, SMSF non-arm's length income, smsf tax rate, smsf tax",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tax on income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-managed super funds (SMSFs) must pay tax on their assessable income. The most common types of assessable income are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "assessable contributions",
+        "net capital gains",
+        "interest",
+        "dividends",
+        "rent."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A complying superannuation fund that follows the laws and rules for SMSFs qualifies for a concessional tax rate of 15%."
+    },
+    {
+      "type": "paragraph",
+      "text": "Non-complying funds and non-arm's length income (NALI) are taxed at the highest marginal tax rate of 45%."
+    },
+    {
+      "type": "paragraph",
+      "text": "SMSFs can receive a tax exemption on investment income received from assets that support a retirement phase income stream. This income is exempt current pension income (ECPI)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Determining if a contribution is assessable"
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether a contribution is assessable will depend on whether the contribution is concessional (has not yet been taxed) or non-concessional (already been taxed)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Concessional contributions made into your SMSF are included in its assessable income. These contributions are taxed in your SMSF at a concessional rate of 15%. The most common types of concessional contributions are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "employer contributions (including contributions made under a salary sacrifice arrangement)",
+        "personal contributions that the member has notified you they intend to claim as a tax deduction."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, non-concessional contributions made into your SMSF are not included in the fund's assessable income."
+    },
+    {
+      "type": "paragraph",
+      "text": "The most common types of non-concessional contributions are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "personal contributions made by the member for which no income tax deduction is claimed",
+        "contributions made for a spouse",
+        "contributions made for a child under 18 years old."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Excess concessional contributions for the financial year which the member does not elect to remove from the super fund after we send them an excess contributions determination, will also count towards your member’s non-concessional contributions cap."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a member’s non-concessional contributions exceed the cap, the member is personally liable for this tax and the fund must release an amount of money equal to the tax."
+    },
+    {
+      "type": "paragraph",
+      "text": "Non-concessional contributions do not include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "super co-contributions",
+        "structured settlements",
+        "orders for personal injury or capital gains tax (CGT) related payments that the member has validly elected to exclude from their non-concessional contributions",
+        "re-contributing COVID-19 early release super withdrawals made between 1 July 2021 and 30 June 2030. Individuals can re-contribute amounts they withdrew under the COVID-19 early release of super program without them counting towards their non-concessional contributions cap."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Transfers from foreign super funds"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your fund receives a super lump sum directly from a foreign super fund , your member may choose to have some or all of the assessable part of the lump sum treated as assessable income of your fund. To make a choice, the member must meet all of the conditions:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "They have been an Australian resident for tax purposes for more than 6 months or have terminated their foreign employment more than 6 months ago.",
+        "They have transferred the whole of the foreign fund interest directly to a complying Australian super fund.",
+        "They no longer have a super interest in the foreign fund."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "By making the choice, your fund pays tax – on the assessable part of the lump sum – at the concessional fund tax rate of 15%, rather than the member paying tax at their marginal rate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your member can make this choice:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "up until the day they lodge their income tax return for the year of transfer, or",
+        "the day they would have been required to lodge one if they don't need to lodge a tax return."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the case unless the governing rules of your fund provide an earlier time."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your member makes this choice, they must complete Completing your choice to have your Australian fund pay tax on a foreign super transfer (NAT 11724) and submit the approved form to you. Once the choice is made, it cannot be revoked or varied."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Capital gains"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your fund’s assessable income includes any net capital gains unless the asset is a segregated current pension asset."
+    },
+    {
+      "type": "paragraph",
+      "text": "Complying SMSFs are entitled to a capital gains tax (CGT) discount of one-third if the relevant asset had been owned for at least 12 months."
+    },
+    {
+      "type": "paragraph",
+      "text": "The SMSF will pay tax on net capital gains, which is calculated as:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your total capital gains for the year",
+        "minus any capital losses for that year and any unapplied capital losses from earlier years",
+        "minus the CGT discount of 33.33% and any other concessions (if eligible)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A capital loss (for example, losses on the sale of commercial premises) is not an allowable deduction and is only able to be offset against capital gains. If capital losses are greater than capital gains in a financial year, they must be carried forward to be offset against future capital gains."
+    },
+    {
+      "type": "paragraph",
+      "text": "For general examples see Calculating your CGT ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Non-arm's length income (NALI)"
+    },
+    {
+      "type": "paragraph",
+      "text": "SMSFs must transact on an arm's-length basis. This means the purchase and sale price of the fund's assets should always reflect the true market value of the asset. The income from these assets should also reflect a market rate of return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where income is deemed to be NALI it is taxed at the highest marginal tax rate of 45%."
+    },
+    {
+      "type": "paragraph",
+      "text": "The fund has NALI if it has:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an amount of ordinary or statutory income derived from a scheme where parties weren't dealing with each other at arm's length, and the amount of income earned by the SMSF from the scheme is more than would be expected if the parties had been dealing at arm's length, or",
+        "a dividend paid to an SMSF by a private company that is not consistent with an arms-length dealing",
+        "income derived by an SMSF as a beneficiary of a trust (other than through holding a fixed entitlement to the income and the amount is consistent with an arm's length dealing)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "From 1 July 2018, a fund also has NALI if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an amount of income is derived from a scheme where the parties weren't dealing with each other at arm's length, and",
+        "the fund incurs expenses when deriving the income and the amount of the expenses are less than would have been expected if the parties were dealing at arm's-length (this includes where there are no expenses)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "These expenses are classified as either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "specific expenses, which are related to earning income from a particular asset of the fund (for example, maintenance expenses for a rental property)",
+        "general expenses, which are related to all expenses incurred other than in gaining or producing income from a particular asset (for example, accountant fees)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When an SMSF incurs a:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "specific expense, all income in relation to the particular asset or assets will be NALI",
+        "general expense, the NALI will be calculated as twice the difference between the amount of the actual expense and the expected market value of the expense."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Any NALI forms part of the non-arm's length component (NALC) of the SMSF's taxable income, which is taxed at the highest marginal tax rate."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, the SMSF’s total NALC cannot exceed the SMSF’s assessable income minus deductions, excluding assessable contributions and deductions against them."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on NALI, see:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Law Companion Ruling LCR 2021/2 Non-arm's length in c ome – expenditure incurred under a non-arm’s length arrangement",
+        "Practical Compliance Guideline PCG 2020/5 Applying the non-arm's length income provisions to 'non arm's length expenditure'."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "A complying SMSF is allowed to deduct from its assessable income any losses or costs that are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "incurred in gaining or producing assessable income",
+        "necessarily incurred in running a business for the purpose of gaining or producing such income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Losses and costs relating to exempt current pension income are generally not deductible because they are incurred in earning exempt income. If the fund has both accumulation and pension members, the expense may need to be apportioned to determine the amount that the fund can deduct."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the fund is 100% in retirement phase, generally expenses shouldn't be deducted as they will be incurred in gaining ECPI."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expenses aren't allowable deductions when they are incurred in gaining or producing:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "exempt income",
+        "non-assessable, non-exempt income",
+        "expenses of a capital, private or domestic nature."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When a member hasn't quoted their TFN"
+    },
+    {
+      "type": "paragraph",
+      "text": "SMSFs pay additional tax on mandated employer contributions if the member hasn't quoted their tax file number (TFN). This is even if they are complying. The additional tax rate is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "32% for complying SMSFs",
+        "2% for non-complying SMSFs."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A complying SMSF may be able to claim back the additional tax paid as a no-TFN tax offset in its SMSF annual return if its member has since provided their TFN."
+    },
+    {
+      "type": "paragraph",
+      "text": "You only have 3 years to claim the offset from the end of the financial year in which the additionally taxed contribution was made."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have debited the amount of additional tax from your member’s account and you claim the tax offset in a later year, you need to credit this money to their account."
+    }
+  ],
+  "content_text": "## Tax on income\nSelf-managed super funds (SMSFs) must pay tax on their assessable income. The most common types of assessable income are:\n- assessable contributions\n- net capital gains\n- interest\n- dividends\n- rent.\nA complying superannuation fund that follows the laws and rules for SMSFs qualifies for a concessional tax rate of 15%.\nNon-complying funds and non-arm's length income (NALI) are taxed at the highest marginal tax rate of 45%.\nSMSFs can receive a tax exemption on investment income received from assets that support a retirement phase income stream. This income is exempt current pension income (ECPI).\n### Determining if a contribution is assessable\nWhether a contribution is assessable will depend on whether the contribution is concessional (has not yet been taxed) or non-concessional (already been taxed).\nConcessional contributions made into your SMSF are included in its assessable income. These contributions are taxed in your SMSF at a concessional rate of 15%. The most common types of concessional contributions are:\n- employer contributions (including contributions made under a salary sacrifice arrangement)\n- personal contributions that the member has notified you they intend to claim as a tax deduction.\nGenerally, non-concessional contributions made into your SMSF are not included in the fund's assessable income.\nThe most common types of non-concessional contributions are:\n- personal contributions made by the member for which no income tax deduction is claimed\n- contributions made for a spouse\n- contributions made for a child under 18 years old.\nExcess concessional contributions for the financial year which the member does not elect to remove from the super fund after we send them an excess contributions determination, will also count towards your member’s non-concessional contributions cap.\nIf a member’s non-concessional contributions exceed the cap, the member is personally liable for this tax and the fund must release an amount of money equal to the tax.\nNon-concessional contributions do not include:\n- super co-contributions\n- structured settlements\n- orders for personal injury or capital gains tax (CGT) related payments that the member has validly elected to exclude from their non-concessional contributions\n- re-contributing COVID-19 early release super withdrawals made between 1 July 2021 and 30 June 2030. Individuals can re-contribute amounts they withdrew under the COVID-19 early release of super program without them counting towards their non-concessional contributions cap.\n#### Transfers from foreign super funds\nIf your fund receives a super lump sum directly from a foreign super fund , your member may choose to have some or all of the assessable part of the lump sum treated as assessable income of your fund. To make a choice, the member must meet all of the conditions:\n- They have been an Australian resident for tax purposes for more than 6 months or have terminated their foreign employment more than 6 months ago.\n- They have transferred the whole of the foreign fund interest directly to a complying Australian super fund.\n- They no longer have a super interest in the foreign fund.\nBy making the choice, your fund pays tax – on the assessable part of the lump sum – at the concessional fund tax rate of 15%, rather than the member paying tax at their marginal rate.\nYour member can make this choice:\n- up until the day they lodge their income tax return for the year of transfer, or\n- the day they would have been required to lodge one if they don't need to lodge a tax return.\nThis is the case unless the governing rules of your fund provide an earlier time.\nIf your member makes this choice, they must complete Completing your choice to have your Australian fund pay tax on a foreign super transfer (NAT 11724) and submit the approved form to you. Once the choice is made, it cannot be revoked or varied.\n### Capital gains\nYour fund’s assessable income includes any net capital gains unless the asset is a segregated current pension asset.\nComplying SMSFs are entitled to a capital gains tax (CGT) discount of one-third if the relevant asset had been owned for at least 12 months.\nThe SMSF will pay tax on net capital gains, which is calculated as:\n- your total capital gains for the year\n- minus any capital losses for that year and any unapplied capital losses from earlier years\n- minus the CGT discount of 33.33% and any other concessions (if eligible).\nA capital loss (for example, losses on the sale of commercial premises) is not an allowable deduction and is only able to be offset against capital gains. If capital losses are greater than capital gains in a financial year, they must be carried forward to be offset against future capital gains.\nFor general examples see Calculating your CGT .\n## Non-arm's length income (NALI)\nSMSFs must transact on an arm's-length basis. This means the purchase and sale price of the fund's assets should always reflect the true market value of the asset. The income from these assets should also reflect a market rate of return.\nWhere income is deemed to be NALI it is taxed at the highest marginal tax rate of 45%.\nThe fund has NALI if it has:\n- an amount of ordinary or statutory income derived from a scheme where parties weren't dealing with each other at arm's length, and the amount of income earned by the SMSF from the scheme is more than would be expected if the parties had been dealing at arm's length, or\n- a dividend paid to an SMSF by a private company that is not consistent with an arms-length dealing\n- income derived by an SMSF as a beneficiary of a trust (other than through holding a fixed entitlement to the income and the amount is consistent with an arm's length dealing).\nFrom 1 July 2018, a fund also has NALI if:\n- an amount of income is derived from a scheme where the parties weren't dealing with each other at arm's length, and\n- the fund incurs expenses when deriving the income and the amount of the expenses are less than would have been expected if the parties were dealing at arm's-length (this includes where there are no expenses).\nThese expenses are classified as either:\n- specific expenses, which are related to earning income from a particular asset of the fund (for example, maintenance expenses for a rental property)\n- general expenses, which are related to all expenses incurred other than in gaining or producing income from a particular asset (for example, accountant fees).\nWhen an SMSF incurs a:\n- specific expense, all income in relation to the particular asset or assets will be NALI\n- general expense, the NALI will be calculated as twice the difference between the amount of the actual expense and the expected market value of the expense.\nAny NALI forms part of the non-arm's length component (NALC) of the SMSF's taxable income, which is taxed at the highest marginal tax rate.\nHowever, the SMSF’s total NALC cannot exceed the SMSF’s assessable income minus deductions, excluding assessable contributions and deductions against them.\nFor more information on NALI, see:\n- Law Companion Ruling LCR 2021/2 Non-arm's length in c ome – expenditure incurred under a non-arm’s length arrangement\n- Practical Compliance Guideline PCG 2020/5 Applying the non-arm's length income provisions to 'non arm's length expenditure'.\n## Deductions\nA complying SMSF is allowed to deduct from its assessable income any losses or costs that are:\n- incurred in gaining or producing assessable income\n- necessarily incurred in running a business for the purpose of gaining or producing such income.\nLosses and costs relating to exempt current pension income are generally not deductible because they are incurred in earning exempt income. If the fund has both accumulation and pension members, the expense may need to be apportioned to determine the amount that the fund can deduct.\nIf the fund is 100% in retirement phase, generally expenses shouldn't be deducted as they will be incurred in gaining ECPI.\nExpenses aren't allowable deductions when they are incurred in gaining or producing:\n- exempt income\n- non-assessable, non-exempt income\n- expenses of a capital, private or domestic nature.\n## When a member hasn't quoted their TFN\nSMSFs pay additional tax on mandated employer contributions if the member hasn't quoted their tax file number (TFN). This is even if they are complying. The additional tax rate is:\n- 32% for complying SMSFs\n- 2% for non-complying SMSFs.\nA complying SMSF may be able to claim back the additional tax paid as a no-TFN tax offset in its SMSF annual return if its member has since provided their TFN.\nYou only have 3 years to claim the offset from the end of the financial year in which the additionally taxed contribution was made.\nIf you have debited the amount of additional tax from your member’s account and you claim the tax offset in a later year, you need to credit this money to their account.",
+  "child_links": [],
+  "word_count": 1491,
+  "source_title": "How SMSFs are taxed | Australian Taxation Office",
+  "source_description": "How self-managed super funds (SMSFs) are taxed, what is assessable income, and what are allowable deductions.",
+  "category": "super-for-individuals-and-families"
+}

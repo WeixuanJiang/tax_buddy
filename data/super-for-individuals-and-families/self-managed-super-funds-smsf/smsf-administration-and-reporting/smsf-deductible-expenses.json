@@ -1,0 +1,659 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-administration-and-reporting/smsf-deductible-expenses",
+  "title": "SMSF deductible expenses",
+  "description": "The deductible expenses incurred by a complying SMSF that trustees can claim.",
+  "nat_number": "",
+  "quick_code": "53481",
+  "date_updated": "2025-04-01T13:00:00Z",
+  "first_published": "",
+  "keywords": "deductibility of a fund expense, apportionment, SMSF deductible expenses, SMSF deductions, SMSF expenses, SMSF supervisory levy deduction, SMSF audit fees deduction, ASIC fee deduction, SMSF annual ASIC fee deduction",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "About deductible SMSF expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before paying a particular expense from the fund, ensure the payment is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "in accordance with a properly formulated investment strategy",
+        "allowed under your trust deed and superannuation laws."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The tax deductibility of most expenses incurred by a self-managed super fund (SMSF) is determined under the general deduction provision in section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997). These rules allow an SMSF to claim a tax deduction for expenses that are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "either incurred to earn the fund's assessable income or necessarily incurred in running a business for the purpose of gaining or producing assessable income, and",
+        "not related to personal or capital matters."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The general deductibility rules do not apply where a specific deduction provision applies."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't claim more than one deduction for the same cost. If 2 or more tax provisions allow you deductions for the same cost, you can deduct only under the most appropriate provision."
+    },
+    {
+      "type": "paragraph",
+      "text": "If an expense is deductible under the general deduction provisions, and the fund has both accumulation and pension phase members, the expense may need to be apportioned . This will determine the amount the fund can deduct. If an expense is deductible under one of the specific deduction provisions, then the wording of that provision will indicate whether the expense must be apportioned and on what basis."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Specific deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are some specific deductions that can be claimed in full or in part, while others will require apportionment. The following is a list of specific deduction provisions that apply to SMSFs:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Managing the tax affairs of the SMSF or complying with an obligation imposed on the SMSF that relates to its tax affairs, for example, the SMSF Supervisory Levy (section 25-5 of the ITAA 1997).",
+        "Death, total and permanent disability, terminal illness and income protection premiums to the extent specified in the relevant law (section 295-465 of the ITAA 1997)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When you can claim SMSF expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "As a general rule, the trustee can claim the fund's expenses in the year the trustee incurs them. However, deductions for the decline in value of certain depreciating assets (such as plant and equipment) are claimed over the effective life of the asset and not when the trustee incurs the expenditure."
+    },
+    {
+      "type": "paragraph",
+      "text": "To claim, you should ensure:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "wherever possible, the expense is paid directly from the SMSF's bank account",
+        "invoices and receipts are in the name of the SMSF",
+        "you retain invoices and receipts as evidence of the fund's expenses",
+        "the deduction is only claimed once."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Operating expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Operating expenses incurred by an SMSF are mostly deductible under the general deduction provision. The following are examples of the types of operating expenses that are typically deductible under the general deduction provision:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "management and administration fees",
+        "audit fees",
+        "Australian Securities & Investments Commission (ASIC) annual fee."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Management and administration fees"
+    },
+    {
+      "type": "paragraph",
+      "text": "These are costs associated with the daily running of the fund. For example, they might include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "preparing trustee minutes",
+        "stationery",
+        "postage fees."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Expenses that are incurred in making changes to the internal organisation or day-to-day running of the fund are not considered to be capital in nature provided such changes do not result in an advantage of a lasting character."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a super fund is running a business, it may be entitled to deduct certain capital expenses under the specific deduction provision, section 40-880 of the ITAA 1997."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "SMSF auditor fee"
+    },
+    {
+      "type": "paragraph",
+      "text": "An SMSF is required by super laws to appoint an approved SMSF auditor each income year to audit the fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any auditing costs that relate to meeting obligations under super laws are deductible. The costs must be apportioned if the SMSF gains or produces both assessable and non-assessable income."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "ASIC annual fee"
+    },
+    {
+      "type": "paragraph",
+      "text": "For SMSFs operating with a corporate trustee structure, ASIC charges an initial registration fee and annual fee. The annual fee is deductible by the fund."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Supervisory levy"
+    },
+    {
+      "type": "paragraph",
+      "text": "An SMSF is liable to pay a supervisory levy under the Superannuation (Self- Managed Superannuation Funds) Supervisory Levy Imposition Act 1991 . The levy is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a flat amount",
+        "deductible under section 25-5 of the ITAA 1997."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tax-related expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "A specific deduction is allowable under section 25-5 of the ITAA 1997 for expenses incurred in either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "managing a fund’s tax affairs",
+        "complying with a Commonwealth tax law obligation imposed on the trustee."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot deduct capital costs under this section. An expense is not a capital expense merely because the tax affair relates to a matter that is capital in nature. For example, you may be able to deduct the cost of applying for a private ruling on whether you can depreciate an item of property under this section."
+    },
+    {
+      "type": "paragraph",
+      "text": "The costs incurred in preparing and lodging the SMSF’s annual return, including the preparation of financial statements or actuarial costs incurred in meeting income tax obligations, are deductible. The return is an approved form covering both income tax and super law requirements. However, we don't require SMSFs to apportion between the 2 types of expenses. We allow it in full as a deduction for the expenses incurred in preparing and lodging the return."
+    },
+    {
+      "type": "paragraph",
+      "text": "A tax-related expense does not need to be apportioned for an SMSF deriving both non-assessable and assessable income. This is unless the cost relates to audit fees paid by the fund."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Legal expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some legal expenses are covered by specific deduction provisions. For example, legal expenses incurred in complying with income tax obligations are covered under section 25-5 of the ITAA 1997."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal expenses that are not covered by a specific provision are generally deductible under the general deduction provision. This is except when they are incurred in deriving non-assessable income or are capital, private or domestic in nature."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: borrowing expenses that are capital in nature"
+    },
+    {
+      "type": "paragraph",
+      "text": "Namrita's SMSF engages a legal firm to set up a trust to hold an asset. The fund intends to acquire the asset under a limited recourse borrowing arrangement (LRBA). This is required by super law."
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 25-25 of the ITAA 1997 is a specific deduction provision. It enables the deduction of expenses incurred for borrowing money used to produce assessable income. The fund claims the following borrowing expenses:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "loan establishment fees",
+        "obtaining relevant valuations",
+        "costs of documenting guarantees required by the lender",
+        "lender’s mortgage insurance",
+        "fees for property and title search fees, costs for preparing and filing mortgage documents, etc."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The fund can't claim the costs in establishing the trust for the LRBA as they are not borrowing expenses. They are incurred to establish the arrangement for borrowing, not for the borrowing itself. Therefore, the SMSF can't claim a deduction for legal expenses in setting up the trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, the fund can't claim the costs as a deduction under the general deduction provision. This is because they are capital in nature."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Trust deed amendments"
+    },
+    {
+      "type": "paragraph",
+      "text": "Trust deed amendments to facilitate the ongoing operations of the SMSF are generally deductible under the general deduction provision. If a fund amends a trust deed to keep it up to date with changes to super law, the expense will be deductible under the general deduction provision. This is unless the amendment results in lasting changes to the SMSF’s structure or function or creates a new asset."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: change of structure"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sue and Jim have a 2-member SMSF. The couple are also the individual trustees of the fund. Jim dies before either of them has retired. Sue decides to continue the SMSF with a corporate trustee as the sole director."
+    },
+    {
+      "type": "paragraph",
+      "text": "The fund incurs legal expenses of $1,000 to amend the trust deed so the corporate trustee can be appointed. Making changes to permit appointment of a corporate trustee relates to the structure of the SMSF. The expenses are capital in nature."
+    },
+    {
+      "type": "paragraph",
+      "text": "The fund can't deduct the legal expenses incurred in amending the trust deed. They are not deductible under section 8-1 of the ITAA 1997."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: updating aged information"
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustees of Wong's SMSF decide that the fund’s trust deed is out of date. It refers to super law provisions that have been repealed. It also gives contact addresses for the trustees that are no longer current."
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustees decide to engage a legal firm to update the deed. The firm charges $500. The changes to the trust deed are an ordinary incident of the day-to-day running of the fund and are not capital in nature. The $500 charged by the legal firm is deductible to the fund."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: changing functions"
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustees of Anna's SMSF decide to borrow money to purchase an apartment under an LRBA. This is part of a properly formulated investment strategy."
+    },
+    {
+      "type": "paragraph",
+      "text": "The trust deed of the SMSF, as it currently stands, does not permit the trustees to borrow money. The trustees engage a legal firm to amend the trust deed. This will permit them to borrow money under an LRBA."
+    },
+    {
+      "type": "paragraph",
+      "text": "The costs incurred in engaging the law firm to change the trust deed are not deductible. This is because the addition of borrowing powers is an enduring change to the function of the SMSF."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Investment expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "The exact nature of the investment-related expenses is critical in determining deductibility. Examples of deductible investment-related expenses include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "interest",
+        "ongoing management fees or retainers paid to investment advisers",
+        "costs of servicing and managing an investment portfolio, such as bank fees, rental property expenses, brokerage fees",
+        "the cost of advice to change the mix of investments, whether by the original or a new investment adviser, provided any changes do not lead to the creation of a new financial plan."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the investment-related advice covers other matters or relates in part to investments that do not produce assessable income, only a proportion of the fee is deductible."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: non-deductible investment-related expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustees of Jasminka's SMSF engage a financial adviser to create a long-term financial strategy. The strategy needs to have enough liquidity to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "pay super income stream benefits",
+        "pay lump sum payments",
+        "continue with investments that, in the long term, will provide super or death benefits for the members."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustees also pay a fee to an investment adviser to draw up an investment strategy for the fund. The fee is a capital outlay, even if some of the existing investments are maintained as part of the new plan, because the fee is for advice that relates to drawing up a new investment strategy."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: ongoing investment-related expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustees of a fund decide to seek the advice of an investment adviser. They want to know what listed securities they should invest in. This is specified in the fund’s investment strategy and permitted by the governing rules of the fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustees deduct the cost of the advice on listed securities to invest in. This is because the advice is part of the ongoing maintenance of the current investment strategy. It is not part of a new investment strategy or plan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Special rules apply to collectable and personal use SMSF investment assets, such as artwork. These rules were introduced on 1 July 2011 to cover aspects such as storage and insurance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Insurance costs for artwork and other collectables are deductible to the SMSF provided the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "items are insured in the name of the fund within 7 days of acquisition",
+        "fund is the owner and beneficiary of the policy."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't, for example, insure the item as part of a trustee's home and contents insurance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Storage costs for artwork and collectables can only be deductible to the fund if the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "items are stored in accordance with Regulation 13.18AA of the Superannuation Industry (Supervision) Regulations 1994 (SISR) obligations",
+        "trustees make and keep records documenting the reasons for deciding where to store the item."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Member insurance premiums"
+    },
+    {
+      "type": "paragraph",
+      "text": "Trustees of complying super funds can claim a deduction for insurance policy premiums to provide the following death or disability benefits to their members:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "super death benefits",
+        "terminal medical condition benefits",
+        "disability super benefits",
+        "benefits provided due to temporary inability to engage in gainful employment for a specified period."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount the fund can claim is set out in the relevant income tax laws. There is no apportionment required for expenses that relate to assessable or non-assessable income."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Non-deductible expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "An expense that is incurred in establishing or making lasting changes to a super fund’s structure or function is capital in nature and is not deductible under the general deduction provision. For example, the costs of establishing an SMSF are capital in nature. An expense incurred in acquiring a capital asset is also usually capital in nature."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trust deed amendment costs incurred in establishing a trust, executing a new deed for an existing fund and amending a deed to enlarge or significantly alter the scope of the trust’s activities are generally not deductible. This is because they are capital in nature."
+    },
+    {
+      "type": "paragraph",
+      "text": "An SMSF can't deduct a loss or outgoing to the extent that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "it is a loss or outgoing of capital, or of a capital nature",
+        "it is a loss or outgoing of a private or domestic nature",
+        "it is incurred in relation to gaining or producing income of the fund that is non-assessable income (such as exempt current pension income)",
+        "the income tax laws prevent the fund from deducting it."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Administrative penalties that can be levied on a trustee under super laws are not deductible to the fund. They are incurred by the trustee of the fund (or director of the corporate trustee). They must not be paid or reimbursed from the assets of the SMSF."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: non-deductible expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sascha and John are individual trustees in a 2-member SMSF. When Sascha dies, John decides to change the SMSF to a single-member fund with a corporate trustee. He does this once the death benefit has been paid from the fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to the usual fund expenses incurred in running the fund, John incurs the following additional expenses:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "legal expenses of $300 to amend the trust deed to change the fund to a single-member fund with corporate trustee",
+        "ASIC fees associated with setting up the corporate trustee."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The SMSF will not be able to claim deductions on either of these amounts. This is because the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "legal expenses of $300 are of a capital nature because they are incurred in making lasting changes to the structure of the fund",
+        "ASIC fees incurred in setting up the corporate trustee are also capital in nature."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Apportionment of expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expenses must be apportioned if the fund earns both assessable and non-assessable income."
+    },
+    {
+      "type": "paragraph",
+      "text": "An expense may be incurred partly in gaining or producing assessable income and partly in gaining or producing non-assessable income, such as exempt current pension income. Where the fund can identify a distinct and severable part devoted to gaining or producing assessable income, this is the part to claim as a deduction under the general deduction provision."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: apportioning expenses for assessable and non-assessable income"
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustee of Zhao's SMSF appoints a property managing company for 3 investment properties held by the fund. One is a holiday rental home and is managed by the company’s regional office. It is also a segregated current pension asset of the fund. This means the income derived from this property is exempt."
+    },
+    {
+      "type": "paragraph",
+      "text": "The company charges the fund $2,000 for its services. However, the invoice identifies $500 as costs incurred by the regional office for managing the holiday rental home."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of $500 can be distinctly identified as a cost incurred in gaining the fund’s exempt income. The remaining $1,500 can be distinctly identified as a cost incurred in gaining the fund’s assessable income. The fund may claim the $1,500 as a deduction. This is the amount of cost that relates to the assessable income."
+    },
+    {
+      "type": "paragraph",
+      "text": "Many expenses cannot be divided into distinct and severable parts. For example, this could be when paying an approved SMSF auditor to provide an annual report for the fund. This is an expense that does not relate to either the fund’s assessable or non-assessable income. In this case, the fund must estimate, in a fair and reasonable way, how much of that expense was incurred in producing the fund’s assessable income."
+    },
+    {
+      "type": "paragraph",
+      "text": "While it's not possible to prescribe a single method for apportioning costs of a super fund, Taxation Ruling TR 93/17 provides several examples. It also provides guidance on what the Commissioner of Taxation may accept as a method for producing a fair and reasonable outcome."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: segregated assets"
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustee of Jane's SMSF incurs audit expenses of $1,500. This is for providing the SMSF with a report in accordance with its regulatory obligations. The fund has unsegregated assets and therefore obtains an actuarial certificate each year. This determines the exempt current pension income of the fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "The percentage specified by the actuary in the relevant year is that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "70% of the value of fund assets is held to support current pension liabilities",
+        "the remaining 30% of the value of fund assets is held to provide for assessable income in the fund."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustee decides that this percentage is a fair and reasonable method for apportioning the audit expenses. The cost that can be claimed as incurred in gaining assessable income is $450 ($1,500 × 30%)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: assessable and non-assessable income"
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustee of Santo's SMSF incurs audit expenses of $1,500. This is for providing the SMSF with a report in accordance with its regulatory obligations. The SMSF earns:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$60,000 in assessable income",
+        "$100,000 in non-assessable income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustees of the fund decide that the following method is a fair and reasonable way to apportion these expenses:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "audit expense × (assessable income ÷ total income)",
+        "= $1,500 × ($60,000 ÷ $160,000)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This results in an amount of $562 for audit expenses claimed as a deduction by the fund."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: non-segregated assets"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sanchez SMSF has both pension and accumulation members. It does not segregate its assets."
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustees obtain an actuary’s certificate to determine the proportion of the fund’s income that is exempt current pension income. The actuary certifies that 40% of the fund’s income is exempt."
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustees engage an accounting firm to undertake the administrative functions of the fund. The accounting firm charges a fixed upfront fee of $1,500 per annum for the following services:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "preparation of annual financial statements",
+        "preparation and lodgment of the fund’s annual return",
+        "arranging for the annual audit of the fund",
+        "preparing member benefits statements",
+        "preparation of reports on the fund’s investments."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The fixed fee of $1,500 is not calculated according to the cost of each particular service. The expense therefore cannot be easily divided into distinct and severable parts."
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustees decide that it would be fair and reasonable to use the exempt income percentage as certified on the actuary’s certificate. This determines the proportion of the accountant’s fee that is deductible. They calculate this as follows:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Expense × assessable income %",
+        "= $1,500 × (100% − 40%) = $900."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This results in $900 of the $1,500 fee being able to be claimed as a deduction."
+    },
+    {
+      "type": "paragraph",
+      "text": "No apportionment is necessary for costs that are wholly incurred in collecting and processing contributions. For example, costs associated with obtaining an electronic service address (ESA) to meet the data standards requirements are not apportioned."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tax and super law requirements that govern deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "For further detailed information on the tax and super law requirements that govern deductions, see:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Taxation Ruling TR 93/17 Income tax: income tax deductions available to superannuation funds",
+        "Taxation Ruling TR 97/11 Income tax: am I carrying on a business of primary production?",
+        "Taxation Ruling TR 97/7 Income tax: section 8-1 – meaning of 'incurred' – timing of deductions.",
+        "Taxation Determination TD 95/60 Income tax: are fees paid for obtaining investment advice an allowable deduction under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997) for taxpayers who are not carrying on an investment business?",
+        "Taxation Ruling TR 2011/6 Income tax: business related capital expenditure - section 40-880 of the Income Tax Assessment Act 1997 core issues",
+        "Taxation Ruling TR 2012/6 Income tax: deductibility under subsection 295-465(1) of the Income Tax Assessment Act 1997 of premiums paid by a complying superannuation fund for an insurance policy providing Total and Permanent Disability cover in respect of its members",
+        "Death, total and permanent disability, terminal illness and income protection premiums to the extent specified in the relevant law ( section 295-465 of the ITAA 1997 )."
+      ]
+    }
+  ],
+  "content_text": "## About deductible SMSF expenses\nBefore paying a particular expense from the fund, ensure the payment is:\n- in accordance with a properly formulated investment strategy\n- allowed under your trust deed and superannuation laws.\nThe tax deductibility of most expenses incurred by a self-managed super fund (SMSF) is determined under the general deduction provision in section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997). These rules allow an SMSF to claim a tax deduction for expenses that are:\n- either incurred to earn the fund's assessable income or necessarily incurred in running a business for the purpose of gaining or producing assessable income, and\n- not related to personal or capital matters.\nThe general deductibility rules do not apply where a specific deduction provision applies.\nYou can't claim more than one deduction for the same cost. If 2 or more tax provisions allow you deductions for the same cost, you can deduct only under the most appropriate provision.\nIf an expense is deductible under the general deduction provisions, and the fund has both accumulation and pension phase members, the expense may need to be apportioned . This will determine the amount the fund can deduct. If an expense is deductible under one of the specific deduction provisions, then the wording of that provision will indicate whether the expense must be apportioned and on what basis.\n### Specific deductions\nThere are some specific deductions that can be claimed in full or in part, while others will require apportionment. The following is a list of specific deduction provisions that apply to SMSFs:\n- Managing the tax affairs of the SMSF or complying with an obligation imposed on the SMSF that relates to its tax affairs, for example, the SMSF Supervisory Levy (section 25-5 of the ITAA 1997).\n- Death, total and permanent disability, terminal illness and income protection premiums to the extent specified in the relevant law (section 295-465 of the ITAA 1997).\n## When you can claim SMSF expenses\nAs a general rule, the trustee can claim the fund's expenses in the year the trustee incurs them. However, deductions for the decline in value of certain depreciating assets (such as plant and equipment) are claimed over the effective life of the asset and not when the trustee incurs the expenditure.\nTo claim, you should ensure:\n- wherever possible, the expense is paid directly from the SMSF's bank account\n- invoices and receipts are in the name of the SMSF\n- you retain invoices and receipts as evidence of the fund's expenses\n- the deduction is only claimed once.\n## Operating expenses\nOperating expenses incurred by an SMSF are mostly deductible under the general deduction provision. The following are examples of the types of operating expenses that are typically deductible under the general deduction provision:\n- management and administration fees\n- audit fees\n- Australian Securities & Investments Commission (ASIC) annual fee.\n### Management and administration fees\nThese are costs associated with the daily running of the fund. For example, they might include:\n- preparing trustee minutes\n- stationery\n- postage fees.\nExpenses that are incurred in making changes to the internal organisation or day-to-day running of the fund are not considered to be capital in nature provided such changes do not result in an advantage of a lasting character.\nIf a super fund is running a business, it may be entitled to deduct certain capital expenses under the specific deduction provision, section 40-880 of the ITAA 1997.\n#### SMSF auditor fee\nAn SMSF is required by super laws to appoint an approved SMSF auditor each income year to audit the fund.\nAny auditing costs that relate to meeting obligations under super laws are deductible. The costs must be apportioned if the SMSF gains or produces both assessable and non-assessable income.\n#### ASIC annual fee\nFor SMSFs operating with a corporate trustee structure, ASIC charges an initial registration fee and annual fee. The annual fee is deductible by the fund.\n## Supervisory levy\nAn SMSF is liable to pay a supervisory levy under the Superannuation (Self- Managed Superannuation Funds) Supervisory Levy Imposition Act 1991 . The levy is:\n- a flat amount\n- deductible under section 25-5 of the ITAA 1997.\n## Tax-related expenses\nA specific deduction is allowable under section 25-5 of the ITAA 1997 for expenses incurred in either:\n- managing a fund’s tax affairs\n- complying with a Commonwealth tax law obligation imposed on the trustee.\nYou cannot deduct capital costs under this section. An expense is not a capital expense merely because the tax affair relates to a matter that is capital in nature. For example, you may be able to deduct the cost of applying for a private ruling on whether you can depreciate an item of property under this section.\nThe costs incurred in preparing and lodging the SMSF’s annual return, including the preparation of financial statements or actuarial costs incurred in meeting income tax obligations, are deductible. The return is an approved form covering both income tax and super law requirements. However, we don't require SMSFs to apportion between the 2 types of expenses. We allow it in full as a deduction for the expenses incurred in preparing and lodging the return.\nA tax-related expense does not need to be apportioned for an SMSF deriving both non-assessable and assessable income. This is unless the cost relates to audit fees paid by the fund.\n## Legal expenses\nSome legal expenses are covered by specific deduction provisions. For example, legal expenses incurred in complying with income tax obligations are covered under section 25-5 of the ITAA 1997.\nLegal expenses that are not covered by a specific provision are generally deductible under the general deduction provision. This is except when they are incurred in deriving non-assessable income or are capital, private or domestic in nature.\n### Example: borrowing expenses that are capital in nature\nNamrita's SMSF engages a legal firm to set up a trust to hold an asset. The fund intends to acquire the asset under a limited recourse borrowing arrangement (LRBA). This is required by super law.\nSection 25-25 of the ITAA 1997 is a specific deduction provision. It enables the deduction of expenses incurred for borrowing money used to produce assessable income. The fund claims the following borrowing expenses:\n- loan establishment fees\n- obtaining relevant valuations\n- costs of documenting guarantees required by the lender\n- lender’s mortgage insurance\n- fees for property and title search fees, costs for preparing and filing mortgage documents, etc.\nThe fund can't claim the costs in establishing the trust for the LRBA as they are not borrowing expenses. They are incurred to establish the arrangement for borrowing, not for the borrowing itself. Therefore, the SMSF can't claim a deduction for legal expenses in setting up the trust.\nAlso, the fund can't claim the costs as a deduction under the general deduction provision. This is because they are capital in nature.\n### Trust deed amendments\nTrust deed amendments to facilitate the ongoing operations of the SMSF are generally deductible under the general deduction provision. If a fund amends a trust deed to keep it up to date with changes to super law, the expense will be deductible under the general deduction provision. This is unless the amendment results in lasting changes to the SMSF’s structure or function or creates a new asset.\n#### Example: change of structure\nSue and Jim have a 2-member SMSF. The couple are also the individual trustees of the fund. Jim dies before either of them has retired. Sue decides to continue the SMSF with a corporate trustee as the sole director.\nThe fund incurs legal expenses of $1,000 to amend the trust deed so the corporate trustee can be appointed. Making changes to permit appointment of a corporate trustee relates to the structure of the SMSF. The expenses are capital in nature.\nThe fund can't deduct the legal expenses incurred in amending the trust deed. They are not deductible under section 8-1 of the ITAA 1997.\n#### Example: updating aged information\nThe trustees of Wong's SMSF decide that the fund’s trust deed is out of date. It refers to super law provisions that have been repealed. It also gives contact addresses for the trustees that are no longer current.\nThe trustees decide to engage a legal firm to update the deed. The firm charges $500. The changes to the trust deed are an ordinary incident of the day-to-day running of the fund and are not capital in nature. The $500 charged by the legal firm is deductible to the fund.\n#### Example: changing functions\nThe trustees of Anna's SMSF decide to borrow money to purchase an apartment under an LRBA. This is part of a properly formulated investment strategy.\nThe trust deed of the SMSF, as it currently stands, does not permit the trustees to borrow money. The trustees engage a legal firm to amend the trust deed. This will permit them to borrow money under an LRBA.\nThe costs incurred in engaging the law firm to change the trust deed are not deductible. This is because the addition of borrowing powers is an enduring change to the function of the SMSF.\n## Investment expenses\nThe exact nature of the investment-related expenses is critical in determining deductibility. Examples of deductible investment-related expenses include:\n- interest\n- ongoing management fees or retainers paid to investment advisers\n- costs of servicing and managing an investment portfolio, such as bank fees, rental property expenses, brokerage fees\n- the cost of advice to change the mix of investments, whether by the original or a new investment adviser, provided any changes do not lead to the creation of a new financial plan.\nIf the investment-related advice covers other matters or relates in part to investments that do not produce assessable income, only a proportion of the fee is deductible.\n### Example: non-deductible investment-related expenses\nThe trustees of Jasminka's SMSF engage a financial adviser to create a long-term financial strategy. The strategy needs to have enough liquidity to:\n- pay super income stream benefits\n- pay lump sum payments\n- continue with investments that, in the long term, will provide super or death benefits for the members.\nThe trustees also pay a fee to an investment adviser to draw up an investment strategy for the fund. The fee is a capital outlay, even if some of the existing investments are maintained as part of the new plan, because the fee is for advice that relates to drawing up a new investment strategy.\n### Example: ongoing investment-related expenses\nThe trustees of a fund decide to seek the advice of an investment adviser. They want to know what listed securities they should invest in. This is specified in the fund’s investment strategy and permitted by the governing rules of the fund.\nThe trustees deduct the cost of the advice on listed securities to invest in. This is because the advice is part of the ongoing maintenance of the current investment strategy. It is not part of a new investment strategy or plan.\nSpecial rules apply to collectable and personal use SMSF investment assets, such as artwork. These rules were introduced on 1 July 2011 to cover aspects such as storage and insurance.\nInsurance costs for artwork and other collectables are deductible to the SMSF provided the:\n- items are insured in the name of the fund within 7 days of acquisition\n- fund is the owner and beneficiary of the policy.\nYou can't, for example, insure the item as part of a trustee's home and contents insurance.\nStorage costs for artwork and collectables can only be deductible to the fund if the:\n- items are stored in accordance with Regulation 13.18AA of the Superannuation Industry (Supervision) Regulations 1994 (SISR) obligations\n- trustees make and keep records documenting the reasons for deciding where to store the item.\n## Member insurance premiums\nTrustees of complying super funds can claim a deduction for insurance policy premiums to provide the following death or disability benefits to their members:\n- super death benefits\n- terminal medical condition benefits\n- disability super benefits\n- benefits provided due to temporary inability to engage in gainful employment for a specified period.\nThe amount the fund can claim is set out in the relevant income tax laws. There is no apportionment required for expenses that relate to assessable or non-assessable income.\n## Non-deductible expenses\nAn expense that is incurred in establishing or making lasting changes to a super fund’s structure or function is capital in nature and is not deductible under the general deduction provision. For example, the costs of establishing an SMSF are capital in nature. An expense incurred in acquiring a capital asset is also usually capital in nature.\nTrust deed amendment costs incurred in establishing a trust, executing a new deed for an existing fund and amending a deed to enlarge or significantly alter the scope of the trust’s activities are generally not deductible. This is because they are capital in nature.\nAn SMSF can't deduct a loss or outgoing to the extent that:\n- it is a loss or outgoing of capital, or of a capital nature\n- it is a loss or outgoing of a private or domestic nature\n- it is incurred in relation to gaining or producing income of the fund that is non-assessable income (such as exempt current pension income)\n- the income tax laws prevent the fund from deducting it.\nAdministrative penalties that can be levied on a trustee under super laws are not deductible to the fund. They are incurred by the trustee of the fund (or director of the corporate trustee). They must not be paid or reimbursed from the assets of the SMSF.\n### Example: non-deductible expenses\nSascha and John are individual trustees in a 2-member SMSF. When Sascha dies, John decides to change the SMSF to a single-member fund with a corporate trustee. He does this once the death benefit has been paid from the fund.\nIn addition to the usual fund expenses incurred in running the fund, John incurs the following additional expenses:\n- legal expenses of $300 to amend the trust deed to change the fund to a single-member fund with corporate trustee\n- ASIC fees associated with setting up the corporate trustee.\nThe SMSF will not be able to claim deductions on either of these amounts. This is because the:\n- legal expenses of $300 are of a capital nature because they are incurred in making lasting changes to the structure of the fund\n- ASIC fees incurred in setting up the corporate trustee are also capital in nature.\n## Apportionment of expenses\nExpenses must be apportioned if the fund earns both assessable and non-assessable income.\nAn expense may be incurred partly in gaining or producing assessable income and partly in gaining or producing non-assessable income, such as exempt current pension income. Where the fund can identify a distinct and severable part devoted to gaining or producing assessable income, this is the part to claim as a deduction under the general deduction provision.\n### Example: apportioning expenses for assessable and non-assessable income\nThe trustee of Zhao's SMSF appoints a property managing company for 3 investment properties held by the fund. One is a holiday rental home and is managed by the company’s regional office. It is also a segregated current pension asset of the fund. This means the income derived from this property is exempt.\nThe company charges the fund $2,000 for its services. However, the invoice identifies $500 as costs incurred by the regional office for managing the holiday rental home.\nThe amount of $500 can be distinctly identified as a cost incurred in gaining the fund’s exempt income. The remaining $1,500 can be distinctly identified as a cost incurred in gaining the fund’s assessable income. The fund may claim the $1,500 as a deduction. This is the amount of cost that relates to the assessable income.\nMany expenses cannot be divided into distinct and severable parts. For example, this could be when paying an approved SMSF auditor to provide an annual report for the fund. This is an expense that does not relate to either the fund’s assessable or non-assessable income. In this case, the fund must estimate, in a fair and reasonable way, how much of that expense was incurred in producing the fund’s assessable income.\nWhile it's not possible to prescribe a single method for apportioning costs of a super fund, Taxation Ruling TR 93/17 provides several examples. It also provides guidance on what the Commissioner of Taxation may accept as a method for producing a fair and reasonable outcome.\n### Example: segregated assets\nThe trustee of Jane's SMSF incurs audit expenses of $1,500. This is for providing the SMSF with a report in accordance with its regulatory obligations. The fund has unsegregated assets and therefore obtains an actuarial certificate each year. This determines the exempt current pension income of the fund.\nThe percentage specified by the actuary in the relevant year is that:\n- 70% of the value of fund assets is held to support current pension liabilities\n- the remaining 30% of the value of fund assets is held to provide for assessable income in the fund.\nThe trustee decides that this percentage is a fair and reasonable method for apportioning the audit expenses. The cost that can be claimed as incurred in gaining assessable income is $450 ($1,500 × 30%).\n### Example: assessable and non-assessable income\nThe trustee of Santo's SMSF incurs audit expenses of $1,500. This is for providing the SMSF with a report in accordance with its regulatory obligations. The SMSF earns:\n- $60,000 in assessable income\n- $100,000 in non-assessable income.\nThe trustees of the fund decide that the following method is a fair and reasonable way to apportion these expenses:\n- audit expense × (assessable income ÷ total income)\n- = $1,500 × ($60,000 ÷ $160,000).\nThis results in an amount of $562 for audit expenses claimed as a deduction by the fund.\n### Example: non-segregated assets\nSanchez SMSF has both pension and accumulation members. It does not segregate its assets.\nThe trustees obtain an actuary’s certificate to determine the proportion of the fund’s income that is exempt current pension income. The actuary certifies that 40% of the fund’s income is exempt.\nThe trustees engage an accounting firm to undertake the administrative functions of the fund. The accounting firm charges a fixed upfront fee of $1,500 per annum for the following services:\n- preparation of annual financial statements\n- preparation and lodgment of the fund’s annual return\n- arranging for the annual audit of the fund\n- preparing member benefits statements\n- preparation of reports on the fund’s investments.\nThe fixed fee of $1,500 is not calculated according to the cost of each particular service. The expense therefore cannot be easily divided into distinct and severable parts.\nThe trustees decide that it would be fair and reasonable to use the exempt income percentage as certified on the actuary’s certificate. This determines the proportion of the accountant’s fee that is deductible. They calculate this as follows:\n- Expense × assessable income %\n- = $1,500 × (100% − 40%) = $900.\nThis results in $900 of the $1,500 fee being able to be claimed as a deduction.\nNo apportionment is necessary for costs that are wholly incurred in collecting and processing contributions. For example, costs associated with obtaining an electronic service address (ESA) to meet the data standards requirements are not apportioned.\n## Tax and super law requirements that govern deductions\nFor further detailed information on the tax and super law requirements that govern deductions, see:\n- Taxation Ruling TR 93/17 Income tax: income tax deductions available to superannuation funds\n- Taxation Ruling TR 97/11 Income tax: am I carrying on a business of primary production?\n- Taxation Ruling TR 97/7 Income tax: section 8-1 – meaning of 'incurred' – timing of deductions.\n- Taxation Determination TD 95/60 Income tax: are fees paid for obtaining investment advice an allowable deduction under section 8-1 of the Income Tax Assessment Act 1997 (ITAA 1997) for taxpayers who are not carrying on an investment business?\n- Taxation Ruling TR 2011/6 Income tax: business related capital expenditure - section 40-880 of the Income Tax Assessment Act 1997 core issues\n- Taxation Ruling TR 2012/6 Income tax: deductibility under subsection 295-465(1) of the Income Tax Assessment Act 1997 of premiums paid by a complying superannuation fund for an insurance policy providing Total and Permanent Disability cover in respect of its members\n- Death, total and permanent disability, terminal illness and income protection premiums to the extent specified in the relevant law ( section 295-465 of the ITAA 1997 ).",
+  "child_links": [],
+  "word_count": 3452,
+  "source_title": "",
+  "source_description": "",
+  "category": "super-for-individuals-and-families"
+}

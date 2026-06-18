@@ -1,0 +1,73 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2011/supporting-information/education-tax-refund-what-you-need-to-know/how-much-you-can-claim/full-care-of-children-or-independent-student",
+  "title": "Full care of children or independent student",
+  "description": "",
+  "nat_number": "",
+  "quick_code": "80900",
+  "date_updated": "2019-02-07T13:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Label",
+          "Step",
+          "Directions"
+        ],
+        [
+          "A",
+          "1",
+          "Work out your total eligible education expenses for all eligible children"
+        ],
+        [
+          "B",
+          "2",
+          "The maximum tax offset amount for one child"
+        ],
+        [
+          "C",
+          "3",
+          "How many days in the year were you eligible?"
+        ],
+        [
+          "D",
+          "4",
+          "Work out the maximum tax offset amount for this child ( B × C ) divided by 365 - round to two decimal places Repeat Steps 2 to 4 for each child"
+        ],
+        [
+          "E",
+          "5",
+          "Add the amounts from D for each child"
+        ],
+        [
+          "F",
+          "6",
+          "Include excess eligible expenses carried forward from the previous year"
+        ],
+        [
+          "G",
+          "7",
+          "Add A and F"
+        ],
+        [
+          "H",
+          "8",
+          "Multiply your expenses from G by 50%"
+        ],
+        [
+          "I",
+          "9",
+          "Use the lower of the amounts at E or H Write the amount at I on your claim"
+        ]
+      ]
+    }
+  ],
+  "content_text": "Label | Step | Directions\nA | 1 | Work out your total eligible education expenses for all eligible children\nB | 2 | The maximum tax offset amount for one child\nC | 3 | How many days in the year were you eligible?\nD | 4 | Work out the maximum tax offset amount for this child ( B × C ) divided by 365 - round to two decimal places Repeat Steps 2 to 4 for each child\nE | 5 | Add the amounts from D for each child\nF | 6 | Include excess eligible expenses carried forward from the previous year\nG | 7 | Add A and F\nH | 8 | Multiply your expenses from G by 50%\nI | 9 | Use the lower of the amounts at E or H Write the amount at I on your claim",
+  "child_links": [],
+  "word_count": 148,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

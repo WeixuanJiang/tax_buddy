@@ -1,0 +1,536 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2025/how-to-personalise-your-tax-return",
+  "title": "myTax 2025 How to personalise your tax return",
+  "description": "How to personalise your tax return using myTax.",
+  "nat_number": "",
+  "quick_code": "104155",
+  "date_updated": "2025-06-02T00:33:00Z",
+  "first_published": "",
+  "keywords": "myTax, 2025, pre-fill, ato app",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete the Personalise return screen, select items that apply to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "We make some selections for you, based on:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "pre-fill information",
+        "data we have on our records, such as information from your last year's tax return your uploaded data from the ATO app's myDeductions tool."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Make other selections that may apply to include them in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "The selections in the Personalise return screen will tailor your tax return on the Prepare return screen to your situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you progress to the Prepare return screen, you may find that you have missed a selection. Even if you're part way through your tax return, you can simply return to the Personalise return screen and make further selections."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't remove any selections we make for you, even if you think the circumstances don't apply to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you used myDeductions to keep records, you can upload your data. If you upload your data from myDeductions before you start your tax return in myTax, your data will pre-fill ready for use."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Want to lodge a nil tax return?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don’t need to select any items because you wish to lodge a nil tax return, then select Next at the bottom of the Personalise return screen and follow the instructions."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Watch our tutorial"
+    },
+    {
+      "type": "paragraph",
+      "text": "This video shows you how to personalise your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Media: How to personalise your return in myTax http://tv.ato.gov.au/ato-tv/media?v=bd1bdiuboiho6f External Link ( Duration: 3:32)"
+    },
+    {
+      "type": "paragraph",
+      "text": "We also have a range of video tutorials External Link that may assist you using myTax."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Follow the steps below to make selections on the Personalise return screen that apply to you to include them in your tax return."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Check the answer to the question Were you an Australian resident for tax purposes from 1 July 2024 to 30 June 2025? For more information, see Are you an Australian resident for tax purposes? If Yes , go to step 3. If No , go to step 2. Note: We may have populated this for you based on information from your 2023–24 tax return. If your circumstances are different for 2024–25, you may need to change your answer.",
+        "If you were a resident for part of the year, enter the dates you were a resident. If you weren't a resident at any time during the year, leave both date fields blank.",
+        "Answer the question Did you have a spouse at any time between 1 July 2024 and 30 June 2025? For more information, see Spouse details . Note: We may have populated this for you based on information from your 2023–24 tax return.",
+        "Select the items that may apply to include them in your tax return. If you're unsure if an item applies to you, select the links for more information Salary, wages or other income on an income statement/payment summary, Australian Government payments, or First home super saver (FHSS) scheme payment Income from Australian superannuation or annuity funds Australian interest, or other Australian income or losses from investments or property This includes capital gains tax related items. Managed fund or trust distributions (including where distribution has capital gains and foreign income) Sole trader or business income or losses or partnership distributions This includes Personal services income. This includes Loss details (unless you only select Net farm management deposits or repayments) Foreign income All other income Deductions Tax losses of earlier income years Tax offsets or Adjustments"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you can't see an item to select , it may already be shown on the Prepare return screen or isn't required to be included in your tax return."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Select Next to go to the Prepare return screen. myTax will automatically display the selected items, and certain other items that apply, at the Prepare return screen."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Can't see an item to select?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you can't see an item to select, follow the links below to find out more:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Items always display",
+        "Items automatically calculated for you",
+        "Deductions displayed depending on your circumstance",
+        "Tax offsets displayed depending on your circumstances",
+        "Adjustments displayed depending on your circumstances"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Items always displayed"
+    },
+    {
+      "type": "paragraph",
+      "text": "No selections are necessary on the Personalise return screen for the following items, but they will display on the Prepare return screen."
+    },
+    {
+      "type": "paragraph",
+      "text": "These items are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Deductions for gifts, donations, interest, dividends, and the cost of managing your tax affairs",
+        "Medicare and private health insurance",
+        "Income tests"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Items automatically calculated for you"
+    },
+    {
+      "type": "paragraph",
+      "text": "You aren't required to make a selection on the Personalise return screen for any of the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "low income tax offset",
+        "PAYG instalments",
+        "Study and training support loans including Higher Education Loan Program (HELP) Vocational and Educational Training Student Loan (VSL) Student Financial Supplement Scheme (SFSS) Australian Apprenticeship Support Loan (AASL) Student Start-up Loan (SSL) ABSTUDY Student Start-up Loan (ABSTUDY SSL)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We use the information in your tax return and our records to include these in your notice of assessment."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Deductions displayed depending on your circumstances"
+    },
+    {
+      "type": "paragraph",
+      "text": "Based on the information available in your tax return, myTax will display certain deduction items."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have salary or wage income, 'Work-related expenses' will be selected on the Personalise return screen, and the following items will display on the Prepare return screen:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Work-related car expenses",
+        "Work-related travel expenses",
+        "Work-related clothing, laundry and dry-cleaning expenses",
+        "Work-related self-education expenses",
+        "Other work-related expenses (includes working from home expenses)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a foreign pension or annuity, no selection is necessary on the Personalise return screen, the following item will display on the Prepare return screen:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Undeducted purchase price (UPP) of a foreign pension or annuity"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Tax offsets displayed depending on your circumstances"
+    },
+    {
+      "type": "paragraph",
+      "text": "No selections are necessary on the Personalise return screen for the following items, but they will display on the Prepare return screen."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Seniors and pensioners (including self-funded retirees) – if you have an Australian Government pension or allowance, or are over 60 years old",
+        "Foreign income tax offset – if you have foreign income and have paid foreign tax.",
+        "Australian super income stream – if you have income from Australian super income streams."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have business-related income selected on the Personalise return screen, the following item will display on the Prepare return screen."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Small business income tax offset"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you wish to claim the national rental affordability scheme tax offset , you'll need to select either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Partnerships under Sole trader or had business income or losses or partnership distributions , even if you haven't received any partnership distributions.",
+        "Managed fund or trust distributions (including where distribution has capital gains and foreign income) , even if you haven't received any trust distributions."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "While the myTax sections are specific to partnerships and trust distributions, all individuals making a claim for this offset must use either of these sections."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Adjustments displayed depending on your circumstances"
+    },
+    {
+      "type": "paragraph",
+      "text": "No selections are necessary on the Personalise return screen for the following items, but they will display on the Prepare return screen:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Under 18 – if you were under 18 years old on 30 June 2025",
+        "Part-year tax-free threshold – if you were an Australian resident for tax purposes for part of the income year."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Can't remove a selection?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Where we make a selection for you, it's based on the information:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "provided to us by various organisations including employers, payers, financial institutions and other government departments",
+        "we have on our records, such as from your last year's tax return your uploaded data from the ATO app's myDeductions tool the Depreciation and capital allowances tool or the Personal services income decision tool."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You won't be able to remove the selection."
+    },
+    {
+      "type": "paragraph",
+      "text": "If we make a selection for you but you believe it doesn't apply to you, it may be because the information was provided to us incorrectly or you may not be aware of how the payment was made to you."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: Business income statement/payment summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Business/Sole trader income or loss may be pre-selected if you received payments made:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "under a voluntary agreement",
+        "under a labour-hire arrangement, or",
+        "that are other specific payments."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "While you may think you're not in business or a sole trader, the payment was made as business and personal services income instead of employment income, which is what you might have expected. You should review the pre-filled information on the Prepare return screen and make any necessary adjustments (if required). If you believe the payment was made incorrectly, contact the payer so they can update their records and provide us with correct information."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Income earned through the sharing economy or other marketplaces"
+    },
+    {
+      "type": "paragraph",
+      "text": "The sharing economy is economic activity through a digital platform (such as a website or an app) where people share assets or services (labour) for a fee. The income you earn through the sharing economy is assessable which means you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "must declare all of your sharing economy income in your tax return",
+        "can claim deductions for associated expenses."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, go to Sharing economy and tax ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the Personalise return screen to select items that are relevant to you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Ride-sourcing and food delivery",
+        "Renting out all or part of your home",
+        "Sharing assets (excluding accommodation)",
+        "Providing services or completing tasks"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Ride-sourcing and food delivery"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received income for 'ride-sourcing' or food delivery services, select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You were a sole trader or had business income or losses or partnership distributions Business/Sole trader income or loss Business income or loss"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Renting out all or part of your home"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received income from renting out a room or whole house or unit for a short-term basis, select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You had Australian interest, or other Australian income or losses from investments or property Rent (Australian properties)"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Sharing assets (excluding accommodation)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received income from sharing assets (you own or lease) where you were:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "not carrying on a business, select You had other income not listed above (including employee share schemes)",
+        "carrying on a business, select You were a sole trader or had business income or losses or partnership distributions Business/Sole trader income or loss, then Business income or loss"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Providing services or completing tasks"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your selection will depend on your relationship with the platform and other parties to the agreement."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "If you're not in business"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received income for your services or completing tasks through a digital platform where you were:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an employee of the platform, select You received salary, wages or other income on an income statement/payment summary, Australian Government payments, or First home super saver (FHSS) scheme payment Salary, wages, allowances, tips, bonuses etc. (including lump sum A, B, D or E payments)",
+        "not an employee of the platform or carrying on a business, select You had other income not listed above (including employee share schemes)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Additionally, if you want to claim deductions for expenses incurred related to your income, where you were:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an employee of the platform, select You had deductions you want to claim Work-related expenses – You must have salary or wages income",
+        "not an employee of the platform or carrying on a business, select You had deductions you want to claim Other deductions."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "If you're in business"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received income for your services or completing tasks through a digital platform where you were carrying on a business, select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You were a sole trader or had business income or losses or partnership distributions Business/Sole trader income or loss, then select either Personal services income Business income or loss."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This selection will enable you to show both your business income and expenses."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Further information that may assist your choice"
+    },
+    {
+      "type": "paragraph",
+      "text": "When earning income for services as a business, you need to consider whether personal services income (PSI) applies to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Income you earn mainly from your personal skills, efforts or expertise is classified as PSI. If the income is PSI, you'll need to work out if special tax rules (the PSI rules) apply. If the PSI rules apply, they will affect how you report your income to us and the deductions you can claim."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use our tool to work our whether PSI was received and if the PSI rules apply."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cash income"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're being paid cash, you must declare the cash as income when you lodge your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "We use a range of tools to identify and take action against people and businesses that may not be correctly meeting their obligations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the Personalise return screen to select items that are relevant to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you receive cash for work you do as an employee, select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You received salary, wages or other income on an income statement/payment summary, Australian Government payments, or First home super saver (FHSS) scheme payment Salary, wages, allowances, tips, bonuses etc. (including lump sum A, B, D or E payments)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to claim deductions for expenses incurred related to your cash income as an employee, select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You had deductions you want to claim Work-related expenses – You must have salary or wages income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you receive cash and cash equivalent income carrying on a business for goods or services, select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You were a sole trader or had business income or losses or partnership distributions Business/Sole trader income or loss Business income or loss."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This selection will enable you to show both your business income and expenses."
+    }
+  ],
+  "content_text": "## Things to know\nTo complete the Personalise return screen, select items that apply to you.\nWe make some selections for you, based on:\n- pre-fill information\n- data we have on our records, such as information from your last year's tax return your uploaded data from the ATO app's myDeductions tool.\nMake other selections that may apply to include them in your tax return.\nThe selections in the Personalise return screen will tailor your tax return on the Prepare return screen to your situation.\nWhen you progress to the Prepare return screen, you may find that you have missed a selection. Even if you're part way through your tax return, you can simply return to the Personalise return screen and make further selections.\nYou can't remove any selections we make for you, even if you think the circumstances don't apply to you.\nIf you used myDeductions to keep records, you can upload your data. If you upload your data from myDeductions before you start your tax return in myTax, your data will pre-fill ready for use.\n### Want to lodge a nil tax return?\nIf you don’t need to select any items because you wish to lodge a nil tax return, then select Next at the bottom of the Personalise return screen and follow the instructions.\n### Watch our tutorial\nThis video shows you how to personalise your tax return.\nMedia: How to personalise your return in myTax http://tv.ato.gov.au/ato-tv/media?v=bd1bdiuboiho6f External Link ( Duration: 3:32)\nWe also have a range of video tutorials External Link that may assist you using myTax.\n## Completing this section\nFollow the steps below to make selections on the Personalise return screen that apply to you to include them in your tax return.\n- Check the answer to the question Were you an Australian resident for tax purposes from 1 July 2024 to 30 June 2025? For more information, see Are you an Australian resident for tax purposes? If Yes , go to step 3. If No , go to step 2. Note: We may have populated this for you based on information from your 2023–24 tax return. If your circumstances are different for 2024–25, you may need to change your answer.\n- If you were a resident for part of the year, enter the dates you were a resident. If you weren't a resident at any time during the year, leave both date fields blank.\n- Answer the question Did you have a spouse at any time between 1 July 2024 and 30 June 2025? For more information, see Spouse details . Note: We may have populated this for you based on information from your 2023–24 tax return.\n- Select the items that may apply to include them in your tax return. If you're unsure if an item applies to you, select the links for more information Salary, wages or other income on an income statement/payment summary, Australian Government payments, or First home super saver (FHSS) scheme payment Income from Australian superannuation or annuity funds Australian interest, or other Australian income or losses from investments or property This includes capital gains tax related items. Managed fund or trust distributions (including where distribution has capital gains and foreign income) Sole trader or business income or losses or partnership distributions This includes Personal services income. This includes Loss details (unless you only select Net farm management deposits or repayments) Foreign income All other income Deductions Tax losses of earlier income years Tax offsets or Adjustments\nIf you can't see an item to select , it may already be shown on the Prepare return screen or isn't required to be included in your tax return.\n- Select Next to go to the Prepare return screen. myTax will automatically display the selected items, and certain other items that apply, at the Prepare return screen.\n### Can't see an item to select?\nIf you can't see an item to select, follow the links below to find out more:\n- Items always display\n- Items automatically calculated for you\n- Deductions displayed depending on your circumstance\n- Tax offsets displayed depending on your circumstances\n- Adjustments displayed depending on your circumstances\n#### Items always displayed\nNo selections are necessary on the Personalise return screen for the following items, but they will display on the Prepare return screen.\nThese items are:\n- Deductions for gifts, donations, interest, dividends, and the cost of managing your tax affairs\n- Medicare and private health insurance\n- Income tests\n#### Items automatically calculated for you\nYou aren't required to make a selection on the Personalise return screen for any of the following:\n- low income tax offset\n- PAYG instalments\n- Study and training support loans including Higher Education Loan Program (HELP) Vocational and Educational Training Student Loan (VSL) Student Financial Supplement Scheme (SFSS) Australian Apprenticeship Support Loan (AASL) Student Start-up Loan (SSL) ABSTUDY Student Start-up Loan (ABSTUDY SSL)\nWe use the information in your tax return and our records to include these in your notice of assessment.\n#### Deductions displayed depending on your circumstances\nBased on the information available in your tax return, myTax will display certain deduction items.\nIf you have salary or wage income, 'Work-related expenses' will be selected on the Personalise return screen, and the following items will display on the Prepare return screen:\n- Work-related car expenses\n- Work-related travel expenses\n- Work-related clothing, laundry and dry-cleaning expenses\n- Work-related self-education expenses\n- Other work-related expenses (includes working from home expenses)\nIf you have a foreign pension or annuity, no selection is necessary on the Personalise return screen, the following item will display on the Prepare return screen:\n- Undeducted purchase price (UPP) of a foreign pension or annuity\n#### Tax offsets displayed depending on your circumstances\nNo selections are necessary on the Personalise return screen for the following items, but they will display on the Prepare return screen.\n- Seniors and pensioners (including self-funded retirees) – if you have an Australian Government pension or allowance, or are over 60 years old\n- Foreign income tax offset – if you have foreign income and have paid foreign tax.\n- Australian super income stream – if you have income from Australian super income streams.\nIf you have business-related income selected on the Personalise return screen, the following item will display on the Prepare return screen.\n- Small business income tax offset\nIf you wish to claim the national rental affordability scheme tax offset , you'll need to select either:\n- Partnerships under Sole trader or had business income or losses or partnership distributions , even if you haven't received any partnership distributions.\n- Managed fund or trust distributions (including where distribution has capital gains and foreign income) , even if you haven't received any trust distributions.\nWhile the myTax sections are specific to partnerships and trust distributions, all individuals making a claim for this offset must use either of these sections.\n#### Adjustments displayed depending on your circumstances\nNo selections are necessary on the Personalise return screen for the following items, but they will display on the Prepare return screen:\n- Under 18 – if you were under 18 years old on 30 June 2025\n- Part-year tax-free threshold – if you were an Australian resident for tax purposes for part of the income year.\n### Can't remove a selection?\nWhere we make a selection for you, it's based on the information:\n- provided to us by various organisations including employers, payers, financial institutions and other government departments\n- we have on our records, such as from your last year's tax return your uploaded data from the ATO app's myDeductions tool the Depreciation and capital allowances tool or the Personal services income decision tool.\nYou won't be able to remove the selection.\nIf we make a selection for you but you believe it doesn't apply to you, it may be because the information was provided to us incorrectly or you may not be aware of how the payment was made to you.\n#### Example: Business income statement/payment summary\nThe Business/Sole trader income or loss may be pre-selected if you received payments made:\n- under a voluntary agreement\n- under a labour-hire arrangement, or\n- that are other specific payments.\nWhile you may think you're not in business or a sole trader, the payment was made as business and personal services income instead of employment income, which is what you might have expected. You should review the pre-filled information on the Prepare return screen and make any necessary adjustments (if required). If you believe the payment was made incorrectly, contact the payer so they can update their records and provide us with correct information.\n### Income earned through the sharing economy or other marketplaces\nThe sharing economy is economic activity through a digital platform (such as a website or an app) where people share assets or services (labour) for a fee. The income you earn through the sharing economy is assessable which means you:\n- must declare all of your sharing economy income in your tax return\n- can claim deductions for associated expenses.\nFor more information, go to Sharing economy and tax .\nUse the Personalise return screen to select items that are relevant to you:\n- Ride-sourcing and food delivery\n- Renting out all or part of your home\n- Sharing assets (excluding accommodation)\n- Providing services or completing tasks\n#### Ride-sourcing and food delivery\nIf you received income for 'ride-sourcing' or food delivery services, select:\n- You were a sole trader or had business income or losses or partnership distributions Business/Sole trader income or loss Business income or loss\n#### Renting out all or part of your home\nIf you received income from renting out a room or whole house or unit for a short-term basis, select:\n- You had Australian interest, or other Australian income or losses from investments or property Rent (Australian properties)\n#### Sharing assets (excluding accommodation)\nIf you received income from sharing assets (you own or lease) where you were:\n- not carrying on a business, select You had other income not listed above (including employee share schemes)\n- carrying on a business, select You were a sole trader or had business income or losses or partnership distributions Business/Sole trader income or loss, then Business income or loss\n#### Providing services or completing tasks\nYour selection will depend on your relationship with the platform and other parties to the agreement.\n##### If you're not in business\nIf you received income for your services or completing tasks through a digital platform where you were:\n- an employee of the platform, select You received salary, wages or other income on an income statement/payment summary, Australian Government payments, or First home super saver (FHSS) scheme payment Salary, wages, allowances, tips, bonuses etc. (including lump sum A, B, D or E payments)\n- not an employee of the platform or carrying on a business, select You had other income not listed above (including employee share schemes).\nAdditionally, if you want to claim deductions for expenses incurred related to your income, where you were:\n- an employee of the platform, select You had deductions you want to claim Work-related expenses – You must have salary or wages income\n- not an employee of the platform or carrying on a business, select You had deductions you want to claim Other deductions.\n##### If you're in business\nIf you received income for your services or completing tasks through a digital platform where you were carrying on a business, select:\n- You were a sole trader or had business income or losses or partnership distributions Business/Sole trader income or loss, then select either Personal services income Business income or loss.\nThis selection will enable you to show both your business income and expenses.\n##### Further information that may assist your choice\nWhen earning income for services as a business, you need to consider whether personal services income (PSI) applies to you.\nIncome you earn mainly from your personal skills, efforts or expertise is classified as PSI. If the income is PSI, you'll need to work out if special tax rules (the PSI rules) apply. If the PSI rules apply, they will affect how you report your income to us and the deductions you can claim.\nYou can use our tool to work our whether PSI was received and if the PSI rules apply.\n### Cash income\nIf you're being paid cash, you must declare the cash as income when you lodge your tax return.\nWe use a range of tools to identify and take action against people and businesses that may not be correctly meeting their obligations.\nUse the Personalise return screen to select items that are relevant to you.\nIf you receive cash for work you do as an employee, select:\n- You received salary, wages or other income on an income statement/payment summary, Australian Government payments, or First home super saver (FHSS) scheme payment Salary, wages, allowances, tips, bonuses etc. (including lump sum A, B, D or E payments).\nIf you want to claim deductions for expenses incurred related to your cash income as an employee, select:\n- You had deductions you want to claim Work-related expenses – You must have salary or wages income.\nIf you receive cash and cash equivalent income carrying on a business for goods or services, select:\n- You were a sole trader or had business income or losses or partnership distributions Business/Sole trader income or loss Business income or loss.\nThis selection will enable you to show both your business income and expenses.",
+  "child_links": [],
+  "word_count": 2258,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

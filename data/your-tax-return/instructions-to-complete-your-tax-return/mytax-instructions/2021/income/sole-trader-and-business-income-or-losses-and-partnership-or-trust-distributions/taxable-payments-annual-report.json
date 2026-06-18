@@ -1,0 +1,233 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2021/income/sole-trader-and-business-income-or-losses-and-partnership-or-trust-distributions/taxable-payments-annual-report",
+  "title": "myTax 2021 Taxable payments annual report",
+  "description": "How to report your payments and grants reported on a Taxable payments annual report using myTax.",
+  "nat_number": "",
+  "quick_code": "65126",
+  "date_updated": "2021-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete this section for pre-filled payments and grants reported for you on a Taxable payments annual report (TPAR)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some businesses need to report information to us about the payments they make to contractors (including subcontractors, consultants and independent contractors) for providing services. The businesses needing to report to us include those providing:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "building and construction services",
+        "cleaning services",
+        "courier services",
+        "road freight services",
+        "information technology (IT) services",
+        "security, investigation or surveillance services."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Federal, state, territory and local government entities need to report the total payments they make to an entity, wholly or partly, for providing services."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additionally, federal, state and territory government entities need to report the total grants paid to people or organisations that have an ABN. Local government entities don’t need to report grants."
+    },
+    {
+      "type": "paragraph",
+      "text": "The information is reported to us on the Taxable payments annual report ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to indicate the type of income for each pre-filled payment and grant. Your selections tailor myTax to show these payments and grants at the correct section."
+    },
+    {
+      "type": "paragraph",
+      "text": "You then need to enter relevant information at that section to ensure your tax return is complete."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not assume this information includes every:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "payment you need to include as income for the financial year",
+        "grant paid to you during the financial year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The onus is on you to make sure you include all your income in your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill this section with payments or grants reported to us on a Taxable payments annual report (TPAR)."
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your payments and grants reported to us, at Prepare return select 'Edit' at the Info only data reported in a Taxable payments annual report (TPAR) banner."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Have any Payments reported on a Taxable payments annual report been pre-filled in myTax? Yes – go to step 2 . No – go to step 4 .",
+        "For each payment reported on a TPAR, select the Type of income? For help to select the most appropriate type, see Payments reported on a Taxable payments annual report . If a payment reported on a TPAR includes tax withheld, for that payment select Business income or Personal services income (PSI) . You will also need to complete the Business income statements and payment summaries section to allow you to claim the tax withheld amount.",
+        "Select Save .",
+        "Have any Grants reported on a Taxable payments annual report been pre-filled in myTax? Yes – go to step 5 . No – go to step 7 .",
+        "For each grant reported on a TPAR, select the Type of income? For help to select the most appropriate type, see Grants reported on a Taxable payments annual report .",
+        "Select Save .",
+        "Select Save and continue when you have completed this section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To ensure your tax return is complete, you must then go to the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Business/sole trader, partnership and trust income (including loss details) section for any payments that you indicated Type of payment of Personal services income (PSI) payments or grants that you indicated Type of payment of Business income.",
+        "Capital gains or losses section for any grants that you indicated Type of payment of Capital gains.",
+        "Other income section for any payments or grants that you indicated Type of payment of Other income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't delete any pre-filled payments or grants that do not belong to you or have entered in another section of your tax return . Visit What if you don’t agree with the pre-filled information? to learn more."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Payments reported on a Taxable payments annual report"
+    },
+    {
+      "type": "paragraph",
+      "text": "Payments you received for services you provided are income."
+    },
+    {
+      "type": "paragraph",
+      "text": "Amounts you invoiced during the financial year but had not received payment for by the end of the financial year do not appear in this information. Where you account for your income on accruals basis , you must include the invoiced amounts in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where you provided the payer with a 'Statement by a supplier' form, you must still include the amount paid in your tax return if it is income."
+    },
+    {
+      "type": "paragraph",
+      "text": "For each pre-filled payment, indicate the Type of income that best describes the nature of the income. Choose from:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Personal services income (PSI)",
+        "Business income",
+        "Other income"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Further information that may assist your choice:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If you received income mainly for your personal efforts or skills, special personal services income rules may apply. Use our tool to work out if those rules apply to you as this will affect how you complete your tax return.",
+        "If your TPAR payment includes tax withheld, select Business income or Personal services income (PSI) . You will also need to complete the Business income statements and payment summaries section to allow you to claim the tax withheld amount."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "myTax will show the payment at your selected section, to assist you as you enter relevant information at that section."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Grants reported on a Taxable payments annual report"
+    },
+    {
+      "type": "paragraph",
+      "text": "Government grants paid to you may be included in this information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consider the nature of the grant to determine if you need to include it as income in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "For information about whether a grant is income, read Taxation Ruling TR2006/3 Income tax: government payments to industry . If a grant is not ordinary income, there may be other tax implications – such as impacts under the assessable recoupment rules, capital allowance rules or capital gains tax rules."
+    },
+    {
+      "type": "paragraph",
+      "text": "For each pre-filled grant, indicate the Type of income that best describes the nature of the income. Choose from:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Business income",
+        "Capital gains",
+        "Other income",
+        "Non-assessable for this year"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "myTax will show the grant at your selected section, to assist you as you enter relevant information at that section."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you indicate the Type of income as Non-assessable for this year , keep a record of the amount if it impacts future years – such as if it:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "reduces the adjustable value of a depreciating asset",
+        "reduces the pool balance of depreciating assets",
+        "reduces the cost base of a CGT asset",
+        "is exempt income – which reduces the amount of losses you carry forward to claim in future years."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensure you take such amounts into account appropriately when preparing future returns."
+    },
+    {
+      "type": "paragraph",
+      "text": "Grant additional information"
+    },
+    {
+      "type": "paragraph",
+      "text": "Certain government grants are treated as non-assessable, non-exempt (NANE) income for tax purposes. To find out more about which government grants may be NANE, visit Non-assessable, non-exempt government grants ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You do not include NANE income in your income tax return. If your circumstances allow for the government grant to be treated as NANE for tax purposes, at Type of income select Non-assessable for this year ."
+    }
+  ],
+  "content_text": "## Things to know\nComplete this section for pre-filled payments and grants reported for you on a Taxable payments annual report (TPAR).\nSome businesses need to report information to us about the payments they make to contractors (including subcontractors, consultants and independent contractors) for providing services. The businesses needing to report to us include those providing:\n- building and construction services\n- cleaning services\n- courier services\n- road freight services\n- information technology (IT) services\n- security, investigation or surveillance services.\nFederal, state, territory and local government entities need to report the total payments they make to an entity, wholly or partly, for providing services.\nAdditionally, federal, state and territory government entities need to report the total grants paid to people or organisations that have an ABN. Local government entities don’t need to report grants.\nThe information is reported to us on the Taxable payments annual report .\nYou need to indicate the type of income for each pre-filled payment and grant. Your selections tailor myTax to show these payments and grants at the correct section.\nYou then need to enter relevant information at that section to ensure your tax return is complete.\nDo not assume this information includes every:\n- payment you need to include as income for the financial year\n- grant paid to you during the financial year.\nThe onus is on you to make sure you include all your income in your tax return.\n## Completing this section\nWe pre-fill this section with payments or grants reported to us on a Taxable payments annual report (TPAR).\nTo show your payments and grants reported to us, at Prepare return select 'Edit' at the Info only data reported in a Taxable payments annual report (TPAR) banner.\n- Have any Payments reported on a Taxable payments annual report been pre-filled in myTax? Yes – go to step 2 . No – go to step 4 .\n- For each payment reported on a TPAR, select the Type of income? For help to select the most appropriate type, see Payments reported on a Taxable payments annual report . If a payment reported on a TPAR includes tax withheld, for that payment select Business income or Personal services income (PSI) . You will also need to complete the Business income statements and payment summaries section to allow you to claim the tax withheld amount.\n- Select Save .\n- Have any Grants reported on a Taxable payments annual report been pre-filled in myTax? Yes – go to step 5 . No – go to step 7 .\n- For each grant reported on a TPAR, select the Type of income? For help to select the most appropriate type, see Grants reported on a Taxable payments annual report .\n- Select Save .\n- Select Save and continue when you have completed this section.\nTo ensure your tax return is complete, you must then go to the:\n- Business/sole trader, partnership and trust income (including loss details) section for any payments that you indicated Type of payment of Personal services income (PSI) payments or grants that you indicated Type of payment of Business income.\n- Capital gains or losses section for any grants that you indicated Type of payment of Capital gains.\n- Other income section for any payments or grants that you indicated Type of payment of Other income.\nYou can't delete any pre-filled payments or grants that do not belong to you or have entered in another section of your tax return . Visit What if you don’t agree with the pre-filled information? to learn more.\n## Payments reported on a Taxable payments annual report\nPayments you received for services you provided are income.\nAmounts you invoiced during the financial year but had not received payment for by the end of the financial year do not appear in this information. Where you account for your income on accruals basis , you must include the invoiced amounts in your tax return.\nWhere you provided the payer with a 'Statement by a supplier' form, you must still include the amount paid in your tax return if it is income.\nFor each pre-filled payment, indicate the Type of income that best describes the nature of the income. Choose from:\n- Personal services income (PSI)\n- Business income\n- Other income\nFurther information that may assist your choice:\n- If you received income mainly for your personal efforts or skills, special personal services income rules may apply. Use our tool to work out if those rules apply to you as this will affect how you complete your tax return.\n- If your TPAR payment includes tax withheld, select Business income or Personal services income (PSI) . You will also need to complete the Business income statements and payment summaries section to allow you to claim the tax withheld amount.\nmyTax will show the payment at your selected section, to assist you as you enter relevant information at that section.\n## Grants reported on a Taxable payments annual report\nGovernment grants paid to you may be included in this information.\nConsider the nature of the grant to determine if you need to include it as income in your tax return.\nFor information about whether a grant is income, read Taxation Ruling TR2006/3 Income tax: government payments to industry . If a grant is not ordinary income, there may be other tax implications – such as impacts under the assessable recoupment rules, capital allowance rules or capital gains tax rules.\nFor each pre-filled grant, indicate the Type of income that best describes the nature of the income. Choose from:\n- Business income\n- Capital gains\n- Other income\n- Non-assessable for this year\nmyTax will show the grant at your selected section, to assist you as you enter relevant information at that section.\nIf you indicate the Type of income as Non-assessable for this year , keep a record of the amount if it impacts future years – such as if it:\n- reduces the adjustable value of a depreciating asset\n- reduces the pool balance of depreciating assets\n- reduces the cost base of a CGT asset\n- is exempt income – which reduces the amount of losses you carry forward to claim in future years.\nEnsure you take such amounts into account appropriately when preparing future returns.\nGrant additional information\nCertain government grants are treated as non-assessable, non-exempt (NANE) income for tax purposes. To find out more about which government grants may be NANE, visit Non-assessable, non-exempt government grants .\nYou do not include NANE income in your income tax return. If your circumstances allow for the government grant to be treated as NANE for tax purposes, at Type of income select Non-assessable for this year .",
+  "child_links": [],
+  "word_count": 1124,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

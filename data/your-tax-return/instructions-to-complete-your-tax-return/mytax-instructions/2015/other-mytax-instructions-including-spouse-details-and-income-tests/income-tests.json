@@ -1,0 +1,220 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2015/other-mytax-instructions-including-spouse-details-and-income-tests/income-tests",
+  "title": "Income tests",
+  "description": "How to complete the Income tests section of your return using myTax.",
+  "nat_number": "",
+  "quick_code": "45044",
+  "date_updated": "2015-06-18T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "We use income tests to work out whether you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "can claim certain tax offsets and the amount you are entitled to receive",
+        "can receive some government benefits or concessions",
+        "are entitled to a rebate for your private health insurance",
+        "must pay Medicare levy surcharge",
+        "have a HELP, SFSS or Trade support loan repayment liability",
+        "must pay tax."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We may also pass this information to other government agencies, such as Services Australia, to ensure you are receiving your correct entitlement to government benefits. It will also be used to determine any child support payments."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Total reportable fringe benefit amounts"
+    },
+    {
+      "type": "paragraph",
+      "text": "This section is about reportable fringe benefits amounts that you received. You will find these amounts on your PAYG payment summary – individual non-business. To update or add an amount on your tax return, go to the ‘Payment summaries from employers, Australian Government and superannuation or annuity funds’ section."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reportable employer superannuation contributions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reportable employer superannuation contributions are additional to the compulsory contributions your employer must make. An example of a reportable employer superannuation contribution is a contribution made on your behalf under a salary sacrifice arrangement."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will find these amounts on your PAYG payment summary – individual non-business. To update or add an amount on your tax return, go to the ‘Payment summaries from employers, Australian Government and superannuation or annuity funds’ section."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tax-free government pensions"
+    },
+    {
+      "type": "paragraph",
+      "text": "We may have pre-filled your return with information provided to us. Check for any tax-free government pensions that are not pre-filled and ensure you add them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Income tax is not paid on certain tax-free government pensions and benefits. However, we take these pensions and benefits into account when working out your adjusted taxable income. Your adjusted taxable income is an income test we use to work out your eligibility for certain tax offsets and the amount of those offsets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include any amount here that you have already shown at the ‘Payment summaries from employers, Australian Government and superannuation or annuity funds’ section."
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete your tax return, add up and enter the amount of tax-free pensions and benefits you received during 2014–15."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Target foreign income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Target foreign income is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "any income earned, derived or received from sources outside Australia",
+        "a periodical payment by way of gifts or allowances from a source outside Australia",
+        "a periodical benefit by way of gifts or allowances from a source outside Australia"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "provided that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the amount is not included in your taxable income, and",
+        "you did not received the amount in the form of a fringe benefit."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete your tax return, add up and enter all the target foreign income you received during 2014–15."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Net financial investment loss"
+    },
+    {
+      "type": "paragraph",
+      "text": "This section is about the net loss, if any, from financial investments you owned."
+    },
+    {
+      "type": "paragraph",
+      "text": "We will calculate the amount of your net financial investment loss for you using the information you provide in your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Child support you paid"
+    },
+    {
+      "type": "paragraph",
+      "text": "This section is about amounts you paid or benefits you provided to another person other than your partner for the maintenance of your natural or adopted child."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include amounts you paid or provided to a person to acquire goods or services."
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete your tax return, add up and enter all the amounts you paid and benefits you provided for the maintenance of your child during 2014–15."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dependent children"
+    },
+    {
+      "type": "paragraph",
+      "text": "For this section a dependent child is your child who, regardless of their income, is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "under 21 years old, or",
+        "21 to 24 years old and a full-time student."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The child must be an Australian resident and you must have contributed to their maintenance."
+    },
+    {
+      "type": "paragraph",
+      "text": "You maintained a dependant if any of the following applied:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you and your dependant lived in the same house",
+        "you gave your dependant food, clothing and lodging",
+        "you helped them to pay for their living, medical and educational costs."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Australian resident for tax purposes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, we consider you to be an Australian resident for tax purposes if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "have always lived in Australia or you have come to Australia and live here permanently",
+        "have been in Australia continuously for six months or more, and for most of that time you worked in the one job and lived at the same place",
+        "have been in Australia for more than six months during 2014–15, unless your usual home is overseas and you do not intend to live in Australia",
+        "go overseas temporarily and you do not set up a permanent home in another country, or",
+        "are an overseas student who has come to Australia to study and are enrolled in a course that is more than six months long."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need help in deciding whether or not your dependants are Australian residents for tax purposes use our Determination of residency tool ."
+    },
+    {
+      "type": "paragraph",
+      "text": "We use this information to determine whether you are entitled to an increase in the income test threshold for the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "private health insurance rebate",
+        "net medical expenses tax offset, and",
+        "Medicare levy surcharge."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete your tax return, enter the number of your dependent children."
+    }
+  ],
+  "content_text": "We use income tests to work out whether you:\n- can claim certain tax offsets and the amount you are entitled to receive\n- can receive some government benefits or concessions\n- are entitled to a rebate for your private health insurance\n- must pay Medicare levy surcharge\n- have a HELP, SFSS or Trade support loan repayment liability\n- must pay tax.\nWe may also pass this information to other government agencies, such as Services Australia, to ensure you are receiving your correct entitlement to government benefits. It will also be used to determine any child support payments.\n## Total reportable fringe benefit amounts\nThis section is about reportable fringe benefits amounts that you received. You will find these amounts on your PAYG payment summary – individual non-business. To update or add an amount on your tax return, go to the ‘Payment summaries from employers, Australian Government and superannuation or annuity funds’ section.\n## Reportable employer superannuation contributions\nReportable employer superannuation contributions are additional to the compulsory contributions your employer must make. An example of a reportable employer superannuation contribution is a contribution made on your behalf under a salary sacrifice arrangement.\nYou will find these amounts on your PAYG payment summary – individual non-business. To update or add an amount on your tax return, go to the ‘Payment summaries from employers, Australian Government and superannuation or annuity funds’ section.\n## Tax-free government pensions\nWe may have pre-filled your return with information provided to us. Check for any tax-free government pensions that are not pre-filled and ensure you add them.\nIncome tax is not paid on certain tax-free government pensions and benefits. However, we take these pensions and benefits into account when working out your adjusted taxable income. Your adjusted taxable income is an income test we use to work out your eligibility for certain tax offsets and the amount of those offsets.\nDo not include any amount here that you have already shown at the ‘Payment summaries from employers, Australian Government and superannuation or annuity funds’ section.\nTo complete your tax return, add up and enter the amount of tax-free pensions and benefits you received during 2014–15.\n## Target foreign income\nTarget foreign income is:\n- any income earned, derived or received from sources outside Australia\n- a periodical payment by way of gifts or allowances from a source outside Australia\n- a periodical benefit by way of gifts or allowances from a source outside Australia\nprovided that:\n- the amount is not included in your taxable income, and\n- you did not received the amount in the form of a fringe benefit.\nTo complete your tax return, add up and enter all the target foreign income you received during 2014–15.\n## Net financial investment loss\nThis section is about the net loss, if any, from financial investments you owned.\nWe will calculate the amount of your net financial investment loss for you using the information you provide in your tax return.\n## Child support you paid\nThis section is about amounts you paid or benefits you provided to another person other than your partner for the maintenance of your natural or adopted child.\nDo not include amounts you paid or provided to a person to acquire goods or services.\nTo complete your tax return, add up and enter all the amounts you paid and benefits you provided for the maintenance of your child during 2014–15.\n## Dependent children\nFor this section a dependent child is your child who, regardless of their income, is:\n- under 21 years old, or\n- 21 to 24 years old and a full-time student.\nThe child must be an Australian resident and you must have contributed to their maintenance.\nYou maintained a dependant if any of the following applied:\n- you and your dependant lived in the same house\n- you gave your dependant food, clothing and lodging\n- you helped them to pay for their living, medical and educational costs.\n## Australian resident for tax purposes\nGenerally, we consider you to be an Australian resident for tax purposes if you:\n- have always lived in Australia or you have come to Australia and live here permanently\n- have been in Australia continuously for six months or more, and for most of that time you worked in the one job and lived at the same place\n- have been in Australia for more than six months during 2014–15, unless your usual home is overseas and you do not intend to live in Australia\n- go overseas temporarily and you do not set up a permanent home in another country, or\n- are an overseas student who has come to Australia to study and are enrolled in a course that is more than six months long.\nIf you need help in deciding whether or not your dependants are Australian residents for tax purposes use our Determination of residency tool .\nWe use this information to determine whether you are entitled to an increase in the income test threshold for the:\n- private health insurance rebate\n- net medical expenses tax offset, and\n- Medicare levy surcharge.\nTo complete your tax return, enter the number of your dependent children.",
+  "child_links": [],
+  "word_count": 865,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

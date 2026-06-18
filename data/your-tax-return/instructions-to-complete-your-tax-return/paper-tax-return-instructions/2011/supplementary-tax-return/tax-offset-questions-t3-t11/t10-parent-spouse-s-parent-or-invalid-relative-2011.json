@@ -1,0 +1,254 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2011/supplementary-tax-return/tax-offset-questions-t3-t11/t10-parent-spouse-s-parent-or-invalid-relative-2011",
+  "title": "About question T10",
+  "description": "Complete question T10 if you maintained a person who was 16 years or older and received particular government payments.",
+  "nat_number": "2677",
+  "quick_code": "25524",
+  "date_updated": "2011-06-28T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, tax offset, parent tax offset, spouse, invalid",
+  "content_blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you maintain your parent, your spouse's parent or an invalid relative?"
+        ],
+        [
+          "No",
+          "go to question T11 Landcare and water facility , or return to main menu Tax return for individuals instructions ."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim this tax offset if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your adjusted taxable income (ATI) for 2010-11 was more than $150,000, or",
+        "you had a spouse for all of 2010-11 and the combined ATI of you and your spouse was more than $150,000, or",
+        "you had a spouse for only part of the year and the sum of the following is more than $150,00 your ATI your spouse's ATI for 2010-11 multiplied by the number of days they were your spouse divided by 365."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you maintained your parent, your spouse's parent or an invalid relative you may be entitled to a tax offset. Before you complete this item, you need to read Adjusted taxable income (ATI) for you and your dependants and the definition of spouse in Special circumstances and glossary ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim for a dependant who was not an Australian resident for tax purposes at any time during 2010-11."
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete this item you need to know each dependant's ATI for the period you are claiming the tax offset in respect of them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your tax offset is reduced if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your dependant's ATI for the period you are claiming the tax offset was $286 or more",
+        "you maintained your dependant for only part of the year",
+        "another person helped to maintain your dependant, or",
+        "your dependant was an Australian resident for tax purposes for only part of the year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If none of these points applies to you in relation to your dependant, you can claim the maximum tax offset for that dependant."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this item"
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your dependant tax offset for a full year or part of the year, you can use the Parent, spouse's parent or invalid relative tax offset calculator on our website, or follow the steps below. Follow the steps for each dependent parent, spouse's parent or invalid relative."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where another person or persons contributed to the maintenance of your dependant, you can claim part of the allowable tax offset, according to the extent of your contribution. For example, if you and another person contributed equally to the maintenance of your dependent parent, you can claim half of the allowable tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all your tax offset amounts before writing the total on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you used our calculator, go to step 4 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your dependant's ATI was $285 or less and you maintained them for the whole year, you can claim the maximum tax offset of $839 for each dependent invalid relative and $1,676 for each dependent parent or spouse's parent. Go to step 4 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your dependant's ATI was $285 or less and you maintained them for part of the year, go to worksheet 2."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your dependant's ATI was $286 or more, read on."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your dependant's ATI for the year was $286 or more and you maintained them for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the whole year, use worksheet 1",
+        "part of the year, use worksheet 2."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 1"
+        ],
+        [
+          "Your dependant's ATI for the whole of 2010-11",
+          "(a)",
+          "$"
+        ],
+        [
+          "Take $282 away from (a).",
+          "(b)",
+          "$"
+        ],
+        [
+          "Divide (b) by 4 (tax offset reduced by $1 for every $4 in excess of $282).",
+          "(c)",
+          "$"
+        ],
+        [
+          "If the amount at (c) is $839 or more for an invalid relative, or $1,676 or more for a parent or spouse's parent, you cannot claim a tax offset for your dependant. Go to question T11 Landcare and water facility or return to main menu Tax return for individuals instructions . If the amount at (c) is less than $839 for an invalid relative, or less than $1,676 for a parent or spouse's parent, read on."
+        ],
+        [
+          "Take (c) away from $839 for an invalid relative, or from $1,676 for a parent or spouse's parent.",
+          "(d)",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at (d), if it is more than zero (0), is your dependant tax offset. Go to step 4 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 2",
+          "",
+          ""
+        ],
+        [
+          "Work out the number of days in the year you maintained your dependant while they were an Australian resident.",
+          "(a)",
+          ""
+        ],
+        [
+          "Multiply the number of days at (a) by the following daily rate: $2.30 if you had an invalid relative $4.59 if you had a parent or spouse's parent.",
+          "(b)",
+          "$"
+        ],
+        [
+          "If your dependant's ATI was $285 or less, the amount at (b) is your dependant tax offset. Go to step 4 . Otherwise, read on."
+        ],
+        [
+          "If your dependant's ATI was $286 or more during the period they were your dependant, write their ATI for that period at (c).",
+          "(c)",
+          "$"
+        ],
+        [
+          "Take $282 away from (c).",
+          "(d)",
+          "$"
+        ],
+        [
+          "Divide (d) by 4.",
+          "(e)",
+          "$"
+        ],
+        [
+          "Take (e) away from (b).",
+          "(f)",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at (f), if it is more than zero (0), is your dependant tax offset. Go to step 4."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "S tep 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "If another person or persons contributed to the maintenance of your dependant remember to claim only part of the allowable tax offset, according to the extent of your contribution. If you used the calculator on our website this has already been done."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write your parent, spouse's parent or invalid relative tax offset at B item T10 on page 16 of your tax return. Do not show cents."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete the income test items IT1 to IT7 on page 8 of your tax return. If you had a spouse, you must also complete Spouse details - married or de facto on pages 9-11 of your tax return."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question T11 Landcare and water facility return to main menu Tax return for individuals instructions go back to question T9 20% tax offset on net medical expenses over the threshold amount ."
+        ]
+      ]
+    }
+  ],
+  "content_text": "Did you maintain your parent, your spouse's parent or an invalid relative?\nNo | go to question T11 Landcare and water facility , or return to main menu Tax return for individuals instructions .\nYes | Read below.\n## You need to know\nYou cannot claim this tax offset if:\n- your adjusted taxable income (ATI) for 2010-11 was more than $150,000, or\n- you had a spouse for all of 2010-11 and the combined ATI of you and your spouse was more than $150,000, or\n- you had a spouse for only part of the year and the sum of the following is more than $150,00 your ATI your spouse's ATI for 2010-11 multiplied by the number of days they were your spouse divided by 365.\nIf you maintained your parent, your spouse's parent or an invalid relative you may be entitled to a tax offset. Before you complete this item, you need to read Adjusted taxable income (ATI) for you and your dependants and the definition of spouse in Special circumstances and glossary .\nYou cannot claim for a dependant who was not an Australian resident for tax purposes at any time during 2010-11.\nTo complete this item you need to know each dependant's ATI for the period you are claiming the tax offset in respect of them.\nYour tax offset is reduced if:\n- your dependant's ATI for the period you are claiming the tax offset was $286 or more\n- you maintained your dependant for only part of the year\n- another person helped to maintain your dependant, or\n- your dependant was an Australian resident for tax purposes for only part of the year.\nIf none of these points applies to you in relation to your dependant, you can claim the maximum tax offset for that dependant.\n## Completing this item\nTo work out your dependant tax offset for a full year or part of the year, you can use the Parent, spouse's parent or invalid relative tax offset calculator on our website, or follow the steps below. Follow the steps for each dependent parent, spouse's parent or invalid relative.\nWhere another person or persons contributed to the maintenance of your dependant, you can claim part of the allowable tax offset, according to the extent of your contribution. For example, if you and another person contributed equally to the maintenance of your dependent parent, you can claim half of the allowable tax offset.\nAdd up all your tax offset amounts before writing the total on your tax return.\n### Step 1\nIf you used our calculator, go to step 4 .\n### Step 2\nIf your dependant's ATI was $285 or less and you maintained them for the whole year, you can claim the maximum tax offset of $839 for each dependent invalid relative and $1,676 for each dependent parent or spouse's parent. Go to step 4 .\nIf your dependant's ATI was $285 or less and you maintained them for part of the year, go to worksheet 2.\nIf your dependant's ATI was $286 or more, read on.\n### Step 3\nIf your dependant's ATI for the year was $286 or more and you maintained them for:\n- the whole year, use worksheet 1\n- part of the year, use worksheet 2.\nWorksheet 1\nYour dependant's ATI for the whole of 2010-11 | (a) | $\nTake $282 away from (a). | (b) | $\nDivide (b) by 4 (tax offset reduced by $1 for every $4 in excess of $282). | (c) | $\nIf the amount at (c) is $839 or more for an invalid relative, or $1,676 or more for a parent or spouse's parent, you cannot claim a tax offset for your dependant. Go to question T11 Landcare and water facility or return to main menu Tax return for individuals instructions . If the amount at (c) is less than $839 for an invalid relative, or less than $1,676 for a parent or spouse's parent, read on.\nTake (c) away from $839 for an invalid relative, or from $1,676 for a parent or spouse's parent. | (d) | $\nThe amount at (d), if it is more than zero (0), is your dependant tax offset. Go to step 4 .\nWorksheet 2 |  | \nWork out the number of days in the year you maintained your dependant while they were an Australian resident. | (a) | \nMultiply the number of days at (a) by the following daily rate: $2.30 if you had an invalid relative $4.59 if you had a parent or spouse's parent. | (b) | $\nIf your dependant's ATI was $285 or less, the amount at (b) is your dependant tax offset. Go to step 4 . Otherwise, read on.\nIf your dependant's ATI was $286 or more during the period they were your dependant, write their ATI for that period at (c). | (c) | $\nTake $282 away from (c). | (d) | $\nDivide (d) by 4. | (e) | $\nTake (e) away from (b). | (f) | $\nThe amount at (f), if it is more than zero (0), is your dependant tax offset. Go to step 4.\n### S tep 4\nIf another person or persons contributed to the maintenance of your dependant remember to claim only part of the allowable tax offset, according to the extent of your contribution. If you used the calculator on our website this has already been done.\nWrite your parent, spouse's parent or invalid relative tax offset at B item T10 on page 16 of your tax return. Do not show cents.\n### Step 5\nComplete the income test items IT1 to IT7 on page 8 of your tax return. If you had a spouse, you must also complete Spouse details - married or de facto on pages 9-11 of your tax return.\nWhere to go next go to question T11 Landcare and water facility return to main menu Tax return for individuals instructions go back to question T9 20% tax offset on net medical expenses over the threshold amount .",
+  "child_links": [],
+  "word_count": 1016,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

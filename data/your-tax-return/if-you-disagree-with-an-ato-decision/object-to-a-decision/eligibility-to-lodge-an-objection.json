@@ -1,0 +1,621 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/if-you-disagree-with-an-ato-decision/object-to-a-decision/eligibility-to-lodge-an-objection",
+  "title": "Eligibility to lodge an objection",
+  "description": "Confirm you're eligible to lodge an objection.",
+  "nat_number": "",
+  "quick_code": "33882",
+  "date_updated": "2026-03-18T13:00:00Z",
+  "first_published": "",
+  "keywords": "adjustment, amendment, decision, dispute,  mistake, object, objection,  objection eligibility",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "General interest charge (GIC)"
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot object to GIC being imposed."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can ask us to remit (reduce) GIC. Refer to Remission of interest charges for more information."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have already requested a remission of GIC which was refused, you cannot object. However you can appeal our decision in the Federal Court under the Administrative Decisions (Judicial Review) Act 1977 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Shortfall interest charge (SIC)"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can ask us to remit (reduce) SIC. Refer to Remission of interest charges for more information."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have received a decision that the SIC will not be remitted, what you can do next depends on the amount of interest charged. If the SIC is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "more than 20% of the tax shortfall amount, you can object to the decision.",
+        "less than 20% of the tax shortfall amount, you can request a review of the remaining interest charged."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if your tax shortfall is $2,000, then 20% is $400."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If the SIC was $401 or more, you can object to the decision.",
+        "If the SIC is $400 or less, you would need to request a review."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can find the tax shortfall amount and SIC on your notice of amended assessment or audit decision letter."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Penalty"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tax laws authorise us to impose administrative penalties where you fail to meet your tax obligations."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can object to some penalties. For others, you need to ask us to remit (reduce) the penalty."
+    },
+    {
+      "type": "paragraph",
+      "text": "Penalties you can ask us to remit"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can ask us to remit a failure to lodge on time penalty . Refer to Remission of penalties for further information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Penalties you can object to"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can object to a decision about the following penalties:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "penalty for making a false or misleading statement - tax shortfall amount",
+        "penalty for making a false or misleading statement – no tax shortfall amount",
+        "penalty for failing to make a statement",
+        "decision not to remit penalty where the penalty amount is more than two penalty units ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A penalty remission decision may be made as part of an audit. Refer to your audit finalisation letter for details."
+    },
+    {
+      "type": "paragraph",
+      "text": "Refer to Penalties for more information."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Difficulty paying an existing debt"
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot object to a tax debt. However, if you believe the assessment or amended assessment that resulted in the debt is incorrect, you may be able to object to that assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are experiencing financial difficulties, we may be able to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "give you extra time to pay",
+        "set up a payment plan (through your online account, the self-help phone line or contacting us)",
+        "remit penalties or interest."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Where you are experiencing serious hardship , you can ask us to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Defer or amend your compulsory repayment or overseas levy",
+        "release you from your tax debt"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "See Tax Support for individuals for more information."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Correct a mistake on your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you realise your tax return is incorrect, you should consider if you are eligible to lodge an amendment to correct it."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are time limits for lodging an amendment."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are within the time limit , you can lodge an amendment to correct your return."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to lodge an objection where:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you disagree with us adjusting your tax return as part of an audit or review, or",
+        "you want to lodge an amendment outside of the time limits."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Audit, review, decision or assessment"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are unhappy with an objection decision, you cannot lodge another objection about the same issue for the same year."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, you can seek an external review through the Administrative Review Tribunal or Federal Court."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Audit, review, decision or assessment"
+    },
+    {
+      "type": "paragraph",
+      "text": "You should contact the tax officer who made the original decision or assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "In most cases, you will have received a letter about the decision, which includes the contact details of the decision maker."
+    },
+    {
+      "type": "paragraph",
+      "text": "After speaking with the tax officer, if you are still unhappy with the decision or assessment, you may be able to lodge an objection."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Audit, review, decision or assessment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Are you objecting to an audit, review, decision or assessment?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before you lodge an objection, you should check:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "whether the decision is something you can object to, and",
+        "whether you are within the time limit to lodge the objection. This varies from 60 days to 4 years, depending on what you’re objecting to."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are outside of the time limit, you can ask for an extension of time by including a written request with your objection."
+    },
+    {
+      "type": "paragraph",
+      "text": "We’ll let you know in writing if we accept your request for an extension of time. If we:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "accept, we will consider your objection",
+        "refuse, we will explain your right to review our decision."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are objecting to an audit decision, you must object to the notice of assessment or notice of amended assessment issued after the audit. You cannot object to the audit finalisation letter."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Income Tax Objection Requirements"
+    },
+    {
+      "type": "paragraph",
+      "text": "To lodge a valid objection, you must:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "ensure the decision is something you can object to",
+        "lodge within the time limit or request an extension of time",
+        "provide a signed declaration stating the information provided in your objection is true and correct"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "You can object to",
+          "How long you have"
+        ],
+        [
+          "Assessments",
+          "4 years and one day from the date you were given the assessment."
+        ],
+        [
+          "Amended assessments",
+          "60 days from the date you were given the amended assessment, or 4 years from the date you were given the original assessment, whichever is later."
+        ],
+        [
+          "Failures to make an assessment",
+          "60 days, starting 30 days after the date you gave notice requesting an assessment."
+        ],
+        [
+          "Decisions to retain refunds",
+          "Your objection period starts 75 days after you lodge your activity statement and ends when you receive an amended assessment. If we ask you to provide additional information, we will extend the objection period for the time you take."
+        ],
+        [
+          "Reviewable GST decisions , reviewable fuel tax decisions and reviewable wine tax decisions",
+          "60 days from the date you were given our decision."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "You can object to",
+          "How long you have"
+        ],
+        [
+          "Excess contributions and transfer balance cap tax assessments",
+          "4 years from the date you were given the assessment."
+        ],
+        [
+          "Excess transfer balance, concessional contributions and non-concessional contributions determinations",
+          "60 days from the date you were given the determination."
+        ],
+        [
+          "The Commissioner's discretion to (or discretion not to) disregard excess contributions or reallocate them to another financial year",
+          "60 days from the date you were given the discretion."
+        ],
+        [
+          "Termination payments and super contributions surcharge assessments",
+          "60 days from the date you were given the assessment."
+        ],
+        [
+          "Super guarantee charge",
+          "60 days from the date you were given the assessment. If you’re an employee, you can’t object to a super guarantee assessment."
+        ],
+        [
+          "Administrative penalties",
+          "60 days from the date you were given our decision."
+        ],
+        [
+          "Notices about complying fund status or disqualification of an individual from being a trustee",
+          "21 days from the date you were given our decision."
+        ],
+        [
+          "All other reviewable decisions made by the Commissioner as regulator under the Superannuation Industry (Supervision) Act 1993",
+          "21 days from the date you were given our decision."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "You can object to",
+          "How long you have"
+        ],
+        [
+          "Penalties for making false or misleading statements, failing to meet other tax obligations and tax shortfalls",
+          "60 days from the date you were given the penalty assessment notice, or the last day to object to the related assessment whichever is later."
+        ],
+        [
+          "Decisions not to remit a penalty (where the amount owing is more than 2 penalty units)",
+          "60 days from the date the decision was given to you."
+        ],
+        [
+          "Decisions not to remit shortfall interest charge where the interest charged is more than 20% of the shortfall amount (For example, 20% of a tax shortfall of $2,000 is $400. If the SIC remaining after the remission decision is $401 or more, you can object. If it is $400 or less, you cannot object.)",
+          "60 days from the date you were given our decision."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "You can object to",
+          "How long you have"
+        ],
+        [
+          "Reviewable ABN decisions (for example, refusing to register you or your representative, or setting the date of effect of a cancellation)",
+          "60 days from the date you were given our decision."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "You can object to",
+          "How long you have"
+        ],
+        [
+          "Suspensions, cancellations and refusals regarding licences and claims for remission, rebate, refund or drawback of excise duties",
+          "60 days from the date you were given our decision."
+        ],
+        [
+          "Disputed liabilities (amount of duty, rate of duty or liability of goods to duty)",
+          "6 months from the date you deposited the duty."
+        ],
+        [
+          "Demands for payment of duty equivalent",
+          "60 days from the date you were given the demand."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "You can object to",
+          "How long you have"
+        ],
+        [
+          "Assessments",
+          "4 years from the date you were given the assessment."
+        ],
+        [
+          "Amended assessments",
+          "60 days from the date you were given the amended assessment, or 4 years from the date you were given the original assessment, whichever is later."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "You can object to",
+          "How long you have"
+        ],
+        [
+          "Assessments and other reviewable grant or benefit decisions",
+          "60 days from the date you were given our decision."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This is for benefits under the Product Stewardship for Oil Program and Energy Grants (Cleaner Fuels) Scheme."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "You can object to",
+          "How long you have"
+        ],
+        [
+          "Assessments and amended assessments",
+          "60 days from the date you were given the assessment."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "You can object to",
+          "How long you have"
+        ],
+        [
+          "Income tax private rulings",
+          "The later of: 60 days from the date you were given the private ruling 2 years (for most individuals, small businesses and medium businesses – see Income tax to check if this applies to you) from the last day for lodging the relevant return 4 years (for all other taxpayers) from the last day for lodging the relevant return."
+        ],
+        [
+          "GST, WET and LCT private rulings",
+          "You have until the time you lodge a business activity statement that takes into account the matter to which the ruling relates."
+        ],
+        [
+          "Excise and fuel tax credit private rulings",
+          "60 days from the date you were given the ruling."
+        ],
+        [
+          "Fringe benefits tax and resource rent taxes (petroleum and minerals) private rulings",
+          "60 days from the date you were given the ruling, or 4 years from the last day for lodging the relevant return, whichever is later."
+        ],
+        [
+          "Global and domestic minimum tax (PillarTwo) private rulings",
+          "60 days from the date you were given the ruling, or 4 years from the last day for lodging the relevant return, whichever is later."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can’t object to a private ruling if you have an assessment for the same period – object to the assessment instead."
+    },
+    {
+      "type": "paragraph",
+      "text": "You also can’t object to a private ruling if you have a reviewable decision about the excise duty for the same goods – object to the reviewable decision instead."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you object to a private ruling, we’ll consider the information you provide and discuss it with you before we make a decision. However, if the new information makes a difference to the facts in the original ruling, we may ask you to apply for a new private ruling so it’s more tailored to your circumstances."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "You can object to",
+          "How long you have"
+        ],
+        [
+          "Assessments",
+          "4 years from the date you were given the assessment."
+        ],
+        [
+          "Amended assessments",
+          "60 days from the date you were given the amended assessment, or 4 years from the date you were given the original assessment, whichever is later."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "You can object to",
+          "How long you have"
+        ],
+        [
+          "Decision not to grant an exemption to report for STP (including a decision not to grant a transitional deferral)",
+          "60 days from the date you were given our decision."
+        ],
+        [
+          "Administrative penalties",
+          "60 days from the date you were given our decision."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "You can object to",
+          "How long you have"
+        ],
+        [
+          "Assessments or amended assessments",
+          "60 days from the date you were given the assessment."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "You can object to",
+          "How long you have"
+        ],
+        [
+          "Assessments (including tax offsets and rebates)",
+          "From the date you were given the assessment: 2 years for most individuals, small businesses (turnover < $10 million) and medium businesses (turnover < $50 million). 4 years for large businesses (turnover > $50 million), super funds and individuals who are not subject to the 2-year period"
+        ],
+        [
+          "Amended assessments (for example, if you do not agree with an audit, review or ATO decision).",
+          "Within 60 days of the date you were given the amended assessment, or within the time limit for the original assessment, whichever is later."
+        ],
+        [
+          "Decisions to retain refunds",
+          "Your objection period starts 90 days after you lodge your tax return, and ends when you receive an amended assessment. If we ask you to provide additional information, the objection period is extended by the time you take to respond."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Supporting documents"
+    },
+    {
+      "type": "paragraph",
+      "text": "You should provide certain information when lodging an objection. The documents required depend on what you disagree with."
+    },
+    {
+      "type": "paragraph",
+      "text": "Providing the correct information upfront helps avoid delays."
+    },
+    {
+      "type": "paragraph",
+      "text": "See what to include in your objection for more information."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: Providing information to prove your claim"
+    },
+    {
+      "type": "paragraph",
+      "text": "During an audit, the ATO reduced Dean’s deductions because there was insufficient evidence to confirm the purchases were work-related."
+    },
+    {
+      "type": "paragraph",
+      "text": "A few weeks later, Dean found the missing receipts and logbooks to support deductions claimed and decided to lodge an objection."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the objection, Dean:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "explained in detail why he believed the assessment was incorrect.",
+        "Specified the additional deductions he was entitled to, and",
+        "Provided the missing receipts and logbooks"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lodge your objection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you've confirmed that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "lodging an objection is the right option",
+        "you are eligible to object",
+        "you have the supporting information you need (if applicable)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "you can proceed to lodge your objection."
+    }
+  ],
+  "content_text": "### General interest charge (GIC)\nYou cannot object to GIC being imposed.\nYou can ask us to remit (reduce) GIC. Refer to Remission of interest charges for more information.\nIf you have already requested a remission of GIC which was refused, you cannot object. However you can appeal our decision in the Federal Court under the Administrative Decisions (Judicial Review) Act 1977 .\n### Shortfall interest charge (SIC)\nYou can ask us to remit (reduce) SIC. Refer to Remission of interest charges for more information.\nIf you have received a decision that the SIC will not be remitted, what you can do next depends on the amount of interest charged. If the SIC is:\n- more than 20% of the tax shortfall amount, you can object to the decision.\n- less than 20% of the tax shortfall amount, you can request a review of the remaining interest charged.\nFor example, if your tax shortfall is $2,000, then 20% is $400.\n- If the SIC was $401 or more, you can object to the decision.\n- If the SIC is $400 or less, you would need to request a review.\nYou can find the tax shortfall amount and SIC on your notice of amended assessment or audit decision letter.\n### Penalty\nTax laws authorise us to impose administrative penalties where you fail to meet your tax obligations.\nYou can object to some penalties. For others, you need to ask us to remit (reduce) the penalty.\nPenalties you can ask us to remit\nYou can ask us to remit a failure to lodge on time penalty . Refer to Remission of penalties for further information.\nPenalties you can object to\nYou can object to a decision about the following penalties:\n- penalty for making a false or misleading statement - tax shortfall amount\n- penalty for making a false or misleading statement – no tax shortfall amount\n- penalty for failing to make a statement\n- decision not to remit penalty where the penalty amount is more than two penalty units .\nA penalty remission decision may be made as part of an audit. Refer to your audit finalisation letter for details.\nRefer to Penalties for more information.\n### Difficulty paying an existing debt\nYou cannot object to a tax debt. However, if you believe the assessment or amended assessment that resulted in the debt is incorrect, you may be able to object to that assessment.\nIf you are experiencing financial difficulties, we may be able to:\n- give you extra time to pay\n- set up a payment plan (through your online account, the self-help phone line or contacting us)\n- remit penalties or interest.\nWhere you are experiencing serious hardship , you can ask us to:\n- Defer or amend your compulsory repayment or overseas levy\n- release you from your tax debt\nSee Tax Support for individuals for more information.\n### Correct a mistake on your tax return\nIf you realise your tax return is incorrect, you should consider if you are eligible to lodge an amendment to correct it.\nThere are time limits for lodging an amendment.\nIf you are within the time limit , you can lodge an amendment to correct your return.\nYou will need to lodge an objection where:\n- you disagree with us adjusting your tax return as part of an audit or review, or\n- you want to lodge an amendment outside of the time limits.\n### Audit, review, decision or assessment\nIf you are unhappy with an objection decision, you cannot lodge another objection about the same issue for the same year.\nHowever, you can seek an external review through the Administrative Review Tribunal or Federal Court.\n### Audit, review, decision or assessment\nYou should contact the tax officer who made the original decision or assessment.\nIn most cases, you will have received a letter about the decision, which includes the contact details of the decision maker.\nAfter speaking with the tax officer, if you are still unhappy with the decision or assessment, you may be able to lodge an objection.\n### Audit, review, decision or assessment\nAre you objecting to an audit, review, decision or assessment?\nBefore you lodge an objection, you should check:\n- whether the decision is something you can object to, and\n- whether you are within the time limit to lodge the objection. This varies from 60 days to 4 years, depending on what you’re objecting to.\nIf you are outside of the time limit, you can ask for an extension of time by including a written request with your objection.\nWe’ll let you know in writing if we accept your request for an extension of time. If we:\n- accept, we will consider your objection\n- refuse, we will explain your right to review our decision.\nIf you are objecting to an audit decision, you must object to the notice of assessment or notice of amended assessment issued after the audit. You cannot object to the audit finalisation letter.\n### Income Tax Objection Requirements\nTo lodge a valid objection, you must:\n- ensure the decision is something you can object to\n- lodge within the time limit or request an extension of time\n- provide a signed declaration stating the information provided in your objection is true and correct\nYou can object to | How long you have\nAssessments | 4 years and one day from the date you were given the assessment.\nAmended assessments | 60 days from the date you were given the amended assessment, or 4 years from the date you were given the original assessment, whichever is later.\nFailures to make an assessment | 60 days, starting 30 days after the date you gave notice requesting an assessment.\nDecisions to retain refunds | Your objection period starts 75 days after you lodge your activity statement and ends when you receive an amended assessment. If we ask you to provide additional information, we will extend the objection period for the time you take.\nReviewable GST decisions , reviewable fuel tax decisions and reviewable wine tax decisions | 60 days from the date you were given our decision.\nYou can object to | How long you have\nExcess contributions and transfer balance cap tax assessments | 4 years from the date you were given the assessment.\nExcess transfer balance, concessional contributions and non-concessional contributions determinations | 60 days from the date you were given the determination.\nThe Commissioner's discretion to (or discretion not to) disregard excess contributions or reallocate them to another financial year | 60 days from the date you were given the discretion.\nTermination payments and super contributions surcharge assessments | 60 days from the date you were given the assessment.\nSuper guarantee charge | 60 days from the date you were given the assessment. If you’re an employee, you can’t object to a super guarantee assessment.\nAdministrative penalties | 60 days from the date you were given our decision.\nNotices about complying fund status or disqualification of an individual from being a trustee | 21 days from the date you were given our decision.\nAll other reviewable decisions made by the Commissioner as regulator under the Superannuation Industry (Supervision) Act 1993 | 21 days from the date you were given our decision.\nYou can object to | How long you have\nPenalties for making false or misleading statements, failing to meet other tax obligations and tax shortfalls | 60 days from the date you were given the penalty assessment notice, or the last day to object to the related assessment whichever is later.\nDecisions not to remit a penalty (where the amount owing is more than 2 penalty units) | 60 days from the date the decision was given to you.\nDecisions not to remit shortfall interest charge where the interest charged is more than 20% of the shortfall amount (For example, 20% of a tax shortfall of $2,000 is $400. If the SIC remaining after the remission decision is $401 or more, you can object. If it is $400 or less, you cannot object.) | 60 days from the date you were given our decision.\nYou can object to | How long you have\nReviewable ABN decisions (for example, refusing to register you or your representative, or setting the date of effect of a cancellation) | 60 days from the date you were given our decision.\nYou can object to | How long you have\nSuspensions, cancellations and refusals regarding licences and claims for remission, rebate, refund or drawback of excise duties | 60 days from the date you were given our decision.\nDisputed liabilities (amount of duty, rate of duty or liability of goods to duty) | 6 months from the date you deposited the duty.\nDemands for payment of duty equivalent | 60 days from the date you were given the demand.\nYou can object to | How long you have\nAssessments | 4 years from the date you were given the assessment.\nAmended assessments | 60 days from the date you were given the amended assessment, or 4 years from the date you were given the original assessment, whichever is later.\nYou can object to | How long you have\nAssessments and other reviewable grant or benefit decisions | 60 days from the date you were given our decision.\nThis is for benefits under the Product Stewardship for Oil Program and Energy Grants (Cleaner Fuels) Scheme.\nYou can object to | How long you have\nAssessments and amended assessments | 60 days from the date you were given the assessment.\nYou can object to | How long you have\nIncome tax private rulings | The later of: 60 days from the date you were given the private ruling 2 years (for most individuals, small businesses and medium businesses – see Income tax to check if this applies to you) from the last day for lodging the relevant return 4 years (for all other taxpayers) from the last day for lodging the relevant return.\nGST, WET and LCT private rulings | You have until the time you lodge a business activity statement that takes into account the matter to which the ruling relates.\nExcise and fuel tax credit private rulings | 60 days from the date you were given the ruling.\nFringe benefits tax and resource rent taxes (petroleum and minerals) private rulings | 60 days from the date you were given the ruling, or 4 years from the last day for lodging the relevant return, whichever is later.\nGlobal and domestic minimum tax (PillarTwo) private rulings | 60 days from the date you were given the ruling, or 4 years from the last day for lodging the relevant return, whichever is later.\nYou can’t object to a private ruling if you have an assessment for the same period – object to the assessment instead.\nYou also can’t object to a private ruling if you have a reviewable decision about the excise duty for the same goods – object to the reviewable decision instead.\nIf you object to a private ruling, we’ll consider the information you provide and discuss it with you before we make a decision. However, if the new information makes a difference to the facts in the original ruling, we may ask you to apply for a new private ruling so it’s more tailored to your circumstances.\nYou can object to | How long you have\nAssessments | 4 years from the date you were given the assessment.\nAmended assessments | 60 days from the date you were given the amended assessment, or 4 years from the date you were given the original assessment, whichever is later.\nYou can object to | How long you have\nDecision not to grant an exemption to report for STP (including a decision not to grant a transitional deferral) | 60 days from the date you were given our decision.\nAdministrative penalties | 60 days from the date you were given our decision.\nYou can object to | How long you have\nAssessments or amended assessments | 60 days from the date you were given the assessment.\nYou can object to | How long you have\nAssessments (including tax offsets and rebates) | From the date you were given the assessment: 2 years for most individuals, small businesses (turnover < $10 million) and medium businesses (turnover < $50 million). 4 years for large businesses (turnover > $50 million), super funds and individuals who are not subject to the 2-year period\nAmended assessments (for example, if you do not agree with an audit, review or ATO decision). | Within 60 days of the date you were given the amended assessment, or within the time limit for the original assessment, whichever is later.\nDecisions to retain refunds | Your objection period starts 90 days after you lodge your tax return, and ends when you receive an amended assessment. If we ask you to provide additional information, the objection period is extended by the time you take to respond.\n## Supporting documents\nYou should provide certain information when lodging an objection. The documents required depend on what you disagree with.\nProviding the correct information upfront helps avoid delays.\nSee what to include in your objection for more information.\n### Example: Providing information to prove your claim\nDuring an audit, the ATO reduced Dean’s deductions because there was insufficient evidence to confirm the purchases were work-related.\nA few weeks later, Dean found the missing receipts and logbooks to support deductions claimed and decided to lodge an objection.\nIn the objection, Dean:\n- explained in detail why he believed the assessment was incorrect.\n- Specified the additional deductions he was entitled to, and\n- Provided the missing receipts and logbooks\n### Lodge your objection\nOnce you've confirmed that:\n- lodging an objection is the right option\n- you are eligible to object\n- you have the supporting information you need (if applicable)\nyou can proceed to lodge your objection.",
+  "child_links": [],
+  "word_count": 2325,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

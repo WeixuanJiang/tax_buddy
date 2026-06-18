@@ -1,0 +1,309 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2016/tax-return/spouse-details-married-or-de-facto-2016",
+  "title": "Spouse details - married or de facto 2016",
+  "description": "Complete this question if you had a spouse during 2015-16.",
+  "nat_number": "",
+  "quick_code": "48685",
+  "date_updated": "2016-05-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, spouse, spouse details, married, de facto",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Your spouse includes another person (of any gender) who:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were in a relationship with that was registered under a prescribed state or territory law",
+        "although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You must complete this section if you had a spouse during 2015-16."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "In 2015-16, did you have a spouse?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to Checklist - tax return 2016 , or return to main menu Individual tax return instructions 2016"
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your spouse's income for any of the labels below is zero, you must write 0 at those items on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your spouse's PAYG payment summary - individual non-business",
+        "the relevant distribution statements, if any, for trust income and family trust distribution tax",
+        "if your spouse had child support obligations, the details of the amount of child support they paid (your spouse can get this information from the Department of Human Services)",
+        "if your spouse received foreign income, the details of the amount of foreign income received",
+        "if your spouse had financial investment losses, the net financial investment loss amount",
+        "if your spouse had rental property losses, the net rental property loss amount",
+        "if your spouse has claimed a deduction for personal superannuation contributions, the details of the amount claimed."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had more than one spouse during 2015-16, complete this section with the details for your spouse on 30 June 2016, or for your last spouse during 2015-16."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print your spouse's name in the boxes provided on page 8 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write your spouse's date of birth at K and print X in the relevant box for your spouse's gender."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a spouse for the full year, 1 July 2015 to 30 June 2016, print X in the Yes box at L ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you did not have a spouse for the full year, print X in the No box at L and write the dates you had a spouse between 1 July 2015 and 30 June 2016 at M and N ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your spouse died during 2015–16 and you did not have another spouse before 30 June 2016, print X in the Yes box to the right of 'Did your spouse die during the year?' This information is used to calculate your M2 Medicare levy surcharge 2016 and T5 Total net medical expenses 2016 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a spouse during 2015–16, follow the instructions below. You must complete labels O to F ."
+    },
+    {
+      "type": "paragraph",
+      "text": "At O , write your spouse's 2015–16 taxable income. If this amount is zero or a loss, write 0 . This amount can usually be obtained from your spouse's tax return or notice of assessment. If your spouse does not have to lodge a tax return, provide an estimate of their taxable income."
+    },
+    {
+      "type": "paragraph",
+      "text": "At T , write any amount of net income of a trust that the trustee was liable to pay tax on because your spouse was under a legal disability, for example, they were:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a bankrupt",
+        "a person who was declared legally incapable because of a mental condition, or",
+        "under 18 years old on 30 June 2016."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include any amount that has already been included in your spouse's taxable income, for example, at O . If this amount is zero, write 0 . Check the trust distribution statements."
+    },
+    {
+      "type": "paragraph",
+      "text": "At U , write the total distributions to your spouse on which family trust distribution tax has been paid which they would have had to show as assessable income if the tax had not been paid. If this amount is zero, write 0 . Check the trust distribution statements."
+    },
+    {
+      "type": "paragraph",
+      "text": "At S , write the total of the reportable fringe benefits amounts shown on your spouse's payment summaries. If this amount is zero, write 0 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "At P , write the amount of Australian Government pensions and allowances that your spouse received in 2015–16 (not including exempt pension income). If this amount is zero, write 0 . Australian Government pensions and allowances are listed at question 6 Australian Government pensions and allowances 2016 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Q , write the amount of any of the following exempt pension income that your spouse received in 2015–16:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Disability support pension paid under Part 2.3 of Social Security Act 1991",
+        "Wife Pension paid under Part 2.4 of Social Security Act 1991",
+        "Carer Payment paid under Part 2.5 of Social Security Act 1991",
+        "Invalidity service pension paid under Division 4 of Part III of the Veterans' Entitlements Act 1986 ; and",
+        "Partner service pension paid under Division 5 of Part III of the Veterans' Entitlements Act 1986 ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Make sure you include only your spouse's exempt pension income. If this amount is zero, write 0 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include at this label any of the exempt payments listed at label B ."
+    },
+    {
+      "type": "paragraph",
+      "text": "At A , write your spouse's reportable superannuation contributions. Reportable superannuation contributions are the sum of reportable employer superannuation contributions and deductible personal superannuation contributions (see question D12 Personal superannuation contributions 2016 ). If this amount is zero, write 0 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the reportable employer superannuation contributions amounts shown on your spouse's payment summaries."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your spouse claimed a deduction for personal superannuation contributions at item D12 on their tax return (supplementary section), add the deduction amount to the result from step 1."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write your spouse's reportable superannuation contributions amount at A ."
+    },
+    {
+      "type": "paragraph",
+      "text": "At B , write the amount of the following tax-free government pensions your spouse received for the income year (do not include these at Q above):"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a special rate disability pension under Part 6 of Chapter 4 of the Military Rehabilitation and Compensation Act 2004",
+        "a payment of compensation under section 68, 71 or 75 of the Military Rehabilitation and Compensation Act 2004",
+        "a payment of the weekly amount mentioned in paragraph 234(1)(b) of the Military Rehabilitation and Compensation Act 2004 .",
+        "a pension for defence, peacekeeping or war-caused death or incapacity or any other pension granted under Part II or Part IV of the Veterans' Entitlements Act 1986",
+        "income support supplement paid under Part IIIA of the Veterans' Entitlements Act 1986",
+        "Defence Force Income Support Allowance paid under Part VIIAB of the Veterans' Entitlements Act 1986"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If this amount is zero, write 0 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "At C , write the target foreign income your spouse received during the income year. Your spouse's target foreign income is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "any income amount earned, derived or received from sources outside Australia for your spouse's own use or benefit that is neither included in your spouse's taxable income nor received in the form of a fringe benefit, or",
+        "periodic payments or benefits by way of gifts or allowances from a source outside Australia that are neither included in your spouse's taxable income nor received in the form of a fringe benefit."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "It includes any foreign income that is not taxable in Australia. You must include any exempt foreign employment income shown at N item 20 on your spouse's tax return (supplementary section). All foreign income must be converted to Australian dollars before you complete this label. If this amount is zero, write 0 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "At D , write your spouse's total net investment loss. Your spouse's total net investment loss is the sum of any net financial investment loss and any net rental property loss. If this amount is zero, write 0 . The information and worksheets at questions IT5 and IT6 will help you to complete this label."
+    },
+    {
+      "type": "paragraph",
+      "text": "At E , write the total amount of child support your spouse provided to another person. The amount of child support provided is the total amount of any payments or benefits that your spouse was required to pay or provide to another person to maintain their natural or adopted child. However, you do not count any payments or benefits made or provided to you by your spouse unless you live apart on a permanent or indefinite basis. If this amount is zero, write 0 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "At F , write the superannuation lump sum that you included at (k) in worksheet 1 for item M2 Medicare levy surcharge 2016 , if it was part of your spouse's taxable income. If this amount is zero, write 0 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not consent to use part or all of your 2016 tax refund to repay any Family Assistance debt of your spouse, print X in the No box. You have finished this section."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do consent, read below."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer yes to this question only if all of the following apply to you."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You were the spouse of a family tax benefit (FTB) claimant or the spouse of a child care benefit claimant on 30 June 2016 and your income was taken into account in their claim.",
+        "Your spouse has given you authority to quote their customer reference number (CRN) on your tax return (if your spouse does not know their CRN, they can contact the Department of Human Services).",
+        "Your spouse has a Family Assistance debt due to the Department of Human Services or expects to have a Family Assistance debt for 2016.",
+        "You expect to receive a tax refund for 2016.",
+        "You consent to use part or all of your refund to repay your spouse's Family Assistance debt."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you consent, print X in the Yes box. You must complete your spouse's CRN at Z , and sign and date the consent."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Checklist - tax return 2016",
+        "Individual tax return instructions 2016",
+        "IT8 Number of dependent children 2016"
+      ]
+    }
+  ],
+  "content_text": "Your spouse includes another person (of any gender) who:\n- you were in a relationship with that was registered under a prescribed state or territory law\n- although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple.\nYou must complete this section if you had a spouse during 2015-16.\n## In 2015-16, did you have a spouse?\nNo | Go to Checklist - tax return 2016 , or return to main menu Individual tax return instructions 2016\nYes | Read on.\nIf your spouse's income for any of the labels below is zero, you must write 0 at those items on your tax return.\n## Answering this question\nYou will need:\n- your spouse's PAYG payment summary - individual non-business\n- the relevant distribution statements, if any, for trust income and family trust distribution tax\n- if your spouse had child support obligations, the details of the amount of child support they paid (your spouse can get this information from the Department of Human Services)\n- if your spouse received foreign income, the details of the amount of foreign income received\n- if your spouse had financial investment losses, the net financial investment loss amount\n- if your spouse had rental property losses, the net rental property loss amount\n- if your spouse has claimed a deduction for personal superannuation contributions, the details of the amount claimed.\nIf you had more than one spouse during 2015-16, complete this section with the details for your spouse on 30 June 2016, or for your last spouse during 2015-16.\n## Completing your tax return\n### Step 1\nPrint your spouse's name in the boxes provided on page 8 of your tax return.\n### Step 2\nWrite your spouse's date of birth at K and print X in the relevant box for your spouse's gender.\n### Step 3\nIf you had a spouse for the full year, 1 July 2015 to 30 June 2016, print X in the Yes box at L .\nIf you did not have a spouse for the full year, print X in the No box at L and write the dates you had a spouse between 1 July 2015 and 30 June 2016 at M and N .\nIf your spouse died during 2015–16 and you did not have another spouse before 30 June 2016, print X in the Yes box to the right of 'Did your spouse die during the year?' This information is used to calculate your M2 Medicare levy surcharge 2016 and T5 Total net medical expenses 2016 .\n### Step 4\nIf you had a spouse during 2015–16, follow the instructions below. You must complete labels O to F .\nAt O , write your spouse's 2015–16 taxable income. If this amount is zero or a loss, write 0 . This amount can usually be obtained from your spouse's tax return or notice of assessment. If your spouse does not have to lodge a tax return, provide an estimate of their taxable income.\nAt T , write any amount of net income of a trust that the trustee was liable to pay tax on because your spouse was under a legal disability, for example, they were:\n- a bankrupt\n- a person who was declared legally incapable because of a mental condition, or\n- under 18 years old on 30 June 2016.\nDo not include any amount that has already been included in your spouse's taxable income, for example, at O . If this amount is zero, write 0 . Check the trust distribution statements.\nAt U , write the total distributions to your spouse on which family trust distribution tax has been paid which they would have had to show as assessable income if the tax had not been paid. If this amount is zero, write 0 . Check the trust distribution statements.\nAt S , write the total of the reportable fringe benefits amounts shown on your spouse's payment summaries. If this amount is zero, write 0 .\nAt P , write the amount of Australian Government pensions and allowances that your spouse received in 2015–16 (not including exempt pension income). If this amount is zero, write 0 . Australian Government pensions and allowances are listed at question 6 Australian Government pensions and allowances 2016 .\nAt Q , write the amount of any of the following exempt pension income that your spouse received in 2015–16:\n- Disability support pension paid under Part 2.3 of Social Security Act 1991\n- Wife Pension paid under Part 2.4 of Social Security Act 1991\n- Carer Payment paid under Part 2.5 of Social Security Act 1991\n- Invalidity service pension paid under Division 4 of Part III of the Veterans' Entitlements Act 1986 ; and\n- Partner service pension paid under Division 5 of Part III of the Veterans' Entitlements Act 1986 .\nMake sure you include only your spouse's exempt pension income. If this amount is zero, write 0 .\nDo not include at this label any of the exempt payments listed at label B .\nAt A , write your spouse's reportable superannuation contributions. Reportable superannuation contributions are the sum of reportable employer superannuation contributions and deductible personal superannuation contributions (see question D12 Personal superannuation contributions 2016 ). If this amount is zero, write 0 .\nStep 1\nAdd up the reportable employer superannuation contributions amounts shown on your spouse's payment summaries.\nStep 2\nIf your spouse claimed a deduction for personal superannuation contributions at item D12 on their tax return (supplementary section), add the deduction amount to the result from step 1.\nStep 3\nWrite your spouse's reportable superannuation contributions amount at A .\nAt B , write the amount of the following tax-free government pensions your spouse received for the income year (do not include these at Q above):\n- a special rate disability pension under Part 6 of Chapter 4 of the Military Rehabilitation and Compensation Act 2004\n- a payment of compensation under section 68, 71 or 75 of the Military Rehabilitation and Compensation Act 2004\n- a payment of the weekly amount mentioned in paragraph 234(1)(b) of the Military Rehabilitation and Compensation Act 2004 .\n- a pension for defence, peacekeeping or war-caused death or incapacity or any other pension granted under Part II or Part IV of the Veterans' Entitlements Act 1986\n- income support supplement paid under Part IIIA of the Veterans' Entitlements Act 1986\n- Defence Force Income Support Allowance paid under Part VIIAB of the Veterans' Entitlements Act 1986\nIf this amount is zero, write 0 .\nAt C , write the target foreign income your spouse received during the income year. Your spouse's target foreign income is:\n- any income amount earned, derived or received from sources outside Australia for your spouse's own use or benefit that is neither included in your spouse's taxable income nor received in the form of a fringe benefit, or\n- periodic payments or benefits by way of gifts or allowances from a source outside Australia that are neither included in your spouse's taxable income nor received in the form of a fringe benefit.\nIt includes any foreign income that is not taxable in Australia. You must include any exempt foreign employment income shown at N item 20 on your spouse's tax return (supplementary section). All foreign income must be converted to Australian dollars before you complete this label. If this amount is zero, write 0 .\nAt D , write your spouse's total net investment loss. Your spouse's total net investment loss is the sum of any net financial investment loss and any net rental property loss. If this amount is zero, write 0 . The information and worksheets at questions IT5 and IT6 will help you to complete this label.\nAt E , write the total amount of child support your spouse provided to another person. The amount of child support provided is the total amount of any payments or benefits that your spouse was required to pay or provide to another person to maintain their natural or adopted child. However, you do not count any payments or benefits made or provided to you by your spouse unless you live apart on a permanent or indefinite basis. If this amount is zero, write 0 .\nAt F , write the superannuation lump sum that you included at (k) in worksheet 1 for item M2 Medicare levy surcharge 2016 , if it was part of your spouse's taxable income. If this amount is zero, write 0 .\n### Step 5\nIf you do not consent to use part or all of your 2016 tax refund to repay any Family Assistance debt of your spouse, print X in the No box. You have finished this section.\nIf you do consent, read below.\nAnswer yes to this question only if all of the following apply to you.\n- You were the spouse of a family tax benefit (FTB) claimant or the spouse of a child care benefit claimant on 30 June 2016 and your income was taken into account in their claim.\n- Your spouse has given you authority to quote their customer reference number (CRN) on your tax return (if your spouse does not know their CRN, they can contact the Department of Human Services).\n- Your spouse has a Family Assistance debt due to the Department of Human Services or expects to have a Family Assistance debt for 2016.\n- You expect to receive a tax refund for 2016.\n- You consent to use part or all of your refund to repay your spouse's Family Assistance debt.\nIf you consent, print X in the Yes box. You must complete your spouse's CRN at Z , and sign and date the consent.\n## Where to go next\n- Checklist - tax return 2016\n- Individual tax return instructions 2016\n- IT8 Number of dependent children 2016",
+  "child_links": [],
+  "word_count": 1657,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

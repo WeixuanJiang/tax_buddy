@@ -1,0 +1,301 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/income/sole-trader-and-business-income-or-losses-and-partnership-or-trust-distributions/business-income-or-losses/business-income-and-expenses/expenses/cost-of-sales",
+  "title": "Cost of sales",
+  "description": "",
+  "nat_number": "",
+  "quick_code": "80388",
+  "date_updated": "2018-06-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Goods taken for your own use should not be accounted for as stock on hand at 30 June 2017. Include at Other business income the value of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "livestock killed for rations",
+        "livestock exchanged for other goods or services",
+        "goods taken for your own use."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "MyTax will work out your Cost of sales from the information you provide."
+    },
+    {
+      "type": "paragraph",
+      "text": "Select the Closing stock value type :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "C: cost",
+        "M : market selling value",
+        "R: replacement value."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign resident withholding expenses (excluding capital gains)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enter your total non-primary production expenses directly related to income subject to foreign resident withholding (excluding capital gains). You will not have any primary production amounts here."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Contractor, sub-contractor and commission expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "These are expenses for labour and services provided under contract, other than salaries or wages, for example:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "payments to self-employed people, such as consultants and contractors, including payments subject to a PAYG voluntary agreement to withhold, and payments made under a labour-hire arrangement",
+        "commissions paid to people not receiving a retainer",
+        "agency fees, for example, for services provided by an advertising agency",
+        "service fees, for example, plant service",
+        "management fees",
+        "consultant fees."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include the following at this field:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "expenses for external labour which have been included in the business cost of sales account",
+        "expenses for accounting or legal services; include these at All other expenses ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Superannuation expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you made superannuation contributions on behalf of eligible employees or their dependants as a business expense, enter the superannuation expenses for the income year. Do not include any amount that was a contribution for yourself. The deduction for your own superannuation contributions must be claimed at Personal super contributions on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Employers are entitled to a deduction for the contributions they made to a complying superannuation, provident, benefit or retirement fund or retirement savings account (RSA) where the contributions are to provide superannuation benefits for employees or to provide benefits to the employee’s dependants on the employee’s death. A deduction is allowable in the income year in which the contributions are made."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contributions made to a non-complying fund:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "are not allowable as a deduction, and",
+        "do not count towards superannuation guarantee obligations."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can check the compliance status of superannuation funds at superfundlookup.gov.au External Link . Under the superannuation guarantee, an employer needs to provide a minimum level of superannuation for employees. If the employer does not make the minimum contribution by the relevant date, the employer is required to pay the superannuation guarantee charge on the superannuation guarantee shortfall. The superannuation guarantee charge is not a superannuation contribution and is not tax deductible. Contributions made by employers to offset a superannuation guarantee charge liability are not deductible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contributions paid by an employer to a non-complying superannuation fund on behalf of an employee are generally fringe benefits (other than where the contributions are made for a temporary resident) and may be subject to tax under the Fringe Benefits Tax Assessment Act 1986 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is no age-related limit on deductions for contributions made on or before the 28th day following the end of the month in which the employee turns 75. However, the employee may be liable to pay additional tax if their concessional contributions exceed their concessional contributions cap."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Super contributions – too much can mean extra tax ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For contributions made after the 28th day following the end of the month of the employee’s 75th birthday, the deduction claimable is limited to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the amount of the contribution required under an industrial award, determination or notional agreement preserving State awards, or",
+        "the amount of the contribution that reduces an employer's charge percentage under the Superannuation Guarantee (Administration) Act 1992 in respect of the employee, or",
+        "where both amounts are applicable, the greater of the two amounts is to be applied."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bad debts"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you wrote off any bad debts in your business include income from the recovery of bad debts at Other business income ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You are not allowed a deduction for bad debts unless you have previously included the amount in your assessable income and it relates to money you lent in the ordinary course of a money-lending business or it represents a business loss or outgoing of a revenue nature."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before you can claim a bad debt, it must be bad and not merely doubtful. The question of whether a debt is a bad debt will depend on the facts in each case and, where applicable, the action taken for recovery."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include accounting provisions for doubtful debts. You include them at All other expenses , then add them back at Expense reconciliation adjustments in the Business reconciliation items section."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also Taxation Ruling TR 92/18 Income tax: bad debts."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also claim a deduction for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "partial debt write-offs; where only part of a debt is bad and is written off, you may claim a deduction for the amount written off",
+        "losses incurred for debt written off under a debt-for-equity swap where you discharge, release or otherwise extinguish the whole or part of a debt owed to you in return for equity in the debtor."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In the case of a debt-for-equity swap, you can claim a deduction for the difference between the amount of the debt and the greater of the market value of the equity at the time of issue or the value of the equity recorded in your books at the time of issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Records you need to keep"
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep a statement for all debtors whose bad debts you wrote off during the year, showing:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "their name and address",
+        "the amount of the debt",
+        "the reason you regarded the debt as bad",
+        "where applicable, the year that you returned the amount as income."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lease expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is expenditure incurred on financial leases and on operating leases for assets such as motor vehicles and plant. Do not include the cost of leasing real estate (show this cost at Rent expenses ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you include capital expenditure incurred to terminate a lease or licence you will need to add back the amount at Expense reconciliation adjustments . Although capital expenditure to terminate a lease or licence is not deductible in one year, a five-year straight-line write-off may be allowable (see section 25–110 of the ITAA 1997) for certain capital expenditure incurred to terminate a lease or licence if the expenditure is incurred in the course of carrying on a business, or in connection with ceasing to carry on a business. See worksheet 4 and note 3 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "In some circumstances, lease expenses may be debt deductions for the purposes of the thin capitalisation rules."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you include an amount of lease expense which is not allowable as a deduction, such as amounts disallowed under the thin capitalisation rules, you will need to add back the amount at Expense reconciliation adjustments ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expenses incurred under a hire purchase agreement are not lease expenses. Such expenses are included at Expense reconciliation adjustments ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Special rules apply to leased cars if the cost of the car exceeds the car limit that applies for the financial year in which the lease commences. The car limit for 2017–18 is $57,581."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you lease a car that is subject to the special rules, the reconciliation between the lease expense and the tax treatment is carried out at Expense reconciliation adjustments . For more information, see Luxury car leasing ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Records you need to keep"
+    },
+    {
+      "type": "paragraph",
+      "text": "List the assets leased and keep full details of the leasing expenses for each item, including motor vehicles, and details of any private use. Leasing expenses of certain cars fall under the substantiation rules."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rent expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is expenditure you incurred as a tenant for rental of land and buildings used in the production of income. Include the cost of leasing real estate."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interest expenses within Australia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include interest you incurred on money borrowed within Australia to acquire income-producing assets used in your business, to finance business operations or to meet current business expenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include interest incurred in deriving rental income. Claim this at Rent on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you include an amount of interest which is not allowable as a deduction, such as amounts denied by the thin capitalisation rules, you will need to add back the amount at Expense reconciliation adjustments ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interest expenses overseas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include any interest incurred on money borrowed from overseas sources to acquire income-producing assets used in your business, to finance business operations or to meet current business expenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include interest incurred in deriving rental income. Claim this at Rent on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, you are required to withhold an amount of withholding tax from interest paid or payable to non-residents and from interest derived by a resident through an overseas branch. You must send these amounts to us. You cannot deduct an interest expense if you were required to withhold tax on that interest and you failed to do so."
+    },
+    {
+      "type": "paragraph",
+      "text": "For information on the tax treatment of interest paid to non-residents, phone 13 28 66 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you include an amount of interest which is not allowable as a deduction, such as amounts denied by the thin capitalisation rules, you will need to add back the amount at Expense reconciliation adjustments ."
+    }
+  ],
+  "content_text": "Goods taken for your own use should not be accounted for as stock on hand at 30 June 2017. Include at Other business income the value of:\n- livestock killed for rations\n- livestock exchanged for other goods or services\n- goods taken for your own use.\nMyTax will work out your Cost of sales from the information you provide.\nSelect the Closing stock value type :\n- C: cost\n- M : market selling value\n- R: replacement value.\nForeign resident withholding expenses (excluding capital gains)\nEnter your total non-primary production expenses directly related to income subject to foreign resident withholding (excluding capital gains). You will not have any primary production amounts here.\n## Contractor, sub-contractor and commission expenses\nThese are expenses for labour and services provided under contract, other than salaries or wages, for example:\n- payments to self-employed people, such as consultants and contractors, including payments subject to a PAYG voluntary agreement to withhold, and payments made under a labour-hire arrangement\n- commissions paid to people not receiving a retainer\n- agency fees, for example, for services provided by an advertising agency\n- service fees, for example, plant service\n- management fees\n- consultant fees.\nDo not include the following at this field:\n- expenses for external labour which have been included in the business cost of sales account\n- expenses for accounting or legal services; include these at All other expenses .\n## Superannuation expenses\nIf you made superannuation contributions on behalf of eligible employees or their dependants as a business expense, enter the superannuation expenses for the income year. Do not include any amount that was a contribution for yourself. The deduction for your own superannuation contributions must be claimed at Personal super contributions on your tax return.\nEmployers are entitled to a deduction for the contributions they made to a complying superannuation, provident, benefit or retirement fund or retirement savings account (RSA) where the contributions are to provide superannuation benefits for employees or to provide benefits to the employee’s dependants on the employee’s death. A deduction is allowable in the income year in which the contributions are made.\nContributions made to a non-complying fund:\n- are not allowable as a deduction, and\n- do not count towards superannuation guarantee obligations.\nYou can check the compliance status of superannuation funds at superfundlookup.gov.au External Link . Under the superannuation guarantee, an employer needs to provide a minimum level of superannuation for employees. If the employer does not make the minimum contribution by the relevant date, the employer is required to pay the superannuation guarantee charge on the superannuation guarantee shortfall. The superannuation guarantee charge is not a superannuation contribution and is not tax deductible. Contributions made by employers to offset a superannuation guarantee charge liability are not deductible.\nContributions paid by an employer to a non-complying superannuation fund on behalf of an employee are generally fringe benefits (other than where the contributions are made for a temporary resident) and may be subject to tax under the Fringe Benefits Tax Assessment Act 1986 .\nThere is no age-related limit on deductions for contributions made on or before the 28th day following the end of the month in which the employee turns 75. However, the employee may be liable to pay additional tax if their concessional contributions exceed their concessional contributions cap.\nSee also:\n- Super contributions – too much can mean extra tax .\nFor contributions made after the 28th day following the end of the month of the employee’s 75th birthday, the deduction claimable is limited to:\n- the amount of the contribution required under an industrial award, determination or notional agreement preserving State awards, or\n- the amount of the contribution that reduces an employer's charge percentage under the Superannuation Guarantee (Administration) Act 1992 in respect of the employee, or\n- where both amounts are applicable, the greater of the two amounts is to be applied.\n## Bad debts\nIf you wrote off any bad debts in your business include income from the recovery of bad debts at Other business income .\nYou are not allowed a deduction for bad debts unless you have previously included the amount in your assessable income and it relates to money you lent in the ordinary course of a money-lending business or it represents a business loss or outgoing of a revenue nature.\nBefore you can claim a bad debt, it must be bad and not merely doubtful. The question of whether a debt is a bad debt will depend on the facts in each case and, where applicable, the action taken for recovery.\nDo not include accounting provisions for doubtful debts. You include them at All other expenses , then add them back at Expense reconciliation adjustments in the Business reconciliation items section.\nSee also Taxation Ruling TR 92/18 Income tax: bad debts.\nYou can also claim a deduction for:\n- partial debt write-offs; where only part of a debt is bad and is written off, you may claim a deduction for the amount written off\n- losses incurred for debt written off under a debt-for-equity swap where you discharge, release or otherwise extinguish the whole or part of a debt owed to you in return for equity in the debtor.\nIn the case of a debt-for-equity swap, you can claim a deduction for the difference between the amount of the debt and the greater of the market value of the equity at the time of issue or the value of the equity recorded in your books at the time of issue.\nRecords you need to keep\nKeep a statement for all debtors whose bad debts you wrote off during the year, showing:\n- their name and address\n- the amount of the debt\n- the reason you regarded the debt as bad\n- where applicable, the year that you returned the amount as income.\n## Lease expenses\nThis is expenditure incurred on financial leases and on operating leases for assets such as motor vehicles and plant. Do not include the cost of leasing real estate (show this cost at Rent expenses .\nIf you include capital expenditure incurred to terminate a lease or licence you will need to add back the amount at Expense reconciliation adjustments . Although capital expenditure to terminate a lease or licence is not deductible in one year, a five-year straight-line write-off may be allowable (see section 25–110 of the ITAA 1997) for certain capital expenditure incurred to terminate a lease or licence if the expenditure is incurred in the course of carrying on a business, or in connection with ceasing to carry on a business. See worksheet 4 and note 3 .\nIn some circumstances, lease expenses may be debt deductions for the purposes of the thin capitalisation rules.\nIf you include an amount of lease expense which is not allowable as a deduction, such as amounts disallowed under the thin capitalisation rules, you will need to add back the amount at Expense reconciliation adjustments .\nExpenses incurred under a hire purchase agreement are not lease expenses. Such expenses are included at Expense reconciliation adjustments .\nSpecial rules apply to leased cars if the cost of the car exceeds the car limit that applies for the financial year in which the lease commences. The car limit for 2017–18 is $57,581.\nIf you lease a car that is subject to the special rules, the reconciliation between the lease expense and the tax treatment is carried out at Expense reconciliation adjustments . For more information, see Luxury car leasing .\nRecords you need to keep\nList the assets leased and keep full details of the leasing expenses for each item, including motor vehicles, and details of any private use. Leasing expenses of certain cars fall under the substantiation rules.\n## Rent expenses\nThis is expenditure you incurred as a tenant for rental of land and buildings used in the production of income. Include the cost of leasing real estate.\n## Interest expenses within Australia\nInclude interest you incurred on money borrowed within Australia to acquire income-producing assets used in your business, to finance business operations or to meet current business expenses.\nDo not include interest incurred in deriving rental income. Claim this at Rent on your tax return.\nIf you include an amount of interest which is not allowable as a deduction, such as amounts denied by the thin capitalisation rules, you will need to add back the amount at Expense reconciliation adjustments .\n## Interest expenses overseas\nInclude any interest incurred on money borrowed from overseas sources to acquire income-producing assets used in your business, to finance business operations or to meet current business expenses.\nDo not include interest incurred in deriving rental income. Claim this at Rent on your tax return.\nGenerally, you are required to withhold an amount of withholding tax from interest paid or payable to non-residents and from interest derived by a resident through an overseas branch. You must send these amounts to us. You cannot deduct an interest expense if you were required to withhold tax on that interest and you failed to do so.\nFor information on the tax treatment of interest paid to non-residents, phone 13 28 66 .\nIf you include an amount of interest which is not allowable as a deduction, such as amounts denied by the thin capitalisation rules, you will need to add back the amount at Expense reconciliation adjustments .",
+  "child_links": [],
+  "word_count": 1569,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,785 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2011/tax-return/tax-offset-questions-t1-t5/t1-spouse-without-dependent-child-or-student-child-housekeeper-or-housekeeper-2011",
+  "title": "About question T1",
+  "description": "Provides definitions which will help you determine whether you are eligible for this tax offset.",
+  "nat_number": "976",
+  "quick_code": "25477",
+  "date_updated": "2011-06-28T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, tax offset, spouse, child-housekeeper, housekeeper without dependent child, without student",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "The following definitions will help you determine whether you are eligible for this tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your 'spouse' includes another person (whether of the same sex or opposite sex) who:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were in a relationship with that was registered under a prescribed state or territory law",
+        "although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A housekeeper is someone who kept house for you full time and also cared for your dependent children, students or invalid relatives, or your dependent spouse who received a disability support pension."
+    },
+    {
+      "type": "paragraph",
+      "text": "A child-housekeeper is your child who kept house for you full time. Your child includes your adopted child, stepchild, ex-nuptial child or child of your spouse. However a child who is a full-time student or a full-time employee is not considered to keep house full time. (See the full definition of child .)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Keeping house means more than simply child-minding or performing domestic duties. It includes having some responsibility for the general running of the household."
+    },
+    {
+      "type": "paragraph",
+      "text": "See an explanation of Adjusted taxable income (ATI) ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you have a dependent spouse, child-housekeeper or housekeeper for any part of the year?"
+        ],
+        [
+          "No",
+          "go to question T2 Senior Australians (includes age pensioners, service pensioners and self-funded retirees) , or return to main menu Tax return for individuals instructions ."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Shared care"
+    },
+    {
+      "type": "paragraph",
+      "text": "You had shared care if you, and your spouse if you had one, cared for your child for some of the income year, and someone else, such as a former spouse, cared for the child for the rest of the income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received family tax benefit (FTB) Part B as part of a shared-care arrangement, you will need to know your FTB shared-care percentage to calculate your spouse offset. Your FTB shared-care percentage is usually not the same as your 'Shared care percentage' which appears on correspondence you have received from the Family Assistance Office (FAO)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not know your FTB shared-care percentage , contact the FAO on 13 61 50 ."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a dependent spouse, read on. If you had a child-housekeeper, go to part B . If you had a housekeeper, go to part C . If you are claiming a combination of these tax offsets, work through the relevant parts in order."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part A - Dependent spouse"
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim this tax offset if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your adjusted taxable income (ATI) for 2010-11 was more than $150,000, or",
+        "your spouse's ATI for 2010-11 was $9,426 or more."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can work out your ATI or go to www .a to.gov.au/calculators to use the online income test calculator ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim a dependent spouse tax offset for any period in 2010-11 that you had a spouse and you met all these conditions:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you maintained your spouse; see What is maintaining a dependant?",
+        "your spouse was a resident; if you are not sure, read Are you an Australian resident?",
+        "you were a resident at any time during 2010-11",
+        "neither you nor your spouse (during any period they were your spouse) was eligible for family tax benefit (FTB) Part B or if one of you was eligible for it, you were eligible at the shared-care rate only",
+        "neither you nor your spouse (during any period they were your spouse) received parental leave pay."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your spouse's ATI for the period you can claim use Worksheet 1 - Working out a person's ATI for the relevant period ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The maximum spouse tax offset you can claim is $2,286."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are entitled to claim a dependent spouse tax offset, go to part A of Completing your tax return ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part B - Child-housekeeper"
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim this tax offset if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your adjusted taxable income (ATI) for 2010-11 was more than $150,000, or",
+        "you had a spouse for all of 2010-11 and the combined ATI of you and your spouse was more than $150,000, or",
+        "you had a spouse for only part of the year and the sum of the following is more than $150,000",
+        "your ATI your spouse's ATI for 2010-11 multiplied by the number of days they were your spouse divided by 365, or",
+        "you had a child-housekeeper for the whole year and their ATI for 2010-11 was $7,734 or more, or $9,210 or more if you had another dependent child or student."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can work out the ATI for you and your spouse or go to www.ato.gov.au/cal culators to use the online income test calculator ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim a child-housekeeper tax offset for any period in 2010-11 that you had a child-housekeeper and you met all these conditions:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you maintained your child-housekeeper; see What is maintaining a dependant?",
+        "your child-housekeeper was a resident; if you are not sure, read Are you an Australian resident?",
+        "you were a resident at any time in 2010-11",
+        "you were not eligible for a dependent spouse tax offset under part A",
+        "you were not eligible for FTB Part B or were eligible for it only at the shared-care rate",
+        "you were not receiving parental leave pay."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your spouse's ATI for the period you can claim use Worksheet 1 - Working out a person's ATI for the relevant period ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The maximum child-housekeeper tax offset you can claim is $1,863, or $2,232 if you had another dependent child or student."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are entitled to claim a child-housekeeper tax offset, go to part B of Completing your tax return ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part C - Housekeeper"
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim this tax offset if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your adjusted taxable income (ATI) for 2010-11 was more than $150,000, or",
+        "you had a spouse for all of 2010-11 and the combined ATI of you and your spouse was more than $150,000, or",
+        "you had a spouse for only part of the year and the sum of the following is more than $150,000",
+        "your ATI your spouse's ATI for 2010-11 multiplied by the number of days they were your spouse divided by 365."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can work out the ATI for you and your spouse or go to www.ato.gov.au/calculators to use the online income test calculator ."
+    },
+    {
+      "type": "paragraph",
+      "text": "A housekeeper is a person who worked full time keeping house for you and cared for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a child of yours under 21 years old, irrespective of the child's ATI",
+        "any other child under 21 years old who was your dependant and whose ATI for the period you maintained them was less than the total of $282 plus $28.92 for each week you maintained them (to work out your child's ATI for the period you can claim go to Worksheet 1 - Working out a person's ATI for the relevant period )",
+        "your invalid relative who was your dependant and for whom you can claim a dependant tax offset (if you are not sure, you will need to read question T10 Parent, spouse's parents or invalid relative in TaxPack 2011 supplement ), or",
+        "your spouse who received a disability support pension."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Keeping house means more than simply child-minding or performing domestic duties. It includes having some responsibility for the general running of the household."
+    },
+    {
+      "type": "paragraph",
+      "text": "You are eligible for the housekeeper tax offset for any period during which you had a housekeeper (who kept house for you wholly in Australia), provided you were an Australian resident at any time during 2010-11 and you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "did not have a spouse and were not",
+        "entitled to claim a child-housekeeper tax offset under part B eligible for FTB Part B or were eligible for it only at the shared-care rate, and receiving parental leave pay"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "or"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "had a spouse who received a disability support pension and you were not entitled to claim a child-housekeeper tax offset under part B"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "or"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "had a spouse who did not receive a disability support pension, and",
+        "you were not entitled to claim a dependent spouse tax offset under part A or a child-housekeeper tax offset under part B neither you nor your spouse were eligible for FTB Part B or were eligible for it only at the shared-care rate neither you nor your spouse received parental leave pay, and special circumstances applied; for example your spouse deserted you and your children, and you did not enter into a relationship that resulted in you having a new spouse you had a child with a severe mental disability who required constant attention your spouse suffered from an extended mental illness and was medically certified as being unable to take part in the care of your children."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Where you consider that special circumstances applied, you will need to complete this item and provide additional information. Print SCHEDULE OF ADDITIONAL INFORMATION - ITEM T1 PART C on the top of a separate sheet of paper, print your name, address and tax file number and explain your situation. Attach your schedule to page 3 of your tax return. Print X in the Yes box at Taxpayer's declaration question 2a on page 12 of your tax return. If we do not consider special circumstances applied, we will advise you."
+    },
+    {
+      "type": "paragraph",
+      "text": "The maximum housekeeper tax offset you can claim is $1,863, or $2,232 if you had more than one dependent child or student."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are entitled to claim a housekeeper tax offset, go to part C of Completing your tax return ."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "P art A - Dependent spouse"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are eligible to claim the dependent spouse tax offset, use worksheet 1 to work out the amount."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete worksheet 1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had more than one dependent spouse during the year you will need to go through the worksheet for each spouse."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 1"
+        ],
+        [
+          "Working out your dependent spouse tax offset"
+        ],
+        [
+          "If you had a dependent spouse for the whole year and neither of you were eligible for FTB Part B or received parental leave pay at any time during the year, write $2,286 at (d), then continue from there."
+        ],
+        [
+          "If you had a dependent spouse for only part of the year and neither of you were eligible for FTB Part B during that period, work out the number of days you had a spouse and multiply this number by $6.26. Write the amount at (a).",
+          "",
+          "$ (a)"
+        ],
+        [
+          "If you or your spouse were eligible for FTB Part B or parental leave pay at any time during the year, for the period you had a dependent spouse, work out the number of days that neither of you were eligible for FTB Part B or received parental leave pay. Multiply this number by $6.26. Write the amount at (b).",
+          "",
+          "$ (b)"
+        ],
+        [
+          "If you or your spouse were eligible for FTB Part B at a shared-care rate at any time during the year, work through (p) to (s) below for the period you had a dependent spouse. (If your FTB shared-care percentage changed during the year, work through (p) to (s) for each period it was different.)",
+          "",
+          ""
+        ],
+        [
+          "Work out the number of days that you or your spouse were eligible for FTB Part B at a shared-care rate and write the answer at (p).",
+          "(p)",
+          ""
+        ],
+        [
+          "Multiply the number of days from (p) by $6.26 and write the answer at (q).",
+          "$ (q)",
+          ""
+        ],
+        [
+          "Take your FTB shared-care percentage away from 100% and write the answer at (r).",
+          "% (r)",
+          ""
+        ],
+        [
+          "Multiply the amount from (q) by the percentage from (r) and write the answer at (s).",
+          "$ (s)",
+          ""
+        ],
+        [
+          "Write the amount from (s) at (c). If your FTB shared-care percentage changed during the year, add up the amounts from (s) and write the total at (c).",
+          "",
+          "$ (c)"
+        ],
+        [
+          "Add (a), (b) and (c). Write answer at (d). The amount at (d) is your maximum dependent spouse tax offset. It cannot be more than $2,286.",
+          "",
+          "$ (d)"
+        ],
+        [
+          "To calculate your spouse's ATI, you can use the worksheets or the online income test calculator at www.ato.g ov.au/calculators If your spouse's ATI for the period you are claiming the spouse tax offset was less than $286, the amount at (d) is your spouse tax offset. Write this amount at (f) and go to step 3. If your spouse's ATI was $286 or more for the period you are claiming a spouse tax offset, deduct $282 from their ATI and divide the remaining amount by 4. Round this down to the nearest dollar. Write the answer at (e).",
+          "",
+          "$ (e)"
+        ],
+        [
+          "Take (e) away from (d). Write the answer at (f).",
+          "",
+          "$ (f)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you also want to claim:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a child-housekeeper tax offset, go to part B of Answering this question , or",
+        "a housekeeper tax offset, go to part C of Answering this question ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Otherwise read on."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at (f) is your dependent spouse tax offset. Write this amount at P item T1 on page 5 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print S in the CLAIM TYPE box at the right of P item T1 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete the income test items IT1 to IT7 on page 8 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete Spouse details - married or de facto on pages 9-11 of your tax return. You need to complete O , S , Q , A , B , C , D and E on page 10."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "P art B - Child-housekeeper"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are eligible to claim a child-housekeeper tax offset, use worksheet 2 to work out your tax offset amount."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "To claim the child-housekeeper tax offset, you must first determine which column to use in worksheet 2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a child (other than the child-housekeeper) under 21 years old, or a student under 25 years old, whose ATI for the period you maintained them was equal to or more than the total of $282 plus $28.92 for each week you maintained them, do not count them as a dependant when completing this worksheet."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your child-housekeeper's ATI was less than $9,210 and you had:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "another dependent child under 21 years old, or",
+        "a student under 25 years old, and",
+        "their ATI for the period you maintained them was less than the total of $284 plus $28.92 for each week you maintained them, use column 2 ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the dependent child or student (who is not your child-housekeeper) was your dependant for only part of 2010-11, and their ATI was less than the total of $282 plus $28.92 for each week you maintained them, use the column 2 daily rate. Otherwise, use the column 1 daily rate."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you did not have another dependent child under 21 years old or student under 25 years old, and your child-housekeeper's ATI was"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "less than $7,734, use column 1",
+        "$7,734 or more, you don't qualify for the tax offset."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 2"
+        ],
+        [
+          "Working out your child-housekeeper tax offset"
+        ],
+        [
+          "",
+          "Column 1",
+          "Column 2"
+        ],
+        [
+          "No other dependent child or student",
+          "With another dependent child or student"
+        ],
+        [
+          "Daily rate",
+          "$5.10",
+          "$6.12"
+        ],
+        [
+          "If you had a child-housekeeper for the whole year and you were not eligible for FTB Part B and did not receive parental leave pay at any time during the year, write: $1,863 at (d) if you use column 1 , or $2,232 at (d) if you use column 2 . Then continue from there."
+        ],
+        [
+          "If you had a child-housekeeper for only part of the year and you were not eligible for FTB Part B and did not receive parental leave pay at any time during that period: work out how many days during the year you had a child-housekeeper multiply this number by the appropriate daily rate write the answer at (a) in the appropriate column.",
+          "$ (a)",
+          "$ (a)"
+        ],
+        [
+          "If you were eligible for FTB Part B or received parental leave pay at any time during the year: work out how many days during the year you had a child-housekeeper and you were not eligible for FTB Part B or did not receive parental leave pay multiply this number by the appropriate daily rate write the answer at (b) in the appropriate column.",
+          "$ (b)",
+          "$ (b)"
+        ],
+        [
+          "If you were eligible for FTB Part B at the shared-care rate at any time during the year, work through (p) to (s) below. (If your FTB shared-care percentage changed during the year, work through (p) to (s) for each period it was different.)",
+          "",
+          ""
+        ],
+        [
+          "Work out the number of days you had a child-housekeeper and you were eligible for FTB Part B at the shared-care rate. Write the answer at (p).",
+          "(p)",
+          "",
+          ""
+        ],
+        [
+          "Multiply the number of days from (p) by the appropriate daily rate. Write the answer at (q).",
+          "$ (q)",
+          "",
+          ""
+        ],
+        [
+          "Take your FTB shared-care percentage away from 100% and write the answer at (r).",
+          "% (r)",
+          "",
+          ""
+        ],
+        [
+          "Multiply the amount from (q) by the percentage from (r) and write the answer at (s).",
+          "$ (s)",
+          "",
+          ""
+        ],
+        [
+          "Write the amount from (s) at (c) in the appropriate column. If your FTB shared-care percentage changed during the year, add up the amounts from (s) and write the total at (c).",
+          "",
+          "$ (c)",
+          "$ (c)"
+        ],
+        [
+          "Add (a), (b) and (c). Write the answer at (d). The amount at (d) is your maximum child-housekeeper tax offset. It cannot be more than $1,863 if it is in column 1 or $2,232 if it is in column 2 .",
+          "$ (d)",
+          "$ (d)"
+        ],
+        [
+          "Write your child-housekeeper's ATI for the period you are claiming a child-housekeeper tax offset at V item T1 on page 5 of your tax return. Do not show cents. If your child-housekeeper did not have any ATI, write 0 . If your child-housekeeper's ATI was less than $286, the amount at (d) is your child-housekeeper tax offset. Write this amount at P item T1 on page 5 of your tax return, then go to step 4. If your child-housekeeper's ATI was $286 or more for the period you maintained them then deduct $282 from their ATI for the period you are claiming a child-housekeeper's tax offset and divide the amount remaining by 4. Write the answer in the appropriate column at (e).",
+          "$ (e)",
+          "$ (e)"
+        ],
+        [
+          "Take (e) away from (d). Write the answer in the appropriate column at (f).",
+          "$ (f)",
+          "$ (f)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you also want to claim a housekeeper tax offset go to part C of Answering this question ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otherwise add the amount at (f) from worksheet 2 to the amount at (f) from worksheet 1 if you used it."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write your total from step 2 at P item T1 on page 5 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print one of the following code letters in the CLAIM TYPE box at the right of P item T1 :"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "W",
+          "if you are claiming a child-housekeeper tax offset and you had no dependent child or student (you used column 1)"
+        ],
+        [
+          "H",
+          "if you are claiming a child-housekeeper tax offset and you had a dependent child or student (you used column 2)"
+        ],
+        [
+          "C",
+          "if you are claiming a spouse tax offset for part of the year and a child-housekeeper tax offset for another part of the year."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete the income test items IT1 to IT7 on page 8 of your tax return. If you had a spouse, you must also complete Spouse details - married or de facto on pages 9-10 of your tax return. You need to complete O , S , Q , A , B , C , D and E on page 10."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part C - Housekeeper"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are eligible to claim a housekeeper tax offset, use worksheet 3 to work out your tax offset amount."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete worksheet 3 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "To claim the housekeeper tax offset, you must first determine which column to use in worksheet 3 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 3"
+        ],
+        [
+          "Working out your housekeeper tax offset"
+        ],
+        [
+          "",
+          "Column 1",
+          "Column 2"
+        ],
+        [
+          "No dependent child or student",
+          "With a dependent child or student"
+        ],
+        [
+          "Daily rate",
+          "$5.10",
+          "$6.12"
+        ],
+        [
+          "If you are eligible for a housekeeper tax offset for the whole year and : neither you nor your spouse (during any period they were your spouse) were eligible for FTB Part B at any time during the year or your spouse received a disability support pension for the whole year then write $1,863 at (d) if you use column 1 or $2,232 if you use column 2 . Then continue from there."
+        ],
+        [
+          "If you are eligible for a housekeeper tax offset for the whole year but do not meet the above rules: work out the total number of days during the year that neither you nor your spouse (during any period they were your spouse) was eligible for FTB Part B or received parental leave pay, or either you or your spouse (during any period they were your spouse) was eligible for FTB Part B or received parental leave pay, but your spouse was receiving a disability support pension multiply the number of days by the appropriate daily rate write the answer at (a) in the appropriate column.",
+          "$ (a)",
+          "$ (a)"
+        ],
+        [
+          "If you are eligible for a housekeeper tax offset for only part of the year: work out the number of days during that part of the year that: neither you nor your spouse (during any period they were your spouse) was eligible for FTB Part B, or neither you nor your spouse (during any period they were your spouse) received parental leave pay, or either you or your spouse (during any period they were your spouse) was eligible for FTB Part B or received parental leave pay, but your spouse was receiving a disability support pension multiply the number of days by the appropriate daily rate write the answer at (b) in the appropriate column.",
+          "$ (b)",
+          "$ (b)"
+        ],
+        [
+          "If, for any period during the year, you did not have a spouse receiving a disability support pension and you are eligible for a housekeeper tax offset, work through (p) to (s) below. (If your FTB shared-care percentage changed during the year, work through (p) to (s) for each period it was different).",
+          "",
+          ""
+        ],
+        [
+          "Work out the number of days during that period that you or your spouse (during any period they were your spouse) was eligible for FTB Part B at a shared-care rate. Write the answer at (p).",
+          "(p)",
+          "",
+          ""
+        ],
+        [
+          "Multiply the number of days from (p) by the appropriate daily rate. Write the answer at (q).",
+          "$ (q)",
+          "",
+          ""
+        ],
+        [
+          "Take your FTB shared-care percentage away from 100% and write the answer at (r).",
+          "% (r)",
+          "",
+          ""
+        ],
+        [
+          "Multiply the amount from (q) by the percentage from (r) and write the answer at (s).",
+          "$ (s)",
+          "",
+          ""
+        ],
+        [
+          "Write the amount from (s) at (c) in the appropriate column. If your FTB shared-care percentage changed during the year, add up the amounts from (s) and write the total at (c).",
+          "",
+          "$ (c)",
+          "$ (c)"
+        ],
+        [
+          "Add (a), (b) and (c). Write the answer at (d). The amount at (d) is your housekeeper tax offset. It cannot be more than $1,863 in column 1 or $2,232 in column 2 .",
+          "$ (d)",
+          "$ (d)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add the amount at (d) from worksheet 3 to the amounts at (f) from worksheets 1 and 2 if you used them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write your total at P item T1 on page 5 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print one of the following code letters in the CLAIM TYPE box at the right of P item T1 :"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "W",
+          "if you are claiming a housekeeper tax offset and you had no dependent child or student"
+        ],
+        [
+          "H",
+          "if you are claiming a housekeeper tax offset and you had a dependent child or student"
+        ],
+        [
+          "C",
+          "if you are claiming a dependent spouse tax offset for part of the year and a child-housekeeper tax offset for another part of the year or a spouse tax offset and a housekeeper tax offset for the same period."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete the income test items IT1 to IT7 on page 8 of your tax return. If you had a spouse, you must also complete Spouse details - married or de facto on pages 9-10 of your tax return. You need to complete O , S , Q , A , B , C , D and E on page 10."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question T2 Senior Australians (includes age pensioners, service pensioners and self-funded retirees) return to main menu Tax return for individuals instructions , or go back to Taxable income or loss ."
+        ]
+      ]
+    }
+  ],
+  "content_text": "The following definitions will help you determine whether you are eligible for this tax offset.\nYour 'spouse' includes another person (whether of the same sex or opposite sex) who:\n- you were in a relationship with that was registered under a prescribed state or territory law\n- although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple.\nA housekeeper is someone who kept house for you full time and also cared for your dependent children, students or invalid relatives, or your dependent spouse who received a disability support pension.\nA child-housekeeper is your child who kept house for you full time. Your child includes your adopted child, stepchild, ex-nuptial child or child of your spouse. However a child who is a full-time student or a full-time employee is not considered to keep house full time. (See the full definition of child .)\nKeeping house means more than simply child-minding or performing domestic duties. It includes having some responsibility for the general running of the household.\nSee an explanation of Adjusted taxable income (ATI) .\nDid you have a dependent spouse, child-housekeeper or housekeeper for any part of the year?\nNo | go to question T2 Senior Australians (includes age pensioners, service pensioners and self-funded retirees) , or return to main menu Tax return for individuals instructions .\nYes | Read below.\n## Shared care\nYou had shared care if you, and your spouse if you had one, cared for your child for some of the income year, and someone else, such as a former spouse, cared for the child for the rest of the income year.\nIf you received family tax benefit (FTB) Part B as part of a shared-care arrangement, you will need to know your FTB shared-care percentage to calculate your spouse offset. Your FTB shared-care percentage is usually not the same as your 'Shared care percentage' which appears on correspondence you have received from the Family Assistance Office (FAO).\nIf you do not know your FTB shared-care percentage , contact the FAO on 13 61 50 .\n# Answering this question\nIf you had a dependent spouse, read on. If you had a child-housekeeper, go to part B . If you had a housekeeper, go to part C . If you are claiming a combination of these tax offsets, work through the relevant parts in order.\n## Part A - Dependent spouse\nYou cannot claim this tax offset if:\n- your adjusted taxable income (ATI) for 2010-11 was more than $150,000, or\n- your spouse's ATI for 2010-11 was $9,426 or more.\nYou can work out your ATI or go to www .a to.gov.au/calculators to use the online income test calculator .\nYou can claim a dependent spouse tax offset for any period in 2010-11 that you had a spouse and you met all these conditions:\n- you maintained your spouse; see What is maintaining a dependant?\n- your spouse was a resident; if you are not sure, read Are you an Australian resident?\n- you were a resident at any time during 2010-11\n- neither you nor your spouse (during any period they were your spouse) was eligible for family tax benefit (FTB) Part B or if one of you was eligible for it, you were eligible at the shared-care rate only\n- neither you nor your spouse (during any period they were your spouse) received parental leave pay.\nTo work out your spouse's ATI for the period you can claim use Worksheet 1 - Working out a person's ATI for the relevant period .\nThe maximum spouse tax offset you can claim is $2,286.\nIf you are entitled to claim a dependent spouse tax offset, go to part A of Completing your tax return .\n## Part B - Child-housekeeper\nYou cannot claim this tax offset if:\n- your adjusted taxable income (ATI) for 2010-11 was more than $150,000, or\n- you had a spouse for all of 2010-11 and the combined ATI of you and your spouse was more than $150,000, or\n- you had a spouse for only part of the year and the sum of the following is more than $150,000\n- your ATI your spouse's ATI for 2010-11 multiplied by the number of days they were your spouse divided by 365, or\n- you had a child-housekeeper for the whole year and their ATI for 2010-11 was $7,734 or more, or $9,210 or more if you had another dependent child or student.\nYou can work out the ATI for you and your spouse or go to www.ato.gov.au/cal culators to use the online income test calculator .\nYou can claim a child-housekeeper tax offset for any period in 2010-11 that you had a child-housekeeper and you met all these conditions:\n- you maintained your child-housekeeper; see What is maintaining a dependant?\n- your child-housekeeper was a resident; if you are not sure, read Are you an Australian resident?\n- you were a resident at any time in 2010-11\n- you were not eligible for a dependent spouse tax offset under part A\n- you were not eligible for FTB Part B or were eligible for it only at the shared-care rate\n- you were not receiving parental leave pay.\nTo work out your spouse's ATI for the period you can claim use Worksheet 1 - Working out a person's ATI for the relevant period .\nThe maximum child-housekeeper tax offset you can claim is $1,863, or $2,232 if you had another dependent child or student.\nIf you are entitled to claim a child-housekeeper tax offset, go to part B of Completing your tax return .\n## Part C - Housekeeper\nYou cannot claim this tax offset if:\n- your adjusted taxable income (ATI) for 2010-11 was more than $150,000, or\n- you had a spouse for all of 2010-11 and the combined ATI of you and your spouse was more than $150,000, or\n- you had a spouse for only part of the year and the sum of the following is more than $150,000\n- your ATI your spouse's ATI for 2010-11 multiplied by the number of days they were your spouse divided by 365.\nYou can work out the ATI for you and your spouse or go to www.ato.gov.au/calculators to use the online income test calculator .\nA housekeeper is a person who worked full time keeping house for you and cared for:\n- a child of yours under 21 years old, irrespective of the child's ATI\n- any other child under 21 years old who was your dependant and whose ATI for the period you maintained them was less than the total of $282 plus $28.92 for each week you maintained them (to work out your child's ATI for the period you can claim go to Worksheet 1 - Working out a person's ATI for the relevant period )\n- your invalid relative who was your dependant and for whom you can claim a dependant tax offset (if you are not sure, you will need to read question T10 Parent, spouse's parents or invalid relative in TaxPack 2011 supplement ), or\n- your spouse who received a disability support pension.\nKeeping house means more than simply child-minding or performing domestic duties. It includes having some responsibility for the general running of the household.\nYou are eligible for the housekeeper tax offset for any period during which you had a housekeeper (who kept house for you wholly in Australia), provided you were an Australian resident at any time during 2010-11 and you:\n- did not have a spouse and were not\n- entitled to claim a child-housekeeper tax offset under part B eligible for FTB Part B or were eligible for it only at the shared-care rate, and receiving parental leave pay\nor\n- had a spouse who received a disability support pension and you were not entitled to claim a child-housekeeper tax offset under part B\nor\n- had a spouse who did not receive a disability support pension, and\n- you were not entitled to claim a dependent spouse tax offset under part A or a child-housekeeper tax offset under part B neither you nor your spouse were eligible for FTB Part B or were eligible for it only at the shared-care rate neither you nor your spouse received parental leave pay, and special circumstances applied; for example your spouse deserted you and your children, and you did not enter into a relationship that resulted in you having a new spouse you had a child with a severe mental disability who required constant attention your spouse suffered from an extended mental illness and was medically certified as being unable to take part in the care of your children.\nWhere you consider that special circumstances applied, you will need to complete this item and provide additional information. Print SCHEDULE OF ADDITIONAL INFORMATION - ITEM T1 PART C on the top of a separate sheet of paper, print your name, address and tax file number and explain your situation. Attach your schedule to page 3 of your tax return. Print X in the Yes box at Taxpayer's declaration question 2a on page 12 of your tax return. If we do not consider special circumstances applied, we will advise you.\nThe maximum housekeeper tax offset you can claim is $1,863, or $2,232 if you had more than one dependent child or student.\nIf you are entitled to claim a housekeeper tax offset, go to part C of Completing your tax return .\n# Completing your tax return\n## P art A - Dependent spouse\nIf you are eligible to claim the dependent spouse tax offset, use worksheet 1 to work out the amount.\n### Step 1\nComplete worksheet 1 .\nIf you had more than one dependent spouse during the year you will need to go through the worksheet for each spouse.\nWorksheet 1\nWorking out your dependent spouse tax offset\nIf you had a dependent spouse for the whole year and neither of you were eligible for FTB Part B or received parental leave pay at any time during the year, write $2,286 at (d), then continue from there.\nIf you had a dependent spouse for only part of the year and neither of you were eligible for FTB Part B during that period, work out the number of days you had a spouse and multiply this number by $6.26. Write the amount at (a). |  | $ (a)\nIf you or your spouse were eligible for FTB Part B or parental leave pay at any time during the year, for the period you had a dependent spouse, work out the number of days that neither of you were eligible for FTB Part B or received parental leave pay. Multiply this number by $6.26. Write the amount at (b). |  | $ (b)\nIf you or your spouse were eligible for FTB Part B at a shared-care rate at any time during the year, work through (p) to (s) below for the period you had a dependent spouse. (If your FTB shared-care percentage changed during the year, work through (p) to (s) for each period it was different.) |  | \nWork out the number of days that you or your spouse were eligible for FTB Part B at a shared-care rate and write the answer at (p). | (p) | \nMultiply the number of days from (p) by $6.26 and write the answer at (q). | $ (q) | \nTake your FTB shared-care percentage away from 100% and write the answer at (r). | % (r) | \nMultiply the amount from (q) by the percentage from (r) and write the answer at (s). | $ (s) | \nWrite the amount from (s) at (c). If your FTB shared-care percentage changed during the year, add up the amounts from (s) and write the total at (c). |  | $ (c)\nAdd (a), (b) and (c). Write answer at (d). The amount at (d) is your maximum dependent spouse tax offset. It cannot be more than $2,286. |  | $ (d)\nTo calculate your spouse's ATI, you can use the worksheets or the online income test calculator at www.ato.g ov.au/calculators If your spouse's ATI for the period you are claiming the spouse tax offset was less than $286, the amount at (d) is your spouse tax offset. Write this amount at (f) and go to step 3. If your spouse's ATI was $286 or more for the period you are claiming a spouse tax offset, deduct $282 from their ATI and divide the remaining amount by 4. Round this down to the nearest dollar. Write the answer at (e). |  | $ (e)\nTake (e) away from (d). Write the answer at (f). |  | $ (f)\n### Step 2\nIf you also want to claim:\n- a child-housekeeper tax offset, go to part B of Answering this question , or\n- a housekeeper tax offset, go to part C of Answering this question .\nOtherwise read on.\n### Step 3\nThe amount at (f) is your dependent spouse tax offset. Write this amount at P item T1 on page 5 of your tax return.\n### Step 4\nPrint S in the CLAIM TYPE box at the right of P item T1 .\n### Step 5\nComplete the income test items IT1 to IT7 on page 8 of your tax return.\n### Step 6\nComplete Spouse details - married or de facto on pages 9-11 of your tax return. You need to complete O , S , Q , A , B , C , D and E on page 10.\n## P art B - Child-housekeeper\nIf you are eligible to claim a child-housekeeper tax offset, use worksheet 2 to work out your tax offset amount.\n### Step 1\nTo claim the child-housekeeper tax offset, you must first determine which column to use in worksheet 2 .\nIf you had a child (other than the child-housekeeper) under 21 years old, or a student under 25 years old, whose ATI for the period you maintained them was equal to or more than the total of $282 plus $28.92 for each week you maintained them, do not count them as a dependant when completing this worksheet.\nIf your child-housekeeper's ATI was less than $9,210 and you had:\n- another dependent child under 21 years old, or\n- a student under 25 years old, and\n- their ATI for the period you maintained them was less than the total of $284 plus $28.92 for each week you maintained them, use column 2 .\nIf the dependent child or student (who is not your child-housekeeper) was your dependant for only part of 2010-11, and their ATI was less than the total of $282 plus $28.92 for each week you maintained them, use the column 2 daily rate. Otherwise, use the column 1 daily rate.\nIf you did not have another dependent child under 21 years old or student under 25 years old, and your child-housekeeper's ATI was\n- less than $7,734, use column 1\n- $7,734 or more, you don't qualify for the tax offset.\nWorksheet 2\nWorking out your child-housekeeper tax offset\n | Column 1 | Column 2\nNo other dependent child or student | With another dependent child or student\nDaily rate | $5.10 | $6.12\nIf you had a child-housekeeper for the whole year and you were not eligible for FTB Part B and did not receive parental leave pay at any time during the year, write: $1,863 at (d) if you use column 1 , or $2,232 at (d) if you use column 2 . Then continue from there.\nIf you had a child-housekeeper for only part of the year and you were not eligible for FTB Part B and did not receive parental leave pay at any time during that period: work out how many days during the year you had a child-housekeeper multiply this number by the appropriate daily rate write the answer at (a) in the appropriate column. | $ (a) | $ (a)\nIf you were eligible for FTB Part B or received parental leave pay at any time during the year: work out how many days during the year you had a child-housekeeper and you were not eligible for FTB Part B or did not receive parental leave pay multiply this number by the appropriate daily rate write the answer at (b) in the appropriate column. | $ (b) | $ (b)\nIf you were eligible for FTB Part B at the shared-care rate at any time during the year, work through (p) to (s) below. (If your FTB shared-care percentage changed during the year, work through (p) to (s) for each period it was different.) |  | \nWork out the number of days you had a child-housekeeper and you were eligible for FTB Part B at the shared-care rate. Write the answer at (p). | (p) |  | \nMultiply the number of days from (p) by the appropriate daily rate. Write the answer at (q). | $ (q) |  | \nTake your FTB shared-care percentage away from 100% and write the answer at (r). | % (r) |  | \nMultiply the amount from (q) by the percentage from (r) and write the answer at (s). | $ (s) |  | \nWrite the amount from (s) at (c) in the appropriate column. If your FTB shared-care percentage changed during the year, add up the amounts from (s) and write the total at (c). |  | $ (c) | $ (c)\nAdd (a), (b) and (c). Write the answer at (d). The amount at (d) is your maximum child-housekeeper tax offset. It cannot be more than $1,863 if it is in column 1 or $2,232 if it is in column 2 . | $ (d) | $ (d)\nWrite your child-housekeeper's ATI for the period you are claiming a child-housekeeper tax offset at V item T1 on page 5 of your tax return. Do not show cents. If your child-housekeeper did not have any ATI, write 0 . If your child-housekeeper's ATI was less than $286, the amount at (d) is your child-housekeeper tax offset. Write this amount at P item T1 on page 5 of your tax return, then go to step 4. If your child-housekeeper's ATI was $286 or more for the period you maintained them then deduct $282 from their ATI for the period you are claiming a child-housekeeper's tax offset and divide the amount remaining by 4. Write the answer in the appropriate column at (e). | $ (e) | $ (e)\nTake (e) away from (d). Write the answer in the appropriate column at (f). | $ (f) | $ (f)\n### Step 2\nIf you also want to claim a housekeeper tax offset go to part C of Answering this question .\nOtherwise add the amount at (f) from worksheet 2 to the amount at (f) from worksheet 1 if you used it.\n### Step 3\nWrite your total from step 2 at P item T1 on page 5 of your tax return.\n### Step 4\nPrint one of the following code letters in the CLAIM TYPE box at the right of P item T1 :\nW | if you are claiming a child-housekeeper tax offset and you had no dependent child or student (you used column 1)\nH | if you are claiming a child-housekeeper tax offset and you had a dependent child or student (you used column 2)\nC | if you are claiming a spouse tax offset for part of the year and a child-housekeeper tax offset for another part of the year.\n### Step 5\nComplete the income test items IT1 to IT7 on page 8 of your tax return. If you had a spouse, you must also complete Spouse details - married or de facto on pages 9-10 of your tax return. You need to complete O , S , Q , A , B , C , D and E on page 10.\n## Part C - Housekeeper\nIf you are eligible to claim a housekeeper tax offset, use worksheet 3 to work out your tax offset amount.\n### Step 1\nComplete worksheet 3 .\nTo claim the housekeeper tax offset, you must first determine which column to use in worksheet 3 .\nWorksheet 3\nWorking out your housekeeper tax offset\n | Column 1 | Column 2\nNo dependent child or student | With a dependent child or student\nDaily rate | $5.10 | $6.12\nIf you are eligible for a housekeeper tax offset for the whole year and : neither you nor your spouse (during any period they were your spouse) were eligible for FTB Part B at any time during the year or your spouse received a disability support pension for the whole year then write $1,863 at (d) if you use column 1 or $2,232 if you use column 2 . Then continue from there.\nIf you are eligible for a housekeeper tax offset for the whole year but do not meet the above rules: work out the total number of days during the year that neither you nor your spouse (during any period they were your spouse) was eligible for FTB Part B or received parental leave pay, or either you or your spouse (during any period they were your spouse) was eligible for FTB Part B or received parental leave pay, but your spouse was receiving a disability support pension multiply the number of days by the appropriate daily rate write the answer at (a) in the appropriate column. | $ (a) | $ (a)\nIf you are eligible for a housekeeper tax offset for only part of the year: work out the number of days during that part of the year that: neither you nor your spouse (during any period they were your spouse) was eligible for FTB Part B, or neither you nor your spouse (during any period they were your spouse) received parental leave pay, or either you or your spouse (during any period they were your spouse) was eligible for FTB Part B or received parental leave pay, but your spouse was receiving a disability support pension multiply the number of days by the appropriate daily rate write the answer at (b) in the appropriate column. | $ (b) | $ (b)\nIf, for any period during the year, you did not have a spouse receiving a disability support pension and you are eligible for a housekeeper tax offset, work through (p) to (s) below. (If your FTB shared-care percentage changed during the year, work through (p) to (s) for each period it was different). |  | \nWork out the number of days during that period that you or your spouse (during any period they were your spouse) was eligible for FTB Part B at a shared-care rate. Write the answer at (p). | (p) |  | \nMultiply the number of days from (p) by the appropriate daily rate. Write the answer at (q). | $ (q) |  | \nTake your FTB shared-care percentage away from 100% and write the answer at (r). | % (r) |  | \nMultiply the amount from (q) by the percentage from (r) and write the answer at (s). | $ (s) |  | \nWrite the amount from (s) at (c) in the appropriate column. If your FTB shared-care percentage changed during the year, add up the amounts from (s) and write the total at (c). |  | $ (c) | $ (c)\nAdd (a), (b) and (c). Write the answer at (d). The amount at (d) is your housekeeper tax offset. It cannot be more than $1,863 in column 1 or $2,232 in column 2 . | $ (d) | $ (d)\n### Step 2\nAdd the amount at (d) from worksheet 3 to the amounts at (f) from worksheets 1 and 2 if you used them.\nWrite your total at P item T1 on page 5 of your tax return.\n### Step 3\nPrint one of the following code letters in the CLAIM TYPE box at the right of P item T1 :\nW | if you are claiming a housekeeper tax offset and you had no dependent child or student\nH | if you are claiming a housekeeper tax offset and you had a dependent child or student\nC | if you are claiming a dependent spouse tax offset for part of the year and a child-housekeeper tax offset for another part of the year or a spouse tax offset and a housekeeper tax offset for the same period.\n### Step 4\nComplete the income test items IT1 to IT7 on page 8 of your tax return. If you had a spouse, you must also complete Spouse details - married or de facto on pages 9-10 of your tax return. You need to complete O , S , Q , A , B , C , D and E on page 10.\nWhere to go next go to question T2 Senior Australians (includes age pensioners, service pensioners and self-funded retirees) return to main menu Tax return for individuals instructions , or go back to Taxable income or loss .",
+  "child_links": [],
+  "word_count": 4210,
+  "source_title": "About question T1 | Australian Taxation Office",
+  "source_description": "Provides definitions which will help you determine whether you are eligible for this tax offset.",
+  "category": "your-tax-return"
+}

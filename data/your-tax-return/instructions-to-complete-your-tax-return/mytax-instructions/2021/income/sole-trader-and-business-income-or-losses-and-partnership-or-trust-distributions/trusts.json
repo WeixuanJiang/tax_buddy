@@ -1,0 +1,523 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2021/income/sole-trader-and-business-income-or-losses-and-partnership-or-trust-distributions/trusts",
+  "title": "myTax 2021 Trusts",
+  "description": "How to complete the trusts section of your return using myTax.",
+  "nat_number": "",
+  "quick_code": "65621",
+  "date_updated": "2021-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "2021, income, trust, trust income, myTax, e-tax, online tax return, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This section relates to your distributions from trusts. Complete this section if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you received, or were entitled to income from a trust a credit for amounts of tax paid on, or amounts withheld from, trust income a share of the 'national rental affordability scheme' tax offset, or",
+        "you had an interest in a trust that made a loss from primary production."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your trust income is from a managed fund, you should show this information at Managed funds ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "A trust is not a separate taxable entity, but the trustee must lodge a tax return for the trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, the beneficiaries of the trust declare the amount of their entitlement to the trust's income in their own tax return. Then they pay tax on it, even if they didn’t actually receive the income."
+    },
+    {
+      "type": "paragraph",
+      "text": "An exception to this is, you don’t need to declare a trust distribution if family trust distribution tax has already been paid."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were entitled to an amount of trust income at 30 June 2021, you need to include your share of the net income of the trust in your 2020–21 tax return even if you did not receive an amount from the trust until after 30 June 2021."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of your share of the trust's net income (for tax purposes) may be different from the actual distribution which you receive or are entitled to receive from the trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your trustee should provide you with details about your share of the trust's net income or all of your trust entitlements."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are the principal beneficiary of a special disability trust you are considered to be entitled to all of the income of the trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Deductions for prepaid expenses",
+        "Withholding tax arrangements for managed investment trust fund payments – if you are a foreign resident"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Do not show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't show the following income or offsets at this section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Income from a public trading trust or a corporate unit trust, go to Dividends .",
+        "A capital gain from a trust (unless instructed otherwise), go to Capital gains or losses . If the trust income you received, or are entitled to, includes an amount described as tax-free, tax deferred, tax exempted or as a capital gains tax (CGT) concession, you should read the information on non-assessable payments in Guide to capital gains tax. Such amounts may be relevant in determining the amount of a net capital gain you show at Capital gains or losses or may affect the cost base of your unit or trust interest.",
+        "Any distribution in relation to a foreign resident capital gains withholding credit, go to Capital gains or losses .",
+        "Attributed foreign income from a trust (unless instructed otherwise), go to Foreign entities .",
+        "Any Australian franking credits from a New Zealand franking company, go to Other foreign income . Note you can't claim New Zealand imputation credits.",
+        "Any other foreign source income from a trust (unless instructed otherwise), go to Other foreign income .",
+        "Your entitlement to an early stage venture capital limited partnership (ESVCLP) tax offset as a beneficiary of a trust, go to Early stage venture capital limited partnership .",
+        "Your entitlement to an early stage investor tax offset as a beneficiary of a trust, go to Early stage investor .",
+        "Part of a distribution which relates to an amount of trust income on which family trust distribution tax has been paid, go to Amount on which family trust distribution tax has been paid .",
+        "Share of credits for tax paid by the trustee if you are the principal beneficiary of a special disability trust, go to Other refundable tax offsets ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete this section you will need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a statement of distribution or advice from the trustee",
+        "details of any expense and tax credit information ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your return to show trusts, at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You were a sole trader or had business income or losses, partnership or trust distributions (not from a managed fund)",
+        "Trusts"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your trust details, at Prepare return select 'Add/Edit' at the Business/sole trader, partnership and trust income (including loss details) banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Trusts banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Select Net trust income to expand the section.",
+        "Add up your share of trust income and deductions, and enter the total in the corresponding fields: The Depreciation and capital allowances tool can help you to work out any decline in value. It can also work out any deductible balancing adjustment when you stop holding a depreciating asset. Access this tool in the Deductions section on the Prepare return screen. Fields from this tool can't be adjusted in myTax. To make any adjustments, or to add new assets to the tool, select the 'Use the depreciation and capital allowances tool' link. Primary production Net income from trusts Other deductions myTax will automatically calculate the Net primary production amount. Non-primary production Net income from trusts, less capital gains, foreign income and franked distributions To enable us to work out your Income tests amounts, enter the following fields: Managed investment scheme amount (this is includes all investment income related to trusts) Remaining non-primary production trust amount Franked distributions from trusts To enable us to work out your Income tests amounts, enter the following fields: Franked distribution related to investments Remaining franked distribution amount Other deductions – If you show an amount at Other deductions, you need to show amounts in the two fields displayed when you enter Other deductions. To enable us to work out your Income tests amounts, enter the following fields: Managed investment scheme deductions (this includes all investment deductions related to trusts) Remaining trust deductions myTax will automatically calculate the Net non-primary production amount.",
+        "Add up your trust share of credits from income and tax offsets and enter the total in the corresponding fields: Tax withheld where Australian business number not quoted Franking credits from franked dividends – you can only claim a share of a franking credit which relates to the share of a franked dividend paid to a trust which is indirectly included in the amount of: trust income you show at Net income from trusts, less capital gains, foreign income and franked distributions franked distribution you show at Franked distributions from trusts . TFN amounts withheld from interest, dividends and unit trust distributions TFN amounts withheld from payments from closely held trusts Tax paid by trustee – If you show an amount at Tax paid by trustee, you will need to: select the Situation enter the Share of income and Tax credits . Credit for foreign resident withholding amounts (excluding capital gains) – include income you: received as an Australian resident where an amount of tax was withheld because of the imposition of non-resident withholding tax or managed investment trust withholding tax derived as a foreign resident from which an amount of tax was withheld because of the operation of the foreign resident withholding rules. National rental affordability scheme tax offset",
+        "Select Save .",
+        "Select Save and continue when you have completed the Business/sole trader, partnership and trust income (including loss details) section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If you received, or were entitled to trust income as a special professional you must also enter the amount of this taxable professional income in the Other income section. This includes income from activities as an author, an inventor, performing artist, production associate or active sportsperson.",
+        "You may be entitled to the small business income tax offset if either of the following apply: your share of net income included a share of net small business income you had a farm management repayment or other amount you received as a beneficiary in a small business entity."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Records you need to keep"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Statement of distribution or advice from the trustee"
+    },
+    {
+      "type": "paragraph",
+      "text": "A statement of distribution or advice from the trustee may show the following details in relation to your share trust net income for tax purposes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the amount of any primary production income or loss non-primary production income or loss",
+        "the amount of any franked distribution from a trust",
+        "the amount of net small business income from a small business entity trust",
+        "the amount of capital gains, attributed foreign income and other foreign source income",
+        "the amount of any income on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid",
+        "that you are a chosen beneficiary if you are the beneficiary of a discretionary primary production trust that has made a loss",
+        "your entitlement to any of the following credits or tax offsets credit for amounts of tax withheld because the trust failed to quote its Australian business number credit for amounts of tax withheld by the trustee of a closely held trust because you did not provide your TFN credit for amounts of tax withheld due to the imposition of non-resident withholding tax or managed investment trust withholding tax from trust income you received when you were a resident share of the 'national rental affordability scheme' tax offset allowable franking credits from franked dividends credit for tax file number amounts withheld credit for tax paid by the trustee."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Contact the trustee if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "have not received a statement of distribution or advice",
+        "think that any details are wrong or are missing from the statement of distribution or advice you received from the trust."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your statement of distribution or advice may show that your share of the trust's net capital gain is more than the overall amount of your share of the trust's net income (for tax purposes), for example because it shows a share of primary production or non-primary production loss. In this situation, there may be a limit to the amount of the net capital gain component that you exclude from Net income from trusts, less capital gains, foreign income and franked distributions and show at Capital gains or losses . For more information, see the Guide to capital gains tax ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Income information"
+    },
+    {
+      "type": "paragraph",
+      "text": "Find out about:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Primary production",
+        "Non-primary production"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Primary production"
+    },
+    {
+      "type": "paragraph",
+      "text": "Visit Primary production activities to learn more about who is a primary producer."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Net income from trusts"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensure that you include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your share of any primary production non-concessional managed investment trust income and",
+        "primary production excluded from non-concessional managed investment trust income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the trust made an overall loss for tax law purposes in 2020–21, the loss is retained in the trust. You will have no share of the net income of the trust. For more information, phone 13 28 61 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exception for primary producers – You may still be eligible for income averaging where the trust reports a loss. While beneficiaries of fixed trusts that report a loss continue to be eligible for income averaging, beneficiaries of discretionary trusts are now required to meet some additional requirements."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are an eligible beneficiary and you show nothing so far, enter 0 at Net income from trusts ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Non-primary production"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Net income from trusts, less capital gains, foreign income and franked distributions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensure that you include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your share of any non-primary production non-concessional managed investment trust income and",
+        "non-primary production excluded from non-concessional managed investment trust income is included."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the trust made an overall loss for tax law purposes in 2020–21, the loss is retained in the trust. You will have no share of the net income of the trust. For more information, phone 13 28 61 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expense and tax credit information"
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember, you can't claim a deduction:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "for amounts already claimed by the trust, or",
+        "for expenses incurred in deriving exempt income or non-assessable non-exempt income (for example, expenses incurred in deriving distributions on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were the beneficiary of a discretionary trust you cannot claim a deduction for expenses you incurred in relation to your share of any net income of the trust under the general deduction provisions. This is because at the time you incurred the expense, you were not entitled to any income of the trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you made a prepayment of $1,000 or more for something to be done (in whole or in part) in a future year, the amount you can deduct may be affected by the rules relating to prepayments. For more information on prepayments, see Deductions for prepaid expenses ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Find out about:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Primary production",
+        "Non-primary production",
+        "Franking credits",
+        "Tax paid by trustee"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Primary production"
+    },
+    {
+      "type": "paragraph",
+      "text": "Visit Primary production activities to learn more about who is a primary producer."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Other deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a trustee incurred eligible expenditure on landcare operations, water facilities, fencing assets or fodder storage assets, then only the trustee, not a beneficiary of the trust, can claim deductions for that expenditure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Include at Other deductions your share of Enter the total of any other deductions that you can claim in relation to your share of primary production income of a trust that you can claim this year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are the beneficiary of a discretionary trust you would not normally be able to claim a deduction for expenses you incurred in relation to your share of any net income of the trust under the general deduction provisions. This is because at the time you incurred the expense, you were not entitled to any income of the trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "Debt deductions (such as interest and borrowing costs) incurred in deriving assessable trust income may be affected by the thin capitalisation rules. These rules may apply if the total of your debt deductions and those of your associates are over $2 million for 2020–21. For more information, see Thin capitalisation ."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "For more information on deductions for expenditure on landcare operations, water facilities, fencing assets and fodder storage assets, see the Guide to depreciating assets",
+        "Deductions for prepaid expenses"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Non-primary production"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Other deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a trustee incurred eligible expenditure on landcare operations, only the trustee, not a beneficiary of the trust, can claim deductions for that expenditure."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are the beneficiary of a discretionary trust you would not normally be able to claim a deduction for expenses you incurred in relation to your share of any net income of the trust under the general deduction provisions. This is because at the time you incurred the expense, you would not have been entitled to any income of the trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "Include at Other deductions your share of any other deductions that relate to non-primary production income of a trust that you can claim this year, including deductions relating to franked distributions from trusts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Debt deductions (such as interest and borrowing costs) incurred in deriving assessable trust income may be affected by the thin capitalisation rules. These rules may apply if the total of your debt deductions and those of your associates are over $2 million for 2020–21. For more information, see Thin capitalisation ."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Guide to depreciating assets",
+        "Deductions for prepaid expenses"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Franking credits"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enter your share of any allowable franking credits which you are entitled to claim as a franking tax offset through a trust at Franking credit from franked dividends ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can only claim a share of a franking credit which relates to the share of a franked dividend paid to a trust which is indirectly included in the amount of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "trust income you show at Net income from trusts, less capital gains, foreign income and franked distributions",
+        "franked distribution you show at Franked distributions from trusts ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Therefore, you can't claim a franking credit for a dividend paid to the trust which was exempt income or non-assessable non-exempt income (for example, a distribution on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't claim a share of a franking credit through a trust in the following circumstances:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the trust has an overall loss for tax purposes for 2020–21",
+        "you did not show an amount at Franked distributions from trusts , or",
+        "the amount of income from the trust you have shown at Net income from trusts, less capital gains, foreign income and franked distributions is not attributable to the franked dividend which has generated the franking credit."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition, you may not be entitled to claim the franking credits if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "within 45 days of buying the shares (90 days for certain preference shares), you either sold them or entered into an arrangement to reduce the risk of making a loss on them",
+        "you were under an obligation to make, or were likely to make, a related payment, or",
+        "you received a dividend as a result of a dividend washing arrangement."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "These rules apply to your interests in the shares held by the trust (other than widely held trusts) in the same way that the rules apply to shares you own directly."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on these rules, see When you are not entitled to claim a franking tax offset ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Tax paid by trustee"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Non-resident trust"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were an Australian resident, you may be able to claim a credit for Australian withholding tax you have borne on any Australian:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "source dividend",
+        "interest",
+        "royalty, or",
+        "payment from an Australian managed investment trust included in the income of a non-resident trust to which you are entitled. A non-resident trust is a trust which, for all of 2020–21 only had non-resident trustees, and had its central management and control outside Australia."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Legal disability"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were under a legal disability you may be able to claim a credit for the tax that the trustee has paid on your share of the trust's net income. You are considered to be under a legal disability if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "were under 18 years old on 30 June 2021",
+        "were a person who is bankrupt, or",
+        "had been declared legally incapable because of a mental condition."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Foreign resident"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were not an Australian resident, you may be able to claim a credit for the tax that the trustee has paid on your share of income from a resident trust."
+    }
+  ],
+  "content_text": "This section relates to your distributions from trusts. Complete this section if:\n- you received, or were entitled to income from a trust a credit for amounts of tax paid on, or amounts withheld from, trust income a share of the 'national rental affordability scheme' tax offset, or\n- you had an interest in a trust that made a loss from primary production.\nIf your trust income is from a managed fund, you should show this information at Managed funds .\n## Things to know\nA trust is not a separate taxable entity, but the trustee must lodge a tax return for the trust.\nGenerally, the beneficiaries of the trust declare the amount of their entitlement to the trust's income in their own tax return. Then they pay tax on it, even if they didn’t actually receive the income.\nAn exception to this is, you don’t need to declare a trust distribution if family trust distribution tax has already been paid.\nIf you were entitled to an amount of trust income at 30 June 2021, you need to include your share of the net income of the trust in your 2020–21 tax return even if you did not receive an amount from the trust until after 30 June 2021.\nThe amount of your share of the trust's net income (for tax purposes) may be different from the actual distribution which you receive or are entitled to receive from the trust.\nYour trustee should provide you with details about your share of the trust's net income or all of your trust entitlements.\nIf you are the principal beneficiary of a special disability trust you are considered to be entitled to all of the income of the trust.\nSee also:\n- Deductions for prepaid expenses\n- Withholding tax arrangements for managed investment trust fund payments – if you are a foreign resident\n### Do not show at this section\nDon't show the following income or offsets at this section:\n- Income from a public trading trust or a corporate unit trust, go to Dividends .\n- A capital gain from a trust (unless instructed otherwise), go to Capital gains or losses . If the trust income you received, or are entitled to, includes an amount described as tax-free, tax deferred, tax exempted or as a capital gains tax (CGT) concession, you should read the information on non-assessable payments in Guide to capital gains tax. Such amounts may be relevant in determining the amount of a net capital gain you show at Capital gains or losses or may affect the cost base of your unit or trust interest.\n- Any distribution in relation to a foreign resident capital gains withholding credit, go to Capital gains or losses .\n- Attributed foreign income from a trust (unless instructed otherwise), go to Foreign entities .\n- Any Australian franking credits from a New Zealand franking company, go to Other foreign income . Note you can't claim New Zealand imputation credits.\n- Any other foreign source income from a trust (unless instructed otherwise), go to Other foreign income .\n- Your entitlement to an early stage venture capital limited partnership (ESVCLP) tax offset as a beneficiary of a trust, go to Early stage venture capital limited partnership .\n- Your entitlement to an early stage investor tax offset as a beneficiary of a trust, go to Early stage investor .\n- Part of a distribution which relates to an amount of trust income on which family trust distribution tax has been paid, go to Amount on which family trust distribution tax has been paid .\n- Share of credits for tax paid by the trustee if you are the principal beneficiary of a special disability trust, go to Other refundable tax offsets .\n## Completing this section\nTo complete this section you will need:\n- a statement of distribution or advice from the trustee\n- details of any expense and tax credit information .\nTo personalise your return to show trusts, at Personalise return select:\n- You were a sole trader or had business income or losses, partnership or trust distributions (not from a managed fund)\n- Trusts\nTo show your trust details, at Prepare return select 'Add/Edit' at the Business/sole trader, partnership and trust income (including loss details) banner.\nAt the Trusts banner:\n- Select Net trust income to expand the section.\n- Add up your share of trust income and deductions, and enter the total in the corresponding fields: The Depreciation and capital allowances tool can help you to work out any decline in value. It can also work out any deductible balancing adjustment when you stop holding a depreciating asset. Access this tool in the Deductions section on the Prepare return screen. Fields from this tool can't be adjusted in myTax. To make any adjustments, or to add new assets to the tool, select the 'Use the depreciation and capital allowances tool' link. Primary production Net income from trusts Other deductions myTax will automatically calculate the Net primary production amount. Non-primary production Net income from trusts, less capital gains, foreign income and franked distributions To enable us to work out your Income tests amounts, enter the following fields: Managed investment scheme amount (this is includes all investment income related to trusts) Remaining non-primary production trust amount Franked distributions from trusts To enable us to work out your Income tests amounts, enter the following fields: Franked distribution related to investments Remaining franked distribution amount Other deductions – If you show an amount at Other deductions, you need to show amounts in the two fields displayed when you enter Other deductions. To enable us to work out your Income tests amounts, enter the following fields: Managed investment scheme deductions (this includes all investment deductions related to trusts) Remaining trust deductions myTax will automatically calculate the Net non-primary production amount.\n- Add up your trust share of credits from income and tax offsets and enter the total in the corresponding fields: Tax withheld where Australian business number not quoted Franking credits from franked dividends – you can only claim a share of a franking credit which relates to the share of a franked dividend paid to a trust which is indirectly included in the amount of: trust income you show at Net income from trusts, less capital gains, foreign income and franked distributions franked distribution you show at Franked distributions from trusts . TFN amounts withheld from interest, dividends and unit trust distributions TFN amounts withheld from payments from closely held trusts Tax paid by trustee – If you show an amount at Tax paid by trustee, you will need to: select the Situation enter the Share of income and Tax credits . Credit for foreign resident withholding amounts (excluding capital gains) – include income you: received as an Australian resident where an amount of tax was withheld because of the imposition of non-resident withholding tax or managed investment trust withholding tax derived as a foreign resident from which an amount of tax was withheld because of the operation of the foreign resident withholding rules. National rental affordability scheme tax offset\n- Select Save .\n- Select Save and continue when you have completed the Business/sole trader, partnership and trust income (including loss details) section.\nNotes\n- If you received, or were entitled to trust income as a special professional you must also enter the amount of this taxable professional income in the Other income section. This includes income from activities as an author, an inventor, performing artist, production associate or active sportsperson.\n- You may be entitled to the small business income tax offset if either of the following apply: your share of net income included a share of net small business income you had a farm management repayment or other amount you received as a beneficiary in a small business entity.\nSee also:\n- Records you need to keep\n### Statement of distribution or advice from the trustee\nA statement of distribution or advice from the trustee may show the following details in relation to your share trust net income for tax purposes:\n- the amount of any primary production income or loss non-primary production income or loss\n- the amount of any franked distribution from a trust\n- the amount of net small business income from a small business entity trust\n- the amount of capital gains, attributed foreign income and other foreign source income\n- the amount of any income on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid\n- that you are a chosen beneficiary if you are the beneficiary of a discretionary primary production trust that has made a loss\n- your entitlement to any of the following credits or tax offsets credit for amounts of tax withheld because the trust failed to quote its Australian business number credit for amounts of tax withheld by the trustee of a closely held trust because you did not provide your TFN credit for amounts of tax withheld due to the imposition of non-resident withholding tax or managed investment trust withholding tax from trust income you received when you were a resident share of the 'national rental affordability scheme' tax offset allowable franking credits from franked dividends credit for tax file number amounts withheld credit for tax paid by the trustee.\nContact the trustee if you:\n- have not received a statement of distribution or advice\n- think that any details are wrong or are missing from the statement of distribution or advice you received from the trust.\nYour statement of distribution or advice may show that your share of the trust's net capital gain is more than the overall amount of your share of the trust's net income (for tax purposes), for example because it shows a share of primary production or non-primary production loss. In this situation, there may be a limit to the amount of the net capital gain component that you exclude from Net income from trusts, less capital gains, foreign income and franked distributions and show at Capital gains or losses . For more information, see the Guide to capital gains tax .\n## Income information\nFind out about:\n- Primary production\n- Non-primary production\n### Primary production\nVisit Primary production activities to learn more about who is a primary producer.\n#### Net income from trusts\nEnsure that you include:\n- your share of any primary production non-concessional managed investment trust income and\n- primary production excluded from non-concessional managed investment trust income.\nIf the trust made an overall loss for tax law purposes in 2020–21, the loss is retained in the trust. You will have no share of the net income of the trust. For more information, phone 13 28 61 .\nException for primary producers – You may still be eligible for income averaging where the trust reports a loss. While beneficiaries of fixed trusts that report a loss continue to be eligible for income averaging, beneficiaries of discretionary trusts are now required to meet some additional requirements.\nIf you are an eligible beneficiary and you show nothing so far, enter 0 at Net income from trusts .\n### Non-primary production\n#### Net income from trusts, less capital gains, foreign income and franked distributions\nEnsure that you include:\n- your share of any non-primary production non-concessional managed investment trust income and\n- non-primary production excluded from non-concessional managed investment trust income is included.\nIf the trust made an overall loss for tax law purposes in 2020–21, the loss is retained in the trust. You will have no share of the net income of the trust. For more information, phone 13 28 61 .\n## Expense and tax credit information\nRemember, you can't claim a deduction:\n- for amounts already claimed by the trust, or\n- for expenses incurred in deriving exempt income or non-assessable non-exempt income (for example, expenses incurred in deriving distributions on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid).\nIf you were the beneficiary of a discretionary trust you cannot claim a deduction for expenses you incurred in relation to your share of any net income of the trust under the general deduction provisions. This is because at the time you incurred the expense, you were not entitled to any income of the trust.\nIf you made a prepayment of $1,000 or more for something to be done (in whole or in part) in a future year, the amount you can deduct may be affected by the rules relating to prepayments. For more information on prepayments, see Deductions for prepaid expenses .\nFind out about:\n- Primary production\n- Non-primary production\n- Franking credits\n- Tax paid by trustee\n### Primary production\nVisit Primary production activities to learn more about who is a primary producer.\n#### Other deductions\nIf a trustee incurred eligible expenditure on landcare operations, water facilities, fencing assets or fodder storage assets, then only the trustee, not a beneficiary of the trust, can claim deductions for that expenditure.\nInclude at Other deductions your share of Enter the total of any other deductions that you can claim in relation to your share of primary production income of a trust that you can claim this year.\nIf you are the beneficiary of a discretionary trust you would not normally be able to claim a deduction for expenses you incurred in relation to your share of any net income of the trust under the general deduction provisions. This is because at the time you incurred the expense, you were not entitled to any income of the trust.\nDebt deductions (such as interest and borrowing costs) incurred in deriving assessable trust income may be affected by the thin capitalisation rules. These rules may apply if the total of your debt deductions and those of your associates are over $2 million for 2020–21. For more information, see Thin capitalisation .\nSee also:\n- For more information on deductions for expenditure on landcare operations, water facilities, fencing assets and fodder storage assets, see the Guide to depreciating assets\n- Deductions for prepaid expenses\n### Non-primary production\n#### Other deductions\nIf a trustee incurred eligible expenditure on landcare operations, only the trustee, not a beneficiary of the trust, can claim deductions for that expenditure.\nIf you are the beneficiary of a discretionary trust you would not normally be able to claim a deduction for expenses you incurred in relation to your share of any net income of the trust under the general deduction provisions. This is because at the time you incurred the expense, you would not have been entitled to any income of the trust.\nInclude at Other deductions your share of any other deductions that relate to non-primary production income of a trust that you can claim this year, including deductions relating to franked distributions from trusts.\nDebt deductions (such as interest and borrowing costs) incurred in deriving assessable trust income may be affected by the thin capitalisation rules. These rules may apply if the total of your debt deductions and those of your associates are over $2 million for 2020–21. For more information, see Thin capitalisation .\nSee also:\n- Guide to depreciating assets\n- Deductions for prepaid expenses\n### Franking credits\nEnter your share of any allowable franking credits which you are entitled to claim as a franking tax offset through a trust at Franking credit from franked dividends .\nYou can only claim a share of a franking credit which relates to the share of a franked dividend paid to a trust which is indirectly included in the amount of:\n- trust income you show at Net income from trusts, less capital gains, foreign income and franked distributions\n- franked distribution you show at Franked distributions from trusts .\nTherefore, you can't claim a franking credit for a dividend paid to the trust which was exempt income or non-assessable non-exempt income (for example, a distribution on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid).\nYou can't claim a share of a franking credit through a trust in the following circumstances:\n- the trust has an overall loss for tax purposes for 2020–21\n- you did not show an amount at Franked distributions from trusts , or\n- the amount of income from the trust you have shown at Net income from trusts, less capital gains, foreign income and franked distributions is not attributable to the franked dividend which has generated the franking credit.\nIn addition, you may not be entitled to claim the franking credits if:\n- within 45 days of buying the shares (90 days for certain preference shares), you either sold them or entered into an arrangement to reduce the risk of making a loss on them\n- you were under an obligation to make, or were likely to make, a related payment, or\n- you received a dividend as a result of a dividend washing arrangement.\nThese rules apply to your interests in the shares held by the trust (other than widely held trusts) in the same way that the rules apply to shares you own directly.\nFor more information on these rules, see When you are not entitled to claim a franking tax offset .\n### Tax paid by trustee\n#### Non-resident trust\nIf you were an Australian resident, you may be able to claim a credit for Australian withholding tax you have borne on any Australian:\n- source dividend\n- interest\n- royalty, or\n- payment from an Australian managed investment trust included in the income of a non-resident trust to which you are entitled. A non-resident trust is a trust which, for all of 2020–21 only had non-resident trustees, and had its central management and control outside Australia.\n#### Legal disability\nIf you were under a legal disability you may be able to claim a credit for the tax that the trustee has paid on your share of the trust's net income. You are considered to be under a legal disability if you:\n- were under 18 years old on 30 June 2021\n- were a person who is bankrupt, or\n- had been declared legally incapable because of a mental condition.\n#### Foreign resident\nIf you were not an Australian resident, you may be able to claim a credit for the tax that the trustee has paid on your share of income from a resident trust.",
+  "child_links": [],
+  "word_count": 3066,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

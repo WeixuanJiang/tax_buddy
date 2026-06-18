@@ -1,0 +1,49 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2017/other-mytax-instructions-including-spouse-details-and-income-tests/joint-petroleum-development-area-income/completing-your-australian-tax-return",
+  "title": "Completing your Australian tax return",
+  "description": "Follow these instructions to complete myTax to ensure that your tax return is filled out correctly and prevent delays with your assessment.",
+  "nat_number": "",
+  "quick_code": "80532",
+  "date_updated": "2024-03-21T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Step 1",
+          "On Personalise return screen, select the following: 'You received salary, wages or other income on a payment summary, or Australian Government payments', followed by 'Foreign employment income (on a payment summary)'. Click Next."
+        ],
+        [
+          "Step 2",
+          "On Prepare return screen, alongside 'Payment summaries' section click 'Add/Edit'."
+        ],
+        [
+          "Step 3",
+          "In 'Payment summaries' section, alongside 'Foreign employment income', click 'Add'."
+        ],
+        [
+          "Step 4",
+          "Show the following details: Payer's name Payer's ABN (if unknown, leave blank) 'Joint Petroleum Development Area (JPDA)' as Foreign employment income type Residency status Any other details from your PAYG payment summary – foreign employment Note : You may need to adjust some amounts from your PAYG payment summary – foreign employment in myTax. To see if this applies to you, go to Step 5. myTax will use your answers to complete the schedule of additional information for you."
+        ],
+        [
+          "Step 5",
+          "If the Residency status you selected is: 'A - Australian resident for the whole year', go to Part 1 – Australian Resident . 'B - Timor-Leste resident for the whole year', go to Part 2 – Resident of Timor-Leste . 'C - Resident of another country for the whole year', go to Part 3 – Resident of another country . 'D - Changed residence during the year', you may need to apportion your JPDA income and complete more than one part. You will need to follow the instructions in Part 1 for the period that you were an Australian resident Part 2 for the period that you were a resident of Timor-Leste Part 3 for the period that you were a resident of another country."
+        ]
+      ]
+    }
+  ],
+  "content_text": "Step 1 | On Personalise return screen, select the following: 'You received salary, wages or other income on a payment summary, or Australian Government payments', followed by 'Foreign employment income (on a payment summary)'. Click Next.\nStep 2 | On Prepare return screen, alongside 'Payment summaries' section click 'Add/Edit'.\nStep 3 | In 'Payment summaries' section, alongside 'Foreign employment income', click 'Add'.\nStep 4 | Show the following details: Payer's name Payer's ABN (if unknown, leave blank) 'Joint Petroleum Development Area (JPDA)' as Foreign employment income type Residency status Any other details from your PAYG payment summary – foreign employment Note : You may need to adjust some amounts from your PAYG payment summary – foreign employment in myTax. To see if this applies to you, go to Step 5. myTax will use your answers to complete the schedule of additional information for you.\nStep 5 | If the Residency status you selected is: 'A - Australian resident for the whole year', go to Part 1 – Australian Resident . 'B - Timor-Leste resident for the whole year', go to Part 2 – Resident of Timor-Leste . 'C - Resident of another country for the whole year', go to Part 3 – Resident of another country . 'D - Changed residence during the year', you may need to apportion your JPDA income and complete more than one part. You will need to follow the instructions in Part 1 for the period that you were an Australian resident Part 2 for the period that you were a resident of Timor-Leste Part 3 for the period that you were a resident of another country.",
+  "child_links": [
+    {
+      "title": "Part 3 – Resident of another country",
+      "description": "Use this part if you were a resident of a country other than Australia or Timor-Leste for tax purposes during 2016–17.",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2017/other-mytax-instructions-including-spouse-details-and-income-tests/joint-petroleum-development-area-income/completing-your-australian-tax-return/part-3-resident-of-another-country"
+    }
+  ],
+  "word_count": 272,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

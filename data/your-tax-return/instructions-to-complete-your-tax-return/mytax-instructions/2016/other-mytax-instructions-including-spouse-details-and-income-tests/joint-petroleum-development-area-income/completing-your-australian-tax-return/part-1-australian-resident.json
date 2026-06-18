@@ -1,0 +1,288 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2016/other-mytax-instructions-including-spouse-details-and-income-tests/joint-petroleum-development-area-income/completing-your-australian-tax-return/part-1-australian-resident",
+  "title": "Part 1 – Australian Resident",
+  "description": "Use this part if you were an Australian resident for tax purposes during 2015–16.",
+  "nat_number": "",
+  "quick_code": "80590",
+  "date_updated": "2024-03-21T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "What you need"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need details of your JPDA income and any foreign tax paid from your PAYG payment summary – foreign employment for 2015–16, or a letter from your employer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "You are taxed on your net assessable JPDA income at resident rates of tax with a foreign income tax offset allowed for the lesser of the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Australian tax payable on your net assessable JPDA income",
+        "tax paid to Timor-Leste."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you need to do"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use worksheets 1 and 2 to complete the following items in myTax :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Foreign employment income (on a payment summary) Net foreign employment income Foreign tax paid",
+        "Foreign income tax offset, in 'Offsets' section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Follow these steps to complete myTax ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Step 1",
+          "If you have a payment summary that includes JPDA income, complete worksheet 1 . This shows you how to work out your net foreign employment income."
+        ],
+        [
+          "Step 2",
+          "If you have a payment summary that includes foreign tax paid, show it in myTax and complete worksheet 2 . This shows you how to work out your foreign income tax offset for your net foreign employment income."
+        ],
+        [
+          "Step 3",
+          "Complete the remainder of your tax return."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Example 1 will help you fill in worksheets 1 and 2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jose, a driller, lived in Darwin (zone A) when he was not at a drilling site. For 8 months of the income year he worked in the JPDA. Jose received a PAYG payment summary – individual non-business which showed $74,000 gross salary and wages and Australian PAYG tax withheld of $26,260. He received a separate PAYG payment summary – foreign employment that showed gross salary and wages of $96,000 relating to his period in the JPDA and that, in addition to the $12,152 Australian tax withheld, $17,280 tax had been withheld and paid to Timor-Leste. The amount paid to Timor-Leste was shown on the payment summary at the 'foreign tax paid' label."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jose had work-related expenses of $700 of which $500 related to his work while in the JPDA. He had no other income or deductions. Jose's taxable income is therefore $169,300. Jose had no dependants. He had appropriate hospital cover for the whole year and was not liable to pay Medicare levy surcharge. He is entitled to a zone offset of $338 as he lived in Darwin for more than 183 days."
+    },
+    {
+      "type": "paragraph",
+      "text": "See worksheet 1 and worksheet 2 for how Jose would fill them in."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jose will receive a refund of $2,056. This is $53,974 (tax and Medicare levy payable) minus $338 (zone tax offset) minus $17,280 (foreign income tax offset) minus $38,412 ($26,260 + $12,152 Australian tax withheld)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If Jose had worked in Australia for the full year and had the same income and deductions, he would have completed the tax return differently and had a different PAYG Australian tax withheld amount, but his refund would have been the same."
+    },
+    {
+      "type": "paragraph",
+      "text": "Calculations are based on monthly payments."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Worksheet 1: Net foreign employment income"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have more than one PAYG payment summary – foreign employment showing JPDA income, you will need to work out a net foreign employment income amount for each payment summary."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Jose",
+          "You"
+        ],
+        [
+          "Gross JPDA income included on your PAYG payment summary – foreign employment This includes amounts shown at Foreign employment income (on a payment summary) in myTax : Gross payments, Lump sum A, and Lump sum E.",
+          "$96,000",
+          "$",
+          "(a)"
+        ],
+        [
+          "Total work-related expenses directly related to your JPDA income* This includes amounts shown at the appropriate items in myTax : Union or professional association fees – in Foreign employment income (on a payment summary) Work-related car expenses Work-related travel expenses Work-related uniform, occupation specific or protective clothing, laundry and dry-cleaning expenses Work-related self-education expenses Other work-related expenses.",
+          "$500",
+          "$",
+          "(b)"
+        ],
+        [
+          "Take (b) away from (a). Enter the amount at (c) at 'Net foreign employment income' at Foreign employment income (on a payment summary) in myTax .",
+          "$95,500",
+          "$",
+          "(c)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Did you have work-related expenses?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had work-related expenses relating to your JPDA income (that is, you showed an amount at (b) in worksheet 1 ), then you should complete the relevant deductions for work-related expenses in myTax ."
+    },
+    {
+      "type": "paragraph",
+      "text": "These items deal with deductions for work-related expenses as follows:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Union or professional association fees – in Foreign employment income (on a payment summary)",
+        "Work-related car expenses",
+        "Work-related travel expenses",
+        "Work-related uniform, occupation specific or protective clothing, laundry and dry-cleaning expenses",
+        "Work-related self-education expenses",
+        "Other work-related expenses."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing worksheet 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot use worksheet 2 if you have:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "exempt foreign employment income",
+        "other foreign income",
+        "unapplied foreign losses from prior years",
+        "other foreign income tax offsets available."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If any of the above apply, you may need to read the Guide to foreign income tax offset rules 2016 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Worksheet 2: Foreign income tax offset calculation"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have more than one PAYG payment summary – foreign employment showing foreign tax paid, use this worksheet to work out a consolidated foreign income tax offset amount."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Jose",
+          "You"
+        ],
+        [
+          "Your taxable income as shown in myTax",
+          "$169,300",
+          "$",
+          "(a)"
+        ],
+        [
+          "Tax* on your taxable income using our rates and calculators",
+          "$53,974",
+          "$",
+          "(b)"
+        ],
+        [
+          "Your total net foreign employment income (the amount or amounts at (c) in worksheet 1 ).",
+          "$95,500",
+          "$",
+          "(c)"
+        ],
+        [
+          "Take (c) away from (a).",
+          "$73,800",
+          "$",
+          "(d)"
+        ],
+        [
+          "Tax* on (d).",
+          "$17,008",
+          "$",
+          "(e)"
+        ],
+        [
+          "Take (e) away from (b).",
+          "$36,966",
+          "$",
+          "(f)"
+        ],
+        [
+          "Total foreign tax paid as shown on all of your PAYG payment summary – foreign employment .",
+          "$17,280",
+          "$",
+          "(g)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "* This includes any Medicare levy and Medicare levy surcharge payable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your foreign income tax offset is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "if the amount at (g) does not exceed $1,000, the amount at (g)",
+        "if the amount at (f) is greater than or equal to the amount at (g), the amount at (g)",
+        "if the amount at (f) is less than the amount at (g), the amount at (f)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your foreign income tax offset does not exceed $1,000, myTax will automatically complete the Foreign income tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your foreign income tax offset exceeds $1,000, myTax will ask you to work out the maximum tax offset you can claim. On Prepare return screen, alongside 'Offsets' section click 'Add/Edit'. Under 'Foreign income tax offsets' enter the offset amount (either (f) or (g) as advised above)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the Residency status you selected is 'D - Changed residence during the year', go to Part 2 – Resident of Timor-Leste ."
+    }
+  ],
+  "content_text": "What you need\nYou will need details of your JPDA income and any foreign tax paid from your PAYG payment summary – foreign employment for 2015–16, or a letter from your employer.\n## You need to know\nYou are taxed on your net assessable JPDA income at resident rates of tax with a foreign income tax offset allowed for the lesser of the:\n- Australian tax payable on your net assessable JPDA income\n- tax paid to Timor-Leste.\n## What you need to do\nUse worksheets 1 and 2 to complete the following items in myTax :\n- Foreign employment income (on a payment summary) Net foreign employment income Foreign tax paid\n- Foreign income tax offset, in 'Offsets' section.\nFollow these steps to complete myTax .\nStep 1 | If you have a payment summary that includes JPDA income, complete worksheet 1 . This shows you how to work out your net foreign employment income.\nStep 2 | If you have a payment summary that includes foreign tax paid, show it in myTax and complete worksheet 2 . This shows you how to work out your foreign income tax offset for your net foreign employment income.\nStep 3 | Complete the remainder of your tax return.\nExample 1 will help you fill in worksheets 1 and 2 .\nExample 1\nJose, a driller, lived in Darwin (zone A) when he was not at a drilling site. For 8 months of the income year he worked in the JPDA. Jose received a PAYG payment summary – individual non-business which showed $74,000 gross salary and wages and Australian PAYG tax withheld of $26,260. He received a separate PAYG payment summary – foreign employment that showed gross salary and wages of $96,000 relating to his period in the JPDA and that, in addition to the $12,152 Australian tax withheld, $17,280 tax had been withheld and paid to Timor-Leste. The amount paid to Timor-Leste was shown on the payment summary at the 'foreign tax paid' label.\nJose had work-related expenses of $700 of which $500 related to his work while in the JPDA. He had no other income or deductions. Jose's taxable income is therefore $169,300. Jose had no dependants. He had appropriate hospital cover for the whole year and was not liable to pay Medicare levy surcharge. He is entitled to a zone offset of $338 as he lived in Darwin for more than 183 days.\nSee worksheet 1 and worksheet 2 for how Jose would fill them in.\nJose will receive a refund of $2,056. This is $53,974 (tax and Medicare levy payable) minus $338 (zone tax offset) minus $17,280 (foreign income tax offset) minus $38,412 ($26,260 + $12,152 Australian tax withheld).\nIf Jose had worked in Australia for the full year and had the same income and deductions, he would have completed the tax return differently and had a different PAYG Australian tax withheld amount, but his refund would have been the same.\nCalculations are based on monthly payments.\n### Worksheet 1: Net foreign employment income\nIf you have more than one PAYG payment summary – foreign employment showing JPDA income, you will need to work out a net foreign employment income amount for each payment summary.\n | Jose | You\nGross JPDA income included on your PAYG payment summary – foreign employment This includes amounts shown at Foreign employment income (on a payment summary) in myTax : Gross payments, Lump sum A, and Lump sum E. | $96,000 | $ | (a)\nTotal work-related expenses directly related to your JPDA income* This includes amounts shown at the appropriate items in myTax : Union or professional association fees – in Foreign employment income (on a payment summary) Work-related car expenses Work-related travel expenses Work-related uniform, occupation specific or protective clothing, laundry and dry-cleaning expenses Work-related self-education expenses Other work-related expenses. | $500 | $ | (b)\nTake (b) away from (a). Enter the amount at (c) at 'Net foreign employment income' at Foreign employment income (on a payment summary) in myTax . | $95,500 | $ | (c)\n## Did you have work-related expenses?\nIf you had work-related expenses relating to your JPDA income (that is, you showed an amount at (b) in worksheet 1 ), then you should complete the relevant deductions for work-related expenses in myTax .\nThese items deal with deductions for work-related expenses as follows:\n- Union or professional association fees – in Foreign employment income (on a payment summary)\n- Work-related car expenses\n- Work-related travel expenses\n- Work-related uniform, occupation specific or protective clothing, laundry and dry-cleaning expenses\n- Work-related self-education expenses\n- Other work-related expenses.\n### Completing worksheet 2\nYou cannot use worksheet 2 if you have:\n- exempt foreign employment income\n- other foreign income\n- unapplied foreign losses from prior years\n- other foreign income tax offsets available.\nIf any of the above apply, you may need to read the Guide to foreign income tax offset rules 2016 .\n### Worksheet 2: Foreign income tax offset calculation\nIf you have more than one PAYG payment summary – foreign employment showing foreign tax paid, use this worksheet to work out a consolidated foreign income tax offset amount.\n | Jose | You\nYour taxable income as shown in myTax | $169,300 | $ | (a)\nTax* on your taxable income using our rates and calculators | $53,974 | $ | (b)\nYour total net foreign employment income (the amount or amounts at (c) in worksheet 1 ). | $95,500 | $ | (c)\nTake (c) away from (a). | $73,800 | $ | (d)\nTax* on (d). | $17,008 | $ | (e)\nTake (e) away from (b). | $36,966 | $ | (f)\nTotal foreign tax paid as shown on all of your PAYG payment summary – foreign employment . | $17,280 | $ | (g)\n* This includes any Medicare levy and Medicare levy surcharge payable.\nYour foreign income tax offset is:\n- if the amount at (g) does not exceed $1,000, the amount at (g)\n- if the amount at (f) is greater than or equal to the amount at (g), the amount at (g)\n- if the amount at (f) is less than the amount at (g), the amount at (f).\nIf your foreign income tax offset does not exceed $1,000, myTax will automatically complete the Foreign income tax offset.\nIf your foreign income tax offset exceeds $1,000, myTax will ask you to work out the maximum tax offset you can claim. On Prepare return screen, alongside 'Offsets' section click 'Add/Edit'. Under 'Foreign income tax offsets' enter the offset amount (either (f) or (g) as advised above).\nIf the Residency status you selected is 'D - Changed residence during the year', go to Part 2 – Resident of Timor-Leste .",
+  "child_links": [],
+  "word_count": 1131,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

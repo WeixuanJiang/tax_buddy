@@ -1,0 +1,1686 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2019/supporting-information/special-circumstances-and-glossary-2019",
+  "title": "Special circumstances and glossary 2019",
+  "description": "Special circumstances affecting how your tax is calculated and a glossary of terms used in the tax return instructions.",
+  "nat_number": "",
+  "quick_code": "57930",
+  "date_updated": "2019-05-29T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, tax return 2019, special information, special circumstances, glossary, paper tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Special circumstances"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Non-resident withholding tax"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Gross interest (question 10)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were a foreign resident, include at item 10 any interest that you received in 2018–19 while you were an Australian resident."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include at item 10 any interest paid or credited to you when you were a foreign resident if withholding tax was deducted."
+    },
+    {
+      "type": "paragraph",
+      "text": "If withholding tax was not deducted, on a separate piece of paper:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "print Schedule of additional information – Item 10",
+        "print your name, address and tax file number",
+        "provide details of amounts of interest you received while you were a foreign resident if withholding tax was not deducted."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Attach your schedule to page 3 of your tax return. Print X in the Yes box at Taxpayers' declaration question 2 on page 10 of your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "We will advise you of the amount of withholding tax you have to pay on this interest."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Dividends (question 11)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include at item 11 any dividend income paid or credited to you during the period you were a foreign resident, if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the dividend was fully franked, or",
+        "the dividend was not fully franked, but either the dividend statement shows the unfranked amount to be conduit foreign income, or withholding tax was (or should have been) withheld from the unfranked amount."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to provide details of any dividend:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "that was paid or credited to you during any period you were a foreign resident",
+        "that was not fully franked and was not declared to be conduit foreign income, and",
+        "on which you have not paid withholding tax."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "On a separate piece of paper:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "print Schedule of additional information – Item 11",
+        "print your name, address and tax file number",
+        "provide details of the dividend."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Attach your schedule to page 3 of your tax return. Print X in the Yes box at Taxpayers' declaration question 2 on page 10 of your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "We will work out the amount of withholding tax you have to pay on the dividends, and advise you of the amount."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Foreign employment termination payments (question 4)"
+    },
+    {
+      "type": "paragraph",
+      "text": "An employment termination payment (ETP) that you received due to termination of your employment overseas is a foreign employment termination payment (foreign ETP):"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "where you were an Australian resident for the period of your employment",
+        "where the payment was exempt from income tax under that country's laws, and",
+        "whether or not your foreign employer has an Australian business number (ABN) or has given you a PAYG payment summary – employment termination payment ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A foreign ETP is different from a foreign termination payment (FTP) ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Instructions for foreign ETPs"
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to convert your foreign ETPs into Australian dollars before you can complete item 4 . For information about exchange rates and how to convert foreign payments, go to Foreign exchange rates or phone 13 28 61 ."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Then on a separate piece of paper print Schedule of additional information – Item 4 print your name, address and tax file number for each foreign ETP, print the name of the payer and the foreign country in which you were employed, and write the amount of the payment for each foreign ETP, print the appropriate code letter (from those listed at step 4 in question 4 Employment termination payments (ETP) 2019 ). You must provide a valid code for each payment.",
+        "Attach your schedule to page 3 of your tax return.",
+        "Print X in the Yes box at Taxpayers' declaration question 2 on page 10 of your tax return."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to include the total amount of these foreign ETPs in the amount you show at I item 4 on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Go to step 1 in question 4 Employment termination payments (ETP) 2019 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Dividends and franking credits (questions 11 and D8)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Dividend washing integrity rule"
+    },
+    {
+      "type": "paragraph",
+      "text": "The dividend washing integrity rule prevents you from claiming franking credits where you have received a dividend as a result of dividend washing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dividend washing occurs where you, or an entity connected to you, claim two sets of franking credits by:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "selling shares that are held on the Australian Securities Exchange (ASX) and have become ‘ex-dividend’, and then",
+        "purchasing some substantially identical shares using a special ASX trading market."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When the dividend washing integrity rule applies, you are not entitled to claim the franking credits for the second dividend. However, if your interest in the second parcel of shares exceeds the interest in the first parcel, you may be entitled to claim a portion of the franking credits for the additional shares. For more information, see Dividend washing rule ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The dividend washing integrity rule does not apply if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you are an individual, and",
+        "you received no more than $5,000 in franking credits during 2018–19."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "However, the dividend washing integrity rule applies where dividends flow indirectly to you through your interest in a trust or partnership."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are claiming franking credits at item 11 , certain rules apply. Read the following to check that you are entitled to claim the credits."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must be a 'qualified person' to be entitled to a franking credit in respect of a dividend. To be a qualified person you must satisfy the holding period rule and the related payments rule."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Holding period rule"
+    },
+    {
+      "type": "paragraph",
+      "text": "To be able to claim the franking credits the holding period rule requires you to hold shares 'at risk' for at least 45 days (90 days for certain preference shares)."
+    },
+    {
+      "type": "paragraph",
+      "text": "When working out the number of days you held the shares at risk, do not count the day on which you acquired the shares and the day on which you disposed of the shares (or you entered into an arrangement to reduce the risk of making a loss on them)."
+    },
+    {
+      "type": "paragraph",
+      "text": "This rule applies generally to shares bought on or after 1 July 1997."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even if you did not hold the shares at risk for the required period, you may still be entitled to claim the franking credits if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your total direct and indirect franking credit entitlement for 2018–19, including any entitlement you may have had through a trust or partnership, was not above $5,000 (the small shareholder exemption), and",
+        "the related payments rule did not apply to you."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In determining whether the holding period rule is satisfied for the prescribed minimum period, no account is taken of any days on which you entered into an arrangement to materially reduce the risk of making a loss on your shares, such as through derivatives, hedges, options and futures."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not satisfy the holding period rule, include the franked amount of the dividend at T item 11 but do not include any franking credit amount at U item 11 for that dividend."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Related payments rule"
+    },
+    {
+      "type": "paragraph",
+      "text": "The related payments rule applies to arrangements entered into after 7.30pm (Australian Eastern Standard Time) on 13 May 1997. Broadly, it applies to you if you effectively had no interest in a dividend because you were under an obligation to make, or were likely to make, a related payment to another party for the dividend and you did not hold your shares 'at risk' for at least 45 days (90 days for certain preference shares)."
+    },
+    {
+      "type": "paragraph",
+      "text": "When working out the number of days you held the shares 'at risk', do not count the day on which you acquired the shares and the day on which you disposed of the shares (or you entered into an arrangement to reduce the risk of making a loss on them)."
+    },
+    {
+      "type": "paragraph",
+      "text": "A related payment includes you, or your associate, doing something under an arrangement that has the effect of passing the benefit of the dividend to someone else."
+    },
+    {
+      "type": "paragraph",
+      "text": "If either the holding period rule or related payments rule is likely to affect you, see You and your shares 2019 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Australian superannuation lump sum payments (question 8)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tables 1A to 2C set out the maximum tax rates that apply to superannuation lump sum payments made by complying superannuation funds. The Medicare levy is additional where applicable. You may find this useful in completing items 8 , M1 and M2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any lump sum in arrears amounts must be included in your assessable income regardless of the period the income stream payment relates to."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Tables 1A and 1B: Death benefit"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Element",
+          "Amount",
+          "Tax rate"
+        ],
+        [
+          "Tax free component",
+          "Whole",
+          "Tax free"
+        ],
+        [
+          "Taxed element",
+          "Whole",
+          "Tax free"
+        ],
+        [
+          "Untaxed element",
+          "Whole",
+          "Tax free"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Element",
+          "Amount",
+          "Tax rate"
+        ],
+        [
+          "Tax free component",
+          "Whole",
+          "Tax free"
+        ],
+        [
+          "Taxed element",
+          "Whole",
+          "15%"
+        ],
+        [
+          "Untaxed element",
+          "Whole",
+          "30%"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Tables 2A to 2C: Superannuation lump sum (other than death benefit)"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Element",
+          "Amount",
+          "Tax rate"
+        ],
+        [
+          "Tax free component",
+          "Whole",
+          "Tax free"
+        ],
+        [
+          "Taxed element",
+          "Whole",
+          "20%"
+        ],
+        [
+          "Untaxed element",
+          "Up to the untaxed-plan cap amount, $1,480,000 (see Note 1 )",
+          "30%"
+        ],
+        [
+          "Untaxed element",
+          "Over the untaxed-plan cap amount, $1,480,000 (see Note 1 )",
+          "45%"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Element",
+          "Amount",
+          "Tax rate"
+        ],
+        [
+          "Tax free component",
+          "Whole",
+          "Tax free"
+        ],
+        [
+          "Taxed element",
+          "Up to the low rate cap amount, $205,000 (see Note 2 )",
+          "Tax free"
+        ],
+        [
+          "Taxed element",
+          "Over the low rate cap amount, $205,000 (see Note 2 )",
+          "15%"
+        ],
+        [
+          "Untaxed element",
+          "Up to the low rate cap amount, $205,000 (see Note 2 )",
+          "15%"
+        ],
+        [
+          "Untaxed element",
+          "Over the low rate cap amount, $205,000 (see Note 2 ) and up to the untaxed-plan cap amount, $1,480,000 (see Note 1 )",
+          "30%"
+        ],
+        [
+          "Untaxed element",
+          "Over the untaxed-plan cap amount, $1,480,000 (see Note 1 )",
+          "45%"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Element",
+          "Amount",
+          "Tax rate"
+        ],
+        [
+          "Tax free component",
+          "Whole",
+          "Tax free"
+        ],
+        [
+          "Taxed element",
+          "Whole",
+          "Tax free"
+        ],
+        [
+          "Untaxed element",
+          "Up to the untaxed-plan cap amount, $1,480,000 (see Note 1 )",
+          "15%"
+        ],
+        [
+          "Untaxed element",
+          "Over the untaxed-plan cap amount, $1,480,000 (see Note 1 )",
+          "45%"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note 1: For 2018–19, the untaxed-plan cap amount is a maximum of $1.480 million, but it could be less for you if you have previously received another superannuation lump sum with an untaxed element from the same superannuation fund. For more information on how we work out your untaxed-plan cap amount, see How tax applies to your super ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note 2: For 2018–19, the low-rate cap amount is a maximum of $205,000, but it could be less if you received any superannuation lump sums in a prior income year that counted towards your entitlement to a superannuation lump sum tax offset or, if before July 2007, you received an eligible termination payment after your 55th birthday. For more information on how we work out your low-rate cap amount, see How tax applies to your super ."
+    },
+    {
+      "type": "paragraph",
+      "text": "See Glossary about the low-rate cap amount and untaxed-plan cap amount."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Leased luxury cars (question D1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you leased a luxury car and wish to claim a deduction at item D1 or D2 , the following information about luxury cars will help you."
+    },
+    {
+      "type": "paragraph",
+      "text": "A leased luxury car is a leased car that at the time the lease began had a market value of more than the 'car limit' that applied in the relevant income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim a deduction for the decline in value of a leased luxury car (but not for other leased cars). The car can be new or second-hand. You must use the logbook method. For more information on the logbook method, read D1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "When claiming a deduction for decline in value, the initial value that you use for the car is the limit that applied in the income year in which the lease began."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Year",
+          "Limit"
+        ],
+        [
+          "2018–19",
+          "$57,581"
+        ],
+        [
+          "2017–18",
+          "$57,581"
+        ],
+        [
+          "2016–17",
+          "$57,581"
+        ],
+        [
+          "2015–16",
+          "$57,466"
+        ],
+        [
+          "2014–15",
+          "$57,466"
+        ],
+        [
+          "2013–14",
+          "$57,466"
+        ],
+        [
+          "2012–13",
+          "$57,466"
+        ],
+        [
+          "2011–12",
+          "$57,466"
+        ],
+        [
+          "2010–11",
+          "$57,466"
+        ],
+        [
+          "2009–10",
+          "$57,180"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Work-related travel expenses (question D2)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tables 4 and 5 outline the evidence you need to keep to claim overnight travel expenses."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Travel diary"
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether for domestic or overseas travel, a travel diary is a document in which you record the nature, places, dates, times and duration of your activities and travel."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Condition",
+          "Written evidence",
+          "Travel diary required"
+        ],
+        [
+          "You did not receive a travel allowance and the travel was less than 6 nights in a row.",
+          "Yes",
+          "No"
+        ],
+        [
+          "You did not receive a travel allowance and the travel was 6 or more nights in a row.",
+          "Yes",
+          "Yes"
+        ],
+        [
+          "You received a travel allowance, your claim does not exceed the reasonable allowance amount and the travel was less than 6 nights in a row.",
+          "No",
+          "No"
+        ],
+        [
+          "You received a travel allowance, your claim does not exceed the reasonable allowance amount and the travel was 6 or more nights in a row.",
+          "No",
+          "No"
+        ],
+        [
+          "You received a travel allowance, your claim exceeds the reasonable allowance amount and the travel was less than 6 nights in a row.",
+          "Yes",
+          "No"
+        ],
+        [
+          "You received a travel allowance, your claim exceeds the reasonable allowance amount and the travel was 6 or more nights in a row.",
+          "Yes",
+          "Yes"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Overseas travel"
+    },
+    {
+      "type": "paragraph",
+      "text": "You need written evidence for overseas accommodation expenses, regardless of the length of the trip. You do not need written evidence for food, drink and incidentals."
+    },
+    {
+      "type": "paragraph",
+      "text": "Members of international aircrews do not have to keep a travel diary if they limit their claim to the amount of the allowance received."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Condition",
+          "Written evidence",
+          "Travel diary required"
+        ],
+        [
+          "You did not receive a travel allowance and the travel was less than 6 nights in a row.",
+          "Yes",
+          "No"
+        ],
+        [
+          "You did not receive a travel allowance and the travel was 6 or more nights in a row.",
+          "Yes",
+          "Yes"
+        ],
+        [
+          "You received a travel allowance, your claim does not exceed the reasonable allowance amount and the travel was less than 6 nights in a row.",
+          "No",
+          "No"
+        ],
+        [
+          "You received a travel allowance, your claim does not exceed the reasonable allowance amount and the travel was 6 or more nights in a row.",
+          "No",
+          "Yes"
+        ],
+        [
+          "You received a travel allowance, your claim exceeds the reasonable allowance amount and the travel was less than 6 nights in a row.",
+          "Yes",
+          "No"
+        ],
+        [
+          "You received a travel allowance, your claim exceeds the reasonable allowance amount and the travel was 6 or more nights in a row.",
+          "Yes",
+          "Yes"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Rules for certain types of gifts or donations (question D9)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following information is about different types of gifts or donations for which you may be able to claim a deduction at item D9 . If you obtained a valuation of a deductible donation of property, you may be able to claim a deduction for the cost of that valuation under D10 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Gifts of property"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim a deduction for a gift of property (such as land, artwork or memorabilia) to an eligible organisation if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you purchased the property within 12 months of making the gift, or",
+        "you purchased the property more than 12 months before you made the gift and the Commissioner valued it at more than $5,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you purchased the property within 12 months of making the gift, the amount deductible is the market value of the property at the time of the gift or the amount you paid for the property, whichever is less. If you purchased the property more than 12 months before you made the gift and the Commissioner valued it at more than $5,000, the amount deductible is the value of the property as determined by the Commissioner."
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim a deduction for a gift of property if you did not purchase it (for example, you inherited or won the property) unless the Commissioner has valued it at more than $5,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have made a gift of property under the cultural gifts program the rules described above do not apply to you. For more information on working out whether you can claim a deduction for a gift under this program, see Donating under the Cultural Gifts Program ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information about property valuations, phone 13 28 61 or go to ato.gov.au"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Receiving a benefit"
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, you cannot claim a deduction for a donation if you received something in return (for example, a raffle ticket, dinner or a reduction in your child's school fees) other than tokens like lapel badges and stickers that promote the organisation. This rule does not apply to certain fund-raising events (see Deductions for contributions relating to fund-raising events )."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Deductions for contributions relating to fund-raising events"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim a deduction for contributions to approved organisations that relate to fund-raising events where you received a minor benefit for your contribution, provided that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the contribution meets certain conditions, and",
+        "the benefit you received does not exceed a specified limit."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A fund-raising event includes a fete, ball, gala show, dinner, performance or similar event."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim a deduction if you made:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a contribution of money or property to attend or participate in (or for the right to attend or participate in) a fund-raising event, or",
+        "a contribution of money to purchase goods or services at a charitable auction."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your contribution must meet the following conditions."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "It was made to an approved organisation.",
+        "If it was money, it was more than $150.",
+        "If it was property, you had either purchased it within 12 months of making the contribution, and both the market value on the day of the contribution and the purchase price were more than $150, or owned it for more than 12 months and the Commissioner valued it at more than $5,000.",
+        "If it was publicly listed shares, the value was more than $150 and less than or equal to $5,000.",
+        "The fund-raising event was held in Australia.",
+        "The GST-inclusive market value of the minor benefit you received for your contribution must have been worth no more than $150 or 20% of the value of the contribution, whichever is less. The receipt from the approved organisation will show the market value of the minor benefit you received."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your deduction is the value of your contribution that satisfies the conditions set out above less the GST-inclusive market value of the minor benefit you received. Both of these amounts appear on your receipt."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is no limit to the number of deductions you can claim for successful bids to purchase goods or services at a charitable auction, provided the above conditions are met."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Gifts of shares valued at $5,000 or less"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim a deduction for a gift of shares to an approved organisation if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the shares were held in a company that was listed on an approved Australian stock exchange on the day the gift was made",
+        "you acquired the shares at least 12 months before making the gift ('acquired' includes purchased, inherited, won or received as a gift or a bonus)",
+        "the parcel of shares had a market value of $5,000 or less on the day you made the gift",
+        "the parcel of shares was valued at $2 or more."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim a deduction for shares that are suspended from trading (other than a mere trading halt)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gifts of shares held in different companies are separate gifts even if given at the same time."
+    },
+    {
+      "type": "paragraph",
+      "text": "A deduction is also available to you where you contribute the shares in return for a right permitting you or another individual to attend or participate in a particular fund-raising event in Australia. The gift must satisfy the rules for contributions to fund-raising events :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the market value of the shares on the day they are contributed must be more than $150 but less than or equal to $5,000",
+        "the market value of the right to attend or participate in the fund-raising event must not exceed 20% of the value of the shares or $150, whichever is less."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Be aware that capital gains tax applies when you make a gift of shares."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Contributions and gifts to registered political parties and independent candidates and members"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim a deduction for contributions or gifts to registered political parties, independent members of parliament (state or Commonwealth) or independent candidates in an election for parliament. Contributions must be $2 or more. The contribution or gift must be of money or property that you purchased during the 12 months before making the contribution or gift. If it is property, the amount deductible is the market value of the property at the time of the donation or the amount you paid for the property, whichever is less."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the total of all your contributions and gifts to political parties during the year is greater than $1,500 then the maximum amount you can deduct is $1,500. A separate deduction limit of $1,500 applies if the total of all your contributions and gifts to independent candidates or independent members of parliament for the year exceeds $1,500."
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim a deduction for a political gift or contribution of $2 or more (including membership fees) to registered political parties, independent candidates and members of an Australian legislature if you make the gift or contribution in the course of carrying on a business."
+    },
+    {
+      "type": "paragraph",
+      "text": "The contribution must be to a political party that is registered under Commonwealth, state or territory electoral laws."
+    },
+    {
+      "type": "paragraph",
+      "text": "The contribution to an independent candidate or independent members must be to a candidate for election to, or member of, the Commonwealth Parliament, a state or territory parliament."
+    },
+    {
+      "type": "paragraph",
+      "text": "An independent candidate is an individual whose candidature in an election for parliament is not endorsed by a registered political party. An independent member is a member of parliament who is not a member of a registered political party."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Australian superannuation income stream tax offset (questions 7 and T2)"
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete item T2 when your payment summary does not show the tax offset amount:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "follow the steps below if you were under 60 years old, and you did not have a death benefit income stream where the deceased was 60 years old or older",
+        "read question T2 if you are 60 years old or older, or you have a death benefit income stream where the deceased was 60 years old or older."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "For each PAYG payment summary – superannuation income stream that does not show a tax offset amount, you can work out your tax offset amount by multiplying the taxed element and the untaxed element of the taxable component shown on each of those payment summaries by the relevant percentage shown in tables 6A to 6C ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "The amount of any taxed element of your superannuation income stream benefit paid to you for which you are entitled to a tax offset",
+          "$"
+        ],
+        [
+          "b",
+          "Relevant percentage from Tables 6A to 6C",
+          "%"
+        ],
+        [
+          "c",
+          "Multiply row a by row b .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Tables 6A to 6C: Percentages you use to work out your Australian superannuation income stream tax offset"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Age of the deceased",
+          "Your age at date of each payment",
+          "Taxed element",
+          "Untaxed element"
+        ],
+        [
+          "Under 60 years old",
+          "Under 60 years old",
+          "15%",
+          "0%"
+        ],
+        [
+          "Under 60 years old",
+          "60 years old or older",
+          "Not applicable",
+          "Limited – read question T2 ."
+        ],
+        [
+          "60 years old or older",
+          "Any age",
+          "Not applicable",
+          "Limited – read question T2 ."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Your age at date of each payment",
+          "Taxed element",
+          "Untaxed element"
+        ],
+        [
+          "Under 60 years old",
+          "15%",
+          "0%"
+        ],
+        [
+          "60 years old or older",
+          "Not applicable",
+          "Limited – read question T2 ."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Your age at date of each payment",
+          "Taxed element",
+          "Untaxed element"
+        ],
+        [
+          "Under preservation age",
+          "0%",
+          "0%"
+        ],
+        [
+          "From preservation age and under 60 years old",
+          "15%",
+          "0%"
+        ],
+        [
+          "60 years or older",
+          "Not applicable",
+          "Limited – read question T2 ."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your circumstances in the above tables changed during 2018–19, for example, because you turned 60 years old during the year, then a different percentage of tax offset may apply to the amounts of the superannuation income stream you received before and after your birthday; read question T2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have any PAYG payment summary – superannuation income stream that shows tax offset amounts, and you were under 60 years old on 30 June 2019, add up these amounts and the amount from row h in worksheet 1 at question T2 . Write the total amount at S item T2 on your tax return. Do not show cents."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Tax-free government pensions or benefits that are taken into account in the income tests (question IT3)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you receive any of the government pensions or benefits listed below, you must include at IT3 the part of those pensions and benefits that are exempt from tax. In some cases, all of your pension or benefit could be exempt from tax, and in other cases only part of it might be."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include any part of the following pensions and benefits that is a bereavement payment, pharmaceutical allowance, rent assistance or remote area allowance, or language, literacy and numeracy supplement."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Disability support pension paid by Centrelink to a person who is under age-pension age",
+        "Wife pension where both the recipient and their partner are under age-pension age, or the recipient is under the age-pension age and their partner has died",
+        "Carer payment under Part 2.5 of the Social Security Act 1991 (this is not the carer allowance under Part 2.19 of the Social Security Act 1991 )",
+        "Pension for defence, peacekeeping or war-caused death or incapacity, or any other pension granted under Part II or Part IV of the Veterans' Entitlement Act 1986",
+        "Invalidity service pension where the veteran is under age-pension age",
+        "Partner service pension where either the partner and the veteran are under the age-pension age and the veteran is receiving an invalidity service pension, or the partner is under age-pension age, the veteran has died and was receiving an invalidity service pension at the time of death",
+        "Income support supplement paid under Part IIIA of the Veterans' Entitlements Act 1986",
+        "Veteran payment under an instrument made under Part IIIAA of the Veterans' Entitlements Act 1986",
+        "Defence Force income support allowance payable to you on a day when the whole of your social security pension or benefit, which is also payable to you on that day, is exempt from income tax under section 52-10 of the Income Tax Assessment Act 1997",
+        "Special rate disability pension under Part 6 of Chapter 4 of the Military Rehabilitation and Compensation Act 2004",
+        "Payment of compensation under section 68, 71 or 75 of the Military Rehabilitation and Compensation Act 2004",
+        "Payment of the weekly amount mentioned in paragraph 234(1)(b) of the Military Rehabilitation and Compensation Act 2004 (including a reduced weekly amount because of a choice under section 236 of that Act) or of a lump sum mentioned in subsection 236(5) of that Act"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are not sure, for the purpose of this question, whether a government pension or benefit you have received is tax-free, phone 13 28 61 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Glossary"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Capped defined benefit income streams"
+    },
+    {
+      "type": "paragraph",
+      "text": "Capped defined benefit income streams include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "lifetime pensions, regardless of when they start",
+        "lifetime annuities that existed and were in retirement phase prior to 1 July 2017",
+        "life expectancy pensions and annuities that existed and were in retirement phase prior to 1 July 2017",
+        "market-linked pensions and annuities that existed and were in retirement phase prior to 1 July 2017."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Due to commutation restrictions, transfer balance cap rules apply differently to capped defined benefit income streams. Instead, a defined benefit income cap will limit the amount of tax-free income you can receive from one of these income streams."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally for 2018–19, the defined benefit income cap is $100,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are 60 years old or older (or a death benefit dependant and the deceased died at 60 years old or older) and your superannuation income stream benefits paid from capped defined benefit income streams exceeds your defined benefit income cap, you may have additional tax liabilities:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If the total of your tax free components and taxed element amounts exceeds your defined benefit income cap, 50% of the excess will be taxed at your current marginal rate. Untaxed element amounts are excluded from this calculation. If you are under 60 years old only superannuation income stream benefits from capped defined benefit income streams you receive as a death benefits dependant where the deceased dies at age 60 years old or older are included in this calculation.",
+        "If you receive untaxed element amounts and the total of your superannuation income streams benefits from capped defined benefit income streams exceeds your defined benefit income cap, the 10% tax offset that applies to your untaxed element amounts will be reduced by an amount that is 10% of that excess. If you are under 60 years old only superannuation income stream benefits from capped defined benefit income streams you receive as a death benefits dependant where the deceased dies at age 60 years old or older are included in this calculation."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Transfer balance cap",
+        "Transfer balance cap – capped defined benefit income streams"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Child"
+    },
+    {
+      "type": "paragraph",
+      "text": "Child includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your adopted child, stepchild or ex-nuptial child",
+        "a child of your spouse, and",
+        "someone who is your child within the meaning of the Family Law Act 1975 (for example, a child who is considered to be a child of a person under a state or territory court order giving effect to a surrogacy agreement)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Death benefit employment termination payment (ETP) (question 4)"
+    },
+    {
+      "type": "paragraph",
+      "text": "A death benefit ETP is a lump sum payment which is paid to you because you are the beneficiary of a person who has died. If the ETP was paid to you as the trustee of a deceased estate, you must show the ETP on the tax return of the deceased estate, not on your personal tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a death benefit ETP from a deceased person's employer, the information provided on your PAYG payment summary – employment termination payment will depend on whether you were a death benefits dependant ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were a death benefits dependant, the payment summary will show only the taxable components of the ETP over $205,000. If you were not a death benefits dependant, the payment summary will show the entire taxable component of the ETP."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Death benefits dependant (questions 4, 7 and 8)"
+    },
+    {
+      "type": "paragraph",
+      "text": "You are a death benefits dependant of the deceased if, at the time they died, you were:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the surviving spouse",
+        "a former spouse",
+        "a child of the deceased and you were under 18 years old",
+        "any other person who was financially dependent on the deceased, or",
+        "any other person in an interdependency relationship with the deceased."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For question 8, you are also a death benefits dependant when you receive a superannuation lump sum payment because a member of the Australian Defence Force or of an Australian police force, including the Australian Protective Service, died in the line of duty."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with the dependency status shown on your payment summary, you should discuss it with the payer."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purposes of the definition of death benefits dependant the following apply:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spouse of the deceased includes another person (of any sex):"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "with whom the deceased was in a relationship that was registered under a prescribed law of a state or territory",
+        "not legally married to the deceased person, who lived with the deceased on a genuine domestic basis in a relationship as a couple."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Child of the deceased includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an adopted child, stepchild or ex-nuptial child of the deceased",
+        "a child of the deceased's spouse",
+        "someone who is a child of the deceased within the meaning of the Family Law Act 1975 (for example, a child who is considered to be a child of a person under a state or territory court order giving effect to a surrogacy agreement)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Defined benefit income cap"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the amount of certain superannuation income stream benefits an individual can receive from capped defined benefit income streams before being subject to additional income tax."
+    },
+    {
+      "type": "paragraph",
+      "text": "For 2018–19, the defined benefit income cap is $100,000 (the $1.6 million general transfer balance cap divided by 16), though this may be reduced in certain circumstances, including if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "are receiving a capped defined benefit income stream and turn 60 years old part-way through the year, and therefore begin receiving concessional tax treatment for that income",
+        "start a capped defined benefit income stream with concessional tax treatment for the first time part-way through the year",
+        "start receiving a capped defined benefit income stream that was a death benefit income stream with concessional tax treatment part-way through the year",
+        "are under 60 years old and receive more than one capped defined benefit income stream where at least one is a death benefit income stream where the deceased died age 60 or older and one is not a death benefit income stream where the deceased died age 60 or older."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In future financial years, the defined benefit income cap will be indexed in line with the general transfer balance cap."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Death benefit income stream (questions 7 and T2)"
+    },
+    {
+      "type": "paragraph",
+      "text": "A death benefit income stream is a superannuation income stream paid to you as a death benefits dependant of a deceased member."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Dependant (questions T4 and T5)"
+    },
+    {
+      "type": "paragraph",
+      "text": "A dependant must be an Australian resident for tax purposes. A dependant can be:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your spouse",
+        "a child who is under 21 years old and is not a student",
+        "a student under 25 years old who is studying full time at school, college or university",
+        "an invalid or an invalid carer."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to claim a tax offset for your dependants you may need to work out your and your dependants’ adjusted taxable income (ATI) for the relevant period to determine:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "whether you are eligible for a tax offset, and",
+        "the amount of the tax offset you are entitled to."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Adjusted taxable income (ATI) for you and your dependants 2019"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Foreign termination payment (FTP) (question 4)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you think you received a foreign termination payment (discussed at question 4 ) the following description will help you decide what to do."
+    },
+    {
+      "type": "paragraph",
+      "text": "An FTP is a payment that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you received in consequence of the termination of your employment in a foreign country and the payment relates only to a period of employment when you were a foreign resident, or",
+        "was not exempt from income tax in the foreign country, you were an Australian resident during the period of the employment or service, and you received the payment as a result of the termination of your employment in a foreign country where the foreign earnings were exempt from Australian tax for the period of employment, or qualifying service on an approved project and the eligible foreign remuneration was exempt from Australian tax during the period of engagement."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The payment is not an FTP if it is a superannuation benefit paid from a superannuation fund, retirement savings account or an approved deposit fund or if it is a payment of a pension or an annuity."
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign termination payments are non-assessable non-exempt income, that is, tax-free income. Do not show them anywhere on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Income statement"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your employer is reporting through Single Touch Payroll your income statement replaces your payment summary."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can access your income statement online in myGov. We update your income statement throughout the year when your employer pays you. If your income statement is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "tax ready , your employer has finished with your income statement and you can use it to do your tax return",
+        "year to date or not tax ready , your employer has not finished with your income statement. Your employer must finalise your information by 14 August."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Indeterminate (Spouse details – married or de facto)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Indeterminate refers to any person who does not exclusively identify as either male or female, for example, a person of a non-binary gender. A person may use a variety of other terms to self-identify."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Interdependency relationship"
+    },
+    {
+      "type": "paragraph",
+      "text": "An interdependency relationship exists if there is a close personal relationship between two persons and the following conditions are met:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "they live together, and",
+        "one or each of them provides the other with financial support, domestic support and personal care."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "An interdependency relationship can also exist if there is a close personal relationship between two persons but one or more of the conditions stated above are not satisfied because of the physical, intellectual or psychiatric disability of one of the people."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, two persons do not have an interdependency relationship if one of them provides domestic support and personal care to the other:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "under an employment contract or a contract for service, or",
+        "on behalf of another person or organisation such as a government agency, a body corporate or a benevolent or charitable organisation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Invalid (questions T6 and M1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "An invalid can be your:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "spouse",
+        "parent",
+        "child, aged 16 years or older",
+        "brother or sister, aged 16 years old or older",
+        "spouse's parent",
+        "spouse's child, aged 16 years or older, or",
+        "spouse's brother or sister, aged 16 years old or older."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "That person must be receiving:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a disability support pension under the Social Security Act 1991",
+        "a special needs disability support pension under the Social Security Act 1991 , or",
+        "an invalidity service pension under the Veterans' Entitlement Act 1986 ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Invalid carer (questions T6 and M1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "A dependent carer is your:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "spouse",
+        "parent",
+        "spouse's parent"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "who is caring for your or your spouse's invalid child aged 16 years or older, or your or your spouse's invalid brother or sister aged 16 years old or older."
+    },
+    {
+      "type": "paragraph",
+      "text": "The invalid carer must be:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "receiving a carer allowance or carer payment under the Social Security Act 1991 in relation to caring for that person"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "or"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "wholly engaged in providing care to that person and the person being cared for receives a disability support pension under the Social Security Act 1991 a special needs disability support pension under the Social Security Act 1991 , or an invalidity service pension under the Veterans' Entitlement Act 1986 ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Late termination payment (question 4)"
+    },
+    {
+      "type": "paragraph",
+      "text": "A late termination payment is a lump sum payment, similar to employment termination payments (ETPs) referred to in question 4 , which you received more than 12 months after the time you retired or ceased employment."
+    },
+    {
+      "type": "paragraph",
+      "text": "A late termination payment is treated as an ETP where:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "legal action about your entitlement to the ETP or about the amount of the ETP was commenced within 12 months of the termination of your employment",
+        "the payment was made by a person who was appointed within 12 months of your employment termination as a liquidator, receiver or trustee in bankruptcy for the employer, or",
+        "the payment was due to a person's membership in a redundancy trust and the application for payment was made within 12 months of becoming entitled to the payment under the rules of the trust. The trustee of the redundancy trust must make the payment as soon as practicable after receiving the application and within two years of the termination of the employment that led to the entitlement."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If these conditions are not met, and you received the payment more than 12 months after termination of your employment, then you must show the amount of the payment at item 1 on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Low-rate cap amount for taxable components of superannuation lump sum payments (question 8)"
+    },
+    {
+      "type": "paragraph",
+      "text": "This concession applies only to superannuation lump sums paid to you when you have reached your preservation age but before you turn 60 years old."
+    },
+    {
+      "type": "paragraph",
+      "text": "The low-rate cap amount is the maximum amount of taxable components (taxed and untaxed elements) that can be taxed at a concessional lower rate."
+    },
+    {
+      "type": "paragraph",
+      "text": "For 2018–19, the low-rate cap amount is a maximum of $205,000, but it could be less for you if before July 2018 you received any superannuation lump sums that counted towards your entitlement to a superannuation lump sum tax offset. The amount is indexed to average weekly ordinary time earnings and rounded down to the nearest multiple of $5,000. See Key superannuation rates and thresholds ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The low-rate cap amount is a 'lifetime' limit. This means that the taxed element and untaxed elements of all superannuation lump sum payments that you receive (as well as the amount of any eligible termination payments for which you became entitled to a rebate before 1 July 2007) when you have reached your preservation age but before you turn 60 years old will be taxed at a concessional rate until your total reaches the low-rate cap amount ($205,000 plus future indexed increases). Payments you receive in excess of the low-rate cap amount will be taxed at the tax rate shown in Tables 2A to 2C ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consequently, for 2018–19 the maximum amount for which you can be taxed at a concessional rate is $205,000 less any amounts to which the concessional tax rate has previously been applied."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Tax on contributions"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Maintaining a dependant (questions T4, T5, M1, M2 and IT8) or maintaining another person (question T6)"
+    },
+    {
+      "type": "paragraph",
+      "text": "You maintained a dependant or maintained another person if any of the following applied:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you both lived in the same house",
+        "you gave them food, clothing and lodging",
+        "you helped them to pay for their living, medical and educational costs."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a spouse for the whole of 2018–19 and your spouse worked at any time during the year, we still consider you to have maintained your spouse as a dependant for the whole income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "We consider you to have maintained a dependant or maintained another person even if the two of you were temporarily separated, for example, due to holidays or overseas travel."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you maintained a dependant or maintained another person for only part of the year, you may need to adjust your claim accordingly."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pension age (Amounts that you do not pay tax on)"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Centrelink",
+          "65 years and six months old or older"
+        ],
+        [
+          "Veterans' Affairs",
+          "Veteran or war widow or war widower who: is 60 years old or older meets the veteran pension age test"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Preservation age (questions T2, M1 and M2)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Super benefits can only be accessed if a condition of release is met, which in many cases will depend on the member's preservation age. Access to lump sum super benefits is generally restricted to members who have reached their preservation age and retired. Your preservation age depends on when you were born."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following table will help you work it out."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Date of birth",
+          "Preservation age"
+        ],
+        [
+          "Before 1 July 1960",
+          "55"
+        ],
+        [
+          "1 July 1960 – 30 June 1961",
+          "56"
+        ],
+        [
+          "1 July 1961 – 30 June 1962",
+          "57"
+        ],
+        [
+          "1 July 1962 – 30 June 1963",
+          "58"
+        ],
+        [
+          "1 July 1963 – 30 June 1964",
+          "59"
+        ],
+        [
+          "From 1 July 1964",
+          "60"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Tax on contributions"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Shared care (questions M1 and T4)"
+    },
+    {
+      "type": "paragraph",
+      "text": "You had shared care if you, and your spouse if you had one, cared for your child for some of the income year, and someone else, such as a former spouse, cared for the child for the rest of the income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received family tax benefit (FTB) Part B as part of a shared-care arrangement, you will need to know your FTB shared-care percentage to calculate your spouse offset. Your FTB shared-care percentage is usually not the same as your ‘shared care percentage’ which appears on correspondence you have received from Services Australia."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not know your FTB shared-care percentage, contact Services Australia on 13 61 50 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sole care (question M1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sole care means that you alone had full responsibility, on a day-to-day basis, for the upbringing, welfare and maintenance of a child or student. You are not considered to have sole care if you are living with a spouse (married or de facto) unless special circumstances exist. Generally, for special circumstances to exist, you must be financially responsible for the dependent child or student and have sole care without the support that a spouse normally provides."
+    },
+    {
+      "type": "paragraph",
+      "text": "Situations where special circumstances may arise include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You were married at any time during 2018–19 but during the year you separated from, or were deserted by, your spouse and for that period you were not in a de facto relationship.",
+        "Your spouse was in prison for a sentence of at least 12 months.",
+        "Your spouse is medically certified as being permanently mentally incapable of taking part in caring for the child or student."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are not sure whether special circumstances apply, phone 13 28 61 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Spouse"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your spouse includes another person (of any sex) who, for 2018–19:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were in a relationship with that was registered under a prescribed state or territory law",
+        "although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Terminal medical condition (question 8)"
+    },
+    {
+      "type": "paragraph",
+      "text": "For income tax purposes, you have a terminal medical condition if both the following circumstances are met:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "two registered medical practitioners (with at least one being a specialist practising in the area related to the illness or injury) have certified that you suffer an illness or have incurred an injury that is likely to result in your death within a 24 month period, starting from the date of certification",
+        "each of the certificates is less than 24 months old."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Superannuation lump sum payments paid to you are tax free if you have a terminal medical condition at the time you received the payment or within 90 days of receiving payment. You should not have received a PAYG payment summary for these payments."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received such a payment and tax was withheld, you can get a refund of the tax."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Withdrawing and using your super"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Transfer balance cap (questions 7, 8 and T2)"
+    },
+    {
+      "type": "paragraph",
+      "text": "There is a cap on the total amount of superannuation that can be transferred into a superannuation income stream (such as a pension or annuity)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The transfer balance cap for 2018–19 is $1.6 million (this may be reduced in certain circumstances)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Untaxed-plan cap amount for untaxed elements (question 8)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The untaxed-plan cap amount is the maximum amount of the untaxed elements of your superannuation lump sum payments which will be subject to concessional tax rates."
+    },
+    {
+      "type": "paragraph",
+      "text": "For 2018–19, the untaxed-plan cap amount is a maximum of $1.480 million, but it could be less for you if you have previously received another superannuation lump sum with an untaxed element from the same superannuation fund. The amount is indexed to average weekly ordinary time earnings and rounded down to the nearest multiple of $5,000. See Key superannuation rates and thresholds ."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is a separate untaxed-plan cap amount for each superannuation fund you have. This means that, for each fund, the untaxed elements which make up your superannuation payments will be taxed at a concessional rate until these untaxed elements reach the untaxed-plan cap amount ($1.480 million plus future indexed increases). Amounts above this limit are taxed at the top marginal rate."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you roll over an amount from one superannuation fund to another, any untaxed element that is part of that amount will count towards the untaxed-plan cap amount for the fund from which the amount was rolled over."
+    }
+  ],
+  "content_text": "## Special circumstances\n### Non-resident withholding tax\n#### Gross interest (question 10)\nIf you were a foreign resident, include at item 10 any interest that you received in 2018–19 while you were an Australian resident.\nDo not include at item 10 any interest paid or credited to you when you were a foreign resident if withholding tax was deducted.\nIf withholding tax was not deducted, on a separate piece of paper:\n- print Schedule of additional information – Item 10\n- print your name, address and tax file number\n- provide details of amounts of interest you received while you were a foreign resident if withholding tax was not deducted.\nAttach your schedule to page 3 of your tax return. Print X in the Yes box at Taxpayers' declaration question 2 on page 10 of your tax return.\nWe will advise you of the amount of withholding tax you have to pay on this interest.\n#### Dividends (question 11)\nDo not include at item 11 any dividend income paid or credited to you during the period you were a foreign resident, if:\n- the dividend was fully franked, or\n- the dividend was not fully franked, but either the dividend statement shows the unfranked amount to be conduit foreign income, or withholding tax was (or should have been) withheld from the unfranked amount.\nYou need to provide details of any dividend:\n- that was paid or credited to you during any period you were a foreign resident\n- that was not fully franked and was not declared to be conduit foreign income, and\n- on which you have not paid withholding tax.\nOn a separate piece of paper:\n- print Schedule of additional information – Item 11\n- print your name, address and tax file number\n- provide details of the dividend.\nAttach your schedule to page 3 of your tax return. Print X in the Yes box at Taxpayers' declaration question 2 on page 10 of your tax return.\nWe will work out the amount of withholding tax you have to pay on the dividends, and advise you of the amount.\n#### Foreign employment termination payments (question 4)\nAn employment termination payment (ETP) that you received due to termination of your employment overseas is a foreign employment termination payment (foreign ETP):\n- where you were an Australian resident for the period of your employment\n- where the payment was exempt from income tax under that country's laws, and\n- whether or not your foreign employer has an Australian business number (ABN) or has given you a PAYG payment summary – employment termination payment .\nA foreign ETP is different from a foreign termination payment (FTP) .\n#### Instructions for foreign ETPs\nYou need to convert your foreign ETPs into Australian dollars before you can complete item 4 . For information about exchange rates and how to convert foreign payments, go to Foreign exchange rates or phone 13 28 61 .\n- Then on a separate piece of paper print Schedule of additional information – Item 4 print your name, address and tax file number for each foreign ETP, print the name of the payer and the foreign country in which you were employed, and write the amount of the payment for each foreign ETP, print the appropriate code letter (from those listed at step 4 in question 4 Employment termination payments (ETP) 2019 ). You must provide a valid code for each payment.\n- Attach your schedule to page 3 of your tax return.\n- Print X in the Yes box at Taxpayers' declaration question 2 on page 10 of your tax return.\nYou will need to include the total amount of these foreign ETPs in the amount you show at I item 4 on your tax return.\nGo to step 1 in question 4 Employment termination payments (ETP) 2019 .\n### Dividends and franking credits (questions 11 and D8)\n#### Dividend washing integrity rule\nThe dividend washing integrity rule prevents you from claiming franking credits where you have received a dividend as a result of dividend washing.\nDividend washing occurs where you, or an entity connected to you, claim two sets of franking credits by:\n- selling shares that are held on the Australian Securities Exchange (ASX) and have become ‘ex-dividend’, and then\n- purchasing some substantially identical shares using a special ASX trading market.\nWhen the dividend washing integrity rule applies, you are not entitled to claim the franking credits for the second dividend. However, if your interest in the second parcel of shares exceeds the interest in the first parcel, you may be entitled to claim a portion of the franking credits for the additional shares. For more information, see Dividend washing rule .\nThe dividend washing integrity rule does not apply if:\n- you are an individual, and\n- you received no more than $5,000 in franking credits during 2018–19.\nHowever, the dividend washing integrity rule applies where dividends flow indirectly to you through your interest in a trust or partnership.\nIf you are claiming franking credits at item 11 , certain rules apply. Read the following to check that you are entitled to claim the credits.\nYou must be a 'qualified person' to be entitled to a franking credit in respect of a dividend. To be a qualified person you must satisfy the holding period rule and the related payments rule.\n#### Holding period rule\nTo be able to claim the franking credits the holding period rule requires you to hold shares 'at risk' for at least 45 days (90 days for certain preference shares).\nWhen working out the number of days you held the shares at risk, do not count the day on which you acquired the shares and the day on which you disposed of the shares (or you entered into an arrangement to reduce the risk of making a loss on them).\nThis rule applies generally to shares bought on or after 1 July 1997.\nEven if you did not hold the shares at risk for the required period, you may still be entitled to claim the franking credits if:\n- your total direct and indirect franking credit entitlement for 2018–19, including any entitlement you may have had through a trust or partnership, was not above $5,000 (the small shareholder exemption), and\n- the related payments rule did not apply to you.\nIn determining whether the holding period rule is satisfied for the prescribed minimum period, no account is taken of any days on which you entered into an arrangement to materially reduce the risk of making a loss on your shares, such as through derivatives, hedges, options and futures.\nIf you do not satisfy the holding period rule, include the franked amount of the dividend at T item 11 but do not include any franking credit amount at U item 11 for that dividend.\n#### Related payments rule\nThe related payments rule applies to arrangements entered into after 7.30pm (Australian Eastern Standard Time) on 13 May 1997. Broadly, it applies to you if you effectively had no interest in a dividend because you were under an obligation to make, or were likely to make, a related payment to another party for the dividend and you did not hold your shares 'at risk' for at least 45 days (90 days for certain preference shares).\nWhen working out the number of days you held the shares 'at risk', do not count the day on which you acquired the shares and the day on which you disposed of the shares (or you entered into an arrangement to reduce the risk of making a loss on them).\nA related payment includes you, or your associate, doing something under an arrangement that has the effect of passing the benefit of the dividend to someone else.\nIf either the holding period rule or related payments rule is likely to affect you, see You and your shares 2019 .\n### Australian superannuation lump sum payments (question 8)\nTables 1A to 2C set out the maximum tax rates that apply to superannuation lump sum payments made by complying superannuation funds. The Medicare levy is additional where applicable. You may find this useful in completing items 8 , M1 and M2 .\nAny lump sum in arrears amounts must be included in your assessable income regardless of the period the income stream payment relates to.\n#### Tables 1A and 1B: Death benefit\nElement | Amount | Tax rate\nTax free component | Whole | Tax free\nTaxed element | Whole | Tax free\nUntaxed element | Whole | Tax free\nElement | Amount | Tax rate\nTax free component | Whole | Tax free\nTaxed element | Whole | 15%\nUntaxed element | Whole | 30%\n#### Tables 2A to 2C: Superannuation lump sum (other than death benefit)\nElement | Amount | Tax rate\nTax free component | Whole | Tax free\nTaxed element | Whole | 20%\nUntaxed element | Up to the untaxed-plan cap amount, $1,480,000 (see Note 1 ) | 30%\nUntaxed element | Over the untaxed-plan cap amount, $1,480,000 (see Note 1 ) | 45%\nElement | Amount | Tax rate\nTax free component | Whole | Tax free\nTaxed element | Up to the low rate cap amount, $205,000 (see Note 2 ) | Tax free\nTaxed element | Over the low rate cap amount, $205,000 (see Note 2 ) | 15%\nUntaxed element | Up to the low rate cap amount, $205,000 (see Note 2 ) | 15%\nUntaxed element | Over the low rate cap amount, $205,000 (see Note 2 ) and up to the untaxed-plan cap amount, $1,480,000 (see Note 1 ) | 30%\nUntaxed element | Over the untaxed-plan cap amount, $1,480,000 (see Note 1 ) | 45%\nElement | Amount | Tax rate\nTax free component | Whole | Tax free\nTaxed element | Whole | Tax free\nUntaxed element | Up to the untaxed-plan cap amount, $1,480,000 (see Note 1 ) | 15%\nUntaxed element | Over the untaxed-plan cap amount, $1,480,000 (see Note 1 ) | 45%\nNote 1: For 2018–19, the untaxed-plan cap amount is a maximum of $1.480 million, but it could be less for you if you have previously received another superannuation lump sum with an untaxed element from the same superannuation fund. For more information on how we work out your untaxed-plan cap amount, see How tax applies to your super .\nNote 2: For 2018–19, the low-rate cap amount is a maximum of $205,000, but it could be less if you received any superannuation lump sums in a prior income year that counted towards your entitlement to a superannuation lump sum tax offset or, if before July 2007, you received an eligible termination payment after your 55th birthday. For more information on how we work out your low-rate cap amount, see How tax applies to your super .\nSee Glossary about the low-rate cap amount and untaxed-plan cap amount.\n### Leased luxury cars (question D1)\nIf you leased a luxury car and wish to claim a deduction at item D1 or D2 , the following information about luxury cars will help you.\nA leased luxury car is a leased car that at the time the lease began had a market value of more than the 'car limit' that applied in the relevant income year.\nYou can claim a deduction for the decline in value of a leased luxury car (but not for other leased cars). The car can be new or second-hand. You must use the logbook method. For more information on the logbook method, read D1 .\nWhen claiming a deduction for decline in value, the initial value that you use for the car is the limit that applied in the income year in which the lease began.\nYear | Limit\n2018–19 | $57,581\n2017–18 | $57,581\n2016–17 | $57,581\n2015–16 | $57,466\n2014–15 | $57,466\n2013–14 | $57,466\n2012–13 | $57,466\n2011–12 | $57,466\n2010–11 | $57,466\n2009–10 | $57,180\n### Work-related travel expenses (question D2)\nTables 4 and 5 outline the evidence you need to keep to claim overnight travel expenses.\n#### Travel diary\nWhether for domestic or overseas travel, a travel diary is a document in which you record the nature, places, dates, times and duration of your activities and travel.\nCondition | Written evidence | Travel diary required\nYou did not receive a travel allowance and the travel was less than 6 nights in a row. | Yes | No\nYou did not receive a travel allowance and the travel was 6 or more nights in a row. | Yes | Yes\nYou received a travel allowance, your claim does not exceed the reasonable allowance amount and the travel was less than 6 nights in a row. | No | No\nYou received a travel allowance, your claim does not exceed the reasonable allowance amount and the travel was 6 or more nights in a row. | No | No\nYou received a travel allowance, your claim exceeds the reasonable allowance amount and the travel was less than 6 nights in a row. | Yes | No\nYou received a travel allowance, your claim exceeds the reasonable allowance amount and the travel was 6 or more nights in a row. | Yes | Yes\n#### Overseas travel\nYou need written evidence for overseas accommodation expenses, regardless of the length of the trip. You do not need written evidence for food, drink and incidentals.\nMembers of international aircrews do not have to keep a travel diary if they limit their claim to the amount of the allowance received.\nCondition | Written evidence | Travel diary required\nYou did not receive a travel allowance and the travel was less than 6 nights in a row. | Yes | No\nYou did not receive a travel allowance and the travel was 6 or more nights in a row. | Yes | Yes\nYou received a travel allowance, your claim does not exceed the reasonable allowance amount and the travel was less than 6 nights in a row. | No | No\nYou received a travel allowance, your claim does not exceed the reasonable allowance amount and the travel was 6 or more nights in a row. | No | Yes\nYou received a travel allowance, your claim exceeds the reasonable allowance amount and the travel was less than 6 nights in a row. | Yes | No\nYou received a travel allowance, your claim exceeds the reasonable allowance amount and the travel was 6 or more nights in a row. | Yes | Yes\n### Rules for certain types of gifts or donations (question D9)\nThe following information is about different types of gifts or donations for which you may be able to claim a deduction at item D9 . If you obtained a valuation of a deductible donation of property, you may be able to claim a deduction for the cost of that valuation under D10 .\n#### Gifts of property\nYou can claim a deduction for a gift of property (such as land, artwork or memorabilia) to an eligible organisation if:\n- you purchased the property within 12 months of making the gift, or\n- you purchased the property more than 12 months before you made the gift and the Commissioner valued it at more than $5,000.\nIf you purchased the property within 12 months of making the gift, the amount deductible is the market value of the property at the time of the gift or the amount you paid for the property, whichever is less. If you purchased the property more than 12 months before you made the gift and the Commissioner valued it at more than $5,000, the amount deductible is the value of the property as determined by the Commissioner.\nYou cannot claim a deduction for a gift of property if you did not purchase it (for example, you inherited or won the property) unless the Commissioner has valued it at more than $5,000.\nIf you have made a gift of property under the cultural gifts program the rules described above do not apply to you. For more information on working out whether you can claim a deduction for a gift under this program, see Donating under the Cultural Gifts Program .\nFor more information about property valuations, phone 13 28 61 or go to ato.gov.au\n#### Receiving a benefit\nGenerally, you cannot claim a deduction for a donation if you received something in return (for example, a raffle ticket, dinner or a reduction in your child's school fees) other than tokens like lapel badges and stickers that promote the organisation. This rule does not apply to certain fund-raising events (see Deductions for contributions relating to fund-raising events ).\n#### Deductions for contributions relating to fund-raising events\nYou can claim a deduction for contributions to approved organisations that relate to fund-raising events where you received a minor benefit for your contribution, provided that:\n- the contribution meets certain conditions, and\n- the benefit you received does not exceed a specified limit.\nA fund-raising event includes a fete, ball, gala show, dinner, performance or similar event.\nYou can claim a deduction if you made:\n- a contribution of money or property to attend or participate in (or for the right to attend or participate in) a fund-raising event, or\n- a contribution of money to purchase goods or services at a charitable auction.\nYour contribution must meet the following conditions.\n- It was made to an approved organisation.\n- If it was money, it was more than $150.\n- If it was property, you had either purchased it within 12 months of making the contribution, and both the market value on the day of the contribution and the purchase price were more than $150, or owned it for more than 12 months and the Commissioner valued it at more than $5,000.\n- If it was publicly listed shares, the value was more than $150 and less than or equal to $5,000.\n- The fund-raising event was held in Australia.\n- The GST-inclusive market value of the minor benefit you received for your contribution must have been worth no more than $150 or 20% of the value of the contribution, whichever is less. The receipt from the approved organisation will show the market value of the minor benefit you received.\nYour deduction is the value of your contribution that satisfies the conditions set out above less the GST-inclusive market value of the minor benefit you received. Both of these amounts appear on your receipt.\nThere is no limit to the number of deductions you can claim for successful bids to purchase goods or services at a charitable auction, provided the above conditions are met.\n#### Gifts of shares valued at $5,000 or less\nYou can claim a deduction for a gift of shares to an approved organisation if:\n- the shares were held in a company that was listed on an approved Australian stock exchange on the day the gift was made\n- you acquired the shares at least 12 months before making the gift ('acquired' includes purchased, inherited, won or received as a gift or a bonus)\n- the parcel of shares had a market value of $5,000 or less on the day you made the gift\n- the parcel of shares was valued at $2 or more.\nYou cannot claim a deduction for shares that are suspended from trading (other than a mere trading halt).\nGifts of shares held in different companies are separate gifts even if given at the same time.\nA deduction is also available to you where you contribute the shares in return for a right permitting you or another individual to attend or participate in a particular fund-raising event in Australia. The gift must satisfy the rules for contributions to fund-raising events :\n- the market value of the shares on the day they are contributed must be more than $150 but less than or equal to $5,000\n- the market value of the right to attend or participate in the fund-raising event must not exceed 20% of the value of the shares or $150, whichever is less.\nBe aware that capital gains tax applies when you make a gift of shares.\n#### Contributions and gifts to registered political parties and independent candidates and members\nYou can claim a deduction for contributions or gifts to registered political parties, independent members of parliament (state or Commonwealth) or independent candidates in an election for parliament. Contributions must be $2 or more. The contribution or gift must be of money or property that you purchased during the 12 months before making the contribution or gift. If it is property, the amount deductible is the market value of the property at the time of the donation or the amount you paid for the property, whichever is less.\nIf the total of all your contributions and gifts to political parties during the year is greater than $1,500 then the maximum amount you can deduct is $1,500. A separate deduction limit of $1,500 applies if the total of all your contributions and gifts to independent candidates or independent members of parliament for the year exceeds $1,500.\nYou cannot claim a deduction for a political gift or contribution of $2 or more (including membership fees) to registered political parties, independent candidates and members of an Australian legislature if you make the gift or contribution in the course of carrying on a business.\nThe contribution must be to a political party that is registered under Commonwealth, state or territory electoral laws.\nThe contribution to an independent candidate or independent members must be to a candidate for election to, or member of, the Commonwealth Parliament, a state or territory parliament.\nAn independent candidate is an individual whose candidature in an election for parliament is not endorsed by a registered political party. An independent member is a member of parliament who is not a member of a registered political party.\n### Australian superannuation income stream tax offset (questions 7 and T2)\nTo complete item T2 when your payment summary does not show the tax offset amount:\n- follow the steps below if you were under 60 years old, and you did not have a death benefit income stream where the deceased was 60 years old or older\n- read question T2 if you are 60 years old or older, or you have a death benefit income stream where the deceased was 60 years old or older.\n### Completing your tax return\nFor each PAYG payment summary – superannuation income stream that does not show a tax offset amount, you can work out your tax offset amount by multiplying the taxed element and the untaxed element of the taxable component shown on each of those payment summaries by the relevant percentage shown in tables 6A to 6C .\nRow | Calculation | Amount\na | The amount of any taxed element of your superannuation income stream benefit paid to you for which you are entitled to a tax offset | $\nb | Relevant percentage from Tables 6A to 6C | %\nc | Multiply row a by row b . | $\n#### Tables 6A to 6C: Percentages you use to work out your Australian superannuation income stream tax offset\nAge of the deceased | Your age at date of each payment | Taxed element | Untaxed element\nUnder 60 years old | Under 60 years old | 15% | 0%\nUnder 60 years old | 60 years old or older | Not applicable | Limited – read question T2 .\n60 years old or older | Any age | Not applicable | Limited – read question T2 .\nYour age at date of each payment | Taxed element | Untaxed element\nUnder 60 years old | 15% | 0%\n60 years old or older | Not applicable | Limited – read question T2 .\nYour age at date of each payment | Taxed element | Untaxed element\nUnder preservation age | 0% | 0%\nFrom preservation age and under 60 years old | 15% | 0%\n60 years or older | Not applicable | Limited – read question T2 .\nIf your circumstances in the above tables changed during 2018–19, for example, because you turned 60 years old during the year, then a different percentage of tax offset may apply to the amounts of the superannuation income stream you received before and after your birthday; read question T2 .\nIf you have any PAYG payment summary – superannuation income stream that shows tax offset amounts, and you were under 60 years old on 30 June 2019, add up these amounts and the amount from row h in worksheet 1 at question T2 . Write the total amount at S item T2 on your tax return. Do not show cents.\n### Tax-free government pensions or benefits that are taken into account in the income tests (question IT3)\nIf you receive any of the government pensions or benefits listed below, you must include at IT3 the part of those pensions and benefits that are exempt from tax. In some cases, all of your pension or benefit could be exempt from tax, and in other cases only part of it might be.\nDo not include any part of the following pensions and benefits that is a bereavement payment, pharmaceutical allowance, rent assistance or remote area allowance, or language, literacy and numeracy supplement.\n- Disability support pension paid by Centrelink to a person who is under age-pension age\n- Wife pension where both the recipient and their partner are under age-pension age, or the recipient is under the age-pension age and their partner has died\n- Carer payment under Part 2.5 of the Social Security Act 1991 (this is not the carer allowance under Part 2.19 of the Social Security Act 1991 )\n- Pension for defence, peacekeeping or war-caused death or incapacity, or any other pension granted under Part II or Part IV of the Veterans' Entitlement Act 1986\n- Invalidity service pension where the veteran is under age-pension age\n- Partner service pension where either the partner and the veteran are under the age-pension age and the veteran is receiving an invalidity service pension, or the partner is under age-pension age, the veteran has died and was receiving an invalidity service pension at the time of death\n- Income support supplement paid under Part IIIA of the Veterans' Entitlements Act 1986\n- Veteran payment under an instrument made under Part IIIAA of the Veterans' Entitlements Act 1986\n- Defence Force income support allowance payable to you on a day when the whole of your social security pension or benefit, which is also payable to you on that day, is exempt from income tax under section 52-10 of the Income Tax Assessment Act 1997\n- Special rate disability pension under Part 6 of Chapter 4 of the Military Rehabilitation and Compensation Act 2004\n- Payment of compensation under section 68, 71 or 75 of the Military Rehabilitation and Compensation Act 2004\n- Payment of the weekly amount mentioned in paragraph 234(1)(b) of the Military Rehabilitation and Compensation Act 2004 (including a reduced weekly amount because of a choice under section 236 of that Act) or of a lump sum mentioned in subsection 236(5) of that Act\nIf you are not sure, for the purpose of this question, whether a government pension or benefit you have received is tax-free, phone 13 28 61 .\n## Glossary\n### Capped defined benefit income streams\nCapped defined benefit income streams include:\n- lifetime pensions, regardless of when they start\n- lifetime annuities that existed and were in retirement phase prior to 1 July 2017\n- life expectancy pensions and annuities that existed and were in retirement phase prior to 1 July 2017\n- market-linked pensions and annuities that existed and were in retirement phase prior to 1 July 2017.\nDue to commutation restrictions, transfer balance cap rules apply differently to capped defined benefit income streams. Instead, a defined benefit income cap will limit the amount of tax-free income you can receive from one of these income streams.\nGenerally for 2018–19, the defined benefit income cap is $100,000.\nIf you are 60 years old or older (or a death benefit dependant and the deceased died at 60 years old or older) and your superannuation income stream benefits paid from capped defined benefit income streams exceeds your defined benefit income cap, you may have additional tax liabilities:\n- If the total of your tax free components and taxed element amounts exceeds your defined benefit income cap, 50% of the excess will be taxed at your current marginal rate. Untaxed element amounts are excluded from this calculation. If you are under 60 years old only superannuation income stream benefits from capped defined benefit income streams you receive as a death benefits dependant where the deceased dies at age 60 years old or older are included in this calculation.\n- If you receive untaxed element amounts and the total of your superannuation income streams benefits from capped defined benefit income streams exceeds your defined benefit income cap, the 10% tax offset that applies to your untaxed element amounts will be reduced by an amount that is 10% of that excess. If you are under 60 years old only superannuation income stream benefits from capped defined benefit income streams you receive as a death benefits dependant where the deceased dies at age 60 years old or older are included in this calculation.\nSee also:\n- Transfer balance cap\n- Transfer balance cap – capped defined benefit income streams\n### Child\nChild includes:\n- your adopted child, stepchild or ex-nuptial child\n- a child of your spouse, and\n- someone who is your child within the meaning of the Family Law Act 1975 (for example, a child who is considered to be a child of a person under a state or territory court order giving effect to a surrogacy agreement).\n### Death benefit employment termination payment (ETP) (question 4)\nA death benefit ETP is a lump sum payment which is paid to you because you are the beneficiary of a person who has died. If the ETP was paid to you as the trustee of a deceased estate, you must show the ETP on the tax return of the deceased estate, not on your personal tax return.\nIf you received a death benefit ETP from a deceased person's employer, the information provided on your PAYG payment summary – employment termination payment will depend on whether you were a death benefits dependant .\nIf you were a death benefits dependant, the payment summary will show only the taxable components of the ETP over $205,000. If you were not a death benefits dependant, the payment summary will show the entire taxable component of the ETP.\n### Death benefits dependant (questions 4, 7 and 8)\nYou are a death benefits dependant of the deceased if, at the time they died, you were:\n- the surviving spouse\n- a former spouse\n- a child of the deceased and you were under 18 years old\n- any other person who was financially dependent on the deceased, or\n- any other person in an interdependency relationship with the deceased.\nFor question 8, you are also a death benefits dependant when you receive a superannuation lump sum payment because a member of the Australian Defence Force or of an Australian police force, including the Australian Protective Service, died in the line of duty.\nIf you disagree with the dependency status shown on your payment summary, you should discuss it with the payer.\nFor the purposes of the definition of death benefits dependant the following apply:\nSpouse of the deceased includes another person (of any sex):\n- with whom the deceased was in a relationship that was registered under a prescribed law of a state or territory\n- not legally married to the deceased person, who lived with the deceased on a genuine domestic basis in a relationship as a couple.\nChild of the deceased includes:\n- an adopted child, stepchild or ex-nuptial child of the deceased\n- a child of the deceased's spouse\n- someone who is a child of the deceased within the meaning of the Family Law Act 1975 (for example, a child who is considered to be a child of a person under a state or territory court order giving effect to a surrogacy agreement).\n### Defined benefit income cap\nThis is the amount of certain superannuation income stream benefits an individual can receive from capped defined benefit income streams before being subject to additional income tax.\nFor 2018–19, the defined benefit income cap is $100,000 (the $1.6 million general transfer balance cap divided by 16), though this may be reduced in certain circumstances, including if you:\n- are receiving a capped defined benefit income stream and turn 60 years old part-way through the year, and therefore begin receiving concessional tax treatment for that income\n- start a capped defined benefit income stream with concessional tax treatment for the first time part-way through the year\n- start receiving a capped defined benefit income stream that was a death benefit income stream with concessional tax treatment part-way through the year\n- are under 60 years old and receive more than one capped defined benefit income stream where at least one is a death benefit income stream where the deceased died age 60 or older and one is not a death benefit income stream where the deceased died age 60 or older.\nIn future financial years, the defined benefit income cap will be indexed in line with the general transfer balance cap.\n### Death benefit income stream (questions 7 and T2)\nA death benefit income stream is a superannuation income stream paid to you as a death benefits dependant of a deceased member.\n### Dependant (questions T4 and T5)\nA dependant must be an Australian resident for tax purposes. A dependant can be:\n- your spouse\n- a child who is under 21 years old and is not a student\n- a student under 25 years old who is studying full time at school, college or university\n- an invalid or an invalid carer.\nIf you want to claim a tax offset for your dependants you may need to work out your and your dependants’ adjusted taxable income (ATI) for the relevant period to determine:\n- whether you are eligible for a tax offset, and\n- the amount of the tax offset you are entitled to.\nSee also:\n- Adjusted taxable income (ATI) for you and your dependants 2019\n### Foreign termination payment (FTP) (question 4)\nIf you think you received a foreign termination payment (discussed at question 4 ) the following description will help you decide what to do.\nAn FTP is a payment that:\n- you received in consequence of the termination of your employment in a foreign country and the payment relates only to a period of employment when you were a foreign resident, or\n- was not exempt from income tax in the foreign country, you were an Australian resident during the period of the employment or service, and you received the payment as a result of the termination of your employment in a foreign country where the foreign earnings were exempt from Australian tax for the period of employment, or qualifying service on an approved project and the eligible foreign remuneration was exempt from Australian tax during the period of engagement.\nThe payment is not an FTP if it is a superannuation benefit paid from a superannuation fund, retirement savings account or an approved deposit fund or if it is a payment of a pension or an annuity.\nForeign termination payments are non-assessable non-exempt income, that is, tax-free income. Do not show them anywhere on your tax return.\n### Income statement\nIf your employer is reporting through Single Touch Payroll your income statement replaces your payment summary.\nYou can access your income statement online in myGov. We update your income statement throughout the year when your employer pays you. If your income statement is:\n- tax ready , your employer has finished with your income statement and you can use it to do your tax return\n- year to date or not tax ready , your employer has not finished with your income statement. Your employer must finalise your information by 14 August.\n### Indeterminate (Spouse details – married or de facto)\nIndeterminate refers to any person who does not exclusively identify as either male or female, for example, a person of a non-binary gender. A person may use a variety of other terms to self-identify.\n### Interdependency relationship\nAn interdependency relationship exists if there is a close personal relationship between two persons and the following conditions are met:\n- they live together, and\n- one or each of them provides the other with financial support, domestic support and personal care.\nAn interdependency relationship can also exist if there is a close personal relationship between two persons but one or more of the conditions stated above are not satisfied because of the physical, intellectual or psychiatric disability of one of the people.\nHowever, two persons do not have an interdependency relationship if one of them provides domestic support and personal care to the other:\n- under an employment contract or a contract for service, or\n- on behalf of another person or organisation such as a government agency, a body corporate or a benevolent or charitable organisation.\n### Invalid (questions T6 and M1)\nAn invalid can be your:\n- spouse\n- parent\n- child, aged 16 years or older\n- brother or sister, aged 16 years old or older\n- spouse's parent\n- spouse's child, aged 16 years or older, or\n- spouse's brother or sister, aged 16 years old or older.\nThat person must be receiving:\n- a disability support pension under the Social Security Act 1991\n- a special needs disability support pension under the Social Security Act 1991 , or\n- an invalidity service pension under the Veterans' Entitlement Act 1986 .\n### Invalid carer (questions T6 and M1)\nA dependent carer is your:\n- spouse\n- parent\n- spouse's parent\nwho is caring for your or your spouse's invalid child aged 16 years or older, or your or your spouse's invalid brother or sister aged 16 years old or older.\nThe invalid carer must be:\n- receiving a carer allowance or carer payment under the Social Security Act 1991 in relation to caring for that person\nor\n- wholly engaged in providing care to that person and the person being cared for receives a disability support pension under the Social Security Act 1991 a special needs disability support pension under the Social Security Act 1991 , or an invalidity service pension under the Veterans' Entitlement Act 1986 .\n### Late termination payment (question 4)\nA late termination payment is a lump sum payment, similar to employment termination payments (ETPs) referred to in question 4 , which you received more than 12 months after the time you retired or ceased employment.\nA late termination payment is treated as an ETP where:\n- legal action about your entitlement to the ETP or about the amount of the ETP was commenced within 12 months of the termination of your employment\n- the payment was made by a person who was appointed within 12 months of your employment termination as a liquidator, receiver or trustee in bankruptcy for the employer, or\n- the payment was due to a person's membership in a redundancy trust and the application for payment was made within 12 months of becoming entitled to the payment under the rules of the trust. The trustee of the redundancy trust must make the payment as soon as practicable after receiving the application and within two years of the termination of the employment that led to the entitlement.\nIf these conditions are not met, and you received the payment more than 12 months after termination of your employment, then you must show the amount of the payment at item 1 on your tax return.\n### Low-rate cap amount for taxable components of superannuation lump sum payments (question 8)\nThis concession applies only to superannuation lump sums paid to you when you have reached your preservation age but before you turn 60 years old.\nThe low-rate cap amount is the maximum amount of taxable components (taxed and untaxed elements) that can be taxed at a concessional lower rate.\nFor 2018–19, the low-rate cap amount is a maximum of $205,000, but it could be less for you if before July 2018 you received any superannuation lump sums that counted towards your entitlement to a superannuation lump sum tax offset. The amount is indexed to average weekly ordinary time earnings and rounded down to the nearest multiple of $5,000. See Key superannuation rates and thresholds .\nThe low-rate cap amount is a 'lifetime' limit. This means that the taxed element and untaxed elements of all superannuation lump sum payments that you receive (as well as the amount of any eligible termination payments for which you became entitled to a rebate before 1 July 2007) when you have reached your preservation age but before you turn 60 years old will be taxed at a concessional rate until your total reaches the low-rate cap amount ($205,000 plus future indexed increases). Payments you receive in excess of the low-rate cap amount will be taxed at the tax rate shown in Tables 2A to 2C .\nConsequently, for 2018–19 the maximum amount for which you can be taxed at a concessional rate is $205,000 less any amounts to which the concessional tax rate has previously been applied.\nSee also:\n- Tax on contributions\n### Maintaining a dependant (questions T4, T5, M1, M2 and IT8) or maintaining another person (question T6)\nYou maintained a dependant or maintained another person if any of the following applied:\n- you both lived in the same house\n- you gave them food, clothing and lodging\n- you helped them to pay for their living, medical and educational costs.\nIf you had a spouse for the whole of 2018–19 and your spouse worked at any time during the year, we still consider you to have maintained your spouse as a dependant for the whole income year.\nWe consider you to have maintained a dependant or maintained another person even if the two of you were temporarily separated, for example, due to holidays or overseas travel.\nIf you maintained a dependant or maintained another person for only part of the year, you may need to adjust your claim accordingly.\n### Pension age (Amounts that you do not pay tax on)\nCentrelink | 65 years and six months old or older\nVeterans' Affairs | Veteran or war widow or war widower who: is 60 years old or older meets the veteran pension age test\n### Preservation age (questions T2, M1 and M2)\nSuper benefits can only be accessed if a condition of release is met, which in many cases will depend on the member's preservation age. Access to lump sum super benefits is generally restricted to members who have reached their preservation age and retired. Your preservation age depends on when you were born.\nThe following table will help you work it out.\nDate of birth | Preservation age\nBefore 1 July 1960 | 55\n1 July 1960 – 30 June 1961 | 56\n1 July 1961 – 30 June 1962 | 57\n1 July 1962 – 30 June 1963 | 58\n1 July 1963 – 30 June 1964 | 59\nFrom 1 July 1964 | 60\nSee also:\n- Tax on contributions\n### Shared care (questions M1 and T4)\nYou had shared care if you, and your spouse if you had one, cared for your child for some of the income year, and someone else, such as a former spouse, cared for the child for the rest of the income year.\nIf you received family tax benefit (FTB) Part B as part of a shared-care arrangement, you will need to know your FTB shared-care percentage to calculate your spouse offset. Your FTB shared-care percentage is usually not the same as your ‘shared care percentage’ which appears on correspondence you have received from Services Australia.\nIf you do not know your FTB shared-care percentage, contact Services Australia on 13 61 50 .\n### Sole care (question M1)\nSole care means that you alone had full responsibility, on a day-to-day basis, for the upbringing, welfare and maintenance of a child or student. You are not considered to have sole care if you are living with a spouse (married or de facto) unless special circumstances exist. Generally, for special circumstances to exist, you must be financially responsible for the dependent child or student and have sole care without the support that a spouse normally provides.\nSituations where special circumstances may arise include:\n- You were married at any time during 2018–19 but during the year you separated from, or were deserted by, your spouse and for that period you were not in a de facto relationship.\n- Your spouse was in prison for a sentence of at least 12 months.\n- Your spouse is medically certified as being permanently mentally incapable of taking part in caring for the child or student.\nIf you are not sure whether special circumstances apply, phone 13 28 61 .\n### Spouse\nYour spouse includes another person (of any sex) who, for 2018–19:\n- you were in a relationship with that was registered under a prescribed state or territory law\n- although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple.\n### Terminal medical condition (question 8)\nFor income tax purposes, you have a terminal medical condition if both the following circumstances are met:\n- two registered medical practitioners (with at least one being a specialist practising in the area related to the illness or injury) have certified that you suffer an illness or have incurred an injury that is likely to result in your death within a 24 month period, starting from the date of certification\n- each of the certificates is less than 24 months old.\nSuperannuation lump sum payments paid to you are tax free if you have a terminal medical condition at the time you received the payment or within 90 days of receiving payment. You should not have received a PAYG payment summary for these payments.\nIf you received such a payment and tax was withheld, you can get a refund of the tax.\nSee also:\n- Withdrawing and using your super\n### Transfer balance cap (questions 7, 8 and T2)\nThere is a cap on the total amount of superannuation that can be transferred into a superannuation income stream (such as a pension or annuity).\nThe transfer balance cap for 2018–19 is $1.6 million (this may be reduced in certain circumstances).\n### Untaxed-plan cap amount for untaxed elements (question 8)\nThe untaxed-plan cap amount is the maximum amount of the untaxed elements of your superannuation lump sum payments which will be subject to concessional tax rates.\nFor 2018–19, the untaxed-plan cap amount is a maximum of $1.480 million, but it could be less for you if you have previously received another superannuation lump sum with an untaxed element from the same superannuation fund. The amount is indexed to average weekly ordinary time earnings and rounded down to the nearest multiple of $5,000. See Key superannuation rates and thresholds .\nThere is a separate untaxed-plan cap amount for each superannuation fund you have. This means that, for each fund, the untaxed elements which make up your superannuation payments will be taxed at a concessional rate until these untaxed elements reach the untaxed-plan cap amount ($1.480 million plus future indexed increases). Amounts above this limit are taxed at the top marginal rate.\nIf you roll over an amount from one superannuation fund to another, any untaxed element that is part of that amount will count towards the untaxed-plan cap amount for the fund from which the amount was rolled over.",
+  "child_links": [],
+  "word_count": 8039,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

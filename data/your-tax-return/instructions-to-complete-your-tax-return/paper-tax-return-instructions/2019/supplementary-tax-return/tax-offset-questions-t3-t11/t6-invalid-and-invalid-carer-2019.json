@@ -1,0 +1,685 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2019/supplementary-tax-return/tax-offset-questions-t3-t11/t6-invalid-and-invalid-carer-2019",
+  "title": "T6 Invalid and invalid carer 2019",
+  "description": "Complete question T6 if you maintained a person who was 16 years or older and received particular government payments.",
+  "nat_number": "",
+  "quick_code": "58143",
+  "date_updated": "2019-05-29T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, tax offset, tax return, 2019, parent tax offset, spouse, invalid, T6, paper tax return, paper form, paper return and paper lodgement",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be entitled to a tax offset for an income year if you maintain certain people who are 16 years or older and who receive particular government payments."
+    },
+    {
+      "type": "paragraph",
+      "text": "This offset is available in limited circumstances. You can use the Invalid and invalid carer tax offset calculator to answer this question, then write your offset amount at B item T6 on page 16 of your tax return. Otherwise, the following questions will establish whether you are eligible for this offset. If you are eligible, your claim may be reduced. The worksheets will help you to work out how much you can claim."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Did you maintain an invalid or invalid carer who is 16 years old or older?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you maintain an invalid :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "who was your spouse your parent your spouse's parent your or your spouse's child, 16 years old or over your brother or sister, 16 years old or over, or your spouse's brother or sister, 16 years old or over",
+        "and who received a disability support pension under the Social Security Act 1991 a special needs disability support pension under the Social Security Act 1991 , or an invalidity service pension under the Veterans’ Entitlement Act 1986 ?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you maintain an invalid carer :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "who was your spouse your parent, or your spouse's parent",
+        "and who received a carer allowance or carer payment under the Social Security Act 1991 in relation to caring for your or your spouse's child, 16 years old or over your brother or sister, 16 years old or over, or your spouse's brother or sister, 16 years old or over?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you maintain an invalid carer :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "who was your spouse your parent, or your spouse's parent",
+        "and who was wholly engaged in providing care to your or your spouse's child, 16 years old or over your brother or sister, 16 years old or over your spouse's brother or sister, 16 years old or over"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "and the person being cared for received a disability support pension, special needs disability support pension or invalidity service pension?"
+    },
+    {
+      "type": "paragraph",
+      "text": "For the definition of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "child",
+        "maintaining another person",
+        "spouse"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "see Special circumstances and glossary 2019 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "You are not eligible to claim this tax offset. Go to question T7 Landcare and water facility 2019 , or return to main menu Individual tax return instructions 2019 ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Was your adjusted taxable income (ATI) more than $100,000?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Before you complete this item, you must read Adjusted taxable income (ATI) for you and your dependants 2019 or you can use the Income tests calculator to work out your ATI."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "You are not eligible to claim the invalid and invalid carer tax offset. Go to question T7 Landcare and water facility 2019 , or return to main menu Individual tax return instructions 2019 ."
+        ],
+        [
+          "No",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Was the invalid or invalid carer's ATI $11,150 or more for 2018–19?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you maintained more than one invalid or carer, you will need to answer this question for each of them to get your maximum entitlement."
+    },
+    {
+      "type": "paragraph",
+      "text": "ATI does include disability support pensions, carer payments and invalidity service pensions. For a complete list of what is included in ATI:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "read Adjusted taxable income (ATI) for you and your dependants 2019 , or",
+        "use the Income tests calculator to work out the ATI of the person you maintained."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "You are not eligible to claim an offset for that invalid or invalid carer. Go to question T7 Landcare and water facility 2019 , or return to main menu Individual tax return instructions 2019 ."
+        ],
+        [
+          "No",
+          "Read on. Your claim will be reduced where the person you maintained has an ATI of $286 or more. The worksheets will help you to work out how much of this offset to claim."
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Did you have a spouse during 2018–19?"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to Answering this question ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Was the invalid or invalid carer you maintained, your spouse?"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Your ATI plus your spouse's ATI for the period they were your spouse in 2018–19 must be $100,000 or less. If you had a spouse for less than 365 days in 2018–19, multiply your spouse's ATI for 2018–19 by the number of days they were your spouse and divide by 365. Each person's ATI includes any invalidity or disability pension they received. If you and your spouse's combined ATI is $100,000 or less, go to Answering this question . If you and your spouse's combined ATI is more than $100,000, you are not eligible to claim this offset. Go to question T7 Landcare and water facility 2019 , or return to main menu Individual tax return instructions 2019 ."
+        ],
+        [
+          "Yes",
+          "You must consider the Family Tax Benefit Part B. If either you or your spouse were eligible for Family Tax Benefit Part B for the full year, you are not eligible to claim the invalid and invalid carer tax offset. Go to question T7 Landcare and water facility 2019 , or return to main menu Individual tax return instructions 2019 . If you and your spouse were not eligible for Family Tax Benefit Part B for the full year , read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "This section will help you work out how much you can claim. You can use the Invalid and invalid carer tax offset calculator to answer this question. Write your offset amount at B item T6 on page 16 of your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can only claim one tax offset for each person satisfying steps 1 to 5 above."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the person you maintained was an invalid and a carer of an invalid during the income year, claim for the total time that the person was either an invalid or a carer of an invalid."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you maintain more than one spouse at the same time, you can only claim for the spouse you live with. If you do not live with any of your spouses, or if you live with more than one spouse, you can only claim for the spouse with the lowest tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your claim will be reduced for any period that you or your spouse were:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "eligible for family tax benefit (FTB) Part B, or",
+        "receiving parental leave pay."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your claim will also be reduced for any period during the year that the person you maintained:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "was under 16 years old",
+        "was not maintained by you",
+        "was not an Australian resident, or",
+        "did not receive the relevant pension, allowance or payment."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use the Invalid and invalid carer tax offset calculator to answer this question. Write your invalid and invalid carer tax offset at B item T6 on page 16 of your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alternatively, for each invalid and invalid carer you have maintained:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "follow the steps in the worksheet table under Completing your tax return",
+        "add together the offset you work out for each person you have maintained to get your maximum entitlement",
+        "write your invalid and invalid carer tax offset total at B item T6 on page 16 of your tax return."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you prefer not to use the Invalid and invalid carer tax offset calculator , then complete the relevant worksheet below. If you maintained more than one invalid or carer, complete the relevant worksheet for each of them to get your maximum entitlement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete worksheets 1A to 1F to work out your offset for your spouse who is an invalid or cares for an invalid."
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete worksheets 2A and 2B to work out your offset for an invalid or carer of an invalid, who is not your spouse, for the full year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete worksheets 3A to 3C to work out your offset for an invalid or carer of an invalid, who is not your spouse, for part of the year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete the worksheets below for each invalid and carer of an invalid."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Worksheets 1A to 1F"
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your offset for your spouse who is an invalid or cares for an invalid, use worksheet 1A ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculations",
+          "Amount"
+        ],
+        [
+          "a",
+          "Work out the number of days in 2018–19 when your spouse either: was an invalid cared for an invalid and neither of you: were eligible for FTB Part B, or received parental leave pay. Write this number of days at row a unless the number is 365. If so, write $2,717 at row d and continue from there.",
+          "days"
+        ],
+        [
+          "b",
+          "Multiply row a by $7.44.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you or your spouse were eligible for FTB Part B at a shared-care rate for a period during the year when your spouse was an invalid or cared for an invalid, work through row s to row v in worksheet 1B ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had more than one such period, work through row s to row v for each period."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculations",
+          "Amount"
+        ],
+        [
+          "s",
+          "Number of days that you or your spouse were eligible for FTB Part B at a shared-care rate",
+          "days"
+        ],
+        [
+          "t",
+          "Multiply row s by $7.44.",
+          "$"
+        ],
+        [
+          "u",
+          "Take your FTB shared-care percentage away from 100%.",
+          "%"
+        ],
+        [
+          "v",
+          "Multiply row t by row u .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculations",
+          "Amount"
+        ],
+        [
+          "c",
+          "If you have only one amount at row v , write it at row c . If you have several amounts at row v , add them up and write the total at row c .",
+          "$"
+        ],
+        [
+          "d",
+          "Add row b and row c .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your spouse’s ATI (including any invalidity or carer payments) for the claim period was:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "less than $286 your tax offset is the amount at row d write that amount at row f in worksheet 1E and continue from there",
+        "$286 or more work through row w to row z in worksheet 1D ."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculations",
+          "Amount"
+        ],
+        [
+          "w",
+          "Your spouse's ATI",
+          "$"
+        ],
+        [
+          "y",
+          "Take $282 from row w .",
+          "$"
+        ],
+        [
+          "z",
+          "Divide row y by 4 (round the result down to the nearest dollar).",
+          "$"
+        ],
+        [
+          "e",
+          "Write the amount at row z at row e",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculations",
+          "Amount"
+        ],
+        [
+          "f",
+          "Take row e away from row d . If row f is less than $1, you cannot claim this offset.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If another person contributed to maintaining your spouse, complete rows aa and bb in worksheet 1F . Otherwise the amount you can claim is at row f ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculations",
+          "Amount"
+        ],
+        [
+          "aa",
+          "Percentage of your contribution to the maintenance of this invalid or carer",
+          "%"
+        ],
+        [
+          "bb",
+          "Multiply row f by row aa .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at row bb in worksheet 1F is the amount you must use at step 2 for this invalid or carer, instead of the amount you have at row f in worksheet 1E for this invalid or carer."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Worksheets 2A and 2B"
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your offset for an invalid or carer of an invalid, who is not your spouse, for the whole year, use worksheet 2A ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the invalid or carer's ATI (including invalidity or carer payments) was less than $286, write $2,717 at row k in worksheet 2A , and continue from there."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the invalid or carer's ATI (including their invalid or carer payments) was $286 or more work through worksheet 2A ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculations",
+          "Amount"
+        ],
+        [
+          "g",
+          "If the invalid or carer's ATI (including their invalid or carer payments) was $286 or more, write the amount at row g .",
+          "$"
+        ],
+        [
+          "h",
+          "Take $282 away from row g .",
+          "$"
+        ],
+        [
+          "j",
+          "Divide row h by 4 (round the result down to the nearest dollar).",
+          "$"
+        ],
+        [
+          "k",
+          "Take row j from $2,717. If row k is less than $1, you cannot claim this tax offset.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If another person contributed to maintaining your invalid or carer complete rows aa and bb in worksheet 2B . Otherwise, the amount you can claim is at row k ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculations",
+          "Amount"
+        ],
+        [
+          "aa",
+          "Percentage of your contribution to the maintenance of this invalid or carer",
+          "%"
+        ],
+        [
+          "bb",
+          "Multiply row k by row aa .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at row bb in worksheet 2B is the amount you must use at step 2 for this invalid or carer instead of the amount you have at row k in worksheet 2A for this invalid or carer."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Worksheets 3A to 3C"
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your offset for an invalid or carer of an invalid, who is not your spouse, for part of the year, use worksheet 3A ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculations",
+          "Amount"
+        ],
+        [
+          "l",
+          "Number of days that you maintained the invalid or carer",
+          "days"
+        ],
+        [
+          "m",
+          "Multiply row l by $7.44.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the invalid or carer's ATI (including their invalid or carer payments) for the period you maintained them was less than $286, the amount at row m is your tax offset. Write it at row r in worksheet 3B , and continue from there."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the invalid or carer's ATI (including their invalid or carer payments) was $286 or more, work through worksheet 3B ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculations",
+          "Amount"
+        ],
+        [
+          "n",
+          "If the invalid or carer's ATI (including their invalid or carer payments) was $286 or more, write their ATI for the period at row n .",
+          "$"
+        ],
+        [
+          "p",
+          "Take $282 away from row n .",
+          "$"
+        ],
+        [
+          "q",
+          "Divide row p by 4 (round the result down to the nearest dollar).",
+          "$"
+        ],
+        [
+          "r",
+          "Take row q away from row m . If row r is less than $1, you cannot claim this tax offset.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If another person contributed to maintaining your invalid or carer, complete rows aa and bb in worksheet 3C . Otherwise, the amount you can claim is at row r ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculations",
+          "Amount"
+        ],
+        [
+          "aa",
+          "Percentage of your contribution to the maintenance of this invalid or carer",
+          "%"
+        ],
+        [
+          "bb",
+          "Multiply row r by row aa .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at row bb in worksheet 3C is the amount you must use at step 2 for this invalid or carer instead of the amount you have at row r in worksheet 3B for this invalid or carer."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Add up the amounts that you have for each invalid and carer.",
+        "The total is your invalid and invalid carer tax offset."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Write your invalid and invalid carer tax offset at B item T6 on page 16 of your tax return.",
+        "You must complete income test items IT1 to IT7 on page 8 of your tax return.",
+        "If you had a spouse, you must also complete Spouse details – married or de facto on pages 8–9 of your tax return."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question T7 Landcare and water facility 2019 .",
+        "Return to main menu Individual tax return instructions 2019 .",
+        "Go back to question T5 Total net medical expenses 2019 ."
+      ]
+    }
+  ],
+  "content_text": "## You need to know\nYou may be entitled to a tax offset for an income year if you maintain certain people who are 16 years or older and who receive particular government payments.\nThis offset is available in limited circumstances. You can use the Invalid and invalid carer tax offset calculator to answer this question, then write your offset amount at B item T6 on page 16 of your tax return. Otherwise, the following questions will establish whether you are eligible for this offset. If you are eligible, your claim may be reduced. The worksheets will help you to work out how much you can claim.\n- Did you maintain an invalid or invalid carer who is 16 years old or older?\nDid you maintain an invalid :\n- who was your spouse your parent your spouse's parent your or your spouse's child, 16 years old or over your brother or sister, 16 years old or over, or your spouse's brother or sister, 16 years old or over\n- and who received a disability support pension under the Social Security Act 1991 a special needs disability support pension under the Social Security Act 1991 , or an invalidity service pension under the Veterans’ Entitlement Act 1986 ?\nDid you maintain an invalid carer :\n- who was your spouse your parent, or your spouse's parent\n- and who received a carer allowance or carer payment under the Social Security Act 1991 in relation to caring for your or your spouse's child, 16 years old or over your brother or sister, 16 years old or over, or your spouse's brother or sister, 16 years old or over?\nDid you maintain an invalid carer :\n- who was your spouse your parent, or your spouse's parent\n- and who was wholly engaged in providing care to your or your spouse's child, 16 years old or over your brother or sister, 16 years old or over your spouse's brother or sister, 16 years old or over\nand the person being cared for received a disability support pension, special needs disability support pension or invalidity service pension?\nFor the definition of:\n- child\n- maintaining another person\n- spouse\nsee Special circumstances and glossary 2019 .\nNo | You are not eligible to claim this tax offset. Go to question T7 Landcare and water facility 2019 , or return to main menu Individual tax return instructions 2019 .\nYes | Read on.\n- Was your adjusted taxable income (ATI) more than $100,000?\nBefore you complete this item, you must read Adjusted taxable income (ATI) for you and your dependants 2019 or you can use the Income tests calculator to work out your ATI.\nYes | You are not eligible to claim the invalid and invalid carer tax offset. Go to question T7 Landcare and water facility 2019 , or return to main menu Individual tax return instructions 2019 .\nNo | Read on.\n- Was the invalid or invalid carer's ATI $11,150 or more for 2018–19?\nIf you maintained more than one invalid or carer, you will need to answer this question for each of them to get your maximum entitlement.\nATI does include disability support pensions, carer payments and invalidity service pensions. For a complete list of what is included in ATI:\n- read Adjusted taxable income (ATI) for you and your dependants 2019 , or\n- use the Income tests calculator to work out the ATI of the person you maintained.\nYes | You are not eligible to claim an offset for that invalid or invalid carer. Go to question T7 Landcare and water facility 2019 , or return to main menu Individual tax return instructions 2019 .\nNo | Read on. Your claim will be reduced where the person you maintained has an ATI of $286 or more. The worksheets will help you to work out how much of this offset to claim.\n- Did you have a spouse during 2018–19?\nNo | Go to Answering this question .\nYes | Read on.\n- Was the invalid or invalid carer you maintained, your spouse?\nNo | Your ATI plus your spouse's ATI for the period they were your spouse in 2018–19 must be $100,000 or less. If you had a spouse for less than 365 days in 2018–19, multiply your spouse's ATI for 2018–19 by the number of days they were your spouse and divide by 365. Each person's ATI includes any invalidity or disability pension they received. If you and your spouse's combined ATI is $100,000 or less, go to Answering this question . If you and your spouse's combined ATI is more than $100,000, you are not eligible to claim this offset. Go to question T7 Landcare and water facility 2019 , or return to main menu Individual tax return instructions 2019 .\nYes | You must consider the Family Tax Benefit Part B. If either you or your spouse were eligible for Family Tax Benefit Part B for the full year, you are not eligible to claim the invalid and invalid carer tax offset. Go to question T7 Landcare and water facility 2019 , or return to main menu Individual tax return instructions 2019 . If you and your spouse were not eligible for Family Tax Benefit Part B for the full year , read on.\n## Answering this question\nThis section will help you work out how much you can claim. You can use the Invalid and invalid carer tax offset calculator to answer this question. Write your offset amount at B item T6 on page 16 of your tax return.\nYou can only claim one tax offset for each person satisfying steps 1 to 5 above.\nIf the person you maintained was an invalid and a carer of an invalid during the income year, claim for the total time that the person was either an invalid or a carer of an invalid.\nIf you maintain more than one spouse at the same time, you can only claim for the spouse you live with. If you do not live with any of your spouses, or if you live with more than one spouse, you can only claim for the spouse with the lowest tax offset.\nYour claim will be reduced for any period that you or your spouse were:\n- eligible for family tax benefit (FTB) Part B, or\n- receiving parental leave pay.\nYour claim will also be reduced for any period during the year that the person you maintained:\n- was under 16 years old\n- was not maintained by you\n- was not an Australian resident, or\n- did not receive the relevant pension, allowance or payment.\nYou can use the Invalid and invalid carer tax offset calculator to answer this question. Write your invalid and invalid carer tax offset at B item T6 on page 16 of your tax return.\nAlternatively, for each invalid and invalid carer you have maintained:\n- follow the steps in the worksheet table under Completing your tax return\n- add together the offset you work out for each person you have maintained to get your maximum entitlement\n- write your invalid and invalid carer tax offset total at B item T6 on page 16 of your tax return.\n## Completing your tax return\n### Step 1\nIf you prefer not to use the Invalid and invalid carer tax offset calculator , then complete the relevant worksheet below. If you maintained more than one invalid or carer, complete the relevant worksheet for each of them to get your maximum entitlement.\nComplete worksheets 1A to 1F to work out your offset for your spouse who is an invalid or cares for an invalid.\nComplete worksheets 2A and 2B to work out your offset for an invalid or carer of an invalid, who is not your spouse, for the full year.\nComplete worksheets 3A to 3C to work out your offset for an invalid or carer of an invalid, who is not your spouse, for part of the year.\nComplete the worksheets below for each invalid and carer of an invalid.\n#### Worksheets 1A to 1F\nTo work out your offset for your spouse who is an invalid or cares for an invalid, use worksheet 1A .\nRow | Calculations | Amount\na | Work out the number of days in 2018–19 when your spouse either: was an invalid cared for an invalid and neither of you: were eligible for FTB Part B, or received parental leave pay. Write this number of days at row a unless the number is 365. If so, write $2,717 at row d and continue from there. | days\nb | Multiply row a by $7.44. | $\nIf you or your spouse were eligible for FTB Part B at a shared-care rate for a period during the year when your spouse was an invalid or cared for an invalid, work through row s to row v in worksheet 1B .\nIf you had more than one such period, work through row s to row v for each period.\nRow | Calculations | Amount\ns | Number of days that you or your spouse were eligible for FTB Part B at a shared-care rate | days\nt | Multiply row s by $7.44. | $\nu | Take your FTB shared-care percentage away from 100%. | %\nv | Multiply row t by row u . | $\nRow | Calculations | Amount\nc | If you have only one amount at row v , write it at row c . If you have several amounts at row v , add them up and write the total at row c . | $\nd | Add row b and row c . | $\nIf your spouse’s ATI (including any invalidity or carer payments) for the claim period was:\n- less than $286 your tax offset is the amount at row d write that amount at row f in worksheet 1E and continue from there\n- $286 or more work through row w to row z in worksheet 1D .\nRow | Calculations | Amount\nw | Your spouse's ATI | $\ny | Take $282 from row w . | $\nz | Divide row y by 4 (round the result down to the nearest dollar). | $\ne | Write the amount at row z at row e | $\nRow | Calculations | Amount\nf | Take row e away from row d . If row f is less than $1, you cannot claim this offset. | $\nIf another person contributed to maintaining your spouse, complete rows aa and bb in worksheet 1F . Otherwise the amount you can claim is at row f .\nRow | Calculations | Amount\naa | Percentage of your contribution to the maintenance of this invalid or carer | %\nbb | Multiply row f by row aa . | $\nThe amount at row bb in worksheet 1F is the amount you must use at step 2 for this invalid or carer, instead of the amount you have at row f in worksheet 1E for this invalid or carer.\n#### Worksheets 2A and 2B\nTo work out your offset for an invalid or carer of an invalid, who is not your spouse, for the whole year, use worksheet 2A .\nIf the invalid or carer's ATI (including invalidity or carer payments) was less than $286, write $2,717 at row k in worksheet 2A , and continue from there.\nIf the invalid or carer's ATI (including their invalid or carer payments) was $286 or more work through worksheet 2A .\nRow | Calculations | Amount\ng | If the invalid or carer's ATI (including their invalid or carer payments) was $286 or more, write the amount at row g . | $\nh | Take $282 away from row g . | $\nj | Divide row h by 4 (round the result down to the nearest dollar). | $\nk | Take row j from $2,717. If row k is less than $1, you cannot claim this tax offset. | $\nIf another person contributed to maintaining your invalid or carer complete rows aa and bb in worksheet 2B . Otherwise, the amount you can claim is at row k .\nRow | Calculations | Amount\naa | Percentage of your contribution to the maintenance of this invalid or carer | %\nbb | Multiply row k by row aa . | $\nThe amount at row bb in worksheet 2B is the amount you must use at step 2 for this invalid or carer instead of the amount you have at row k in worksheet 2A for this invalid or carer.\n#### Worksheets 3A to 3C\nTo work out your offset for an invalid or carer of an invalid, who is not your spouse, for part of the year, use worksheet 3A .\nRow | Calculations | Amount\nl | Number of days that you maintained the invalid or carer | days\nm | Multiply row l by $7.44. | $\nIf the invalid or carer's ATI (including their invalid or carer payments) for the period you maintained them was less than $286, the amount at row m is your tax offset. Write it at row r in worksheet 3B , and continue from there.\nIf the invalid or carer's ATI (including their invalid or carer payments) was $286 or more, work through worksheet 3B .\nRow | Calculations | Amount\nn | If the invalid or carer's ATI (including their invalid or carer payments) was $286 or more, write their ATI for the period at row n . | $\np | Take $282 away from row n . | $\nq | Divide row p by 4 (round the result down to the nearest dollar). | $\nr | Take row q away from row m . If row r is less than $1, you cannot claim this tax offset. | $\nIf another person contributed to maintaining your invalid or carer, complete rows aa and bb in worksheet 3C . Otherwise, the amount you can claim is at row r .\nRow | Calculations | Amount\naa | Percentage of your contribution to the maintenance of this invalid or carer | %\nbb | Multiply row r by row aa . | $\nThe amount at row bb in worksheet 3C is the amount you must use at step 2 for this invalid or carer instead of the amount you have at row r in worksheet 3B for this invalid or carer.\n### Step 2\n- Add up the amounts that you have for each invalid and carer.\n- The total is your invalid and invalid carer tax offset.\n### Step 3\n- Write your invalid and invalid carer tax offset at B item T6 on page 16 of your tax return.\n- You must complete income test items IT1 to IT7 on page 8 of your tax return.\n- If you had a spouse, you must also complete Spouse details – married or de facto on pages 8–9 of your tax return.\n## Where to go next\n- Go to question T7 Landcare and water facility 2019 .\n- Return to main menu Individual tax return instructions 2019 .\n- Go back to question T5 Total net medical expenses 2019 .",
+  "child_links": [],
+  "word_count": 2572,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

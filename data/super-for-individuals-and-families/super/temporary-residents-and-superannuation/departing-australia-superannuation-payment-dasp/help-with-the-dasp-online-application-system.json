@@ -1,0 +1,332 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/super/temporary-residents-and-superannuation/departing-australia-superannuation-payment-dasp/help-with-the-dasp-online-application-system",
+  "title": "Help with the DASP online application system",
+  "description": "If you need help in using the DASP online application system.",
+  "nat_number": "",
+  "quick_code": "73102",
+  "date_updated": "2024-10-10T14:00:00Z",
+  "first_published": "",
+  "keywords": "apply for DASP, apply Departing Australia Superannuation Payment, DASP claim, visa",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Creating a shared secret"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you first use the DASP online application system, you'll be asked to create a 'shared secret' by selecting and answering a question. Whenever you revisit the system, you'll need to answer the question correctly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Select a question that only you will know the answer to. Your answer may:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "be any text from 1 to 20 characters long",
+        "be one or more words",
+        "include numbers."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you enter any extra spaces before, between, or following your answer, these will be ignored by the system when the answer is saved."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your question and answer will be stored in an encrypted format."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensure you remember your answer, as you'll need to enter it if you return to the system. You will be given three chances to type the correct answer when you want to re-enter the system."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Forgotten the answer to your shared secret?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Phone us if you've forgotten the answer to your shared secret question."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Information you must provide with your application"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you apply using the DASP online application system, you'll need to provide your:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "name, date of birth and other personal details",
+        "email address",
+        "passport country",
+        "passport number",
+        "TFN (optional)",
+        "super fund account details, including your fund's Australian business number (ABN) use the system to search for the ABN based on the fund's name use Super Fund Lookup External Link to search for the fund's postal address and ABN contact the fund directly."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If we have any records of your super, the system will automatically present an application for each super account found during the search. You must then supply as much additional information as possible, such as the super fund number, the fund's client identification and the date you joined the fund. Your superannuation statements should help you find this information."
+    },
+    {
+      "type": "paragraph",
+      "text": "To find out what information is required for applications made directly to your super fund on the paper form, see the Application for a departing Australia superannuation payment form (NAT 7204)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Your TFN (optional)"
+    },
+    {
+      "type": "paragraph",
+      "text": "You don't have to provide your Australian tax file number (TFN). However, if you enter your TFN in DASP Online, the system will search for your super accounts and display them for you to claim."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't provide your TFN, you'll need to provide the details of your super accounts."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can find your TFN on:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your income tax notice of assessment (NOA)",
+        "any correspondence we have sent you",
+        "copies of your payment summaries from your employer."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a registered tax agent, you can ask them for your TFN."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you still can't find your TFN, you can either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "phone us – you need to provide information for verification purpose before we can discuss your personal details",
+        "complete the form Tax file number – application or enquiry for an individual living outside Australia and return it to us."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Incorrect visa information"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Visa information screen will advise whether you have ever held a WHM visa – that is, a 417 or 462 visa, and not just whether it was your last visa. This information message is usually correct."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may have held other visas with working rights, the type of 'other' visa and the visa dates are not listed under visa information. Your super fund will need to know if you held 'other' visas with working rights but does not need to know the type of 'other' visa or the dates."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you’ve submitted your application, your visa information will be forwarded to your super fund. Your fund will use your visa information to determine the appropriate DASP tax rate. If your super is held by the ATO, we will check your visa information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Given the information above, if you still believe your visa information is incorrect on the visa information screen (for example, the screen stated you held a WHM visa and you have never held a WHM visa), do not submit your online application. You will need to email DASPmail@ato.gov.au ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "If DASP Online doesn’t find your super"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you know you have super, but the DASP online application system doesn't locate it, you can select Add application on the Add an application page. Start an application using the Australian business number (ABN) belonging to the fund that holds your super."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Re-entering the online system"
+    },
+    {
+      "type": "paragraph",
+      "text": "To re-enter the DASP online application system, you'll need to provide your personal details and answer the shared secret question you created."
+    },
+    {
+      "type": "paragraph",
+      "text": "To view your existing applications, you must enter exactly the same personal details (TFN, name, passport details and date of birth) you used when accessing the system for the first time. If you supplied your TFN the first time, you should supply it when re-entering the system. If you didn't supply your TFN the first time, you should not supply it next time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensure the passport number and country are exactly the same as what you supplied when you first accessed the system. Even where these passport details have expired you should continue to use the same information as originally entered."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't provide exactly the same details, you will still be able to create a new application, but not view existing applications."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Viewing applications you've created"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Applications for payment page presents a summary of applications you’ve created. Applications will be displayed by their status:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "submitted – if it’s been sent to the holder of your super",
+        "rejected – if the fund has rejected the application",
+        "new application – if you have created but not yet submitted the application",
+        "not to be forwarded – if you elected to hold the application",
+        "transferred – if your fund rejected the application because they transferred your super to another fund, or to us."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Although you can re-enter the system and view applications you submitted, you can't tell whether your super fund has processed the application."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, a super fund will process an application within 28 days, unless they require more information from you. Contact the fund directly for enquiries regarding your application."
+    },
+    {
+      "type": "paragraph",
+      "text": "If an application you saved or submitted is not displayed, it is likely that you entered different personal details than you originally entered when you accessed the system this time."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you need to change your application"
+    },
+    {
+      "type": "paragraph",
+      "text": "Once an application has been submitted to your fund it appears on the Submitted applications page in the DASP online application system. It can be viewed, but not changed. So, check the details carefully before you submit the application."
+    },
+    {
+      "type": "paragraph",
+      "text": "To make changes, you will need to contact your fund directly. The contact details of the fund are also displayed on the Submitted applications page."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is possible to view and update applications that you’ve saved in DASP Online before submitting them to your fund or to us. To access the application, you will need to answer the shared secret you created when saving the application."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Response and processing times"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Eligibility verification"
+    },
+    {
+      "type": "paragraph",
+      "text": "It usually takes around 45 seconds for the system to perform an online check and to search for your super. Make sure you enter the same details exactly as they appear on your passport so we can identify you."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Online application"
+    },
+    {
+      "type": "paragraph",
+      "text": "Online applications should take around 30 minutes to complete."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Checking progress of your application"
+    },
+    {
+      "type": "paragraph",
+      "text": "The service standard for processing a DASP is 28 days from when you lodged your completed application."
+    },
+    {
+      "type": "paragraph",
+      "text": "If, after 28 days, you haven't received your DASP, and your super money is held with your fund, contact your super fund directly to enquire on the progress of your application."
+    },
+    {
+      "type": "paragraph",
+      "text": "If, after 28 days, you haven't received your DASP, and your superannuation money is held by the ATO, you can contact us about the progress of your application. However, we can't always meet the service standard, and it may be best to wait a little longer before contacting us."
+    },
+    {
+      "type": "paragraph",
+      "text": "When lodging your online DASP application, if your super money was held by the ATO, your application would have shown 'Payment of unclaimed superannuation money', 'Superannuation guarantee' or 'Superannuation holding accounts reserve' instead of the super fund name."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note : The DASP online application system allows you to re-enter the system to view your application but does not provide the status or progress of your application."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "To submit, you must have left Australia and no longer hold an active visa"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "You cannot submit an application before leaving Australia"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're still in Australia or hold an active visa, you may start and save a DASP application using the online application system, but you can't submit it until you're eligible to apply."
+    },
+    {
+      "type": "paragraph",
+      "text": "Every time you access the system, you must enter your personal details exactly the same as previously."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you've departed Australia but your visa is still in effect"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have departed Australia you won’t be able to submit your DASP application if your temporary resident visa is still active."
+    },
+    {
+      "type": "paragraph",
+      "text": "To check if your visa is still active, visit Check visa conditions online (VEVO (homeaffairs.gov.au) External Link"
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on how to cancel your visa visit the Home Affairs External Link website."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Contact us"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "phone us if you are in Australia – on 13 10 20 between 8:00 am and 6:00 pm Monday to Friday if you are outside Australia – on +61 2 6216 1111 between 8:00 am and 5:00 pm Monday to Friday (Australian Eastern Standard Time or Eastern Daylight-saving Time) and ask to be transferred to 13 10 20 If you would like to speak in a language other than English, phone the Translating and Interpreting service (TIS National) on +61 3 9268 8332 and request to be connected to the ATO in the language you wish to speak If you are deaf, or have a hearing or speech impairment, contact us through the National Relay Service (NRS) on the numbers listed below TTY users, phone 13 36 77 , and ask for ATO number you need Speak and listen (Speech-to-speech relay) users, phone 1300 555 727 and ask for the ATO number you need",
+        "write to us at: Australian Taxation Office PO Box 3100 Penrith NSW 2740 Australia"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information about visas and the Certification of Immigration Status , see Home Affairs External Link ."
+    }
+  ],
+  "content_text": "## Creating a shared secret\nWhen you first use the DASP online application system, you'll be asked to create a 'shared secret' by selecting and answering a question. Whenever you revisit the system, you'll need to answer the question correctly.\nSelect a question that only you will know the answer to. Your answer may:\n- be any text from 1 to 20 characters long\n- be one or more words\n- include numbers.\nIf you enter any extra spaces before, between, or following your answer, these will be ignored by the system when the answer is saved.\nYour question and answer will be stored in an encrypted format.\nEnsure you remember your answer, as you'll need to enter it if you return to the system. You will be given three chances to type the correct answer when you want to re-enter the system.\n### Forgotten the answer to your shared secret?\nPhone us if you've forgotten the answer to your shared secret question.\n## Information you must provide with your application\nIf you apply using the DASP online application system, you'll need to provide your:\n- name, date of birth and other personal details\n- email address\n- passport country\n- passport number\n- TFN (optional)\n- super fund account details, including your fund's Australian business number (ABN) use the system to search for the ABN based on the fund's name use Super Fund Lookup External Link to search for the fund's postal address and ABN contact the fund directly.\nIf we have any records of your super, the system will automatically present an application for each super account found during the search. You must then supply as much additional information as possible, such as the super fund number, the fund's client identification and the date you joined the fund. Your superannuation statements should help you find this information.\nTo find out what information is required for applications made directly to your super fund on the paper form, see the Application for a departing Australia superannuation payment form (NAT 7204).\n### Your TFN (optional)\nYou don't have to provide your Australian tax file number (TFN). However, if you enter your TFN in DASP Online, the system will search for your super accounts and display them for you to claim.\nIf you don't provide your TFN, you'll need to provide the details of your super accounts.\nYou can find your TFN on:\n- your income tax notice of assessment (NOA)\n- any correspondence we have sent you\n- copies of your payment summaries from your employer.\nIf you have a registered tax agent, you can ask them for your TFN.\nIf you still can't find your TFN, you can either:\n- phone us – you need to provide information for verification purpose before we can discuss your personal details\n- complete the form Tax file number – application or enquiry for an individual living outside Australia and return it to us.\n## Incorrect visa information\nThe Visa information screen will advise whether you have ever held a WHM visa – that is, a 417 or 462 visa, and not just whether it was your last visa. This information message is usually correct.\nYou may have held other visas with working rights, the type of 'other' visa and the visa dates are not listed under visa information. Your super fund will need to know if you held 'other' visas with working rights but does not need to know the type of 'other' visa or the dates.\nOnce you’ve submitted your application, your visa information will be forwarded to your super fund. Your fund will use your visa information to determine the appropriate DASP tax rate. If your super is held by the ATO, we will check your visa information.\nGiven the information above, if you still believe your visa information is incorrect on the visa information screen (for example, the screen stated you held a WHM visa and you have never held a WHM visa), do not submit your online application. You will need to email DASPmail@ato.gov.au .\n## If DASP Online doesn’t find your super\nIf you know you have super, but the DASP online application system doesn't locate it, you can select Add application on the Add an application page. Start an application using the Australian business number (ABN) belonging to the fund that holds your super.\n## Re-entering the online system\nTo re-enter the DASP online application system, you'll need to provide your personal details and answer the shared secret question you created.\nTo view your existing applications, you must enter exactly the same personal details (TFN, name, passport details and date of birth) you used when accessing the system for the first time. If you supplied your TFN the first time, you should supply it when re-entering the system. If you didn't supply your TFN the first time, you should not supply it next time.\nEnsure the passport number and country are exactly the same as what you supplied when you first accessed the system. Even where these passport details have expired you should continue to use the same information as originally entered.\nIf you don't provide exactly the same details, you will still be able to create a new application, but not view existing applications.\n### Viewing applications you've created\nThe Applications for payment page presents a summary of applications you’ve created. Applications will be displayed by their status:\n- submitted – if it’s been sent to the holder of your super\n- rejected – if the fund has rejected the application\n- new application – if you have created but not yet submitted the application\n- not to be forwarded – if you elected to hold the application\n- transferred – if your fund rejected the application because they transferred your super to another fund, or to us.\nAlthough you can re-enter the system and view applications you submitted, you can't tell whether your super fund has processed the application.\nGenerally, a super fund will process an application within 28 days, unless they require more information from you. Contact the fund directly for enquiries regarding your application.\nIf an application you saved or submitted is not displayed, it is likely that you entered different personal details than you originally entered when you accessed the system this time.\n### If you need to change your application\nOnce an application has been submitted to your fund it appears on the Submitted applications page in the DASP online application system. It can be viewed, but not changed. So, check the details carefully before you submit the application.\nTo make changes, you will need to contact your fund directly. The contact details of the fund are also displayed on the Submitted applications page.\nIt is possible to view and update applications that you’ve saved in DASP Online before submitting them to your fund or to us. To access the application, you will need to answer the shared secret you created when saving the application.\n## Response and processing times\n### Eligibility verification\nIt usually takes around 45 seconds for the system to perform an online check and to search for your super. Make sure you enter the same details exactly as they appear on your passport so we can identify you.\n### Online application\nOnline applications should take around 30 minutes to complete.\n### Checking progress of your application\nThe service standard for processing a DASP is 28 days from when you lodged your completed application.\nIf, after 28 days, you haven't received your DASP, and your super money is held with your fund, contact your super fund directly to enquire on the progress of your application.\nIf, after 28 days, you haven't received your DASP, and your superannuation money is held by the ATO, you can contact us about the progress of your application. However, we can't always meet the service standard, and it may be best to wait a little longer before contacting us.\nWhen lodging your online DASP application, if your super money was held by the ATO, your application would have shown 'Payment of unclaimed superannuation money', 'Superannuation guarantee' or 'Superannuation holding accounts reserve' instead of the super fund name.\nNote : The DASP online application system allows you to re-enter the system to view your application but does not provide the status or progress of your application.\n## To submit, you must have left Australia and no longer hold an active visa\n### You cannot submit an application before leaving Australia\nIf you're still in Australia or hold an active visa, you may start and save a DASP application using the online application system, but you can't submit it until you're eligible to apply.\nEvery time you access the system, you must enter your personal details exactly the same as previously.\n### If you've departed Australia but your visa is still in effect\nIf you have departed Australia you won’t be able to submit your DASP application if your temporary resident visa is still active.\nTo check if your visa is still active, visit Check visa conditions online (VEVO (homeaffairs.gov.au) External Link\nFor more information on how to cancel your visa visit the Home Affairs External Link website.\n## Contact us\n- phone us if you are in Australia – on 13 10 20 between 8:00 am and 6:00 pm Monday to Friday if you are outside Australia – on +61 2 6216 1111 between 8:00 am and 5:00 pm Monday to Friday (Australian Eastern Standard Time or Eastern Daylight-saving Time) and ask to be transferred to 13 10 20 If you would like to speak in a language other than English, phone the Translating and Interpreting service (TIS National) on +61 3 9268 8332 and request to be connected to the ATO in the language you wish to speak If you are deaf, or have a hearing or speech impairment, contact us through the National Relay Service (NRS) on the numbers listed below TTY users, phone 13 36 77 , and ask for ATO number you need Speak and listen (Speech-to-speech relay) users, phone 1300 555 727 and ask for the ATO number you need\n- write to us at: Australian Taxation Office PO Box 3100 Penrith NSW 2740 Australia\nFor more information about visas and the Certification of Immigration Status , see Home Affairs External Link .",
+  "child_links": [],
+  "word_count": 1724,
+  "source_title": "",
+  "source_description": "",
+  "category": "super-for-individuals-and-families"
+}

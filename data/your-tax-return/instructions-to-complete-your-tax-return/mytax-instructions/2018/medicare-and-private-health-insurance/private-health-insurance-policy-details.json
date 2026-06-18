@@ -1,0 +1,398 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/medicare-and-private-health-insurance/private-health-insurance-policy-details",
+  "title": "myTax 2018 Private health insurance",
+  "description": "How to report your private health insurance information in your return using myTax.",
+  "nat_number": "",
+  "quick_code": "55663",
+  "date_updated": "2018-06-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "2018, private health insurance, policy, health insurance policy, insurance policy details, myTax, e-tax, online tax return, etax, PHI",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Complete this section if at any time during 2017–18 you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "were covered by a private health insurance policy, or",
+        "paid for a dependent-child-only policy."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For this section, the definition of a dependent child is affected by the rules of your health fund. If you are under 25 years old and do not have your own policy, you may be covered as a dependent child on your family policy. If you are unsure about whether this applies to you, check your family private health insurance policy details or contact your insurer."
+    },
+    {
+      "type": "paragraph",
+      "text": "We will use the information you provide at this section to work out your share of any rebate entitlement. This may result in a tax offset or liability."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: If you are an overseas visitor, for more information and instructions on how to complete the Medicare levy surcharge and this section, see Overseas visitors ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need a statement from your registered health insurer. If you did not receive a statement, contact your insurer."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were covered as a dependent child on a family policy, use the information shown on the statement for that policy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your tax return may be delayed if you do not use the pre-filled details or your statement and the private health insurance details you provide are incorrect."
+    },
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with private health insurance policies provided to us. Check for additional policies you held that are not pre-filled and ensure you add them."
+    },
+    {
+      "type": "paragraph",
+      "text": "For each private health insurance policy that has not been pre-filled, complete the following steps."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "At Private health insurance policies , select Add .",
+        "Select the Health insurer ID , shown at B on your statement.",
+        "Enter your Membership number , shown at C on your statement."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with private health insurance policy details provided to us. We may have pre-filled the tax claim code for you based on your last year's tax return. Check for additional policy details that are not pre-filled and ensure you add them."
+    },
+    {
+      "type": "paragraph",
+      "text": "For each policy, complete the following steps for each line of information on your statement."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each line on your statement that has not been pre-filled, select Add at Policy details .",
+        "Select your Tax claim code . For more information, see Working out your tax claim code . If you selected the following tax claim codes, you do not need to enter any other information for that line. Go to step 10. E – Your spouse is claiming your share of the rebate. F – You were covered as a dependent child on a private health insurance policy.",
+        "Enter Your premiums eligible for Australian Government rebate , shown at J on your statement. Do not show a percentage.",
+        "Enter Your Australian Government rebate received , shown at K on your statement. Do not show a percentage.",
+        "Select the Benefit code , shown at L on your statement.",
+        "If you had a spouse on 30 June 2018 and the Tax claim code you selected is C , answer the question Do you want to claim your spouse's share? If Yes , your spouse's share will be automatically completed with tax claim code D .",
+        "Select Save .",
+        "Select Save and continue when you have completed the Medicare and private health insurance section."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Working out your tax claim code"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "On 30 June 2018, were you:"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Single?",
+          "Go to step 2"
+        ],
+        [
+          "Married or de facto (including if your spouse died during 2017–18 and you did not have another spouse before 30 June 2018)?",
+          "Go to step 3"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Select the code letter that best describes your circumstances."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Dependants",
+          "Code"
+        ],
+        [
+          "You have no dependants. Note : If you had dependants in your previous tax return but don't have them anymore, you need to change the Number of dependent children in the Income tests section. Tax claim code A will then be available for selection.",
+          "Tax claim code A Go to step 5"
+        ],
+        [
+          "You have a dependent child (your child or a sibling who is dependent on you for economic support), or You paid for a dependent-child-only policy.",
+          "Tax claim code B Go to step 5"
+        ],
+        [
+          "You were covered as a dependent child on a private health insurance policy.",
+          "Tax claim code F Go to step 5"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Are you claiming your spouse's share of the rebate?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can choose to claim your spouse's share of the rebate on their behalf if both of you meet all of the following three criteria."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both of you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "were covered under the same policy",
+        "were covered for the same period of time",
+        "were together on 30 June 2018."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "Tax claim code C Go to step 5"
+        ],
+        [
+          "No",
+          "Go to step 4"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Select the code letter that best describes your circumstances."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Circumstances",
+          "Code"
+        ],
+        [
+          "You are claiming your share of the rebate, or You are a parent claiming for a dependent-child-only policy.",
+          "Tax claim code C Go to step 5"
+        ],
+        [
+          "Your spouse is claiming your share of the rebate.",
+          "Tax claim code E Go to step 5"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "You have worked out your tax claim code, return to step 5 in Completing this section."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Overseas visitors"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are an overseas visitor, how you complete Medicare levy surcharge and Private health insurance in myTax depends on your circumstances, such as:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If you have an overseas health insurer",
+        "If you have a complying health insurance policy",
+        "If you are not eligible for Medicare",
+        "If you have overseas student or overseas visitor health cover"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you have an overseas health insurer"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your private health insurance provider is an overseas provider that is not registered in Australia, you will not be eligible for any rebate on your policy, and you may need to pay the Medicare levy surcharge if you don't meet the conditions for a Medicare levy exemption."
+    },
+    {
+      "type": "paragraph",
+      "text": "When completing myTax, you should:"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Medicare levy surcharge"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Answer No to the question Were you and all of your dependants covered by an appropriate level of private patient hospital cover from 1 July 2017 to 30 June 2018?",
+        "Indicate the Number of days you do not have to pay the surcharge . In some instances, myTax may determine for you that you do not have to pay the Medicare levy surcharge. For more information, see Medicare levy surcharge ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At Private health insurance"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Not show any Private health insurance policies ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you have a complying health insurance policy"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will receive a private health insurance statement from your insurance provider if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you have an Australian-registered complying health insurance policy",
+        "you are eligible for Medicare",
+        "you are a private health insurance incentive beneficiary (PHIIB)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When completing myTax, if you and all your dependents were covered under a complying health insurance policy for the full year with the appropriate level of private patient hospital cover, you should:"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Medicare levy surcharge"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Answer Yes to the question Were you and all of your dependants covered by an appropriate level of private patient hospital cover from 1 July 2017 to 30 June 2018?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At Private health insurance"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Show your Private health insurance policies . For more information, see Completing this section ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you are not eligible for Medicare"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are an overseas visitor who is not eligible for Medicare, you are not entitled to any private health insurance rebate."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, you can still purchase a complying health insurance policy with an Australian-registered health insurer. You will receive a private health insurance statement. Your statement will show the amount of premiums paid (at label J ), while the rebate received at label K will be zero ($0)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the complying health insurance policy provides you and all of your dependants with the appropriate level of private patient hospital cover, you will be eligible to claim an exemption from the Medicare levy surcharge."
+    },
+    {
+      "type": "paragraph",
+      "text": "When completing myTax, you should:"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Medicare levy surcharge"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Answer No to the question Were you and all of your dependants covered by an appropriate level of private patient hospital cover from 1 July 2017 to 30 June 2018?",
+        "Indicate the Number of days you do not have to pay the surcharge . In some instances, myTax may determine for you that you do not have to pay the Medicare levy surcharge. If not, and you and all of your dependants, including your spouse, were covered under the appropriate level of private patient hospital cover for the full year, enter 365 into Number of days you do not have to pay the surcharge . Otherwise, see Medicare levy surcharge to determine what to enter into Number of days you do not have to pay the surcharge ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At Private health insurance"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Not show any Private health insurance policies ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you have overseas student or overseas visitor health cover"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are an overseas visitor, you can purchase Overseas student health cover (OSHC) or Overseas visitors health cover (OVHC) from an Australian-registered health insurer. These are not complying health insurance policies, and you will not be eligible for the private health insurance rebate."
+    },
+    {
+      "type": "paragraph",
+      "text": "When completing myTax as an overseas visitor with OSHC or OVHC, you should:"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Medicare levy surcharge"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Answer No to the question Were you and all of your dependants covered by an appropriate level of private patient hospital cover from 1 July 2017 to 30 June 2018?",
+        "Indicate the Number of days you do not have to pay the surcharge . In some instances, myTax may determine for you that you do not have to pay the Medicare levy surcharge. For more information, see Medicare levy surcharge ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At Private health insurance"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Not show any Private health insurance policies ."
+      ]
+    }
+  ],
+  "content_text": "Complete this section if at any time during 2017–18 you:\n- were covered by a private health insurance policy, or\n- paid for a dependent-child-only policy.\nFor this section, the definition of a dependent child is affected by the rules of your health fund. If you are under 25 years old and do not have your own policy, you may be covered as a dependent child on your family policy. If you are unsure about whether this applies to you, check your family private health insurance policy details or contact your insurer.\nWe will use the information you provide at this section to work out your share of any rebate entitlement. This may result in a tax offset or liability.\n## Completing this section\nNote: If you are an overseas visitor, for more information and instructions on how to complete the Medicare levy surcharge and this section, see Overseas visitors .\nYou will need a statement from your registered health insurer. If you did not receive a statement, contact your insurer.\nIf you were covered as a dependent child on a family policy, use the information shown on the statement for that policy.\nYour tax return may be delayed if you do not use the pre-filled details or your statement and the private health insurance details you provide are incorrect.\nWe have pre-filled your tax return with private health insurance policies provided to us. Check for additional policies you held that are not pre-filled and ensure you add them.\nFor each private health insurance policy that has not been pre-filled, complete the following steps.\n- At Private health insurance policies , select Add .\n- Select the Health insurer ID , shown at B on your statement.\n- Enter your Membership number , shown at C on your statement.\nWe have pre-filled your tax return with private health insurance policy details provided to us. We may have pre-filled the tax claim code for you based on your last year's tax return. Check for additional policy details that are not pre-filled and ensure you add them.\nFor each policy, complete the following steps for each line of information on your statement.\n- For each line on your statement that has not been pre-filled, select Add at Policy details .\n- Select your Tax claim code . For more information, see Working out your tax claim code . If you selected the following tax claim codes, you do not need to enter any other information for that line. Go to step 10. E – Your spouse is claiming your share of the rebate. F – You were covered as a dependent child on a private health insurance policy.\n- Enter Your premiums eligible for Australian Government rebate , shown at J on your statement. Do not show a percentage.\n- Enter Your Australian Government rebate received , shown at K on your statement. Do not show a percentage.\n- Select the Benefit code , shown at L on your statement.\n- If you had a spouse on 30 June 2018 and the Tax claim code you selected is C , answer the question Do you want to claim your spouse's share? If Yes , your spouse's share will be automatically completed with tax claim code D .\n- Select Save .\n- Select Save and continue when you have completed the Medicare and private health insurance section.\n## Working out your tax claim code\n- On 30 June 2018, were you:\nSingle? | Go to step 2\nMarried or de facto (including if your spouse died during 2017–18 and you did not have another spouse before 30 June 2018)? | Go to step 3\n- Select the code letter that best describes your circumstances.\nDependants | Code\nYou have no dependants. Note : If you had dependants in your previous tax return but don't have them anymore, you need to change the Number of dependent children in the Income tests section. Tax claim code A will then be available for selection. | Tax claim code A Go to step 5\nYou have a dependent child (your child or a sibling who is dependent on you for economic support), or You paid for a dependent-child-only policy. | Tax claim code B Go to step 5\nYou were covered as a dependent child on a private health insurance policy. | Tax claim code F Go to step 5\n- Are you claiming your spouse's share of the rebate?\nYou can choose to claim your spouse's share of the rebate on their behalf if both of you meet all of the following three criteria.\nBoth of you:\n- were covered under the same policy\n- were covered for the same period of time\n- were together on 30 June 2018.\nYes | Tax claim code C Go to step 5\nNo | Go to step 4\n- Select the code letter that best describes your circumstances.\nCircumstances | Code\nYou are claiming your share of the rebate, or You are a parent claiming for a dependent-child-only policy. | Tax claim code C Go to step 5\nYour spouse is claiming your share of the rebate. | Tax claim code E Go to step 5\n- You have worked out your tax claim code, return to step 5 in Completing this section.\n## Overseas visitors\nIf you are an overseas visitor, how you complete Medicare levy surcharge and Private health insurance in myTax depends on your circumstances, such as:\n- If you have an overseas health insurer\n- If you have a complying health insurance policy\n- If you are not eligible for Medicare\n- If you have overseas student or overseas visitor health cover\n### If you have an overseas health insurer\nIf your private health insurance provider is an overseas provider that is not registered in Australia, you will not be eligible for any rebate on your policy, and you may need to pay the Medicare levy surcharge if you don't meet the conditions for a Medicare levy exemption.\nWhen completing myTax, you should:\nAt Medicare levy surcharge\n- Answer No to the question Were you and all of your dependants covered by an appropriate level of private patient hospital cover from 1 July 2017 to 30 June 2018?\n- Indicate the Number of days you do not have to pay the surcharge . In some instances, myTax may determine for you that you do not have to pay the Medicare levy surcharge. For more information, see Medicare levy surcharge .\nAt Private health insurance\n- Not show any Private health insurance policies .\n### If you have a complying health insurance policy\nYou will receive a private health insurance statement from your insurance provider if:\n- you have an Australian-registered complying health insurance policy\n- you are eligible for Medicare\n- you are a private health insurance incentive beneficiary (PHIIB).\nWhen completing myTax, if you and all your dependents were covered under a complying health insurance policy for the full year with the appropriate level of private patient hospital cover, you should:\nAt Medicare levy surcharge\n- Answer Yes to the question Were you and all of your dependants covered by an appropriate level of private patient hospital cover from 1 July 2017 to 30 June 2018?\nAt Private health insurance\n- Show your Private health insurance policies . For more information, see Completing this section .\n### If you are not eligible for Medicare\nIf you are an overseas visitor who is not eligible for Medicare, you are not entitled to any private health insurance rebate.\nHowever, you can still purchase a complying health insurance policy with an Australian-registered health insurer. You will receive a private health insurance statement. Your statement will show the amount of premiums paid (at label J ), while the rebate received at label K will be zero ($0).\nIf the complying health insurance policy provides you and all of your dependants with the appropriate level of private patient hospital cover, you will be eligible to claim an exemption from the Medicare levy surcharge.\nWhen completing myTax, you should:\nAt Medicare levy surcharge\n- Answer No to the question Were you and all of your dependants covered by an appropriate level of private patient hospital cover from 1 July 2017 to 30 June 2018?\n- Indicate the Number of days you do not have to pay the surcharge . In some instances, myTax may determine for you that you do not have to pay the Medicare levy surcharge. If not, and you and all of your dependants, including your spouse, were covered under the appropriate level of private patient hospital cover for the full year, enter 365 into Number of days you do not have to pay the surcharge . Otherwise, see Medicare levy surcharge to determine what to enter into Number of days you do not have to pay the surcharge .\nAt Private health insurance\n- Not show any Private health insurance policies .\n### If you have overseas student or overseas visitor health cover\nIf you are an overseas visitor, you can purchase Overseas student health cover (OSHC) or Overseas visitors health cover (OVHC) from an Australian-registered health insurer. These are not complying health insurance policies, and you will not be eligible for the private health insurance rebate.\nWhen completing myTax as an overseas visitor with OSHC or OVHC, you should:\nAt Medicare levy surcharge\n- Answer No to the question Were you and all of your dependants covered by an appropriate level of private patient hospital cover from 1 July 2017 to 30 June 2018?\n- Indicate the Number of days you do not have to pay the surcharge . In some instances, myTax may determine for you that you do not have to pay the Medicare levy surcharge. For more information, see Medicare levy surcharge .\nAt Private health insurance\n- Not show any Private health insurance policies .",
+  "child_links": [],
+  "word_count": 1656,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

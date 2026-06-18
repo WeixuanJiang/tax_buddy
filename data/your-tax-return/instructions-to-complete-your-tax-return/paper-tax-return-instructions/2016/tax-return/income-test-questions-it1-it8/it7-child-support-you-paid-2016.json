@@ -1,0 +1,105 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2016/tax-return/income-test-questions-it1-it8/it7-child-support-you-paid-2016",
+  "title": "IT7 Child support you paid 2016",
+  "description": "Complete question IT7 to include child support you paid.",
+  "nat_number": "",
+  "quick_code": "48682",
+  "date_updated": "2016-05-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "Child support, TaxPack, income test, child support, paid child support",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about amounts you paid or benefits you provided to another person other than your partner for the maintenance of your natural or adopted child."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include amounts you paid or provided to a person to acquire goods or services."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Did you pay amounts or provide benefits to another person for the maintenance of your child?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Write 0 at Z item IT7 , then go to IT8 Number of dependent children 2016 , or return to main menu Individual tax return instructions 2016 ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to know, or work out from your records, the total amounts you paid or benefits you provided for the maintenance of your child during 2015–16."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the amounts you paid and benefits you provided for the maintenance of your child during 2015–16."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total at Z item IT7 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For income test purposes, the amounts you paid and the benefits you provided for the maintenance of your child will be deducted from the total of the other components that make up your adjusted taxable income."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "ato.gov.au/incometests"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "IT8 Number of dependent children 2016",
+        "Individual tax return instructions 2016",
+        "IT6 Net rental property loss 2016"
+      ]
+    }
+  ],
+  "content_text": "This question is about amounts you paid or benefits you provided to another person other than your partner for the maintenance of your natural or adopted child.\nDo not include amounts you paid or provided to a person to acquire goods or services.\n## Did you pay amounts or provide benefits to another person for the maintenance of your child?\nNo | Write 0 at Z item IT7 , then go to IT8 Number of dependent children 2016 , or return to main menu Individual tax return instructions 2016 .\nYes | Read on.\n## Answering this question\nYou will need to know, or work out from your records, the total amounts you paid or benefits you provided for the maintenance of your child during 2015–16.\n## Completing your tax return\n### Step 1\nAdd up all the amounts you paid and benefits you provided for the maintenance of your child during 2015–16.\n### Step 2\nWrite the total at Z item IT7 .\nFor income test purposes, the amounts you paid and the benefits you provided for the maintenance of your child will be deducted from the total of the other components that make up your adjusted taxable income.\nSee also:\n- ato.gov.au/incometests\n## Where to go next\n- IT8 Number of dependent children 2016\n- Individual tax return instructions 2016\n- IT6 Net rental property loss 2016",
+  "child_links": [],
+  "word_count": 229,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

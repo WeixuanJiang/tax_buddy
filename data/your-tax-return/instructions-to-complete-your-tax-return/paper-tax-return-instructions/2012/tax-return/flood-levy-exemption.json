@@ -1,0 +1,303 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2012/tax-return/flood-levy-exemption",
+  "title": "Flood levy exemption",
+  "description": "Complete this item on your tax return if you are eligible to claim an exemption from paying the flood levy.",
+  "nat_number": "71050",
+  "quick_code": "25972",
+  "date_updated": "2012-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, flood levy",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This is a new question."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must complete this item if you are eligible to claim an exemption from paying the flood levy."
+    },
+    {
+      "type": "paragraph",
+      "text": "A temporary one-year flood levy applies to your taxable income for the 2011–12 income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your taxable income is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "from $50,001 to $100,000 then the levy is 0.5% of any taxable income over $50,000",
+        "more than $100,000 then the levy is $250 plus 1.0% of any taxable income over $100,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "No flood levy is payable if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your taxable income is less than $50,001, or",
+        "an exemption applies to you because you, an immediate family member or a child your principally care for were affected by a natural disaster in the 2010–11 or 2011–12 income year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We will work out your flood levy and include it on your notice of assessment."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Were you, or a child you principally care for, or an immediate family member* affected by a natural disaster in 2010–11 or 2011–12?"
+    },
+    {
+      "type": "paragraph",
+      "text": "* An immediate family member for the purposes of the flood levy exemption is your spouse, child, parent, brother, sister or legal guardian, who was an Australian citizen."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Leave item F blank on your tax return. We will work out your flood levy and include it on your notice of assessment. Go to Adjustments question A1 - Under 18 , or return to main menu Individual tax return instructions"
+        ],
+        [
+          "YES",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Were you eligible for an Australian Government Disaster Recovery Payment for a natural disaster and received the payment by 30 June 2012?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "YES",
+          "You are exempt. Go to step 7 ."
+        ],
+        [
+          "NO",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Was a declaration made under the Natural Disaster Relief and Recovery Arrangements in relation to a disaster that occurred during the period 1 July 2010 to 30 June 2012 and that disaster:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "affected you or a child you principally care for or",
+        "directly resulted in the death of a member of your immediate family?"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "YES",
+          "Go to step 3 ."
+        ],
+        [
+          "NO",
+          "Go to step 6 ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ste p 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Were both of the following conditions satisfied at the time of the disaster:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were at least 16 years old or were receiving a social security payment from Centrelink, and",
+        "you were an Australian resident for social security purposes?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You are an Australian resident for social security purposes if you reside in Australia and are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an Australian citizen",
+        "the holder of a permanent visa, or",
+        "the holder of a protected special category visa (you were in Australia on 26 February 2001 or for 12 months in the two years prior to that date, or you were assessed as protected before 26 January 2004)."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "YES",
+          "Go to step 4 ."
+        ],
+        [
+          "NO",
+          "Go to step 6 ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ste p 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Did at least one of the following conditions apply?"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "As a direct result of the declared natural disaster, your spouse, child, parent, brother, sister or legal guardian, who was an Australian citizen, died.",
+        "As a result of the declared natural disaster your principal place of residence was without electricity, or water, or gas, or sewerage service, or another essential service for at least 48 hours.",
+        "As a direct result of the declared natural disaster:",
+        "you were injured and were admitted to hospital because of the injury (or would have been admitted to hospital under normal circumstances) you were unable to gain access to your principal place of residence for at least 24 hours you were stranded in your principal place of residence for at least 24 hours, or your principal place of residence was destroyed or sustained major damage."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Major damage means any of the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the residence is structurally unsound",
+        "the interior of the residence is contaminated by sewerage",
+        "at least one quarter of the interior of the residence is damaged",
+        "at least one quarter of the interior of the residence is exposed to the elements."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "YES",
+          "You are exempt. Go to step 7 ."
+        ],
+        [
+          "NO",
+          "Go to step 5 ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ste p 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Were you the principal carer of a dependent child under 16 years old who met any of the conditions listed at Step 4?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "YES",
+          "You are exempt. Go to step 7 ."
+        ],
+        [
+          "NO",
+          "Go to step 6 ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ste p 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Are you a New Zealand citizen who was eligible for and received an ex-gratia payment from Centrelink for a natural disaster that occurred in the period 1 July 2010 to 30 June 2012?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "YES",
+          "You are exempt. Go to step 7 ."
+        ],
+        [
+          "NO",
+          "Leave item F blank on your tax return. We will work out your flood levy and include it on your notice of assessment. Go to Adjustments question A1 - Under 18 ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ste p 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print X in the box at the right of F ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have now completed the flood levy exemption question."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information about the flood levy and natural disasters:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "go to Flood levy information for individuals",
+        "phone us on 13 28 61 ."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next continue to question A1 - Under 18 return to main menu Individual tax return instructions go back to question M2 - Medicare levy surcharge"
+        ]
+      ]
+    }
+  ],
+  "content_text": "This is a new question.\nYou must complete this item if you are eligible to claim an exemption from paying the flood levy.\nA temporary one-year flood levy applies to your taxable income for the 2011–12 income year.\nIf your taxable income is:\n- from $50,001 to $100,000 then the levy is 0.5% of any taxable income over $50,000\n- more than $100,000 then the levy is $250 plus 1.0% of any taxable income over $100,000.\nNo flood levy is payable if:\n- your taxable income is less than $50,001, or\n- an exemption applies to you because you, an immediate family member or a child your principally care for were affected by a natural disaster in the 2010–11 or 2011–12 income year.\nWe will work out your flood levy and include it on your notice of assessment.\n## Were you, or a child you principally care for, or an immediate family member* affected by a natural disaster in 2010–11 or 2011–12?\n* An immediate family member for the purposes of the flood levy exemption is your spouse, child, parent, brother, sister or legal guardian, who was an Australian citizen.\nNO | Leave item F blank on your tax return. We will work out your flood levy and include it on your notice of assessment. Go to Adjustments question A1 - Under 18 , or return to main menu Individual tax return instructions\nYES | Read on.\n## Completing your tax return\n### Step 1\nWere you eligible for an Australian Government Disaster Recovery Payment for a natural disaster and received the payment by 30 June 2012?\nYES | You are exempt. Go to step 7 .\nNO | Read on.\n### Step 2\nWas a declaration made under the Natural Disaster Relief and Recovery Arrangements in relation to a disaster that occurred during the period 1 July 2010 to 30 June 2012 and that disaster:\n- affected you or a child you principally care for or\n- directly resulted in the death of a member of your immediate family?\nYES | Go to step 3 .\nNO | Go to step 6 .\n### Ste p 3\nWere both of the following conditions satisfied at the time of the disaster:\n- you were at least 16 years old or were receiving a social security payment from Centrelink, and\n- you were an Australian resident for social security purposes?\nYou are an Australian resident for social security purposes if you reside in Australia and are:\n- an Australian citizen\n- the holder of a permanent visa, or\n- the holder of a protected special category visa (you were in Australia on 26 February 2001 or for 12 months in the two years prior to that date, or you were assessed as protected before 26 January 2004).\nYES | Go to step 4 .\nNO | Go to step 6 .\n### Ste p 4\nDid at least one of the following conditions apply?\n- As a direct result of the declared natural disaster, your spouse, child, parent, brother, sister or legal guardian, who was an Australian citizen, died.\n- As a result of the declared natural disaster your principal place of residence was without electricity, or water, or gas, or sewerage service, or another essential service for at least 48 hours.\n- As a direct result of the declared natural disaster:\n- you were injured and were admitted to hospital because of the injury (or would have been admitted to hospital under normal circumstances) you were unable to gain access to your principal place of residence for at least 24 hours you were stranded in your principal place of residence for at least 24 hours, or your principal place of residence was destroyed or sustained major damage.\nMajor damage means any of the following:\n- the residence is structurally unsound\n- the interior of the residence is contaminated by sewerage\n- at least one quarter of the interior of the residence is damaged\n- at least one quarter of the interior of the residence is exposed to the elements.\nYES | You are exempt. Go to step 7 .\nNO | Go to step 5 .\n### Ste p 5\nWere you the principal carer of a dependent child under 16 years old who met any of the conditions listed at Step 4?\nYES | You are exempt. Go to step 7 .\nNO | Go to step 6 .\n### Ste p 6\nAre you a New Zealand citizen who was eligible for and received an ex-gratia payment from Centrelink for a natural disaster that occurred in the period 1 July 2010 to 30 June 2012?\nYES | You are exempt. Go to step 7 .\nNO | Leave item F blank on your tax return. We will work out your flood levy and include it on your notice of assessment. Go to Adjustments question A1 - Under 18 .\n### Ste p 7\nPrint X in the box at the right of F .\nYou have now completed the flood levy exemption question.\nFor more information about the flood levy and natural disasters:\n- go to Flood levy information for individuals\n- phone us on 13 28 61 .\nWhere to go next continue to question A1 - Under 18 return to main menu Individual tax return instructions go back to question M2 - Medicare levy surcharge",
+  "child_links": [],
+  "word_count": 899,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

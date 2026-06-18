@@ -1,0 +1,418 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2021/tax-offsets/seniors-and-pensioners",
+  "title": "myTax 2021 Seniors and pensioners (includes self-funded retirees)",
+  "description": "How to determine your eligibility for the seniors and pensioners tax offset when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "65561",
+  "date_updated": "2021-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "2021, Pensioner, Pensioner tax offset, Senior Australian, Senior Australians tax offset, SATO, myTax, e-tax, online tax return, etax, SAPTO",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete this section if you are eligible for the seniors and pensioners tax offset (SAPTO), as it may reduce your tax liability."
+    },
+    {
+      "type": "paragraph",
+      "text": "To qualify for this tax offset, you must meet both eligibility conditions ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a spouse at any time during 2020–21, you also need to work out whether they met both eligibility conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll use the information you provide in this section to calculate your tax offset. If you have a spouse that is also eligible for this tax offset, we'll automatically transfer any unused amounts between you."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were in jail for the whole of 2020–21, you can't claim this tax offset."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "We may have pre-filled your tax offset code for you based on the information you entered into myTax."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Personalise return , you don’t need to make a selection to show seniors and pensioners as it's always displayed at Prepare return when:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you have shown an amount at Australian Government payments such as pensions and carer payments",
+        "are 60 years old or older."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your seniors and pensioners tax offset code, at Prepare return select 'Add/Edit' at the Offsets banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Seniors and pensioners (includes self-funded retirees) heading:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Has the Tax offset code been pre-filled in myTax? Yes – go to step 2 . No – go to step 3 .",
+        "Is the pre-filled code correct for your circumstances? If unsure, check Tax offset codes table. Yes – go to step 4 . No – go to step 3 .",
+        "If you meet both of the eligibility conditions , choose the tax offset code that applies to you in the Tax offset codes table.",
+        "Were you or your spouse a veteran, war widow or war widower? No – go to step 5 . Yes – choose the veteran code that applies to you in the Veteran codes table. Go to step 5 .",
+        "Go back to myTax, which should be open in another tab or window. Select your Tax offset code and Veteran code (if applicable) from the drop-down lists.",
+        "Select Save and continue when you have completed the Offsets section."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Tax offset codes"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Your eligibility and circumstance at any time in 2020–21",
+          "Code"
+        ],
+        [
+          "You met the eligibility conditions for this tax offset and were single, separated or widowed.",
+          "A"
+        ],
+        [
+          "You and your spouse both met the eligibility conditions for this tax offset and you lived apart because: one of you was in a nursing home, or of illness – one or both of you have indefinitely continuing illness or infirmity and, as a result, your combined living expenses were increased.",
+          "B"
+        ],
+        [
+          "You met the eligibility conditions for this tax offset, but your spouse didn't, and you lived apart because: one of you was in a nursing home, or of illness – one or both of you have indefinitely continuing illness or infirmity and, as a result, your combined living expenses were increased.",
+          "C"
+        ],
+        [
+          "You and your spouse both met the eligibility conditions for this tax offset and you lived together.",
+          "D"
+        ],
+        [
+          "You met the eligibility conditions for this tax offset, but your spouse didn't, and you lived together.",
+          "E"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If more than one code applies, use the first code in the list above that applies to you, except:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "if both A and B apply, use code A if your spouse's taxable income was $18,334 or more. Otherwise, use code B .",
+        "if both A and D apply, use code A if your spouse's taxable income was $12,494 or more. Otherwise, use code D ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Veteran codes"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Circumstance",
+          "Code letter"
+        ],
+        [
+          "You were a veteran, war widow or war widower.",
+          "V"
+        ],
+        [
+          "Your spouse was a veteran, war widow or war widower.",
+          "W"
+        ],
+        [
+          "Both you and your spouse were a veteran, war widow or war widower.",
+          "X"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eligibility conditions"
+    },
+    {
+      "type": "paragraph",
+      "text": "To claim this offset, you must meet condition 1 and condition 2. If you meet both conditions, go to Completing this section ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Condition 1: Eligibility for Australian Government pensions and similar payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "You meet this condition if you can answer Yes to any of the following in 2020–21."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Requirement",
+          "Do you meet this requirement?"
+        ],
+        [
+          "At Australian Government payments such as pensions and carer payments on your return, you included: a pension or allowance from Centrelink, or a pension, allowance or benefit from the Department of Veterans' Affairs (DVA). Visit Australian Government payments such as pensions and carer payments to learn more. Note: If you are under age-pension age : Australian Government payments are not taxable in some circumstances. When these payments are not taxable, don't include them at Australian Government payments such as pensions and carer payments . If your Australian Government payments are not taxable, they don't meet this eligibility condition. Visit Amounts that you do not pay tax on to learn more.",
+          "Yes/No"
+        ],
+        [
+          "You met the Centrelink age pension age requirement and were eligible for an Australian Government age pension, but did not receive it because: you didn't make a claim, or you didn't meet the income test or the assets test, but you meet one of the following you had been an Australian resident for age-pension purposes for 10 years or more, of which five years were continuous you had a qualifying residence exemption because you arrived in Australia as a refugee or under a special humanitarian program you received a partner allowance, a widow allowance or a widow B pension, immediately before turning age pension age you are a woman who was widowed in Australia, and you and your late partner were Australian residents when your late partner died you are currently in Australia, and you have been an Australian resident for at least the last two years you are a woman and on 19 March 2020 you were receiving a wife pension and you were not receiving a carer allowance; or you were receiving a special needs widow B pension you would have qualified for an age pension under an international social security agreement.",
+          "Yes/No"
+        ],
+        [
+          "You met the veteran pension age test and were eligible for a pension, allowance or benefit from Veterans' Affairs during 2020–21, but did not receive it because: you didn't make a claim, or you didn't meet the income test or the assets test, and you were a veteran with eligible war service, or a Commonwealth veteran, allied veteran or allied mariner with qualifying service.",
+          "Yes/No"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "answer Yes to any of the condition 1 requirements, continue to condition 2 .",
+        "answer No to all the condition 1 requirements, you are not eligible for this tax offset."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Centrelink age pension age"
+    },
+    {
+      "type": "paragraph",
+      "text": "To be eligible for an Australian Government age pension from Centrelink, on 30 June 2021 you must be 66 years old or older."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need help to work out whether you were eligible for a social security or Centrelink pension only, go to servicesaustralia.gov.au External Link ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Veteran pension age test"
+    },
+    {
+      "type": "paragraph",
+      "text": "To be eligible for a pension, allowance or benefit from Veterans' Affairs you must:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "be 60 years old or older on 30 June 2021, and",
+        "meet the veteran pension age test."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You meet the veteran pension age test if one of the following applied to you and you were eligible for a pension, allowance or benefit under the Veterans' Entitlements Act 1986 :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You have eligible war service, that is, service in World War II or operational service as a member of the Australian Defence Force.",
+        "You are a Commonwealth or allied veteran who served in a conflict in which the Australian Defence Force was engaged during a period of hostilities that is, World War II, Korea, Malaya, Indonesia or Vietnam.",
+        "You are an Australian or allied mariner who served during World War II.",
+        "You are the war widow or widower of a former member of the Australian Defence Force."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Pension, allowance or benefit includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "disability pension",
+        "service pension",
+        "white or gold Repatriation health cards for treatment entitlements."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are not sure whether you were eligible for a payment, go to dva.gov.au External Link or phone Veterans' Affairs on 1800 555 254 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Condition 2: Income"
+    },
+    {
+      "type": "paragraph",
+      "text": "You meet this condition if you can answer Yes to any of the following for 2020–21."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Requirement",
+          "Do you meet this requirement?"
+        ],
+        [
+          "You didn't have a spouse, and your rebate income was less than $50,119.",
+          "Yes/No"
+        ],
+        [
+          "You had a spouse, and the combined rebate income of you and your spouse was less than $83,580.",
+          "Yes/No"
+        ],
+        [
+          "At any time in 2020–21 you and your spouse had to live apart due to illness (see note below) or because one of you was in a nursing home, and the combined rebate income of you and your spouse was less than $95,198. Note: Had to live apart due to illness refers to situations where you and your spouse did not live together because one or both of you have an indefinitely continuing illness or infirmity and, as a result, your combined living expenses were increased.",
+          "Yes/No"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "answer Yes to any of the condition 2 requirements, go to Completing this section .",
+        "answer No to all the condition 2 requirements, you are not eligible for this tax offset."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Rebate income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your ‘rebate income' is used to determine whether you are eligible for the seniors and pensioners tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a spouse, your combined rebate income is used to work out whether you are eligible for this tax offset, but your own rebate income is used to work out the amount you're entitled to. Depending on how much income you have earned, you could meet the overall eligibility requirements and still not get this tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the following worksheet if you want to know how to work out your:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "rebate income",
+        "combined rebate income (if you have a spouse)."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "You",
+          "Spouse"
+        ],
+        [
+          "a",
+          "Taxable income",
+          "$",
+          "$"
+        ],
+        [
+          "b",
+          "Assessable First home super saver (FHSS) released amount",
+          "$",
+          "$"
+        ],
+        [
+          "c",
+          "Take away the amount at row b from a . If the amount is less than zero, write 0 at row c . The result is your taxable income disregarding your assessable FHSS released amount.",
+          "$",
+          "$"
+        ],
+        [
+          "d",
+          "Reportable employer superannuation contributions",
+          "$",
+          "$"
+        ],
+        [
+          "e",
+          "Deductible personal superannuation contributions",
+          "$",
+          "$"
+        ],
+        [
+          "f",
+          "Net financial investment loss",
+          "$",
+          "$"
+        ],
+        [
+          "g",
+          "Net rental property loss",
+          "$",
+          "$"
+        ],
+        [
+          "h",
+          "Reportable fringe benefits amounts from employers exempt from FBT under section 57A of FBTAA 1986 multiplied by 0.53. Round down the answer to the nearest dollar.",
+          "$",
+          "$"
+        ],
+        [
+          "i",
+          "Reportable fringe benefits amounts from employers not exempt from FBT under section 57A of FBTAA 1986.",
+          "$",
+          "$"
+        ],
+        [
+          "j",
+          "Add up the amounts from rows c to i . This is each individual's rebate income.",
+          "$",
+          "$"
+        ],
+        [
+          "k",
+          "The amount on which a trustee of a trust was liable to pay tax in respect of your spouse because your spouse was under a legal disability, such as: being an undischarged bankrupt a person who was declared legally incapable because of a mental condition.",
+          "N/A",
+          "$"
+        ],
+        [
+          "l",
+          "Add the amount from: row j in your column row j in your spouse's column, and row k in your spouse's column. This is your combined rebate income.",
+          "$",
+          ""
+        ]
+      ]
+    }
+  ],
+  "content_text": "## Things to know\nComplete this section if you are eligible for the seniors and pensioners tax offset (SAPTO), as it may reduce your tax liability.\nTo qualify for this tax offset, you must meet both eligibility conditions .\nIf you had a spouse at any time during 2020–21, you also need to work out whether they met both eligibility conditions.\nWe'll use the information you provide in this section to calculate your tax offset. If you have a spouse that is also eligible for this tax offset, we'll automatically transfer any unused amounts between you.\nIf you were in jail for the whole of 2020–21, you can't claim this tax offset.\n## Completing this section\nWe may have pre-filled your tax offset code for you based on the information you entered into myTax.\nAt Personalise return , you don’t need to make a selection to show seniors and pensioners as it's always displayed at Prepare return when:\n- you have shown an amount at Australian Government payments such as pensions and carer payments\n- are 60 years old or older.\nTo show your seniors and pensioners tax offset code, at Prepare return select 'Add/Edit' at the Offsets banner.\nAt the Seniors and pensioners (includes self-funded retirees) heading:\n- Has the Tax offset code been pre-filled in myTax? Yes – go to step 2 . No – go to step 3 .\n- Is the pre-filled code correct for your circumstances? If unsure, check Tax offset codes table. Yes – go to step 4 . No – go to step 3 .\n- If you meet both of the eligibility conditions , choose the tax offset code that applies to you in the Tax offset codes table.\n- Were you or your spouse a veteran, war widow or war widower? No – go to step 5 . Yes – choose the veteran code that applies to you in the Veteran codes table. Go to step 5 .\n- Go back to myTax, which should be open in another tab or window. Select your Tax offset code and Veteran code (if applicable) from the drop-down lists.\n- Select Save and continue when you have completed the Offsets section.\n### Tax offset codes\nYour eligibility and circumstance at any time in 2020–21 | Code\nYou met the eligibility conditions for this tax offset and were single, separated or widowed. | A\nYou and your spouse both met the eligibility conditions for this tax offset and you lived apart because: one of you was in a nursing home, or of illness – one or both of you have indefinitely continuing illness or infirmity and, as a result, your combined living expenses were increased. | B\nYou met the eligibility conditions for this tax offset, but your spouse didn't, and you lived apart because: one of you was in a nursing home, or of illness – one or both of you have indefinitely continuing illness or infirmity and, as a result, your combined living expenses were increased. | C\nYou and your spouse both met the eligibility conditions for this tax offset and you lived together. | D\nYou met the eligibility conditions for this tax offset, but your spouse didn't, and you lived together. | E\nIf more than one code applies, use the first code in the list above that applies to you, except:\n- if both A and B apply, use code A if your spouse's taxable income was $18,334 or more. Otherwise, use code B .\n- if both A and D apply, use code A if your spouse's taxable income was $12,494 or more. Otherwise, use code D .\n### Veteran codes\nCircumstance | Code letter\nYou were a veteran, war widow or war widower. | V\nYour spouse was a veteran, war widow or war widower. | W\nBoth you and your spouse were a veteran, war widow or war widower. | X\n## Eligibility conditions\nTo claim this offset, you must meet condition 1 and condition 2. If you meet both conditions, go to Completing this section .\n### Condition 1: Eligibility for Australian Government pensions and similar payments\nYou meet this condition if you can answer Yes to any of the following in 2020–21.\nRequirement | Do you meet this requirement?\nAt Australian Government payments such as pensions and carer payments on your return, you included: a pension or allowance from Centrelink, or a pension, allowance or benefit from the Department of Veterans' Affairs (DVA). Visit Australian Government payments such as pensions and carer payments to learn more. Note: If you are under age-pension age : Australian Government payments are not taxable in some circumstances. When these payments are not taxable, don't include them at Australian Government payments such as pensions and carer payments . If your Australian Government payments are not taxable, they don't meet this eligibility condition. Visit Amounts that you do not pay tax on to learn more. | Yes/No\nYou met the Centrelink age pension age requirement and were eligible for an Australian Government age pension, but did not receive it because: you didn't make a claim, or you didn't meet the income test or the assets test, but you meet one of the following you had been an Australian resident for age-pension purposes for 10 years or more, of which five years were continuous you had a qualifying residence exemption because you arrived in Australia as a refugee or under a special humanitarian program you received a partner allowance, a widow allowance or a widow B pension, immediately before turning age pension age you are a woman who was widowed in Australia, and you and your late partner were Australian residents when your late partner died you are currently in Australia, and you have been an Australian resident for at least the last two years you are a woman and on 19 March 2020 you were receiving a wife pension and you were not receiving a carer allowance; or you were receiving a special needs widow B pension you would have qualified for an age pension under an international social security agreement. | Yes/No\nYou met the veteran pension age test and were eligible for a pension, allowance or benefit from Veterans' Affairs during 2020–21, but did not receive it because: you didn't make a claim, or you didn't meet the income test or the assets test, and you were a veteran with eligible war service, or a Commonwealth veteran, allied veteran or allied mariner with qualifying service. | Yes/No\nIf you:\n- answer Yes to any of the condition 1 requirements, continue to condition 2 .\n- answer No to all the condition 1 requirements, you are not eligible for this tax offset.\n#### Centrelink age pension age\nTo be eligible for an Australian Government age pension from Centrelink, on 30 June 2021 you must be 66 years old or older.\nIf you need help to work out whether you were eligible for a social security or Centrelink pension only, go to servicesaustralia.gov.au External Link .\n#### Veteran pension age test\nTo be eligible for a pension, allowance or benefit from Veterans' Affairs you must:\n- be 60 years old or older on 30 June 2021, and\n- meet the veteran pension age test.\nYou meet the veteran pension age test if one of the following applied to you and you were eligible for a pension, allowance or benefit under the Veterans' Entitlements Act 1986 :\n- You have eligible war service, that is, service in World War II or operational service as a member of the Australian Defence Force.\n- You are a Commonwealth or allied veteran who served in a conflict in which the Australian Defence Force was engaged during a period of hostilities that is, World War II, Korea, Malaya, Indonesia or Vietnam.\n- You are an Australian or allied mariner who served during World War II.\n- You are the war widow or widower of a former member of the Australian Defence Force.\nPension, allowance or benefit includes:\n- disability pension\n- service pension\n- white or gold Repatriation health cards for treatment entitlements.\nIf you are not sure whether you were eligible for a payment, go to dva.gov.au External Link or phone Veterans' Affairs on 1800 555 254 .\n### Condition 2: Income\nYou meet this condition if you can answer Yes to any of the following for 2020–21.\nRequirement | Do you meet this requirement?\nYou didn't have a spouse, and your rebate income was less than $50,119. | Yes/No\nYou had a spouse, and the combined rebate income of you and your spouse was less than $83,580. | Yes/No\nAt any time in 2020–21 you and your spouse had to live apart due to illness (see note below) or because one of you was in a nursing home, and the combined rebate income of you and your spouse was less than $95,198. Note: Had to live apart due to illness refers to situations where you and your spouse did not live together because one or both of you have an indefinitely continuing illness or infirmity and, as a result, your combined living expenses were increased. | Yes/No\nIf you:\n- answer Yes to any of the condition 2 requirements, go to Completing this section .\n- answer No to all the condition 2 requirements, you are not eligible for this tax offset.\n#### Rebate income\nYour ‘rebate income' is used to determine whether you are eligible for the seniors and pensioners tax offset.\nIf you have a spouse, your combined rebate income is used to work out whether you are eligible for this tax offset, but your own rebate income is used to work out the amount you're entitled to. Depending on how much income you have earned, you could meet the overall eligibility requirements and still not get this tax offset.\nUse the following worksheet if you want to know how to work out your:\n- rebate income\n- combined rebate income (if you have a spouse).\nRow | Calculation | You | Spouse\na | Taxable income | $ | $\nb | Assessable First home super saver (FHSS) released amount | $ | $\nc | Take away the amount at row b from a . If the amount is less than zero, write 0 at row c . The result is your taxable income disregarding your assessable FHSS released amount. | $ | $\nd | Reportable employer superannuation contributions | $ | $\ne | Deductible personal superannuation contributions | $ | $\nf | Net financial investment loss | $ | $\ng | Net rental property loss | $ | $\nh | Reportable fringe benefits amounts from employers exempt from FBT under section 57A of FBTAA 1986 multiplied by 0.53. Round down the answer to the nearest dollar. | $ | $\ni | Reportable fringe benefits amounts from employers not exempt from FBT under section 57A of FBTAA 1986. | $ | $\nj | Add up the amounts from rows c to i . This is each individual's rebate income. | $ | $\nk | The amount on which a trustee of a trust was liable to pay tax in respect of your spouse because your spouse was under a legal disability, such as: being an undischarged bankrupt a person who was declared legally incapable because of a mental condition. | N/A | $\nl | Add the amount from: row j in your column row j in your spouse's column, and row k in your spouse's column. This is your combined rebate income. | $ | ",
+  "child_links": [],
+  "word_count": 1945,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,422 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2022/medicare-and-private-health-insurance/medicare-levy-surcharge",
+  "title": "myTax 2022 Medicare levy surcharge",
+  "description": "How to complete the Medicare levy surcharge section when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "69341",
+  "date_updated": "2022-08-07T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Complete this section to work out whether you need to pay a Medicare levy surcharge. This section is compulsory ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Medicare levy surcharge (MLS) is an amount you may need to pay on top of the Medicare levy ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may have to pay MLS for any period during the income year that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you, your spouse, or any of your dependants did not have an appropriate level of private patient hospital cover",
+        "your income for MLS purposes (including your spouse's income if relevant) is more than the applicable surcharge threshold ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your MLS amount will be worked out by myTax based on the information you provide to us in your tax return. You will see the amount in your myTax estimate."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Medicare and private health insurance ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: If you are an overseas visitor, information and instructions on how to complete the Private health insurance and this section can be found at Overseas visitors ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your private patient hospital covers for you or your dependents was only for part of the 2021–22 income year, you will need the number of days covered to complete this section. Find this on your private health insurance statement ."
+    },
+    {
+      "type": "paragraph",
+      "text": "To get your statement information, go to your health insurer's website . You can either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "view your statement information online",
+        "request a printed statement."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At Personalise return , you don't need to select anything to show Medicare levy surcharge. It will always display at Prepare return."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Prepare return , select Add/Edit at the Medicare and private health insurance banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Medicare levy surcharge (MLS) heading:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Answer the question Were you and all your dependants covered by an appropriate level of private patient hospital cover from 1 July 2021 to 30 June 2022? If Yes , go to step 4. If No , go to step 2. Note: We may have populated this based on information you previously provided to us. Check and correct if necessary.",
+        "If your income for MLS purposes is below the threshold for your circumstances , myTax may advise you that you don't have to pay the Medicare levy surcharge. If this occurs , go to step 4. If not , go to step 3.",
+        "Work out and enter the Number of days you do not have to pay the surcharge . The number of days you need to enter depends on your circumstances. Go to Number of days you do not have to pay the surcharge for help to work this out. Continue to step 4.",
+        "You have completed the Medicare levy surcharge section. We use this information to work out any Medicare levy surcharge for you."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're liable for MLS because your spouse has shown a lump sum payment in arrears in their tax return at either Foreign income or Other income , you may be entitled to a tax offset. It may be up to the amount of MLS you have to pay. We will calculate the tax offset for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Spouse details , you will need to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "answer Yes to Did your spouse receive a lump sum payment in arrears during the 2021–22 and is your combined income for Medicare levy surcharge purposes over $180,000 (plus $1,500 for each dependent child after the first)?",
+        "enter your spouse's address."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Next steps"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If you had private patient hospital cover for any part of the year, go to the Private health insurance section."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "More information for completing the MLS"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this section"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "MLS income thresholds and rates",
+        "Glossary",
+        "Number of days you don't have to pay the MLS"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "MLS income thresholds and rates"
+    },
+    {
+      "type": "paragraph",
+      "text": "The MLS is income tested against the following thresholds."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Medicare levy surcharge thresholds"
+    },
+    {
+      "type": "paragraph",
+      "text": "You don't pay the MLS as a:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Single person , if your income for MLS purposes is $90,000 or less",
+        "Family , if your combined income for MLS purposes is $180,000 or less plus $1,500 for each MLS dependent child after the first child. See Your family MLS surcharge threshold – work it out to find out the correct threshold for your family's circumstances."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If there is a change in your family circumstances during the income year, you need to work out whether you were liable for MLS for any period during 2021–22 that you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "were single (that is, you had no spouse or dependent children) – so you can apply the single surcharge threshold of $90,000",
+        "had a spouse or any dependent children – so you can apply the family surcharge threshold of $180,000, plus $1,500 for each dependent child after the first."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Medicare levy surcharge rate"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have to pay the MLS, we apply the MLS rate based on:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your circumstances on 30 June 2022, and",
+        "your income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "A single person with your own MLS income of: $90,001 to $105,000, the rate is 1.0% $105,001 to $140,000, the rate is 1.25% $140,001 or more, the rate is 1.5%.",
+        "Part of a family (you had a spouse or dependants) with a combined family MLS income of: $180,001 to $210,000 (see Note 1 ), the rate is 1.0% $210,001 to $280,000 (see Note 1 ), the rate is 1.25% $280,001 (see Note 1 ) or more, the rate is 1.5%."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note 1: The family surcharge threshold is increased by $1,500 for each MLS dependent child after the first child. See Your family MLS surcharge threshold – work it out to find out the correct threshold for your family's circumstances."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Working out your income for MLS purposes"
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your and your spouse's income for MLS purposes, you can use either the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Income tests calculator This link opens in a new window",
+        "Income for Medicare levy surcharge purposes information."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Glossary"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Appropriate level of private patient hospital cover",
+        "Family",
+        "Dependants",
+        "Spouse",
+        "Child",
+        "Maintaining a dependant"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Appropriate level of private patient hospital cover"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is cover provided by a registered health insurer for hospital treatment in Australia which has an excess of either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$750 or less (for a policy covering only one person)",
+        "$1,500 or less (for all other policies)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Excess is the amount you pay before your health insurer pays for any claim you make."
+    },
+    {
+      "type": "paragraph",
+      "text": "General cover (formerly called ancillary cover) or 'extras' is not private patient hospital cover because it only covers only items such as:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "optical",
+        "dental",
+        "physiotherapy",
+        "chiropractic treatment."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are not sure whether you had an appropriate level of private patient hospital cover during 2021–22, contact your health insurer."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Family"
+    },
+    {
+      "type": "paragraph",
+      "text": "For MLS purposes, you are a member of a family if, during any period of the income year, you had a spouse or dependants."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Dependants"
+    },
+    {
+      "type": "paragraph",
+      "text": "For MLS purposes, your dependants (regardless of their income) are your:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "spouse, even if they worked during 2021–22 or had their own income",
+        "children under 21 years old",
+        "children 21 to 24 years old who are studying full time at school, college or university."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Dependants must have been Australian residents in 2021–22, and you must contribute to maintaining the dependant ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your child is still your dependant if you are paying child support even if they don't live with you."
+    },
+    {
+      "type": "paragraph",
+      "text": "For MLS, myTax uses the 'Number of dependent children' from the Income tests section."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Spouse"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your spouse includes another person (of any sex) who for 2021–22:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were in a relationship with that was registered under a prescribed state or territory law",
+        "although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Child"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your child includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your child, whether born in marriage or not",
+        "your adopted child",
+        "a newborn or newly adopted child",
+        "a child of your spouse (your stepchild)",
+        "someone who is your child within the meaning of the Family Law Act 1975 – for example, a child who is considered to be a child of a person under a state or territory court order giving effect to a surrogacy agreement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Maintaining a dependant"
+    },
+    {
+      "type": "paragraph",
+      "text": "You maintained a dependant if any of the following applied:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you both lived in the same house",
+        "you gave them food, clothing and lodging",
+        "you helped them to pay for their living, medical and educational costs."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We consider that you have maintained a dependant for the whole income year where you had a spouse for the whole of 2021–22, and:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your spouse worked at any time during the income year",
+        "the two of you were temporarily separated – for example, separate because of holidays or overseas travel."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you only maintained a dependant for part of the income year, you may need to adjust your claim accordingly."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Family and dependants for Medicare levy surcharge purposes ."
+    }
+  ],
+  "content_text": "Complete this section to work out whether you need to pay a Medicare levy surcharge. This section is compulsory .\n## Things to know\nThe Medicare levy surcharge (MLS) is an amount you may need to pay on top of the Medicare levy .\nYou may have to pay MLS for any period during the income year that:\n- you, your spouse, or any of your dependants did not have an appropriate level of private patient hospital cover\n- your income for MLS purposes (including your spouse's income if relevant) is more than the applicable surcharge threshold .\nYour MLS amount will be worked out by myTax based on the information you provide to us in your tax return. You will see the amount in your myTax estimate.\nFor more information, see Medicare and private health insurance .\n## Completing this section\nNote: If you are an overseas visitor, information and instructions on how to complete the Private health insurance and this section can be found at Overseas visitors .\nIf your private patient hospital covers for you or your dependents was only for part of the 2021–22 income year, you will need the number of days covered to complete this section. Find this on your private health insurance statement .\nTo get your statement information, go to your health insurer's website . You can either:\n- view your statement information online\n- request a printed statement.\nAt Personalise return , you don't need to select anything to show Medicare levy surcharge. It will always display at Prepare return.\nAt Prepare return , select Add/Edit at the Medicare and private health insurance banner.\nAt the Medicare levy surcharge (MLS) heading:\n- Answer the question Were you and all your dependants covered by an appropriate level of private patient hospital cover from 1 July 2021 to 30 June 2022? If Yes , go to step 4. If No , go to step 2. Note: We may have populated this based on information you previously provided to us. Check and correct if necessary.\n- If your income for MLS purposes is below the threshold for your circumstances , myTax may advise you that you don't have to pay the Medicare levy surcharge. If this occurs , go to step 4. If not , go to step 3.\n- Work out and enter the Number of days you do not have to pay the surcharge . The number of days you need to enter depends on your circumstances. Go to Number of days you do not have to pay the surcharge for help to work this out. Continue to step 4.\n- You have completed the Medicare levy surcharge section. We use this information to work out any Medicare levy surcharge for you.\nIf you're liable for MLS because your spouse has shown a lump sum payment in arrears in their tax return at either Foreign income or Other income , you may be entitled to a tax offset. It may be up to the amount of MLS you have to pay. We will calculate the tax offset for you.\nAt Spouse details , you will need to:\n- answer Yes to Did your spouse receive a lump sum payment in arrears during the 2021–22 and is your combined income for Medicare levy surcharge purposes over $180,000 (plus $1,500 for each dependent child after the first)?\n- enter your spouse's address.\nNext steps\n- If you had private patient hospital cover for any part of the year, go to the Private health insurance section.\n### More information for completing the MLS\nIn this section\n- MLS income thresholds and rates\n- Glossary\n- Number of days you don't have to pay the MLS\n#### MLS income thresholds and rates\nThe MLS is income tested against the following thresholds.\n##### Medicare levy surcharge thresholds\nYou don't pay the MLS as a:\n- Single person , if your income for MLS purposes is $90,000 or less\n- Family , if your combined income for MLS purposes is $180,000 or less plus $1,500 for each MLS dependent child after the first child. See Your family MLS surcharge threshold – work it out to find out the correct threshold for your family's circumstances.\nIf there is a change in your family circumstances during the income year, you need to work out whether you were liable for MLS for any period during 2021–22 that you:\n- were single (that is, you had no spouse or dependent children) – so you can apply the single surcharge threshold of $90,000\n- had a spouse or any dependent children – so you can apply the family surcharge threshold of $180,000, plus $1,500 for each dependent child after the first.\n##### Medicare levy surcharge rate\nIf you have to pay the MLS, we apply the MLS rate based on:\n- your circumstances on 30 June 2022, and\n- your income.\nIf you are:\n- A single person with your own MLS income of: $90,001 to $105,000, the rate is 1.0% $105,001 to $140,000, the rate is 1.25% $140,001 or more, the rate is 1.5%.\n- Part of a family (you had a spouse or dependants) with a combined family MLS income of: $180,001 to $210,000 (see Note 1 ), the rate is 1.0% $210,001 to $280,000 (see Note 1 ), the rate is 1.25% $280,001 (see Note 1 ) or more, the rate is 1.5%.\nNote 1: The family surcharge threshold is increased by $1,500 for each MLS dependent child after the first child. See Your family MLS surcharge threshold – work it out to find out the correct threshold for your family's circumstances.\n#### Working out your income for MLS purposes\nTo work out your and your spouse's income for MLS purposes, you can use either the:\n- Income tests calculator This link opens in a new window\n- Income for Medicare levy surcharge purposes information.\n#### Glossary\n- Appropriate level of private patient hospital cover\n- Family\n- Dependants\n- Spouse\n- Child\n- Maintaining a dependant\n##### Appropriate level of private patient hospital cover\nThis is cover provided by a registered health insurer for hospital treatment in Australia which has an excess of either:\n- $750 or less (for a policy covering only one person)\n- $1,500 or less (for all other policies).\nExcess is the amount you pay before your health insurer pays for any claim you make.\nGeneral cover (formerly called ancillary cover) or 'extras' is not private patient hospital cover because it only covers only items such as:\n- optical\n- dental\n- physiotherapy\n- chiropractic treatment.\nIf you are not sure whether you had an appropriate level of private patient hospital cover during 2021–22, contact your health insurer.\n##### Family\nFor MLS purposes, you are a member of a family if, during any period of the income year, you had a spouse or dependants.\n##### Dependants\nFor MLS purposes, your dependants (regardless of their income) are your:\n- spouse, even if they worked during 2021–22 or had their own income\n- children under 21 years old\n- children 21 to 24 years old who are studying full time at school, college or university.\nDependants must have been Australian residents in 2021–22, and you must contribute to maintaining the dependant .\nYour child is still your dependant if you are paying child support even if they don't live with you.\nFor MLS, myTax uses the 'Number of dependent children' from the Income tests section.\n##### Spouse\nYour spouse includes another person (of any sex) who for 2021–22:\n- you were in a relationship with that was registered under a prescribed state or territory law\n- although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple.\n##### Child\nYour child includes:\n- your child, whether born in marriage or not\n- your adopted child\n- a newborn or newly adopted child\n- a child of your spouse (your stepchild)\n- someone who is your child within the meaning of the Family Law Act 1975 – for example, a child who is considered to be a child of a person under a state or territory court order giving effect to a surrogacy agreement.\n##### Maintaining a dependant\nYou maintained a dependant if any of the following applied:\n- you both lived in the same house\n- you gave them food, clothing and lodging\n- you helped them to pay for their living, medical and educational costs.\nWe consider that you have maintained a dependant for the whole income year where you had a spouse for the whole of 2021–22, and:\n- your spouse worked at any time during the income year\n- the two of you were temporarily separated – for example, separate because of holidays or overseas travel.\nIf you only maintained a dependant for part of the income year, you may need to adjust your claim accordingly.\nFor more information, see Family and dependants for Medicare levy surcharge purposes .",
+  "child_links": [
+    {
+      "title": "Number of days you don't have to pay the MLS",
+      "description": "",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2022/medicare-and-private-health-insurance/medicare-levy-surcharge/number-of-days-you-dont-have-to-pay-the-mls"
+    },
+    {
+      "title": "For the whole of 2021–22, you were single",
+      "description": "",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2022/medicare-and-private-health-insurance/medicare-levy-surcharge/for-the-whole-of-202122-you-were-single"
+    },
+    {
+      "title": "For the whole of 2021–22, you had a spouse",
+      "description": "",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2022/medicare-and-private-health-insurance/medicare-levy-surcharge/for-the-whole-of-202122-you-had-a-spouse"
+    },
+    {
+      "title": "Your family circumstances changed during the year",
+      "description": "",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2022/medicare-and-private-health-insurance/medicare-levy-surcharge/your-family-circumstances-changed-during-the-year"
+    }
+  ],
+  "word_count": 1504,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

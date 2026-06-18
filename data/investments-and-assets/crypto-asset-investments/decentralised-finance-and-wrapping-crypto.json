@@ -1,0 +1,260 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/crypto-asset-investments/decentralised-finance-and-wrapping-crypto",
+  "title": "Decentralised finance and wrapping crypto",
+  "description": "Capital gains tax (CGT) treatment of decentralised finance (DeFi) and wrapping crypto tokens.",
+  "nat_number": "",
+  "quick_code": "73649",
+  "date_updated": "2025-06-22T14:00:00Z",
+  "first_published": "",
+  "keywords": "DeFi, wrapped tokens, decentralised finance, liquidity pools, liquidity provider",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "About DeFi"
+    },
+    {
+      "type": "paragraph",
+      "text": "DeFi is a blockchain-based form of finance that is conducted without relying on a financial intermediary (peer-to-peer). DeFi apps, protocols and platforms are commonly built on the Ethereum blockchain."
+    },
+    {
+      "type": "paragraph",
+      "text": "Capital gains can arise in a DeFi environment. The most likely CGT events to happen are A1, E2, C2 or H2. The most specific CGT event depends on the structure and nature of your DeFi arrangement. Some of the factors you will need to consider include whether:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you are dealing with another entity as part of the arrangement",
+        "a trust relationship arises."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Where a trust relationship is established, you need to consider whether the same legal person holds the same type of asset on the same terms for other beneficiaries. If it does, then you will not be the sole beneficiary of any such trust."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lending and borrowing with DeFi"
+    },
+    {
+      "type": "paragraph",
+      "text": "The DeFi protocols often use terms from traditional finance to describe their products, such as 'lending', 'borrowing' and 'interest'. However, the DeFi use of these terms doesn't always reflect their common meaning, including for tax purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Many DeFi 'lending' and 'borrowing' arrangements will result in a CGT event . A CGT event generally happens because beneficial ownership of the relevant crypto asset ends because of the arrangement. The arrangements typically involve either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "exchanging one crypto asset for another crypto asset",
+        "exchanging one crypto asset for a right to receive an equivalent number of the same crypto asset in the future."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out if a CGT event (and which one) happens to your crypto assets requires analysis of both:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the terms and conditions of the protocol",
+        "the actual operation of the protocol."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In general, a CGT event happens if you transfer a fungible crypto asset (for example, ETH or an ERC-20 compliant token) to an address:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "that you don't control",
+        "that already has a balance of the same fungible crypto asset."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The capital proceeds for the CGT event are equal to the market value of the property you receive in return for transferring the crypto asset. This may be another crypto asset or a right."
+    },
+    {
+      "type": "paragraph",
+      "text": "The income tax rules that apply to lending of shares and similar securities, described as ‘securities lending’, don't apply to crypto asset 'lending'."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to know the value of your crypto assets to determine if you make a capital gain or capital loss when a CGT event happens to the asset."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: treatment of crypto asset loan with change of ownership"
+    },
+    {
+      "type": "paragraph",
+      "text": "Having previously bought 100 Xcoin for $800, Sasha 'lends' 50 Xcoin (now worth $500) with a rate of return of 1%."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the terms of the contract, Sasha doesn't maintain beneficial ownership over the Xcoin that she has 'lent'."
+    },
+    {
+      "type": "paragraph",
+      "text": "As there has been a change in beneficial ownership of the crypto assets, a CGT event happens when Sasha 'lends' the Xcoin to the borrower. Sasha will have a capital gain of $100 at the time of 'lending' the Xcoin."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: CGT treatment when you lend to a DeFi platform"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mika buys 100 ZYX coins for $1,000 and 'lends' them to a DeFi platform."
+    },
+    {
+      "type": "paragraph",
+      "text": "The terms of the contract are unclear about whether Mika retains beneficial ownership of the 100 ZYX coins. The DeFi platform pools the ZYX coins that Mika 'lends' at the same address as ZYX coins it receives from other ‘lenders’."
+    },
+    {
+      "type": "paragraph",
+      "text": "As ZYX coins are fungible, a CGT event happens in respect of Mika’s ZYX coins at the time of the initial 'loan'."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the contract, Mika has a right to receive 100 ZYX coins from the DeFi platform at a future time. At the time Mika receives the right (being the time she made the initial 'loan'), each ZYX coin had a market value of $9. Mika's right was valued at $900, so she has a capital loss of $100. Mika's right has a cost base of $900."
+    },
+    {
+      "type": "paragraph",
+      "text": "Three months later, the 'loan' is repaid and Mika’s right to receive 100 ZYX coins from the DeFi platform is satisfied by the transfer of 100 ZYX coins to her. At that time the market value of each ZYX coin is $10, so Mika makes a capital gain of $100. Mika now has acquired 100 ZYX coins with a cost base of $1,000."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Liquidity pools and providers"
+    },
+    {
+      "type": "paragraph",
+      "text": "A liquidity pool is an arrangement where crypto assets are gathered and locked in place with a smart contract. The use of liquidity pools facilitates decentralised lending and adds liquidity to crypto asset trading."
+    },
+    {
+      "type": "paragraph",
+      "text": "A liquidity provider supplies crypto assets to a liquidity pool to use for the associated DeFi protocol. In exchange for depositing or contributing crypto assets, liquidity providers receive new crypto assets or rights that represent their share of the liquidity pool. Liquidity providers are rewarded with a share of transaction fees generated from the liquidity pools they support."
+    },
+    {
+      "type": "paragraph",
+      "text": "A CGT event happens when you deposit your crypto assets into the liquidity pool. The capital proceeds from the CGT event are equal to the market value of the property you receive in return for your deposited crypto assets. This may be another crypto asset or a right."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you withdraw crypto assets from the liquidity pool, a CGT event happens to the crypto asset or a right received on the original deposit. The capital proceeds from the CGT event equal the market value of the crypto assets you withdraw."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to know the value of your crypto assets to determine if you make a capital gain or capital loss when a CGT happens to the asset."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: exchange of crypto asset through the liquidity pool"
+    },
+    {
+      "type": "paragraph",
+      "text": "Martha is a liquidity provider who deposits one EH to the XA liquidity pool. In exchange for the one EH, she receives 20 XA tokens representing her share of the liquidity pool."
+    },
+    {
+      "type": "paragraph",
+      "text": "Martha acquired the one EH 3 years ago at a price of $2. The 20 XA tokens have a market value of $20 at the time of contribution."
+    },
+    {
+      "type": "paragraph",
+      "text": "The deposit of one EH into the liquidity pool is a CGT event. Martha has a capital gain of $18. Martha may be eligible for the CGT 50% discount."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Crypto asset DeFi interest and rewards"
+    },
+    {
+      "type": "paragraph",
+      "text": "DeFi platforms may pay you a reward that is a type of return or yield for crypto assets that are placed in the DeFi platform accounts. If you receive periodic rewards in the form of a crypto asset from a DeFi platform you must report the market value of the crypto asset reward at the time of receipt as assessable income in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rewards of crypto assets are taxed similarly to interest income."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: crypto asset reward from DeFi platform"
+    },
+    {
+      "type": "paragraph",
+      "text": "Craig 'lends' 100 stablecoin tokens valued at $10 per token through the DeFi platform Compound Finance. The DeFi platform pays a rate of return of 1% in the form of newly issued stablecoin tokens."
+    },
+    {
+      "type": "paragraph",
+      "text": "Craig will need to declare the market value of the newly issued tokens he earns as assessable income in his tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "The income amount Craig declares is $10. The cost base of the newly issued tokens is their market value at the time Craig acquires them."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wrapped tokens"
+    },
+    {
+      "type": "paragraph",
+      "text": "A wrapped token is a tokenised representation of another crypto asset. You can typically redeem wrapped tokens (unwrapped) on a 1:1 ratio for the crypto assets they represent (the original tokens)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wrapped tokens allow either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the value from one blockchain (for example, Bitcoin) to be used on another blockchain (for example, Ethereum)",
+        "the value of a crypto asset of a certain standard to be represented as a different standard (for example, creating an ERC-20 compliant version of ETH)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Wrapping typically involves a smart contract (a computer protocol that facilitates, verifies or enforces the terms of a contract on the blockchain without third parties)."
+    },
+    {
+      "type": "paragraph",
+      "text": "To wrap tokens, you send crypto assets to the smart contract's address, and it mints (creates) a wrapped version of the crypto asset. The original crypto asset is 'locked' in the smart contract's address until the wrapped token is redeemed. The process of 'locking' the original asset prevents double spending of the value represented by the wrapped token."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you wrap or unwrap a crypto asset, you exchange one crypto asset for another and a CGT event happens. The capital proceeds for the CGT event equal the market value of the wrapped token at the time of the exchange."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: CGT treatment when exchanging wrapped tokens"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kal bought 1 BTC for $165,000 and then wrapped it through a smart contract for 1 WBTC a few months later."
+    },
+    {
+      "type": "paragraph",
+      "text": "The market value of WBTC at the time of exchange was $180,000. A CGT event happens when the BTC is wrapped through that smart contract. Kal will have a capital gain of $15,000."
+    }
+  ],
+  "content_text": "## About DeFi\nDeFi is a blockchain-based form of finance that is conducted without relying on a financial intermediary (peer-to-peer). DeFi apps, protocols and platforms are commonly built on the Ethereum blockchain.\nCapital gains can arise in a DeFi environment. The most likely CGT events to happen are A1, E2, C2 or H2. The most specific CGT event depends on the structure and nature of your DeFi arrangement. Some of the factors you will need to consider include whether:\n- you are dealing with another entity as part of the arrangement\n- a trust relationship arises.\nWhere a trust relationship is established, you need to consider whether the same legal person holds the same type of asset on the same terms for other beneficiaries. If it does, then you will not be the sole beneficiary of any such trust.\n## Lending and borrowing with DeFi\nThe DeFi protocols often use terms from traditional finance to describe their products, such as 'lending', 'borrowing' and 'interest'. However, the DeFi use of these terms doesn't always reflect their common meaning, including for tax purposes.\nMany DeFi 'lending' and 'borrowing' arrangements will result in a CGT event . A CGT event generally happens because beneficial ownership of the relevant crypto asset ends because of the arrangement. The arrangements typically involve either:\n- exchanging one crypto asset for another crypto asset\n- exchanging one crypto asset for a right to receive an equivalent number of the same crypto asset in the future.\nTo work out if a CGT event (and which one) happens to your crypto assets requires analysis of both:\n- the terms and conditions of the protocol\n- the actual operation of the protocol.\nIn general, a CGT event happens if you transfer a fungible crypto asset (for example, ETH or an ERC-20 compliant token) to an address:\n- that you don't control\n- that already has a balance of the same fungible crypto asset.\nThe capital proceeds for the CGT event are equal to the market value of the property you receive in return for transferring the crypto asset. This may be another crypto asset or a right.\nThe income tax rules that apply to lending of shares and similar securities, described as ‘securities lending’, don't apply to crypto asset 'lending'.\nYou need to know the value of your crypto assets to determine if you make a capital gain or capital loss when a CGT event happens to the asset.\n### Example: treatment of crypto asset loan with change of ownership\nHaving previously bought 100 Xcoin for $800, Sasha 'lends' 50 Xcoin (now worth $500) with a rate of return of 1%.\nUnder the terms of the contract, Sasha doesn't maintain beneficial ownership over the Xcoin that she has 'lent'.\nAs there has been a change in beneficial ownership of the crypto assets, a CGT event happens when Sasha 'lends' the Xcoin to the borrower. Sasha will have a capital gain of $100 at the time of 'lending' the Xcoin.\n### Example: CGT treatment when you lend to a DeFi platform\nMika buys 100 ZYX coins for $1,000 and 'lends' them to a DeFi platform.\nThe terms of the contract are unclear about whether Mika retains beneficial ownership of the 100 ZYX coins. The DeFi platform pools the ZYX coins that Mika 'lends' at the same address as ZYX coins it receives from other ‘lenders’.\nAs ZYX coins are fungible, a CGT event happens in respect of Mika’s ZYX coins at the time of the initial 'loan'.\nUnder the contract, Mika has a right to receive 100 ZYX coins from the DeFi platform at a future time. At the time Mika receives the right (being the time she made the initial 'loan'), each ZYX coin had a market value of $9. Mika's right was valued at $900, so she has a capital loss of $100. Mika's right has a cost base of $900.\nThree months later, the 'loan' is repaid and Mika’s right to receive 100 ZYX coins from the DeFi platform is satisfied by the transfer of 100 ZYX coins to her. At that time the market value of each ZYX coin is $10, so Mika makes a capital gain of $100. Mika now has acquired 100 ZYX coins with a cost base of $1,000.\n## Liquidity pools and providers\nA liquidity pool is an arrangement where crypto assets are gathered and locked in place with a smart contract. The use of liquidity pools facilitates decentralised lending and adds liquidity to crypto asset trading.\nA liquidity provider supplies crypto assets to a liquidity pool to use for the associated DeFi protocol. In exchange for depositing or contributing crypto assets, liquidity providers receive new crypto assets or rights that represent their share of the liquidity pool. Liquidity providers are rewarded with a share of transaction fees generated from the liquidity pools they support.\nA CGT event happens when you deposit your crypto assets into the liquidity pool. The capital proceeds from the CGT event are equal to the market value of the property you receive in return for your deposited crypto assets. This may be another crypto asset or a right.\nWhen you withdraw crypto assets from the liquidity pool, a CGT event happens to the crypto asset or a right received on the original deposit. The capital proceeds from the CGT event equal the market value of the crypto assets you withdraw.\nYou need to know the value of your crypto assets to determine if you make a capital gain or capital loss when a CGT happens to the asset.\n### Example: exchange of crypto asset through the liquidity pool\nMartha is a liquidity provider who deposits one EH to the XA liquidity pool. In exchange for the one EH, she receives 20 XA tokens representing her share of the liquidity pool.\nMartha acquired the one EH 3 years ago at a price of $2. The 20 XA tokens have a market value of $20 at the time of contribution.\nThe deposit of one EH into the liquidity pool is a CGT event. Martha has a capital gain of $18. Martha may be eligible for the CGT 50% discount.\n## Crypto asset DeFi interest and rewards\nDeFi platforms may pay you a reward that is a type of return or yield for crypto assets that are placed in the DeFi platform accounts. If you receive periodic rewards in the form of a crypto asset from a DeFi platform you must report the market value of the crypto asset reward at the time of receipt as assessable income in your tax return.\nThe rewards of crypto assets are taxed similarly to interest income.\n### Example: crypto asset reward from DeFi platform\nCraig 'lends' 100 stablecoin tokens valued at $10 per token through the DeFi platform Compound Finance. The DeFi platform pays a rate of return of 1% in the form of newly issued stablecoin tokens.\nCraig will need to declare the market value of the newly issued tokens he earns as assessable income in his tax return.\nThe income amount Craig declares is $10. The cost base of the newly issued tokens is their market value at the time Craig acquires them.\n## Wrapped tokens\nA wrapped token is a tokenised representation of another crypto asset. You can typically redeem wrapped tokens (unwrapped) on a 1:1 ratio for the crypto assets they represent (the original tokens).\nWrapped tokens allow either:\n- the value from one blockchain (for example, Bitcoin) to be used on another blockchain (for example, Ethereum)\n- the value of a crypto asset of a certain standard to be represented as a different standard (for example, creating an ERC-20 compliant version of ETH).\nWrapping typically involves a smart contract (a computer protocol that facilitates, verifies or enforces the terms of a contract on the blockchain without third parties).\nTo wrap tokens, you send crypto assets to the smart contract's address, and it mints (creates) a wrapped version of the crypto asset. The original crypto asset is 'locked' in the smart contract's address until the wrapped token is redeemed. The process of 'locking' the original asset prevents double spending of the value represented by the wrapped token.\nWhen you wrap or unwrap a crypto asset, you exchange one crypto asset for another and a CGT event happens. The capital proceeds for the CGT event equal the market value of the wrapped token at the time of the exchange.\n### Example: CGT treatment when exchanging wrapped tokens\nKal bought 1 BTC for $165,000 and then wrapped it through a smart contract for 1 WBTC a few months later.\nThe market value of WBTC at the time of exchange was $180,000. A CGT event happens when the BTC is wrapped through that smart contract. Kal will have a capital gain of $15,000.",
+  "child_links": [],
+  "word_count": 1469,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

@@ -1,0 +1,266 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-administration-and-reporting/exempt-current-pension-income",
+  "title": "Exempt current pension income",
+  "description": "Methods for calculating exempt current pension income.",
+  "nat_number": "72062",
+  "quick_code": "21546",
+  "date_updated": "2025-09-15T14:00:00Z",
+  "first_published": "",
+  "keywords": "exempt current pension income, ECPI segregated method, ECPI proportionate method, SMSF disregarded small fund asset, ECPI",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What is exempt current pension income?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Exempt current pension income (ECPI) is ordinary and statutory income that a self-managed super fund (SMSF) earns from assets held to support retirement-phase income streams . It is tax exempt."
+    },
+    {
+      "type": "paragraph",
+      "text": "ECPI is claimed in the SMSF annual return . Assessable contributions and non-arm's length income are excluded from ECPI. To claim ECPI, all of a fund's assets must be valued at current market value."
+    },
+    {
+      "type": "paragraph",
+      "text": "To be able to claim ECPI, the SMSF must meet the following minimum pension standards:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The income stream must be paid from a super account held in the member's name (account-based pension).",
+        "The SMSF has paid the minimum annual payment for any pension paid in the year the SMSF is claiming ECPI.",
+        "The capital supporting the pension can't be increased using contributions or rollover amounts once the pension has started.",
+        "You can't use the capital value of the pension or the income from it as security for borrowing.",
+        "Minimum pension payment requirements must be met before any full or partial commutation of a pension.",
+        "If the member dies, the pension can only be transferred to a dependant beneficiary of that member."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Methods for calculating ECPI"
+    },
+    {
+      "type": "paragraph",
+      "text": "The 2 methods for calculating the amount of ECPI a fund can claim are the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "segregated method",
+        "proportionate method."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be legally required to use a particular calculation method in certain circumstances."
+    },
+    {
+      "type": "paragraph",
+      "text": "The method used will depend on whether the fund's assets are segregated, unsegregated, a combination of both or if they're disregarded small fund assets ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where there is no required method, the trustees can decide each year which ECPI method is appropriate for their fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "If all of the following situations apply, your fund can use either method to calculate ECPI:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "It had some segregated current pension assets during the year.",
+        "It isn't 100% in retirement phase (some assets are supporting accumulation interests).",
+        "For the 2018 to 2021 financial years, it doesn't have disregarded small fund assets ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When either method can be used, the fund can choose to use the proportionate method to calculate the ECPI for the entire income year. If no choice is made, ECPI will be calculated using the segregated method for the period of segregation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Segregated method"
+    },
+    {
+      "type": "paragraph",
+      "text": "Segregated current pension assets are SMSF assets:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "with the sole purpose of paying retirement phase pension benefits, and",
+        "which the fund has documented as such assets."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the segregated method, all income from the fund's segregated pension assets is automatically exempt from tax."
+    },
+    {
+      "type": "paragraph",
+      "text": "From the 2022 financial year, if all of your fund's assets are paying retirement phase pension benefits at all times of the year, the fund's assets are regarded as segregated current pension assets. In this situation the segregated method must be used to calculate ECPI for the entire year and an actuarial certificate is not required."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the 2018 to 2021 financial years, ECPI is calculated using the segregated method if your fund:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "was in 100% retirement phase at all times of the year, and",
+        "didn't have disregarded small fund assets ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your SMSF has segregated current pension assets, you should ignore any capital gains or capital losses resulting from the disposal of these assets. If the disposal of a segregated current pension asset results in a capital loss, this loss must not be offset against any other capital gain earned by the SMSF."
+    },
+    {
+      "type": "paragraph",
+      "text": "Usually, the value of the assets supporting retirement-phase income streams will equal the value of those income streams."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, if the market value of the assets supporting retirement-phase income streams exceeds the sum of the account balances of those income streams, the assets can't be segregated current pension assets to the extent they exceed the account balances."
+    },
+    {
+      "type": "paragraph",
+      "text": "A fund using the segregated method doesn't need an actuarial certificate to claim ECPI if at all times during the income year all assets supporting retirement phase accounts were segregated. This applies even if the income streams begin part way through an income year."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Proportionate method"
+    },
+    {
+      "type": "paragraph",
+      "text": "When using the proportionate method to calculate ECPI, a fund doesn't set aside specific assets to support retirement-phase income streams."
+    },
+    {
+      "type": "paragraph",
+      "text": "Instead, the fund calculates the exempt proportion of income based on the proportion of the fund's total liabilities that are current pension liabilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, this will be the proportion of the fund's total account balances that are retirement-phase income streams."
+    },
+    {
+      "type": "paragraph",
+      "text": "This exempt proportion is averaged across the period of the year the fund used the proportionate method. It's determined by an actuary who provides an actuarial certificate."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exempt proportion is then applied to the fund's total assessable income for the period to determine the amount that is ECPI."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the 2018 through to 2021 financial years, funds must use the proportionate method if they have disregarded small fund assets (even if the fund is 100% in retirement phase) and obtain an actuarial certificate that certifies the proportion of exempt income."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're using the proportionate method, you need to factor in capital gains and capital losses. Capital losses that arise aren't included when you calculate assessable income. Net capital losses can be carried forward each year until they can be offset against an assessable capital gain."
+    },
+    {
+      "type": "paragraph",
+      "text": "The SMSF's capital gains less any capital losses equals the net capital gain. The net capital gain is added to the SMSF's other assessable income before working out how much is tax exempt, as per the actuarial calculation for the relevant year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Funds using the proportionate method need an actuarial certificate for each year they claim ECPI. This is regardless of the type of retirement-phase income stream that is paid."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Disregarded small fund assets"
+    },
+    {
+      "type": "paragraph",
+      "text": "For the 2018 through to 2021 financial years, you must consider if your fund holds disregarded small fund assets as this will affect how you calculate ECPI."
+    },
+    {
+      "type": "paragraph",
+      "text": "A fund is deemed to have disregarded small fund assets when:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the fund is paying at least one retirement phase income stream during the income year",
+        "the same fund member has a total super balance over $1.6 million immediately before the start of the relevant income year, and is receiving a retirement-phase income stream from any source including the small fund or another super provider."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In these circumstances, the fund can't use the segregated method to calculate ECPI."
+    },
+    {
+      "type": "paragraph",
+      "text": "From the 2021–22 income year, if the fund is in 100% retirement phase at all times of the income year, then the disregarded small assets rule does not apply."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Changing ECPI methods"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a fund that is in 100% retirement phase receives a contribution or rollover, it stops being 100% in the retirement phase. This is because the contribution or rollover will be in an accumulation interest."
+    },
+    {
+      "type": "paragraph",
+      "text": "How the assets are held will determine if the fund needs to change to the proportionate method."
+    },
+    {
+      "type": "paragraph",
+      "text": "The segregated method allows a fund to segregate assets to support retirement-phase income streams and segregate other assets to support other interests such as accumulation accounts."
+    },
+    {
+      "type": "paragraph",
+      "text": "As long as the fund actively segregates its assets, such as by holding the contribution or rollover in a sub-account or separate bank account (following Taxation Determination TD 2014/7 ), the fund can continue to use the segregated method."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a fund doesn't segregate its assets, then the proportionate method should be used. The member account balances at the time of a calculation method change should be recorded. This is for the purpose of obtaining an actuarial certificate covering the period the proportionate method is used."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Actuarial certificates when using both methods"
+    },
+    {
+      "type": "paragraph",
+      "text": "When a combination of ECPI calculation methods is used, the fund needs an actuarial certificate for that income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "An actuary calculates the exempt proportion for the period or periods of the income year that the fund's assets weren't segregated."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exempt proportion can be applied to the income earned by the fund during this period or periods to make up part of the fund's total ECPI for the income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Only one actuarial certificate is required for the period or periods the proportionate method is used, even if a fund changes methods multiple times in an income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "An actuarial certificate isn't required for the period or periods of the income year the segregated method is used."
+    }
+  ],
+  "content_text": "## What is exempt current pension income?\nExempt current pension income (ECPI) is ordinary and statutory income that a self-managed super fund (SMSF) earns from assets held to support retirement-phase income streams . It is tax exempt.\nECPI is claimed in the SMSF annual return . Assessable contributions and non-arm's length income are excluded from ECPI. To claim ECPI, all of a fund's assets must be valued at current market value.\nTo be able to claim ECPI, the SMSF must meet the following minimum pension standards:\n- The income stream must be paid from a super account held in the member's name (account-based pension).\n- The SMSF has paid the minimum annual payment for any pension paid in the year the SMSF is claiming ECPI.\n- The capital supporting the pension can't be increased using contributions or rollover amounts once the pension has started.\n- You can't use the capital value of the pension or the income from it as security for borrowing.\n- Minimum pension payment requirements must be met before any full or partial commutation of a pension.\n- If the member dies, the pension can only be transferred to a dependant beneficiary of that member.\n## Methods for calculating ECPI\nThe 2 methods for calculating the amount of ECPI a fund can claim are the:\n- segregated method\n- proportionate method.\nYou may be legally required to use a particular calculation method in certain circumstances.\nThe method used will depend on whether the fund's assets are segregated, unsegregated, a combination of both or if they're disregarded small fund assets .\nWhere there is no required method, the trustees can decide each year which ECPI method is appropriate for their fund.\nIf all of the following situations apply, your fund can use either method to calculate ECPI:\n- It had some segregated current pension assets during the year.\n- It isn't 100% in retirement phase (some assets are supporting accumulation interests).\n- For the 2018 to 2021 financial years, it doesn't have disregarded small fund assets .\nWhen either method can be used, the fund can choose to use the proportionate method to calculate the ECPI for the entire income year. If no choice is made, ECPI will be calculated using the segregated method for the period of segregation.\n## Segregated method\nSegregated current pension assets are SMSF assets:\n- with the sole purpose of paying retirement phase pension benefits, and\n- which the fund has documented as such assets.\nUnder the segregated method, all income from the fund's segregated pension assets is automatically exempt from tax.\nFrom the 2022 financial year, if all of your fund's assets are paying retirement phase pension benefits at all times of the year, the fund's assets are regarded as segregated current pension assets. In this situation the segregated method must be used to calculate ECPI for the entire year and an actuarial certificate is not required.\nFor the 2018 to 2021 financial years, ECPI is calculated using the segregated method if your fund:\n- was in 100% retirement phase at all times of the year, and\n- didn't have disregarded small fund assets .\nIf your SMSF has segregated current pension assets, you should ignore any capital gains or capital losses resulting from the disposal of these assets. If the disposal of a segregated current pension asset results in a capital loss, this loss must not be offset against any other capital gain earned by the SMSF.\nUsually, the value of the assets supporting retirement-phase income streams will equal the value of those income streams.\nHowever, if the market value of the assets supporting retirement-phase income streams exceeds the sum of the account balances of those income streams, the assets can't be segregated current pension assets to the extent they exceed the account balances.\nA fund using the segregated method doesn't need an actuarial certificate to claim ECPI if at all times during the income year all assets supporting retirement phase accounts were segregated. This applies even if the income streams begin part way through an income year.\n## Proportionate method\nWhen using the proportionate method to calculate ECPI, a fund doesn't set aside specific assets to support retirement-phase income streams.\nInstead, the fund calculates the exempt proportion of income based on the proportion of the fund's total liabilities that are current pension liabilities.\nGenerally, this will be the proportion of the fund's total account balances that are retirement-phase income streams.\nThis exempt proportion is averaged across the period of the year the fund used the proportionate method. It's determined by an actuary who provides an actuarial certificate.\nThe exempt proportion is then applied to the fund's total assessable income for the period to determine the amount that is ECPI.\nFor the 2018 through to 2021 financial years, funds must use the proportionate method if they have disregarded small fund assets (even if the fund is 100% in retirement phase) and obtain an actuarial certificate that certifies the proportion of exempt income.\nIf you're using the proportionate method, you need to factor in capital gains and capital losses. Capital losses that arise aren't included when you calculate assessable income. Net capital losses can be carried forward each year until they can be offset against an assessable capital gain.\nThe SMSF's capital gains less any capital losses equals the net capital gain. The net capital gain is added to the SMSF's other assessable income before working out how much is tax exempt, as per the actuarial calculation for the relevant year.\nFunds using the proportionate method need an actuarial certificate for each year they claim ECPI. This is regardless of the type of retirement-phase income stream that is paid.\n## Disregarded small fund assets\nFor the 2018 through to 2021 financial years, you must consider if your fund holds disregarded small fund assets as this will affect how you calculate ECPI.\nA fund is deemed to have disregarded small fund assets when:\n- the fund is paying at least one retirement phase income stream during the income year\n- the same fund member has a total super balance over $1.6 million immediately before the start of the relevant income year, and is receiving a retirement-phase income stream from any source including the small fund or another super provider.\nIn these circumstances, the fund can't use the segregated method to calculate ECPI.\nFrom the 2021–22 income year, if the fund is in 100% retirement phase at all times of the income year, then the disregarded small assets rule does not apply.\n## Changing ECPI methods\nIf a fund that is in 100% retirement phase receives a contribution or rollover, it stops being 100% in the retirement phase. This is because the contribution or rollover will be in an accumulation interest.\nHow the assets are held will determine if the fund needs to change to the proportionate method.\nThe segregated method allows a fund to segregate assets to support retirement-phase income streams and segregate other assets to support other interests such as accumulation accounts.\nAs long as the fund actively segregates its assets, such as by holding the contribution or rollover in a sub-account or separate bank account (following Taxation Determination TD 2014/7 ), the fund can continue to use the segregated method.\nIf a fund doesn't segregate its assets, then the proportionate method should be used. The member account balances at the time of a calculation method change should be recorded. This is for the purpose of obtaining an actuarial certificate covering the period the proportionate method is used.\n## Actuarial certificates when using both methods\nWhen a combination of ECPI calculation methods is used, the fund needs an actuarial certificate for that income year.\nAn actuary calculates the exempt proportion for the period or periods of the income year that the fund's assets weren't segregated.\nThe exempt proportion can be applied to the income earned by the fund during this period or periods to make up part of the fund's total ECPI for the income year.\nOnly one actuarial certificate is required for the period or periods the proportionate method is used, even if a fund changes methods multiple times in an income year.\nAn actuarial certificate isn't required for the period or periods of the income year the segregated method is used.",
+  "child_links": [],
+  "word_count": 1381,
+  "source_title": "",
+  "source_description": "",
+  "category": "super-for-individuals-and-families"
+}

@@ -1,0 +1,223 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2022/income/australian-income-or-losses-from-investments-or-property/interest",
+  "title": "myTax 2022 Interest",
+  "description": "How to report interest when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "68147",
+  "date_updated": "2022-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete this section if you had interest paid or credited to you from any source in Australia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Interest includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "interest earned from accounts and term deposits held with financial institutions in Australia",
+        "interest we paid or credited to you",
+        "interest from children's accounts you opened or operated with funds that belonged to you or funds that you used as if they belonged to you. For more information about children's accounts, see Taxation Determination TD 2017/11 Income tax: who should be assessed to interest on bank accounts?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tax file number amounts"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tax file number (TFN) amounts are amounts of tax withheld by financial institutions because you did not provide your TFN or Australian business number (ABN) to them. TFN amounts are shown on your statement or document as 'Commonwealth tax' or 'TFN withholding tax'. You must show these amounts as gross interest on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Do not show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show the following types of interest at this section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Distributions of interest you received, or were entitled to receive, from a partnership or trust (including a cash management trust, property trust, unit trust or other similar trust investment product), go to Partnerships or Trusts .",
+        "Interest from a foreign source, go to Other foreign income ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your statements or other documentation from your financial institutions and other sources that show 2021–22 interest income",
+        "any statement of account or notice of assessment (or amended assessment) you received from us during 2021–22 that shows interest we paid or credited to you, for example interest on early payments interest on overpayments delayed refund interest."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your tax return with interest information provided to us. This may include any interest from children’s savings accounts that have your TFN or name attached to it (we provide this information to allow you to work out if the income needs to be declared in your tax return or not). Check them and any interest paid or credited to you from any source in Australia that has not pre-filled."
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your return to show interest, at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You had Australian interest, or other Australian income or losses from investments or property",
+        "Interest"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your interest, at Prepare return select 'Add/Edit' at the Interest banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Interest banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each account where interest has not been pre-filled in your tax return, select Add and enter information into the corresponding fields. Joint accounts If you had a joint account, show the number of account holders, the total gross interest and total TFN amounts withheld. MyTax will divide the amounts equally between the number of account holders. You may alter your share of the gross interest and TFN amounts withheld for any account where the account holders don't share equally in the interest. If you do, keep a record of how you worked out your share.",
+        "Were you an Australian resident for tax purposes for the full financial year? Yes – go to step 5. No – go to step 3.",
+        "Were you an Australian resident for tax purposes for any part of the financial year? Yes – go to step 4. No – go to step 6.",
+        "For each interest paid or credited to you where you were an Australian resident for tax purposes for part of the financial year, answer the question Were you an Australian resident for tax purposes when the interest was paid or credited? Yes – go to step 5. No – go to step 6.",
+        "Enter information into the corresponding fields. Don't include in the TFN amounts withheld field any TFN amounts withheld that the ATO has already refunded to you. Go to step 8.",
+        "For each interest where you were not an Australian resident for tax purposes when the interest was paid or credited, was withholding tax deducted? Yes – Don't include that interest . Withholding tax deducted is a final tax. Go to step 8. No – go to step 7.",
+        "Enter information into the corresponding fields. For each interest, select the Country of residence when the interest was paid or credited . This amount will not be included in your taxable income. We will advise you of the amount of withholding tax you have to pay on this interest. Go to step 8.",
+        "Select Save .",
+        "Select Save and continue when you have completed the Interest section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't delete any pre-filled interest records that include an alert stating ' The ATO has confidence in this data, as supplied by your financial institution '. Visit What if you don’t agree with the pre-filled information? to learn more."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "What if you don't agree with the pre-filled information?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have checked the pre-filled information against your own records and it doesn't match, generally you can edit the prefilled information in myTax."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do this, it is important to resolve any discrepancies with the third-party provider before you lodge. They may need to send new or amended information to us to ensure our records are accurate."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Changing pre-filled interest records"
+    },
+    {
+      "type": "paragraph",
+      "text": "What you can do with a pre-filled interest record will depend on whether it has an alert."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expand the record."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Does the pre-filled interest record show an alert stating ' The ATO has confidence in this data, as supplied by your financial institution '?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes - go to step 3."
+    },
+    {
+      "type": "paragraph",
+      "text": "No - go to step 4."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot delete the pre-filled interest record if it includes an alert stating ' The ATO has confidence in this data, as supplied by your financial institution '. However, you may adjust these records."
+    },
+    {
+      "type": "paragraph",
+      "text": "To adjust a pre-filled interest record with an alert:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Select Adjust .",
+        "A message will display that says 'We are confident in this pre-fill data. If you choose to adjust your tax record and it is incorrect, we may amend it, which may result in penalties or a tax bill, or both'. To continue, select Adjust .",
+        "In the interest record, indicate a Reason for adjustment . If the Reason for adjustment you select is 'Other', you will need to enter your reason at Other reason (up to 100 characters).",
+        "Edit any information in the corresponding fields and select Save .",
+        "Go to step 5."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can edit or delete the record if the pre-filled interest record does not include an alert stating ' The ATO has confidence in this data, as supplied by your financial institution '."
+    },
+    {
+      "type": "paragraph",
+      "text": "To edit or delete a pre-filled interest record without an alert:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Expand the record.",
+        "Edit any information in the corresponding fields and select Save , or to delete an entire record select Delete .",
+        "Go to step 5."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you are finished, select Save and continue ."
+    }
+  ],
+  "content_text": "## Things to know\nComplete this section if you had interest paid or credited to you from any source in Australia.\nInterest includes:\n- interest earned from accounts and term deposits held with financial institutions in Australia\n- interest we paid or credited to you\n- interest from children's accounts you opened or operated with funds that belonged to you or funds that you used as if they belonged to you. For more information about children's accounts, see Taxation Determination TD 2017/11 Income tax: who should be assessed to interest on bank accounts?\nTax file number amounts\nTax file number (TFN) amounts are amounts of tax withheld by financial institutions because you did not provide your TFN or Australian business number (ABN) to them. TFN amounts are shown on your statement or document as 'Commonwealth tax' or 'TFN withholding tax'. You must show these amounts as gross interest on your tax return.\n### Do not show at this section\nDo not show the following types of interest at this section:\n- Distributions of interest you received, or were entitled to receive, from a partnership or trust (including a cash management trust, property trust, unit trust or other similar trust investment product), go to Partnerships or Trusts .\n- Interest from a foreign source, go to Other foreign income .\n## Completing this section\nYou will need:\n- your statements or other documentation from your financial institutions and other sources that show 2021–22 interest income\n- any statement of account or notice of assessment (or amended assessment) you received from us during 2021–22 that shows interest we paid or credited to you, for example interest on early payments interest on overpayments delayed refund interest.\nWe pre-fill your tax return with interest information provided to us. This may include any interest from children’s savings accounts that have your TFN or name attached to it (we provide this information to allow you to work out if the income needs to be declared in your tax return or not). Check them and any interest paid or credited to you from any source in Australia that has not pre-filled.\nTo personalise your return to show interest, at Personalise return select:\n- You had Australian interest, or other Australian income or losses from investments or property\n- Interest\nTo show your interest, at Prepare return select 'Add/Edit' at the Interest banner.\nAt the Interest banner:\n- For each account where interest has not been pre-filled in your tax return, select Add and enter information into the corresponding fields. Joint accounts If you had a joint account, show the number of account holders, the total gross interest and total TFN amounts withheld. MyTax will divide the amounts equally between the number of account holders. You may alter your share of the gross interest and TFN amounts withheld for any account where the account holders don't share equally in the interest. If you do, keep a record of how you worked out your share.\n- Were you an Australian resident for tax purposes for the full financial year? Yes – go to step 5. No – go to step 3.\n- Were you an Australian resident for tax purposes for any part of the financial year? Yes – go to step 4. No – go to step 6.\n- For each interest paid or credited to you where you were an Australian resident for tax purposes for part of the financial year, answer the question Were you an Australian resident for tax purposes when the interest was paid or credited? Yes – go to step 5. No – go to step 6.\n- Enter information into the corresponding fields. Don't include in the TFN amounts withheld field any TFN amounts withheld that the ATO has already refunded to you. Go to step 8.\n- For each interest where you were not an Australian resident for tax purposes when the interest was paid or credited, was withholding tax deducted? Yes – Don't include that interest . Withholding tax deducted is a final tax. Go to step 8. No – go to step 7.\n- Enter information into the corresponding fields. For each interest, select the Country of residence when the interest was paid or credited . This amount will not be included in your taxable income. We will advise you of the amount of withholding tax you have to pay on this interest. Go to step 8.\n- Select Save .\n- Select Save and continue when you have completed the Interest section.\nYou can't delete any pre-filled interest records that include an alert stating ' The ATO has confidence in this data, as supplied by your financial institution '. Visit What if you don’t agree with the pre-filled information? to learn more.\n### What if you don't agree with the pre-filled information?\nIf you have checked the pre-filled information against your own records and it doesn't match, generally you can edit the prefilled information in myTax.\nIf you do this, it is important to resolve any discrepancies with the third-party provider before you lodge. They may need to send new or amended information to us to ensure our records are accurate.\n#### Changing pre-filled interest records\nWhat you can do with a pre-filled interest record will depend on whether it has an alert.\nStep 1\nExpand the record.\nStep 2\nDoes the pre-filled interest record show an alert stating ' The ATO has confidence in this data, as supplied by your financial institution '?\nYes - go to step 3.\nNo - go to step 4.\nStep 3\nYou cannot delete the pre-filled interest record if it includes an alert stating ' The ATO has confidence in this data, as supplied by your financial institution '. However, you may adjust these records.\nTo adjust a pre-filled interest record with an alert:\n- Select Adjust .\n- A message will display that says 'We are confident in this pre-fill data. If you choose to adjust your tax record and it is incorrect, we may amend it, which may result in penalties or a tax bill, or both'. To continue, select Adjust .\n- In the interest record, indicate a Reason for adjustment . If the Reason for adjustment you select is 'Other', you will need to enter your reason at Other reason (up to 100 characters).\n- Edit any information in the corresponding fields and select Save .\n- Go to step 5.\nStep 4\nYou can edit or delete the record if the pre-filled interest record does not include an alert stating ' The ATO has confidence in this data, as supplied by your financial institution '.\nTo edit or delete a pre-filled interest record without an alert:\n- Expand the record.\n- Edit any information in the corresponding fields and select Save , or to delete an entire record select Delete .\n- Go to step 5.\nStep 5\nWhen you are finished, select Save and continue .",
+  "child_links": [],
+  "word_count": 1161,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

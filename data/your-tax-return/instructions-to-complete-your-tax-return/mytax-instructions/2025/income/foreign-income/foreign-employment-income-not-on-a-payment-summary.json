@@ -1,0 +1,376 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2025/income/foreign-income/foreign-employment-income-not-on-a-payment-summary",
+  "title": "myTax 2025 Foreign employment income - not on an income statement/payment summary",
+  "description": "How to report foreign employment income, not included on an income statement, when lodging your tax return using myTax.",
+  "nat_number": "",
+  "quick_code": "104189",
+  "date_updated": "2025-06-01T22:34:00Z",
+  "first_published": "",
+  "keywords": "myTax, working overseas, bonuses, allowances, commisions",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete this section if you earned foreign employment income working overseas as an employee – such as salary, wages, commissions, bonuses or allowances – that isn't shown on an income statement or PAYG payment summary – foreign employment ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign income you report at this section depends on your residency status."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Australian resident foreign income"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're an Australian resident and received income from overseas, you must show your assessable foreign income at this section. This is even if you paid tax on the income in the foreign country."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can 'receive income' even if it's held overseas for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign income that is exempt from Australian tax may still be used to work out the amount of tax you have to pay on your other income."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Temporary resident foreign income"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're both an Australian resident, and a temporary resident, the only foreign income you'll need to show at this section is some income that you earned from foreign employment while a temporary resident."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the definition of a temporary resident and details of the exemption, see 'Tax-free income for temporary residents' in Amounts that you do not pay tax on ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Hybrid mismatch rules"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may need to consider whether the hybrid mismatch rules apply to you if you incurred expenses which are deductible to you in deriving assessable foreign source income. To work out whether an otherwise deductible expense amount isn't allowable as a deduction, see hybrid mismatch rules ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Foreign income exempt from tax"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're an Australian resident for tax purposes, you pay tax in Australia on your employment income, such as salary, wages, commissions, bonuses and allowances earned from your foreign service – unless it's exempt from Australian tax."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your income from foreign employment is exempt from tax in Australia, you must still include it in your tax return. Although you have to include this income, it will not be taxed. But it will affect the tax you're liable to pay on any other income you earn."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is to ensure that taxpayers with exempt foreign employment income are levied a similar rate of tax on their other income as compared to taxpayers earning the same overall income from assessable sources."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, you don't include income in your tax return if it is exempt for either of the following reasons:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a privileges and immunities agreement or a law covering persons connected with international organisations",
+        "specific exemptions for the pay and allowances of members of the Australian Defence Force , that related to eligible duty in a specified area."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "How to work out if your foreign employment income is exempt from Australian tax will assist you determine if your foreign employment income is exempt from Australian tax, and what Type of payment to select in myTax."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Don’t show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don’t show the following at this section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Income earned from delivering Australian Official development assistance (ODA) for your Australian government agency employer (and not a member of a disciplined force). Show it at Foreign employment income . Members of a disciplined force delivering ODA are still eligible for exemption. For more information, see Exempt income from foreign service .",
+        "Foreign employment income shown on an income statement or PAYG payment summary – foreign employment. Show it at Foreign employment income .",
+        "Payments you received on termination of your employment in a foreign country. They are shown at Employment termination payments .",
+        "Employee share scheme interests that you received at a discount and that relate to your foreign employment. They are shown at Employee share schemes . The amount of any foreign income tax offset may include amounts of foreign tax you paid in respect of employee share scheme discounts."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll need details of your foreign employment income – not on an income statement or payment summary – from each employer or payer."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must convert all foreign income, deductions and foreign tax you paid to Australian dollars before you complete this section. Use the Foreign income conversion calculator This link opens in a new window ."
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your tax return to show foreign employment income not on an income statement/payment summary, at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You had foreign income",
+        "Foreign employment income (NOT on an income statement/payment summary)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your foreign employment income not on an income statement/payment summary, at Prepare return select 'Add/Edit' at the foreign income, assets and entities banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Foreign employment banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each foreign employment income not on an income statement or payment summary, select Add and indicate the Type of payment. If unsure what Type of payment to select, check How to work out if your foreign employment income is exempt from Australian tax .",
+        "Is the Type of payment 'Employment income'? Yes – go to step 3. No – go to step 4.",
+        "Where the Type of payment is 'Employment income', enter information into the corresponding fields. Show your gross foreign employment income amounts before any foreign tax was withheld. Don't include any exempt income or foreign employment income shown on an income statement or PAYG payment summary – foreign employment . If you're entitled to a refund of the foreign income tax, we consider the tax not to have been paid. Show your deductible expenses that you incurred in earning the foreign employment income. The types of expenses you may be able to deduct against your foreign employment income are explained in the Work-related expenses sections, but don't claim these expenses there. Debt deductions, such as interest and borrowing costs, aren't taken away for the purpose of this calculation. If you incurred debt deductions in earning your foreign employment income, see Other deductions . Go to step 5.",
+        "Where the Type of payment is 'Exempt income', enter information into the corresponding fields: select the Country employed in answer the question Does this include lump sum in arrears? If Yes , enter the Lump sum in arrears amount and the required additional information (year and amount earned), and select Save . To learn how to access and complete your Lump sum in arrears information, see Lump sum payment in arrears . Go to step 5.",
+        "Select Save . If you used the Depreciation and capital allowances tool , fields from this tool can't be adjusted in myTax. To make any adjustments, or to add new assets to the tool, select the 'Use the depreciation and capital allowances tool' link.",
+        "If you haven't already done so, answer the question During the year did you have an interest – direct or indirect – in overseas assets worth AUD$50,000 or more?",
+        "Select Save and continue when you have completed the Foreign income, assets and entities section."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "How to work out if your foreign employment income is exempt from Australian tax"
+    },
+    {
+      "type": "paragraph",
+      "text": "Follow these steps to work out if your foreign employment income is exempt from Australian tax."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1: Working for certain international organisations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is any of your foreign employment income exempt from Australian tax because of a privileges and immunities agreement or a law covering persons connected with international organisations?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your employer should be able to tell you whether this applies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes – If all your foreign employment income is exempt for this reason, don't include this income anywhere in your tax return; you have now finished this section."
+    },
+    {
+      "type": "paragraph",
+      "text": "No – go to Step 2 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2: Australian defence force members performing overseas duty"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is any of your foreign employment income is exempt from Australian tax because of specific exemptions for the pay and allowances of members of the Australian Defence Force that related to eligible duty in a specified area?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your employer should be able to tell you whether this applies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes – If all your foreign employment income is exempt for this reason, don't include this income anywhere in your tax return; you have now finished this section."
+    },
+    {
+      "type": "paragraph",
+      "text": "No – Your foreign employment income that isn't exempt under Step 1 or Step 2 might still be exempt from tax. Go to Step 3 to work through the rest of the steps to find out whether it's exempt from tax. Even if it's exempt, we still take it into account to work out the tax on your other assessable income."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information about this type of exempt income, see:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Exempt income from foreign service",
+        "Working on an approved overseas project"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Income from self-employment and contracts isn't generally exempt from tax. Include it at Other foreign income ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3: Foreign income attributed to certain assistance or activities"
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you have foreign service income that was directly attributable:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "to your employer, which wasn't an Australian government agency, delivering Australian official development assistance",
+        "to the activities of your employer, that they financed from a public fund the Minister declared to be a developing country relief fund established and maintained to provide monetary relief to people in a developed foreign country affected by a disaster (a public disaster relief fund)",
+        "to the activities of your employer, which was a prescribed charitable or religious institution exempt from Australian income tax because your employer was outside Australia pursuing objectives outside Australia",
+        "to your deployment outside Australia as a member of a disciplined force of an Australian government authority?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Tax exempt income from foreign employment ."
+    },
+    {
+      "type": "paragraph",
+      "text": "No – go to Step 5 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes – go to Step 4 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 4: Foreign tax paid or payable on your foreign employment income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you pay, or are you liable to pay, foreign income tax on your foreign employment income?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes – go to Step 8 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "No – See non-exemption conditions to work out your entitlement to an exemption from Australian tax on your foreign service income."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If you're entitled to an exemption based on these conditions, go to Step 8 .",
+        "If you're not entitled to an exemption, go to Step 5 ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 5: Approved overseas projects"
+    },
+    {
+      "type": "paragraph",
+      "text": "Were you engaged in foreign service in connection with an Austrade approved project?"
+    },
+    {
+      "type": "paragraph",
+      "text": "No – Your foreign employment income isn't exempt from Australian tax. In myTax, you should select the Type of payment as 'Employment income'."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes – go to Step 6 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 6: Foreign tax paid or payable on your foreign employment income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you pay, or are liable to pay, foreign income tax on your foreign employment income?"
+    },
+    {
+      "type": "paragraph",
+      "text": "No – Your foreign employment income isn't exempt from Australian tax. In myTax, you should select the Type of payment as 'Employment income'."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes – go to Step 7 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 7: Tax treaty with Australia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Was a tax treaty with Australia (or a law giving effect to a tax treaty) not the only reason why you didn't have to pay tax in the country where you earned the income?"
+    },
+    {
+      "type": "paragraph",
+      "text": "No – Your foreign employment income isn't exempt from Australian tax. In myTax, you should select the Type of payment as 'Employment income'."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes – go to Step 8 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 8: Continuously engaged in service in the foreign country"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work out the period that you were continuously engaged in service in the foreign country."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're absent from the foreign country at any time during this period, see Tax exempt income from foreign employment to find out whether we consider you to have been continuously engaged in service in the foreign country. If you're working on a project approved by Austrade, see Working on an approved overseas project ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 9: Continuous service in a foreign country 91 days or more"
+    },
+    {
+      "type": "paragraph",
+      "text": "Was your period of continuous service in a foreign country 91 days or more?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're not sure, contact us ."
+    },
+    {
+      "type": "paragraph",
+      "text": "No – Your foreign employment income isn't exempt from Australian tax. In myTax, you should select the Type of payment as 'Employment income'."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes – Your foreign employment income will generally be exempt from tax. In myTax, you should select the Type of payment as 'Exempt income'. You can't claim a foreign income tax offset on this income."
+    }
+  ],
+  "content_text": "## Things to know\nComplete this section if you earned foreign employment income working overseas as an employee – such as salary, wages, commissions, bonuses or allowances – that isn't shown on an income statement or PAYG payment summary – foreign employment .\nForeign income you report at this section depends on your residency status.\n### Australian resident foreign income\nIf you're an Australian resident and received income from overseas, you must show your assessable foreign income at this section. This is even if you paid tax on the income in the foreign country.\nYou can 'receive income' even if it's held overseas for you.\nForeign income that is exempt from Australian tax may still be used to work out the amount of tax you have to pay on your other income.\n### Temporary resident foreign income\nIf you're both an Australian resident, and a temporary resident, the only foreign income you'll need to show at this section is some income that you earned from foreign employment while a temporary resident.\nFor the definition of a temporary resident and details of the exemption, see 'Tax-free income for temporary residents' in Amounts that you do not pay tax on .\n### Hybrid mismatch rules\nYou may need to consider whether the hybrid mismatch rules apply to you if you incurred expenses which are deductible to you in deriving assessable foreign source income. To work out whether an otherwise deductible expense amount isn't allowable as a deduction, see hybrid mismatch rules .\n### Foreign income exempt from tax\nIf you're an Australian resident for tax purposes, you pay tax in Australia on your employment income, such as salary, wages, commissions, bonuses and allowances earned from your foreign service – unless it's exempt from Australian tax.\nIf your income from foreign employment is exempt from tax in Australia, you must still include it in your tax return. Although you have to include this income, it will not be taxed. But it will affect the tax you're liable to pay on any other income you earn.\nThis is to ensure that taxpayers with exempt foreign employment income are levied a similar rate of tax on their other income as compared to taxpayers earning the same overall income from assessable sources.\nHowever, you don't include income in your tax return if it is exempt for either of the following reasons:\n- a privileges and immunities agreement or a law covering persons connected with international organisations\n- specific exemptions for the pay and allowances of members of the Australian Defence Force , that related to eligible duty in a specified area.\nHow to work out if your foreign employment income is exempt from Australian tax will assist you determine if your foreign employment income is exempt from Australian tax, and what Type of payment to select in myTax.\n### Don’t show at this section\nDon’t show the following at this section:\n- Income earned from delivering Australian Official development assistance (ODA) for your Australian government agency employer (and not a member of a disciplined force). Show it at Foreign employment income . Members of a disciplined force delivering ODA are still eligible for exemption. For more information, see Exempt income from foreign service .\n- Foreign employment income shown on an income statement or PAYG payment summary – foreign employment. Show it at Foreign employment income .\n- Payments you received on termination of your employment in a foreign country. They are shown at Employment termination payments .\n- Employee share scheme interests that you received at a discount and that relate to your foreign employment. They are shown at Employee share schemes . The amount of any foreign income tax offset may include amounts of foreign tax you paid in respect of employee share scheme discounts.\n## Completing this section\nYou'll need details of your foreign employment income – not on an income statement or payment summary – from each employer or payer.\nYou must convert all foreign income, deductions and foreign tax you paid to Australian dollars before you complete this section. Use the Foreign income conversion calculator This link opens in a new window .\nTo personalise your tax return to show foreign employment income not on an income statement/payment summary, at Personalise return select:\n- You had foreign income\n- Foreign employment income (NOT on an income statement/payment summary)\nTo show your foreign employment income not on an income statement/payment summary, at Prepare return select 'Add/Edit' at the foreign income, assets and entities banner.\nAt the Foreign employment banner:\n- For each foreign employment income not on an income statement or payment summary, select Add and indicate the Type of payment. If unsure what Type of payment to select, check How to work out if your foreign employment income is exempt from Australian tax .\n- Is the Type of payment 'Employment income'? Yes – go to step 3. No – go to step 4.\n- Where the Type of payment is 'Employment income', enter information into the corresponding fields. Show your gross foreign employment income amounts before any foreign tax was withheld. Don't include any exempt income or foreign employment income shown on an income statement or PAYG payment summary – foreign employment . If you're entitled to a refund of the foreign income tax, we consider the tax not to have been paid. Show your deductible expenses that you incurred in earning the foreign employment income. The types of expenses you may be able to deduct against your foreign employment income are explained in the Work-related expenses sections, but don't claim these expenses there. Debt deductions, such as interest and borrowing costs, aren't taken away for the purpose of this calculation. If you incurred debt deductions in earning your foreign employment income, see Other deductions . Go to step 5.\n- Where the Type of payment is 'Exempt income', enter information into the corresponding fields: select the Country employed in answer the question Does this include lump sum in arrears? If Yes , enter the Lump sum in arrears amount and the required additional information (year and amount earned), and select Save . To learn how to access and complete your Lump sum in arrears information, see Lump sum payment in arrears . Go to step 5.\n- Select Save . If you used the Depreciation and capital allowances tool , fields from this tool can't be adjusted in myTax. To make any adjustments, or to add new assets to the tool, select the 'Use the depreciation and capital allowances tool' link.\n- If you haven't already done so, answer the question During the year did you have an interest – direct or indirect – in overseas assets worth AUD$50,000 or more?\n- Select Save and continue when you have completed the Foreign income, assets and entities section.\n### How to work out if your foreign employment income is exempt from Australian tax\nFollow these steps to work out if your foreign employment income is exempt from Australian tax.\n#### Step 1: Working for certain international organisations\nIs any of your foreign employment income exempt from Australian tax because of a privileges and immunities agreement or a law covering persons connected with international organisations?\nYour employer should be able to tell you whether this applies.\nYes – If all your foreign employment income is exempt for this reason, don't include this income anywhere in your tax return; you have now finished this section.\nNo – go to Step 2 .\n#### Step 2: Australian defence force members performing overseas duty\nIs any of your foreign employment income is exempt from Australian tax because of specific exemptions for the pay and allowances of members of the Australian Defence Force that related to eligible duty in a specified area?\nYour employer should be able to tell you whether this applies.\nYes – If all your foreign employment income is exempt for this reason, don't include this income anywhere in your tax return; you have now finished this section.\nNo – Your foreign employment income that isn't exempt under Step 1 or Step 2 might still be exempt from tax. Go to Step 3 to work through the rest of the steps to find out whether it's exempt from tax. Even if it's exempt, we still take it into account to work out the tax on your other assessable income.\nFor more information about this type of exempt income, see:\n- Exempt income from foreign service\n- Working on an approved overseas project\nIncome from self-employment and contracts isn't generally exempt from tax. Include it at Other foreign income .\n#### Step 3: Foreign income attributed to certain assistance or activities\nDid you have foreign service income that was directly attributable:\n- to your employer, which wasn't an Australian government agency, delivering Australian official development assistance\n- to the activities of your employer, that they financed from a public fund the Minister declared to be a developing country relief fund established and maintained to provide monetary relief to people in a developed foreign country affected by a disaster (a public disaster relief fund)\n- to the activities of your employer, which was a prescribed charitable or religious institution exempt from Australian income tax because your employer was outside Australia pursuing objectives outside Australia\n- to your deployment outside Australia as a member of a disciplined force of an Australian government authority?\nFor more information, see Tax exempt income from foreign employment .\nNo – go to Step 5 .\nYes – go to Step 4 .\n#### Step 4: Foreign tax paid or payable on your foreign employment income\nDid you pay, or are you liable to pay, foreign income tax on your foreign employment income?\nYes – go to Step 8 .\nNo – See non-exemption conditions to work out your entitlement to an exemption from Australian tax on your foreign service income.\n- If you're entitled to an exemption based on these conditions, go to Step 8 .\n- If you're not entitled to an exemption, go to Step 5 .\n#### Step 5: Approved overseas projects\nWere you engaged in foreign service in connection with an Austrade approved project?\nNo – Your foreign employment income isn't exempt from Australian tax. In myTax, you should select the Type of payment as 'Employment income'.\nYes – go to Step 6 .\n#### Step 6: Foreign tax paid or payable on your foreign employment income\nDid you pay, or are liable to pay, foreign income tax on your foreign employment income?\nNo – Your foreign employment income isn't exempt from Australian tax. In myTax, you should select the Type of payment as 'Employment income'.\nYes – go to Step 7 .\n#### Step 7: Tax treaty with Australia\nWas a tax treaty with Australia (or a law giving effect to a tax treaty) not the only reason why you didn't have to pay tax in the country where you earned the income?\nNo – Your foreign employment income isn't exempt from Australian tax. In myTax, you should select the Type of payment as 'Employment income'.\nYes – go to Step 8 .\n#### Step 8: Continuously engaged in service in the foreign country\nWork out the period that you were continuously engaged in service in the foreign country.\nIf you're absent from the foreign country at any time during this period, see Tax exempt income from foreign employment to find out whether we consider you to have been continuously engaged in service in the foreign country. If you're working on a project approved by Austrade, see Working on an approved overseas project .\n#### Step 9: Continuous service in a foreign country 91 days or more\nWas your period of continuous service in a foreign country 91 days or more?\nIf you're not sure, contact us .\nNo – Your foreign employment income isn't exempt from Australian tax. In myTax, you should select the Type of payment as 'Employment income'.\nYes – Your foreign employment income will generally be exempt from tax. In myTax, you should select the Type of payment as 'Exempt income'. You can't claim a foreign income tax offset on this income.",
+  "child_links": [],
+  "word_count": 2032,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

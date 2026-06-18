@@ -1,0 +1,194 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2024/tax-return/income-questions-1-12/3-employer-lump-sum-payments-2024",
+  "title": "3 Employer lump sum payments 2024",
+  "description": "Complete question 3 to declare lump sum payments received from an employer for unused annual or long service leave.",
+  "nat_number": "",
+  "quick_code": "101417",
+  "date_updated": "2024-05-29T02:06:00Z",
+  "first_published": true,
+  "keywords": "Individual tax return instructions, tax return, 2024, lump sum, income, unused, annual leave, long service leave, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things you need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Declare at this question lump sum payments you received from your employer for unused annual leave or unused long service leave."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you didn't receive any of these lump sum payments from your employer, go to question 4 Employment termination payments 2024 , or return to main menu Individual tax return instructions 2024 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include in your tax return payments for early retirement or genuine redundancy shown at 'Lump sum D' on your income statements or PAYG payment summary – individual non-business. You don't pay tax on these payments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't include at this question, any:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "employer lump sum payments in arrears or non-superannuation annuity payments in arrears shown at 'Lump sum E' on your income statements or payment summaries – declare these amounts in the supplementary tax return at question 24 Other income 2024 .",
+        "lump sum payments in arrears shown on your PAYG payment summary – superannuation income stream – declare these amounts at question 7 Australian annuities and superannuation income streams 2024 ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you need to answer this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your income statement or PAYG payment summary – individual non-business , PAYG payment summary – foreign employment or a comparable statement from your payer showing an amount at 'Lump sum A' or 'Lump sum B' where relevant."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have an amount at 'Lump sum A' that foreign tax has been paid, you will also need to complete the supplementary tax return question 20 – label U ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you can't find or think there is an issue with your income statement, payment summaries or comparable statements, contact your employer or payer. If you are unsuccessful, see Income statement not tax ready ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you can't access your income statement through myGov, contact us ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete this question, follow the steps below."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't have amounts shown at 'Lump sum A' on your income statements or payment summaries, go to Step 4 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Amounts shown at Lump sum A"
+    },
+    {
+      "type": "paragraph",
+      "text": "Follow the steps for amounts shown at lump sum A."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the total tax withheld from lump sum A amounts shown on your income statements and payment summaries. Don't include any amounts of tax withheld you have included at any other question, such as question 1 or 2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the answer under Tax withheld at the left of question 3 – label R ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all lump sum A amounts on your income statements and payment summaries."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total at question 3 – label R ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print in the Type box at label R :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "R – if the amount related to one of the following a genuine redundancy payment an early retirement scheme payment the invalidity segment of an employment termination payment or superannuation benefit",
+        "T – for all other situations"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Check with your payer if you are not sure."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't have amounts shown at 'Lump sum B' on your income statements or payment summaries, you have finished this question. Go to question 4 Employment termination payments 2024 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Amounts shown at Lump sum B"
+    },
+    {
+      "type": "paragraph",
+      "text": "Follow the steps for amounts shown at lump sum B."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the total tax withheld from lump sum B amounts shown on your income statements and payment summaries. Don't include amounts of tax withheld you have included at step 1 above or at any other question, such as question 1 or 2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total under Tax withheld at the left of question 3 – label H ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all lump sum B amounts on your income statements and payment summaries."
+    },
+    {
+      "type": "paragraph",
+      "text": "Divide the total by 20. This is because only 5% is taxable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the answer at question 3 – label H ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question 4 Employment termination payments 2024 .",
+        "Return to main menu Individual tax return instructions 2024 .",
+        "Go back to question 2 Allowances, earnings, tips, directors fees etc 2024 ."
+      ]
+    }
+  ],
+  "content_text": "## Things you need to know\nDeclare at this question lump sum payments you received from your employer for unused annual leave or unused long service leave.\nIf you didn't receive any of these lump sum payments from your employer, go to question 4 Employment termination payments 2024 , or return to main menu Individual tax return instructions 2024 .\nDo not include in your tax return payments for early retirement or genuine redundancy shown at 'Lump sum D' on your income statements or PAYG payment summary – individual non-business. You don't pay tax on these payments.\nDon't include at this question, any:\n- employer lump sum payments in arrears or non-superannuation annuity payments in arrears shown at 'Lump sum E' on your income statements or payment summaries – declare these amounts in the supplementary tax return at question 24 Other income 2024 .\n- lump sum payments in arrears shown on your PAYG payment summary – superannuation income stream – declare these amounts at question 7 Australian annuities and superannuation income streams 2024 .\n## What you need to answer this question\nYou will need your income statement or PAYG payment summary – individual non-business , PAYG payment summary – foreign employment or a comparable statement from your payer showing an amount at 'Lump sum A' or 'Lump sum B' where relevant.\nIf you have an amount at 'Lump sum A' that foreign tax has been paid, you will also need to complete the supplementary tax return question 20 – label U .\nIf you can't find or think there is an issue with your income statement, payment summaries or comparable statements, contact your employer or payer. If you are unsuccessful, see Income statement not tax ready .\nIf you can't access your income statement through myGov, contact us .\n## Completing your tax return\nTo complete this question, follow the steps below.\nIf you don't have amounts shown at 'Lump sum A' on your income statements or payment summaries, go to Step 4 .\n### Amounts shown at Lump sum A\nFollow the steps for amounts shown at lump sum A.\n#### Step 1\nAdd up the total tax withheld from lump sum A amounts shown on your income statements and payment summaries. Don't include any amounts of tax withheld you have included at any other question, such as question 1 or 2 .\nWrite the answer under Tax withheld at the left of question 3 – label R .\n#### Step 2\nAdd up all lump sum A amounts on your income statements and payment summaries.\nWrite the total at question 3 – label R .\n#### Step 3\nPrint in the Type box at label R :\n- R – if the amount related to one of the following a genuine redundancy payment an early retirement scheme payment the invalidity segment of an employment termination payment or superannuation benefit\n- T – for all other situations\nCheck with your payer if you are not sure.\nIf you don't have amounts shown at 'Lump sum B' on your income statements or payment summaries, you have finished this question. Go to question 4 Employment termination payments 2024 .\n### Amounts shown at Lump sum B\nFollow the steps for amounts shown at lump sum B.\n#### Step 4\nAdd up the total tax withheld from lump sum B amounts shown on your income statements and payment summaries. Don't include amounts of tax withheld you have included at step 1 above or at any other question, such as question 1 or 2 .\nWrite the total under Tax withheld at the left of question 3 – label H .\n#### Step 5\nAdd up all lump sum B amounts on your income statements and payment summaries.\nDivide the total by 20. This is because only 5% is taxable.\nWrite the answer at question 3 – label H .\n## Where to go next\n- Go to question 4 Employment termination payments 2024 .\n- Return to main menu Individual tax return instructions 2024 .\n- Go back to question 2 Allowances, earnings, tips, directors fees etc 2024 .",
+  "child_links": [],
+  "word_count": 689,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

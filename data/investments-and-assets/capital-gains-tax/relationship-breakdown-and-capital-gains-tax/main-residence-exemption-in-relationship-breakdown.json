@@ -1,0 +1,396 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/capital-gains-tax/relationship-breakdown-and-capital-gains-tax/main-residence-exemption-in-relationship-breakdown",
+  "title": "Main residence exemption in relationship breakdown",
+  "description": "If a property was the home of you or your spouse, check if it is exempt from CGT.",
+  "nat_number": "",
+  "quick_code": "66066",
+  "date_updated": "2025-06-22T14:00:00Z",
+  "first_published": "",
+  "keywords": "marital home, relationship breakdown main residence",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Relationship breakdown rollover and main residence exemption"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you sell a property that transferred to you under the relationship breakdown rollover, you may be eligible for the main residence exemption from capital gains tax (CGT)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to consider how you and your former spouse used the property during your combined period of ownership."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eligibility"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the relationship breakdown rollover, there is no capital gain or loss for CGT purposes when your former spouse's share of the property is transferred to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "CGT is deferred, or 'rolled over', until you dispose of the property."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the property was the main residence of you or your former spouse, you can generally claim a full or partial exemption from CGT when you dispose of it."
+    },
+    {
+      "type": "paragraph",
+      "text": "You are entitled to the full main residence exemption if the property is on land that is 2 hectares or less and:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "for property that transferred after 12 December 2006 before the transfer, your spouse used the property as their main residence while you owned part or all of the property, you used it as your main residence the property was not used for rent or business",
+        "for property that transferred on or before 12 December 2006 after the transfer, it was your main residence and was not used for rent or business."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't meet these conditions, you may still be entitled to a partial main residence exemption."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Calculating a partial exemption"
+    },
+    {
+      "type": "paragraph",
+      "text": "Follow these steps to calculate the proportion of your share of the property that is subject to CGT."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 1: Work out the number of days after the transfer that the property was not your main residence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 2: If the property was transferred to you"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "after 12 December 2006, work out the number of days before the transfer that the property was not the main residence of your former spouse",
+        "on or before 12 December 2006, the amount at this step is zero."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 3: Add the amounts from steps 1 and 2. This is the non-main residence days."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 4: Work out the total number of days that either you or your former spouse owned the share of the property. This is the total ownership days."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 5: Divide the amount at step 3 (non-main residence days) by the amount at step 4 (total ownership days)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The result is the proportion of the transferred share that is subject to CGT."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had joint ownership of the property before the relationship breakdown, the share you owned did not roll over. You simply continued to own it."
+    },
+    {
+      "type": "paragraph",
+      "text": "To calculate the proportion of your original share that is subject to CGT:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "work out the number of days during your ownership of part or all of the property that it was not your main residence",
+        "divide this number by the total number of days that you owned part or all of the property."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: calculating CGT on a property transferred under the relationship breakdown rollover"
+    },
+    {
+      "type": "paragraph",
+      "text": "George and Natalie jointly bought a holiday house."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The sale settled on 14 February 2020.",
+        "On 12 February 2022, George transferred his half share to Natalie under a relationship breakdown rollover.",
+        "Natalie used the dwelling as her main residence for 3 years, from the date of the transfer until she sold it.",
+        "Settlement of the sale was on 11 February 2025, at a price of $600,000.",
+        "The cost base of the house was $400,000.",
+        "Natalie's capital gain was $600,000 − $400,000 = $200,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Natalie is entitled to a partial main residence exemption because the property was used as a main residence for part of the combined ownership period."
+    },
+    {
+      "type": "paragraph",
+      "text": "Transferred share"
+    },
+    {
+      "type": "paragraph",
+      "text": "The relationship breakdown rollover applies only to the half share transferred from George to Natalie."
+    },
+    {
+      "type": "paragraph",
+      "text": "The capital gain on this share is $200,000 × 50% = $100,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "Using the steps above , Natalie calculates the assessable portion of her capital gain:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Days after the transfer that the property was not Natalie's main residence: 0",
+        "Days before the transfer that the property was not George's main residence: 730",
+        "Add amounts from steps 1 and 2: 0 + 730 = 730",
+        "Days in combined ownership period: 1,825",
+        "Total non-main residence days ÷ total ownership days 730 ÷ 1,825 = 0.4"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Natalie's assessable capital gain on the transferred share is: $100,000 × 0.4 = $40,000"
+    },
+    {
+      "type": "paragraph",
+      "text": "Natalie's original half share"
+    },
+    {
+      "type": "paragraph",
+      "text": "The capital gain on Natalie's original half share is $200,000 × 50% = $100,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "The property was Natalie’s main residence for 3 years out of the 5 years she owned her original half share. She works out the assessable portion of her capital gain as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "capital gain × (non-main residence days ÷ total ownership days) = assessable capital gain"
+    },
+    {
+      "type": "paragraph",
+      "text": "$100,000 × (730 ÷ 1825) = $40,000"
+    },
+    {
+      "type": "paragraph",
+      "text": "Capital gain to report"
+    },
+    {
+      "type": "paragraph",
+      "text": "Natalie's total assessable capital gain for her original share and the transferred share is $40,000 + $40,000 = $80,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "Natalie's ownership period is more than 12 months and she has no capital losses. Therefore, she can apply the 50% CGT discount to her assessable gain. The capital gain she reports in her tax return is: $80,000 × 50% = $40,000."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Applying the ‘home first used to produce income’ rule"
+    },
+    {
+      "type": "paragraph",
+      "text": "The home first used to produce income rule may apply if a property was:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "used as a main residence from the time it was acquired",
+        "later used to produce income (such as renting it out)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Under this rule, the property is treated as if it was acquired for its market value at the time it was first used to produce income."
+    },
+    {
+      "type": "paragraph",
+      "text": "This rule applies to you if the property (or a share of it):"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "transferred to you after 12 December 2006 under the relationship breakdown rollover",
+        "was originally the main residence of you or your former spouse",
+        "was first used to produce income (such as renting it out) after 20 August 1996. The first income-producing use may be during your or your spouse’s ownership period."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: main residence later used to produce income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Harry buys an apartment for $200,000 in 2001. He lives in it as his main residence."
+    },
+    {
+      "type": "paragraph",
+      "text": "A few years later, Harry and Anita marry. They move into Anita’s townhouse and Harry rents out his apartment. Its value is now $365,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2024, Harry and Anita's relationship breaks down. Harry transfers the apartment to Anita under a binding agreement and the CGT rollover applies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Later, Anita sells the apartment. When working out the cost base, she uses the market value of the apartment when it was first used to produce income ($365,000), rather than its original purchase price ($200,000)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Nominating a main residence"
+    },
+    {
+      "type": "paragraph",
+      "text": "In certain circumstances, spouses can choose how the main residence exemption applies to their property or properties."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a spouse may be able to treat a dwelling as their main residence for a period even though they no longer live in it",
+        "if there was a period before the separation when the spouses had different main residences , they must choose to either treat one of the properties as the main residence of both of them for the period nominate the different properties as their main residences and apply a part exemption to both."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You usually don't need to make a choice until you lodge your tax return for the year in which the property is disposed of."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, for the purpose of negotiating a property settlement, former spouses would generally nominate their choices before the transfer of property."
+    },
+    {
+      "type": "paragraph",
+      "text": "The transferor spouse could provide a signed statement to the transferee spouse at the time of the property settlement as evidence of making a choice."
+    },
+    {
+      "type": "paragraph",
+      "text": "The transferee spouse could use this statement to support their calculation of CGT in the future."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once a choice is made, it can't be changed."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: nominating a property as a main residence"
+    },
+    {
+      "type": "paragraph",
+      "text": "Denise buys a townhouse and lives in it before starting a relationship with Calvin. She then moves into a rented apartment with him and rents out her townhouse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Two years later, the couple buy a house and live in it together. Denise continues to rent out her townhouse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Years later their relationship breaks down. Under a binding financial agreement, they agree that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Calvin will transfer his half share in the house to Denise, who will continue to live there",
+        "Denise will transfer her townhouse to Calvin, who will live in it."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Because the townhouse had been Denise’s main residence, she can choose to continue treating it as her main residence for up to 6 years after she moved out."
+    },
+    {
+      "type": "paragraph",
+      "text": "In negotiating their binding financial agreement, Denise provides Calvin with a signed statement that she chooses to treat the townhouse as her main residence for the 2 years between when she moved out and when they bought the house together."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because the home first used to produce income rule applies, Calvin treats the townhouse as if he acquired it for its market value at the time Denise first rented it out. The period prior to this, when the townhouse was Denise's main residence, is ignored. This period is not included in their combined period of ownership."
+    },
+    {
+      "type": "paragraph",
+      "text": "When Calvin later sells the townhouse:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "as a result of Denise’s choice, the townhouse is exempt from CGT for the 2 years from when she moved out of it until she and Calvin bought the house together",
+        "the townhouse is exempt from CGT for the period he lived in it after the relationship broke down."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Foreign residents"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim the main residence exemption when you sell or dispose of a property as a foreign resident, provided:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you have been a foreign resident for tax purposes for a continuous period of 6 years or less",
+        "you experience a relationship breakdown or certain other life events ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Property transferred from a company or trust"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't claim the full main residence exemption on a property, or a share of a property, that transferred to you under a relationship breakdown rollover from a company or trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "The main residence exemption only applies for the period you lived in the property after the transfer."
+    },
+    {
+      "type": "paragraph",
+      "text": "To calculate the proportion of your capital gain or loss that is exempt from CGT:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "work out the number of days the property was your main residence after the transfer",
+        "divide this by the combined number of days it was owned by you or the company or trust."
+      ]
+    }
+  ],
+  "content_text": "## Relationship breakdown rollover and main residence exemption\nWhen you sell a property that transferred to you under the relationship breakdown rollover, you may be eligible for the main residence exemption from capital gains tax (CGT).\nYou need to consider how you and your former spouse used the property during your combined period of ownership.\n## Eligibility\nUnder the relationship breakdown rollover, there is no capital gain or loss for CGT purposes when your former spouse's share of the property is transferred to you.\nCGT is deferred, or 'rolled over', until you dispose of the property.\nIf the property was the main residence of you or your former spouse, you can generally claim a full or partial exemption from CGT when you dispose of it.\nYou are entitled to the full main residence exemption if the property is on land that is 2 hectares or less and:\n- for property that transferred after 12 December 2006 before the transfer, your spouse used the property as their main residence while you owned part or all of the property, you used it as your main residence the property was not used for rent or business\n- for property that transferred on or before 12 December 2006 after the transfer, it was your main residence and was not used for rent or business.\nIf you don't meet these conditions, you may still be entitled to a partial main residence exemption.\n## Calculating a partial exemption\nFollow these steps to calculate the proportion of your share of the property that is subject to CGT.\nStep 1: Work out the number of days after the transfer that the property was not your main residence.\nStep 2: If the property was transferred to you\n- after 12 December 2006, work out the number of days before the transfer that the property was not the main residence of your former spouse\n- on or before 12 December 2006, the amount at this step is zero.\nStep 3: Add the amounts from steps 1 and 2. This is the non-main residence days.\nStep 4: Work out the total number of days that either you or your former spouse owned the share of the property. This is the total ownership days.\nStep 5: Divide the amount at step 3 (non-main residence days) by the amount at step 4 (total ownership days).\nThe result is the proportion of the transferred share that is subject to CGT.\nIf you had joint ownership of the property before the relationship breakdown, the share you owned did not roll over. You simply continued to own it.\nTo calculate the proportion of your original share that is subject to CGT:\n- work out the number of days during your ownership of part or all of the property that it was not your main residence\n- divide this number by the total number of days that you owned part or all of the property.\n### Example: calculating CGT on a property transferred under the relationship breakdown rollover\nGeorge and Natalie jointly bought a holiday house.\n- The sale settled on 14 February 2020.\n- On 12 February 2022, George transferred his half share to Natalie under a relationship breakdown rollover.\n- Natalie used the dwelling as her main residence for 3 years, from the date of the transfer until she sold it.\n- Settlement of the sale was on 11 February 2025, at a price of $600,000.\n- The cost base of the house was $400,000.\n- Natalie's capital gain was $600,000 − $400,000 = $200,000.\nNatalie is entitled to a partial main residence exemption because the property was used as a main residence for part of the combined ownership period.\nTransferred share\nThe relationship breakdown rollover applies only to the half share transferred from George to Natalie.\nThe capital gain on this share is $200,000 × 50% = $100,000.\nUsing the steps above , Natalie calculates the assessable portion of her capital gain:\n- Days after the transfer that the property was not Natalie's main residence: 0\n- Days before the transfer that the property was not George's main residence: 730\n- Add amounts from steps 1 and 2: 0 + 730 = 730\n- Days in combined ownership period: 1,825\n- Total non-main residence days ÷ total ownership days 730 ÷ 1,825 = 0.4\nNatalie's assessable capital gain on the transferred share is: $100,000 × 0.4 = $40,000\nNatalie's original half share\nThe capital gain on Natalie's original half share is $200,000 × 50% = $100,000.\nThe property was Natalie’s main residence for 3 years out of the 5 years she owned her original half share. She works out the assessable portion of her capital gain as follows:\ncapital gain × (non-main residence days ÷ total ownership days) = assessable capital gain\n$100,000 × (730 ÷ 1825) = $40,000\nCapital gain to report\nNatalie's total assessable capital gain for her original share and the transferred share is $40,000 + $40,000 = $80,000.\nNatalie's ownership period is more than 12 months and she has no capital losses. Therefore, she can apply the 50% CGT discount to her assessable gain. The capital gain she reports in her tax return is: $80,000 × 50% = $40,000.\n### Applying the ‘home first used to produce income’ rule\nThe home first used to produce income rule may apply if a property was:\n- used as a main residence from the time it was acquired\n- later used to produce income (such as renting it out).\nUnder this rule, the property is treated as if it was acquired for its market value at the time it was first used to produce income.\nThis rule applies to you if the property (or a share of it):\n- transferred to you after 12 December 2006 under the relationship breakdown rollover\n- was originally the main residence of you or your former spouse\n- was first used to produce income (such as renting it out) after 20 August 1996. The first income-producing use may be during your or your spouse’s ownership period.\n#### Example: main residence later used to produce income\nHarry buys an apartment for $200,000 in 2001. He lives in it as his main residence.\nA few years later, Harry and Anita marry. They move into Anita’s townhouse and Harry rents out his apartment. Its value is now $365,000.\nIn 2024, Harry and Anita's relationship breaks down. Harry transfers the apartment to Anita under a binding agreement and the CGT rollover applies.\nLater, Anita sells the apartment. When working out the cost base, she uses the market value of the apartment when it was first used to produce income ($365,000), rather than its original purchase price ($200,000).\n## Nominating a main residence\nIn certain circumstances, spouses can choose how the main residence exemption applies to their property or properties.\nFor example:\n- a spouse may be able to treat a dwelling as their main residence for a period even though they no longer live in it\n- if there was a period before the separation when the spouses had different main residences , they must choose to either treat one of the properties as the main residence of both of them for the period nominate the different properties as their main residences and apply a part exemption to both.\nYou usually don't need to make a choice until you lodge your tax return for the year in which the property is disposed of.\nHowever, for the purpose of negotiating a property settlement, former spouses would generally nominate their choices before the transfer of property.\nThe transferor spouse could provide a signed statement to the transferee spouse at the time of the property settlement as evidence of making a choice.\nThe transferee spouse could use this statement to support their calculation of CGT in the future.\nOnce a choice is made, it can't be changed.\n### Example: nominating a property as a main residence\nDenise buys a townhouse and lives in it before starting a relationship with Calvin. She then moves into a rented apartment with him and rents out her townhouse.\nTwo years later, the couple buy a house and live in it together. Denise continues to rent out her townhouse.\nYears later their relationship breaks down. Under a binding financial agreement, they agree that:\n- Calvin will transfer his half share in the house to Denise, who will continue to live there\n- Denise will transfer her townhouse to Calvin, who will live in it.\nBecause the townhouse had been Denise’s main residence, she can choose to continue treating it as her main residence for up to 6 years after she moved out.\nIn negotiating their binding financial agreement, Denise provides Calvin with a signed statement that she chooses to treat the townhouse as her main residence for the 2 years between when she moved out and when they bought the house together.\nBecause the home first used to produce income rule applies, Calvin treats the townhouse as if he acquired it for its market value at the time Denise first rented it out. The period prior to this, when the townhouse was Denise's main residence, is ignored. This period is not included in their combined period of ownership.\nWhen Calvin later sells the townhouse:\n- as a result of Denise’s choice, the townhouse is exempt from CGT for the 2 years from when she moved out of it until she and Calvin bought the house together\n- the townhouse is exempt from CGT for the period he lived in it after the relationship broke down.\n## Foreign residents\nYou can claim the main residence exemption when you sell or dispose of a property as a foreign resident, provided:\n- you have been a foreign resident for tax purposes for a continuous period of 6 years or less\n- you experience a relationship breakdown or certain other life events .\n## Property transferred from a company or trust\nYou can't claim the full main residence exemption on a property, or a share of a property, that transferred to you under a relationship breakdown rollover from a company or trust.\nThe main residence exemption only applies for the period you lived in the property after the transfer.\nTo calculate the proportion of your capital gain or loss that is exempt from CGT:\n- work out the number of days the property was your main residence after the transfer\n- divide this by the combined number of days it was owned by you or the company or trust.",
+  "child_links": [],
+  "word_count": 1756,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

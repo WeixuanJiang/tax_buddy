@@ -1,0 +1,380 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2015/supplementary-tax-return/tax-offset-questions-t3-t9/t5-total-net-medical-expenses-2015",
+  "title": "T5 Total net medical expenses 2015",
+  "description": "Complete question T5 to claim a tax offset for medical expenses for disability aids, attendant care or aged care.",
+  "nat_number": "",
+  "quick_code": "44207",
+  "date_updated": "2015-06-22T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, TaxPack, medical expenses, 20% medical expenses tax offset, medical expenses rebate",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "To be eligible to claim this offset you must have either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "received an amount greater than zero on your 2012-13 and 2013-14 notices of assessment for this offset; or",
+        "paid for medical expenses relating to disability aids, attendant care or aged care."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you meet either condition above?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to question T6 Invalid and invalid carer tax offset , or return to main menu Individual tax return instructions ."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "For the majority of taxpayers, this is the last year you can claim the offset. For more information see Net medical expenses tax offset phase out."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received an amount greater than zero on your 2012-13 and 2013–14 Notices of Assessment for this offset, you can claim for all types of eligible medical expenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you did not receive an amount greater than zero on both your 2012-13 and 2013–14 notices of assessment for this offset you can only claim net medical expenses that relate to disability aids, attendant care or aged care."
+    },
+    {
+      "type": "paragraph",
+      "text": "Disability aids are items of property manufactured as, or generally recognised to be, an aid to the functional capacity of a person with a disability but, generally, will not include ordinary household or commercial appliances."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attendant care expenses relate to services and care provided to a person with a disability to assist with everyday living, such as the provision of personal assistance, home nursing, home maintenance, and domestic services."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aged care expenses relate to services and accommodation provided by an approved aged care provider to a person who is a care recipient or continuing care recipient within the meaning of the Aged Care Act 1997 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Net medical expenses are your total medical expenses less refunds from Medicare and private health insurers which you, or someone else, received or are entitled to receive. They do not include contributions to a private health insurer, travel or accommodation expenses associated with medical treatment, or inoculations for overseas travel."
+    },
+    {
+      "type": "paragraph",
+      "text": "This tax offset is income tested. The percentage of net medical expenses you can claim is determined by your adjusted taxable income (ATI) and family status. See table 1 for more information."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the meaning of ATI and how it is calculated, see Adjusted taxable income (ATI) for you and your dependants ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use table 1 to work out whether you can claim this tax offset. If you are entitled to claim, we will work out your tax offset for you using the information you provide in your tax return."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Family status",
+          "ATI threshold",
+          "What can I claim?"
+        ],
+        [
+          "Single (single at 30 June 2015 and no dependent children)",
+          "$90,000 or less",
+          "20% of net medical expenses over $2,218"
+        ],
+        [
+          "above $90,000",
+          "10% of net medical expenses over $5,233"
+        ],
+        [
+          "Family (with a spouse at 30 June 2015, or dependent child or children at any time during the year, or both)",
+          "$180,000* or less",
+          "20% of net medical expenses over $2,218"
+        ],
+        [
+          "above $180,000*",
+          "10% of net medical expenses over $5,233"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purpose of calculating the ATI threshold for this offset, a dependent child is your:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "child under 21 years old",
+        "child, 21 to 24 years old who is a full-time student"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "regardless of their income."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is no upper limit on the amount you can claim."
+    },
+    {
+      "type": "paragraph",
+      "text": "When calculating your net medical expenses you can only include an amount paid for your dependants who were Australian residents for tax purposes ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The medical expenses must be for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you",
+        "your spouse, regardless of their income (see the definition of spouse in Special circumstances and glossary )",
+        "your children who were under 21 years old (including your adopted children, stepchildren, ex-nuptial children and children of your spouse) regardless of their income",
+        "any other child under 21 years old whom you maintained, who was not a student, and whose adjusted taxable income (ATI)* for the period you maintained them was less than for the first child under 21 years old the total of $282 plus $28.92 for each week you maintained them, or $1,786 if you maintained them for the whole year for any other child under 21 years old the total of $282 plus $21.70 for each week you maintained them, or $1,410 if you maintained them for the whole year",
+        "a full time student under 25 years old whom you maintained and whose ATI* was less than the total of $282 plus $28.92 for each week you maintained them, or $1,786 if you maintained them for the whole year",
+        "a dependant (invalid or carer), but only if you can claim for them at item T6 or could have claimed for them at item T6 had your ATI or the combined ATI of you and your spouse not exceeded $150,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For the meaning of ATI and how it is calculated, see Adjusted taxable income (ATI) for you and your dependants ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You and your dependants must be Australian residents for tax purposes, but you can include medical expenses paid while travelling overseas."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received this offset in your 2012-13 and 2013–14 income tax assessments:"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can include medical expenses relating to an illness or operation paid to legally qualified doctors, nurses or chemists and public or private hospitals. However, expenses for some cosmetic operations are excluded."
+    },
+    {
+      "type": "paragraph",
+      "text": "To find out which operations, dental services and treatments are cosmetic and whether you can include your payments for them, see Net medical expenses: claims for cosmetic surgery or phone 13 28 61 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medical expenses include payments:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "to dentists, orthodontists or registered dental mechanics",
+        "to opticians or optometrists, including for the cost of prescription spectacles or contact lenses",
+        "to a carer who looks after a person who is blind or permanently confined to a bed or wheelchair",
+        "for therapeutic treatment under the direction of a doctor",
+        "for medical aids prescribed by a doctor",
+        "for artificial limbs or eyes and hearing aids",
+        "for maintaining a properly trained dog for guiding or assisting people with a disability (but not for social therapy)",
+        "for laser eye surgery",
+        "for treatment under an in-vitro fertilisation program, and",
+        "for residential or in-home aged care expenses."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Residential aged care expenses and payments for in-home care must have been made to an approved care provider for personal or nursing care and accommodation in respect of an approved care recipient."
+    },
+    {
+      "type": "paragraph",
+      "text": "An approved care recipient is a person who has been assessed by the aged care assessment team (ACAT) as eligible for residential aged care or in-home aged care."
+    },
+    {
+      "type": "paragraph",
+      "text": "Residential aged care payments can be for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "daily fees",
+        "income or means tested daily care fees",
+        "extra service fees",
+        "accommodation charges",
+        "periodic payments of accommodation bonds",
+        "amounts drawn from a lump sum accommodation bond, and",
+        "daily accommodation payments."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you did not receive this offset in your 2012-13 and 2013–14 income tax assessments:"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can only claim those expenses listed above that relate to disability aids, attendant care or aged care."
+    },
+    {
+      "type": "paragraph",
+      "text": "A disability aid for the purpose of this offset is an instrument, apparatus or device generally recognised to be an aid to the function or capacity of a person with a disability. A disability aid will improve a person's quality of life."
+    },
+    {
+      "type": "paragraph",
+      "text": "The purchase of a wheelchair or the maintenance of a guide dog are examples of disability aids as they help a person’s daily living activities, provide assistance to alleviate the effect of the disability and enable increased participation in society."
+    },
+    {
+      "type": "paragraph",
+      "text": "A disability is defined as a restriction or impairment which has lasted or is likely to last, for a period of six months or more, and which restrict a person's every day activities. Such as:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "loss of sight (not corrected by glasses or contact lenses)",
+        "loss of hearing where communication is restricted, or an aid to assist with, or substitute for, hearing is used",
+        "speech difficulties",
+        "chronic or recurrent pain or discomfort causing restriction",
+        "shortness of breath or breathing difficulties causing restriction",
+        "blackout, fits or loss of consciousness",
+        "difficulty learning or understanding",
+        "incomplete use of arms or fingers",
+        "incomplete use of feet or legs",
+        "nervous or emotional condition causing restriction",
+        "restriction in physical activities or in doing physical work",
+        "disfigurement or deformity",
+        "mental illness or condition requiring help or supervision",
+        "long-term effects of head injury, stroke or other brain damage causing restriction",
+        "receiving treatment or medication for any other long-term condition or ailment, and still restricted",
+        "any other long-term condition resulting in a restriction."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Expenses which do not qualify as medical expenses include payments made for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "cosmetic operations for which a Medicare benefit is not payable",
+        "dental services or treatments that are solely cosmetic",
+        "therapeutic treatment where the patient is not formally referred by a doctor (a mere suggestion or recommendation by a doctor to the patient is not enough for the treatment to qualify; the patient must be referred to a particular person for specific treatment)",
+        "chemist-type items, such as tablets for pain relief, purchased in retail outlets or health food stores",
+        "inoculations for overseas travel",
+        "non-prescribed vitamins or health foods",
+        "travel or accommodation expenses associated with medical treatment",
+        "contributions to a private health insurer",
+        "purchases from a chemist that are not related to an illness or operation",
+        "life insurance medical examinations",
+        "ambulance charges and subscriptions",
+        "funeral expenses",
+        "lump sum payments of accommodation bonds or refundable accommodation deposits for residential aged care",
+        "interest derived by care providers from the investment of accommodation bonds or refundable deposits (because these are not payments for residential aged care)",
+        "people who were residents of a hostel before 1 October 1997 and who did not have a personal care subsidy or a respite care subsidy paid on their behalf at the personal care subsidy rate by the Commonwealth (unless they have subsequently been reassessed and approved as a care recipient or continuing care recipient under the Aged Care Act 1997)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you may need"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Details of medical expenses you paid",
+        "Details of refunds of these expenses which you or any other person has received, or are entitled to receive, from Medicare or a private health insurer"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To help you work out what medical expenses you paid in 2014–15, you can ask for an itemised statement from:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Medicare",
+        "your private health insurer",
+        "chemists where you had prescriptions filled."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Some of the items shown on these statements may not qualify as medical expenses for the purpose of claiming the tax offset. You will need to exclude these items when calculating your allowable medical expenses."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this item"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to provide the amount of your net medical expenses and indicate if the medical expenses you paid for only relate to disability aids, attendant care or aged care. We will work out your tax offset for you based on your ATI and family status."
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your net medical expenses, you can use the Net medical expenses tax offset calculator or use the worksheet below."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet"
+        ],
+        [
+          "Add up all your allowable medical expenses.",
+          "$",
+          "(a)"
+        ],
+        [
+          "Add up all the refunds of these expenses which you or any other person has received or are entitled to receive.",
+          "$",
+          "(b)"
+        ],
+        [
+          "Take (b) away from (a). This is your net medical expenses amount.",
+          "$",
+          "(c)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the amount of your net medical expenses at X item T5."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tick either Yes or No at the question Do these medical expenses only relate to disability aids, attendant care or aged care?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question T6 Invalid and invalid carer tax offset .",
+        "Return to main menu Individual tax return instructions .",
+        "Go back to question T4 Zone or overseas forces ."
+      ]
+    }
+  ],
+  "content_text": "To be eligible to claim this offset you must have either:\n- received an amount greater than zero on your 2012-13 and 2013-14 notices of assessment for this offset; or\n- paid for medical expenses relating to disability aids, attendant care or aged care.\nDid you meet either condition above?\nNo | Go to question T6 Invalid and invalid carer tax offset , or return to main menu Individual tax return instructions .\nYes | Read below.\n## You need to know\nFor the majority of taxpayers, this is the last year you can claim the offset. For more information see Net medical expenses tax offset phase out.\nIf you received an amount greater than zero on your 2012-13 and 2013–14 Notices of Assessment for this offset, you can claim for all types of eligible medical expenses.\nIf you did not receive an amount greater than zero on both your 2012-13 and 2013–14 notices of assessment for this offset you can only claim net medical expenses that relate to disability aids, attendant care or aged care.\nDisability aids are items of property manufactured as, or generally recognised to be, an aid to the functional capacity of a person with a disability but, generally, will not include ordinary household or commercial appliances.\nAttendant care expenses relate to services and care provided to a person with a disability to assist with everyday living, such as the provision of personal assistance, home nursing, home maintenance, and domestic services.\nAged care expenses relate to services and accommodation provided by an approved aged care provider to a person who is a care recipient or continuing care recipient within the meaning of the Aged Care Act 1997 .\nNet medical expenses are your total medical expenses less refunds from Medicare and private health insurers which you, or someone else, received or are entitled to receive. They do not include contributions to a private health insurer, travel or accommodation expenses associated with medical treatment, or inoculations for overseas travel.\nThis tax offset is income tested. The percentage of net medical expenses you can claim is determined by your adjusted taxable income (ATI) and family status. See table 1 for more information.\nFor the meaning of ATI and how it is calculated, see Adjusted taxable income (ATI) for you and your dependants .\nUse table 1 to work out whether you can claim this tax offset. If you are entitled to claim, we will work out your tax offset for you using the information you provide in your tax return.\nFamily status | ATI threshold | What can I claim?\nSingle (single at 30 June 2015 and no dependent children) | $90,000 or less | 20% of net medical expenses over $2,218\nabove $90,000 | 10% of net medical expenses over $5,233\nFamily (with a spouse at 30 June 2015, or dependent child or children at any time during the year, or both) | $180,000* or less | 20% of net medical expenses over $2,218\nabove $180,000* | 10% of net medical expenses over $5,233\nFor the purpose of calculating the ATI threshold for this offset, a dependent child is your:\n- child under 21 years old\n- child, 21 to 24 years old who is a full-time student\nregardless of their income.\nThere is no upper limit on the amount you can claim.\nWhen calculating your net medical expenses you can only include an amount paid for your dependants who were Australian residents for tax purposes .\nThe medical expenses must be for:\n- you\n- your spouse, regardless of their income (see the definition of spouse in Special circumstances and glossary )\n- your children who were under 21 years old (including your adopted children, stepchildren, ex-nuptial children and children of your spouse) regardless of their income\n- any other child under 21 years old whom you maintained, who was not a student, and whose adjusted taxable income (ATI)* for the period you maintained them was less than for the first child under 21 years old the total of $282 plus $28.92 for each week you maintained them, or $1,786 if you maintained them for the whole year for any other child under 21 years old the total of $282 plus $21.70 for each week you maintained them, or $1,410 if you maintained them for the whole year\n- a full time student under 25 years old whom you maintained and whose ATI* was less than the total of $282 plus $28.92 for each week you maintained them, or $1,786 if you maintained them for the whole year\n- a dependant (invalid or carer), but only if you can claim for them at item T6 or could have claimed for them at item T6 had your ATI or the combined ATI of you and your spouse not exceeded $150,000.\nFor the meaning of ATI and how it is calculated, see Adjusted taxable income (ATI) for you and your dependants .\nYou and your dependants must be Australian residents for tax purposes, but you can include medical expenses paid while travelling overseas.\nIf you received this offset in your 2012-13 and 2013–14 income tax assessments:\nYou can include medical expenses relating to an illness or operation paid to legally qualified doctors, nurses or chemists and public or private hospitals. However, expenses for some cosmetic operations are excluded.\nTo find out which operations, dental services and treatments are cosmetic and whether you can include your payments for them, see Net medical expenses: claims for cosmetic surgery or phone 13 28 61 .\nMedical expenses include payments:\n- to dentists, orthodontists or registered dental mechanics\n- to opticians or optometrists, including for the cost of prescription spectacles or contact lenses\n- to a carer who looks after a person who is blind or permanently confined to a bed or wheelchair\n- for therapeutic treatment under the direction of a doctor\n- for medical aids prescribed by a doctor\n- for artificial limbs or eyes and hearing aids\n- for maintaining a properly trained dog for guiding or assisting people with a disability (but not for social therapy)\n- for laser eye surgery\n- for treatment under an in-vitro fertilisation program, and\n- for residential or in-home aged care expenses.\nResidential aged care expenses and payments for in-home care must have been made to an approved care provider for personal or nursing care and accommodation in respect of an approved care recipient.\nAn approved care recipient is a person who has been assessed by the aged care assessment team (ACAT) as eligible for residential aged care or in-home aged care.\nResidential aged care payments can be for:\n- daily fees\n- income or means tested daily care fees\n- extra service fees\n- accommodation charges\n- periodic payments of accommodation bonds\n- amounts drawn from a lump sum accommodation bond, and\n- daily accommodation payments.\nIf you did not receive this offset in your 2012-13 and 2013–14 income tax assessments:\nYou can only claim those expenses listed above that relate to disability aids, attendant care or aged care.\nA disability aid for the purpose of this offset is an instrument, apparatus or device generally recognised to be an aid to the function or capacity of a person with a disability. A disability aid will improve a person's quality of life.\nThe purchase of a wheelchair or the maintenance of a guide dog are examples of disability aids as they help a person’s daily living activities, provide assistance to alleviate the effect of the disability and enable increased participation in society.\nA disability is defined as a restriction or impairment which has lasted or is likely to last, for a period of six months or more, and which restrict a person's every day activities. Such as:\n- loss of sight (not corrected by glasses or contact lenses)\n- loss of hearing where communication is restricted, or an aid to assist with, or substitute for, hearing is used\n- speech difficulties\n- chronic or recurrent pain or discomfort causing restriction\n- shortness of breath or breathing difficulties causing restriction\n- blackout, fits or loss of consciousness\n- difficulty learning or understanding\n- incomplete use of arms or fingers\n- incomplete use of feet or legs\n- nervous or emotional condition causing restriction\n- restriction in physical activities or in doing physical work\n- disfigurement or deformity\n- mental illness or condition requiring help or supervision\n- long-term effects of head injury, stroke or other brain damage causing restriction\n- receiving treatment or medication for any other long-term condition or ailment, and still restricted\n- any other long-term condition resulting in a restriction.\nExpenses which do not qualify as medical expenses include payments made for:\n- cosmetic operations for which a Medicare benefit is not payable\n- dental services or treatments that are solely cosmetic\n- therapeutic treatment where the patient is not formally referred by a doctor (a mere suggestion or recommendation by a doctor to the patient is not enough for the treatment to qualify; the patient must be referred to a particular person for specific treatment)\n- chemist-type items, such as tablets for pain relief, purchased in retail outlets or health food stores\n- inoculations for overseas travel\n- non-prescribed vitamins or health foods\n- travel or accommodation expenses associated with medical treatment\n- contributions to a private health insurer\n- purchases from a chemist that are not related to an illness or operation\n- life insurance medical examinations\n- ambulance charges and subscriptions\n- funeral expenses\n- lump sum payments of accommodation bonds or refundable accommodation deposits for residential aged care\n- interest derived by care providers from the investment of accommodation bonds or refundable deposits (because these are not payments for residential aged care)\n- people who were residents of a hostel before 1 October 1997 and who did not have a personal care subsidy or a respite care subsidy paid on their behalf at the personal care subsidy rate by the Commonwealth (unless they have subsequently been reassessed and approved as a care recipient or continuing care recipient under the Aged Care Act 1997).\n## What you may need\n- Details of medical expenses you paid\n- Details of refunds of these expenses which you or any other person has received, or are entitled to receive, from Medicare or a private health insurer\nTo help you work out what medical expenses you paid in 2014–15, you can ask for an itemised statement from:\n- Medicare\n- your private health insurer\n- chemists where you had prescriptions filled.\nSome of the items shown on these statements may not qualify as medical expenses for the purpose of claiming the tax offset. You will need to exclude these items when calculating your allowable medical expenses.\n## Completing this item\nYou will need to provide the amount of your net medical expenses and indicate if the medical expenses you paid for only relate to disability aids, attendant care or aged care. We will work out your tax offset for you based on your ATI and family status.\nTo work out your net medical expenses, you can use the Net medical expenses tax offset calculator or use the worksheet below.\nWorksheet\nAdd up all your allowable medical expenses. | $ | (a)\nAdd up all the refunds of these expenses which you or any other person has received or are entitled to receive. | $ | (b)\nTake (b) away from (a). This is your net medical expenses amount. | $ | (c)\nWrite the amount of your net medical expenses at X item T5.\nTick either Yes or No at the question Do these medical expenses only relate to disability aids, attendant care or aged care?\n### Where to go next\n- Go to question T6 Invalid and invalid carer tax offset .\n- Return to main menu Individual tax return instructions .\n- Go back to question T4 Zone or overseas forces .",
+  "child_links": [],
+  "word_count": 1993,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

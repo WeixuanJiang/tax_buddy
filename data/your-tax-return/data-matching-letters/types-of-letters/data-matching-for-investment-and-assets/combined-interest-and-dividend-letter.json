@@ -1,0 +1,286 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/data-matching-letters/types-of-letters/data-matching-for-investment-and-assets/combined-interest-and-dividend-letter",
+  "title": "Combined interest and dividend letter",
+  "description": "What to do if you get a data matching letter from us about both interest and dividends.",
+  "nat_number": "",
+  "quick_code": "73773",
+  "date_updated": "2024-01-07T14:00:00Z",
+  "first_published": true,
+  "keywords": "Data matching, data-matching, discrepancy, letter, schedule, declare income",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Receiving your letter"
+    },
+    {
+      "type": "paragraph",
+      "text": "We may send you a letter about interest and dividend income you declared in your tax return if it doesn't match the interest and dividend amounts reported by third-party payers."
+    },
+    {
+      "type": "paragraph",
+      "text": "The letter will include an income statement summary that compares the details you declared in your tax return with the information the third-party payers reported to us."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a myGov account linked to us , we'll send the letter to your myGov inbox titled Have you reported all information in your tax return?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't have a myGov account, we'll send the letter to the most recent postal address we have for you."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to do"
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to review the income summary and compare the information with your records. You can then determine if you agree or disagree with the amended details."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may also need to contact the third-party payer if the details on the income summary don't seem correct."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Check you have declared everything"
+    },
+    {
+      "type": "paragraph",
+      "text": "For interest income, ensure you've declared your interest income correctly for the type of account you hold:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Individuals accounts – if you've earned interest from an account that's only in your name, you must declare it.",
+        "Accounts held for a child – the interest must be declared by the person who owns or uses the funds in the account.",
+        "Accounts held in trust – the interest must be declared by the person who has beneficial ownership of the funds (this is, the person who benefits from the funds or has the power to influence transaction decisions).",
+        "Joint accounts We assume each account holder has an equal beneficial ownership of the funds, so the interest earned or paid is apportioned equally between all account holders, as examples 50% each for 2 account holders 25% each for 4 account holders. If the actual beneficial ownership of the account is not in equal shares, you'll need to provide supporting documents that demonstrate your share."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For dividend income, if you report your dividend income in another entity's tax return (for example, in a partnership, trust, company or superannuation fund tax return), you need to advise us of the tax file number (TFN) and dividend amounts shown on that tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "You should ask the company to record that TFN on its register. This will help match the dividends to the correct tax return in future."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a question, phone us on 1300 768 912 and select option 3 between 8:00 am and 6:00 pm, Monday to Friday:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "quoting the reference number found at the top right of your letter",
+        "using the words 'data matching'."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Income statement summary – sample"
+    },
+    {
+      "type": "paragraph",
+      "text": "Below is a sample income statement summary. Keep in mind it will contain the relevant information from your tax return compared with information we hold and may not look exactly the same. Use the definitions to help you understand your summary."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Income statement summary for year ended 30 June <CCYY>"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Amount",
+          "Income",
+          "Tax withheld/ credit reported"
+        ],
+        [
+          "Amount reported to us by a third party",
+          "$1,722",
+          "$120"
+        ],
+        [
+          "Amount included in your return",
+          "$492",
+          "$0"
+        ],
+        [
+          "Difference",
+          "$1,230",
+          "$120"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Source of income",
+          "Payer ABN/ account number",
+          "Income",
+          "Tax withheld/ credit reported"
+        ],
+        [
+          "Investment Company Pty Ltd",
+          "9999999",
+          "$953",
+          "$120"
+        ],
+        [
+          "ABC Finance",
+          "3541586/1",
+          "$492",
+          "$0"
+        ],
+        [
+          "Northwest Banking Corporation",
+          "935415658/1",
+          "$277",
+          "$0"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The /I at the end of the account number represents an individual account.",
+        "The /J at the end of the account number represents a joint account and this is your share of the interest."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Summary definitions"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following definitions will help you understand your income statement summary:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Amount included in your return – the total amount of income and tax withheld (if interest income) or credit reported (dividend franking credit) you declared in your tax return.",
+        "Account number – the account number for each source of interest or dividend income reported to us.",
+        "Amount reported to us by a third party – the total amount of income and tax withheld (if interest income) or credit reported (dividend franking credit), as reported to us by the third-party payer (for example, financial institutions or companies).",
+        "Credit reported – the credit amount reported to us by companies and by you in your tax return. This is also called a franking credit.",
+        "Difference – the difference between the income and tax withheld (if interest income) or credit reported (dividend franking credit) you declared in your tax return, and the amounts reported to us by third-party payers.",
+        "Income – the interest/ dividend amount reported to us.",
+        "Payer ABN – the Australian business number of the third-party payer who reported to us.",
+        "Source of income – a list of each source of income paid to you as reported to us by the third-party payer.",
+        "Tax withheld – the amount of tax withheld reported to us."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you agree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you agree with our information, you don’t need to do anything. We'll send you an amended notice of assessment 28 days after the date shown on your letter. If you have a myGov account linked to ATO online services, we'll send your amended notice to your myGov inbox."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you disagree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with the details reported, you must let us know before the due date noted on your letter. You can contact us by:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "mail to Australian Taxation Office PO Box 3543 ALBURY NSW 2640",
+        "phoning 1300 768 912 and selecting option 3 between 8:00 am and 6:00 pm, Monday to Friday",
+        "emailing datamatchingteam@ato.gov.au"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The internet is not a secure environment and we don’t control the path of inbound and outbound emails. If you choose to email us, we can't guarantee the privacy of your personal information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once we've assessed your response, you'll receive an amended notice of assessment. The case officer reviewing your supporting documents may contact you if we need additional information."
+    },
+    {
+      "type": "paragraph",
+      "text": "If we don’t receive a response from you within 28 days of your letter's date of issue, we'll automatically amend your tax return using the information we have. You'll then receive an amended notice of assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Supporting documents"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with information in our letter about your interest income, we may ask you to provide these supporting documents:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "bank statements covering the whole financial year",
+        "your end-of-financial-year statement notice",
+        "trust documents",
+        "a letter from your financial institution confirming the total interest paid in the financial year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For joint accounts, we may ask you to provide supporting documents that show:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the source of the funds (for example, bank deposit records)",
+        "the portion and nature of the contributions",
+        "who used the funds and interest."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with information contained in the letter from us about your dividend income, we may ask you to provide these supporting documents:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "dividend statements",
+        "statements showing the income has been declared in an associated tax return – for example, in a partnership, trust, company or superannuation fund tax return."
+      ]
+    }
+  ],
+  "content_text": "## Receiving your letter\nWe may send you a letter about interest and dividend income you declared in your tax return if it doesn't match the interest and dividend amounts reported by third-party payers.\nThe letter will include an income statement summary that compares the details you declared in your tax return with the information the third-party payers reported to us.\nIf you have a myGov account linked to us , we'll send the letter to your myGov inbox titled Have you reported all information in your tax return?\nIf you don't have a myGov account, we'll send the letter to the most recent postal address we have for you.\n## What to do\nYou need to review the income summary and compare the information with your records. You can then determine if you agree or disagree with the amended details.\nYou may also need to contact the third-party payer if the details on the income summary don't seem correct.\n### Check you have declared everything\nFor interest income, ensure you've declared your interest income correctly for the type of account you hold:\n- Individuals accounts – if you've earned interest from an account that's only in your name, you must declare it.\n- Accounts held for a child – the interest must be declared by the person who owns or uses the funds in the account.\n- Accounts held in trust – the interest must be declared by the person who has beneficial ownership of the funds (this is, the person who benefits from the funds or has the power to influence transaction decisions).\n- Joint accounts We assume each account holder has an equal beneficial ownership of the funds, so the interest earned or paid is apportioned equally between all account holders, as examples 50% each for 2 account holders 25% each for 4 account holders. If the actual beneficial ownership of the account is not in equal shares, you'll need to provide supporting documents that demonstrate your share.\nFor dividend income, if you report your dividend income in another entity's tax return (for example, in a partnership, trust, company or superannuation fund tax return), you need to advise us of the tax file number (TFN) and dividend amounts shown on that tax return.\nYou should ask the company to record that TFN on its register. This will help match the dividends to the correct tax return in future.\nIf you have a question, phone us on 1300 768 912 and select option 3 between 8:00 am and 6:00 pm, Monday to Friday:\n- quoting the reference number found at the top right of your letter\n- using the words 'data matching'.\n### Income statement summary – sample\nBelow is a sample income statement summary. Keep in mind it will contain the relevant information from your tax return compared with information we hold and may not look exactly the same. Use the definitions to help you understand your summary.\n#### Income statement summary for year ended 30 June <CCYY>\nAmount | Income | Tax withheld/ credit reported\nAmount reported to us by a third party | $1,722 | $120\nAmount included in your return | $492 | $0\nDifference | $1,230 | $120\nSource of income | Payer ABN/ account number | Income | Tax withheld/ credit reported\nInvestment Company Pty Ltd | 9999999 | $953 | $120\nABC Finance | 3541586/1 | $492 | $0\nNorthwest Banking Corporation | 935415658/1 | $277 | $0\nNote:\n- The /I at the end of the account number represents an individual account.\n- The /J at the end of the account number represents a joint account and this is your share of the interest.\n### Summary definitions\nThe following definitions will help you understand your income statement summary:\n- Amount included in your return – the total amount of income and tax withheld (if interest income) or credit reported (dividend franking credit) you declared in your tax return.\n- Account number – the account number for each source of interest or dividend income reported to us.\n- Amount reported to us by a third party – the total amount of income and tax withheld (if interest income) or credit reported (dividend franking credit), as reported to us by the third-party payer (for example, financial institutions or companies).\n- Credit reported – the credit amount reported to us by companies and by you in your tax return. This is also called a franking credit.\n- Difference – the difference between the income and tax withheld (if interest income) or credit reported (dividend franking credit) you declared in your tax return, and the amounts reported to us by third-party payers.\n- Income – the interest/ dividend amount reported to us.\n- Payer ABN – the Australian business number of the third-party payer who reported to us.\n- Source of income – a list of each source of income paid to you as reported to us by the third-party payer.\n- Tax withheld – the amount of tax withheld reported to us.\n### If you agree\nIf you agree with our information, you don’t need to do anything. We'll send you an amended notice of assessment 28 days after the date shown on your letter. If you have a myGov account linked to ATO online services, we'll send your amended notice to your myGov inbox.\nOnce you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date.\n### If you disagree\nIf you disagree with the details reported, you must let us know before the due date noted on your letter. You can contact us by:\n- mail to Australian Taxation Office PO Box 3543 ALBURY NSW 2640\n- phoning 1300 768 912 and selecting option 3 between 8:00 am and 6:00 pm, Monday to Friday\n- emailing datamatchingteam@ato.gov.au\nThe internet is not a secure environment and we don’t control the path of inbound and outbound emails. If you choose to email us, we can't guarantee the privacy of your personal information.\nOnce we've assessed your response, you'll receive an amended notice of assessment. The case officer reviewing your supporting documents may contact you if we need additional information.\nIf we don’t receive a response from you within 28 days of your letter's date of issue, we'll automatically amend your tax return using the information we have. You'll then receive an amended notice of assessment.\nOnce you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date.\n### Supporting documents\nIf you disagree with information in our letter about your interest income, we may ask you to provide these supporting documents:\n- bank statements covering the whole financial year\n- your end-of-financial-year statement notice\n- trust documents\n- a letter from your financial institution confirming the total interest paid in the financial year.\nFor joint accounts, we may ask you to provide supporting documents that show:\n- the source of the funds (for example, bank deposit records)\n- the portion and nature of the contributions\n- who used the funds and interest.\nIf you disagree with information contained in the letter from us about your dividend income, we may ask you to provide these supporting documents:\n- dividend statements\n- statements showing the income has been declared in an associated tax return – for example, in a partnership, trust, company or superannuation fund tax return.",
+  "child_links": [],
+  "word_count": 1240,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

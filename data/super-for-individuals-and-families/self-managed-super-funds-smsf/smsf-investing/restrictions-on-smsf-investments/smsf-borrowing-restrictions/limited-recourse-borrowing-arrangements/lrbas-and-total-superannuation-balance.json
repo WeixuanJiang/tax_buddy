@@ -1,0 +1,146 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-investing/restrictions-on-smsf-investments/smsf-borrowing-restrictions/limited-recourse-borrowing-arrangements/lrbas-and-total-superannuation-balance",
+  "title": "LRBAs and total superannuation balance",
+  "description": "How to work out a member's share of the outstanding balance of an LRBA for their total superannuation balance.",
+  "nat_number": "",
+  "quick_code": "103940",
+  "date_updated": "2025-04-02T03:57:00Z",
+  "first_published": true,
+  "keywords": "LRBA total superannuation balance, LRBA total super balance, outstanding LRBA amount",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "LRBA amount for a member's total superannuation balance"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your members' total superannuation balance (TSB) is the total value of all their interests in all super funds."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your SMSF has a limited recourse borrowing arrangement (LRBA), the member's share of the outstanding balance of the LRBA is included in their TSB if the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "lender is a related party or an associate of the SMSF",
+        "member has met a condition of release with no cashing restriction."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This rule applies if the LRBA was entered into by the fund:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "from 1 July 2018, or",
+        "before 1 July 2018 and is refinanced from 1 July 2018, unless the following apply the new borrowing is secured by the same asset or assets as the old borrowing the refinanced amount is the same or less than the existing LRBA."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The member's share of the outstanding balance of an intermediary LRBA is also included in their TSB. An intermediary LRBA is where the loan is entered into by the trustee of the separate asset holding trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your SMSF has an LRBA and a member that meet one of the above conditions, the fund must report the proportion of the outstanding balance of the LRBA amount at 30 June in that member‘s information section of the SMSF annual return and include it in the member's TSB."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "LRBA loan is between the SMSF and an associate"
+    },
+    {
+      "type": "paragraph",
+      "text": "An associate of the SMSF is any fund member of the SMSF, as well as the associates of those entities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the adjustment applies because the loan is with an associate of the fund, all members whose interests are supported by the assets the LRBA relates to will have their TSB adjusted."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Meeting a condition of release with no cashing restriction"
+    },
+    {
+      "type": "paragraph",
+      "text": "The conditions of release with no cashing restrictions include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "retirement",
+        "terminal medical condition",
+        "permanent incapacity",
+        "being 65 years old."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You only need to report the proportion of the outstanding balance or the LRBA amount for a member who has met a no cashing restriction condition of release."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Outstanding LRBA amount included in your TSB"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your member's LRBA amount that counts towards their TSB is a proportion of the total outstanding balance of the LRBA based on their share of the super interests supported by the LRBA."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: working out the LRBA amount included in a member’s TSB"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kevin is 65 years old and is a member of an SMSF with an outstanding LRBA as of 30 June 2023."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kevin is calculating his TSB for 30 June 2023 and needs to know his share of the outstanding LRBA amount to include in the calculation of his total super balance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kevin's account balance on 30 June is $400,000 which is 75% supported by the assets that secure the LRBA."
+    },
+    {
+      "type": "paragraph",
+      "text": "The SMSF’s total outstanding balance of the LRBA on 30 June 2023 is $200,000 and the total fund assets that are supported by the assets that secure the LRBA is $800,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kevin works out his TSB LRBA amount on 30 June 2023 as:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$200,000 (the outstanding LRBA balance)",
+        "× ($400,000 × 75%) (the value of Kevin’s interests supported by the assets that secure the LRBA)",
+        "÷ $800,000 (the value of the fund's interests supported by the assets that secure the LRBA)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "= $75,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kevin’s SMSF will report $75,000 as the TSB LRBA amount for Kevin in the member section of the SMSF annual return for the 2022–23 financial year."
+    }
+  ],
+  "content_text": "## LRBA amount for a member's total superannuation balance\nYour members' total superannuation balance (TSB) is the total value of all their interests in all super funds.\nIf your SMSF has a limited recourse borrowing arrangement (LRBA), the member's share of the outstanding balance of the LRBA is included in their TSB if the:\n- lender is a related party or an associate of the SMSF\n- member has met a condition of release with no cashing restriction.\nThis rule applies if the LRBA was entered into by the fund:\n- from 1 July 2018, or\n- before 1 July 2018 and is refinanced from 1 July 2018, unless the following apply the new borrowing is secured by the same asset or assets as the old borrowing the refinanced amount is the same or less than the existing LRBA.\nThe member's share of the outstanding balance of an intermediary LRBA is also included in their TSB. An intermediary LRBA is where the loan is entered into by the trustee of the separate asset holding trust.\nIf your SMSF has an LRBA and a member that meet one of the above conditions, the fund must report the proportion of the outstanding balance of the LRBA amount at 30 June in that member‘s information section of the SMSF annual return and include it in the member's TSB.\n### LRBA loan is between the SMSF and an associate\nAn associate of the SMSF is any fund member of the SMSF, as well as the associates of those entities.\nWhere the adjustment applies because the loan is with an associate of the fund, all members whose interests are supported by the assets the LRBA relates to will have their TSB adjusted.\n### Meeting a condition of release with no cashing restriction\nThe conditions of release with no cashing restrictions include:\n- retirement\n- terminal medical condition\n- permanent incapacity\n- being 65 years old.\nYou only need to report the proportion of the outstanding balance or the LRBA amount for a member who has met a no cashing restriction condition of release.\n## Outstanding LRBA amount included in your TSB\nYour member's LRBA amount that counts towards their TSB is a proportion of the total outstanding balance of the LRBA based on their share of the super interests supported by the LRBA.\n### Example: working out the LRBA amount included in a member’s TSB\nKevin is 65 years old and is a member of an SMSF with an outstanding LRBA as of 30 June 2023.\nKevin is calculating his TSB for 30 June 2023 and needs to know his share of the outstanding LRBA amount to include in the calculation of his total super balance.\nKevin's account balance on 30 June is $400,000 which is 75% supported by the assets that secure the LRBA.\nThe SMSF’s total outstanding balance of the LRBA on 30 June 2023 is $200,000 and the total fund assets that are supported by the assets that secure the LRBA is $800,000.\nKevin works out his TSB LRBA amount on 30 June 2023 as:\n- $200,000 (the outstanding LRBA balance)\n- × ($400,000 × 75%) (the value of Kevin’s interests supported by the assets that secure the LRBA)\n- ÷ $800,000 (the value of the fund's interests supported by the assets that secure the LRBA)\n= $75,000.\nKevin’s SMSF will report $75,000 as the TSB LRBA amount for Kevin in the member section of the SMSF annual return for the 2022–23 financial year.",
+  "child_links": [],
+  "word_count": 582,
+  "source_title": "",
+  "source_description": "",
+  "category": "super-for-individuals-and-families"
+}

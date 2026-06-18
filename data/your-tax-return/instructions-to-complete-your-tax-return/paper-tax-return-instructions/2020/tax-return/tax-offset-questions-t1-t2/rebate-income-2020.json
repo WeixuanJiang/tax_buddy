@@ -1,0 +1,100 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2020/tax-return/tax-offset-questions-t1-t2/rebate-income-2020",
+  "title": "Rebate income 2020",
+  "description": "Work out your rebate income and if you're eligible for the seniors and pensioners tax offset at question T1.",
+  "nat_number": "",
+  "quick_code": "61662",
+  "date_updated": "2020-05-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, rebate income, rebate, income, senior Australians, tax offset, tax return, 2020, pensioners, paper tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "We work out what we call 'rebate income' to determine whether you are eligible for the seniors and pensioners tax offset at T1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your rebate income is the total amount of your taxable income (excluding any assessable First home super saver released amount) plus the following amounts if they apply to you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "adjusted fringe benefits total, which is the sum of reportable fringe benefits amounts you received from employers exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986 multiplied by 0.53, and reportable fringe benefits amounts from employers not exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986",
+        "reportable employer superannuation contributions",
+        "deductible personal superannuation contributions",
+        "your net financial investment loss (that is, the amount by which your deductions attributable to financial investments exceeded your total financial investment income)",
+        "your net rental property loss (that is, the amount by which your deductions attributable to rental property exceeded your rental property income)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your rebate income, use the following worksheet."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "Your taxable income (from Taxable income or loss on your tax return – excluding any assessable First home super saver released amount) If your taxable income is a loss, write 0 .",
+          "$"
+        ],
+        [
+          "b",
+          "Your reportable employer superannuation contributions (from T item IT2 on your tax return)",
+          "$"
+        ],
+        [
+          "c",
+          "Your deductible personal superannuation contributions (from H item D12 on your tax return)",
+          "$"
+        ],
+        [
+          "d",
+          "Your net financial investment loss (from X item IT5 on your tax return)",
+          "$"
+        ],
+        [
+          "e",
+          "Your net rental property loss (from Y item IT6 on your tax return)",
+          "$"
+        ],
+        [
+          "f",
+          "Your adjusted fringe benefits total (the sum of: N item IT1 on your tax return multiplied by 0.53 and rounded down to the nearest dollar, and W item IT1 on your tax return)",
+          "$"
+        ],
+        [
+          "g",
+          "Add up the amounts from rows a to f . This is your rebate income.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question T2 Australian superannuation income stream 2020 .",
+        "Return to main menu Individual tax return instructions 2020 .",
+        "Go back to question T1 Seniors and pensioners (includes self-funded retirees) 2020 ."
+      ]
+    }
+  ],
+  "content_text": "We work out what we call 'rebate income' to determine whether you are eligible for the seniors and pensioners tax offset at T1 .\nYour rebate income is the total amount of your taxable income (excluding any assessable First home super saver released amount) plus the following amounts if they apply to you:\n- adjusted fringe benefits total, which is the sum of reportable fringe benefits amounts you received from employers exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986 multiplied by 0.53, and reportable fringe benefits amounts from employers not exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986\n- reportable employer superannuation contributions\n- deductible personal superannuation contributions\n- your net financial investment loss (that is, the amount by which your deductions attributable to financial investments exceeded your total financial investment income)\n- your net rental property loss (that is, the amount by which your deductions attributable to rental property exceeded your rental property income).\nTo work out your rebate income, use the following worksheet.\nRow | Calculation | Amount\na | Your taxable income (from Taxable income or loss on your tax return – excluding any assessable First home super saver released amount) If your taxable income is a loss, write 0 . | $\nb | Your reportable employer superannuation contributions (from T item IT2 on your tax return) | $\nc | Your deductible personal superannuation contributions (from H item D12 on your tax return) | $\nd | Your net financial investment loss (from X item IT5 on your tax return) | $\ne | Your net rental property loss (from Y item IT6 on your tax return) | $\nf | Your adjusted fringe benefits total (the sum of: N item IT1 on your tax return multiplied by 0.53 and rounded down to the nearest dollar, and W item IT1 on your tax return) | $\ng | Add up the amounts from rows a to f . This is your rebate income. | $\n## Where to go next\n- Go to question T2 Australian superannuation income stream 2020 .\n- Return to main menu Individual tax return instructions 2020 .\n- Go back to question T1 Seniors and pensioners (includes self-funded retirees) 2020 .",
+  "child_links": [],
+  "word_count": 387,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

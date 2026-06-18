@@ -1,0 +1,153 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2015/tax-offsets/adjusted-taxable-income",
+  "title": "Adjusted taxable income",
+  "description": "Work out your adjusted taxable income and if you're eligible for certain tax offsets.",
+  "nat_number": "",
+  "quick_code": "44918",
+  "date_updated": "2015-06-18T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Adjusted taxable income (ATI) is an amount that is used most commonly to determine eligibility for certain tax offsets."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following amounts are used to calculate a person’s ATI:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "taxable income",
+        "reportable employer superannuation contributions",
+        "deductible personal superannuation contributions",
+        "adjusted fringe benefits (total reportable fringe benefits amounts multiplied by 0.53)",
+        "certain tax-free government pensions or benefits",
+        "target foreign income (income and certain other amounts from sources outside Australia not included in your taxable income or received as a fringe benefit)",
+        "net financial investment loss (the amount by which deductions relating to financial investments exceed total financial investment income)",
+        "net rental property loss(the amount by which deductions relating to rental properties exceed rental property income)",
+        "any child support payments the person provided to another person."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have to work out a spouse’s ATI or a dependent child or student's ATI, use the ATI worksheet below."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Dependant 1",
+          "Dependant 2",
+          "Dependant 3"
+        ],
+        [
+          "The period for which you need to work out the person's ATI",
+          "from",
+          "",
+          "",
+          ""
+        ],
+        [
+          "to",
+          "",
+          "",
+          ""
+        ],
+        [
+          "The person’s taxable income for the period. If taxable income is a loss, write 0",
+          "",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "The person’s reportable employer superannuation contributions for the period",
+          "",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "The person’s deductible personal superannuation contributions for the period",
+          "",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "The person’s tax-free government pensions or benefits for the period",
+          "",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "The person's target foreign income for the period",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "The person's net financial investment loss for the period",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "The person's net rental property loss for the period",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "The person’s total reportable fringe benefits amounts, multiplied by 0.53 and rounded down to the nearest dollar",
+          "",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "Add all the amounts from above.",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Child maintenance the person provided to a third party for the period",
+          "B",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Take B away from A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "This is the person's ATI for the period.",
+          "",
+          "$",
+          "$",
+          "$"
+        ]
+      ]
+    }
+  ],
+  "content_text": "Adjusted taxable income (ATI) is an amount that is used most commonly to determine eligibility for certain tax offsets.\nThe following amounts are used to calculate a person’s ATI:\n- taxable income\n- reportable employer superannuation contributions\n- deductible personal superannuation contributions\n- adjusted fringe benefits (total reportable fringe benefits amounts multiplied by 0.53)\n- certain tax-free government pensions or benefits\n- target foreign income (income and certain other amounts from sources outside Australia not included in your taxable income or received as a fringe benefit)\n- net financial investment loss (the amount by which deductions relating to financial investments exceed total financial investment income)\n- net rental property loss(the amount by which deductions relating to rental properties exceed rental property income)\n- any child support payments the person provided to another person.\nIf you have to work out a spouse’s ATI or a dependent child or student's ATI, use the ATI worksheet below.\n | Dependant 1 | Dependant 2 | Dependant 3\nThe period for which you need to work out the person's ATI | from |  |  | \nto |  |  | \nThe person’s taxable income for the period. If taxable income is a loss, write 0 |  | $ | $ | $\nThe person’s reportable employer superannuation contributions for the period |  | $ | $ | $\nThe person’s deductible personal superannuation contributions for the period |  | $ | $ | $\nThe person’s tax-free government pensions or benefits for the period |  | $ | $ | $\nThe person's target foreign income for the period |  |  |  | \nThe person's net financial investment loss for the period |  |  |  | \nThe person's net rental property loss for the period |  |  |  | \nThe person’s total reportable fringe benefits amounts, multiplied by 0.53 and rounded down to the nearest dollar |  | $ | $ | $\nAdd all the amounts from above. | A |  |  | \nChild maintenance the person provided to a third party for the period | B |  |  | \nTake B away from A |  |  |  | \nThis is the person's ATI for the period. |  | $ | $ | $",
+  "child_links": [],
+  "word_count": 369,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

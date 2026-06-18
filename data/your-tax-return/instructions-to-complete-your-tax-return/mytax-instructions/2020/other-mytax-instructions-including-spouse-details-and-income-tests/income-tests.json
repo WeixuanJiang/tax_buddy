@@ -1,0 +1,50 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2020/other-mytax-instructions-including-spouse-details-and-income-tests/income-tests",
+  "title": "myTax 2020 Income tests",
+  "description": "How to complete the Income tests section of your return using myTax.",
+  "nat_number": "",
+  "quick_code": "62376",
+  "date_updated": "2020-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "2020, myTax, e-tax, online tax return, income, tests, income tests, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "We use income tests to work out whether you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "can claim certain tax offsets and the amount you are entitled to receive",
+        "can receive some government benefits or concessions",
+        "are entitled to a rebate for your private health insurance",
+        "must pay tax",
+        "must pay Medicare levy surcharge",
+        "have a Higher Education Loan Program, Vocational Education and Training Student Loan, Student Financial Supplement Scheme, Student Start-up Loan, ABSTUDY Student Start-up Loan or Trade Support Loan repayment liability."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We may also pass this information to other government agencies, such as Services Australia, to ensure you are receiving your correct entitlement to government benefits. It will also be used to correctly determine any child support payments."
+    },
+    {
+      "type": "paragraph",
+      "text": "The above items will only display at Prepare return if they contain an amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "myTax will populate some amounts using the information you provide in your tax return. You may not be able to edit those populated amounts at Income tests. For more information, refer to the specific income test."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need to add information to items not initially displayed at Prepare return , select 'Add/Edit' at the Income tests banner."
+    }
+  ],
+  "content_text": "We use income tests to work out whether you:\n- can claim certain tax offsets and the amount you are entitled to receive\n- can receive some government benefits or concessions\n- are entitled to a rebate for your private health insurance\n- must pay tax\n- must pay Medicare levy surcharge\n- have a Higher Education Loan Program, Vocational Education and Training Student Loan, Student Financial Supplement Scheme, Student Start-up Loan, ABSTUDY Student Start-up Loan or Trade Support Loan repayment liability.\nWe may also pass this information to other government agencies, such as Services Australia, to ensure you are receiving your correct entitlement to government benefits. It will also be used to correctly determine any child support payments.\nThe above items will only display at Prepare return if they contain an amount.\nmyTax will populate some amounts using the information you provide in your tax return. You may not be able to edit those populated amounts at Income tests. For more information, refer to the specific income test.\nIf you need to add information to items not initially displayed at Prepare return , select 'Add/Edit' at the Income tests banner.",
+  "child_links": [],
+  "word_count": 191,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

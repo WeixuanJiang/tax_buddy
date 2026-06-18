@@ -1,0 +1,230 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2018/tax-return/tax-offset-questions-t1-t2/t2-australian-superannuation-income-stream-2018",
+  "title": "T2 Australian superannuation income stream 2018",
+  "description": "Complete this question to help you work out if you're eligible for this tax offset and the amount you can claim.",
+  "nat_number": "",
+  "quick_code": "54246",
+  "date_updated": "2018-05-30T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, superannuation, superannuation income, income stream, tax return, 2018, paper tax return, paper form, paper return, paper lodgement, T2",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Did you receive an Australian superannuation income stream shown on a PAYG payment summary – superannuation income stream ?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to question Tax offsets that you show on the supplementary section of the tax return , or return to main menu Individual tax return instructions 2018 ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you show an amount at M item 7 'Assessable amount from capped defined benefit income stream'?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "You are not entitled to a tax offset on the untaxed element that relates to the amount shown at M item 7 . Read on."
+        ],
+        [
+          "No",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be entitled to a tax offset. Review the following steps and complete Worksheet 1 below where instructed."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Were you 59 years or younger at any time in 2017–18 and not receiving a death benefit income stream where the deceased was 60 years old or older at the time of death?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "Add up the tax offsets shown on your payment summaries. Add the result to any other amount at g in worksheet 1 , then read on."
+        ],
+        [
+          "No",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Were you 59 years or younger at any time in 2017–18 and receiving a death benefit income stream where the deceased was 60 years old or older at the time of death?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "Add up the tax offsets shown on your payment summaries that do not relate to a capped defined benefit income stream that is a death benefit income stream where the deceased died 60 years or older. Add the result to any other amount at g in worksheet 1 , then read on."
+        ],
+        [
+          "No",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Were you receiving a capped defined benefit income stream with an untaxed element in 2017–18 where:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were 60 years old or older",
+        "you were 59 years or younger and you were receiving a death benefit income stream where the deceased was 60 years old or older at the time of death?"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "The tax offset will not be shown on your PAYG payment summary – superannuation income stream . Go to Completing worksheet 1 ."
+        ],
+        [
+          "No",
+          "Add any amount at g in worksheet 1 and transfer to S item T2"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing worksheet 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must now calculate your tax offset on the untaxed element. If your tax offset for a capped defined benefit income stream is shown on your PAYG payment summary – superannuation income stream , you must disregard it. For more information, go to Defined benefit income cap tool ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your defined benefit income cap from question 7 ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "From your PAYG payment summary – superannuation income stream"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the sum of your taxed element and tax free components, including lump sum in arrears, from the period you turned 60, or you were 59 years or younger and receiving a reversionary income stream where the deceased was 60 years old or older",
+        "the sum of your untaxed element, including lump sum in arrears, from the period you turned 60, or you were 59 years or younger and receiving a reversionary income stream where the deceased was 60 years old or older."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "Defined benefit income cap (from question 7 )",
+          "$"
+        ],
+        [
+          "b",
+          "Total taxed element and tax free components",
+          "$"
+        ],
+        [
+          "c",
+          "If b is greater than a then you are not entitled to an offset on your untaxed element. Write 0 at f and then go to g . Where b is less than a then subtract b from a .",
+          "$"
+        ],
+        [
+          "d",
+          "Total untaxed element",
+          "$"
+        ],
+        [
+          "e",
+          "Write the lesser of c and d .",
+          "$"
+        ],
+        [
+          "f",
+          "Multiply e by 10%.",
+          "$"
+        ],
+        [
+          "g",
+          "Add together any amount from steps 1 and 2.",
+          "$"
+        ],
+        [
+          "h",
+          "Add together f and g . This is your tax offset.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at h to S item T2 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to Tax offsets that you show on the supplementary section of the tax return 2018 .",
+        "Return to main menu Individual tax return instructions 2018 .",
+        "Go back to question T1 Seniors and pensioners (includes self-funded retirees) 2018 ."
+      ]
+    }
+  ],
+  "content_text": "Did you receive an Australian superannuation income stream shown on a PAYG payment summary – superannuation income stream ?\nNo | Go to question Tax offsets that you show on the supplementary section of the tax return , or return to main menu Individual tax return instructions 2018 .\nYes | Read on.\nDid you show an amount at M item 7 'Assessable amount from capped defined benefit income stream'?\nYes | You are not entitled to a tax offset on the untaxed element that relates to the amount shown at M item 7 . Read on.\nNo | Read on.\nYou may be entitled to a tax offset. Review the following steps and complete Worksheet 1 below where instructed.\n## Step 1\nWere you 59 years or younger at any time in 2017–18 and not receiving a death benefit income stream where the deceased was 60 years old or older at the time of death?\nYes | Add up the tax offsets shown on your payment summaries. Add the result to any other amount at g in worksheet 1 , then read on.\nNo | Read on.\n## Step 2\nWere you 59 years or younger at any time in 2017–18 and receiving a death benefit income stream where the deceased was 60 years old or older at the time of death?\nYes | Add up the tax offsets shown on your payment summaries that do not relate to a capped defined benefit income stream that is a death benefit income stream where the deceased died 60 years or older. Add the result to any other amount at g in worksheet 1 , then read on.\nNo | Read on.\n## Step 3\nWere you receiving a capped defined benefit income stream with an untaxed element in 2017–18 where:\n- you were 60 years old or older\n- you were 59 years or younger and you were receiving a death benefit income stream where the deceased was 60 years old or older at the time of death?\nYes | The tax offset will not be shown on your PAYG payment summary – superannuation income stream . Go to Completing worksheet 1 .\nNo | Add any amount at g in worksheet 1 and transfer to S item T2\n### Completing worksheet 1\nYou must now calculate your tax offset on the untaxed element. If your tax offset for a capped defined benefit income stream is shown on your PAYG payment summary – superannuation income stream , you must disregard it. For more information, go to Defined benefit income cap tool .\nYou will need:\n- your defined benefit income cap from question 7 .\nFrom your PAYG payment summary – superannuation income stream\n- the sum of your taxed element and tax free components, including lump sum in arrears, from the period you turned 60, or you were 59 years or younger and receiving a reversionary income stream where the deceased was 60 years old or older\n- the sum of your untaxed element, including lump sum in arrears, from the period you turned 60, or you were 59 years or younger and receiving a reversionary income stream where the deceased was 60 years old or older.\nRow | Calculation | Amount\na | Defined benefit income cap (from question 7 ) | $\nb | Total taxed element and tax free components | $\nc | If b is greater than a then you are not entitled to an offset on your untaxed element. Write 0 at f and then go to g . Where b is less than a then subtract b from a . | $\nd | Total untaxed element | $\ne | Write the lesser of c and d . | $\nf | Multiply e by 10%. | $\ng | Add together any amount from steps 1 and 2. | $\nh | Add together f and g . This is your tax offset. | $\nTransfer the amount at h to S item T2 .\n## Where to go next\n- Go to Tax offsets that you show on the supplementary section of the tax return 2018 .\n- Return to main menu Individual tax return instructions 2018 .\n- Go back to question T1 Seniors and pensioners (includes self-funded retirees) 2018 .",
+  "child_links": [],
+  "word_count": 723,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

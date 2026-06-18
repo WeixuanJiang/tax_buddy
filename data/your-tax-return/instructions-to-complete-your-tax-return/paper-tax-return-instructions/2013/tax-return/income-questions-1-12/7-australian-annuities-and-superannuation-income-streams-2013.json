@@ -1,0 +1,279 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2013/tax-return/income-questions-1-12/7-australian-annuities-and-superannuation-income-streams-2013",
+  "title": "7 - Australian annuities and superannuation income streams 2013",
+  "description": "Complete question 7 to declare income you received from Australian superannuation income streams and annuities.",
+  "nat_number": "71050",
+  "quick_code": "32458",
+  "date_updated": "2013-05-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, annuities, superannuation, income streams",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about income you received from annuities and superannuation income streams ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Annuities (also known as non-superannuation annuities) may be paid to you by life insurance companies and friendly societies. You may have received a PAYG payment summary - individuals non-business showing such amounts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Superannuation income streams (including lump sum in arrears amounts) are paid to you by Australian superannuation funds, retirement savings account (RSA) providers and life insurance companies. You may have received a PAYG payment summary - superannuation income stream showing such amounts."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a taxable Australian superannuation lump sum payment, include it at item 8 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show the following amounts anywhere on your tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the taxed element of a superannuation income stream you received after you turned 60 years old (these amounts are tax free and not included in your taxable income)",
+        "the taxed element of a superannuation income stream paid to you as the result of the death of another person who died at 60 years old or older (these amounts are tax free and not included in your taxable income)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Did you receive any of these payments?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to question 8 Australian superannuation lump sum payments , or return to main menu Individual tax return instructions"
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your PAYG payment summary - individual non-business showing the gross payment of any annuities",
+        "your PAYG payment summary - superannuation income stream ; superannuation income stream benefits have two components which may be shown on your payment summary",
+        "a taxable component which can have two elements a taxed element, and an untaxed element a tax-free component (do not show your tax-free component anywhere on your tax return)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You may also need a statement from your payer showing the deductible amount of the undeducted purchase price (UPP) of the annuity so you can work out the amount to include as income at this item. If you have not received this information or you have lost it, contact your payer to obtain a copy."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may not have received a PAYG payment summary - superannuation income stream because your entire superannuation income stream was tax free. For example, you may not have received a payment summary if in 2012-13 your superannuation income stream contained only taxed elements received on or after you turned 60 years old."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "Follow the steps below to ensure we apply the correct rate of tax."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1: Tax withheld"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the tax withheld amounts on your payment summaries for your superannuation income streams and annuities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total in the left column under Tax withheld at item 7 on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2: Taxed element of taxable component"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the taxed element amounts that appear under the heading 'Taxable component' on your superannuation income stream payment summaries. Do not include any gross payments from annuities shown on a PAYG payment summary - individual non-business at this step. These are dealt with at step 4 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total at J item 7 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3: Untaxed element of taxable component"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up any untaxed element amounts that appear under the heading 'Taxable component' on your superannuation income stream payment summaries, and write the total at (a) in worksheet 1 . If you did not receive any, write 0 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ste p 4: Annuities"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you did not receive any Australian annuities, write 0 at (b) in worksheet 1 below and go to step 5."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received an annuity, your payer may have provided you with a statement showing the deductible amount of the UPP of your annuity. If you do not have details of the deductible amount, contact your payer for assistance. If your payer cannot tell you, phone 13 10 20 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Subtract the deductible amount from the gross amount of the annuity shown on your PAYG payment summary - individual non-business ."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If the answer is a negative amount then the amount is treated as if it was zero.",
+        "If you had more than one annuity, repeat this step for each one.",
+        "Add these amounts and write your total at (b) in worksheet 1 ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5: Total untaxed element"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add (a) and (b) in worksheet 1."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "W orksheet 1"
+        ],
+        [
+          "Working out the total of untaxed elements and annuity amounts"
+        ],
+        [
+          "Total untaxed element amounts from superannuation income streams (from step 3)",
+          "$",
+          "(a)"
+        ],
+        [
+          "Total amounts from annuities (from step 4)",
+          "$",
+          "(b)"
+        ],
+        [
+          "Add (a) and (b).",
+          "$",
+          "(c)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at (c) to N item 7 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you did not receive any superannuation income stream lump sums in arrears, go to question 8 Australian superannuation lump sum payments ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 6: Taxed element of lump sums in arrears"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the taxed element amounts that appear under the heading 'Lump sum in arrears - taxable component' on your superannuation income stream payment summaries."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total at Y item 7 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 7: Untaxed element of lump sums in arrears"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the untaxed element amounts that appear under the heading 'Lump sum in arrears - taxable component' on your superannuation income stream payment summaries."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total at Z item 7 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lump sums in arrears tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be entitled to a tax offset if you received a superannuation income stream lump sum in arrears. However, you need to provide additional information."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "On a separate sheet of paper",
+        "print SCHEDULE OF ADDITIONAL INFORMATION - ITEM 7 print your name, address and tax file number write the amount of the payment in arrears for each income year involved. For example, if you received $900 in 2012-13 as a lump sum in arrears, $600 of that lump sum could be due to you for 2010-11 and $300 for 2011-12. You would write 2010-11 $600 and 2011-12 $300. If you do not have that information, contact the payer of your superannuation income stream.",
+        "Attach your schedule to page 3 of your tax return.",
+        "Print X in the Yes box at Taxpayer's declaration question 2a on page 10 of your tax return."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Tax tips"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be entitled to the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "seniors and pensioners tax offset; see question T2 Seniors and pensioners (includes self-funded retirees) for more information",
+        "superannuation income stream tax offset; see question T3 Australian superannuation income stream for more information."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question 8 Australian superannuation lump sum payments .",
+        "Return to main menu Individual tax return instructions .",
+        "Go back to question 6 Australian Government pensions and allowances ."
+      ]
+    }
+  ],
+  "content_text": "This question is about income you received from annuities and superannuation income streams .\nAnnuities (also known as non-superannuation annuities) may be paid to you by life insurance companies and friendly societies. You may have received a PAYG payment summary - individuals non-business showing such amounts.\nSuperannuation income streams (including lump sum in arrears amounts) are paid to you by Australian superannuation funds, retirement savings account (RSA) providers and life insurance companies. You may have received a PAYG payment summary - superannuation income stream showing such amounts.\nIf you received a taxable Australian superannuation lump sum payment, include it at item 8 .\nDo not show the following amounts anywhere on your tax return:\n- the taxed element of a superannuation income stream you received after you turned 60 years old (these amounts are tax free and not included in your taxable income)\n- the taxed element of a superannuation income stream paid to you as the result of the death of another person who died at 60 years old or older (these amounts are tax free and not included in your taxable income).\n## Did you receive any of these payments?\nNo | Go to question 8 Australian superannuation lump sum payments , or return to main menu Individual tax return instructions\nYes | Read below.\n## Answering this question\nYou will need:\n- your PAYG payment summary - individual non-business showing the gross payment of any annuities\n- your PAYG payment summary - superannuation income stream ; superannuation income stream benefits have two components which may be shown on your payment summary\n- a taxable component which can have two elements a taxed element, and an untaxed element a tax-free component (do not show your tax-free component anywhere on your tax return).\nYou may also need a statement from your payer showing the deductible amount of the undeducted purchase price (UPP) of the annuity so you can work out the amount to include as income at this item. If you have not received this information or you have lost it, contact your payer to obtain a copy.\nYou may not have received a PAYG payment summary - superannuation income stream because your entire superannuation income stream was tax free. For example, you may not have received a payment summary if in 2012-13 your superannuation income stream contained only taxed elements received on or after you turned 60 years old.\n## Completing your tax return\nFollow the steps below to ensure we apply the correct rate of tax.\n### Step 1: Tax withheld\nAdd up the tax withheld amounts on your payment summaries for your superannuation income streams and annuities.\nWrite the total in the left column under Tax withheld at item 7 on your tax return.\n### Step 2: Taxed element of taxable component\nAdd up the taxed element amounts that appear under the heading 'Taxable component' on your superannuation income stream payment summaries. Do not include any gross payments from annuities shown on a PAYG payment summary - individual non-business at this step. These are dealt with at step 4 .\nWrite the total at J item 7 .\n### Step 3: Untaxed element of taxable component\nAdd up any untaxed element amounts that appear under the heading 'Taxable component' on your superannuation income stream payment summaries, and write the total at (a) in worksheet 1 . If you did not receive any, write 0 .\n### Ste p 4: Annuities\nIf you did not receive any Australian annuities, write 0 at (b) in worksheet 1 below and go to step 5.\nIf you received an annuity, your payer may have provided you with a statement showing the deductible amount of the UPP of your annuity. If you do not have details of the deductible amount, contact your payer for assistance. If your payer cannot tell you, phone 13 10 20 .\nSubtract the deductible amount from the gross amount of the annuity shown on your PAYG payment summary - individual non-business .\n- If the answer is a negative amount then the amount is treated as if it was zero.\n- If you had more than one annuity, repeat this step for each one.\n- Add these amounts and write your total at (b) in worksheet 1 .\n### Step 5: Total untaxed element\nAdd (a) and (b) in worksheet 1.\nW orksheet 1\nWorking out the total of untaxed elements and annuity amounts\nTotal untaxed element amounts from superannuation income streams (from step 3) | $ | (a)\nTotal amounts from annuities (from step 4) | $ | (b)\nAdd (a) and (b). | $ | (c)\nTransfer the amount at (c) to N item 7 .\nIf you did not receive any superannuation income stream lump sums in arrears, go to question 8 Australian superannuation lump sum payments .\n### Step 6: Taxed element of lump sums in arrears\nAdd up all the taxed element amounts that appear under the heading 'Lump sum in arrears - taxable component' on your superannuation income stream payment summaries.\nWrite the total at Y item 7 .\n### Step 7: Untaxed element of lump sums in arrears\nAdd up all the untaxed element amounts that appear under the heading 'Lump sum in arrears - taxable component' on your superannuation income stream payment summaries.\nWrite the total at Z item 7 .\n## Lump sums in arrears tax offset\nYou may be entitled to a tax offset if you received a superannuation income stream lump sum in arrears. However, you need to provide additional information.\n- On a separate sheet of paper\n- print SCHEDULE OF ADDITIONAL INFORMATION - ITEM 7 print your name, address and tax file number write the amount of the payment in arrears for each income year involved. For example, if you received $900 in 2012-13 as a lump sum in arrears, $600 of that lump sum could be due to you for 2010-11 and $300 for 2011-12. You would write 2010-11 $600 and 2011-12 $300. If you do not have that information, contact the payer of your superannuation income stream.\n- Attach your schedule to page 3 of your tax return.\n- Print X in the Yes box at Taxpayer's declaration question 2a on page 10 of your tax return.\n### Tax tips\nYou may be entitled to the:\n- seniors and pensioners tax offset; see question T2 Seniors and pensioners (includes self-funded retirees) for more information\n- superannuation income stream tax offset; see question T3 Australian superannuation income stream for more information.\n#### Where to go next\n- Go to question 8 Australian superannuation lump sum payments .\n- Return to main menu Individual tax return instructions .\n- Go back to question 6 Australian Government pensions and allowances .",
+  "child_links": [],
+  "word_count": 1127,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

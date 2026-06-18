@@ -1,0 +1,48 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2014/income/payment-summaries",
+  "title": "Payment summaries",
+  "description": "How to complete the Payment summaries section in myTax.",
+  "nat_number": "",
+  "quick_code": "38864",
+  "date_updated": "2014-06-12T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "We may have pre-filled your return with payment summary information provided to us, for example, by employers and Australian government agencies."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received any of the following employment-type income or taxable Australian Government payments and they are not already pre-filled, you must add them in the Payment Summaries section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Follow the links below to see more information to help you select your payment summary type:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Salary or wages",
+        "Australian Government allowances and payments",
+        "Australian Government pensions and allowances"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Amounts not included"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include amounts that you do not pay tax on ."
+    }
+  ],
+  "content_text": "We may have pre-filled your return with payment summary information provided to us, for example, by employers and Australian government agencies.\nIf you received any of the following employment-type income or taxable Australian Government payments and they are not already pre-filled, you must add them in the Payment Summaries section.\nFollow the links below to see more information to help you select your payment summary type:\n- Salary or wages\n- Australian Government allowances and payments\n- Australian Government pensions and allowances\n## Amounts not included\nDo not include amounts that you do not pay tax on .",
+  "child_links": [],
+  "word_count": 98,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

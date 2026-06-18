@@ -1,0 +1,117 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/income/sole-trader-and-business-income-or-losses-and-partnership-or-trust-distributions/loss-details/investment-losses",
+  "title": "Investment losses",
+  "description": "Use this guide to help you understand investment losses and how to complete a Loss details worksheet.",
+  "nat_number": "",
+  "quick_code": "80405",
+  "date_updated": "2018-06-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "If your only loss is from a passive investment (for example from a rental property) at Distribution from partnerships less foreign income , complete a Loss details worksheet and show:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Description of activity enter 'Residential property operators'",
+        "Type of loss select '0: Passive investment - partnership'",
+        "Primary production - your share of total loss enter '0'",
+        "Non-primary production - your share of total loss enter '0'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Continue to step 4 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a loss from a business activity and a loss from a passive investment (for example from a rental property) at Distribution from partnerships less foreign income , then you are not required to report the loss from a passive investment. You need to complete a Loss details worksheet for each other business activity loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are unsure if a business activity has an overall loss see Work out whether you have an overall loss , or continue to step 2 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Work out whether you have an overall loss"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete the worksheet for each business activity to determine whether you have an overall loss for that activity."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation element",
+          "$"
+        ],
+        [
+          "a",
+          "Income from the activity shown at other sections: gross interest dividends (unfranked, franked and franking credit amounts) farm management repayments net capital gain other foreign source income",
+          "$"
+        ],
+        [
+          "b",
+          "Loss from the activity shown at: primary production and non-primary production distribution from partnerships net personal services income net primary production and net non-primary production business income or losses (Include the loss here as a positive amount)",
+          "$"
+        ],
+        [
+          "c",
+          "Partner deductions attributable to the activity (including landcare operations)",
+          "$"
+        ],
+        [
+          "d",
+          "Loss from the activity at other foreign income (Include the loss here as a positive amount)",
+          "$"
+        ],
+        [
+          "e",
+          "Add b , c and d .",
+          "$"
+        ],
+        [
+          "f",
+          "Subtract e from a .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the result at f is negative this activity has an overall loss and you must complete a Loss details worksheet. Continue to step 2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the result at f is zero or positive you do not have an overall loss for this business activity. If you have more than one business activity loss, complete a Loss details worksheet for each other activity. If you do not have a loss from another business activity show:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Description of activity enter the relevant description",
+        "Type of loss select 5: Commissioner's discretion",
+        "Reference select AN: NCL ruling code - Authorisation number for private ruling",
+        "Number enter '200926'.",
+        "Primary production - your share of total loss enter '0'",
+        "Non-primary production - your share of total loss enter '0'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Continue to step 4 ."
+    }
+  ],
+  "content_text": "If your only loss is from a passive investment (for example from a rental property) at Distribution from partnerships less foreign income , complete a Loss details worksheet and show:\n- Description of activity enter 'Residential property operators'\n- Type of loss select '0: Passive investment - partnership'\n- Primary production - your share of total loss enter '0'\n- Non-primary production - your share of total loss enter '0'.\nContinue to step 4 .\nIf you have a loss from a business activity and a loss from a passive investment (for example from a rental property) at Distribution from partnerships less foreign income , then you are not required to report the loss from a passive investment. You need to complete a Loss details worksheet for each other business activity loss.\nIf you are unsure if a business activity has an overall loss see Work out whether you have an overall loss , or continue to step 2 .\n## Work out whether you have an overall loss\nComplete the worksheet for each business activity to determine whether you have an overall loss for that activity.\nRow | Calculation element | $\na | Income from the activity shown at other sections: gross interest dividends (unfranked, franked and franking credit amounts) farm management repayments net capital gain other foreign source income | $\nb | Loss from the activity shown at: primary production and non-primary production distribution from partnerships net personal services income net primary production and net non-primary production business income or losses (Include the loss here as a positive amount) | $\nc | Partner deductions attributable to the activity (including landcare operations) | $\nd | Loss from the activity at other foreign income (Include the loss here as a positive amount) | $\ne | Add b , c and d . | $\nf | Subtract e from a . | $\nIf the result at f is negative this activity has an overall loss and you must complete a Loss details worksheet. Continue to step 2 .\nIf the result at f is zero or positive you do not have an overall loss for this business activity. If you have more than one business activity loss, complete a Loss details worksheet for each other activity. If you do not have a loss from another business activity show:\n- Description of activity enter the relevant description\n- Type of loss select 5: Commissioner's discretion\n- Reference select AN: NCL ruling code - Authorisation number for private ruling\n- Number enter '200926'.\n- Primary production - your share of total loss enter '0'\n- Non-primary production - your share of total loss enter '0'.\nContinue to step 4 .",
+  "child_links": [],
+  "word_count": 454,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

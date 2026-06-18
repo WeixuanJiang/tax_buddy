@@ -1,0 +1,1060 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/foreign-resident-investments/foreign-investment-in-australia/register-of-foreign-ownership-of-australian-assets/register-of-foreign-ownership-of-australian-assets-reports/register-of-foreign-ownership-of-australian-assets-2024-25-report/residential-land",
+  "title": "Residential land",
+  "description": "Data on foreign ownership of residential land as at 30 June 2025.",
+  "nat_number": "",
+  "quick_code": "106048",
+  "date_updated": "2026-03-04T13:00:00Z",
+  "first_published": "",
+  "keywords": "foreign ownership report, foreign owner, Register of Foreign Ownership of Australian Assets, foreign investment, the Register, the Register report, residential land, water interests, business interests, mining or production tenements and exploration tenements, commercial land, agricultural land",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to interpret this data"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following information outlines foreign ownership of residential land at 30 June 2025 as taken from the Register of Foreign Ownership of Australian Assets (the Register)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Foreign Acquisitions and Takeovers Act 1975 (FATA) defines foreign persons (which include temporary residents and entities with foreign ownership of 20% or more) and details registration requirements for those who acquire interests in specified Australian assets."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Register is a live dataset of self-registrations of foreign-owned assets. The Register data related to residential land is not a full stocktake of foreign ownership in Australia. The Register includes residential land:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "acquired after 1 July 2016, including registrations converted from the Register of Foreign Ownership of Residential Land, or",
+        "registrations added and removed by the Registrar through data matching state and territory reported land title transfers and the Department of Home Affairs, and",
+        "that continued to be held by the foreign person at 30 June 2025."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Additionally, persons who acquired a residential land interest and subsequently became a foreign person after 1 July 2023 may also be required to register."
+    },
+    {
+      "type": "paragraph",
+      "text": "Registrations are added and removed by the Registrar to the extent that state and territory reported land title transfers are available at the time of preparation. Updated data may be available on data.gov.au."
+    },
+    {
+      "type": "paragraph",
+      "text": "Information contained in the Register is protected and subject to the provisions of Division 355 of Schedule 1 of the Taxation Administration Act 1953 and Division 3 of Part 7 of the FATA. As such, the complete Register is not made publicly available, and this report presents aggregated information providing a view of all registrations at a point in time. Consistent with Australia’s foreign investment framework, the details of specific registrations or investors are not made publicly available, and information which could identify, or be used to identify, an individual or entity is excluded from this report."
+    },
+    {
+      "type": "paragraph",
+      "text": "Registrations of foreign ownership of residential land are presented in 2 parts:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Part 1 – interests in residential land acquired by foreign persons which were registered between 1 July 2024 and 30 June 2025, and",
+        "Part 2 – interests in residential land acquired by foreign persons between 1 July 2016 and 30 June 2025 which are still held by a foreign person."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Residential land under the FATA means land in Australia:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "with at least one dwelling on it, or",
+        "where the number of dwellings that could reasonably be built on it is less than 10."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Residential land excludes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "agricultural land",
+        "land on which the only dwellings are commercial residential premises."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign persons must register their residential land interest within 30 days of either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "purchasing residential land (settlement)",
+        "becoming a foreign person while holding an interest in residential land, or",
+        "another registrable event where the foreign person is added to the legal title of the property."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "From 1 July 2023, amendments to the FATA require all foreign persons to register a legal interest they acquire in residential land. This means that in addition to residential property holders, persons such as property developers who acquire titles to individual residential lots on completion of a land subdivision must register their interests in those lots. These registrations are included in all data tables for interests acquired between 1 July 2023 and 30 June 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aggregated data, including figures for prior years, is available on data.gov.au External Link . This data series is updated periodically by the ATO to reflect registrations that may be added or removed by the foreign person or by the Registrar as a result of third-party data matching."
+    },
+    {
+      "type": "paragraph",
+      "text": "Registrable interests in residential land include all freehold and legal leasehold interests whose term is likely to exceed 5 years."
+    },
+    {
+      "type": "paragraph",
+      "text": "A foreign person may hold the interest alone, as a tenant in common, or as a joint tenant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign persons who have invested in residential land must register unless an exemption applies. These exemptions include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Australian citizens living offshore",
+        "permanent residents",
+        "holders of a special category visa",
+        "New Zealand citizens eligible for a special category visa",
+        "entities directly controlled by these persons."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Spouses or de facto partners of Australian citizens, or any of the categories of person listed above, are also exempt when purchasing the property as joint tenants with their partner."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where a registered residential land interest is disposed of by a foreign person, or a person holding an interest ceases to be a foreign person, the residential land interest is removed from the Register."
+    },
+    {
+      "type": "paragraph",
+      "text": "Residential land can be broadly categorised into 3 distinct property types:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Vacant land",
+        "New dwellings",
+        "Established dwellings."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The classification of a property into one of these categories reflects the type of property at the time of purchase. For example, vacant land that is later built on remains classified as vacant land."
+    },
+    {
+      "type": "paragraph",
+      "text": "The data's focus is on freehold interests in residential land used for residential purposes. A small minority of register notices are received for what are typically leasehold interests in residential land for non-residential purposes, including to host infrastructure such as telecommunication towers and power station assets. The data excludes 161 registered interests in residential land properties that relate to these ancillary uses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Statistics are also provided on consideration and value of residential property. The values used reflect the consideration paid by the foreign person or reasonable market value at the time of acquisition. They do not reflect current market values."
+    },
+    {
+      "type": "paragraph",
+      "text": "We used the Australian Bureau of Statistics (ABS) Time series 643202 Total Value of Dwellings – Median price and number of transfers (capital city and rest of state) External Link as the benchmark for calculating the foreign-owned proportion of residential land interests for established and new dwellings. Note that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the ABS data includes residential property transfers for established and new dwellings",
+        "the Australian residential dwelling transfers lives series data is updated by the ABS periodically",
+        "for the purposes of this report, ABS data released on 9 September 2025 was used and may differ from currently available ABS data."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Care should be taken when comparing this data with Treasury’s annual and quarterly reports on foreign investment. The reports produced by Treasury contain proposed investment information."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see ABS Total Value of Dwellings: Table 2. Median price and number of transfers (capital city and rest of state) External Link ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part 1: Acquisitions – 1 July 2024 to 30 June 2025"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Acquisitions by property type"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Property type",
+          "2022–23 (no.)",
+          "2023–24 (no.)",
+          "2024–25 (no.)"
+        ],
+        [
+          "Vacant land",
+          "897",
+          "2,173",
+          "1,951"
+        ],
+        [
+          "New dwelling",
+          "2,640",
+          "2,028",
+          "1,655"
+        ],
+        [
+          "Established dwelling",
+          "1,823",
+          "2,064",
+          "1,017"
+        ],
+        [
+          "Total",
+          "5,360",
+          "6,265",
+          "4,623"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Table 1 includes acquisitions of residential land which may have been sold, or where the person who holds the property was no longer foreign, at the end of reporting period. For example, in 2024–25, of the 4,623 new acquisitions of residential land, 326 were sold, or the person holding the residential land ceased to be a foreign person, as defined in the FATA, at 30 June 2025.",
+        "The figures reported in this table may differ from those presented on data.gov.au. Content on data.gov.au is periodically updated to reflect registrations that may be added or removed by the foreign person or by the Registrar as a result of third-party data matching."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Foreign portion of all residential dwelling acquisitions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2 (below) compares acquisitions in new and established dwellings by foreign persons against the total number of acquisitions of new dwellings and established dwellings in Australia reported by the ABS Total Value of Dwellings External Link – refer to Data downloads, Table 2 Median price and number of transfers (capital city and rest of state)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The comparison uses new dwellings and established dwellings only, because while the ATO collects data on vacant land, the ABS data does not include vacant land. Both datasets record acquisitions at the time of property transfer settlements."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Description",
+          "2022–23",
+          "2023–24",
+          "2024–25"
+        ],
+        [
+          "Number of residential dwelling acquisitions in Australia (ABS)",
+          "476,136",
+          "525,039",
+          "540,439"
+        ],
+        [
+          "Number of residential dwelling acquisitions by foreign persons (ATO)",
+          "4,463",
+          "4,092",
+          "2,672"
+        ],
+        [
+          "Percentage of residential dwellings acquired by foreign persons",
+          "0.9",
+          "0.8",
+          "0.5"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "ABS figures consist of live data that is periodically updated. In this table, the ABS figures were released on 9 September 2025. As such, the quoted figures may differ from those previously published and currently available in the ABS data.",
+        "In Table 2, the number of residential dwelling acquisitions by foreign persons (ATO) includes acquisitions of residential land which may have been sold, or where the person who holds the property was no longer foreign, at the end of reporting period."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Acquisitions by state or territory"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 3 shows the number of acquisitions each year over the 3 years from 2022–23 to 2024–25, by state or territory."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "State or territory",
+          "2022–23",
+          "2023–24",
+          "2024–25"
+        ],
+        [
+          "ACT",
+          "369",
+          "401",
+          "221"
+        ],
+        [
+          "NSW",
+          "656",
+          "985",
+          "1,008"
+        ],
+        [
+          "NT",
+          "55",
+          "37",
+          "5"
+        ],
+        [
+          "Qld",
+          "1,121",
+          "1,099",
+          "1,170"
+        ],
+        [
+          "SA",
+          "459",
+          "628",
+          "339"
+        ],
+        [
+          "Tas",
+          "138",
+          "103",
+          "36"
+        ],
+        [
+          "Vic",
+          "2,240",
+          "2,606",
+          "1,505"
+        ],
+        [
+          "WA",
+          "322",
+          "406",
+          "339"
+        ],
+        [
+          "Total",
+          "5,360",
+          "6,265",
+          "4,623"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Acquisitions by property type and value"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 4 shows the state or territory breakdown of foreign residential land acquisitions by property type and consideration value in the 2024–25 period."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "State or territory",
+          "Vacant land (no.)",
+          "Vacant land value ($m)",
+          "New dwellings (no.)",
+          "New dwellings value ($m)",
+          "Established dwellings (no.)",
+          "Established dwelling value ($m)"
+        ],
+        [
+          "ACT",
+          "22",
+          "13.2",
+          "103",
+          "63.3",
+          "96",
+          "78.0"
+        ],
+        [
+          "NSW",
+          "427",
+          "244.7",
+          "418",
+          "594.3",
+          "163",
+          "569.6"
+        ],
+        [
+          "NT",
+          "1",
+          "0.3",
+          "0",
+          "0",
+          "4",
+          "2.4"
+        ],
+        [
+          "Qld",
+          "420",
+          "224.7",
+          "446",
+          "390.2",
+          "304",
+          "160.3"
+        ],
+        [
+          "SA",
+          "165",
+          "58.9",
+          "69",
+          "53.5",
+          "105",
+          "92.0"
+        ],
+        [
+          "Tas",
+          "14",
+          "4.1",
+          "5",
+          "3.3",
+          "17",
+          "9.8"
+        ],
+        [
+          "Vic",
+          "756",
+          "302.7",
+          "480",
+          "532.1",
+          "269",
+          "440.7"
+        ],
+        [
+          "WA",
+          "146",
+          "57.2",
+          "134",
+          "110.9",
+          "59",
+          "57.3"
+        ],
+        [
+          "Total",
+          "1,951",
+          "905.8",
+          "1,655",
+          "1,747.5",
+          "1,017",
+          "1,410.0"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Value totals may differ from the sum of components due to rounding."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Acquisitions by state and property value range"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 5 shows foreign residential land acquisitions in the 2024–2025 year by consideration value at the time of acquisition in the range of less than or equal to $1 million or greater than $1 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "Of the 4,623 residential land acquisitions, 81.7% were valued at less than or equal to $1 million."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "State or territory",
+          "Property <=$1m (no.)",
+          "Property value <=$1m ($m)",
+          "Property >$1m (no.)",
+          "Property value >$1m ($m)",
+          "Total (no.)",
+          "Total property value ($m)"
+        ],
+        [
+          "ACT",
+          "212",
+          "140.8",
+          "9",
+          "13.6",
+          "221",
+          "154.5"
+        ],
+        [
+          "NSW",
+          "668",
+          "383.9",
+          "340",
+          "1,024.7",
+          "1,008",
+          "1,408.6"
+        ],
+        [
+          "NT",
+          "5",
+          "2.6",
+          "0",
+          "0",
+          "5",
+          "2.6"
+        ],
+        [
+          "Qld",
+          "999",
+          "506.2",
+          "171",
+          "269.0",
+          "1,170",
+          "775.2"
+        ],
+        [
+          "SA",
+          "305",
+          "152.4",
+          "34",
+          "52.1",
+          "339",
+          "204.4"
+        ],
+        [
+          "Tas",
+          "35",
+          "16.0",
+          "1",
+          "1.2",
+          "36",
+          "17.2"
+        ],
+        [
+          "Vic",
+          "1,261",
+          "633.0",
+          "244",
+          "642.5",
+          "1,505",
+          "1,275.4"
+        ],
+        [
+          "WA",
+          "293",
+          "146.4",
+          "46",
+          "79.0",
+          "339",
+          "225.4"
+        ],
+        [
+          "Total",
+          "3,778",
+          "1,981.2",
+          "845",
+          "2,082.0",
+          "4,623",
+          "4,063.3"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Top 20 sources of acquisitions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 6 shows the top 20 source countries of foreign residential land acquisitions between 1 July 2024 and 30 June 2025."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Country",
+          "Registered interests (no.)",
+          "Property value ($m)"
+        ],
+        [
+          "Japan",
+          "1,088",
+          "531.7"
+        ],
+        [
+          "People's Republic of China",
+          "1,086",
+          "1,019.1"
+        ],
+        [
+          "Singapore",
+          "459",
+          "279.1"
+        ],
+        [
+          "Hong Kong, SAR",
+          "319",
+          "285.9"
+        ],
+        [
+          "India",
+          "274",
+          "103.1"
+        ],
+        [
+          "Vietnam",
+          "251",
+          "190.6"
+        ],
+        [
+          "Taiwan",
+          "207",
+          "196.0"
+        ],
+        [
+          "Nepal",
+          "157",
+          "68.3"
+        ],
+        [
+          "Malaysia",
+          "134",
+          "93.9"
+        ],
+        [
+          "Bermuda",
+          "132",
+          "81.7"
+        ],
+        [
+          "Indonesia",
+          "124",
+          "112.2"
+        ],
+        [
+          "United Kingdom",
+          "119",
+          "100.2"
+        ],
+        [
+          "Canada",
+          "89",
+          "38.0"
+        ],
+        [
+          "Sri Lanka",
+          "79",
+          "33.8"
+        ],
+        [
+          "United States of America",
+          "73",
+          "69.5"
+        ],
+        [
+          "Korea, (Republic of South Korea)",
+          "37",
+          "34.5"
+        ],
+        [
+          "Mongolia",
+          "34",
+          "23.0"
+        ],
+        [
+          "United Arab Emirates",
+          "31",
+          "77.7"
+        ],
+        [
+          "South Africa",
+          "29",
+          "17.6"
+        ],
+        [
+          "Netherlands",
+          "27",
+          "36.7"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Between 1 July 2024 and 30 June 2025, foreign persons from a total of 85 countries, excluding Australia, acquired interests in residential land."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are limitations to using the top sources of foreign investment data to determine the ultimate sources of investment into Australia:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The source country is obtained from the registrant at the time of registration and maintained by the foreign person.",
+        "Where there are multiple owners of one residential property from different countries, a proportion of ownership is attributed to each country. As a result, a property may be counted multiple times in some instances.",
+        "Where the registered owner is a company or trust, the nationality of the person (or persons) who appear to control the entity is used to attribute the source country, rather than the country of incorporation. Where the person who controls the entity is identified as an Australian citizen who is not ordinarily resident in Australia (and hence a foreign person), the source country is attributed to the country in which they are ordinarily resident.",
+        "Where shares or interests are widely held for companies or trusts, depending on information available the interest in the asset is attributed to a source country based on the location of: the directors the fund manager, or the country where the entity (or trustee) is headquartered or publicly listed. The source country statistical data may therefore include the presence of jurisdictions used by investment funds and their managers.",
+        "The country of control is assessed using data resources within: the ATO, and agencies such as the Department of Home Affairs and the Australian Securities & Investments Commission (ASIC)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part 2: Registered interests – 1 July 2016 to 30 June 2025"
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign persons are required to maintain their registration on the Register, including:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "notifying of a disposal, or",
+        "changed circumstances, such as the owner ceasing to be a foreign person under the FATA."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At 30 June 2025, 40,460 residential land interests were held by foreign persons on the Register. This figure is derived by aggregating all residential land acquisitions within the 1 July 2016 to 30 June 2025 timeframe, minus those:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "which have been disposed by a foreign person, or",
+        "where the person who holds the property has ceased to be a foreign person under the FATA."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tables 7, 8 and 9 show residential land acquired by foreign persons between 1 July 2016 to 30 June 2025 which was still held by foreign persons at 30 June 2025."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Registered interests by property type"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "State or territory",
+          "New dwelling (no.)",
+          "Vacant land (no.)",
+          "Established dwelling (no.)",
+          "Total"
+        ],
+        [
+          "ACT",
+          "797",
+          "64",
+          "530",
+          "1,391"
+        ],
+        [
+          "NSW",
+          "6,733",
+          "1,192",
+          "1,273",
+          "9,198"
+        ],
+        [
+          "NT",
+          "10",
+          "12",
+          "143",
+          "165"
+        ],
+        [
+          "Qld",
+          "4,450",
+          "2,339",
+          "1,676",
+          "8,465"
+        ],
+        [
+          "SA",
+          "676",
+          "527",
+          "879",
+          "2,082"
+        ],
+        [
+          "Tas",
+          "64",
+          "127",
+          "302",
+          "493"
+        ],
+        [
+          "Vic",
+          "9,921",
+          "4,210",
+          "2,272",
+          "16,403"
+        ],
+        [
+          "WA",
+          "803",
+          "660",
+          "800",
+          "2,263"
+        ],
+        [
+          "Total",
+          "23,454",
+          "9,131",
+          "7,875",
+          "40,460"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Registered interests by state and property value range"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 8 provides the count of residential land holdings in the period from 1 July 2016 to 30 June 2025:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "by consideration value at the time of acquisition",
+        "segmented in values of less than or equal to $1 million and greater than $1 million."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Properties with values of less than or equal to $1 million represent 80.2% of all registrations."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "State or territory",
+          "Property <=$1m (no.)",
+          "Property >$1m (no.)",
+          "Total"
+        ],
+        [
+          "ACT",
+          "1,336",
+          "55",
+          "1,391"
+        ],
+        [
+          "NSW",
+          "5,489",
+          "3,709",
+          "9,198"
+        ],
+        [
+          "NT",
+          "161",
+          "4",
+          "165"
+        ],
+        [
+          "Qld",
+          "7,521",
+          "944",
+          "8,465"
+        ],
+        [
+          "SA",
+          "1,905",
+          "177",
+          "2,082"
+        ],
+        [
+          "Tas",
+          "485",
+          "8",
+          "493"
+        ],
+        [
+          "Vic",
+          "13,529",
+          "2,874",
+          "16,403"
+        ],
+        [
+          "WA",
+          "2,022",
+          "241",
+          "2,263"
+        ],
+        [
+          "Total",
+          "32,448",
+          "8,012",
+          "40,460"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Top 20 sources of foreign investment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 9 shows the top 20 source countries of registered interests in residential land."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Country",
+          "Registered interests (no.)"
+        ],
+        [
+          "People's Republic of China",
+          "22,272"
+        ],
+        [
+          "Hong Kong, SAR",
+          "3,396"
+        ],
+        [
+          "Singapore",
+          "1,978"
+        ],
+        [
+          "Malaysia",
+          "1,795"
+        ],
+        [
+          "Japan",
+          "1,711"
+        ],
+        [
+          "Vietnam",
+          "1,658"
+        ],
+        [
+          "India",
+          "1,235"
+        ],
+        [
+          "Indonesia",
+          "1,133"
+        ],
+        [
+          "United Kingdom",
+          "1,070"
+        ],
+        [
+          "Taiwan",
+          "979"
+        ],
+        [
+          "Nepal",
+          "700"
+        ],
+        [
+          "United States of America",
+          "484"
+        ],
+        [
+          "Canada",
+          "367"
+        ],
+        [
+          "Sri Lanka",
+          "325"
+        ],
+        [
+          "Korea, (Republic of South Korea)",
+          "245"
+        ],
+        [
+          "South Africa",
+          "215"
+        ],
+        [
+          "France",
+          "176"
+        ],
+        [
+          "Cambodia",
+          "164"
+        ],
+        [
+          "Germany",
+          "153"
+        ],
+        [
+          "Bermuda",
+          "143"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At 30 June 2025, foreign persons from a total of 132 countries, excluding Australia, held registered interests in residential land."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are limitations to using the top sources of foreign investment data to determine the ultimate sources of investment into Australia:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The source country is obtained from the registrant at the time of registration and maintained by the foreign person.",
+        "Where there are multiple owners of one residential property from different countries, a proportion of ownership is attributed to each country. As a result, a property may be counted multiple times in some instances.",
+        "Where the registered owner is a company or trust, the nationality of the person (or persons) who appear to control the entity is used to attribute the source country, rather than the country of incorporation. Where the person who controls the entity is identified as an Australian citizen who is not ordinarily resident in Australia (and hence a foreign person), the source country is attributed to the country in which they are ordinarily resident.",
+        "Where shares or interests are widely held for companies or trusts, depending on information available the interest in the asset is attributed to a source country based on the location of: the directors the fund manager, or the country where the entity (or trustee) is headquartered or publicly listed. The source country statistical data may therefore include the presence of jurisdictions used by investment funds and their managers.",
+        "The country of control is assessed using data resources within: the ATO, and agencies such as the Department of Home Affairs and the Australian Securities & Investments Commission (ASIC)."
+      ]
+    }
+  ],
+  "content_text": "## How to interpret this data\nThe following information outlines foreign ownership of residential land at 30 June 2025 as taken from the Register of Foreign Ownership of Australian Assets (the Register).\nThe Foreign Acquisitions and Takeovers Act 1975 (FATA) defines foreign persons (which include temporary residents and entities with foreign ownership of 20% or more) and details registration requirements for those who acquire interests in specified Australian assets.\nThe Register is a live dataset of self-registrations of foreign-owned assets. The Register data related to residential land is not a full stocktake of foreign ownership in Australia. The Register includes residential land:\n- acquired after 1 July 2016, including registrations converted from the Register of Foreign Ownership of Residential Land, or\n- registrations added and removed by the Registrar through data matching state and territory reported land title transfers and the Department of Home Affairs, and\n- that continued to be held by the foreign person at 30 June 2025.\nAdditionally, persons who acquired a residential land interest and subsequently became a foreign person after 1 July 2023 may also be required to register.\nRegistrations are added and removed by the Registrar to the extent that state and territory reported land title transfers are available at the time of preparation. Updated data may be available on data.gov.au.\nInformation contained in the Register is protected and subject to the provisions of Division 355 of Schedule 1 of the Taxation Administration Act 1953 and Division 3 of Part 7 of the FATA. As such, the complete Register is not made publicly available, and this report presents aggregated information providing a view of all registrations at a point in time. Consistent with Australia’s foreign investment framework, the details of specific registrations or investors are not made publicly available, and information which could identify, or be used to identify, an individual or entity is excluded from this report.\nRegistrations of foreign ownership of residential land are presented in 2 parts:\n- Part 1 – interests in residential land acquired by foreign persons which were registered between 1 July 2024 and 30 June 2025, and\n- Part 2 – interests in residential land acquired by foreign persons between 1 July 2016 and 30 June 2025 which are still held by a foreign person.\nResidential land under the FATA means land in Australia:\n- with at least one dwelling on it, or\n- where the number of dwellings that could reasonably be built on it is less than 10.\nResidential land excludes:\n- agricultural land\n- land on which the only dwellings are commercial residential premises.\nForeign persons must register their residential land interest within 30 days of either:\n- purchasing residential land (settlement)\n- becoming a foreign person while holding an interest in residential land, or\n- another registrable event where the foreign person is added to the legal title of the property.\nFrom 1 July 2023, amendments to the FATA require all foreign persons to register a legal interest they acquire in residential land. This means that in addition to residential property holders, persons such as property developers who acquire titles to individual residential lots on completion of a land subdivision must register their interests in those lots. These registrations are included in all data tables for interests acquired between 1 July 2023 and 30 June 2025.\nAggregated data, including figures for prior years, is available on data.gov.au External Link . This data series is updated periodically by the ATO to reflect registrations that may be added or removed by the foreign person or by the Registrar as a result of third-party data matching.\nRegistrable interests in residential land include all freehold and legal leasehold interests whose term is likely to exceed 5 years.\nA foreign person may hold the interest alone, as a tenant in common, or as a joint tenant.\nForeign persons who have invested in residential land must register unless an exemption applies. These exemptions include:\n- Australian citizens living offshore\n- permanent residents\n- holders of a special category visa\n- New Zealand citizens eligible for a special category visa\n- entities directly controlled by these persons.\nSpouses or de facto partners of Australian citizens, or any of the categories of person listed above, are also exempt when purchasing the property as joint tenants with their partner.\nWhere a registered residential land interest is disposed of by a foreign person, or a person holding an interest ceases to be a foreign person, the residential land interest is removed from the Register.\nResidential land can be broadly categorised into 3 distinct property types:\n- Vacant land\n- New dwellings\n- Established dwellings.\nThe classification of a property into one of these categories reflects the type of property at the time of purchase. For example, vacant land that is later built on remains classified as vacant land.\nThe data's focus is on freehold interests in residential land used for residential purposes. A small minority of register notices are received for what are typically leasehold interests in residential land for non-residential purposes, including to host infrastructure such as telecommunication towers and power station assets. The data excludes 161 registered interests in residential land properties that relate to these ancillary uses.\nStatistics are also provided on consideration and value of residential property. The values used reflect the consideration paid by the foreign person or reasonable market value at the time of acquisition. They do not reflect current market values.\nWe used the Australian Bureau of Statistics (ABS) Time series 643202 Total Value of Dwellings – Median price and number of transfers (capital city and rest of state) External Link as the benchmark for calculating the foreign-owned proportion of residential land interests for established and new dwellings. Note that:\n- the ABS data includes residential property transfers for established and new dwellings\n- the Australian residential dwelling transfers lives series data is updated by the ABS periodically\n- for the purposes of this report, ABS data released on 9 September 2025 was used and may differ from currently available ABS data.\nCare should be taken when comparing this data with Treasury’s annual and quarterly reports on foreign investment. The reports produced by Treasury contain proposed investment information.\nFor more information, see ABS Total Value of Dwellings: Table 2. Median price and number of transfers (capital city and rest of state) External Link .\n## Part 1: Acquisitions – 1 July 2024 to 30 June 2025\n## Acquisitions by property type\nProperty type | 2022–23 (no.) | 2023–24 (no.) | 2024–25 (no.)\nVacant land | 897 | 2,173 | 1,951\nNew dwelling | 2,640 | 2,028 | 1,655\nEstablished dwelling | 1,823 | 2,064 | 1,017\nTotal | 5,360 | 6,265 | 4,623\nNotes:\n- Table 1 includes acquisitions of residential land which may have been sold, or where the person who holds the property was no longer foreign, at the end of reporting period. For example, in 2024–25, of the 4,623 new acquisitions of residential land, 326 were sold, or the person holding the residential land ceased to be a foreign person, as defined in the FATA, at 30 June 2025.\n- The figures reported in this table may differ from those presented on data.gov.au. Content on data.gov.au is periodically updated to reflect registrations that may be added or removed by the foreign person or by the Registrar as a result of third-party data matching.\n## Foreign portion of all residential dwelling acquisitions\nTable 2 (below) compares acquisitions in new and established dwellings by foreign persons against the total number of acquisitions of new dwellings and established dwellings in Australia reported by the ABS Total Value of Dwellings External Link – refer to Data downloads, Table 2 Median price and number of transfers (capital city and rest of state).\nThe comparison uses new dwellings and established dwellings only, because while the ATO collects data on vacant land, the ABS data does not include vacant land. Both datasets record acquisitions at the time of property transfer settlements.\nDescription | 2022–23 | 2023–24 | 2024–25\nNumber of residential dwelling acquisitions in Australia (ABS) | 476,136 | 525,039 | 540,439\nNumber of residential dwelling acquisitions by foreign persons (ATO) | 4,463 | 4,092 | 2,672\nPercentage of residential dwellings acquired by foreign persons | 0.9 | 0.8 | 0.5\nNotes:\n- ABS figures consist of live data that is periodically updated. In this table, the ABS figures were released on 9 September 2025. As such, the quoted figures may differ from those previously published and currently available in the ABS data.\n- In Table 2, the number of residential dwelling acquisitions by foreign persons (ATO) includes acquisitions of residential land which may have been sold, or where the person who holds the property was no longer foreign, at the end of reporting period.\n## Acquisitions by state or territory\nTable 3 shows the number of acquisitions each year over the 3 years from 2022–23 to 2024–25, by state or territory.\nState or territory | 2022–23 | 2023–24 | 2024–25\nACT | 369 | 401 | 221\nNSW | 656 | 985 | 1,008\nNT | 55 | 37 | 5\nQld | 1,121 | 1,099 | 1,170\nSA | 459 | 628 | 339\nTas | 138 | 103 | 36\nVic | 2,240 | 2,606 | 1,505\nWA | 322 | 406 | 339\nTotal | 5,360 | 6,265 | 4,623\n## Acquisitions by property type and value\nTable 4 shows the state or territory breakdown of foreign residential land acquisitions by property type and consideration value in the 2024–25 period.\nState or territory | Vacant land (no.) | Vacant land value ($m) | New dwellings (no.) | New dwellings value ($m) | Established dwellings (no.) | Established dwelling value ($m)\nACT | 22 | 13.2 | 103 | 63.3 | 96 | 78.0\nNSW | 427 | 244.7 | 418 | 594.3 | 163 | 569.6\nNT | 1 | 0.3 | 0 | 0 | 4 | 2.4\nQld | 420 | 224.7 | 446 | 390.2 | 304 | 160.3\nSA | 165 | 58.9 | 69 | 53.5 | 105 | 92.0\nTas | 14 | 4.1 | 5 | 3.3 | 17 | 9.8\nVic | 756 | 302.7 | 480 | 532.1 | 269 | 440.7\nWA | 146 | 57.2 | 134 | 110.9 | 59 | 57.3\nTotal | 1,951 | 905.8 | 1,655 | 1,747.5 | 1,017 | 1,410.0\nNote:\n- Value totals may differ from the sum of components due to rounding.\n## Acquisitions by state and property value range\nTable 5 shows foreign residential land acquisitions in the 2024–2025 year by consideration value at the time of acquisition in the range of less than or equal to $1 million or greater than $1 million.\nOf the 4,623 residential land acquisitions, 81.7% were valued at less than or equal to $1 million.\nState or territory | Property <=$1m (no.) | Property value <=$1m ($m) | Property >$1m (no.) | Property value >$1m ($m) | Total (no.) | Total property value ($m)\nACT | 212 | 140.8 | 9 | 13.6 | 221 | 154.5\nNSW | 668 | 383.9 | 340 | 1,024.7 | 1,008 | 1,408.6\nNT | 5 | 2.6 | 0 | 0 | 5 | 2.6\nQld | 999 | 506.2 | 171 | 269.0 | 1,170 | 775.2\nSA | 305 | 152.4 | 34 | 52.1 | 339 | 204.4\nTas | 35 | 16.0 | 1 | 1.2 | 36 | 17.2\nVic | 1,261 | 633.0 | 244 | 642.5 | 1,505 | 1,275.4\nWA | 293 | 146.4 | 46 | 79.0 | 339 | 225.4\nTotal | 3,778 | 1,981.2 | 845 | 2,082.0 | 4,623 | 4,063.3\n## Top 20 sources of acquisitions\nTable 6 shows the top 20 source countries of foreign residential land acquisitions between 1 July 2024 and 30 June 2025.\nCountry | Registered interests (no.) | Property value ($m)\nJapan | 1,088 | 531.7\nPeople's Republic of China | 1,086 | 1,019.1\nSingapore | 459 | 279.1\nHong Kong, SAR | 319 | 285.9\nIndia | 274 | 103.1\nVietnam | 251 | 190.6\nTaiwan | 207 | 196.0\nNepal | 157 | 68.3\nMalaysia | 134 | 93.9\nBermuda | 132 | 81.7\nIndonesia | 124 | 112.2\nUnited Kingdom | 119 | 100.2\nCanada | 89 | 38.0\nSri Lanka | 79 | 33.8\nUnited States of America | 73 | 69.5\nKorea, (Republic of South Korea) | 37 | 34.5\nMongolia | 34 | 23.0\nUnited Arab Emirates | 31 | 77.7\nSouth Africa | 29 | 17.6\nNetherlands | 27 | 36.7\nBetween 1 July 2024 and 30 June 2025, foreign persons from a total of 85 countries, excluding Australia, acquired interests in residential land.\nNotes:\nThere are limitations to using the top sources of foreign investment data to determine the ultimate sources of investment into Australia:\n- The source country is obtained from the registrant at the time of registration and maintained by the foreign person.\n- Where there are multiple owners of one residential property from different countries, a proportion of ownership is attributed to each country. As a result, a property may be counted multiple times in some instances.\n- Where the registered owner is a company or trust, the nationality of the person (or persons) who appear to control the entity is used to attribute the source country, rather than the country of incorporation. Where the person who controls the entity is identified as an Australian citizen who is not ordinarily resident in Australia (and hence a foreign person), the source country is attributed to the country in which they are ordinarily resident.\n- Where shares or interests are widely held for companies or trusts, depending on information available the interest in the asset is attributed to a source country based on the location of: the directors the fund manager, or the country where the entity (or trustee) is headquartered or publicly listed. The source country statistical data may therefore include the presence of jurisdictions used by investment funds and their managers.\n- The country of control is assessed using data resources within: the ATO, and agencies such as the Department of Home Affairs and the Australian Securities & Investments Commission (ASIC).\n## Part 2: Registered interests – 1 July 2016 to 30 June 2025\nForeign persons are required to maintain their registration on the Register, including:\n- notifying of a disposal, or\n- changed circumstances, such as the owner ceasing to be a foreign person under the FATA.\nAt 30 June 2025, 40,460 residential land interests were held by foreign persons on the Register. This figure is derived by aggregating all residential land acquisitions within the 1 July 2016 to 30 June 2025 timeframe, minus those:\n- which have been disposed by a foreign person, or\n- where the person who holds the property has ceased to be a foreign person under the FATA.\nTables 7, 8 and 9 show residential land acquired by foreign persons between 1 July 2016 to 30 June 2025 which was still held by foreign persons at 30 June 2025.\n## Registered interests by property type\nState or territory | New dwelling (no.) | Vacant land (no.) | Established dwelling (no.) | Total\nACT | 797 | 64 | 530 | 1,391\nNSW | 6,733 | 1,192 | 1,273 | 9,198\nNT | 10 | 12 | 143 | 165\nQld | 4,450 | 2,339 | 1,676 | 8,465\nSA | 676 | 527 | 879 | 2,082\nTas | 64 | 127 | 302 | 493\nVic | 9,921 | 4,210 | 2,272 | 16,403\nWA | 803 | 660 | 800 | 2,263\nTotal | 23,454 | 9,131 | 7,875 | 40,460\n## Registered interests by state and property value range\nTable 8 provides the count of residential land holdings in the period from 1 July 2016 to 30 June 2025:\n- by consideration value at the time of acquisition\n- segmented in values of less than or equal to $1 million and greater than $1 million.\nProperties with values of less than or equal to $1 million represent 80.2% of all registrations.\nState or territory | Property <=$1m (no.) | Property >$1m (no.) | Total\nACT | 1,336 | 55 | 1,391\nNSW | 5,489 | 3,709 | 9,198\nNT | 161 | 4 | 165\nQld | 7,521 | 944 | 8,465\nSA | 1,905 | 177 | 2,082\nTas | 485 | 8 | 493\nVic | 13,529 | 2,874 | 16,403\nWA | 2,022 | 241 | 2,263\nTotal | 32,448 | 8,012 | 40,460\n## Top 20 sources of foreign investment\nTable 9 shows the top 20 source countries of registered interests in residential land.\nCountry | Registered interests (no.)\nPeople's Republic of China | 22,272\nHong Kong, SAR | 3,396\nSingapore | 1,978\nMalaysia | 1,795\nJapan | 1,711\nVietnam | 1,658\nIndia | 1,235\nIndonesia | 1,133\nUnited Kingdom | 1,070\nTaiwan | 979\nNepal | 700\nUnited States of America | 484\nCanada | 367\nSri Lanka | 325\nKorea, (Republic of South Korea) | 245\nSouth Africa | 215\nFrance | 176\nCambodia | 164\nGermany | 153\nBermuda | 143\nAt 30 June 2025, foreign persons from a total of 132 countries, excluding Australia, held registered interests in residential land.\nNotes:\nThere are limitations to using the top sources of foreign investment data to determine the ultimate sources of investment into Australia:\n- The source country is obtained from the registrant at the time of registration and maintained by the foreign person.\n- Where there are multiple owners of one residential property from different countries, a proportion of ownership is attributed to each country. As a result, a property may be counted multiple times in some instances.\n- Where the registered owner is a company or trust, the nationality of the person (or persons) who appear to control the entity is used to attribute the source country, rather than the country of incorporation. Where the person who controls the entity is identified as an Australian citizen who is not ordinarily resident in Australia (and hence a foreign person), the source country is attributed to the country in which they are ordinarily resident.\n- Where shares or interests are widely held for companies or trusts, depending on information available the interest in the asset is attributed to a source country based on the location of: the directors the fund manager, or the country where the entity (or trustee) is headquartered or publicly listed. The source country statistical data may therefore include the presence of jurisdictions used by investment funds and their managers.\n- The country of control is assessed using data resources within: the ATO, and agencies such as the Department of Home Affairs and the Australian Securities & Investments Commission (ASIC).",
+  "child_links": [],
+  "word_count": 3155,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

@@ -1,0 +1,628 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2024/tax-return/medicare-levy-questions-m1-m2/m1-medicare-levy-reduction-or-exemption-2024",
+  "title": "M1 Medicare levy reduction or exemption 2024",
+  "description": "Complete question M1 to work out whether you qualify for a Medicare levy reduction or exemption.",
+  "nat_number": "",
+  "quick_code": "101444",
+  "date_updated": "2024-05-29T04:26:00Z",
+  "first_published": true,
+  "keywords": "Medicare levy question, Individual tax return instructions, medicare levy reduction, exemption, 2024, Individual tax return instructions, tax pack, paper form, paper return, paper lodgement, M1",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things you need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Australian residents for tax purposes are subject to a Medicare levy of 2% of their taxable income unless they qualify for a reduction or exemption."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were not an Australian resident for tax purposes for the whole of 2023–24, you may be exempt from the Medicare levy. For more information, see Your tax residency ."
+    },
+    {
+      "type": "paragraph",
+      "text": "A Medicare levy reduction is based on your taxable income. A Medicare levy exemption is based on specific categories. You need to consider your eligibility for a reduction or an exemption separately."
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete Part A to work out if you can claim the Medicare levy reduction. If you are not eligible for a reduction, complete Part B to work out if you can claim a Medicare levy exemption."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you would like to work out the amount of Medicare levy you have to pay, you can use our Medicare levy calculator ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part A – Medicare levy reduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your eligibility for a Medicare levy reduction is based on your and your spouse's taxable income and your circumstances."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Category",
+          "Lower threshold",
+          "Upper threshold"
+        ],
+        [
+          "If you were entitled to the seniors and pensioners tax offset (see T1 Seniors and pensioners tax offset 2024 )",
+          "$41,089",
+          "$51,361 (see note )"
+        ],
+        [
+          "All other taxpayers",
+          "$26,000",
+          "$32,500"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: The entitlement to the seniors and pensioners tax offsets ceases when rebate income reaches $50,199."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a spouse, you may not get the seniors and pensioners tax offset even if you meet all the eligibility conditions as the amount of the tax offset is based on your individual rebate income, not your combined rebate income. If you don't get the offset, merely being eligible for it will not entitle you to a Medicare levy reduction."
+    },
+    {
+      "type": "paragraph",
+      "text": "For this question, your taxable income excludes the taxed element of certain superannuation lump sums you received during 2023–24 if you had reached your preservation age and were under 60 years old."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Reduced taxable income to take account of certain superannuation lump sums"
+    },
+    {
+      "type": "paragraph",
+      "text": "For Medicare levy purposes, your taxable income excludes the taxed element of a superannuation lump sum (other than of a death benefits superannuation lump sum):"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "that you received when you had reached your preservation age and were under 60 years old",
+        "up to your low-rate cap for 2023–24, which is $235,000. If you received superannuation lump sums in previous years, your low-rate cap for 2023–24 could be less than $235,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on the low-rate cap amount for taxable components of superannuation lump sum payments, see Special circumstances 2024 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: Medicare levy and superannuation lump sums"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bill received superannuation lump sums of $100,000 in 2022–23 and $140,000 in 2023–24 both of which consisted entirely of a taxed element. He was aged over his preservation age and below 60 years old when he received both payments. His low-rate cap is now only $135,000, which is $235,000 less the $100,000 he received in 2022–23. Bill subtracts the $135,000 of his low-rate cap from his 2023–24 taxable income."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bill's 2023–24 taxable income for Medicare levy purposes includes $5,000, being the amount by which the superannuation lump sum he received exceeded his low-rate cap (that is, $140,000 less $135,000)."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Your circumstance",
+          "What to do"
+        ],
+        [
+          "Your taxable income is equal to or less than your lower threshold amount. See Table 1 .",
+          "You don't have to pay the Medicare levy. Don't write anything at question M1 in your tax return. Go to Where to go next ."
+        ],
+        [
+          "Your taxable income is greater than your lower threshold amount and less than or equal to your upper threshold amount. See Table 1 .",
+          "You pay only part of the Medicare levy. We will work it out. Go to Part B if you are single with no dependants to see if you qualify for an exemption."
+        ],
+        [
+          "Your taxable income is over your upper threshold amount, and you are single with no dependants. See Table 1 .",
+          "You don't qualify for a reduction. Go to Part B to see if you qualify for an exemption."
+        ],
+        [
+          "Your taxable income is greater than your lower threshold amount but you: had a spouse, or had a spouse who died during 2023–24, and you did not have another spouse in 2023–24, or were entitled to an Invalid and Invalid Carer tax offset in respect of your child at question T5 , or at any time during 2023–24, had sole care of one or more dependent children or students. See Table 1 .",
+          "You may be eligible for a Medicare levy reduction based on family taxable income: first work out your family taxable income using Worksheet 1 then use Worksheet 2 to work out your family taxable income limit ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Definition of sole care"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sole care means that you alone had full responsibility, on a day-to-day basis, for the upbringing, welfare and maintenance of a child or student. You are not considered to have sole care if you are living with a spouse (married or de facto) unless special circumstances exist. Generally, for special circumstances to exist, you must be financially responsible for the dependent child or student and have sole care without the support that a spouse normally provides."
+    },
+    {
+      "type": "paragraph",
+      "text": "Situations where special circumstances may arise include the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You were married at any time during 2023–24 but during 2023–24, you then separated from, or were deserted by, your spouse, and for the remainder of 2023–24, you were not in a de facto relationship.",
+        "Your spouse was in prison for a sentence of 12 months or more.",
+        "Your spouse is medically certified as being permanently mentally incapable of taking part in caring for the child or student."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are not sure whether special circumstances apply, contact us ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Working out your number of dependent children"
+    },
+    {
+      "type": "paragraph",
+      "text": "A dependent child is any child who was an Australian resident whom you maintained in 2023–24 and whose adjusted taxable income (see Adjusted taxable income for you and your dependants 2024 ) was less than the amounts in the table below."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Category of dependent child",
+          "ATI if not maintained for the whole year",
+          "ATI if maintained for the whole year"
+        ],
+        [
+          "Any child under 21 years old you maintained who was not a full-time student",
+          "For the first child: $282 plus $28.92 for each week you maintained them For each additional child: $282 plus $21.70 for each week you maintained them",
+          "For the first child: $1,786 For each additional child: $1,410"
+        ],
+        [
+          "Any full-time student aged under 25 years old at a school, college or university",
+          "$282 plus $28.92 for each week you maintained them",
+          "$1,786"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a spouse on 30 June 2024, or your spouse died during 2023–24 and you did not have another spouse on or before 30 June 2024, count all your dependent children."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were single or separated on 30 June 2024, count only the number of dependent children for whom you received the family tax benefit (FTB) during all or part of 2023–24. Count them even if you received only the rental assistance component of FTB Part A and you shared the care of the dependent child."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the number of dependent children you had during 2023–24 at Worksheet 2 – row i ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Family taxable income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Family taxable income is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the combined taxable incomes of you and your spouse (including a spouse who died during 2023–24), or",
+        "your taxable income if you were a sole parent."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "Your taxable income from Taxable income or loss .",
+          "$"
+        ],
+        [
+          "b",
+          "Any relevant amounts of superannuation lump sums that you received (see Reduced taxable income to take account of certain superannuation lump sums ).",
+          "$"
+        ],
+        [
+          "c",
+          "Take row b away from row a . If the amount is less than $0, write $0.",
+          "$"
+        ],
+        [
+          "d",
+          "Your spouse's taxable income from Taxable income or loss in their tax return (if applicable).",
+          "$"
+        ],
+        [
+          "e",
+          "Any relevant amounts of superannuation lump sums that your spouse received (see Reduced taxable income to take account of certain superannuation lump sums ).",
+          "$"
+        ],
+        [
+          "f",
+          "Take row e away from row d . If the amount is less than $0, write $0.",
+          "$"
+        ],
+        [
+          "g",
+          "Add rows c and row f . This is your family taxable income.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Working out your family taxable income limit"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your Medicare levy is reduced if your family taxable income is equal to or less than the following limits."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "h",
+          "If you were entitled to the seniors and pensioners tax offset, enter $71,497. For all other taxpayers, enter $54,807.",
+          "$"
+        ],
+        [
+          "i",
+          "Number of dependent children (if applicable, see note ).",
+          "Children"
+        ],
+        [
+          "j",
+          "Multiply row I by $5,034 (see note ).",
+          "$"
+        ],
+        [
+          "k",
+          "Family taxable income limit . Add the appropriate amount from row h to the amount at row j .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: If you are a sole parent, you can increase your family taxable income limit for a dependent child only if the family tax benefit is payable to you for that dependent child."
+    },
+    {
+      "type": "paragraph",
+      "text": "Is your family taxable income at Worksheet 1 – row g equal to or less than your family taxable income limit at Worksheet 2 – row k ?"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Yes – You are entitled to a reduction. Go to Step 1 .",
+        "No – You don't qualify for a reduction. Go to Part B to see if you qualify for an exemption."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing your tax return – Medicare levy reduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete this question, follow the steps below."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a spouse on 30 June 2024, or your spouse died during 2023–24 and you did not have another spouse on or before 30 June 2024, write your spouse's taxable income at question Spouse details – married or de facto – label O Spouse's 2023–24 taxable income in your tax return. If your spouse had no taxable income, write 0 (zero)."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the number of your dependent children (from Worksheet 2 – row i ) at question M1 – label Y . If you had none, write 0 (zero)."
+    },
+    {
+      "type": "paragraph",
+      "text": "We work out the reduction for you, based on your spouse details and number of dependent children."
+    },
+    {
+      "type": "paragraph",
+      "text": "Read on to see if a Medicare levy exemption applies to you for all or part of 2023–24."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part B – Medicare levy exemption"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may qualify for a Medicare levy exemption if you were in any of the following 3 exemption categories at any time in 2023–24. These categories are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "medical",
+        "foreign resident",
+        "not entitled to Medicare benefits."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't fit into one of the exemption categories, leave question M1 – labels V and W blank and go to Where to go next ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the Medicare levy exemption (but not the reduction), dependant means an Australian resident you maintained who was any of the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your spouse",
+        "your child under 21 years old",
+        "your child, 21 to 24 years old, who was receiving full-time education at a school, college or university and whose adjusted taxable income (ATI), for the period you maintained the child was less than the total of $282 plus $28.92 for each week you maintained them."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For the meaning of maintaining a dependant and ATI, see Adjusted taxable income for you and your dependants 2024 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the parents of a child lived separately and apart for all or part of 2023–24 and the child was a dependant of each of them, the child is treated as an equal dependant of each parent (irrespective of the number of days the child was in each parent's care). However, where a parent received FTB Part A for the child, even if receiving only the rental assistance component, the child was a dependant of that parent for the number of days the child was in their care."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Category 1: Medical"
+    },
+    {
+      "type": "paragraph",
+      "text": "You are in this exemption category and can claim a full or half exemption if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "one of the following applied during all or part of 2023–24 you were a blind pensioner you were entitled to full free medical treatment for all conditions under defence force arrangements or Veterans' Affairs Repatriation Health Card (Gold Card).",
+        "During the period you met that condition, you also met one of the following conditions."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Additional condition met",
+          "Exemption that applies"
+        ],
+        [
+          "You had no dependants.",
+          "Full"
+        ],
+        [
+          "Each of your dependants (including your spouse if you had one) either: was in one of the exemption categories, or had to pay the Medicare levy.",
+          "Full"
+        ],
+        [
+          "You had dependent children who were not in an exemption category but who were also dependants of your spouse, and your spouse either: had to pay the Medicare levy, or met at least one of the Category 1: Medical conditions and you have completed a family agreement stating that your spouse will pay the half levy for your joint dependants.",
+          "Full"
+        ],
+        [
+          "You had at least one dependant (for example, a spouse) who: was not in an exemption category, and did not have to pay the Medicare levy (for example, because their taxable income was below the lower Medicare levy threshold), see Table 1 .",
+          "Half"
+        ],
+        [
+          "You were single or separated and you: had a dependent child who was not in a Medicare levy exemption category, and were entitled to FTB Part A or the rental assistance component of FTB Part A for that child, and were in a shared-care arrangement. Then exemption from the Medicare levy is on the following basis: for the days that you had care of your dependent child.",
+          "Half"
+        ],
+        [
+          "You were single or separated and you: had a dependent child who was not in a Medicare levy exemption category, and were entitled to FTB Part A or the rental assistance component of FTB Part A for that child, and were in a shared-care arrangement. Then exemption from the Medicare levy is on the following basis: for the days that you did not have care of your dependent child.",
+          "Full"
+        ],
+        [
+          "You had a spouse who met at least one of the Category 1: Medical conditions and you had a dependent child who: was not in an exemption category, and was dependent on both of you. In this case, either you or your spouse can claim a full exemption and the other can claim a half exemption by completing a family agreement (see below).",
+          "Full or Half"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were in this exemption category, go to Step 1 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Family agreements"
+    },
+    {
+      "type": "paragraph",
+      "text": "A family agreement is a written agreement signed by you and your spouse. You complete a family agreement only if both you and your spouse would have to pay the Medicare levy were it not for your exemption category status. You don't need to send this agreement to us. Keep it with your records. The agreement must contain:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the statement: 'We agree that the Medicare levy exemption in respect of our dependants for 2023–24 will be claimed as follows'",
+        "name of person claiming the full exemption",
+        "name of person claiming the half exemption",
+        "your signature",
+        "your spouse's signature."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The agreement must be signed before the date of the person claiming the full exemption lodges their tax return, unless the Commissioner allows further time."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Category 2: Foreign resident"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were a foreign resident for tax purposes for the whole of 2023–24, you can claim a full exemption (366 days)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were a foreign resident for only a period in 2023–24, you can claim a full exemption for that period if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you did not have any dependants for that period, or",
+        "all your dependants were in an exemption category for that period."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were in this exemption category, go to Step 1 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Category 3: Not entitled to Medicare benefits"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim a full exemption for any period for which you have a Medicare entitlement statement from Services Australia showing you were not entitled to Medicare benefits because you were a temporary resident for Medicare purposes, and either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you did not have any dependants for that period, or",
+        "all your dependants were in an exemption category for that period."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To claim an exemption, you must first submit a Medicare Entitlement Statement to Medicare and receive a certification letter from them saying that you were not entitled to Medicare benefits for a particular period. You can then claim the exemption for the period that Medicare has advised."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to submit a Medicare entitlement statement to Medicare each year you want to claim an exemption."
+    },
+    {
+      "type": "paragraph",
+      "text": "You also qualify for a full exemption under this category if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were a member of a diplomatic mission or consular post in Australia (or a member of such a person's family and you were living with them)",
+        "you were not an Australian citizen",
+        "you don't ordinarily live in Australia, and either you did not have any dependants for that period, or all your dependants were in an exemption category for that period."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were in this exemption category, go to Step 1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were not in any of the above exemption categories leave question M1 – labels V and W blank. You have finished this question, go to Where to go next ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing your tax return – Medicare levy exemption"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the information in the categories above to work out whether you qualify for a full exemption or a half exemption and to determine how many dependent children you had during the year."
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete this question, follow the steps below."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work out the number of days for which you can claim a full exemption and the number of days for which you can claim a half exemption."
+    },
+    {
+      "type": "paragraph",
+      "text": "The maximum total number of days you can claim is 366. If you have overlapping qualifying periods, count the days in those overlapping periods only once. If a full exemption period overlaps a part exemption period, count the overlapping days as a full exemption period."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the number of days you were covered for a full exemption at question M1 – label V ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the number of days you were covered for a half exemption at question M1 – label W ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were a temporary resident for Medicare purposes and have a Medicare Entitlement Statement from Services Australia covering a period in 2023–24 (see Category 3 ), then print C in the CLAIM TYPE box. If you don't fall within this category, leave the CLAIM TYPE box blank."
+    },
+    {
+      "type": "paragraph",
+      "text": "We will work out your exemption entitlement."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a spouse at any time in 2023–24, you must complete question Spouse details – married or de facto in your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question M2 Medicare levy surcharge 2024 .",
+        "Return to main menu Individual tax return instructions 2024 .",
+        "Go back to Total tax offsets 2024 ."
+      ]
+    }
+  ],
+  "content_text": "## Things you need to know\nAustralian residents for tax purposes are subject to a Medicare levy of 2% of their taxable income unless they qualify for a reduction or exemption.\nIf you were not an Australian resident for tax purposes for the whole of 2023–24, you may be exempt from the Medicare levy. For more information, see Your tax residency .\nA Medicare levy reduction is based on your taxable income. A Medicare levy exemption is based on specific categories. You need to consider your eligibility for a reduction or an exemption separately.\nComplete Part A to work out if you can claim the Medicare levy reduction. If you are not eligible for a reduction, complete Part B to work out if you can claim a Medicare levy exemption.\nIf you would like to work out the amount of Medicare levy you have to pay, you can use our Medicare levy calculator .\n## Part A – Medicare levy reduction\nYour eligibility for a Medicare levy reduction is based on your and your spouse's taxable income and your circumstances.\nCategory | Lower threshold | Upper threshold\nIf you were entitled to the seniors and pensioners tax offset (see T1 Seniors and pensioners tax offset 2024 ) | $41,089 | $51,361 (see note )\nAll other taxpayers | $26,000 | $32,500\nNote: The entitlement to the seniors and pensioners tax offsets ceases when rebate income reaches $50,199.\nIf you have a spouse, you may not get the seniors and pensioners tax offset even if you meet all the eligibility conditions as the amount of the tax offset is based on your individual rebate income, not your combined rebate income. If you don't get the offset, merely being eligible for it will not entitle you to a Medicare levy reduction.\nFor this question, your taxable income excludes the taxed element of certain superannuation lump sums you received during 2023–24 if you had reached your preservation age and were under 60 years old.\n### Reduced taxable income to take account of certain superannuation lump sums\nFor Medicare levy purposes, your taxable income excludes the taxed element of a superannuation lump sum (other than of a death benefits superannuation lump sum):\n- that you received when you had reached your preservation age and were under 60 years old\n- up to your low-rate cap for 2023–24, which is $235,000. If you received superannuation lump sums in previous years, your low-rate cap for 2023–24 could be less than $235,000.\nFor more information on the low-rate cap amount for taxable components of superannuation lump sum payments, see Special circumstances 2024 .\n#### Example: Medicare levy and superannuation lump sums\nBill received superannuation lump sums of $100,000 in 2022–23 and $140,000 in 2023–24 both of which consisted entirely of a taxed element. He was aged over his preservation age and below 60 years old when he received both payments. His low-rate cap is now only $135,000, which is $235,000 less the $100,000 he received in 2022–23. Bill subtracts the $135,000 of his low-rate cap from his 2023–24 taxable income.\nBill's 2023–24 taxable income for Medicare levy purposes includes $5,000, being the amount by which the superannuation lump sum he received exceeded his low-rate cap (that is, $140,000 less $135,000).\nYour circumstance | What to do\nYour taxable income is equal to or less than your lower threshold amount. See Table 1 . | You don't have to pay the Medicare levy. Don't write anything at question M1 in your tax return. Go to Where to go next .\nYour taxable income is greater than your lower threshold amount and less than or equal to your upper threshold amount. See Table 1 . | You pay only part of the Medicare levy. We will work it out. Go to Part B if you are single with no dependants to see if you qualify for an exemption.\nYour taxable income is over your upper threshold amount, and you are single with no dependants. See Table 1 . | You don't qualify for a reduction. Go to Part B to see if you qualify for an exemption.\nYour taxable income is greater than your lower threshold amount but you: had a spouse, or had a spouse who died during 2023–24, and you did not have another spouse in 2023–24, or were entitled to an Invalid and Invalid Carer tax offset in respect of your child at question T5 , or at any time during 2023–24, had sole care of one or more dependent children or students. See Table 1 . | You may be eligible for a Medicare levy reduction based on family taxable income: first work out your family taxable income using Worksheet 1 then use Worksheet 2 to work out your family taxable income limit .\n### Definition of sole care\nSole care means that you alone had full responsibility, on a day-to-day basis, for the upbringing, welfare and maintenance of a child or student. You are not considered to have sole care if you are living with a spouse (married or de facto) unless special circumstances exist. Generally, for special circumstances to exist, you must be financially responsible for the dependent child or student and have sole care without the support that a spouse normally provides.\nSituations where special circumstances may arise include the following:\n- You were married at any time during 2023–24 but during 2023–24, you then separated from, or were deserted by, your spouse, and for the remainder of 2023–24, you were not in a de facto relationship.\n- Your spouse was in prison for a sentence of 12 months or more.\n- Your spouse is medically certified as being permanently mentally incapable of taking part in caring for the child or student.\nIf you are not sure whether special circumstances apply, contact us .\n### Working out your number of dependent children\nA dependent child is any child who was an Australian resident whom you maintained in 2023–24 and whose adjusted taxable income (see Adjusted taxable income for you and your dependants 2024 ) was less than the amounts in the table below.\nCategory of dependent child | ATI if not maintained for the whole year | ATI if maintained for the whole year\nAny child under 21 years old you maintained who was not a full-time student | For the first child: $282 plus $28.92 for each week you maintained them For each additional child: $282 plus $21.70 for each week you maintained them | For the first child: $1,786 For each additional child: $1,410\nAny full-time student aged under 25 years old at a school, college or university | $282 plus $28.92 for each week you maintained them | $1,786\nIf you had a spouse on 30 June 2024, or your spouse died during 2023–24 and you did not have another spouse on or before 30 June 2024, count all your dependent children.\nIf you were single or separated on 30 June 2024, count only the number of dependent children for whom you received the family tax benefit (FTB) during all or part of 2023–24. Count them even if you received only the rental assistance component of FTB Part A and you shared the care of the dependent child.\nWrite the number of dependent children you had during 2023–24 at Worksheet 2 – row i .\n### Family taxable income\nFamily taxable income is:\n- the combined taxable incomes of you and your spouse (including a spouse who died during 2023–24), or\n- your taxable income if you were a sole parent.\nRow | Calculation | Amount\na | Your taxable income from Taxable income or loss . | $\nb | Any relevant amounts of superannuation lump sums that you received (see Reduced taxable income to take account of certain superannuation lump sums ). | $\nc | Take row b away from row a . If the amount is less than $0, write $0. | $\nd | Your spouse's taxable income from Taxable income or loss in their tax return (if applicable). | $\ne | Any relevant amounts of superannuation lump sums that your spouse received (see Reduced taxable income to take account of certain superannuation lump sums ). | $\nf | Take row e away from row d . If the amount is less than $0, write $0. | $\ng | Add rows c and row f . This is your family taxable income. | $\n### Working out your family taxable income limit\nYour Medicare levy is reduced if your family taxable income is equal to or less than the following limits.\nRow | Calculation | Amount\nh | If you were entitled to the seniors and pensioners tax offset, enter $71,497. For all other taxpayers, enter $54,807. | $\ni | Number of dependent children (if applicable, see note ). | Children\nj | Multiply row I by $5,034 (see note ). | $\nk | Family taxable income limit . Add the appropriate amount from row h to the amount at row j . | $\nNote: If you are a sole parent, you can increase your family taxable income limit for a dependent child only if the family tax benefit is payable to you for that dependent child.\nIs your family taxable income at Worksheet 1 – row g equal to or less than your family taxable income limit at Worksheet 2 – row k ?\n- Yes – You are entitled to a reduction. Go to Step 1 .\n- No – You don't qualify for a reduction. Go to Part B to see if you qualify for an exemption.\n### Completing your tax return – Medicare levy reduction\nTo complete this question, follow the steps below.\n#### Step 1\nIf you had a spouse on 30 June 2024, or your spouse died during 2023–24 and you did not have another spouse on or before 30 June 2024, write your spouse's taxable income at question Spouse details – married or de facto – label O Spouse's 2023–24 taxable income in your tax return. If your spouse had no taxable income, write 0 (zero).\n#### Step 2\nWrite the number of your dependent children (from Worksheet 2 – row i ) at question M1 – label Y . If you had none, write 0 (zero).\nWe work out the reduction for you, based on your spouse details and number of dependent children.\nRead on to see if a Medicare levy exemption applies to you for all or part of 2023–24.\n## Part B – Medicare levy exemption\nYou may qualify for a Medicare levy exemption if you were in any of the following 3 exemption categories at any time in 2023–24. These categories are:\n- medical\n- foreign resident\n- not entitled to Medicare benefits.\nIf you don't fit into one of the exemption categories, leave question M1 – labels V and W blank and go to Where to go next .\nFor the Medicare levy exemption (but not the reduction), dependant means an Australian resident you maintained who was any of the following:\n- your spouse\n- your child under 21 years old\n- your child, 21 to 24 years old, who was receiving full-time education at a school, college or university and whose adjusted taxable income (ATI), for the period you maintained the child was less than the total of $282 plus $28.92 for each week you maintained them.\nFor the meaning of maintaining a dependant and ATI, see Adjusted taxable income for you and your dependants 2024 .\nIf the parents of a child lived separately and apart for all or part of 2023–24 and the child was a dependant of each of them, the child is treated as an equal dependant of each parent (irrespective of the number of days the child was in each parent's care). However, where a parent received FTB Part A for the child, even if receiving only the rental assistance component, the child was a dependant of that parent for the number of days the child was in their care.\n### Category 1: Medical\nYou are in this exemption category and can claim a full or half exemption if:\n- one of the following applied during all or part of 2023–24 you were a blind pensioner you were entitled to full free medical treatment for all conditions under defence force arrangements or Veterans' Affairs Repatriation Health Card (Gold Card).\n- During the period you met that condition, you also met one of the following conditions.\nAdditional condition met | Exemption that applies\nYou had no dependants. | Full\nEach of your dependants (including your spouse if you had one) either: was in one of the exemption categories, or had to pay the Medicare levy. | Full\nYou had dependent children who were not in an exemption category but who were also dependants of your spouse, and your spouse either: had to pay the Medicare levy, or met at least one of the Category 1: Medical conditions and you have completed a family agreement stating that your spouse will pay the half levy for your joint dependants. | Full\nYou had at least one dependant (for example, a spouse) who: was not in an exemption category, and did not have to pay the Medicare levy (for example, because their taxable income was below the lower Medicare levy threshold), see Table 1 . | Half\nYou were single or separated and you: had a dependent child who was not in a Medicare levy exemption category, and were entitled to FTB Part A or the rental assistance component of FTB Part A for that child, and were in a shared-care arrangement. Then exemption from the Medicare levy is on the following basis: for the days that you had care of your dependent child. | Half\nYou were single or separated and you: had a dependent child who was not in a Medicare levy exemption category, and were entitled to FTB Part A or the rental assistance component of FTB Part A for that child, and were in a shared-care arrangement. Then exemption from the Medicare levy is on the following basis: for the days that you did not have care of your dependent child. | Full\nYou had a spouse who met at least one of the Category 1: Medical conditions and you had a dependent child who: was not in an exemption category, and was dependent on both of you. In this case, either you or your spouse can claim a full exemption and the other can claim a half exemption by completing a family agreement (see below). | Full or Half\nIf you were in this exemption category, go to Step 1 .\n#### Family agreements\nA family agreement is a written agreement signed by you and your spouse. You complete a family agreement only if both you and your spouse would have to pay the Medicare levy were it not for your exemption category status. You don't need to send this agreement to us. Keep it with your records. The agreement must contain:\n- the statement: 'We agree that the Medicare levy exemption in respect of our dependants for 2023–24 will be claimed as follows'\n- name of person claiming the full exemption\n- name of person claiming the half exemption\n- your signature\n- your spouse's signature.\nThe agreement must be signed before the date of the person claiming the full exemption lodges their tax return, unless the Commissioner allows further time.\n### Category 2: Foreign resident\nIf you were a foreign resident for tax purposes for the whole of 2023–24, you can claim a full exemption (366 days).\nIf you were a foreign resident for only a period in 2023–24, you can claim a full exemption for that period if:\n- you did not have any dependants for that period, or\n- all your dependants were in an exemption category for that period.\nIf you were in this exemption category, go to Step 1 .\n### Category 3: Not entitled to Medicare benefits\nYou can claim a full exemption for any period for which you have a Medicare entitlement statement from Services Australia showing you were not entitled to Medicare benefits because you were a temporary resident for Medicare purposes, and either:\n- you did not have any dependants for that period, or\n- all your dependants were in an exemption category for that period.\nTo claim an exemption, you must first submit a Medicare Entitlement Statement to Medicare and receive a certification letter from them saying that you were not entitled to Medicare benefits for a particular period. You can then claim the exemption for the period that Medicare has advised.\nYou need to submit a Medicare entitlement statement to Medicare each year you want to claim an exemption.\nYou also qualify for a full exemption under this category if:\n- you were a member of a diplomatic mission or consular post in Australia (or a member of such a person's family and you were living with them)\n- you were not an Australian citizen\n- you don't ordinarily live in Australia, and either you did not have any dependants for that period, or all your dependants were in an exemption category for that period.\nIf you were in this exemption category, go to Step 1 .\nIf you were not in any of the above exemption categories leave question M1 – labels V and W blank. You have finished this question, go to Where to go next .\n### Completing your tax return – Medicare levy exemption\nUse the information in the categories above to work out whether you qualify for a full exemption or a half exemption and to determine how many dependent children you had during the year.\nTo complete this question, follow the steps below.\n#### Step 1\nWork out the number of days for which you can claim a full exemption and the number of days for which you can claim a half exemption.\nThe maximum total number of days you can claim is 366. If you have overlapping qualifying periods, count the days in those overlapping periods only once. If a full exemption period overlaps a part exemption period, count the overlapping days as a full exemption period.\n#### Step 2\nWrite the number of days you were covered for a full exemption at question M1 – label V .\nWrite the number of days you were covered for a half exemption at question M1 – label W .\nIf you were a temporary resident for Medicare purposes and have a Medicare Entitlement Statement from Services Australia covering a period in 2023–24 (see Category 3 ), then print C in the CLAIM TYPE box. If you don't fall within this category, leave the CLAIM TYPE box blank.\nWe will work out your exemption entitlement.\n#### Step 3\nIf you had a spouse at any time in 2023–24, you must complete question Spouse details – married or de facto in your tax return.\n## Where to go next\n- Go to question M2 Medicare levy surcharge 2024 .\n- Return to main menu Individual tax return instructions 2024 .\n- Go back to Total tax offsets 2024 .",
+  "child_links": [],
+  "word_count": 3216,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

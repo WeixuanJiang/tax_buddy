@@ -1,0 +1,723 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/foreign-resident-investments/foreign-investment-in-australia/register-of-foreign-ownership-of-australian-assets/register-of-foreign-ownership-of-australian-assets-reports/register-of-foreign-ownership-of-australian-assets-2024-25-report/commercial-land",
+  "title": "Commercial land",
+  "description": "Data on foreign ownership of commercial land as at 30 June 2025.",
+  "nat_number": "",
+  "quick_code": "106046",
+  "date_updated": "2026-03-04T13:00:00Z",
+  "first_published": "",
+  "keywords": "foreign ownership report, foreign owner, Register of Foreign Ownership of Australian Assets, foreign investment, the Register, the Register report, residential land, water interests, business interests, mining or production tenements and exploration tenements, commercial land, agricultural land",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to interpret this data"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following information outlines foreign ownership of commercial land at 30 June 2025 as taken from the Register of Foreign Ownership of Australian Assets (the Register)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Foreign Acquisitions and Takeovers Act 1975 (FATA) defines foreign persons (which include temporary residents and entities with foreign ownership of 20% or more) and details registration requirements for those who acquire interests in specified Australian assets."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Register is a live dataset of self-registrations of foreign-owned assets. The Register data related to commercial land is not a full stocktake of foreign ownership in Australian commercial land. The Register includes interests in commercial land:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "which were acquired between 1 July 2023 and 30 June 2025, and",
+        "where the interest continued to be held by the foreign person at 30 June 2025."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Information contained in the Register is protected and subject to the provisions of Division 355 of Schedule 1 of the Taxation Administration Act 1953 and Division 3 of Part 7 of the FATA. As such, the complete Register is not made publicly available, and this report presents aggregated information providing a view of all registrations at a point in time. Consistent with Australia’s foreign investment framework, the details of specific registrations or investors are not made publicly available, and information which could identify, or be used to identify, an individual or entity is excluded from this report."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additionally, persons who acquired a legal interest in Australian commercial land and have subsequently become a foreign person after 1 July 2023 may also be required to register."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aggregated data is available on data.gov.au External Link ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Commercial land broadly includes all land in Australia other than:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "land used wholly and exclusively for primary production, or",
+        "residential land."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Commercial land may be vacant or developed, and all acquisitions by foreign persons, regardless of monetary value, are required to be registered."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, the person with the direct legal interest in the land is required to register."
+    },
+    {
+      "type": "paragraph",
+      "text": "Registrable interests include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "freehold interests, and",
+        "leasehold interests that give rights to occupy and are likely to exceed 5 years in length."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "From 1 July 2023, foreign persons who have acquired a legal interest in Australian commercial land must register their interest, unless an exemption applies. Foreign persons must register their commercial land interest within 30 days of either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "purchasing commercial land (settlement),",
+        "becoming a foreign person while holding an interest in commercial land, or",
+        "becoming aware they have an interest in commercial land, which has changed in nature from another type of Australian land."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "There is no national data source to benchmark the percentage of foreign ownership against total Australian commercial land."
+    },
+    {
+      "type": "paragraph",
+      "text": "The statistics on Australian commercial land are presented in each table by reference to either the number of register notices received or the number of discrete commercial land properties to which register notices relate."
+    },
+    {
+      "type": "paragraph",
+      "text": "A commercial land asset may be registered more than once due to the type of interest held by the foreign person, such as where separate foreign persons each have a freehold or leasehold interest."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the tables below, the figures for value represent consideration figures collected at registration. Consideration is a defined term in the FATA, and is either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the amount paid, or",
+        "the reasonable market value of the interest at the time of acquisition."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Care should be taken when comparing this data with Treasury’s annual and quarterly reports on foreign investment. The reports produced by Treasury contain proposed investment information. Not all commercial land acquisitions require foreign investment approval due to monetary thresholds, but are required to be registered."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Total registered interests"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "State or territory",
+          "Vacant land (no.)",
+          "Developed land (no.)",
+          "Registered properties (no.)",
+          "Value ($m)"
+        ],
+        [
+          "ACT",
+          "21",
+          "81",
+          "102",
+          "1,243.0"
+        ],
+        [
+          "NSW",
+          "544",
+          "2,169",
+          "2,713",
+          "33,085.5"
+        ],
+        [
+          "NT",
+          "5",
+          "62",
+          "67",
+          "213.8"
+        ],
+        [
+          "Qld",
+          "162",
+          "1,689",
+          "1,851",
+          "10,100.1"
+        ],
+        [
+          "SA",
+          "45",
+          "484",
+          "529",
+          "1,604.0"
+        ],
+        [
+          "Tas",
+          "3",
+          "120",
+          "123",
+          "133.8"
+        ],
+        [
+          "Vic",
+          "277",
+          "2,365",
+          "2,642",
+          "18,483.6"
+        ],
+        [
+          "WA",
+          "99",
+          "777",
+          "876",
+          "6,618.6"
+        ],
+        [
+          "Total",
+          "1,156",
+          "7,747",
+          "8,903",
+          "71,482.3"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The figures in Table 1 report the number of commercial land properties where a foreign person has a registrable interest. Where multiple foreign persons hold different registrable interests in the same property, including having a freehold interest, leasehold interest, or interest in a sub-lease, the property has been counted only once. This occurs in 114 instances.",
+        "Value total differs from the sum of components due to rounding."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Registered interests by industry sector"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tables 2 and 3 show the number of registered properties broken down by Australian and New Zealand Standard Industrial Classification (ANZSIC) industry division and class respectively."
+    },
+    {
+      "type": "paragraph",
+      "text": "Registrants provide the appropriate ANZSIC details as part of the registration process. ANZSIC is a standard classification developed by the Australian Bureau of Statistics (ABS) for the analysis of industry statistics in Australia and New Zealand. A list of ANZSIC codes is detailed in the Business industry codes fact sheet (PDF, 929KB) This link will download a file ."
+    },
+    {
+      "type": "paragraph",
+      "text": "ANZSIC details are not applied to vacant commercial land as it is not being used for commercial business activities upon registration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2 shows the ANZSIC industry sectors by division for the registered developed properties."
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2: Registered interest in commercial land by industry division"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Industry division category",
+          "ANZSIC division",
+          "Registered properties (no.)",
+          "Value ($m)"
+        ],
+        [
+          "Retail trade",
+          "G",
+          "1,628",
+          "10,062.8"
+        ],
+        [
+          "Information media and telecommunications",
+          "J",
+          "1,082",
+          "8,127.1"
+        ],
+        [
+          "Health care and social assistance",
+          "Q",
+          "792",
+          "2,183.4"
+        ],
+        [
+          "Accommodation and food services",
+          "H",
+          "702",
+          "3,510.9"
+        ],
+        [
+          "Electricity, gas, water and waste services",
+          "D",
+          "674",
+          "505.2"
+        ],
+        [
+          "Wholesale trade",
+          "F",
+          "596",
+          "990.9"
+        ],
+        [
+          "Transport, postal and warehousing",
+          "I",
+          "471",
+          "4,864.8"
+        ],
+        [
+          "Manufacturing",
+          "C",
+          "465",
+          "11,650.3"
+        ],
+        [
+          "Rental, hiring and real estate services",
+          "L",
+          "369",
+          "10,348.3"
+        ],
+        [
+          "Professional, scientific and technical services",
+          "M",
+          "191",
+          "1,081.3"
+        ],
+        [
+          "Construction",
+          "E",
+          "174",
+          "1,358.9"
+        ],
+        [
+          "Mining",
+          "B",
+          "160",
+          "395.9"
+        ],
+        [
+          "Financial and insurance services",
+          "K",
+          "125",
+          "4,532.9"
+        ],
+        [
+          "Administrative and support services",
+          "N",
+          "95",
+          "318.5"
+        ],
+        [
+          "Other services",
+          "S",
+          "72",
+          "832.6"
+        ],
+        [
+          "Arts and recreation services",
+          "R",
+          "59",
+          "241.5"
+        ],
+        [
+          "Education and training",
+          "P",
+          "42",
+          "326.0"
+        ],
+        [
+          "Agriculture, forestry and fishing",
+          "A",
+          "42",
+          "116.2"
+        ],
+        [
+          "Public administration and safety",
+          "O",
+          "8",
+          "126.9"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "ANZSIC divisions are derived from the industry class reported by foreign persons."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Registered interests in commercial land at 30 June 2025 include a total of 235 ANZSIC classes. Table 3 shows the top 20 industry sectors by ANZSIC class and number of registered properties."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Industry class category",
+          "ANZSIC class",
+          "Registered properties (no.)",
+          "Value ($m)"
+        ],
+        [
+          "Supermarket and grocery stores",
+          "4110",
+          "902",
+          "6,664.3"
+        ],
+        [
+          "Other telecommunications network operation",
+          "5802",
+          "794",
+          "433.8"
+        ],
+        [
+          "Electricity distribution",
+          "2630",
+          "439",
+          "112.5"
+        ],
+        [
+          "Accommodation",
+          "4400",
+          "370",
+          "2,553.2"
+        ],
+        [
+          "Other electrical and electronic goods wholesaling",
+          "3494",
+          "255",
+          "100.2"
+        ],
+        [
+          "Other telecommunications services",
+          "5809",
+          "242",
+          "135.2"
+        ],
+        [
+          "Other warehousing and storage services",
+          "5309",
+          "239",
+          "2,483.2"
+        ],
+        [
+          "Non-residential property operators",
+          "6712",
+          "229",
+          "8,280.5"
+        ],
+        [
+          "Optometry and optical dispensing",
+          "8532",
+          "205",
+          "222.7"
+        ],
+        [
+          "Plumbing goods wholesaling",
+          "3332",
+          "185",
+          "25.4"
+        ],
+        [
+          "Plaster product manufacturing",
+          "2032",
+          "182",
+          "1,445.6"
+        ],
+        [
+          "Takeaway food services",
+          "4512",
+          "180",
+          "259.6"
+        ],
+        [
+          "Other electricity generation",
+          "2619",
+          "161",
+          "230.1"
+        ],
+        [
+          "Motor vehicle parts retailing",
+          "3921",
+          "157",
+          "240.9"
+        ],
+        [
+          "Physiotherapy services",
+          "8533",
+          "127",
+          "184.9"
+        ],
+        [
+          "Coal mining",
+          "600",
+          "122",
+          "54.6"
+        ],
+        [
+          "Car retailing",
+          "3911",
+          "118",
+          "955.4"
+        ],
+        [
+          "House construction",
+          "3011",
+          "114",
+          "903.4"
+        ],
+        [
+          "Clothing retailing",
+          "4251",
+          "107",
+          "774.5"
+        ],
+        [
+          "Pathology and diagnostic imaging services",
+          "8520",
+          "102",
+          "326.0"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The figures in Table 3 report the number of commercial land properties where a foreign person has a registrable interest. Where multiple foreign persons hold different registrable interests in the same property, including having a freehold interest, leasehold interest, or interest in a sub-lease, the property has been counted once."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Registered interests in freehold and leasehold interests"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 4 shows the breakdown of registrations in commercial land into freehold and leasehold, by state and territory. At 30 June 2025, there were 9,017 registered freehold and leasehold interests in commercial land on the Register."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "State or territory",
+          "Freehold (no.)",
+          "Leasehold (no.)",
+          "Total"
+        ],
+        [
+          "ACT",
+          "8",
+          "94",
+          "102"
+        ],
+        [
+          "NSW",
+          "948",
+          "1,784",
+          "2,732"
+        ],
+        [
+          "NT",
+          "6",
+          "61",
+          "67"
+        ],
+        [
+          "Qld",
+          "423",
+          "1,480",
+          "1,903"
+        ],
+        [
+          "SA",
+          "66",
+          "467",
+          "533"
+        ],
+        [
+          "Tas",
+          "16",
+          "107",
+          "123"
+        ],
+        [
+          "Vic",
+          "474",
+          "2,200",
+          "2,674"
+        ],
+        [
+          "WA",
+          "121",
+          "762",
+          "883"
+        ],
+        [
+          "Total",
+          "2,062",
+          "6,955",
+          "9,017"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The figures in Table 4 are based on the number of registrable interests rather than the number of properties. As such, multiple interests in the same property held at the same time, such as where one foreign person holds a freehold interest, and another a leasehold interest, or sub-lease interest, are each counted. As a result, the total registered leasehold and freehold interests in this table (9,017) is greater than the total interests held by foreign persons as illustrated in Table 1 (8,903)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Foreign and Australian share of registered interests"
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 1 shows the percentage of the foreign share and the Australian share of registrations of interests in commercial properties."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the Register records foreign person entities that have a foreign ownership share of 20% or more, there may be more than one nationality and some level of Australian ownership in the same property."
+    },
+    {
+      "type": "paragraph",
+      "text": "At 30 June 2025, 15% of registered interests in Australian commercial land was indirectly held by Australian investors who have shares in entities considered foreign persons."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Top 10 sources of foreign investment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 5 shows the top 10 source countries of registered interests in commercial land."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Country",
+          "Registered interests (no.)",
+          "Value ($m)"
+        ],
+        [
+          "United States of America",
+          "2,009",
+          "21,767.6"
+        ],
+        [
+          "Singapore",
+          "1,437",
+          "8,595.6"
+        ],
+        [
+          "Canada",
+          "962",
+          "4,074.2"
+        ],
+        [
+          "United Kingdom",
+          "558",
+          "2,976.4"
+        ],
+        [
+          "Japan",
+          "449",
+          "12,393.9"
+        ],
+        [
+          "France",
+          "342",
+          "1,985.7"
+        ],
+        [
+          "Thailand",
+          "313",
+          "525.1"
+        ],
+        [
+          "Netherlands",
+          "303",
+          "1,786.5"
+        ],
+        [
+          "Cayman Islands",
+          "276",
+          "880.9"
+        ],
+        [
+          "People's Republic of China",
+          "276",
+          "479.2"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At 30 June 2025, foreign persons from a total of 56 countries, excluding Australia, held registered interests in commercial land."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are limitations to using the top sources of foreign investment data to determine the ultimate sources of investment into Australia:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The source country is obtained from the registrant at the time of registration and maintained by the foreign person.",
+        "An interest may be held by a foreign person which has more than one shareholder, from more than one country.",
+        "Where there are multiple owners of one commercial property from different countries, the property value is proportionally allocated to each country based on the ownership percentage of each owner. As a result, a property may be counted multiple times in some instances.",
+        "Where the registered owner is a company or trust, the nationality of the person (or persons) who appear to control the entity is used to attribute the source country, rather than the country of incorporation. Where the person who controls the entity is identified as an Australian citizen who is not ordinarily resident in Australia (and hence a foreign person), the source country is attributed to the country in which they are ordinarily resident.",
+        "Where shares or interests are widely held for companies or trusts, depending on information available the interest in the asset is attributed to a source country based on the location of the directors the fund manager, or the country where the entity (or trustee) is headquartered or publicly listed. The source country statistical data may therefore include the presence of jurisdictions used by investment funds and their managers.",
+        "The country of control is assessed using data resources within the ATO, and agencies such as the Department of Home Affairs and the Australian Securities & Investments Commission (ASIC).",
+        "Where there are multiple interest holders from different countries in the same asset, the value is allocated in accordance with the percentage interest each country holds in the asset, or the entity that holds the interest in the asset."
+      ]
+    }
+  ],
+  "content_text": "## How to interpret this data\nThe following information outlines foreign ownership of commercial land at 30 June 2025 as taken from the Register of Foreign Ownership of Australian Assets (the Register).\nThe Foreign Acquisitions and Takeovers Act 1975 (FATA) defines foreign persons (which include temporary residents and entities with foreign ownership of 20% or more) and details registration requirements for those who acquire interests in specified Australian assets.\nThe Register is a live dataset of self-registrations of foreign-owned assets. The Register data related to commercial land is not a full stocktake of foreign ownership in Australian commercial land. The Register includes interests in commercial land:\n- which were acquired between 1 July 2023 and 30 June 2025, and\n- where the interest continued to be held by the foreign person at 30 June 2025.\nInformation contained in the Register is protected and subject to the provisions of Division 355 of Schedule 1 of the Taxation Administration Act 1953 and Division 3 of Part 7 of the FATA. As such, the complete Register is not made publicly available, and this report presents aggregated information providing a view of all registrations at a point in time. Consistent with Australia’s foreign investment framework, the details of specific registrations or investors are not made publicly available, and information which could identify, or be used to identify, an individual or entity is excluded from this report.\nAdditionally, persons who acquired a legal interest in Australian commercial land and have subsequently become a foreign person after 1 July 2023 may also be required to register.\nAggregated data is available on data.gov.au External Link .\nCommercial land broadly includes all land in Australia other than:\n- land used wholly and exclusively for primary production, or\n- residential land.\nCommercial land may be vacant or developed, and all acquisitions by foreign persons, regardless of monetary value, are required to be registered.\nGenerally, the person with the direct legal interest in the land is required to register.\nRegistrable interests include:\n- freehold interests, and\n- leasehold interests that give rights to occupy and are likely to exceed 5 years in length.\nFrom 1 July 2023, foreign persons who have acquired a legal interest in Australian commercial land must register their interest, unless an exemption applies. Foreign persons must register their commercial land interest within 30 days of either:\n- purchasing commercial land (settlement),\n- becoming a foreign person while holding an interest in commercial land, or\n- becoming aware they have an interest in commercial land, which has changed in nature from another type of Australian land.\nThere is no national data source to benchmark the percentage of foreign ownership against total Australian commercial land.\nThe statistics on Australian commercial land are presented in each table by reference to either the number of register notices received or the number of discrete commercial land properties to which register notices relate.\nA commercial land asset may be registered more than once due to the type of interest held by the foreign person, such as where separate foreign persons each have a freehold or leasehold interest.\nIn the tables below, the figures for value represent consideration figures collected at registration. Consideration is a defined term in the FATA, and is either:\n- the amount paid, or\n- the reasonable market value of the interest at the time of acquisition.\nCare should be taken when comparing this data with Treasury’s annual and quarterly reports on foreign investment. The reports produced by Treasury contain proposed investment information. Not all commercial land acquisitions require foreign investment approval due to monetary thresholds, but are required to be registered.\n## Total registered interests\nState or territory | Vacant land (no.) | Developed land (no.) | Registered properties (no.) | Value ($m)\nACT | 21 | 81 | 102 | 1,243.0\nNSW | 544 | 2,169 | 2,713 | 33,085.5\nNT | 5 | 62 | 67 | 213.8\nQld | 162 | 1,689 | 1,851 | 10,100.1\nSA | 45 | 484 | 529 | 1,604.0\nTas | 3 | 120 | 123 | 133.8\nVic | 277 | 2,365 | 2,642 | 18,483.6\nWA | 99 | 777 | 876 | 6,618.6\nTotal | 1,156 | 7,747 | 8,903 | 71,482.3\nNotes:\n- The figures in Table 1 report the number of commercial land properties where a foreign person has a registrable interest. Where multiple foreign persons hold different registrable interests in the same property, including having a freehold interest, leasehold interest, or interest in a sub-lease, the property has been counted only once. This occurs in 114 instances.\n- Value total differs from the sum of components due to rounding.\n## Registered interests by industry sector\nTables 2 and 3 show the number of registered properties broken down by Australian and New Zealand Standard Industrial Classification (ANZSIC) industry division and class respectively.\nRegistrants provide the appropriate ANZSIC details as part of the registration process. ANZSIC is a standard classification developed by the Australian Bureau of Statistics (ABS) for the analysis of industry statistics in Australia and New Zealand. A list of ANZSIC codes is detailed in the Business industry codes fact sheet (PDF, 929KB) This link will download a file .\nANZSIC details are not applied to vacant commercial land as it is not being used for commercial business activities upon registration.\nTable 2 shows the ANZSIC industry sectors by division for the registered developed properties.\nTable 2: Registered interest in commercial land by industry division\nIndustry division category | ANZSIC division | Registered properties (no.) | Value ($m)\nRetail trade | G | 1,628 | 10,062.8\nInformation media and telecommunications | J | 1,082 | 8,127.1\nHealth care and social assistance | Q | 792 | 2,183.4\nAccommodation and food services | H | 702 | 3,510.9\nElectricity, gas, water and waste services | D | 674 | 505.2\nWholesale trade | F | 596 | 990.9\nTransport, postal and warehousing | I | 471 | 4,864.8\nManufacturing | C | 465 | 11,650.3\nRental, hiring and real estate services | L | 369 | 10,348.3\nProfessional, scientific and technical services | M | 191 | 1,081.3\nConstruction | E | 174 | 1,358.9\nMining | B | 160 | 395.9\nFinancial and insurance services | K | 125 | 4,532.9\nAdministrative and support services | N | 95 | 318.5\nOther services | S | 72 | 832.6\nArts and recreation services | R | 59 | 241.5\nEducation and training | P | 42 | 326.0\nAgriculture, forestry and fishing | A | 42 | 116.2\nPublic administration and safety | O | 8 | 126.9\nNote:\n- ANZSIC divisions are derived from the industry class reported by foreign persons.\nRegistered interests in commercial land at 30 June 2025 include a total of 235 ANZSIC classes. Table 3 shows the top 20 industry sectors by ANZSIC class and number of registered properties.\nIndustry class category | ANZSIC class | Registered properties (no.) | Value ($m)\nSupermarket and grocery stores | 4110 | 902 | 6,664.3\nOther telecommunications network operation | 5802 | 794 | 433.8\nElectricity distribution | 2630 | 439 | 112.5\nAccommodation | 4400 | 370 | 2,553.2\nOther electrical and electronic goods wholesaling | 3494 | 255 | 100.2\nOther telecommunications services | 5809 | 242 | 135.2\nOther warehousing and storage services | 5309 | 239 | 2,483.2\nNon-residential property operators | 6712 | 229 | 8,280.5\nOptometry and optical dispensing | 8532 | 205 | 222.7\nPlumbing goods wholesaling | 3332 | 185 | 25.4\nPlaster product manufacturing | 2032 | 182 | 1,445.6\nTakeaway food services | 4512 | 180 | 259.6\nOther electricity generation | 2619 | 161 | 230.1\nMotor vehicle parts retailing | 3921 | 157 | 240.9\nPhysiotherapy services | 8533 | 127 | 184.9\nCoal mining | 600 | 122 | 54.6\nCar retailing | 3911 | 118 | 955.4\nHouse construction | 3011 | 114 | 903.4\nClothing retailing | 4251 | 107 | 774.5\nPathology and diagnostic imaging services | 8520 | 102 | 326.0\nNote:\n- The figures in Table 3 report the number of commercial land properties where a foreign person has a registrable interest. Where multiple foreign persons hold different registrable interests in the same property, including having a freehold interest, leasehold interest, or interest in a sub-lease, the property has been counted once.\n## Registered interests in freehold and leasehold interests\nTable 4 shows the breakdown of registrations in commercial land into freehold and leasehold, by state and territory. At 30 June 2025, there were 9,017 registered freehold and leasehold interests in commercial land on the Register.\nState or territory | Freehold (no.) | Leasehold (no.) | Total\nACT | 8 | 94 | 102\nNSW | 948 | 1,784 | 2,732\nNT | 6 | 61 | 67\nQld | 423 | 1,480 | 1,903\nSA | 66 | 467 | 533\nTas | 16 | 107 | 123\nVic | 474 | 2,200 | 2,674\nWA | 121 | 762 | 883\nTotal | 2,062 | 6,955 | 9,017\nNote:\n- The figures in Table 4 are based on the number of registrable interests rather than the number of properties. As such, multiple interests in the same property held at the same time, such as where one foreign person holds a freehold interest, and another a leasehold interest, or sub-lease interest, are each counted. As a result, the total registered leasehold and freehold interests in this table (9,017) is greater than the total interests held by foreign persons as illustrated in Table 1 (8,903).\n## Foreign and Australian share of registered interests\nFigure 1 shows the percentage of the foreign share and the Australian share of registrations of interests in commercial properties.\nAs the Register records foreign person entities that have a foreign ownership share of 20% or more, there may be more than one nationality and some level of Australian ownership in the same property.\nAt 30 June 2025, 15% of registered interests in Australian commercial land was indirectly held by Australian investors who have shares in entities considered foreign persons.\n## Top 10 sources of foreign investment\nTable 5 shows the top 10 source countries of registered interests in commercial land.\nCountry | Registered interests (no.) | Value ($m)\nUnited States of America | 2,009 | 21,767.6\nSingapore | 1,437 | 8,595.6\nCanada | 962 | 4,074.2\nUnited Kingdom | 558 | 2,976.4\nJapan | 449 | 12,393.9\nFrance | 342 | 1,985.7\nThailand | 313 | 525.1\nNetherlands | 303 | 1,786.5\nCayman Islands | 276 | 880.9\nPeople's Republic of China | 276 | 479.2\nAt 30 June 2025, foreign persons from a total of 56 countries, excluding Australia, held registered interests in commercial land.\nNotes:\nThere are limitations to using the top sources of foreign investment data to determine the ultimate sources of investment into Australia:\n- The source country is obtained from the registrant at the time of registration and maintained by the foreign person.\n- An interest may be held by a foreign person which has more than one shareholder, from more than one country.\n- Where there are multiple owners of one commercial property from different countries, the property value is proportionally allocated to each country based on the ownership percentage of each owner. As a result, a property may be counted multiple times in some instances.\n- Where the registered owner is a company or trust, the nationality of the person (or persons) who appear to control the entity is used to attribute the source country, rather than the country of incorporation. Where the person who controls the entity is identified as an Australian citizen who is not ordinarily resident in Australia (and hence a foreign person), the source country is attributed to the country in which they are ordinarily resident.\n- Where shares or interests are widely held for companies or trusts, depending on information available the interest in the asset is attributed to a source country based on the location of the directors the fund manager, or the country where the entity (or trustee) is headquartered or publicly listed. The source country statistical data may therefore include the presence of jurisdictions used by investment funds and their managers.\n- The country of control is assessed using data resources within the ATO, and agencies such as the Department of Home Affairs and the Australian Securities & Investments Commission (ASIC).\n- Where there are multiple interest holders from different countries in the same asset, the value is allocated in accordance with the percentage interest each country holds in the asset, or the entity that holds the interest in the asset.",
+  "child_links": [],
+  "word_count": 2117,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

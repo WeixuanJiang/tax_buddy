@@ -1,0 +1,55 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2012/tax-return/deduction-questions-d1-d10/subtotal-2012",
+  "title": "Subtotal 2012",
+  "description": "Complete the subtotal section of your tax return.",
+  "nat_number": "71050",
+  "quick_code": "25697",
+  "date_updated": "2012-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, subtotal, tax subtotal",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you show income at TOTAL INCOME OR LOSS on page 3 of your tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "take away the amount at TOTAL DEDUCTIONS from the amount at TOTAL INCOME OR LOSS ; write the result at SUBTOTAL",
+        "if the amount at SUBTOTAL is less than zero, print L in the LOSS box at the right of the amount."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you show a loss at TOTAL INCOME OR LOSS on page 3 of your tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "add the amount at TOTAL DEDUCTIONS to the amount at TOTAL INCOME OR LOSS",
+        "write the result at SUBTOTAL , and print L in the LOSS box at the right of the amount."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question L1 - Tax losses of earlier income years return to main menu Individual tax return instructions go back to question Total deductions"
+        ]
+      ]
+    }
+  ],
+  "content_text": "## Completing your tax return\nIf you show income at TOTAL INCOME OR LOSS on page 3 of your tax return:\n- take away the amount at TOTAL DEDUCTIONS from the amount at TOTAL INCOME OR LOSS ; write the result at SUBTOTAL\n- if the amount at SUBTOTAL is less than zero, print L in the LOSS box at the right of the amount.\nIf you show a loss at TOTAL INCOME OR LOSS on page 3 of your tax return:\n- add the amount at TOTAL DEDUCTIONS to the amount at TOTAL INCOME OR LOSS\n- write the result at SUBTOTAL , and print L in the LOSS box at the right of the amount.\nWhere to go next go to question L1 - Tax losses of earlier income years return to main menu Individual tax return instructions go back to question Total deductions",
+  "child_links": [],
+  "word_count": 146,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

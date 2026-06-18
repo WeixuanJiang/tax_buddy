@@ -1,0 +1,50 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2011/tax-return/tax-offset-questions-t1-t5/adjustments-in-the-supplementary-tax-return-2011",
+  "title": "Completing your tax return",
+  "description": "Instructions for completing adjustments in the supplementary tax return.",
+  "nat_number": "976",
+  "quick_code": "25486",
+  "date_updated": "2011-06-28T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, adjustments, supplementary",
+  "content_blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you receive a distribution during 2010-11 on which family trust distribution tax has been paid?"
+        ],
+        [
+          "Yes",
+          "read question A4 Amount on which family trust distribution tax has been paid You may be entitled to an adjustment, or return to main menu Tax return for individuals instructions ."
+        ],
+        [
+          "No",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you make a payment to us more than 14 days before the due date for payment?"
+        ],
+        [
+          "Yes",
+          "read question C1 Credit for interest on early payments You may be able to claim credit for interest on early payments, or return to main menu Tax return for individuals instructions ."
+        ],
+        [
+          "No",
+          "Go to Private health insurance policy details ."
+        ]
+      ]
+    }
+  ],
+  "content_text": "Did you receive a distribution during 2010-11 on which family trust distribution tax has been paid?\nYes | read question A4 Amount on which family trust distribution tax has been paid You may be entitled to an adjustment, or return to main menu Tax return for individuals instructions .\nNo | Read below.\nDid you make a payment to us more than 14 days before the due date for payment?\nYes | read question C1 Credit for interest on early payments You may be able to claim credit for interest on early payments, or return to main menu Tax return for individuals instructions .\nNo | Go to Private health insurance policy details .",
+  "child_links": [],
+  "word_count": 114,
+  "source_title": "Completing your tax return | Australian Taxation Office",
+  "source_description": "Instructions for completing adjustments in the supplementary tax return.",
+  "category": "your-tax-return"
+}

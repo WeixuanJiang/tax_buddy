@@ -1,0 +1,348 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2015/supplementary-tax-return/income-questions-13-24/17-net-farm-management-deposits-or-repayments-2015",
+  "title": "17 Net farm management deposits or repayments 2015",
+  "description": "Complete question 17 to report net farm management deposits and withdrawals. Primary producers only.",
+  "nat_number": "",
+  "quick_code": "44134",
+  "date_updated": "2015-05-28T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, TaxPack, TaxPack supplement, net farm management deposits, net farm management withdrawals",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is for primary producers only"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Did you make Farm Management Deposits (FMD) or have repayments during 2014-15?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to question 18 Capital gains , or return to main menu Individual tax return instructions"
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Definitions"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "An FMD provider is an institution that accepts farm management deposits.",
+        "An FMD owner is a person who makes an eligible farm management deposit."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a distribution of income as a beneficiary of a trust that carried on a business of primary production, you are considered to be carrying on a business of primary production and therefore eligible for the farm management deposit tax concessions."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are the beneficiary of a primary production trust that made a loss , you are considered to be in a business of primary production, and therefore eligible for the farm management deposit tax concessions, if :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the trustee of the primary production trust nominated you as a chosen beneficiary, or",
+        "you are the beneficiary of a fixed trust."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "FMD owners can access their deposits early when affected by certain natural disasters, without losing their concessional tax treatment (see Natural disaster assistance below)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also go to Farm management deposits scheme for more information."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Deductible deposits"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your 2014-15 farm management deposits are deductible if all of the following are satisfied:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Your 2014-15 taxable non-primary production income is $100,000 or less.",
+        "You are carrying on a primary production business at the time of making the deposit.",
+        "If you stopped carrying on a primary production business during the year, you recommenced carrying on such a business within 120 days.",
+        "Your individual deposits are not less than $1,000 and total deposits not more than $400,000.",
+        "Your individual deposits do not cause your total FMDs to exceed the $400,000 account limit.",
+        "Your individual deposits do not exceed the amount of your 2014-15 taxable primary production income.",
+        "You held the deposits for at least 12 months or qualify for the early repayment exception below."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Non-deductible deposits"
+    },
+    {
+      "type": "paragraph",
+      "text": "A deduction cannot be claimed for deposits made in the 2014-15 year if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the FMD owner became bankrupt or ceased to carry on a primary production business (including a business that was carried on by a partnership or by a trust) for 120 days or more, or",
+        "the FMD owner passed away."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If this applies to you or you are the executor of a deceased estate:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "All deposits must be repaid.",
+        "Include as assessable income any repaid deposits that were previously deducted.",
+        "Do not claim a deduction for deposits made after the business ceased or any deposits made in 2014-15 by the now deceased FMD owner."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Deposits repaid within 12 months"
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim a deduction for that part of a deposit repaid within 12 months."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you withdrew a deposit early (and don't qualify for the early repayment exception) and made the deposit in this income year, do not include this amount as a deposit or repayment. If, however, you claimed the deduction in a prior income year, request an amendment of your assessment for that income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you withdrew part of your deposit early, you may continue to claim a deduction for that part of the deposit that was held for a full 12 months or more (provided that your total deposits remain $1,000 or more)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "'Early repayment' exception"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are eligible to claim the natural disaster assistance exception (below), you can access your deposits early without losing your concessional tax treatment."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you claim the exception, you cannot claim a deduction for deposits you make in 2014-15 after the early repayment."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Natural disaster assistance"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be eligible to claim this exception if;"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you made the original deposit before a natural disaster declaration was made",
+        "your primary production business received Natural Disaster Relief and Recovery Arrangements (NDRRA) Category C assistance, and",
+        "you withdrew the FMD deposit early, after having received the assistance."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information about the natural disaster exception, go to agriculture.gov.au/agriculture-food/drought/assistance/fmd External Link"
+    },
+    {
+      "type": "paragraph",
+      "text": "To confirm that your business is eligible or has received this type of assistance, review your disaster assistance documents."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Repayments are assessable income"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must include as assessable income, in the year in which they are repaid, repayments of previously deducted deposits."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include as assessable income repayments of deposits that you did not claim as a deduction."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you receive a repayment, you are considered to have been repaid any non-deductible amounts first."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Reinvesting, extending or transferring deposits"
+    },
+    {
+      "type": "paragraph",
+      "text": "You do not need to return as assessable income:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "reinvested deposits, or extensions of the term of deposits with the same provider",
+        "merged deposits provided certain conditions are met",
+        "transfers of the same deposit amount from one FMD provider to another; examples of this include electronic transfers from a liquidated authorised deposit-taking institution (ADI) to a new ADI transfers by the Australian Prudential Regulatory Authority under the Financial Claims Scheme."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have any questions about the tax consequences of farm management deposits or repayments, see Farm management deposits scheme or phone 13 28 66 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Deceased estate"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are looking after the estate of someone who died in 2014-15, you cannot claim a deduction for any deposits they made in 2014-15. Any farm management deposits held at the time of death are assessable income in 2014-15 to the extent they have previously been claimed as a deduction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deductions in earlier years are not affected even when the person dies within 12 months of making the deposit."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "What you may need"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Your account statement from your FMD provider",
+        "Information for primary producers 2015 (NAT 1712)",
+        "Farm management deposits scheme (NAT 8776)"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up deductible deposits you made in 2014-15."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total at D item 17 on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up early repayments you withdrew during 2014-15 that qualify for a natural disaster exception."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total at N ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you made the deposit in this income year, ensure you have included this deposit at D above."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you withdrew a deposit made in the last income year and claimed the deduction, you do not need to lodge an amendment."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up FMDs you held for 12 months or more and were repaid during 2014-15. Write the total at R."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the amounts you showed at N and R , and take away the amount you showed at D ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the answer at E . If the amount is negative (your deductible deposits exceed your total repayments), print L in the Loss box at E ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Record keeping"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to keep the following documents:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "statement of account from your FMD provider",
+        "proof that you received Natural Disaster Relief and Recovery Arrangements (NDRRA) Category C assistance for primary producers."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question 18 Capital gains .",
+        "Return to main menu Individual tax return instructions .",
+        "Go back to question 16 Deferred non-commercial business losses ."
+      ]
+    }
+  ],
+  "content_text": "This question is for primary producers only\n## Did you make Farm Management Deposits (FMD) or have repayments during 2014-15?\nNo | Go to question 18 Capital gains , or return to main menu Individual tax return instructions\nYes | Read on.\n### Definitions\n- An FMD provider is an institution that accepts farm management deposits.\n- An FMD owner is a person who makes an eligible farm management deposit.\nIf you received a distribution of income as a beneficiary of a trust that carried on a business of primary production, you are considered to be carrying on a business of primary production and therefore eligible for the farm management deposit tax concessions.\nIf you are the beneficiary of a primary production trust that made a loss , you are considered to be in a business of primary production, and therefore eligible for the farm management deposit tax concessions, if :\n- the trustee of the primary production trust nominated you as a chosen beneficiary, or\n- you are the beneficiary of a fixed trust.\n## You need to know\nFMD owners can access their deposits early when affected by certain natural disasters, without losing their concessional tax treatment (see Natural disaster assistance below).\nYou can also go to Farm management deposits scheme for more information.\n### Deductible deposits\nYour 2014-15 farm management deposits are deductible if all of the following are satisfied:\n- Your 2014-15 taxable non-primary production income is $100,000 or less.\n- You are carrying on a primary production business at the time of making the deposit.\n- If you stopped carrying on a primary production business during the year, you recommenced carrying on such a business within 120 days.\n- Your individual deposits are not less than $1,000 and total deposits not more than $400,000.\n- Your individual deposits do not cause your total FMDs to exceed the $400,000 account limit.\n- Your individual deposits do not exceed the amount of your 2014-15 taxable primary production income.\n- You held the deposits for at least 12 months or qualify for the early repayment exception below.\n### Non-deductible deposits\nA deduction cannot be claimed for deposits made in the 2014-15 year if:\n- the FMD owner became bankrupt or ceased to carry on a primary production business (including a business that was carried on by a partnership or by a trust) for 120 days or more, or\n- the FMD owner passed away.\nIf this applies to you or you are the executor of a deceased estate:\n- All deposits must be repaid.\n- Include as assessable income any repaid deposits that were previously deducted.\n- Do not claim a deduction for deposits made after the business ceased or any deposits made in 2014-15 by the now deceased FMD owner.\n### Deposits repaid within 12 months\nYou cannot claim a deduction for that part of a deposit repaid within 12 months.\nIf you withdrew a deposit early (and don't qualify for the early repayment exception) and made the deposit in this income year, do not include this amount as a deposit or repayment. If, however, you claimed the deduction in a prior income year, request an amendment of your assessment for that income year.\nIf you withdrew part of your deposit early, you may continue to claim a deduction for that part of the deposit that was held for a full 12 months or more (provided that your total deposits remain $1,000 or more).\n### 'Early repayment' exception\nIf you are eligible to claim the natural disaster assistance exception (below), you can access your deposits early without losing your concessional tax treatment.\nIf you claim the exception, you cannot claim a deduction for deposits you make in 2014-15 after the early repayment.\n#### Natural disaster assistance\nYou may be eligible to claim this exception if;\n- you made the original deposit before a natural disaster declaration was made\n- your primary production business received Natural Disaster Relief and Recovery Arrangements (NDRRA) Category C assistance, and\n- you withdrew the FMD deposit early, after having received the assistance.\nFor more information about the natural disaster exception, go to agriculture.gov.au/agriculture-food/drought/assistance/fmd External Link\nTo confirm that your business is eligible or has received this type of assistance, review your disaster assistance documents.\n### Repayments are assessable income\nYou must include as assessable income, in the year in which they are repaid, repayments of previously deducted deposits.\nDo not include as assessable income repayments of deposits that you did not claim as a deduction.\nWhen you receive a repayment, you are considered to have been repaid any non-deductible amounts first.\n### Reinvesting, extending or transferring deposits\nYou do not need to return as assessable income:\n- reinvested deposits, or extensions of the term of deposits with the same provider\n- merged deposits provided certain conditions are met\n- transfers of the same deposit amount from one FMD provider to another; examples of this include electronic transfers from a liquidated authorised deposit-taking institution (ADI) to a new ADI transfers by the Australian Prudential Regulatory Authority under the Financial Claims Scheme.\nIf you have any questions about the tax consequences of farm management deposits or repayments, see Farm management deposits scheme or phone 13 28 66 .\n#### Deceased estate\nIf you are looking after the estate of someone who died in 2014-15, you cannot claim a deduction for any deposits they made in 2014-15. Any farm management deposits held at the time of death are assessable income in 2014-15 to the extent they have previously been claimed as a deduction.\nDeductions in earlier years are not affected even when the person dies within 12 months of making the deposit.\n## Answering this question\n### What you may need\n- Your account statement from your FMD provider\n- Information for primary producers 2015 (NAT 1712)\n- Farm management deposits scheme (NAT 8776)\n#### Step 1\nAdd up deductible deposits you made in 2014-15.\nWrite the total at D item 17 on your tax return.\n#### Step 2\nAdd up early repayments you withdrew during 2014-15 that qualify for a natural disaster exception.\nWrite the total at N .\nIf you made the deposit in this income year, ensure you have included this deposit at D above.\nIf you withdrew a deposit made in the last income year and claimed the deduction, you do not need to lodge an amendment.\n#### Step 3\nAdd up FMDs you held for 12 months or more and were repaid during 2014-15. Write the total at R.\n#### Step 4\nAdd up the amounts you showed at N and R , and take away the amount you showed at D .\nWrite the answer at E . If the amount is negative (your deductible deposits exceed your total repayments), print L in the Loss box at E .\n## Record keeping\nYou will need to keep the following documents:\n- statement of account from your FMD provider\n- proof that you received Natural Disaster Relief and Recovery Arrangements (NDRRA) Category C assistance for primary producers.\n### Where to go next\n- Go to question 18 Capital gains .\n- Return to main menu Individual tax return instructions .\n- Go back to question 16 Deferred non-commercial business losses .",
+  "child_links": [],
+  "word_count": 1211,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

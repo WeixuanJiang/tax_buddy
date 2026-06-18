@@ -1,0 +1,728 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2013/tax-return/medicare-levy-questions-m1-m2/m2-medicare-levy-surcharge-2013",
+  "title": "M2 - Medicare levy surcharge (MLS) 2013",
+  "description": "Complete compulsory question M2 to determine whether you may have to pay the Medicare levy surcharge.",
+  "nat_number": "71050",
+  "quick_code": "32400",
+  "date_updated": "2013-05-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "Medicare levy surcharge (MLS), TaxPack, TaxPack, medicare, medicare levy, surcharge, medicare surcharge, levy surcharge",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "This question is compulsory"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Medicare levy surcharge (MLS) is in addition to the Medicare levy. Depending on your income for MLS purposes the MLS rate is 1%, 1.25% or 1.5% of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your taxable income",
+        "your total reportable fringe benefits, and",
+        "any amount on which family trust distribution tax has been paid."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Medicare levy surcharge changes"
+    },
+    {
+      "type": "paragraph",
+      "text": "From 1 July 2012, the Medicare levy surcharge is income tested against the following income tier thresholds:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Income thresholds"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Unchanged",
+          "Tier 1",
+          "Tier 2",
+          "Tier 3"
+        ],
+        [
+          "Singles",
+          "$84,000 or less",
+          "$84,001-97,000",
+          "$97,001-130,000",
+          "$130,001 or more"
+        ],
+        [
+          "Families*",
+          "$168,000 or less",
+          "$168,001-194,000",
+          "$194,001-260,000",
+          "$260,001 or more"
+        ],
+        [
+          "Rates",
+          "0.0%",
+          "1.0%",
+          "1.25%",
+          "1.5%"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "* The family income threshold is increased by $1,500 for each Medicare levy surcharge dependent child after the first child."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is no change to how the Medicare levy surcharge applies and any exemptions that may apply to your circumstances. The only change has been the introduction of new income thresholds and Medicare levy surcharge rates."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may have to pay Medicare levy surcharge for any period during the income year that you, your spouse, or any of your dependants:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "did not have an appropriate level of private patient hospital cover for the whole income year, and",
+        "your income for Medicare levy surcharge purposes is above the tier 1 threshold."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "However, from 1 July 2012, the Medicare levy surcharge rate you are charged may increase depending on your income tier."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example"
+    },
+    {
+      "type": "paragraph",
+      "text": "Josh is 35 years old, is single, and does not have the appropriate level of private patient hospital cover. In 2012-13, Josh's taxable income is $90,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "When Josh completes his tax return, he also completes the income test section of the tax return and declares:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "reportable fringe benefits of $20,000",
+        "net investment losses of $7,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Josh's total income for Medicare levy surcharge purposes is $117,000, which makes him a tier 2 income earner for calculating the Medicare levy surcharge. The amount of Medicare levy surcharge is only calculated against taxable income and reportable fringe benefits."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2011-12, Josh's Medicare levy surcharge liability is:"
+    },
+    {
+      "type": "paragraph",
+      "text": "($90,000 taxable income + $20,000 reportable fringe benefits) x 1%"
+    },
+    {
+      "type": "paragraph",
+      "text": "= $1,100."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2012-13, Josh's Medicare levy surcharge liability is:"
+    },
+    {
+      "type": "paragraph",
+      "text": "($90,000 taxable income + $20,000 reportable fringe benefits) x 1.25%"
+    },
+    {
+      "type": "paragraph",
+      "text": "= $1,375."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Appropriate level of private patient hospital cover"
+    },
+    {
+      "type": "paragraph",
+      "text": "An appropriate level of private patient hospital cover is cover provided by a registered health insurer for hospital treatment in Australia which has an excess of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$500 or less (for a policy covering only one person), or",
+        "$1,000 or less (for all other policies)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Excess is the amount you pay before your health insurer pays for any claim you make."
+    },
+    {
+      "type": "paragraph",
+      "text": "General cover (formerly called ancillary cover) or 'extras' is not private patient hospital cover because it covers only items such as optical, dental, physiotherapy or chiropractic treatment."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have health cover but are not sure whether it is at the appropriate level, your registered health insurer can tell you."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Income for MLS purposes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your income for MLS purposes is your taxable income plus the following if they apply to you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "reportable fringe benefits (shown on your payment summary)",
+        "reportable superannuation contributions (which is the sum of both your reportable employer superannuation contributions and your deductible personal superannuation contributions)",
+        "your net investment loss (which is the amount by which your financial investment deductions exceeded your financial investment income, plus the amount by which your rental property deductions exceeded your rental property income)",
+        "the amount on which family trust distribution tax has been paid."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were 55 to 59 years old this amount is then reduced by the taxed element amount of superannuation lump sums, other than a death benefit, received during 2012-13 that do not exceed your low rate cap (see Superannuation lump sums and income for MLS purposes )."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dependants"
+    },
+    {
+      "type": "paragraph",
+      "text": "For this question, your dependants (regardless of their income) are your:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "spouse, even if they worked during 2012-13 or had their own income",
+        "children under 21 years old",
+        "children 21 to 24 years old who are full-time students."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Dependants must have been Australian residents and you must have contributed to their maintenance. See What is maintaining a dependant? in Adjusted taxable income (ATI) for you and your dependants ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your 'spouse' includes another person (whether of the same sex or opposite sex) who:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were in a relationship with that was registered under a prescribed state or territory law",
+        "although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The definition of child includes children of people who are in same-sex relationships. See the definition of child in Special circumstances and glossary ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had private patient hospital cover during 2012-13, you will need a statement from your health insurer showing the number of days you and your dependants were covered by an appropriate level of health cover. If you do not have this statement, contact your health insurer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Were you and all your dependants, including your spouse, covered by an appropriate level of private patient hospital cover for the whole of 2012-13?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "Go to step 5 ."
+        ],
+        [
+          "No",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not have an appropriate level of private patient hospital cover, you may be liable for MLS. Whether or not you are liable to pay MLS depends on:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your income for MLS purposes, and",
+        "your combined income for MLS purposes, if you had a spouse for the whole of 2012-13 or if your spouse died in 2012-13."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete worksheet 1 to work out your and your spouse's income (if relevant) for MLS purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had exempt foreign employment income, and your taxable income is $1 or more, add your exempt foreign income to your taxable income, and write the total at (a) in worksheet 1. The same applies for your spouse."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were 55 to 59 years old, write at (k) the taxed element amount of superannuation lump sums, other than a death benefit, you received during 2012-13 that do not exceed your low rate cap. The same applies for your spouse. (See Superannuation lump sums and income for MLS purposes .)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you did not have a spouse, go to Medicare levy surcharge exemption after you have completed worksheet 1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your spouse was under a legal disability, write at (h) in the spouse column your spouse's net income from a trust for which the trustee was liable to pay tax. Examples of a legal disability include being:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a bankrupt",
+        "a person who has been declared legally incapable because of a mental condition",
+        "under 18 years old on 30 June 2013."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include any amount that has already been included in your spouse's taxable income at (a)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write at (c) the total amount of distributions to you or your spouse:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "on which family trust distribution tax has been paid, and",
+        "which you or your spouse would have had to show as assessable income if the tax had not been paid."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "W orksheet 1"
+        ],
+        [
+          "Working out income for MLS purposes"
+        ],
+        [
+          "Working out income for MLS purposes",
+          "You",
+          "Spouse",
+          ""
+        ],
+        [
+          "Taxable income (from TAXABLE INCOME OR LOSS on page 4 of the tax return)",
+          "$",
+          "$",
+          "(a)"
+        ],
+        [
+          "Total reportable fringe benefits amount (from W item IT1 on page 8 of the tax return)",
+          "$",
+          "$",
+          "(b)"
+        ],
+        [
+          "Amount on which family trust distribution tax has been paid (from X item A4 on page 16 of the supplementary section of your or your spouse's tax return)",
+          "$",
+          "$",
+          "(c)"
+        ],
+        [
+          "Net financial investment loss (from X item IT5 on page 8 of the tax return)",
+          "$",
+          "$",
+          "(d)"
+        ],
+        [
+          "Net rental property loss (from Y item IT6 on page 8 of the tax return)",
+          "$",
+          "$",
+          "(e)"
+        ],
+        [
+          "Reportable employer superannuation contributions (from T item IT2 on page 8 of the tax return)",
+          "$",
+          "$",
+          "(f)"
+        ],
+        [
+          "Deductible personal superannuation contributions (from H item D12 on page 15 of the supplementary section of the tax return)",
+          "$",
+          "$",
+          "(g)"
+        ],
+        [
+          "Your spouse's share of the net income of a trust on which the trustee must pay tax (from T Spouse details on page 10 of the tax return)",
+          "",
+          "$",
+          "(h)"
+        ],
+        [
+          "Add the amounts from (a) to (h) in each column.",
+          "$",
+          "$",
+          "(j)"
+        ],
+        [
+          "If you or your spouse were 55 to 59 years old, write here the taxed element amount of superannuation lump sums, other than a death benefit, received during 2012-13 that do not exceed your or your spouse's low rate cap (see Superannuation lump sums and income for MLS purposes ).",
+          "$",
+          "$",
+          "(k)"
+        ],
+        [
+          "Take (k) away from (j). This is each individual's income for MLS purposes.",
+          "$",
+          "$",
+          "(l)"
+        ],
+        [
+          "Add the amount from (l) in your column to the amount from (l) in your spouse's column.",
+          "$",
+          "(n)"
+        ],
+        [
+          "Your income for MLS purposes when you are single is the amount at (l) in your column. Your combined income for MLS purposes, is the amount at (n)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Medicare levy surcharge exemption"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you fit in one of the following categories, you are exempt from MLS for the whole of 2012-13."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Surcharge exemption categories"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Your income for MLS purposes was $84,000 or less, and for the whole of 2012-13, you were single without a dependent child.",
+        "Your income for MLS purposes was $84,000 or less, and:",
+        "for part of 2012-13 you were single your spouse did not die during the year, and for the whole of the year you did not have a dependent child.",
+        "You were single with a dependent child and your income for MLS purposes was $168,000 or less (plus $1,500 for each dependent child after the first).",
+        "You had a spouse (with or without dependent children), and your combined income for MLS purposes was $168,000 or less (plus $1,500 for each dependent child after the first). In working out whether your income exceeds an MLS income threshold, if your spouse died in 2012-13 and you did not have another spouse before the end of the year, you are treated as having had a spouse for the remainder of 2012-13.",
+        "You and all your dependants (including your spouse, if any) were in a Medicare levy exemption category for the whole of 2012-13 (see question M1).",
+        "The combined income of you and your spouse for MLS purposes was above the limit, but your own income for MLS purposes was $20,542 or less."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Your spouse shows a foreign lump sum payment on the supplementary section of their tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are liable for MLS only because your spouse has shown a lump sum payment in arrears at item 20 Foreign source income and foreign assets or property or item 24 Other income on the supplementary section of their tax return, you may be entitled to a tax offset up to the amount of MLS you have to pay. We will calculate the tax offset for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to provide additional information. Print SCHEDULE OF ADDITIONAL INFORMATION - ITEM M2 on the top of a separate piece of paper. Print your name, address, tax file number and the name and address of your spouse. Explain that your spouse received a lump sum payment in arrears. Attach your schedule to page 3 of your tax return. Print X in the Yes box at Taxpayer's declaration question 2a on page 12 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "What if your circumstances changed during the year?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a new spouse or you separated from your spouse, or you became or ceased to be a sole parent, both the single and the family surcharge thresholds may apply to you for different periods."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to work out whether you were liable for MLS for any period during 2012-13 that you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "were single (that is, you had no spouse or dependent children) so you can apply the single surcharge threshold of $84,000 to your income for MLS purposes",
+        "had a spouse or any dependent children, so you can apply the family surcharge threshold of $168,000, plus $1,500 for each dependent child after the first, to your income for MLS purposes."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your spouse died during 2012-13 and you did not have another spouse before the end of the year, you are treated as if you had a spouse for the remainder of 2012-13 and you apply the family surcharge threshold of $168,000, plus $1,500 for each dependent child after the first."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your income for MLS purposes (or if you have a spouse, your combined income for MLS purposes) was above the relevant surcharge threshold that applies to you, and you and all of your dependents (including your spouse, if any) did not have an appropriate level of private patient hospital cover, or were not in a Medicare levy exemption category for the whole year, then you may be liable for MLS."
+    },
+    {
+      "type": "paragraph",
+      "text": "To help you work out whether you were liable for MLS for the different periods, see the example below."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example 1: Spouse for part of the year"
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael and Michelle lived together as a couple on a genuine domestic basis for seven years, but on 12 October 2012 they separated and each stayed single. They did not have private patient hospital cover at any time during 2012-13."
+    },
+    {
+      "type": "paragraph",
+      "text": "Michelle and Michael had no dependent children, but they were dependants of each other for MLS purposes until they separated."
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael's income for MLS purposes was $69,000 and Michelle's was $90,000. In previous years they had used their combined income to assess their MLS liability. They now have to use their individual income for MLS purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael and Michelle are considered to be a family for the period 1 July to 12 October 2012 (104 days), so the family MLS threshold of $168,000 applies to each of them for that period. This means:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Michelle is not liable for MLS for this period because her $90,000 income for MLS purposes was less than $168,000,",
+        "Michael is not liable for MLS for this period because his $69,000 income for MLS purposes was less than $168,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael and Michelle were single for the period 13 October 2012 to 30 June 2013, so the single person MLS threshold of $84,000 applies for that period:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Michelle is liable to pay MLS for this period because her $90,000 income for MLS purposes exceeded $84,000",
+        "Michael is not liable for MLS for this period because his $69,000 income for MLS purposes was less than $84,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Michelle and Michael complete their tax returns at A item M2 by writing the number of days that they were not liable for MLS in 2012-13:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Michelle writes 104, the number of days in the first period when she was not liable for MLS",
+        "Michael writes 365 because he was not liable for MLS in 2012-13."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Single person covered for part of the year"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were single and took out private patient hospital cover during the year use the following example to help you work out how many days you are liable to pay MLS."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example 2: Part-year private patient hospital cover"
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2012-13 Jacinta was not married and had no dependants. She had income for MLS purposes of $86,000. She was not in a Medicare levy exemption category at any time during the year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jacinta took out private patient hospital cover on 15 January 2013. Because Jacinta's income for MLS purposes was above the single person surcharge threshold of $84,000 and she did not have private patient hospital cover for the full year she will have to pay MLS for the part of the year that she did not have private patient hospital cover."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jacinta will not have to pay MLS for the time she had private patient hospital cover, that is, 15 January 2013 to 30 June 2013 (167 days)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jacinta will write the number of days in 2012-13 that she is not liable for MLS (167) at A item M2 on her tax return and complete Private health insurance policy details on page 6 of her tax return."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Family covered for part of the year"
+    },
+    {
+      "type": "paragraph",
+      "text": "If some members of your family were covered by private patient hospital cover for the whole year and other members of your family had cover for only part of the year, use the following example to help you work out how many days you are liable to pay MLS."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example 3: Part-year liability"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jill and Kevin have been married for a number of years. They have three dependent children. Jill, Kevin and their children were not in a Medicare levy exemption category at any time during the year. Jill and the children were covered by private patient hospital cover for the full income year. Kevin had his name added to the policy on 10 January 2013."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jill and Kevin had a combined income for MLS purposes of $175,000. The family surcharge threshold for Jill and Kevin is $171,000 (that is, $168,000 plus twice $1,500). Because not everyone was covered for the period 1 July 2012 to 9 January 2013 and their combined income for MLS purposes exceeds the family surcharge threshold, Jill and Kevin are both liable for MLS for this period (193 days). Jill and Kevin would both write the number of days that they were not liable for MLS (172) at A item M2 on their tax returns and complete Private health insurance policy details on page 6 of their tax returns."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you or any of your dependants (including your spouse) did not have private patient hospital cover or only had cover for part of the year, print X in the No box at the right of E item M2 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write at A item M2 the number of days for which you do not have to pay MLS."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were in an exemption category (see Surcharge exemption categories ) for the whole of 2012-13, print X in the Yes box to the left of 'You do not have to pay the surcharge.' and write 365 at A item M2 . You have now finished this question. Go to question A1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were not in an exemption category, print X in the No box to the left of 'You may have to pay the surcharge.'"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write at A item M2 the number of days for which you do not have to pay MLS ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not have to pay MLS for any days during the period 1 July 2012 to 30 June 2013, write 365 at A item M2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have to pay MLS for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the whole period 1 July 2012 to 30 June 2013, write 0 at A item M2",
+        "part of the period 1 July 2012 to 30 June 2013, write at A item M2 the number of days for which you do not have to pay MLS."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete Income tests on page 8 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a spouse during 2012-13 and you or any of your dependants (including your spouse) were not covered by private patient hospital cover for the full year, complete Spouse details - married or de facto on pages 8-9 of your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your spouse's income for MLS purposes included a superannuation lump sum that was shown at (k) in worksheet 1 , write that amount at F under Spouse details - married or de facto ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had private patient hospital cover for any part of the year, you must complete Private health insurance policy details . See Private health insurance policy details ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you and all your dependants (including your spouse) had an appropriate level of private patient hospital cover for the whole of 2012-13, print X in the Yes box at the right of E item M2 . Make sure you also complete your Private health insurance policy details . You have now finished this question. Go to question A1 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tax tips"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you would like to work out the amount of Medicare levy surcharge you have to pay, use the Medicare levy calculator ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Superannuation lump sums and income for MLS purposes for worksheet 1 (k)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your income and your combined income for MLS purposes exclude the taxed element of a superannuation lump sum, other than a death benefit, that you received when you were 55 to 59 years old that does not exceed your low-rate cap amount for 2012-13. For 2012-13 the low-rate cap amount is $175,000, but it could be less for you if you had received certain superannuation lump sums in previous years (see table 1 and the definition of low-rate cap in Special circumstances and glossary for more information)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bill received a superannuation lump sum of $100,000 in 2011-12 and $80,000 in 2012-13, both of which consisted entirely of a taxed element. He was between 55 and 59 years old when he received both payments. Bill's wife Mary received a superannuation lump sum of $50,000 that consisted entirely of a taxed element in 2012-13 when she was 56 years old."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bill's low rate cap for 2012-13 is $75,000 because his low-rate cap was reduced by $100,000 in 2011-12. Therefore, the amount he received in excess of his low-rate cap (that is, $5,000) cannot be taken into account at (k) and (l) in worksheet 1. To work out his income for MLS purposes using worksheet 1, Bill subtracts $75,000 from the amount worked out at (j) in that worksheet."
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out his combined income for MLS purposes (using worksheet 1, spouse column), Bill subtracts Mary's $50,000 superannuation lump sum from the amount worked out at (j) in the spouse column."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to Private health insurance policy details .",
+        "Return to main menu Individual tax return instructions .",
+        "Go back to question M1 Medicare levy reduction or exemption ."
+      ]
+    }
+  ],
+  "content_text": "## This question is compulsory\nThe Medicare levy surcharge (MLS) is in addition to the Medicare levy. Depending on your income for MLS purposes the MLS rate is 1%, 1.25% or 1.5% of:\n- your taxable income\n- your total reportable fringe benefits, and\n- any amount on which family trust distribution tax has been paid.\n## Medicare levy surcharge changes\nFrom 1 July 2012, the Medicare levy surcharge is income tested against the following income tier thresholds:\nIncome thresholds\n | Unchanged | Tier 1 | Tier 2 | Tier 3\nSingles | $84,000 or less | $84,001-97,000 | $97,001-130,000 | $130,001 or more\nFamilies* | $168,000 or less | $168,001-194,000 | $194,001-260,000 | $260,001 or more\nRates | 0.0% | 1.0% | 1.25% | 1.5%\n* The family income threshold is increased by $1,500 for each Medicare levy surcharge dependent child after the first child.\nThere is no change to how the Medicare levy surcharge applies and any exemptions that may apply to your circumstances. The only change has been the introduction of new income thresholds and Medicare levy surcharge rates.\nYou may have to pay Medicare levy surcharge for any period during the income year that you, your spouse, or any of your dependants:\n- did not have an appropriate level of private patient hospital cover for the whole income year, and\n- your income for Medicare levy surcharge purposes is above the tier 1 threshold.\nHowever, from 1 July 2012, the Medicare levy surcharge rate you are charged may increase depending on your income tier.\nExample\nJosh is 35 years old, is single, and does not have the appropriate level of private patient hospital cover. In 2012-13, Josh's taxable income is $90,000.\nWhen Josh completes his tax return, he also completes the income test section of the tax return and declares:\n- reportable fringe benefits of $20,000\n- net investment losses of $7,000.\nJosh's total income for Medicare levy surcharge purposes is $117,000, which makes him a tier 2 income earner for calculating the Medicare levy surcharge. The amount of Medicare levy surcharge is only calculated against taxable income and reportable fringe benefits.\nIn 2011-12, Josh's Medicare levy surcharge liability is:\n($90,000 taxable income + $20,000 reportable fringe benefits) x 1%\n= $1,100.\nIn 2012-13, Josh's Medicare levy surcharge liability is:\n($90,000 taxable income + $20,000 reportable fringe benefits) x 1.25%\n= $1,375.\n## Appropriate level of private patient hospital cover\nAn appropriate level of private patient hospital cover is cover provided by a registered health insurer for hospital treatment in Australia which has an excess of:\n- $500 or less (for a policy covering only one person), or\n- $1,000 or less (for all other policies).\nExcess is the amount you pay before your health insurer pays for any claim you make.\nGeneral cover (formerly called ancillary cover) or 'extras' is not private patient hospital cover because it covers only items such as optical, dental, physiotherapy or chiropractic treatment.\nIf you have health cover but are not sure whether it is at the appropriate level, your registered health insurer can tell you.\n## Income for MLS purposes\nYour income for MLS purposes is your taxable income plus the following if they apply to you:\n- reportable fringe benefits (shown on your payment summary)\n- reportable superannuation contributions (which is the sum of both your reportable employer superannuation contributions and your deductible personal superannuation contributions)\n- your net investment loss (which is the amount by which your financial investment deductions exceeded your financial investment income, plus the amount by which your rental property deductions exceeded your rental property income)\n- the amount on which family trust distribution tax has been paid.\nIf you were 55 to 59 years old this amount is then reduced by the taxed element amount of superannuation lump sums, other than a death benefit, received during 2012-13 that do not exceed your low rate cap (see Superannuation lump sums and income for MLS purposes ).\n## Dependants\nFor this question, your dependants (regardless of their income) are your:\n- spouse, even if they worked during 2012-13 or had their own income\n- children under 21 years old\n- children 21 to 24 years old who are full-time students.\nDependants must have been Australian residents and you must have contributed to their maintenance. See What is maintaining a dependant? in Adjusted taxable income (ATI) for you and your dependants .\nYour 'spouse' includes another person (whether of the same sex or opposite sex) who:\n- you were in a relationship with that was registered under a prescribed state or territory law\n- although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple.\nThe definition of child includes children of people who are in same-sex relationships. See the definition of child in Special circumstances and glossary .\nIf you had private patient hospital cover during 2012-13, you will need a statement from your health insurer showing the number of days you and your dependants were covered by an appropriate level of health cover. If you do not have this statement, contact your health insurer.\n## Were you and all your dependants, including your spouse, covered by an appropriate level of private patient hospital cover for the whole of 2012-13?\nYes | Go to step 5 .\nNo | Read on.\n## Answering this question\nIf you do not have an appropriate level of private patient hospital cover, you may be liable for MLS. Whether or not you are liable to pay MLS depends on:\n- your income for MLS purposes, and\n- your combined income for MLS purposes, if you had a spouse for the whole of 2012-13 or if your spouse died in 2012-13.\nComplete worksheet 1 to work out your and your spouse's income (if relevant) for MLS purposes.\nIf you had exempt foreign employment income, and your taxable income is $1 or more, add your exempt foreign income to your taxable income, and write the total at (a) in worksheet 1. The same applies for your spouse.\nIf you were 55 to 59 years old, write at (k) the taxed element amount of superannuation lump sums, other than a death benefit, you received during 2012-13 that do not exceed your low rate cap. The same applies for your spouse. (See Superannuation lump sums and income for MLS purposes .)\nIf you did not have a spouse, go to Medicare levy surcharge exemption after you have completed worksheet 1 .\nIf your spouse was under a legal disability, write at (h) in the spouse column your spouse's net income from a trust for which the trustee was liable to pay tax. Examples of a legal disability include being:\n- a bankrupt\n- a person who has been declared legally incapable because of a mental condition\n- under 18 years old on 30 June 2013.\nDo not include any amount that has already been included in your spouse's taxable income at (a).\nWrite at (c) the total amount of distributions to you or your spouse:\n- on which family trust distribution tax has been paid, and\n- which you or your spouse would have had to show as assessable income if the tax had not been paid.\nW orksheet 1\nWorking out income for MLS purposes\nWorking out income for MLS purposes | You | Spouse | \nTaxable income (from TAXABLE INCOME OR LOSS on page 4 of the tax return) | $ | $ | (a)\nTotal reportable fringe benefits amount (from W item IT1 on page 8 of the tax return) | $ | $ | (b)\nAmount on which family trust distribution tax has been paid (from X item A4 on page 16 of the supplementary section of your or your spouse's tax return) | $ | $ | (c)\nNet financial investment loss (from X item IT5 on page 8 of the tax return) | $ | $ | (d)\nNet rental property loss (from Y item IT6 on page 8 of the tax return) | $ | $ | (e)\nReportable employer superannuation contributions (from T item IT2 on page 8 of the tax return) | $ | $ | (f)\nDeductible personal superannuation contributions (from H item D12 on page 15 of the supplementary section of the tax return) | $ | $ | (g)\nYour spouse's share of the net income of a trust on which the trustee must pay tax (from T Spouse details on page 10 of the tax return) |  | $ | (h)\nAdd the amounts from (a) to (h) in each column. | $ | $ | (j)\nIf you or your spouse were 55 to 59 years old, write here the taxed element amount of superannuation lump sums, other than a death benefit, received during 2012-13 that do not exceed your or your spouse's low rate cap (see Superannuation lump sums and income for MLS purposes ). | $ | $ | (k)\nTake (k) away from (j). This is each individual's income for MLS purposes. | $ | $ | (l)\nAdd the amount from (l) in your column to the amount from (l) in your spouse's column. | $ | (n)\nYour income for MLS purposes when you are single is the amount at (l) in your column. Your combined income for MLS purposes, is the amount at (n).\n### Medicare levy surcharge exemption\nIf you fit in one of the following categories, you are exempt from MLS for the whole of 2012-13.\n#### Surcharge exemption categories\n- Your income for MLS purposes was $84,000 or less, and for the whole of 2012-13, you were single without a dependent child.\n- Your income for MLS purposes was $84,000 or less, and:\n- for part of 2012-13 you were single your spouse did not die during the year, and for the whole of the year you did not have a dependent child.\n- You were single with a dependent child and your income for MLS purposes was $168,000 or less (plus $1,500 for each dependent child after the first).\n- You had a spouse (with or without dependent children), and your combined income for MLS purposes was $168,000 or less (plus $1,500 for each dependent child after the first). In working out whether your income exceeds an MLS income threshold, if your spouse died in 2012-13 and you did not have another spouse before the end of the year, you are treated as having had a spouse for the remainder of 2012-13.\n- You and all your dependants (including your spouse, if any) were in a Medicare levy exemption category for the whole of 2012-13 (see question M1).\n- The combined income of you and your spouse for MLS purposes was above the limit, but your own income for MLS purposes was $20,542 or less.\n### Your spouse shows a foreign lump sum payment on the supplementary section of their tax return.\nIf you are liable for MLS only because your spouse has shown a lump sum payment in arrears at item 20 Foreign source income and foreign assets or property or item 24 Other income on the supplementary section of their tax return, you may be entitled to a tax offset up to the amount of MLS you have to pay. We will calculate the tax offset for you.\nYou will need to provide additional information. Print SCHEDULE OF ADDITIONAL INFORMATION - ITEM M2 on the top of a separate piece of paper. Print your name, address, tax file number and the name and address of your spouse. Explain that your spouse received a lump sum payment in arrears. Attach your schedule to page 3 of your tax return. Print X in the Yes box at Taxpayer's declaration question 2a on page 12 of your tax return.\n### What if your circumstances changed during the year?\nIf you had a new spouse or you separated from your spouse, or you became or ceased to be a sole parent, both the single and the family surcharge thresholds may apply to you for different periods.\nYou need to work out whether you were liable for MLS for any period during 2012-13 that you:\n- were single (that is, you had no spouse or dependent children) so you can apply the single surcharge threshold of $84,000 to your income for MLS purposes\n- had a spouse or any dependent children, so you can apply the family surcharge threshold of $168,000, plus $1,500 for each dependent child after the first, to your income for MLS purposes.\nIf your spouse died during 2012-13 and you did not have another spouse before the end of the year, you are treated as if you had a spouse for the remainder of 2012-13 and you apply the family surcharge threshold of $168,000, plus $1,500 for each dependent child after the first.\nIf your income for MLS purposes (or if you have a spouse, your combined income for MLS purposes) was above the relevant surcharge threshold that applies to you, and you and all of your dependents (including your spouse, if any) did not have an appropriate level of private patient hospital cover, or were not in a Medicare levy exemption category for the whole year, then you may be liable for MLS.\nTo help you work out whether you were liable for MLS for the different periods, see the example below.\nExample 1: Spouse for part of the year\nMichael and Michelle lived together as a couple on a genuine domestic basis for seven years, but on 12 October 2012 they separated and each stayed single. They did not have private patient hospital cover at any time during 2012-13.\nMichelle and Michael had no dependent children, but they were dependants of each other for MLS purposes until they separated.\nMichael's income for MLS purposes was $69,000 and Michelle's was $90,000. In previous years they had used their combined income to assess their MLS liability. They now have to use their individual income for MLS purposes.\nMichael and Michelle are considered to be a family for the period 1 July to 12 October 2012 (104 days), so the family MLS threshold of $168,000 applies to each of them for that period. This means:\n- Michelle is not liable for MLS for this period because her $90,000 income for MLS purposes was less than $168,000,\n- Michael is not liable for MLS for this period because his $69,000 income for MLS purposes was less than $168,000.\nMichael and Michelle were single for the period 13 October 2012 to 30 June 2013, so the single person MLS threshold of $84,000 applies for that period:\n- Michelle is liable to pay MLS for this period because her $90,000 income for MLS purposes exceeded $84,000\n- Michael is not liable for MLS for this period because his $69,000 income for MLS purposes was less than $84,000.\nMichelle and Michael complete their tax returns at A item M2 by writing the number of days that they were not liable for MLS in 2012-13:\n- Michelle writes 104, the number of days in the first period when she was not liable for MLS\n- Michael writes 365 because he was not liable for MLS in 2012-13.\n#### Single person covered for part of the year\nIf you were single and took out private patient hospital cover during the year use the following example to help you work out how many days you are liable to pay MLS.\nExample 2: Part-year private patient hospital cover\nIn 2012-13 Jacinta was not married and had no dependants. She had income for MLS purposes of $86,000. She was not in a Medicare levy exemption category at any time during the year.\nJacinta took out private patient hospital cover on 15 January 2013. Because Jacinta's income for MLS purposes was above the single person surcharge threshold of $84,000 and she did not have private patient hospital cover for the full year she will have to pay MLS for the part of the year that she did not have private patient hospital cover.\nJacinta will not have to pay MLS for the time she had private patient hospital cover, that is, 15 January 2013 to 30 June 2013 (167 days).\nJacinta will write the number of days in 2012-13 that she is not liable for MLS (167) at A item M2 on her tax return and complete Private health insurance policy details on page 6 of her tax return.\n#### Family covered for part of the year\nIf some members of your family were covered by private patient hospital cover for the whole year and other members of your family had cover for only part of the year, use the following example to help you work out how many days you are liable to pay MLS.\nExample 3: Part-year liability\nJill and Kevin have been married for a number of years. They have three dependent children. Jill, Kevin and their children were not in a Medicare levy exemption category at any time during the year. Jill and the children were covered by private patient hospital cover for the full income year. Kevin had his name added to the policy on 10 January 2013.\nJill and Kevin had a combined income for MLS purposes of $175,000. The family surcharge threshold for Jill and Kevin is $171,000 (that is, $168,000 plus twice $1,500). Because not everyone was covered for the period 1 July 2012 to 9 January 2013 and their combined income for MLS purposes exceeds the family surcharge threshold, Jill and Kevin are both liable for MLS for this period (193 days). Jill and Kevin would both write the number of days that they were not liable for MLS (172) at A item M2 on their tax returns and complete Private health insurance policy details on page 6 of their tax returns.\n## Completing your tax return\n### Step 1\nIf you or any of your dependants (including your spouse) did not have private patient hospital cover or only had cover for part of the year, print X in the No box at the right of E item M2 .\n### Step 2\nWrite at A item M2 the number of days for which you do not have to pay MLS.\nIf you were in an exemption category (see Surcharge exemption categories ) for the whole of 2012-13, print X in the Yes box to the left of 'You do not have to pay the surcharge.' and write 365 at A item M2 . You have now finished this question. Go to question A1 .\nIf you were not in an exemption category, print X in the No box to the left of 'You may have to pay the surcharge.'\nWrite at A item M2 the number of days for which you do not have to pay MLS .\nIf you do not have to pay MLS for any days during the period 1 July 2012 to 30 June 2013, write 365 at A item M2 .\nIf you have to pay MLS for:\n- the whole period 1 July 2012 to 30 June 2013, write 0 at A item M2\n- part of the period 1 July 2012 to 30 June 2013, write at A item M2 the number of days for which you do not have to pay MLS.\n### Step 3\nComplete Income tests on page 8 of your tax return.\n### Step 4\nIf you had a spouse during 2012-13 and you or any of your dependants (including your spouse) were not covered by private patient hospital cover for the full year, complete Spouse details - married or de facto on pages 8-9 of your tax return.\nIf your spouse's income for MLS purposes included a superannuation lump sum that was shown at (k) in worksheet 1 , write that amount at F under Spouse details - married or de facto .\nIf you had private patient hospital cover for any part of the year, you must complete Private health insurance policy details . See Private health insurance policy details .\n### Step 6\nIf you and all your dependants (including your spouse) had an appropriate level of private patient hospital cover for the whole of 2012-13, print X in the Yes box at the right of E item M2 . Make sure you also complete your Private health insurance policy details . You have now finished this question. Go to question A1 .\n## Tax tips\nIf you would like to work out the amount of Medicare levy surcharge you have to pay, use the Medicare levy calculator .\n### Superannuation lump sums and income for MLS purposes for worksheet 1 (k)\nYour income and your combined income for MLS purposes exclude the taxed element of a superannuation lump sum, other than a death benefit, that you received when you were 55 to 59 years old that does not exceed your low-rate cap amount for 2012-13. For 2012-13 the low-rate cap amount is $175,000, but it could be less for you if you had received certain superannuation lump sums in previous years (see table 1 and the definition of low-rate cap in Special circumstances and glossary for more information).\nExample 3\nBill received a superannuation lump sum of $100,000 in 2011-12 and $80,000 in 2012-13, both of which consisted entirely of a taxed element. He was between 55 and 59 years old when he received both payments. Bill's wife Mary received a superannuation lump sum of $50,000 that consisted entirely of a taxed element in 2012-13 when she was 56 years old.\nBill's low rate cap for 2012-13 is $75,000 because his low-rate cap was reduced by $100,000 in 2011-12. Therefore, the amount he received in excess of his low-rate cap (that is, $5,000) cannot be taken into account at (k) and (l) in worksheet 1. To work out his income for MLS purposes using worksheet 1, Bill subtracts $75,000 from the amount worked out at (j) in that worksheet.\nTo work out his combined income for MLS purposes (using worksheet 1, spouse column), Bill subtracts Mary's $50,000 superannuation lump sum from the amount worked out at (j) in the spouse column.\n## Where to go next\n- Go to Private health insurance policy details .\n- Return to main menu Individual tax return instructions .\n- Go back to question M1 Medicare levy reduction or exemption .",
+  "child_links": [],
+  "word_count": 3752,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,121 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2015/income/salary-wages-allowances-tips-bonuses-etc-including-lump-sums/employment-termination-payments",
+  "title": "Employment termination payments",
+  "description": "How to report employment termination payments when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "44951",
+  "date_updated": "2015-06-18T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with payment summary information provided to us. Check for Australian employment termination payments (ETP) you received that are not pre-filled and ensure you add them."
+    },
+    {
+      "type": "paragraph",
+      "text": "An ETP is a payment you received because your employment was terminated. These payments appear on a PAYG payment summary – employment termination payment ."
+    },
+    {
+      "type": "paragraph",
+      "text": "This section also covers:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "death benefit ETPs",
+        "late termination payments."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show ETPs you received as the trustee of a deceased estate; these payments must be shown on the trust tax return of the deceased estate."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your PAYG payment summary – employment termination payment ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Select from the drop-down menu ‘Employment termination payment’."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Using your payment summary enter the following information:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "payer's name",
+        "payer's Australian business number (ABN)",
+        "date of payment",
+        "tax withheld",
+        "taxable component",
+        "tax free component"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Select from the drop-down menu the employment termination code. If your PAYG payment summary – employment termination payment does not have a code, contact the employer or payer. If you are unable to contact the employer or payer, select the code that best describes your payment from the following list:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "CODE",
+          "DESCRIPTION"
+        ],
+        [
+          "R",
+          "if you received your ETP because of early retirement scheme genuine redundancy invalidity compensation for personal injury unfair dismissal harassment discrimination"
+        ],
+        [
+          "O",
+          "if your ETP is not described by R , for example, you received it because of golden handshake gratuity payment in lieu of notice payment for unused sick leave payment for unused rostered days off"
+        ],
+        [
+          "S",
+          "if you received a code R ETP in 2014–15 and you had received another ETP (code R or code O ), or a transitional termination payment, in an earlier income year for the same termination of employment"
+        ],
+        [
+          "P",
+          "if you received a code O ETP in 2014–15 and you had received another ETP (code R or code O ), or a transitional termination payment, in an earlier income year for the same termination of employment"
+        ],
+        [
+          "D",
+          "if you received a death benefit ETP and you were a death benefits dependant"
+        ],
+        [
+          "B",
+          "if you received a death benefit ETP in 2014–15 and you were not a death benefits dependant, and you had received another death benefit ETP in an earlier income year for the same termination of employment"
+        ],
+        [
+          "N",
+          "if you received a death benefit ETP and you were not a death benefits dependant, and code B does not apply."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Click on 'Save'."
+    }
+  ],
+  "content_text": "We have pre-filled your tax return with payment summary information provided to us. Check for Australian employment termination payments (ETP) you received that are not pre-filled and ensure you add them.\nAn ETP is a payment you received because your employment was terminated. These payments appear on a PAYG payment summary – employment termination payment .\nThis section also covers:\n- death benefit ETPs\n- late termination payments.\nDo not show ETPs you received as the trustee of a deceased estate; these payments must be shown on the trust tax return of the deceased estate.\n## Answering this question\nYou will need your PAYG payment summary – employment termination payment .\n## Completing your tax return\n1. Select from the drop-down menu ‘Employment termination payment’.\n2. Using your payment summary enter the following information:\n- payer's name\n- payer's Australian business number (ABN)\n- date of payment\n- tax withheld\n- taxable component\n- tax free component\n3. Select from the drop-down menu the employment termination code. If your PAYG payment summary – employment termination payment does not have a code, contact the employer or payer. If you are unable to contact the employer or payer, select the code that best describes your payment from the following list:\nCODE | DESCRIPTION\nR | if you received your ETP because of early retirement scheme genuine redundancy invalidity compensation for personal injury unfair dismissal harassment discrimination\nO | if your ETP is not described by R , for example, you received it because of golden handshake gratuity payment in lieu of notice payment for unused sick leave payment for unused rostered days off\nS | if you received a code R ETP in 2014–15 and you had received another ETP (code R or code O ), or a transitional termination payment, in an earlier income year for the same termination of employment\nP | if you received a code O ETP in 2014–15 and you had received another ETP (code R or code O ), or a transitional termination payment, in an earlier income year for the same termination of employment\nD | if you received a death benefit ETP and you were a death benefits dependant\nB | if you received a death benefit ETP in 2014–15 and you were not a death benefits dependant, and you had received another death benefit ETP in an earlier income year for the same termination of employment\nN | if you received a death benefit ETP and you were not a death benefits dependant, and code B does not apply.\n4. Click on 'Save'.",
+  "child_links": [],
+  "word_count": 430,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

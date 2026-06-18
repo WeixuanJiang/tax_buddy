@@ -1,0 +1,33 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance",
+  "title": "Medicare and private health insurance",
+  "description": "Find out about the Medicare levy, Medicare levy surcharge and private health insurance.",
+  "nat_number": "",
+  "quick_code": "65037",
+  "date_updated": "2025-06-11T14:00:00Z",
+  "first_published": "",
+  "keywords": "Medicare, medicare levy, medicare levy exemption, medicare exemption, medicare levy surcharge, medicare surcharge, private health, insurance, health",
+  "content_blocks": [],
+  "content_text": "",
+  "child_links": [
+    {
+      "title": "Medicare levy",
+      "description": "Find out about the Medicare levy and if you are eligible for an exemption or reduction.",
+      "url": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy"
+    },
+    {
+      "title": "Medicare levy surcharge",
+      "description": "Find out when you have to pay the Medicare levy surcharge and the income thresholds and rates.",
+      "url": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy-surcharge"
+    },
+    {
+      "title": "Private health insurance rebate",
+      "description": "The private health insurance rebate is a government contribution to help with the cost of your private health insurance.",
+      "url": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/private-health-insurance-rebate"
+    }
+  ],
+  "word_count": 0,
+  "source_title": "",
+  "source_description": "",
+  "category": "medicare-and-private-health-insurance"
+}

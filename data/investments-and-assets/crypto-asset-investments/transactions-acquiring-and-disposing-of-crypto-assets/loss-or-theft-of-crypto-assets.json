@@ -1,0 +1,101 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/crypto-asset-investments/transactions-acquiring-and-disposing-of-crypto-assets/loss-or-theft-of-crypto-assets",
+  "title": "Loss or theft of crypto assets",
+  "description": "Evidence you'll need to claim a capital loss if your crypto asset is lost or stolen.",
+  "nat_number": "",
+  "quick_code": "69951",
+  "date_updated": "2025-09-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "lost crypto, stolen crypto, lost private key, capital loss on lost crypto, crypto theft, proof of ownership",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Work out if crypto asset is lost or stolen"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your crypto asset is lost or stolen, you can claim a capital loss if you can provide evidence of ownership."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to work out if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the crypto asset is lost",
+        "you have evidence of your ownership",
+        "you have lost access to the crypto asset."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, where you can recover an item, it is not lost. For example, you can recover crypto assets by extracting data from a hard drive. However, you can't recover a lost private key."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you can't replace the item, then you can claim a capital loss, which you can use to reduce any capital gains . If you receive a compensation or insurance payment because your crypto asset is lost or stolen, you must reduce your capital loss by the amount you receive. You will make a capital gain if your compensation exceeds the cost base of the lost asset."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be able to choose to rollover any capital gain, if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you receive compensation for the loss of a crypto asset",
+        "acquire another crypto asset within a year of the end of the income year (or within a longer period allowed by the Commissioner in special circumstances)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This allows you to defer any capital gain arising from the loss of the original asset."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: claim a capital loss from lost crypto asset"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alex purchased 2 Ethereum (ETH) on 10 January 2024 for $2,672. On 21 May 2025, Alex discovered they'd lost the private key and were unable to recover access to the ETH."
+    },
+    {
+      "type": "paragraph",
+      "text": "Assuming Alex could prove that they had owned and lost the ETH (see Lost private key ), they would be entitled to claim a capital loss of $2,672 (being the reduced cost base of the ETH) in their 2024–25 income tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lost private key"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you lose your private key, you lose access to your crypto assets. To claim a capital loss, you will need to have evidence to show your ownership. For example, evidence of the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "public key",
+        "date you acquired the private key",
+        "date you lost the private key",
+        "digital wallet address for the private key",
+        "cost to acquire the crypto assets in the digital wallet",
+        "value of the crypto assets in the digital wallet at the time the private key was lost",
+        "digital wallet being in your control (for example, you can link transactions to your identity)",
+        "hardware that stores the digital wallet in your possession",
+        "transactions from a digital currency exchange where you have account verification or it's linked to your identity."
+      ]
+    }
+  ],
+  "content_text": "## Work out if crypto asset is lost or stolen\nIf your crypto asset is lost or stolen, you can claim a capital loss if you can provide evidence of ownership.\nYou need to work out if:\n- the crypto asset is lost\n- you have evidence of your ownership\n- you have lost access to the crypto asset.\nGenerally, where you can recover an item, it is not lost. For example, you can recover crypto assets by extracting data from a hard drive. However, you can't recover a lost private key.\nIf you can't replace the item, then you can claim a capital loss, which you can use to reduce any capital gains . If you receive a compensation or insurance payment because your crypto asset is lost or stolen, you must reduce your capital loss by the amount you receive. You will make a capital gain if your compensation exceeds the cost base of the lost asset.\nYou may be able to choose to rollover any capital gain, if:\n- you receive compensation for the loss of a crypto asset\n- acquire another crypto asset within a year of the end of the income year (or within a longer period allowed by the Commissioner in special circumstances).\nThis allows you to defer any capital gain arising from the loss of the original asset.\n### Example: claim a capital loss from lost crypto asset\nAlex purchased 2 Ethereum (ETH) on 10 January 2024 for $2,672. On 21 May 2025, Alex discovered they'd lost the private key and were unable to recover access to the ETH.\nAssuming Alex could prove that they had owned and lost the ETH (see Lost private key ), they would be entitled to claim a capital loss of $2,672 (being the reduced cost base of the ETH) in their 2024–25 income tax return.\n## Lost private key\nIf you lose your private key, you lose access to your crypto assets. To claim a capital loss, you will need to have evidence to show your ownership. For example, evidence of the:\n- public key\n- date you acquired the private key\n- date you lost the private key\n- digital wallet address for the private key\n- cost to acquire the crypto assets in the digital wallet\n- value of the crypto assets in the digital wallet at the time the private key was lost\n- digital wallet being in your control (for example, you can link transactions to your identity)\n- hardware that stores the digital wallet in your possession\n- transactions from a digital currency exchange where you have account verification or it's linked to your identity.",
+  "child_links": [],
+  "word_count": 443,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

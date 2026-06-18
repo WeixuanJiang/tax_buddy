@@ -1,0 +1,337 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2026/tax-losses-of-earlier-income-years",
+  "title": "myTax 2026 Tax losses of earlier income years",
+  "description": "How to claim tax losses from earlier income years when lodging your tax return using myTax.",
+  "nat_number": "",
+  "quick_code": "107074",
+  "date_updated": "2026-06-01T00:55:00Z",
+  "first_published": true,
+  "keywords": "mytax26, tax losses of earlier income years",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete this section if you have a tax loss from an earlier income year that you haven't claimed as a deduction. You must complete this section whether or not you're able to claim a deduction for the loss in 2025–26."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your latest 2024–25 tax return lodgment shows a taxable income greater than $0, you aren't able to complete this section in myTax."
+    },
+    {
+      "type": "paragraph",
+      "text": "A tax loss is different from a capital loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "You generally make a tax loss when the total deductions you can claim for an income year exceed your income for the year. Total income includes both assessable and net exempt income for the year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you make a tax loss in an income year you can carry it forward and deduct it in future years against income for tax purposes. Certain deductions can't be used to contribute to a loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "You generally can't claim a deduction for tax losses if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "prior to 1 July 2025 you became bankrupt were released from debt under an arrangement established under bankruptcy law; and",
+        "the tax losses relate to a time before you were declared bankrupt or released from debt."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have tax losses from more than one earlier income year, you should generally deduct the earliest losses first."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Don’t show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don’t show the following at this section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "capital losses, go to Capital gains or losses",
+        "expenses and losses you incurred in earning foreign income, go to Foreign income – not on an income statement/payment summary , Foreign pensions and annuities or Other foreign income",
+        "deferred non-commercial business losses from a prior income year for partnership activities, go to Partnerships for sole trader activities, go to Business income or losses ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll need the following tax losses amounts that you worked out when completing last year's tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "primary production losses carried forward to 2025–26 To learn more about primary production activities, visit Information for primary producers",
+        "non-primary production losses carried forward to 2025–26."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your tax return to show tax losses of earlier income years, at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You had tax losses of earlier income years"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your tax losses of earlier income years, at Prepare return select 'Add/Edit' at the Deductions, or tax losses of earlier income years banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Tax losses of earlier income years banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "If our records show you have lodged a tax return for the 2024–25 income year and your taxable income was Greater than zero – myTax won't allow you to claim tax losses of earlier income years because you aren't eligible. Go to step 6. Otherwise – go to step 2.",
+        "Enter any primary production and non-primary production losses carried forward to 2025–26 into the corresponding fields.",
+        "Calculate your net exempt income. Your net exempt income is the total of your exempt income for 2025–26 less the total expenses (other than capital expenses) incurred in earning your exempt income. If the result is less than zero, your net exempt income is 0. To find out what amounts are exempt income, see Amounts that you do not pay tax on .",
+        "Enter your net exempt income into the corresponding fields.",
+        "Select Save – myTax will work out the Total losses available this income year and the Losses claimed this income year .",
+        "Select Save and continue when you have completed the Deductions, or tax losses of earlier income years section."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Calculate losses to carry forward to 2026–27"
+    },
+    {
+      "type": "paragraph",
+      "text": "Follow these steps to work out if you have any losses to carry forward to 2026–27."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1: Is Taxable income at Prepare return a loss?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes – go to step 4 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "No – go to step 2 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2: Work out if you have losses to carry forward"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is Taxable income plus Losses claimed this income year ( Primary production and Non-primary production ), treated as a positive amount, equal to or more than Total losses available this income year ( Primary production and Non-primary production )?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes – You have no losses (primary production or non-primary production) to carry forward to 2026–27."
+    },
+    {
+      "type": "paragraph",
+      "text": "No – go to step 3 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3: Work out the primary and non-primary production losses you carry forward"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is Taxable income plus Losses claimed this income year ( Primary production ), treated as a positive amount, equal to or more than Total losses available this income year ( Primary production )?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes – You have no primary production losses to carry forward to 2026–27."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of non-primary production losses you carry forward to 2026–27 is Total losses available this income year ( Non-primary production ) less Losses claimed this income year ( Non-primary production )."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep a record of this amount for next year."
+    },
+    {
+      "type": "paragraph",
+      "text": "No – The amount of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "primary production losses you carry forward to 2026–27 is Total losses available this income year ( Primary production ) less Losses claimed this income year ( Primary production )",
+        "non-primary production losses you carry forward to 2026–27 is Total losses available this income year ( Non-primary production ) less Losses claimed this income year ( Non-primary production )."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep a record of these amounts for next year."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 4: Use the worksheet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the worksheet below to work out the primary production and non-primary production losses you carry forward to 2026–27."
+    },
+    {
+      "type": "paragraph",
+      "text": "Show all losses as negative amounts in the worksheet. Amounts at rows e , f , g and h may be losses. If so, show them as negative amounts."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "Taxable income on your tax return. This amount is a loss, show it as a negative amount.",
+          "$"
+        ],
+        [
+          "b",
+          "Gifts or donations on your tax return.",
+          "$"
+        ],
+        [
+          "c",
+          "Personal super contributions on your tax return.",
+          "$"
+        ],
+        [
+          "d",
+          "Add rows b and c .",
+          "$"
+        ],
+        [
+          "e",
+          "Add row d , which is either zero or positive, to row a which is negative. If row e is positive, go to step 7 .",
+          "$"
+        ],
+        [
+          "f",
+          "Trusts ( Net primary production amount ) plus Partnerships ( Net primary production amount ) on your tax return.",
+          "$"
+        ],
+        [
+          "g",
+          "Business income or loss ( Net primary production ) on your tax return.",
+          "$"
+        ],
+        [
+          "h",
+          "Add rows f and g .",
+          "$"
+        ],
+        [
+          "i",
+          "If row h is a loss and is the same or a greater loss than row e , show the amount from row e . If row h is a loss and is a smaller loss than row e , show the amount from row h . Otherwise, show 0 .",
+          "$"
+        ],
+        [
+          "j",
+          "If row h is a loss and is the same or a greater loss than row e show 0 . If row h is a loss and is a smaller loss than row e , subtract row h from row e and show the answer. If row h isn't a loss, show the amount from row e .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Go to step 5 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 5: Work out the amount of primary production losses you carry forward"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the amount at row i zero?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes – The amount of primary production losses you carry forward to 2026–27 is Total losses available this income year ( Primary production ). Go to step 6 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep a record of these amounts for next year."
+    },
+    {
+      "type": "paragraph",
+      "text": "No – Add the amount at row i to Total losses available this income year ( Primary production ). When adding these 2 amounts ignore the fact that they're both negative amounts. The answer is the amount of primary production losses you carry forward to 2026–27. Go to step 6 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep a record of these amounts for next year."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 6: Work out the amount of non-primary production losses you carry forward"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the amount at row j zero?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes – The amount of non-primary production losses you carry forward to 2026–27 is Total losses available this income year ( Non-primary production ). Keep a record of these amounts for next year."
+    },
+    {
+      "type": "paragraph",
+      "text": "No – Add the amount at row j to Total losses available this income year ( Non-primary production ). When adding these 2 amounts ignore the fact that they're both negative amounts. The answer is the amount of non-primary production losses you carry forward to 2026–27. Keep a record of this amount for next year."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 7: Work out if you have losses to carry forward"
+    },
+    {
+      "type": "paragraph",
+      "text": "Total losses available this income year ( Primary production ) is your primary production losses you carry forward to 2026–27."
+    },
+    {
+      "type": "paragraph",
+      "text": "Total losses available this income year ( Non-primary production ) is your non-primary production losses you carry forward to 2026–27."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep a record of these amounts for next year."
+    }
+  ],
+  "content_text": "## Things to know\nComplete this section if you have a tax loss from an earlier income year that you haven't claimed as a deduction. You must complete this section whether or not you're able to claim a deduction for the loss in 2025–26.\nIf your latest 2024–25 tax return lodgment shows a taxable income greater than $0, you aren't able to complete this section in myTax.\nA tax loss is different from a capital loss.\nYou generally make a tax loss when the total deductions you can claim for an income year exceed your income for the year. Total income includes both assessable and net exempt income for the year.\nIf you make a tax loss in an income year you can carry it forward and deduct it in future years against income for tax purposes. Certain deductions can't be used to contribute to a loss.\nYou generally can't claim a deduction for tax losses if:\n- prior to 1 July 2025 you became bankrupt were released from debt under an arrangement established under bankruptcy law; and\n- the tax losses relate to a time before you were declared bankrupt or released from debt.\nIf you have tax losses from more than one earlier income year, you should generally deduct the earliest losses first.\n### Don’t show at this section\nDon’t show the following at this section:\n- capital losses, go to Capital gains or losses\n- expenses and losses you incurred in earning foreign income, go to Foreign income – not on an income statement/payment summary , Foreign pensions and annuities or Other foreign income\n- deferred non-commercial business losses from a prior income year for partnership activities, go to Partnerships for sole trader activities, go to Business income or losses .\n## Completing this section\nYou'll need the following tax losses amounts that you worked out when completing last year's tax return:\n- primary production losses carried forward to 2025–26 To learn more about primary production activities, visit Information for primary producers\n- non-primary production losses carried forward to 2025–26.\nTo personalise your tax return to show tax losses of earlier income years, at Personalise return select:\n- You had tax losses of earlier income years\nTo show your tax losses of earlier income years, at Prepare return select 'Add/Edit' at the Deductions, or tax losses of earlier income years banner.\nAt the Tax losses of earlier income years banner:\n- If our records show you have lodged a tax return for the 2024–25 income year and your taxable income was Greater than zero – myTax won't allow you to claim tax losses of earlier income years because you aren't eligible. Go to step 6. Otherwise – go to step 2.\n- Enter any primary production and non-primary production losses carried forward to 2025–26 into the corresponding fields.\n- Calculate your net exempt income. Your net exempt income is the total of your exempt income for 2025–26 less the total expenses (other than capital expenses) incurred in earning your exempt income. If the result is less than zero, your net exempt income is 0. To find out what amounts are exempt income, see Amounts that you do not pay tax on .\n- Enter your net exempt income into the corresponding fields.\n- Select Save – myTax will work out the Total losses available this income year and the Losses claimed this income year .\n- Select Save and continue when you have completed the Deductions, or tax losses of earlier income years section.\n### Calculate losses to carry forward to 2026–27\nFollow these steps to work out if you have any losses to carry forward to 2026–27.\n#### Step 1: Is Taxable income at Prepare return a loss?\nYes – go to step 4 .\nNo – go to step 2 .\n#### Step 2: Work out if you have losses to carry forward\nIs Taxable income plus Losses claimed this income year ( Primary production and Non-primary production ), treated as a positive amount, equal to or more than Total losses available this income year ( Primary production and Non-primary production )?\nYes – You have no losses (primary production or non-primary production) to carry forward to 2026–27.\nNo – go to step 3 .\n#### Step 3: Work out the primary and non-primary production losses you carry forward\nIs Taxable income plus Losses claimed this income year ( Primary production ), treated as a positive amount, equal to or more than Total losses available this income year ( Primary production )?\nYes – You have no primary production losses to carry forward to 2026–27.\nThe amount of non-primary production losses you carry forward to 2026–27 is Total losses available this income year ( Non-primary production ) less Losses claimed this income year ( Non-primary production ).\nKeep a record of this amount for next year.\nNo – The amount of:\n- primary production losses you carry forward to 2026–27 is Total losses available this income year ( Primary production ) less Losses claimed this income year ( Primary production )\n- non-primary production losses you carry forward to 2026–27 is Total losses available this income year ( Non-primary production ) less Losses claimed this income year ( Non-primary production ).\nKeep a record of these amounts for next year.\n#### Step 4: Use the worksheet\nUse the worksheet below to work out the primary production and non-primary production losses you carry forward to 2026–27.\nShow all losses as negative amounts in the worksheet. Amounts at rows e , f , g and h may be losses. If so, show them as negative amounts.\nRow | Calculation | Amount\na | Taxable income on your tax return. This amount is a loss, show it as a negative amount. | $\nb | Gifts or donations on your tax return. | $\nc | Personal super contributions on your tax return. | $\nd | Add rows b and c . | $\ne | Add row d , which is either zero or positive, to row a which is negative. If row e is positive, go to step 7 . | $\nf | Trusts ( Net primary production amount ) plus Partnerships ( Net primary production amount ) on your tax return. | $\ng | Business income or loss ( Net primary production ) on your tax return. | $\nh | Add rows f and g . | $\ni | If row h is a loss and is the same or a greater loss than row e , show the amount from row e . If row h is a loss and is a smaller loss than row e , show the amount from row h . Otherwise, show 0 . | $\nj | If row h is a loss and is the same or a greater loss than row e show 0 . If row h is a loss and is a smaller loss than row e , subtract row h from row e and show the answer. If row h isn't a loss, show the amount from row e . | $\nGo to step 5 .\n#### Step 5: Work out the amount of primary production losses you carry forward\nIs the amount at row i zero?\nYes – The amount of primary production losses you carry forward to 2026–27 is Total losses available this income year ( Primary production ). Go to step 6 .\nKeep a record of these amounts for next year.\nNo – Add the amount at row i to Total losses available this income year ( Primary production ). When adding these 2 amounts ignore the fact that they're both negative amounts. The answer is the amount of primary production losses you carry forward to 2026–27. Go to step 6 .\nKeep a record of these amounts for next year.\n#### Step 6: Work out the amount of non-primary production losses you carry forward\nIs the amount at row j zero?\nYes – The amount of non-primary production losses you carry forward to 2026–27 is Total losses available this income year ( Non-primary production ). Keep a record of these amounts for next year.\nNo – Add the amount at row j to Total losses available this income year ( Non-primary production ). When adding these 2 amounts ignore the fact that they're both negative amounts. The answer is the amount of non-primary production losses you carry forward to 2026–27. Keep a record of this amount for next year.\n#### Step 7: Work out if you have losses to carry forward\nTotal losses available this income year ( Primary production ) is your primary production losses you carry forward to 2026–27.\nTotal losses available this income year ( Non-primary production ) is your non-primary production losses you carry forward to 2026–27.\nKeep a record of these amounts for next year.",
+  "child_links": [],
+  "word_count": 1488,
+  "source_title": "myTax 2026 Tax losses of earlier income years - ATO",
+  "source_description": "Complete this section if you have a tax loss from an earlier income year that you haven't claimed as a deduction.",
+  "category": "your-tax-return"
+}

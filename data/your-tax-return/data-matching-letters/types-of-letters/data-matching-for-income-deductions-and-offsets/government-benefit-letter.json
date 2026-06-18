@@ -1,0 +1,217 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/data-matching-letters/types-of-letters/data-matching-for-income-deductions-and-offsets/government-benefit-letter",
+  "title": "Government benefit letter",
+  "description": "What to do if you get a data matching letter from us about a government benefit.",
+  "nat_number": "",
+  "quick_code": "41708",
+  "date_updated": "2024-01-07T14:00:00Z",
+  "first_published": "",
+  "keywords": "data matching, data-matching, discrepancy, letter, schedule, types, declare income, government benefits, tax return",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Receiving your letter"
+    },
+    {
+      "type": "paragraph",
+      "text": "We may send you a letter about your government payments or allowances if the amount paid to you by Services Australia and other government agencies doesn't match the amount you declared in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "The letter will include an income statement summary that compares the details you declared in your tax return with the information government agencies reported to us."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a myGov account linked to us , we’ll send the letter to your myGov Inbox titled Have you included all information in your tax return?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don’t have a myGov account, we’ll send the letter to the most recent postal address we have for you."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to do"
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to review the income statement summary and compare the information with your records. You can then determine if you agree or disagree with the amended details."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a question, phone us on 1300 768 912 and select option 3 between 8:00 am and 6:00 pm, Monday to Friday:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "quoting the reference number found at the top right of your letter",
+        "using the words 'data matching'."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Income statement summary – sample"
+    },
+    {
+      "type": "paragraph",
+      "text": "Below is a sample income statement summary. Keep in mind your summary will show the relevant information from your tax return compared with information we hold and may not look exactly the same. Use the definitions to help you understand your schedule."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Income statement summary",
+          "Income",
+          "Tax Withheld"
+        ],
+        [
+          "Amount reported to us by a third party",
+          "$334",
+          "$0"
+        ],
+        [
+          "Amount included in your return",
+          "$0",
+          "$0"
+        ],
+        [
+          "Difference",
+          "$334",
+          "$0"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Source of income",
+          "Payer ABN",
+          "Income",
+          "Tax Withheld"
+        ],
+        [
+          "Government agency",
+          "55555555555",
+          "$334",
+          "$0"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Summary definitions"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following definitions will help you understand your summary:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Amount included in your return – the total amount of income and tax withheld you declared in your tax return.",
+        "Amount reported to us by a third party – the total amount of government benefits income and tax withheld, as reported to us by government agencies.",
+        "Difference – the difference between the income and tax withheld you declared in your tax return and the amounts reported to us by government agencies.",
+        "Income – the income amount reported to us.",
+        "Payer ABN – the Australian business number of the government agency that reported to us.",
+        "Source of income – a list of each source of government benefits paid to you, as reported to us by government agencies.",
+        "Tax withheld – the tax withheld amount reported to us."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you agree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you agree with our information, you don’t need to do anything. We’ll send you an amended notice of assessment 28 days after the date shown on your letter. If you have a myGov account linked to ATO online services, we’ll send your amended notice to your myGov inbox."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you disagree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with the details reported, you need to let us know before the due date noted in your letter. You can contact us by either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "mail to Australian Taxation Office PO Box 3543 ALBURY NSW 2640",
+        "phoning 1300 768 912 and selecting option 3 between 8:00 am and 6:00 pm, Monday to Friday",
+        "emailing us at datamatchingteam@ato.gov.au"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The internet isn't a secure environment and we don't control the path of inbound and outbound emails. If you choose to email us, we can't guarantee the privacy of your personal information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "quote the reference number found at the top right of your letter",
+        "use the words 'data matching'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Once we've assessed your response, you'll receive an amended notice of assessment. The case officer reviewing your supporting documents may contact you if we need additional information."
+    },
+    {
+      "type": "paragraph",
+      "text": "If we don't receive a response from you within 28 days of your letter's date of issue, we’ll:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "automatically amend your tax return using the information we have",
+        "send you an amended notice of assessment."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Supporting documents"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with the information in our letter about your government benefits, we may ask you to provide these supporting documents:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your payment summary from the relevant agencies",
+        "a letter from any agencies that paid your allowance, pension, or payment stating the amount you received."
+      ]
+    }
+  ],
+  "content_text": "## Receiving your letter\nWe may send you a letter about your government payments or allowances if the amount paid to you by Services Australia and other government agencies doesn't match the amount you declared in your tax return.\nThe letter will include an income statement summary that compares the details you declared in your tax return with the information government agencies reported to us.\nIf you have a myGov account linked to us , we’ll send the letter to your myGov Inbox titled Have you included all information in your tax return?\nIf you don’t have a myGov account, we’ll send the letter to the most recent postal address we have for you.\n## What to do\nYou need to review the income statement summary and compare the information with your records. You can then determine if you agree or disagree with the amended details.\nIf you have a question, phone us on 1300 768 912 and select option 3 between 8:00 am and 6:00 pm, Monday to Friday:\n- quoting the reference number found at the top right of your letter\n- using the words 'data matching'.\n### Income statement summary – sample\nBelow is a sample income statement summary. Keep in mind your summary will show the relevant information from your tax return compared with information we hold and may not look exactly the same. Use the definitions to help you understand your schedule.\nIncome statement summary | Income | Tax Withheld\nAmount reported to us by a third party | $334 | $0\nAmount included in your return | $0 | $0\nDifference | $334 | $0\nSource of income | Payer ABN | Income | Tax Withheld\nGovernment agency | 55555555555 | $334 | $0\n### Summary definitions\nThe following definitions will help you understand your summary:\n- Amount included in your return – the total amount of income and tax withheld you declared in your tax return.\n- Amount reported to us by a third party – the total amount of government benefits income and tax withheld, as reported to us by government agencies.\n- Difference – the difference between the income and tax withheld you declared in your tax return and the amounts reported to us by government agencies.\n- Income – the income amount reported to us.\n- Payer ABN – the Australian business number of the government agency that reported to us.\n- Source of income – a list of each source of government benefits paid to you, as reported to us by government agencies.\n- Tax withheld – the tax withheld amount reported to us.\n### If you agree\nIf you agree with our information, you don’t need to do anything. We’ll send you an amended notice of assessment 28 days after the date shown on your letter. If you have a myGov account linked to ATO online services, we’ll send your amended notice to your myGov inbox.\nOnce you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date.\n### If you disagree\nIf you disagree with the details reported, you need to let us know before the due date noted in your letter. You can contact us by either:\n- mail to Australian Taxation Office PO Box 3543 ALBURY NSW 2640\n- phoning 1300 768 912 and selecting option 3 between 8:00 am and 6:00 pm, Monday to Friday\n- emailing us at datamatchingteam@ato.gov.au\nThe internet isn't a secure environment and we don't control the path of inbound and outbound emails. If you choose to email us, we can't guarantee the privacy of your personal information.\nRemember to:\n- quote the reference number found at the top right of your letter\n- use the words 'data matching'.\nOnce we've assessed your response, you'll receive an amended notice of assessment. The case officer reviewing your supporting documents may contact you if we need additional information.\nIf we don't receive a response from you within 28 days of your letter's date of issue, we’ll:\n- automatically amend your tax return using the information we have\n- send you an amended notice of assessment.\nOnce you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date.\n### Supporting documents\nIf you disagree with the information in our letter about your government benefits, we may ask you to provide these supporting documents:\n- your payment summary from the relevant agencies\n- a letter from any agencies that paid your allowance, pension, or payment stating the amount you received.",
+  "child_links": [],
+  "word_count": 764,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

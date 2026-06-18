@@ -1,0 +1,76 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2016/other-mytax-instructions-including-spouse-details-and-income-tests/spouse-details",
+  "title": "Spouse details",
+  "description": "How to complete the spouse details section of your return using myTax.",
+  "nat_number": "",
+  "quick_code": "48484",
+  "date_updated": "2024-03-04T14:00:00Z",
+  "first_published": "",
+  "keywords": "spouse",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with spouse details from your 2014–15 tax return (if you had a spouse on 30 June 2015). Check spouse details and update, if necessary."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must complete this section if you had a spouse during 2015–16."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Spouse details - married or de facto ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your spouse’s tax return",
+        "your spouse’s PAYG payment summary – individual non-business",
+        "if your spouse had child support obligations, the details of the amount of child support they paid (your spouse can get this information from Services Australia)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your spouse did not lodge a tax return, you will need to obtain the information required from your spouse or their records."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had more than one spouse during 2015–16, complete this section with the details for your spouse on 30 June 2016, or for your last spouse during 2015–16."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Enter your spouse's personal details into the corresponding fields.",
+        "Enter your spouse's income details into the corresponding fields. If the amount is zero, enter 0 .",
+        "Select Save and continue ."
+      ]
+    }
+  ],
+  "content_text": "We have pre-filled your tax return with spouse details from your 2014–15 tax return (if you had a spouse on 30 June 2015). Check spouse details and update, if necessary.\nYou must complete this section if you had a spouse during 2015–16.\nFor more information, see Spouse details - married or de facto .\n## Completing this section\nYou will need:\n- your spouse’s tax return\n- your spouse’s PAYG payment summary – individual non-business\n- if your spouse had child support obligations, the details of the amount of child support they paid (your spouse can get this information from Services Australia).\nIf your spouse did not lodge a tax return, you will need to obtain the information required from your spouse or their records.\nIf you had more than one spouse during 2015–16, complete this section with the details for your spouse on 30 June 2016, or for your last spouse during 2015–16.\n- Enter your spouse's personal details into the corresponding fields.\n- Enter your spouse's income details into the corresponding fields. If the amount is zero, enter 0 .\n- Select Save and continue .",
+  "child_links": [
+    {
+      "title": "Spouse's exempt pension income",
+      "description": "What to enter in the Your spouse's exempt pension income field.",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2016/other-mytax-instructions-including-spouse-details-and-income-tests/spouse-details/spouses-exempt-pension-income"
+    },
+    {
+      "title": "Other specified exempt payments your spouse received",
+      "description": "What to enter in the Other specified exempt payments your spouse received field.",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2016/other-mytax-instructions-including-spouse-details-and-income-tests/spouse-details/other-specified-exempt-payments-your-spouse-received"
+    }
+  ],
+  "word_count": 188,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

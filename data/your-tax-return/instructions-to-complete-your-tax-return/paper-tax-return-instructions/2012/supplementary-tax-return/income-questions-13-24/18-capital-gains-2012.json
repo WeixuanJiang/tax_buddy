@@ -1,0 +1,543 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2012/supplementary-tax-return/income-questions-13-24/18-capital-gains-2012",
+  "title": "18 - Capital gains 2012",
+  "description": "Complete question 18 to report capital gains tax events, capital gains (income) and capital losses.",
+  "nat_number": "71051",
+  "quick_code": "25732",
+  "date_updated": "2012-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, supplement, capital gains, CGT, income",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Do not show at this item a 'listed investment company capital gain amount' included in a dividend paid by a listed investment company. See question D8 - Dividend deductions ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Did you have a capital gains tax event during the year?"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may have made a capital gain or capital loss if a capital gains tax (CGT) event happened in 2011-12. See the box on the next page for an explanation of a CGT event."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may have also made a capital gain for 2011-12 if you were a beneficiary of, or had money invested in, a trust (including a managed investment fund) in 2011-12 and the trust made a capital gain during the year."
+    },
+    {
+      "type": "paragraph",
+      "text": "For most CGT events, you have made:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a capital gain if the amount of money and property you received, or were entitled to receive, from the CGT event was more than the cost base of your asset; you may then have to pay tax on your capital gain",
+        "a capital loss if the amount of money and property you received, or were entitled to receive, from the CGT event was less than the reduced cost base of your asset."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot deduct a capital loss from your income , but in most cases it can be used to reduce any capital gain you made in 2011-12. See the note at Completing this item step 3 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some capital gains and capital losses are disregarded; see Exceptions and exemptions ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Print X in the NO box at G item 18 on page 14 of your tax return if: you did not have a capital gain or capital loss, or all of your capital gains or capital losses were disregarded. Go to Did you have any unapplied net capital losses from earlier years? to find out how to complete this item."
+        ],
+        [
+          "YES",
+          "Print X in the YES box at G item 18 on page 14 of your tax return if you had a capital gain or a capital loss that was not disregarded. Read on to work out your net capital gain or net capital loss."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Did this CGT event relate to a forestry managed investment scheme interest that you held, other than as an initial participant?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Print X in the NO box at Q item 18 on page 14 of your tax return if you had a CGT event that did not relate to a forestry managed investment scheme interest that you held, other than as an initial participant."
+        ],
+        [
+          "YES",
+          "Print X in the YES box at Q item 18 on page 14 of your tax return if you had a CGT event that did relate to a forestry managed investment scheme interest that you held, other than as an initial participant."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you selected YES at Q item 18 on page 14 of your tax return because you sold your forestry managed investment scheme interest as a subsequent participant during the year, then you should complete the Capital gains tax (CGT) schedule 2012 (NAT 3423). See Guide to capital gains tax 2012 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were an Australian resident for tax purposes, show any capital gains or capital losses you made from foreign sources at this item. Do not show them as foreign source income at item 20 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "CGT events and CGT assets"
+    },
+    {
+      "type": "paragraph",
+      "text": "There is a wide range of CGT events. The most common CGT event happens when you sell or give away a CGT asset, such as:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "real estate, including your family home, a holiday home, investment property, vacant block of land, hobby farm",
+        "shares",
+        "units in a unit trust or managed investment fund",
+        "forestry managed investment scheme interests (as a subsequent participant)",
+        "collectables, for example, jewellery",
+        "personal use assets."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Examples of other CGT events are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an asset you owned was lost or destroyed",
+        "you received an amount for entering into an agreement, for example, you agreed not to work in a particular industry for a set period of time",
+        "you entered into a conservation covenant over land that you owned",
+        "you received a non-assessable payment from a trust or company."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are not sure whether a CGT event happened in 2011-12, see Appendix 1:Summary of CGT events in the Guide to capital gains tax 2012 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Exc eptions and exemptions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally speaking, you disregard a capital gain or capital loss on:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an asset you acquired before 20 September 1985",
+        "cars, motorcycles and similar vehicles",
+        "compensation you received for personal injury",
+        "disposal of your main residence",
+        "a collectable, for example, an antique or jewellery, which you acquired for $500 or less",
+        "a personal use asset, for example, boats, furniture, electrical goods and household items used or kept mainly for personal use or enjoyment. If you acquired it for more than $10,000, you disregard only capital losses. If you acquired it for $10,000 or less, you disregard both capital gains and capital losses",
+        "the exchange of shares or units you owned in a company or trust that was taken over, if certain conditions were met",
+        "shares in a company or interests in a trust where there had been a demerger and certain conditions had been met",
+        "disposing of an asset to which the small business 15-year exemption applies",
+        "the disposal of certain investments by a venture capital limited partnership, an early stage venture capital limited partnership or an Australian venture capital fund of funds",
+        "disposal of shares in a pooled development fund."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, if you are a foreign resident beneficiary of a trust and 'managed investment trust withholding tax' is payable on an amount that you received from that trust (other than in the capacity of a trustee) then you do not need to include any part of that amount on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Did you dispose of shares, stapled securities or rights acquired under an employee share scheme?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Employee share schemes enable you to acquire shares or stapled securities, or obtain rights (including options) to acquire shares or stapled securities, in your employer's company at a discount."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of the capital gain may be reduced if your shares, stapled securities or rights were acquired under an employee share scheme."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Employee share schemes - answers to frequently asked questions by employees (NAT 7366)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Did you receive, or were you entitled to receive, a share of the income of a trust (including a managed fund)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Managed funds (unit trusts) include property trusts, share trusts, equity trusts, growth trusts, imputation trusts and balanced trusts. Other trusts include discretionary trusts, family trusts, hybrid trusts and business trusts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Distributions from trusts (including managed funds) can include two components that have CGT consequences:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "distributions of trust income where the trust's net income for tax purposes includes a net capital gain, and",
+        "distributions of non-assessable amounts."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to know whether your distribution includes these amounts. To find out, check the distribution, year end or annual statement from the trust. The statement should also show which method the trust used to calculate the capital gains included in the trust's net capital gain. There are three methods of calculating capital gains:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "indexation",
+        "discount",
+        "'other'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You must use the same method as the trust to calculate your own net capital gain."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trustees and fund managers may use different terms to describe the calculation methods they have used and they may refer to capital gains calculated using the indexation and 'other' methods as 'non-discount gains'. If in doubt, check with your trust or fund manager."
+    },
+    {
+      "type": "paragraph",
+      "text": "The tax law has been changed to address a number of uncertainties and longstanding problems with the taxation of trusts."
+    },
+    {
+      "type": "paragraph",
+      "text": "The changes include new anti-avoidance rules and measures to allow tax-effective streaming of franked distributions and capital gains to beneficiaries. The amendments apply from 1 July 2010."
+    },
+    {
+      "type": "paragraph",
+      "text": "For further information, see Interim changes to the taxation of trusts ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Guide to capital gains tax 2012 (NAT 4151) and Personal investors guide to capital gains tax 2012 (NAT 4152)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Did you make a capital gain or capital loss on your shares?"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may make a capital gain or capital loss by selling or giving away your shares, including by selling them to the company under a share buy-back arrangement. Even if you did not pay for your shares, for example, you received them under a demutualisation, you may make a capital gain or capital loss when you sell or give them away."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, if you use dividends to acquire additional shares in a company, for example, through a dividend reinvestment plan, the additional shares are subject to CGT if you sell them or give them away."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are other ways of making a capital gain or capital loss on shares. These include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If you held shares in a company and during 2011-12 a liquidator or administrator declared the shares worthless, you can choose to claim a capital loss equal to the reduced cost base of the shares (otherwise you may have to wait until the company is dissolved to claim the capital loss).",
+        "If you received a non-assessable payment (also known as a return of capital) you may have to reduce the cost base and reduced cost base of your shares. If the amount of the non-assessable payment is more than the cost base of the shares, the difference is a capital gain."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Fact sheets on some major share transactions affecting shareholders are available on our website."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Did you sell a property you inherited?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Capital gains tax applies when you dispose of CGT assets that you inherited. However, if you inherited real estate, you may not have to pay CGT if you sold it within two years of the person's death, for example, if the property was the deceased person's main residence just before they died and they were not renting part of it out or using part of it for business purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Guide to capital gains tax 2012 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Your home may be subject to capital gains tax"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the 'main residence' exemption, you generally do not have to pay CGT on the disposal of your main residence. However, you may have to pay tax on some of your capital gain if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the property was not your main residence for the whole period you owned it",
+        "you used the property, or part of it, to produce assessable income, for example, you rented it out",
+        "the land area was greater than two hectares."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Guide to capital gains tax 2012 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Asset transfer on marriage or relationship breakdown"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you transferred an asset to your spouse as a result of a marriage or relationship breakdown, in certain cases there are no immediate CGT consequences. In these cases there is automatic rollover (you cannot choose whether or not it applies)."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, the one who receives the asset (the transferee spouse) will usually make a capital gain or capital loss when they dispose of the asset. If you were the transferee spouse and rollover applies, you may need to get cost base information from your former spouse or their tax adviser."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Guide to capital gains tax 2012 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your 'spouse' includes another person (whether of the same sex or opposite sex) who:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were in a relationship with that was registered under a prescribed state or territory law,",
+        "although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Foreign residents"
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign residents who are individuals are subject to CGT on:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "direct interests in real estate located in Australia",
+        "an interest in an entity where they and their associates hold 10% or more of the entity and the value of their interest is principally attributable to Australian real estate",
+        "an asset they have used in carrying on a business through a permanent establishment in Australia",
+        "an option or right to acquire one of the above."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Guide to capital gains tax 2012 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Temporary residents"
+    },
+    {
+      "type": "paragraph",
+      "text": "Temporary residents are subject to CGT in the same way as foreign residents."
+    },
+    {
+      "type": "paragraph",
+      "text": "See Tax-free income for temporary residents in Amounts that you do not pay tax on for the definition of a temporary resident and details of the exemption."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are special rules for shares and rights acquired under an employee share scheme."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Guide to capital gains tax 2012 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you may need"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Details of the amount of any unapplied net capital losses from earlier years; this is the amount at V at the capital gains item on your last year's tax return",
+        "Documents showing the date you acquired any asset to which a CGT event happened, the date of the CGT event, and the date and amounts of any expenditure you incurred that form part of the cost base and reduced cost base of the asset or are taken into account in working out your capital gain or capital loss",
+        "Year-end, annual or distribution statements from trusts with net capital gains from which you received or were entitled to receive:",
+        "distributions of income, or distributions of non-assessable amounts"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You may also need one or more of the following publications to complete this item. They explain the three methods that are used to calculate a capital gain, the indexation method, the discount method and 'other' method."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Introduction to capital gains tax explains what a capital gain is, how it applies, what assets are included and the exceptions and exemptions.",
+        "Guide to capital gains tax 2012 explains how CGT works and will help you to calculate your net capital gain or net capital loss. It covers CGT issues such as the sale of a rental property, vacant land, a holiday home, collectables (for example, jewellery), personal use assets (for example, a boat you use for recreation), and real estate, shares and units you inherited or got from the breakdown of your marriage or relationship.",
+        "Personal investors guide to capital gains tax 2012 is shorter and simpler than Guide to capital gains tax 2012 . It covers",
+        "the sale, gift or other disposal of shares and units distribution of capital gains from managed funds non-assessable payments from companies and managed funds."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "It does not cover other CGT events, nor the CGT consequences for bonus shares, shares acquired under an employee share scheme, bonus units, rights and options, and shares and units where a takeover or demerger has occurred; for those see Guide to capital gains tax 2012 ."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Capital gains tax (CGT) concessions for small business - overview explains what concessions are available to small businesses."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this item"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Read the publication that is relevant to your circumstances and work out the amount of your capital gain or capital loss for each CGT event that occurred, and the amount of your capital gains from a trust (including a managed fund) for the 2011-12 income year."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all your capital gains for the 2011-12 income year (except the ones that are disregarded) to work out your total current year capital gains. Do not apply capital losses, any CGT discounts or the small business concessions (other than the 15-year exemption) yet. Write this amount at H item 18 on page 14 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "St ep 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work out your net capital gain or net capital loss. This is the amount remaining after applying to your current year capital gains whichever of the following items are relevant to you (in the order listed):"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "capital losses from this year",
+        "unapplied net capital losses from earlier years",
+        "any CGT discounts",
+        "the small business 50% active asset reduction",
+        "the small business retirement exemption or rollover."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have capital losses to apply, you will find it to your advantage to apply them first to any capital gains that do not qualify for the CGT discount."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the total amount remaining is positive or zero, write it at A item 18 and go to question 19 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a negative amount, do not put anything at A . Go to step 4."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can only use capital losses from collectables to reduce capital gains from collectables. You must disregard capital losses from personal use assets."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "You have net capital losses to carry forward to later income years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the amount at V item 18 . Go to question 19 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Did you have any unapplied net capital losses from earlier years?"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use net capital losses from earlier years that you have not yet used to reduce a capital gain in later years."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to question 19 - Foreign entities , or return to main menu Individual tax return instructions"
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You have net capital losses from earlier years that are carried forward to later income years. Write the amount at V item 18 on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If foreign tax was paid on a foreign gain of a capital nature, you need to read part H in question 20 - Foreign source income and foreign assets or property to work out the amount of foreign income tax offset you can claim. You show the foreign income tax offset at O item 20 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Keeping records from the start"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must keep records of every act, transaction, event or circumstance that may be relevant to working out your capital gain or capital loss, regardless of whether the CGT event has already happened, is about to happen or may happen in the future."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must keep these records for five years from the time when no CGT event or further CGT event can happen. The records for these CGT events may be relevant to working out whether you have made a capital gain or capital loss from the event."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question 19 - Foreign entities . return to main menu Individual tax return instructions go back to 17 - Net farm management deposits or withdrawals"
+        ]
+      ]
+    }
+  ],
+  "content_text": "Do not show at this item a 'listed investment company capital gain amount' included in a dividend paid by a listed investment company. See question D8 - Dividend deductions .\n## Did you have a capital gains tax event during the year?\nYou may have made a capital gain or capital loss if a capital gains tax (CGT) event happened in 2011-12. See the box on the next page for an explanation of a CGT event.\nYou may have also made a capital gain for 2011-12 if you were a beneficiary of, or had money invested in, a trust (including a managed investment fund) in 2011-12 and the trust made a capital gain during the year.\nFor most CGT events, you have made:\n- a capital gain if the amount of money and property you received, or were entitled to receive, from the CGT event was more than the cost base of your asset; you may then have to pay tax on your capital gain\n- a capital loss if the amount of money and property you received, or were entitled to receive, from the CGT event was less than the reduced cost base of your asset.\nYou cannot deduct a capital loss from your income , but in most cases it can be used to reduce any capital gain you made in 2011-12. See the note at Completing this item step 3 .\nSome capital gains and capital losses are disregarded; see Exceptions and exemptions .\nNO | Print X in the NO box at G item 18 on page 14 of your tax return if: you did not have a capital gain or capital loss, or all of your capital gains or capital losses were disregarded. Go to Did you have any unapplied net capital losses from earlier years? to find out how to complete this item.\nYES | Print X in the YES box at G item 18 on page 14 of your tax return if you had a capital gain or a capital loss that was not disregarded. Read on to work out your net capital gain or net capital loss.\n### Did this CGT event relate to a forestry managed investment scheme interest that you held, other than as an initial participant?\nNO | Print X in the NO box at Q item 18 on page 14 of your tax return if you had a CGT event that did not relate to a forestry managed investment scheme interest that you held, other than as an initial participant.\nYES | Print X in the YES box at Q item 18 on page 14 of your tax return if you had a CGT event that did relate to a forestry managed investment scheme interest that you held, other than as an initial participant.\nIf you selected YES at Q item 18 on page 14 of your tax return because you sold your forestry managed investment scheme interest as a subsequent participant during the year, then you should complete the Capital gains tax (CGT) schedule 2012 (NAT 3423). See Guide to capital gains tax 2012 .\nIf you were an Australian resident for tax purposes, show any capital gains or capital losses you made from foreign sources at this item. Do not show them as foreign source income at item 20 .\n## You need to know\n#### CGT events and CGT assets\nThere is a wide range of CGT events. The most common CGT event happens when you sell or give away a CGT asset, such as:\n- real estate, including your family home, a holiday home, investment property, vacant block of land, hobby farm\n- shares\n- units in a unit trust or managed investment fund\n- forestry managed investment scheme interests (as a subsequent participant)\n- collectables, for example, jewellery\n- personal use assets.\nExamples of other CGT events are:\n- an asset you owned was lost or destroyed\n- you received an amount for entering into an agreement, for example, you agreed not to work in a particular industry for a set period of time\n- you entered into a conservation covenant over land that you owned\n- you received a non-assessable payment from a trust or company.\nIf you are not sure whether a CGT event happened in 2011-12, see Appendix 1:Summary of CGT events in the Guide to capital gains tax 2012 .\n### Exc eptions and exemptions\nGenerally speaking, you disregard a capital gain or capital loss on:\n- an asset you acquired before 20 September 1985\n- cars, motorcycles and similar vehicles\n- compensation you received for personal injury\n- disposal of your main residence\n- a collectable, for example, an antique or jewellery, which you acquired for $500 or less\n- a personal use asset, for example, boats, furniture, electrical goods and household items used or kept mainly for personal use or enjoyment. If you acquired it for more than $10,000, you disregard only capital losses. If you acquired it for $10,000 or less, you disregard both capital gains and capital losses\n- the exchange of shares or units you owned in a company or trust that was taken over, if certain conditions were met\n- shares in a company or interests in a trust where there had been a demerger and certain conditions had been met\n- disposing of an asset to which the small business 15-year exemption applies\n- the disposal of certain investments by a venture capital limited partnership, an early stage venture capital limited partnership or an Australian venture capital fund of funds\n- disposal of shares in a pooled development fund.\nAlso, if you are a foreign resident beneficiary of a trust and 'managed investment trust withholding tax' is payable on an amount that you received from that trust (other than in the capacity of a trustee) then you do not need to include any part of that amount on your tax return.\n### Did you dispose of shares, stapled securities or rights acquired under an employee share scheme?\nEmployee share schemes enable you to acquire shares or stapled securities, or obtain rights (including options) to acquire shares or stapled securities, in your employer's company at a discount.\nThe amount of the capital gain may be reduced if your shares, stapled securities or rights were acquired under an employee share scheme.\nFor more information, see Employee share schemes - answers to frequently asked questions by employees (NAT 7366).\n### Did you receive, or were you entitled to receive, a share of the income of a trust (including a managed fund)?\nManaged funds (unit trusts) include property trusts, share trusts, equity trusts, growth trusts, imputation trusts and balanced trusts. Other trusts include discretionary trusts, family trusts, hybrid trusts and business trusts.\nDistributions from trusts (including managed funds) can include two components that have CGT consequences:\n- distributions of trust income where the trust's net income for tax purposes includes a net capital gain, and\n- distributions of non-assessable amounts.\nYou need to know whether your distribution includes these amounts. To find out, check the distribution, year end or annual statement from the trust. The statement should also show which method the trust used to calculate the capital gains included in the trust's net capital gain. There are three methods of calculating capital gains:\n- indexation\n- discount\n- 'other'.\nYou must use the same method as the trust to calculate your own net capital gain.\nTrustees and fund managers may use different terms to describe the calculation methods they have used and they may refer to capital gains calculated using the indexation and 'other' methods as 'non-discount gains'. If in doubt, check with your trust or fund manager.\nThe tax law has been changed to address a number of uncertainties and longstanding problems with the taxation of trusts.\nThe changes include new anti-avoidance rules and measures to allow tax-effective streaming of franked distributions and capital gains to beneficiaries. The amendments apply from 1 July 2010.\nFor further information, see Interim changes to the taxation of trusts .\nFor more information, see Guide to capital gains tax 2012 (NAT 4151) and Personal investors guide to capital gains tax 2012 (NAT 4152).\n### Did you make a capital gain or capital loss on your shares?\nYou may make a capital gain or capital loss by selling or giving away your shares, including by selling them to the company under a share buy-back arrangement. Even if you did not pay for your shares, for example, you received them under a demutualisation, you may make a capital gain or capital loss when you sell or give them away.\nAlso, if you use dividends to acquire additional shares in a company, for example, through a dividend reinvestment plan, the additional shares are subject to CGT if you sell them or give them away.\nThere are other ways of making a capital gain or capital loss on shares. These include:\n- If you held shares in a company and during 2011-12 a liquidator or administrator declared the shares worthless, you can choose to claim a capital loss equal to the reduced cost base of the shares (otherwise you may have to wait until the company is dissolved to claim the capital loss).\n- If you received a non-assessable payment (also known as a return of capital) you may have to reduce the cost base and reduced cost base of your shares. If the amount of the non-assessable payment is more than the cost base of the shares, the difference is a capital gain.\nFact sheets on some major share transactions affecting shareholders are available on our website.\n### Did you sell a property you inherited?\nCapital gains tax applies when you dispose of CGT assets that you inherited. However, if you inherited real estate, you may not have to pay CGT if you sold it within two years of the person's death, for example, if the property was the deceased person's main residence just before they died and they were not renting part of it out or using part of it for business purposes.\nFor more information, see Guide to capital gains tax 2012 .\n### Your home may be subject to capital gains tax\nUnder the 'main residence' exemption, you generally do not have to pay CGT on the disposal of your main residence. However, you may have to pay tax on some of your capital gain if:\n- the property was not your main residence for the whole period you owned it\n- you used the property, or part of it, to produce assessable income, for example, you rented it out\n- the land area was greater than two hectares.\nFor more information, see Guide to capital gains tax 2012 .\n### Asset transfer on marriage or relationship breakdown\nIf you transferred an asset to your spouse as a result of a marriage or relationship breakdown, in certain cases there are no immediate CGT consequences. In these cases there is automatic rollover (you cannot choose whether or not it applies).\nHowever, the one who receives the asset (the transferee spouse) will usually make a capital gain or capital loss when they dispose of the asset. If you were the transferee spouse and rollover applies, you may need to get cost base information from your former spouse or their tax adviser.\nFor more information, see Guide to capital gains tax 2012 .\nYour 'spouse' includes another person (whether of the same sex or opposite sex) who:\n- you were in a relationship with that was registered under a prescribed state or territory law,\n- although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple.\n### Foreign residents\nForeign residents who are individuals are subject to CGT on:\n- direct interests in real estate located in Australia\n- an interest in an entity where they and their associates hold 10% or more of the entity and the value of their interest is principally attributable to Australian real estate\n- an asset they have used in carrying on a business through a permanent establishment in Australia\n- an option or right to acquire one of the above.\nFor more information, see Guide to capital gains tax 2012 .\n### Temporary residents\nTemporary residents are subject to CGT in the same way as foreign residents.\nSee Tax-free income for temporary residents in Amounts that you do not pay tax on for the definition of a temporary resident and details of the exemption.\nThere are special rules for shares and rights acquired under an employee share scheme.\nFor more information, see Guide to capital gains tax 2012 .\n## What you may need\n- Details of the amount of any unapplied net capital losses from earlier years; this is the amount at V at the capital gains item on your last year's tax return\n- Documents showing the date you acquired any asset to which a CGT event happened, the date of the CGT event, and the date and amounts of any expenditure you incurred that form part of the cost base and reduced cost base of the asset or are taken into account in working out your capital gain or capital loss\n- Year-end, annual or distribution statements from trusts with net capital gains from which you received or were entitled to receive:\n- distributions of income, or distributions of non-assessable amounts\nYou may also need one or more of the following publications to complete this item. They explain the three methods that are used to calculate a capital gain, the indexation method, the discount method and 'other' method.\n- Introduction to capital gains tax explains what a capital gain is, how it applies, what assets are included and the exceptions and exemptions.\n- Guide to capital gains tax 2012 explains how CGT works and will help you to calculate your net capital gain or net capital loss. It covers CGT issues such as the sale of a rental property, vacant land, a holiday home, collectables (for example, jewellery), personal use assets (for example, a boat you use for recreation), and real estate, shares and units you inherited or got from the breakdown of your marriage or relationship.\n- Personal investors guide to capital gains tax 2012 is shorter and simpler than Guide to capital gains tax 2012 . It covers\n- the sale, gift or other disposal of shares and units distribution of capital gains from managed funds non-assessable payments from companies and managed funds.\nIt does not cover other CGT events, nor the CGT consequences for bonus shares, shares acquired under an employee share scheme, bonus units, rights and options, and shares and units where a takeover or demerger has occurred; for those see Guide to capital gains tax 2012 .\n- Capital gains tax (CGT) concessions for small business - overview explains what concessions are available to small businesses.\n## Completing this item\n### Step 1\nRead the publication that is relevant to your circumstances and work out the amount of your capital gain or capital loss for each CGT event that occurred, and the amount of your capital gains from a trust (including a managed fund) for the 2011-12 income year.\n### Step 2\nAdd up all your capital gains for the 2011-12 income year (except the ones that are disregarded) to work out your total current year capital gains. Do not apply capital losses, any CGT discounts or the small business concessions (other than the 15-year exemption) yet. Write this amount at H item 18 on page 14 of your tax return.\n### St ep 3\nWork out your net capital gain or net capital loss. This is the amount remaining after applying to your current year capital gains whichever of the following items are relevant to you (in the order listed):\n- capital losses from this year\n- unapplied net capital losses from earlier years\n- any CGT discounts\n- the small business 50% active asset reduction\n- the small business retirement exemption or rollover.\nIf you have capital losses to apply, you will find it to your advantage to apply them first to any capital gains that do not qualify for the CGT discount.\nIf the total amount remaining is positive or zero, write it at A item 18 and go to question 19 .\nIf you have a negative amount, do not put anything at A . Go to step 4.\nYou can only use capital losses from collectables to reduce capital gains from collectables. You must disregard capital losses from personal use assets.\n### Step 4\nYou have net capital losses to carry forward to later income years.\nWrite the amount at V item 18 . Go to question 19 .\n#### Did you have any unapplied net capital losses from earlier years?\nYou can use net capital losses from earlier years that you have not yet used to reduce a capital gain in later years.\nNO | Go to question 19 - Foreign entities , or return to main menu Individual tax return instructions\nYES | Read below.\nYou have net capital losses from earlier years that are carried forward to later income years. Write the amount at V item 18 on your tax return.\nIf foreign tax was paid on a foreign gain of a capital nature, you need to read part H in question 20 - Foreign source income and foreign assets or property to work out the amount of foreign income tax offset you can claim. You show the foreign income tax offset at O item 20 .\n## Keeping records from the start\nYou must keep records of every act, transaction, event or circumstance that may be relevant to working out your capital gain or capital loss, regardless of whether the CGT event has already happened, is about to happen or may happen in the future.\nYou must keep these records for five years from the time when no CGT event or further CGT event can happen. The records for these CGT events may be relevant to working out whether you have made a capital gain or capital loss from the event.\nWhere to go next go to question 19 - Foreign entities . return to main menu Individual tax return instructions go back to 17 - Net farm management deposits or withdrawals",
+  "child_links": [],
+  "word_count": 3064,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

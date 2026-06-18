@@ -1,0 +1,188 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2017/deductions/work-related-expenses/car-expenses",
+  "title": "myTax 2017 Work-related car expenses",
+  "description": "How to complete the work-related car expenses section of your return using myTax.",
+  "nat_number": "",
+  "quick_code": "51039",
+  "date_updated": "2017-06-29T14:00:00Z",
+  "first_published": "",
+  "keywords": "WRE, work-related expenses, car expenses, deductions, car ownership, myTax, e-tax, online tax return, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with work-related car expense information provided to us. Check for work-related car expenses that are not pre-filled and ensure you add them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Work-related car expenses are expenses you incurred as an employee for a car you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "owned",
+        "leased, or",
+        "hired under a hire-purchase agreement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What can you claim?"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim car expenses you incurred in performing your employment duties in 2016–17."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also claim the cost of using your car to travel directly between two separate places of employment when you have a second job, providing one of the places is not your home."
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim for the normal trip between home and work, unless:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you use your car to carry bulky tools or equipment (such as an extension ladder or cello) which your employer requires you to use for work and cannot leave at work",
+        "your home is a base for employment (you were required to start work at home and travelled to a workplace to continue work for the same employer), or",
+        "you have shifting places of employment (you regularly work at more than one place each day)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For examples of trips you can and cannot claim, see car and travel expenses ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Methods"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your claim for work-related car expenses is 5,000 kilometres or less, you can choose one of the following methods to work out your work-related car expenses:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "cents per kilometre method, or",
+        "logbook method."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For the cents per kilometre method, the rate is 66 cents per business kilometre."
+    },
+    {
+      "type": "paragraph",
+      "text": "To claim work-related car expenses over 5,000 kilometres, you must use the logbook method."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you qualify to use both methods, you can use whichever method gives you the largest deduction or is most convenient."
+    },
+    {
+      "type": "paragraph",
+      "text": "No written evidence of expenses is necessary with the cents per kilometre method, but you may need to show us how you worked out your work-related kilometres (for example, by producing diary records of work-related trips)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Deductions for decline in value (depreciation)"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim a deduction for the decline in value of the car only if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you use the logbook method and",
+        "you owned the car or hired it under a hire-purchase agreement."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you leased a luxury car, see Special circumstances and glossary for more information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the car starts to decline in value from the day you first use it, even if you don't begin using it for work until a later time.",
+        "you can claim a deduction only for a year in which you used the car for work.",
+        "if you owned your car for only part of the year, you will need to apportion your deduction accordingly."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are claiming a deduction for the decline in value of a car, see Guide to depreciating assets ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Depreciation and capital allowances tool"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use the Depreciation and capital allowances tool to work out the total decline in value deduction. The tool can be accessed when you add your work-related car expenses and Calculation method is 'Logbook'."
+    },
+    {
+      "type": "paragraph",
+      "text": "Media: How to use the Depreciation and capital allowance tool http://tv.ato.gov.au/ato-tv/media?v=bd1bdiuboi7hki External Link ( Duration: 3:56)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Want to know what work-related expenses you may be entitled to claim?"
+    },
+    {
+      "type": "paragraph",
+      "text": "We provide information to help you understand what you may be able to claim at Deductions you can claim ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each work-related car that has not been pre-filled in your tax return, select Add and enter the description (make/model) of the car.",
+        "Select the Calculation method you wish to use.",
+        "If you select the cents per kilometre method enter the number of business kilometres you travelled.",
+        "If you select the logbook method enter the information into the corresponding fields. MyTax will calculate the total expenses. If you have calculated the decline in value of your car, enter the amount without any reduction for personal use. MyTax will multiply the decline in value you enter by the percentage of business use.",
+        "If you used the Depreciation and capital allowances tool to work out the decline in value, the calculated amount will automatically exclude the personal use percentage. To display results from the tool you must select the logbook method.",
+        "Select Save .",
+        "Select Save and continue ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you may want to work out your deduction using different methods to see which gives you the largest deduction and then save the one that does.",
+        "if you used the Depreciation and capital allowances tool, fields containing information from the tool cannot be directly adjusted in myTax. To make any adjustments to this information, or to add new assets to the tool, select the 'Work it out' link."
+      ]
+    }
+  ],
+  "content_text": "We have pre-filled your tax return with work-related car expense information provided to us. Check for work-related car expenses that are not pre-filled and ensure you add them.\nWork-related car expenses are expenses you incurred as an employee for a car you:\n- owned\n- leased, or\n- hired under a hire-purchase agreement.\n## What can you claim?\nYou can claim car expenses you incurred in performing your employment duties in 2016–17.\nYou can also claim the cost of using your car to travel directly between two separate places of employment when you have a second job, providing one of the places is not your home.\nYou cannot claim for the normal trip between home and work, unless:\n- you use your car to carry bulky tools or equipment (such as an extension ladder or cello) which your employer requires you to use for work and cannot leave at work\n- your home is a base for employment (you were required to start work at home and travelled to a workplace to continue work for the same employer), or\n- you have shifting places of employment (you regularly work at more than one place each day).\nFor examples of trips you can and cannot claim, see car and travel expenses .\n## Methods\nIf your claim for work-related car expenses is 5,000 kilometres or less, you can choose one of the following methods to work out your work-related car expenses:\n- cents per kilometre method, or\n- logbook method.\nFor the cents per kilometre method, the rate is 66 cents per business kilometre.\nTo claim work-related car expenses over 5,000 kilometres, you must use the logbook method.\nIf you qualify to use both methods, you can use whichever method gives you the largest deduction or is most convenient.\nNo written evidence of expenses is necessary with the cents per kilometre method, but you may need to show us how you worked out your work-related kilometres (for example, by producing diary records of work-related trips).\n### Deductions for decline in value (depreciation)\nYou can claim a deduction for the decline in value of the car only if:\n- you use the logbook method and\n- you owned the car or hired it under a hire-purchase agreement.\nIf you leased a luxury car, see Special circumstances and glossary for more information.\nRemember:\n- the car starts to decline in value from the day you first use it, even if you don't begin using it for work until a later time.\n- you can claim a deduction only for a year in which you used the car for work.\n- if you owned your car for only part of the year, you will need to apportion your deduction accordingly.\nIf you are claiming a deduction for the decline in value of a car, see Guide to depreciating assets .\n#### Depreciation and capital allowances tool\nYou can use the Depreciation and capital allowances tool to work out the total decline in value deduction. The tool can be accessed when you add your work-related car expenses and Calculation method is 'Logbook'.\nMedia: How to use the Depreciation and capital allowance tool http://tv.ato.gov.au/ato-tv/media?v=bd1bdiuboi7hki External Link ( Duration: 3:56)\n#### Want to know what work-related expenses you may be entitled to claim?\nWe provide information to help you understand what you may be able to claim at Deductions you can claim .\n## Completing this section\n- For each work-related car that has not been pre-filled in your tax return, select Add and enter the description (make/model) of the car.\n- Select the Calculation method you wish to use.\n- If you select the cents per kilometre method enter the number of business kilometres you travelled.\n- If you select the logbook method enter the information into the corresponding fields. MyTax will calculate the total expenses. If you have calculated the decline in value of your car, enter the amount without any reduction for personal use. MyTax will multiply the decline in value you enter by the percentage of business use.\n- If you used the Depreciation and capital allowances tool to work out the decline in value, the calculated amount will automatically exclude the personal use percentage. To display results from the tool you must select the logbook method.\n- Select Save .\n- Select Save and continue .\nNotes:\n- you may want to work out your deduction using different methods to see which gives you the largest deduction and then save the one that does.\n- if you used the Depreciation and capital allowances tool, fields containing information from the tool cannot be directly adjusted in myTax. To make any adjustments to this information, or to add new assets to the tool, select the 'Work it out' link.",
+  "child_links": [],
+  "word_count": 795,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

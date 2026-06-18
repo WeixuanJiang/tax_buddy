@@ -1,0 +1,657 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/tax-offsets/zone-or-overseas-forces/working-out-your-tax-offset-complex-circumstances",
+  "title": "Working out your tax offset - complex circumstances",
+  "description": "If your circumstances were more complex, the following information will help you work out your base amount (if any).",
+  "nat_number": "",
+  "quick_code": "80270",
+  "date_updated": "2019-06-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dependent child or student base amount"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Full-year claim"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your base amount will include the maximum amount shown in Table 2 for each student under 25 years old on 30 June 2019 in full-time education at a school, college or university, and for each child under 21 years on 30 June 2019 who, for the whole of 2018–19:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "was treated as an Australian resident",
+        "was maintained by only you, and",
+        "had an ATI of less than $286."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To calculate the ATI use the Income tests calculator This link opens in a new window ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you did not have any dependent children or students, go to Invalid and invalid carer base amount ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Dependant",
+          "Base amount"
+        ],
+        [
+          "Each student under 25 years old",
+          "$376"
+        ],
+        [
+          "For the oldest non-student child under 21 years old",
+          "$376"
+        ],
+        [
+          "Other non-student children under 21 years old",
+          "$282 for each child"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If all of these requirements were met, add up the base amount for each child or student and enter the total at row n Worksheet 4 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If two or more people contributed to the maintenance of a dependent child or student, each person can only claim a proportion of the base amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the meaning of dependant and maintaining a dependant, see Definitions ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the requirements were met for only part of the year, or your child’s or student’s ATI for the period you are claiming this base amount in respect of them was $286 or more, you may be able to claim for a part of the base amount. Read on."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part-year claim"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim only part of the base amount for dependent children or students if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the child or student was treated as an Australian resident for only part of 2018–19",
+        "the student was under 25 years old and in full-time education for only part of 2018–19",
+        "the child or student was maintained by you for only part of 2018–19",
+        "the child was 21 years old at 30 June 2019 and not in full-time education, or",
+        "the student was 25 years old at 30 June 2019."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Use Worksheet 1 to work out the reduced base amount for each eligible dependent child or student as described in Table 2 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "Maximum base amount for the child or student from Table 2",
+          "$"
+        ],
+        [
+          "b",
+          "Number of days you maintained your child or student and your child or student was an eligible dependant",
+          "days"
+        ],
+        [
+          "c",
+          "Number of days in 2018–19",
+          "365"
+        ],
+        [
+          "d",
+          "Divide row b by row c .",
+          "$"
+        ],
+        [
+          "e",
+          "Multiply row d by row a .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the ATI of your child or student was less than $286 for the period you are claiming this base amount in respect of them, transfer amount at row e above to row o Worksheet 4 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had more than one eligible child or student and the ATI of each one was less than $286 for the period you are claiming this base amount in respect of them, work out the amount for each child and student, add up all the amounts and enter the total at row o Worksheet 4 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "If ATI was $286 or more for the period you maintained them"
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim any base amount for your child or student if that child or student had an ATI equal to or greater than:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the total of $282 plus $28.92 for each week you maintained them for a student under 25 years old or for the oldest child under 21 years old who is not a student, or",
+        "the total of $282 plus $21.70 for each week you maintained them for any other child under 21 years old who is not a student."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your child’s or student’s ATI for the period you are claiming this base amount in respect of them was $286 or more but less than the limits shown, use Worksheet 2 to work out the base amount."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "f",
+          "Base amount for the child or student from Table 2 or row e Worksheet 1 for a part-year claim",
+          "$"
+        ],
+        [
+          "g",
+          "Your child’s or student’s ATI for the period you maintained them",
+          "$"
+        ],
+        [
+          "h",
+          "Income above which the base amount begins to reduce",
+          "$282"
+        ],
+        [
+          "i",
+          "Take row h away from row g .",
+          "$"
+        ],
+        [
+          "j",
+          "Divide row i by 4 because your base amount is reduced by $1 for every $4 of ATI over $282. Do not show cents.",
+          "$"
+        ],
+        [
+          "k",
+          "Take row j away from row f . Show zero (0) if the amount is negative. Do not show cents.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at row k above to row p Worksheet 4 . If you had more than one eligible child or student, work out the amount for each child or student, add up all the amounts and enter the total at row p Worksheet 4 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sole parent base amount"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had sole care of a dependent child or student and you have written an amount of at least $1 in Worksheet 4 at rows n , o or p (base amount for dependent children or students), you may also be eligible for a sole parent base amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can only claim this base amount if you were a sole parent at any time during 2018–19 and:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your usual place of residence was in a remote area of Australia, or",
+        "you served overseas as a member of the Australian Defence Force."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sole care means that you alone had full responsibility on a day-to-day basis for the upbringing, welfare and maintenance of a child or student. We do not consider you to have had sole care if you were living with a spouse (married or de facto) during the year unless special circumstances exist."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to use Worksheet 3 to calculate a part-year sole parent base amount claim."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Special circumstances"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a spouse (married or de facto) at any time during 2018–19, you are entitled to a sole parent base amount only in special circumstances."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, for special circumstances to exist, you must have been financially responsible for and have had sole care of the dependent child or student, without the support a spouse normally provides."
+    },
+    {
+      "type": "paragraph",
+      "text": "Examples of situations where special circumstances may arise:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You were married or in a de facto relationship at any time during 2018–19, but during the year you separated from or were deserted by your spouse, and for the period that you will claim the sole parent base amount you were not in a de facto relationship.",
+        "Your spouse was in prison for a sentence of at least 12 months.",
+        "Your spouse was medically certified as being permanently mentally incapable of taking part in caring for your child or student."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are unsure whether special circumstances applied, then phone 13 28 61 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Shared or joint custody after a relationship breakdown"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are times, after a relationship breakdown, such as a divorce or separation, where both parents share the custody of a child or student. If you can show that you had sole care of a dependent child or student for part of the year, you may be able to claim the base amount for that part of the year. This means more than just having access visits with the child or student."
+    },
+    {
+      "type": "paragraph",
+      "text": "We consider you to have had sole care of the child or student for the part of the year up to the day the child turned 21 years old or the student turned 25 years old if the dependant:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "was not receiving full-time education and turned 21 years old during 2018–19, or",
+        "was a full-time student and turned 25 years old during 2018–19."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You are only entitled to claim the base amount for that part of the year before the birthday."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had sole care of a child or student for the whole of 2018–19, enter $1,607 at row q Worksheet 4 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "l",
+          "Number of days you had sole care of a child or student",
+          "days"
+        ],
+        [
+          "m",
+          "Multiply row l by $4.40.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at row m above to row r Worksheet 4 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Invalid and invalid carer base amount"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are entitled to an Invalid and invalid carer tax offset, you are entitled to this base amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out the base amount you are entitled to claim, you can use our calculator This link opens in a new window ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then enter the amount you worked out above at row s Worksheet 4 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Working out your total base amount"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use Worksheet 4 to work out your total base amount."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "n",
+          "Dependent children or students, from Table 2",
+          "$"
+        ],
+        [
+          "o",
+          "Dependent children or students, from Worksheet 1",
+          "$"
+        ],
+        [
+          "p",
+          "Dependent children or students, from Worksheet 2",
+          "$"
+        ],
+        [
+          "q",
+          "Sole parent – full year",
+          "$"
+        ],
+        [
+          "r",
+          "Sole parent – part year from Worksheet 3",
+          "$"
+        ],
+        [
+          "s",
+          "Amount claimed at Invalid and invalid carer tax offset",
+          "$"
+        ],
+        [
+          "t",
+          "Add up all of these amounts.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at row t is your total base amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "Read on."
+    },
+    {
+      "type": "paragraph",
+      "text": "You use the information from Table 3 below when you complete either Worksheet 5 or Worksheet 6 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Fixed amount",
+          "Percentage of base amount"
+        ],
+        [
+          "Zone A",
+          "$338",
+          "50%"
+        ],
+        [
+          "Zone B",
+          "$57",
+          "20%"
+        ],
+        [
+          "Special area",
+          "$1,173",
+          "50%"
+        ],
+        [
+          "Overseas forces",
+          "$338",
+          "50%"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Final calculation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Multiple locations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Check Table 3 if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your usual place of residence was in more than one zone or special area, or",
+        "you serve in specified overseas localities, and",
+        "you were in one of them for 183 days or more."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the fixed amount for that zone is higher than for the other zones where you were, use that fixed amount and Worksheet 5 to work out your tax offset. This will give you the greatest benefit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otherwise go to Category 2 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Category 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your usual place of residence was only in one zone or you served only in specified overseas localities for at least 183 days."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Complete Worksheet 5 ."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "u",
+          "Your fixed amount from Table 3",
+          "$"
+        ],
+        [
+          "v",
+          "Your base amount from row t Worksheet 4",
+          "$"
+        ],
+        [
+          "w",
+          "Multiply row v by the percentage figure from Table 3",
+          "$"
+        ],
+        [
+          "x",
+          "Add rows u and w . If you are claiming an overseas forces tax offset, the amount you can claim is row x . Go to step 2. If you are claiming a zone tax offset, read on.",
+          "$"
+        ],
+        [
+          "y",
+          "Any remote area allowance you received",
+          "$"
+        ],
+        [
+          "z",
+          "Take row y away from row x and enter the answer at row z",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at row z , if it is more than zero (0), is your zone tax offset. Go to step 2."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Return to Completing this section to enter your zone or overseas forces tax offset amount."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Category 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your usual place of residence was in more than one zone, or you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "served in a specified overseas locality for less than 183 days, or",
+        "served in a specified overseas locality and you served in one or more zones for a total of at least 183 days."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You claim for the number of days in each eligible place divided by 183, to a maximum of 183 days for a year. Start with your zone that has the highest fixed amount in Table 3 . This will give you the greatest benefit."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Use Worksheet 6 to work out your claim for each zone, special area or overseas locality you were in."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "aa",
+          "Your fixed amount from Table 3",
+          "$"
+        ],
+        [
+          "bb",
+          "Your base amount from row t Worksheet 4",
+          "$"
+        ],
+        [
+          "cc",
+          "Multiply row bb by the percentage figure from Table 3",
+          "$"
+        ],
+        [
+          "dd",
+          "Add row aa and row cc",
+          "$"
+        ],
+        [
+          "ee",
+          "Number of days your usual place of residence was in a zone or special area or you served in an overseas locality, to a maximum of 183 days",
+          "days"
+        ],
+        [
+          "ff",
+          "Multiply row dd by row ee",
+          "$"
+        ],
+        [
+          "gg",
+          "Divide row ff by 183. This is the amount you can claim.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Once you have worked out the amount you can claim for each place, add up all the amounts and then use Worksheet 7 to work out your total tax offset."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "hh",
+          "Total of the amounts you have worked out for each zone from row gg Worksheet 6 . If you are claiming an overseas forces tax offset, the amount you can claim is row hh . Go to step 3. If you are claiming a zone tax offset, read on.",
+          "$"
+        ],
+        [
+          "ii",
+          "Any remote area allowance you received",
+          "$"
+        ],
+        [
+          "jj",
+          "Take row ii away from row hh . This is the amount you can claim.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at row jj , if it is more than zero (0), is the total of your zone tax offset. Go to step 3."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Return to step 4 in Completing this section to enter your zone or overseas forces tax offset amount."
+      ]
+    }
+  ],
+  "content_text": "## Dependent child or student base amount\n### Full-year claim\nYour base amount will include the maximum amount shown in Table 2 for each student under 25 years old on 30 June 2019 in full-time education at a school, college or university, and for each child under 21 years on 30 June 2019 who, for the whole of 2018–19:\n- was treated as an Australian resident\n- was maintained by only you, and\n- had an ATI of less than $286.\nTo calculate the ATI use the Income tests calculator This link opens in a new window .\nIf you did not have any dependent children or students, go to Invalid and invalid carer base amount .\nDependant | Base amount\nEach student under 25 years old | $376\nFor the oldest non-student child under 21 years old | $376\nOther non-student children under 21 years old | $282 for each child\nIf all of these requirements were met, add up the base amount for each child or student and enter the total at row n Worksheet 4 .\nIf two or more people contributed to the maintenance of a dependent child or student, each person can only claim a proportion of the base amount.\nFor the meaning of dependant and maintaining a dependant, see Definitions .\nIf the requirements were met for only part of the year, or your child’s or student’s ATI for the period you are claiming this base amount in respect of them was $286 or more, you may be able to claim for a part of the base amount. Read on.\n### Part-year claim\nYou can claim only part of the base amount for dependent children or students if:\n- the child or student was treated as an Australian resident for only part of 2018–19\n- the student was under 25 years old and in full-time education for only part of 2018–19\n- the child or student was maintained by you for only part of 2018–19\n- the child was 21 years old at 30 June 2019 and not in full-time education, or\n- the student was 25 years old at 30 June 2019.\nUse Worksheet 1 to work out the reduced base amount for each eligible dependent child or student as described in Table 2 .\nRow | Calculation | Amount\na | Maximum base amount for the child or student from Table 2 | $\nb | Number of days you maintained your child or student and your child or student was an eligible dependant | days\nc | Number of days in 2018–19 | 365\nd | Divide row b by row c . | $\ne | Multiply row d by row a . | $\nIf the ATI of your child or student was less than $286 for the period you are claiming this base amount in respect of them, transfer amount at row e above to row o Worksheet 4 .\nIf you had more than one eligible child or student and the ATI of each one was less than $286 for the period you are claiming this base amount in respect of them, work out the amount for each child and student, add up all the amounts and enter the total at row o Worksheet 4 .\n#### If ATI was $286 or more for the period you maintained them\nYou cannot claim any base amount for your child or student if that child or student had an ATI equal to or greater than:\n- the total of $282 plus $28.92 for each week you maintained them for a student under 25 years old or for the oldest child under 21 years old who is not a student, or\n- the total of $282 plus $21.70 for each week you maintained them for any other child under 21 years old who is not a student.\nIf your child’s or student’s ATI for the period you are claiming this base amount in respect of them was $286 or more but less than the limits shown, use Worksheet 2 to work out the base amount.\nRow | Calculation | Amount\nf | Base amount for the child or student from Table 2 or row e Worksheet 1 for a part-year claim | $\ng | Your child’s or student’s ATI for the period you maintained them | $\nh | Income above which the base amount begins to reduce | $282\ni | Take row h away from row g . | $\nj | Divide row i by 4 because your base amount is reduced by $1 for every $4 of ATI over $282. Do not show cents. | $\nk | Take row j away from row f . Show zero (0) if the amount is negative. Do not show cents. | $\nTransfer the amount at row k above to row p Worksheet 4 . If you had more than one eligible child or student, work out the amount for each child or student, add up all the amounts and enter the total at row p Worksheet 4 .\n## Sole parent base amount\nIf you had sole care of a dependent child or student and you have written an amount of at least $1 in Worksheet 4 at rows n , o or p (base amount for dependent children or students), you may also be eligible for a sole parent base amount.\nYou can only claim this base amount if you were a sole parent at any time during 2018–19 and:\n- your usual place of residence was in a remote area of Australia, or\n- you served overseas as a member of the Australian Defence Force.\nSole care means that you alone had full responsibility on a day-to-day basis for the upbringing, welfare and maintenance of a child or student. We do not consider you to have had sole care if you were living with a spouse (married or de facto) during the year unless special circumstances exist.\nYou will need to use Worksheet 3 to calculate a part-year sole parent base amount claim.\n### Special circumstances\nIf you had a spouse (married or de facto) at any time during 2018–19, you are entitled to a sole parent base amount only in special circumstances.\nGenerally, for special circumstances to exist, you must have been financially responsible for and have had sole care of the dependent child or student, without the support a spouse normally provides.\nExamples of situations where special circumstances may arise:\n- You were married or in a de facto relationship at any time during 2018–19, but during the year you separated from or were deserted by your spouse, and for the period that you will claim the sole parent base amount you were not in a de facto relationship.\n- Your spouse was in prison for a sentence of at least 12 months.\n- Your spouse was medically certified as being permanently mentally incapable of taking part in caring for your child or student.\nIf you are unsure whether special circumstances applied, then phone 13 28 61 .\n#### Shared or joint custody after a relationship breakdown\nThere are times, after a relationship breakdown, such as a divorce or separation, where both parents share the custody of a child or student. If you can show that you had sole care of a dependent child or student for part of the year, you may be able to claim the base amount for that part of the year. This means more than just having access visits with the child or student.\nWe consider you to have had sole care of the child or student for the part of the year up to the day the child turned 21 years old or the student turned 25 years old if the dependant:\n- was not receiving full-time education and turned 21 years old during 2018–19, or\n- was a full-time student and turned 25 years old during 2018–19.\nYou are only entitled to claim the base amount for that part of the year before the birthday.\nIf you had sole care of a child or student for the whole of 2018–19, enter $1,607 at row q Worksheet 4 .\nRow | Calculation | Amount\nl | Number of days you had sole care of a child or student | days\nm | Multiply row l by $4.40. | $\nTransfer the amount at row m above to row r Worksheet 4 .\n## Invalid and invalid carer base amount\nIf you are entitled to an Invalid and invalid carer tax offset, you are entitled to this base amount.\nTo work out the base amount you are entitled to claim, you can use our calculator This link opens in a new window .\nThen enter the amount you worked out above at row s Worksheet 4 .\n## Working out your total base amount\nUse Worksheet 4 to work out your total base amount.\nRow | Calculation | Amount\nn | Dependent children or students, from Table 2 | $\no | Dependent children or students, from Worksheet 1 | $\np | Dependent children or students, from Worksheet 2 | $\nq | Sole parent – full year | $\nr | Sole parent – part year from Worksheet 3 | $\ns | Amount claimed at Invalid and invalid carer tax offset | $\nt | Add up all of these amounts. | $\nThe amount at row t is your total base amount.\nRead on.\nYou use the information from Table 3 below when you complete either Worksheet 5 or Worksheet 6 .\n | Fixed amount | Percentage of base amount\nZone A | $338 | 50%\nZone B | $57 | 20%\nSpecial area | $1,173 | 50%\nOverseas forces | $338 | 50%\n## Final calculation\n### Multiple locations\nCheck Table 3 if:\n- your usual place of residence was in more than one zone or special area, or\n- you serve in specified overseas localities, and\n- you were in one of them for 183 days or more.\nIf the fixed amount for that zone is higher than for the other zones where you were, use that fixed amount and Worksheet 5 to work out your tax offset. This will give you the greatest benefit.\nOtherwise go to Category 2 .\n### Category 1\nYour usual place of residence was only in one zone or you served only in specified overseas localities for at least 183 days.\n- Complete Worksheet 5 .\nRow | Calculation | Amount\nu | Your fixed amount from Table 3 | $\nv | Your base amount from row t Worksheet 4 | $\nw | Multiply row v by the percentage figure from Table 3 | $\nx | Add rows u and w . If you are claiming an overseas forces tax offset, the amount you can claim is row x . Go to step 2. If you are claiming a zone tax offset, read on. | $\ny | Any remote area allowance you received | $\nz | Take row y away from row x and enter the answer at row z | $\nThe amount at row z , if it is more than zero (0), is your zone tax offset. Go to step 2.\n- Return to Completing this section to enter your zone or overseas forces tax offset amount.\n### Category 2\nYour usual place of residence was in more than one zone, or you:\n- served in a specified overseas locality for less than 183 days, or\n- served in a specified overseas locality and you served in one or more zones for a total of at least 183 days.\nYou claim for the number of days in each eligible place divided by 183, to a maximum of 183 days for a year. Start with your zone that has the highest fixed amount in Table 3 . This will give you the greatest benefit.\n- Use Worksheet 6 to work out your claim for each zone, special area or overseas locality you were in.\nRow | Calculation | Amount\naa | Your fixed amount from Table 3 | $\nbb | Your base amount from row t Worksheet 4 | $\ncc | Multiply row bb by the percentage figure from Table 3 | $\ndd | Add row aa and row cc | $\nee | Number of days your usual place of residence was in a zone or special area or you served in an overseas locality, to a maximum of 183 days | days\nff | Multiply row dd by row ee | $\ngg | Divide row ff by 183. This is the amount you can claim. | $\n- Once you have worked out the amount you can claim for each place, add up all the amounts and then use Worksheet 7 to work out your total tax offset.\nRow | Calculation | Amount\nhh | Total of the amounts you have worked out for each zone from row gg Worksheet 6 . If you are claiming an overseas forces tax offset, the amount you can claim is row hh . Go to step 3. If you are claiming a zone tax offset, read on. | $\nii | Any remote area allowance you received | $\njj | Take row ii away from row hh . This is the amount you can claim. | $\nThe amount at row jj , if it is more than zero (0), is the total of your zone tax offset. Go to step 3.\n- Return to step 4 in Completing this section to enter your zone or overseas forces tax offset amount.",
+  "child_links": [],
+  "word_count": 2297,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

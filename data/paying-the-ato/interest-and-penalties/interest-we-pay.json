@@ -1,0 +1,208 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/paying-the-ato/interest-and-penalties/interest-we-pay",
+  "title": "Interest we pay",
+  "description": "We pay you interest on certain tax liabilities when you pay early, overpay or there's a delay in us paying your refund.",
+  "nat_number": "",
+  "quick_code": "67744",
+  "date_updated": "2024-06-10T14:00:00Z",
+  "first_published": "",
+  "keywords": "ato paid interest, interest we pay to you, interest for early payment, interest on delayed refund, interest for overpayment",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interest rates"
+    },
+    {
+      "type": "paragraph",
+      "text": "The rate we use to calculate the amount of interest is set by law. We review and update the rate each quarter."
+    },
+    {
+      "type": "paragraph",
+      "text": "We only pay interest amounts of 50c or more."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rates below are for interest we pay on early payments , overpayments , and delay in paying your refund ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Period",
+          "Interest rate (% pa)"
+        ],
+        [
+          "1 April 2026 to 30 June 2026",
+          "3.96"
+        ],
+        [
+          "1 January 2026 to 31 March 2026",
+          "3.65"
+        ],
+        [
+          "1 October 2025 to 31 December 2025",
+          "3.61"
+        ],
+        [
+          "1 July 2025 to 30 September 2025",
+          "3.78"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Period",
+          "Interest rate (% pa)"
+        ],
+        [
+          "1 April 2025 to 30 June 2025",
+          "4.17"
+        ],
+        [
+          "1 January 2025 to 31 March 2025",
+          "4.42"
+        ],
+        [
+          "1 October 2024 to 31 December 2024",
+          "4.38"
+        ],
+        [
+          "1 July 2024 to 30 September 2024",
+          "4.36"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Period",
+          "Interest rate (% pa)"
+        ],
+        [
+          "1 April 2024 to 30 June 2024",
+          "4.34"
+        ],
+        [
+          "1 January 2024 to 31 March 2024",
+          "4.38"
+        ],
+        [
+          "1 October 2023 to 31 December 2023",
+          "4.15"
+        ],
+        [
+          "1 July 2023 to 30 September 2023",
+          "3.90"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To view rates for previous years, see prior year tax return forms and schedules ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to calculate the interest amount"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the following formula to calculate the interest amount:"
+    },
+    {
+      "type": "paragraph",
+      "text": "(A ÷ B) × C × (D ÷ 100)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Where:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "A is the number of days in the period you are entitled to interest",
+        "B is the number of days in the year (for example, 365 for non-leap years and 366 for leap years)",
+        "C is the amount on which the interest is payable",
+        "D is the interest rate for the period."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use the Credit for interest on early payments calculator to work out the interest amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "From March 2022, we will automate the calculation and payment of interest on early payments . This process applies to amounts you paid us since 1 July 2021 . We will pay the interest directly to your nominated bank account."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Example of credit interest calculation"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following example shows how to calculate the interest amount. The example assumes a normal year (365 days) and uses a single interest rate of 2%."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: single early payment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Evan pays an amount of $1,926 more than 14 days before the payment due date. His early payment interest is based on the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "On 29 October, the ATO issues Evan's notice of assessment showing a tax debt of $1,926.",
+        "Evan's due date for payment of this debt is 21 November of the same year.",
+        "Evan paid his tax debt in full at the post office on 3 November."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To calculate the interest amount, work out the number of days from 3 November to 21 November including these 2 days. This is a period of 19 days."
+    },
+    {
+      "type": "paragraph",
+      "text": "(19 ÷ 365) × $1,926 × (2 ÷ 100) = $2.01"
+    },
+    {
+      "type": "paragraph",
+      "text": "Evan’s interest on early payment amount is $2.01."
+    },
+    {
+      "type": "paragraph",
+      "text": "He must include $2.01 as income in his tax return at 'Gross interest' in the income year he receives the interest or it is applied against his tax debt."
+    }
+  ],
+  "content_text": "## Interest rates\nThe rate we use to calculate the amount of interest is set by law. We review and update the rate each quarter.\nWe only pay interest amounts of 50c or more.\nThe rates below are for interest we pay on early payments , overpayments , and delay in paying your refund .\nPeriod | Interest rate (% pa)\n1 April 2026 to 30 June 2026 | 3.96\n1 January 2026 to 31 March 2026 | 3.65\n1 October 2025 to 31 December 2025 | 3.61\n1 July 2025 to 30 September 2025 | 3.78\nPeriod | Interest rate (% pa)\n1 April 2025 to 30 June 2025 | 4.17\n1 January 2025 to 31 March 2025 | 4.42\n1 October 2024 to 31 December 2024 | 4.38\n1 July 2024 to 30 September 2024 | 4.36\nPeriod | Interest rate (% pa)\n1 April 2024 to 30 June 2024 | 4.34\n1 January 2024 to 31 March 2024 | 4.38\n1 October 2023 to 31 December 2023 | 4.15\n1 July 2023 to 30 September 2023 | 3.90\nTo view rates for previous years, see prior year tax return forms and schedules .\n## How to calculate the interest amount\nUse the following formula to calculate the interest amount:\n(A ÷ B) × C × (D ÷ 100)\nWhere:\n- A is the number of days in the period you are entitled to interest\n- B is the number of days in the year (for example, 365 for non-leap years and 366 for leap years)\n- C is the amount on which the interest is payable\n- D is the interest rate for the period.\nYou can also use the Credit for interest on early payments calculator to work out the interest amount.\nFrom March 2022, we will automate the calculation and payment of interest on early payments . This process applies to amounts you paid us since 1 July 2021 . We will pay the interest directly to your nominated bank account.\n## Example of credit interest calculation\nThe following example shows how to calculate the interest amount. The example assumes a normal year (365 days) and uses a single interest rate of 2%.\n### Example: single early payment\nEvan pays an amount of $1,926 more than 14 days before the payment due date. His early payment interest is based on the following:\n- On 29 October, the ATO issues Evan's notice of assessment showing a tax debt of $1,926.\n- Evan's due date for payment of this debt is 21 November of the same year.\n- Evan paid his tax debt in full at the post office on 3 November.\nTo calculate the interest amount, work out the number of days from 3 November to 21 November including these 2 days. This is a period of 19 days.\n(19 ÷ 365) × $1,926 × (2 ÷ 100) = $2.01\nEvan’s interest on early payment amount is $2.01.\nHe must include $2.01 as income in his tax return at 'Gross interest' in the income year he receives the interest or it is applied against his tax debt.",
+  "child_links": [
+    {
+      "title": "Interest on early payments",
+      "description": "When we pay interest on early payments you make 14 days or more before the due date and how we calculate the interest",
+      "url": "https://www.ato.gov.au/individuals-and-families/paying-the-ato/interest-and-penalties/interest-we-pay/interest-on-early-payments"
+    },
+    {
+      "title": "Interest on overpayments",
+      "description": "Check which overpayments we pay interest on and how to calculate the interest amount.",
+      "url": "https://www.ato.gov.au/individuals-and-families/paying-the-ato/interest-and-penalties/interest-we-pay/interest-on-overpayments"
+    },
+    {
+      "title": "Delayed refund interest",
+      "description": "Check what refund amounts we pay interest on if they are not paid within 14 days.",
+      "url": "https://www.ato.gov.au/individuals-and-families/paying-the-ato/interest-and-penalties/interest-we-pay/delayed-refund-interest"
+    }
+  ],
+  "word_count": 521,
+  "source_title": "",
+  "source_description": "",
+  "category": "paying-the-ato"
+}

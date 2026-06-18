@@ -1,0 +1,91 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2017/tax-return/income-test-questions-it1-it8/it8-number-of-dependent-children-2017",
+  "title": "IT8 Number of dependent children 2017",
+  "description": "Complete question IT8 to include the number of dependent children you have.",
+  "nat_number": "",
+  "quick_code": "51140",
+  "date_updated": "2017-05-24T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, income tests, dependant children",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Did you have any dependent children?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Write 0 at D item IT8 , then go to Spouse details - married or de facto 2017 , or return to main menu Individual tax return instructions 2017 ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For this question, a dependent child is your child who is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "under 21 years old, or",
+        "21 to 24 years old and a full-time student at a school, college or university"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "regardless of their income."
+    },
+    {
+      "type": "paragraph",
+      "text": "The child must be an Australian resident and you must have contributed to their maintenance."
+    },
+    {
+      "type": "paragraph",
+      "text": "We use this information to determine whether you are entitled to an increase in the income test threshold for the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "private health insurance rebate",
+        "net medical expenses tax offset, and",
+        "Medicare levy surcharge."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the number of your dependent children at D item IT8 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to Spouse details - married or de facto 2017",
+        "Return to main menu Individual tax return instructions 2017",
+        "Go back to question IT7 Child support you paid 2017"
+      ]
+    }
+  ],
+  "content_text": "Did you have any dependent children?\nNo | Write 0 at D item IT8 , then go to Spouse details - married or de facto 2017 , or return to main menu Individual tax return instructions 2017 .\nYes | Read on.\nFor this question, a dependent child is your child who is:\n- under 21 years old, or\n- 21 to 24 years old and a full-time student at a school, college or university\nregardless of their income.\nThe child must be an Australian resident and you must have contributed to their maintenance.\nWe use this information to determine whether you are entitled to an increase in the income test threshold for the:\n- private health insurance rebate\n- net medical expenses tax offset, and\n- Medicare levy surcharge.\n## Completing your tax return\nWrite the number of your dependent children at D item IT8 .\n## Where to go next\n- Go to Spouse details - married or de facto 2017\n- Return to main menu Individual tax return instructions 2017\n- Go back to question IT7 Child support you paid 2017",
+  "child_links": [],
+  "word_count": 184,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

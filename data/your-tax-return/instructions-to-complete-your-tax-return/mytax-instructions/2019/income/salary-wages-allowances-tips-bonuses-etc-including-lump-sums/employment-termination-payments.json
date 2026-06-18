@@ -1,0 +1,370 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/income/salary-wages-allowances-tips-bonuses-etc-including-lump-sums/employment-termination-payments",
+  "title": "myTax 2019 Employment termination payments",
+  "description": "How to report employment termination payments when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "58928",
+  "date_updated": "2019-06-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "2019, myTax, e-tax, ETP, termination, employment termination payment, eligible termination payment, income, online tax return, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This section is about employment termination payments (ETPs), which you received as a result of the termination of your employment."
+    },
+    {
+      "type": "paragraph",
+      "text": "These payments are shown on an income statement or a PAYG payment summary – employment termination payment ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Essentials"
+    },
+    {
+      "type": "paragraph",
+      "text": "On termination from employment, you may be paid several types of lump sums including ETPs. These lump sums are reported and taxed differently to normal income."
+    },
+    {
+      "type": "paragraph",
+      "text": "ETPs include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a gratuity or golden handshake",
+        "Genuine redundancy or early retirement scheme payments above the tax-free limit",
+        "severance pay",
+        "Non-genuine redundancy payments",
+        "payments in lieu of notice of termination",
+        "unused rostered days off (RDOs)",
+        "unused sick leave",
+        "compensation for loss of job",
+        "compensation for wrongful dismissal, provided it is paid within 12 months of the actual termination of employment",
+        "payments for loss of future super payments",
+        "payments arising from an employee's termination because of ill health ( invalidity ), other than compensation for personal injury",
+        "lump sum payments paid on the death of an employee."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Other types of ETPs include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "death benefit ETPs ; these are certain payments made as a consequence of the cessation of a person's employment that you received due to that person's death",
+        "foreign ETPs ; these are certain ETPs received from overseas employment which were exempt from income tax under that country's law",
+        "late termination payments ; these are certain ETPs you received more than 12 months after you retired or ceased employment."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Payments that are ETPs ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Do not show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You do not need to show the following payments anywhere on your tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "foreign termination payments ; these are certain termination payments that were not exempt from income tax of the foreign country",
+        "ETPs you received as the trustee of a deceased estate (ETP code T); these payments must be shown on the trust tax return of the deceased estate",
+        "departing Australia superannuation payments."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your income statement or PAYG payment summary – employment termination payment ."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "An income statement provides your end of year income and tax information if your employer advises that you will not be issued with a payment summary. Income statements: can be accessed through your ATO Online account in myGov should be pre-filled in myTax."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Don’t use any income statements that are not 'Tax Ready'. For more information, see income statements ."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "A payment summary may continue to be provided by some employers. If so, and you don't have all your payment summaries or comparable statements, contact your employer or payer for a copy or comparable statement. If you are unsuccessful in obtaining any of these, see Lost or missing PAYG withholding payment summary ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have received a foreign ETP, your foreign employer may not have issued you with an income statement/ PAYG payment summary - employment termination payment ."
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your tax return with ETP information provided to us. Check for ETPs you received that are not pre-filled and ensure you add them."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each ETP that has not been pre-filled in your tax return, or each foreign ETP, select Add .",
+        "Answer the question Is this an Australian ETP?",
+        "Enter information from your income statement/ PAYG payment summary – employment termination payment into the corresponding fields. If you indicated this is not an Australian ETP, you will need to select Country employed in . This foreign ETP will not be included in the myTax calculation of taxable income and the myTax estimate will not match the assessment issued by us.",
+        "Select the Employment termination payment code . If your income statement / PAYG payment summary – employment termination payment does not have a code, contact the employer or payer. If you are unable to contact the employer or payer, select the code that best describes your payment using the ETP code descriptions below.",
+        "Select Save .",
+        "Select Save and continue ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "ETP code descriptions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Code",
+          "Description"
+        ],
+        [
+          "R",
+          "if you received your ETP because of early retirement scheme genuine redundancy invalidity compensation for personal injury unfair dismissal harassment discrimination"
+        ],
+        [
+          "O",
+          "if your ETP is not described by R , for example, you received it because of golden handshake gratuity payment in lieu of notice payment for unused sick leave payment for unused rostered days off"
+        ],
+        [
+          "S",
+          "if you received a code R ETP in 2018–19 and you had received another ETP (code R or code O ), or a transitional termination payment, in an earlier income year for the same termination of employment"
+        ],
+        [
+          "P",
+          "if you received a code O ETP in 2018–19 and you had received another ETP (code R or code O ), or a transitional termination payment, in an earlier income year for the same termination of employment"
+        ],
+        [
+          "D",
+          "if you received a death benefit ETP and you were a death benefits dependant"
+        ],
+        [
+          "B",
+          "if you received a death benefit ETP in 2018–19 and you were not a death benefits dependant, and you had received another death benefit ETP in an earlier income year for the same termination of employment"
+        ],
+        [
+          "N",
+          "if you received a death benefit ETP and you were not a death benefits dependant, and code B does not apply."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Glossary"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Death benefit ETPs"
+    },
+    {
+      "type": "paragraph",
+      "text": "A death benefit ETP is a lump sum payment which is paid to you because you are the beneficiary of a person who has died. If the ETP was paid to you as the trustee of a deceased estate, you must show the ETP on the tax return of the deceased estate, not on your personal tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a death benefit ETP from a deceased person's employer, the information provided on your income statement/ PAYG payment summary - employment termination payment will depend on whether you were a Death benefits dependant ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were a death benefits dependant, the income statement/payment summary will show only the taxable components of the ETP over $205,000. If you were not a death benefits dependant, the income statement/payment summary will show the entire taxable component of the ETP."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Death benefits dependant"
+    },
+    {
+      "type": "paragraph",
+      "text": "You are a death benefits dependant of the deceased if, at the time they died, you were:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the surviving spouse",
+        "a former spouse",
+        "a child of the deceased and you were under 18 years old",
+        "any other person who was financially dependent on the deceased",
+        "any other person in an Interdependency relationship with the deceased."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with the dependency status shown on your income statement/payment summary, you should discuss it with the payer."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purposes of the definition of death benefits dependant the following apply:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spouse of the deceased includes another person (of any sex):"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "with whom the deceased was in a relationship that was registered under a prescribed law of a state or territory",
+        "not legally married to the deceased person, who lived with the deceased on a genuine domestic basis in a relationship as a couple."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Child of the deceased includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an adopted child, stepchild or ex-nuptial child of the deceased",
+        "a child of the deceased's spouse",
+        "someone who is a child of the deceased within the meaning of the Family Law Act 1975 (for example, a child who is considered to be a child of a person under a state or territory court order giving effect to a surrogacy agreement)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Interdependency relationship"
+    },
+    {
+      "type": "paragraph",
+      "text": "An interdependency relationship exists if there is a close personal relationship between two persons and the following conditions are met:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "they live together, and",
+        "one or each of them provides the other with financial support, domestic support and personal care."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "An interdependency relationship can also exist if there is a close personal relationship between two persons but one or more of the conditions stated above are not satisfied because of the physical, intellectual or psychiatric disability of one of the people."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, two persons do not have an interdependency relationship if one of them provides domestic support and personal care to the other:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "under an employment contract or a contract for service, or",
+        "on behalf of another person or organisation such as a government agency, a body corporate or a benevolent or charitable organisation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Foreign ETPs"
+    },
+    {
+      "type": "paragraph",
+      "text": "An ETP that you received due to termination of your employment overseas is a foreign employment termination payment (foreign ETP):"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "where you were an Australian resident for the period of your employment",
+        "where the payment was exempt from income tax under that country's laws, and",
+        "whether or not your foreign employer has an Australian business number (ABN) or has given you an income statement/ PAYG payment summary - employment termination payment ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A foreign ETP is different from a foreign termination payment ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to convert your foreign ETPs into Australian dollars before you can complete this section. For information about exchange rates and how to convert foreign payments, go to Foreign exchange rates or phone 13 28 61 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Late termination payment"
+    },
+    {
+      "type": "paragraph",
+      "text": "A late termination payment is a lump sum payment, similar to ETPs, which you received more than 12 months after the time you retired or ceased employment."
+    },
+    {
+      "type": "paragraph",
+      "text": "A late termination payment is treated as an ETP where:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "legal action about your entitlement to the ETP or about the amount of the ETP was commenced within 12 months of the termination of your employment",
+        "the payment was made by a person who was appointed within 12 months of your employment termination as a liquidator, receiver or trustee in bankruptcy for the employer, or",
+        "the payment was due to a person's membership in a redundancy trust and the application for payment was made within 12 months of becoming entitled to the payment under the rules of the trust. The trustee of the redundancy trust must make the payment as soon as practicable after receiving the application and within two years of the termination of the employment that led to the entitlement."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If these conditions are not met, and you received the payment more than 12 months after termination of your employment, then you must show the amount of the payment at Salary, wages, allowances, tips, bonuses etc in the Income statements and payment summaries section."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Foreign termination payment"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you think you received a foreign termination payment (FTP) the following description will help you decide what to do."
+    },
+    {
+      "type": "paragraph",
+      "text": "An FTP is a payment that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you received in consequence of the termination of your employment in a foreign country and the payment relates only to a period of employment when you were a foreign resident, or",
+        "was not exempt from income tax in the foreign country, you were an Australian resident during the period of the employment or service, and you received the payment as a result of the termination of your employment in a foreign country where the foreign earnings were exempt from Australian tax for the period of employment, or qualifying service on an approved project and the eligible foreign remuneration was exempt from Australian tax during the period of engagement."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The payment is not an FTP if it is a superannuation benefit paid from a superannuation fund, retirement savings account or an approved deposit fund or if it is a payment of a pension or an annuity."
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign termination payments are non-assessable non-exempt income, that is, tax-free income. Do not show them anywhere on your tax return."
+    }
+  ],
+  "content_text": "This section is about employment termination payments (ETPs), which you received as a result of the termination of your employment.\nThese payments are shown on an income statement or a PAYG payment summary – employment termination payment .\n## Essentials\nOn termination from employment, you may be paid several types of lump sums including ETPs. These lump sums are reported and taxed differently to normal income.\nETPs include:\n- a gratuity or golden handshake\n- Genuine redundancy or early retirement scheme payments above the tax-free limit\n- severance pay\n- Non-genuine redundancy payments\n- payments in lieu of notice of termination\n- unused rostered days off (RDOs)\n- unused sick leave\n- compensation for loss of job\n- compensation for wrongful dismissal, provided it is paid within 12 months of the actual termination of employment\n- payments for loss of future super payments\n- payments arising from an employee's termination because of ill health ( invalidity ), other than compensation for personal injury\n- lump sum payments paid on the death of an employee.\nOther types of ETPs include:\n- death benefit ETPs ; these are certain payments made as a consequence of the cessation of a person's employment that you received due to that person's death\n- foreign ETPs ; these are certain ETPs received from overseas employment which were exempt from income tax under that country's law\n- late termination payments ; these are certain ETPs you received more than 12 months after you retired or ceased employment.\nFor more information, see Payments that are ETPs .\n## Do not show at this section\nYou do not need to show the following payments anywhere on your tax return:\n- foreign termination payments ; these are certain termination payments that were not exempt from income tax of the foreign country\n- ETPs you received as the trustee of a deceased estate (ETP code T); these payments must be shown on the trust tax return of the deceased estate\n- departing Australia superannuation payments.\n## Completing this section\nYou will need your income statement or PAYG payment summary – employment termination payment .\n- An income statement provides your end of year income and tax information if your employer advises that you will not be issued with a payment summary. Income statements: can be accessed through your ATO Online account in myGov should be pre-filled in myTax.\nDon’t use any income statements that are not 'Tax Ready'. For more information, see income statements .\n- A payment summary may continue to be provided by some employers. If so, and you don't have all your payment summaries or comparable statements, contact your employer or payer for a copy or comparable statement. If you are unsuccessful in obtaining any of these, see Lost or missing PAYG withholding payment summary .\nIf you have received a foreign ETP, your foreign employer may not have issued you with an income statement/ PAYG payment summary - employment termination payment .\nWe pre-fill your tax return with ETP information provided to us. Check for ETPs you received that are not pre-filled and ensure you add them.\n- For each ETP that has not been pre-filled in your tax return, or each foreign ETP, select Add .\n- Answer the question Is this an Australian ETP?\n- Enter information from your income statement/ PAYG payment summary – employment termination payment into the corresponding fields. If you indicated this is not an Australian ETP, you will need to select Country employed in . This foreign ETP will not be included in the myTax calculation of taxable income and the myTax estimate will not match the assessment issued by us.\n- Select the Employment termination payment code . If your income statement / PAYG payment summary – employment termination payment does not have a code, contact the employer or payer. If you are unable to contact the employer or payer, select the code that best describes your payment using the ETP code descriptions below.\n- Select Save .\n- Select Save and continue .\n### ETP code descriptions\nCode | Description\nR | if you received your ETP because of early retirement scheme genuine redundancy invalidity compensation for personal injury unfair dismissal harassment discrimination\nO | if your ETP is not described by R , for example, you received it because of golden handshake gratuity payment in lieu of notice payment for unused sick leave payment for unused rostered days off\nS | if you received a code R ETP in 2018–19 and you had received another ETP (code R or code O ), or a transitional termination payment, in an earlier income year for the same termination of employment\nP | if you received a code O ETP in 2018–19 and you had received another ETP (code R or code O ), or a transitional termination payment, in an earlier income year for the same termination of employment\nD | if you received a death benefit ETP and you were a death benefits dependant\nB | if you received a death benefit ETP in 2018–19 and you were not a death benefits dependant, and you had received another death benefit ETP in an earlier income year for the same termination of employment\nN | if you received a death benefit ETP and you were not a death benefits dependant, and code B does not apply.\n## Glossary\n### Death benefit ETPs\nA death benefit ETP is a lump sum payment which is paid to you because you are the beneficiary of a person who has died. If the ETP was paid to you as the trustee of a deceased estate, you must show the ETP on the tax return of the deceased estate, not on your personal tax return.\nIf you received a death benefit ETP from a deceased person's employer, the information provided on your income statement/ PAYG payment summary - employment termination payment will depend on whether you were a Death benefits dependant .\nIf you were a death benefits dependant, the income statement/payment summary will show only the taxable components of the ETP over $205,000. If you were not a death benefits dependant, the income statement/payment summary will show the entire taxable component of the ETP.\n#### Death benefits dependant\nYou are a death benefits dependant of the deceased if, at the time they died, you were:\n- the surviving spouse\n- a former spouse\n- a child of the deceased and you were under 18 years old\n- any other person who was financially dependent on the deceased\n- any other person in an Interdependency relationship with the deceased.\nIf you disagree with the dependency status shown on your income statement/payment summary, you should discuss it with the payer.\nFor the purposes of the definition of death benefits dependant the following apply:\nSpouse of the deceased includes another person (of any sex):\n- with whom the deceased was in a relationship that was registered under a prescribed law of a state or territory\n- not legally married to the deceased person, who lived with the deceased on a genuine domestic basis in a relationship as a couple.\nChild of the deceased includes:\n- an adopted child, stepchild or ex-nuptial child of the deceased\n- a child of the deceased's spouse\n- someone who is a child of the deceased within the meaning of the Family Law Act 1975 (for example, a child who is considered to be a child of a person under a state or territory court order giving effect to a surrogacy agreement).\n### Interdependency relationship\nAn interdependency relationship exists if there is a close personal relationship between two persons and the following conditions are met:\n- they live together, and\n- one or each of them provides the other with financial support, domestic support and personal care.\nAn interdependency relationship can also exist if there is a close personal relationship between two persons but one or more of the conditions stated above are not satisfied because of the physical, intellectual or psychiatric disability of one of the people.\nHowever, two persons do not have an interdependency relationship if one of them provides domestic support and personal care to the other:\n- under an employment contract or a contract for service, or\n- on behalf of another person or organisation such as a government agency, a body corporate or a benevolent or charitable organisation.\n### Foreign ETPs\nAn ETP that you received due to termination of your employment overseas is a foreign employment termination payment (foreign ETP):\n- where you were an Australian resident for the period of your employment\n- where the payment was exempt from income tax under that country's laws, and\n- whether or not your foreign employer has an Australian business number (ABN) or has given you an income statement/ PAYG payment summary - employment termination payment .\nA foreign ETP is different from a foreign termination payment .\nYou need to convert your foreign ETPs into Australian dollars before you can complete this section. For information about exchange rates and how to convert foreign payments, go to Foreign exchange rates or phone 13 28 61 .\n### Late termination payment\nA late termination payment is a lump sum payment, similar to ETPs, which you received more than 12 months after the time you retired or ceased employment.\nA late termination payment is treated as an ETP where:\n- legal action about your entitlement to the ETP or about the amount of the ETP was commenced within 12 months of the termination of your employment\n- the payment was made by a person who was appointed within 12 months of your employment termination as a liquidator, receiver or trustee in bankruptcy for the employer, or\n- the payment was due to a person's membership in a redundancy trust and the application for payment was made within 12 months of becoming entitled to the payment under the rules of the trust. The trustee of the redundancy trust must make the payment as soon as practicable after receiving the application and within two years of the termination of the employment that led to the entitlement.\nIf these conditions are not met, and you received the payment more than 12 months after termination of your employment, then you must show the amount of the payment at Salary, wages, allowances, tips, bonuses etc in the Income statements and payment summaries section.\n### Foreign termination payment\nIf you think you received a foreign termination payment (FTP) the following description will help you decide what to do.\nAn FTP is a payment that:\n- you received in consequence of the termination of your employment in a foreign country and the payment relates only to a period of employment when you were a foreign resident, or\n- was not exempt from income tax in the foreign country, you were an Australian resident during the period of the employment or service, and you received the payment as a result of the termination of your employment in a foreign country where the foreign earnings were exempt from Australian tax for the period of employment, or qualifying service on an approved project and the eligible foreign remuneration was exempt from Australian tax during the period of engagement.\nThe payment is not an FTP if it is a superannuation benefit paid from a superannuation fund, retirement savings account or an approved deposit fund or if it is a payment of a pension or an annuity.\nForeign termination payments are non-assessable non-exempt income, that is, tax-free income. Do not show them anywhere on your tax return.",
+  "child_links": [],
+  "word_count": 1936,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

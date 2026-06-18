@@ -1,0 +1,103 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/capital-gains-tax/shares-and-similar-investments/keeping-records-of-shares-and-units",
+  "title": "Keeping records of shares and units",
+  "description": "How to identify which shares you have sold, when you acquired them, and the records you need.",
+  "nat_number": "",
+  "quick_code": "66046",
+  "date_updated": "2025-06-22T14:00:00Z",
+  "first_published": "",
+  "keywords": "shares record keeping, record keeping equities",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Records you need to keep"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you sell your shares in companies or units in managed funds, most of the records you need will be given to you by the company, the fund manager or your stockbroker. These records generally include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the date of purchase",
+        "the purchase amount",
+        "details of any non-assessable payments made to you",
+        "the date and amount of any calls (if shares were partly paid)",
+        "the sale price (if you sell them)",
+        "any commissions paid to brokers when you buy or sell",
+        "details of events such as share splits, share consolidations, returns of capital, takeovers, mergers, demergers and bonus share issues."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You may buy parcels of shares in the same company at different times. You need to keep details for each parcel as they are separate CGT assets."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Identifying when shares or units were acquired"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you sell only some of your shares or units in a company or trust, you need to be able to identify which ones you have sold and when you acquired them."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is important because shares or units bought at different times may have different costs. This will affect your capital gain or loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "Share transactions through the Australian Stock Exchange are recorded in the Clearing House Electronic Subregister System (CHESS). If you have the relevant records from your CHESS holding statement or your issuer sponsored statement, you can select which shares you have sold and identify their cost."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: identifying when shares or units were acquired"
+    },
+    {
+      "type": "paragraph",
+      "text": "Boris is an investor. He:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "bought 1,000 shares in a company in 2023 for $5 each",
+        "bought 3,000 shares in the same company in 2024 for $10 each",
+        "sold 1,500 of the shares in 2025 for $8 each."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Boris must decide which of his shares in the company he is selling and which he is retaining."
+    },
+    {
+      "type": "paragraph",
+      "text": "He decides to sell 1,500 of the shares he bought in 2024 in order to claim a capital loss in the 2025 income year. As a result, Boris will still have:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "1,000 shares with an acquisition cost of $5",
+        "1,500 shares with an acquisition cost of $10."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If Boris later decides to sell more of his shares in the company, he can choose which of his remaining shares he is selling."
+    },
+    {
+      "type": "paragraph",
+      "text": "Boris should keep records of which shares he has bought and sold so he can show that he has calculated his gains or losses correctly on any sales of shares."
+    }
+  ],
+  "content_text": "## Records you need to keep\nWhen you sell your shares in companies or units in managed funds, most of the records you need will be given to you by the company, the fund manager or your stockbroker. These records generally include:\n- the date of purchase\n- the purchase amount\n- details of any non-assessable payments made to you\n- the date and amount of any calls (if shares were partly paid)\n- the sale price (if you sell them)\n- any commissions paid to brokers when you buy or sell\n- details of events such as share splits, share consolidations, returns of capital, takeovers, mergers, demergers and bonus share issues.\nYou may buy parcels of shares in the same company at different times. You need to keep details for each parcel as they are separate CGT assets.\n## Identifying when shares or units were acquired\nWhen you sell only some of your shares or units in a company or trust, you need to be able to identify which ones you have sold and when you acquired them.\nThis is important because shares or units bought at different times may have different costs. This will affect your capital gain or loss.\nShare transactions through the Australian Stock Exchange are recorded in the Clearing House Electronic Subregister System (CHESS). If you have the relevant records from your CHESS holding statement or your issuer sponsored statement, you can select which shares you have sold and identify their cost.\n### Example: identifying when shares or units were acquired\nBoris is an investor. He:\n- bought 1,000 shares in a company in 2023 for $5 each\n- bought 3,000 shares in the same company in 2024 for $10 each\n- sold 1,500 of the shares in 2025 for $8 each.\nBoris must decide which of his shares in the company he is selling and which he is retaining.\nHe decides to sell 1,500 of the shares he bought in 2024 in order to claim a capital loss in the 2025 income year. As a result, Boris will still have:\n- 1,000 shares with an acquisition cost of $5\n- 1,500 shares with an acquisition cost of $10.\nIf Boris later decides to sell more of his shares in the company, he can choose which of his remaining shares he is selling.\nBoris should keep records of which shares he has bought and sold so he can show that he has calculated his gains or losses correctly on any sales of shares.",
+  "child_links": [],
+  "word_count": 418,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

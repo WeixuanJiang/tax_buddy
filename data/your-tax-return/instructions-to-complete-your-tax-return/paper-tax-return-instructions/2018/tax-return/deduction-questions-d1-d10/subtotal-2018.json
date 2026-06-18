@@ -1,0 +1,61 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2018/tax-return/deduction-questions-d1-d10/subtotal-2018",
+  "title": "Subtotal 2018",
+  "description": "Complete the subtotal section of your tax return.",
+  "nat_number": "",
+  "quick_code": "54241",
+  "date_updated": "2018-05-30T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, subtotal, tax subtotal, total income or loss, tax return, 2018, paper tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you show income at Total income or loss on page 3 of your tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "take away the amount at Total deductions from the amount at Total income or loss ; write the result at Subtotal",
+        "if the amount at Subtotal is less than zero, print L in the Loss box at the right of the amount."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you show a loss at Total income or loss on page 3 of your tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "add the amount at Total deductions to the amount at Total income or loss",
+        "write the result at Subtotal ; print L in the Loss box at the right of the amount."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question L1 Tax losses of earlier income years 2018 .",
+        "Return to main menu Individual tax return instructions 2018 .",
+        "Go back to Total deductions 2018 ."
+      ]
+    }
+  ],
+  "content_text": "## Completing your tax return\nIf you show income at Total income or loss on page 3 of your tax return:\n- take away the amount at Total deductions from the amount at Total income or loss ; write the result at Subtotal\n- if the amount at Subtotal is less than zero, print L in the Loss box at the right of the amount.\nIf you show a loss at Total income or loss on page 3 of your tax return:\n- add the amount at Total deductions to the amount at Total income or loss\n- write the result at Subtotal ; print L in the Loss box at the right of the amount.\n## Where to go next\n- Go to question L1 Tax losses of earlier income years 2018 .\n- Return to main menu Individual tax return instructions 2018 .\n- Go back to Total deductions 2018 .",
+  "child_links": [],
+  "word_count": 153,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

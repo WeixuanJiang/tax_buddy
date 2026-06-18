@@ -1,0 +1,57 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2018/tax-return/tax-offset-questions-t1-t2/adjustments-in-the-supplementary-tax-return-2018",
+  "title": "Adjustments that you show on the supplementary section of your tax return 2018",
+  "description": "Instructions for completing adjustments in the supplementary tax return.",
+  "nat_number": "",
+  "quick_code": "54244",
+  "date_updated": "2018-05-30T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, adjustments, supplementary, 2018, tax return, family trust, family trust distribution, paper tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you receive a distribution during 2017–18 on which family trust distribution tax has been paid?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "Read question A5 Amount on which family trust distribution tax has been paid 2018 . You may be entitled to an adjustment, or return to main menu Individual tax return instructions 2018 ."
+        ],
+        [
+          "No",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you make a payment to us more than 14 days before the due date for payment?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "Read question C1 Credit for interest on early payments 2018 . You may be able to claim credit for interest on early payments, or return to main menu Individual tax return instructions 2018 ."
+        ],
+        [
+          "No",
+          "Go to M1 Medicare levy reduction or exemption 2018 ."
+        ]
+      ]
+    }
+  ],
+  "content_text": "## Completing your tax return\nDid you receive a distribution during 2017–18 on which family trust distribution tax has been paid?\nYes | Read question A5 Amount on which family trust distribution tax has been paid 2018 . You may be entitled to an adjustment, or return to main menu Individual tax return instructions 2018 .\nNo | Read on.\nDid you make a payment to us more than 14 days before the due date for payment?\nYes | Read question C1 Credit for interest on early payments 2018 . You may be able to claim credit for interest on early payments, or return to main menu Individual tax return instructions 2018 .\nNo | Go to M1 Medicare levy reduction or exemption 2018 .",
+  "child_links": [],
+  "word_count": 125,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

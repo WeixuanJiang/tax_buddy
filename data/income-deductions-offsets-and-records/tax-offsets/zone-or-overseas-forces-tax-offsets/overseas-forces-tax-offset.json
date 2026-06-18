@@ -1,0 +1,371 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/tax-offsets/zone-or-overseas-forces-tax-offsets/overseas-forces-tax-offset",
+  "title": "Overseas forces tax offset",
+  "description": "Check if you are eligible for a tax offset for serving overseas as a member of a force.",
+  "nat_number": "",
+  "quick_code": "105019",
+  "date_updated": "2026-06-07T14:00:00Z",
+  "first_published": "",
+  "keywords": "overseas forces tax offset, overseas forces, remote zone, zone tax offset, ato zone offset, zone rebate tax offset, zone offset, remote areas",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Claiming the overseas forces tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be eligible for an overseas forces tax offset if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you are a member of either the Australian Defence Force a United Nations armed force",
+        "you serve in a specified overseas locality",
+        "your income relating to that service is not specifically exempt from tax."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your income was exempt foreign employment income, exclude these periods when working out your eligibility for the tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "To claim the full tax offset, you must have served in an overseas locality for 183 days or more in the income year. If your overseas service was less than 183 days, you may be able to claim part of the tax offset. Unlike the zone tax offset, you can't carry forward any unused days from previous years to make up 183 days."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Specified overseas localities"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1 below lists the current specified overseas localities. If you served in any of these localities as a member of the Australian Defence Force or United Nations armed force during the last income year, you may qualify for an overseas forces tax offset."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Date the area became a specified locality",
+          "Date the area will cease to be a specified locality",
+          "Description of the specified locality"
+        ],
+        [
+          "26 October 2011",
+          "–",
+          "The Republic of South Sudan and Uganda including superjacent airspace."
+        ],
+        [
+          "20 July 2006",
+          "–",
+          "Area comprising Lebanon and its territorial waters and superjacent airspace."
+        ],
+        [
+          "12 May 2006",
+          "–",
+          "Area comprising East Timor and its territorial waters and superjacent airspace."
+        ],
+        [
+          "28 October 2005",
+          "–",
+          "Area comprising the land, sea and air areas bounded by the internationally recognised borders of Pakistan."
+        ],
+        [
+          "10 April 2005",
+          "–",
+          "Sudan and its territorial waters and superjacent airspace."
+        ],
+        [
+          "24 July 2003",
+          "–",
+          "Total land areas, territorial waters and superjacent airspace boundaries of the Solomon Islands."
+        ],
+        [
+          "21 April 2003",
+          "–",
+          "Total land area, territorial waters and superjacent airspace within the internationally recognised boundaries of Israel, Jordan, Syria, Lebanon and Egypt."
+        ],
+        [
+          "11 June 1999",
+          "–",
+          "Area comprising the political boundaries and airspace of the Federal Republic of Yugoslavia (including the province of Kosovo), Albania and the former Yugoslav Republic of Macedonia."
+        ],
+        [
+          "28 October 1992",
+          "–",
+          "The Sinai."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Former specified overseas localities"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2 below lists the specified overseas localities that are no longer current. You may be able to claim the overseas forces tax offset in the income year you served there."
+    },
+    {
+      "type": "paragraph",
+      "text": "When working this out, if you were in the area on the date the area:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "became a specified locality, include that day in your calculation",
+        "ceased to be a specified locality, exclude that day from the calculation."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Date the area became a specified locality",
+          "Date the area ceased to be a specified locality",
+          "Description of the specified locality"
+        ],
+        [
+          "1 July 2014",
+          "30 June 2015",
+          "For service with Operation OKRA, the land territory, territorial waters, airspace and superjacent airspace of the: State of Kuwait Kingdom of Bahrain United Arab Emirates State of Qatar Hashemite Kingdom of Jordan."
+        ],
+        [
+          "1 July 2014",
+          "30 June 2015",
+          "For service with Operation OKRA, the waters, airspace and superjacent airspace of the Persian Gulf. (Also known as the Arabian Gulf.)"
+        ],
+        [
+          "1 July 2014",
+          "31 December 2014",
+          "For service with Operation Accordion, the land territory, internal waters, airspace and superjacent airspace of: the Kingdom of Bahrain the State of Qatar the United Arab Emirates."
+        ],
+        [
+          "1 July 2014",
+          "30 June 2015",
+          "For service with Operation Manitou, the sea (including adjacent ports and the area within a 10 km radius of such ports) and superjacent airspace of the: Arabian Sea, north of latitude 12 degrees South and west of longitude 68 degrees east Persian Gulf Strait of Hormuz Gulf of Oman Gulf of Aden Red Sea."
+        ],
+        [
+          "31 March 2011",
+          "1 November 2011",
+          "International waters and superjacent airspace of the Central Southern Mediterranean Sea: between 10 00' E and 28 00' E and south of 41 00' N including portions of Italy, Greece, Turkey, Albania and all of Malta and north of Libya, and its territorial waters and superjacent airspace."
+        ],
+        [
+          "20 May 2004",
+          "18 August 2009",
+          "East Timor and the territorial sea of East Timor."
+        ],
+        [
+          "18 August 2003",
+          "18 August 2009",
+          "Total land area, territorial waters and superjacent airspace of East Timor."
+        ],
+        [
+          "15 January 2001",
+          "18 August 2009",
+          "Area of operations defined as comprising Ethiopia and Eritrea."
+        ],
+        [
+          "4 November 2000",
+          "18 August 2009",
+          "Area of operations defined as comprising the Solomon Islands and its territorial sea."
+        ],
+        [
+          "19 June 1999",
+          "18 August 2009",
+          "Area comprising East Timor and the territorial sea of Indonesia adjacent to East Timor."
+        ],
+        [
+          "12 July 1994",
+          "18 August 2009",
+          "Mozambique."
+        ],
+        [
+          "7 July 1994",
+          "18 August 2009",
+          "Cambodia."
+        ],
+        [
+          "7 May 1991",
+          "18 August 2009",
+          "The waters of the: Arabian Gulf, Gulf of Oman, Northern Arabian Sea, the Gulf of Aden and the Red Sea bounded to the south and east by the following coordinates 25 00' N – 61 50' E 20 00' N – 61 50' E 11 50' N – 51 17' E."
+        ],
+        [
+          "1 July 1970",
+          "18 August 2009",
+          "The areas in: Syria, the Arab Republic of Egypt, Jordan, Lebanon and Israel, including territories occupied by Israel, in which Australian personnel served with the United Nations Truce Supervision Organisation."
+        ],
+        [
+          "16 September 1963",
+          "18 August 2009",
+          "Malaysia and its contiguous waters for a distance of 100 nautical miles seaward."
+        ],
+        [
+          "26 December 2004",
+          "27 May 2005",
+          "Area comprising of the land, sea and air areas bounded by the following geographical points: 7 deg north 94 deg east 7 deg north 108 deg east 7 deg south 94 deg east 7 deg south 108 deg east."
+        ],
+        [
+          "20 November 1997",
+          "27 August 2003",
+          "Area comprising Bougainville, Buka Islands and the Papua New Guinea territorial waters surrounding those islands."
+        ],
+        [
+          "15 January 2001",
+          "28 February 2003",
+          "The specified area comprises Sierra Leone."
+        ],
+        [
+          "1 October 1999",
+          "12 January 2003",
+          "Area of operations comprising the political borders of Iraq, Kuwait and Saudi Arabia."
+        ],
+        [
+          "13 May 1999",
+          "12 January 2003",
+          "Area of operations comprising the political borders of Iraq, Kuwait and Saudi Arabia."
+        ],
+        [
+          "15 May 1999",
+          "19 October 2001",
+          "The sea area: comprising the Arabian Gulf, the Gulf of Oman and the northern Arabian Sea bounded by 61 degrees 50 minutes east longitude and 20 degrees north latitude together with the ports contiguous to that sea area and the airfields and military facilities adjacent to those ports."
+        ],
+        [
+          "–",
+          "1 October 2001",
+          "Area of operations all sea, airspace and land North and West from 5 deg 00 min S 68 deg 00 min E and encompassing the outer boundaries of Pakistan, Afghanistan, Iran, Iraq, Jordan, Egypt, Sudan and Kenya."
+        ],
+        [
+          "8 June 2000",
+          "25 June 2000",
+          "Area of operations defined as comprising: the island of Guadalcanal and the adjacent waters extending 12 nautical miles (including the superjacent airspace) from the shoreline of the island of Guadalcanal."
+        ],
+        [
+          "–",
+          "5 October 1999",
+          "Area of operations comprising Cambodia and the areas in Laos and Thailand that are not more than 50 kms from the border with Cambodia."
+        ],
+        [
+          "6 September 1999",
+          "20 September 1999",
+          "Area comprising East Timor and the territorial sea of Indonesia adjacent to East Timor."
+        ],
+        [
+          "25 February 1999",
+          "11 June 1999",
+          "Area comprising the political boundaries and airspace of: the Federal Republic of Yugoslavia (including the province of Kosovo) Albania the former Yugoslav Republic of Macedonia."
+        ],
+        [
+          "15 April 1999",
+          "4 June 1999",
+          "Area comprising the political boundaries and airspace of: the Federal Republic of Yugoslavia (including the province of Kosovo) Albania the former Yugoslav Republic of Macedonia the air bases in Italy used for this operation the Adriatic Sea."
+        ],
+        [
+          "13 February 1997",
+          "13 May 1997",
+          "Guatemala."
+        ],
+        [
+          "–",
+          "1 July 1996",
+          "Haiti."
+        ],
+        [
+          "–",
+          "21 February 1995",
+          "Rwanda and the areas of Uganda, Zaire, Burundi and Tanzania that are not more than 50 kms from the border with Rwanda."
+        ],
+        [
+          "21 September 1994",
+          "13 November 1994",
+          "Bougainville, the Buka Islands and the Papua New Guinea territorial waters surrounding those islands."
+        ],
+        [
+          "–",
+          "1 August 1994",
+          "The countries of: Bahrain Iraq Kuwait Oman Qatar Saudi Arabia the United Arab Emirates Turkey, south of latitude 38 north Western Sahara."
+        ],
+        [
+          "–",
+          "1 January 1994",
+          "The North West Frontier Province of Pakistan and Afghanistan."
+        ],
+        [
+          "8 October 1993",
+          "21 November 1993",
+          "Cambodia."
+        ],
+        [
+          "–",
+          "1 January 1991",
+          "The area in which Australian Defence Force members are serving with the United Nations Iran or Iraq Military Observer Group: on the Iran side of the internationally recognised border between Iran and Iraq being an area within 200 kms of that border."
+        ],
+        [
+          "–",
+          "1 February 1990",
+          "The areas in Uganda in which Australian military personnel served with the Australian Contingent Commonwealth Military Training Team."
+        ],
+        [
+          "–",
+          "1 February 1990",
+          "The areas in Sinai in which Australian military personnel served with the Multi-National Force and Observers (MFO)."
+        ],
+        [
+          "–",
+          "1 February 1990",
+          "The areas in India and Pakistan in which Australian personnel served with the United Nations Military Observer Group, India and Pakistan."
+        ],
+        [
+          "–",
+          "1 February 1990",
+          "Indonesia."
+        ],
+        [
+          "–",
+          "1 February 1990",
+          "Vietnam (southern zone) and the waters contiguous to the coast of Vietnam for a distance of 100 nautical miles seaward."
+        ],
+        [
+          "–",
+          "1 February 1990",
+          "Thailand."
+        ],
+        [
+          "–",
+          "1 February 1990",
+          "The waters contiguous to the coast of Singapore for a distance of 100 nautical miles seaward."
+        ],
+        [
+          "–",
+          "1 February 1990",
+          "Brunei and the waters contiguous to Brunei for a distance of 100 nautical miles seaward."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Calculate and claim the overseas forces tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to calculate the tax offset and claim the amount in your tax return at Zone or overseas forces ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can only claim one of these tax offsets. If you qualify for both, you can claim the one that gives you the greater offset amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the calculator to work out your eligibility for a tax offset and the amount to claim."
+    }
+  ],
+  "content_text": "## Claiming the overseas forces tax offset\nYou may be eligible for an overseas forces tax offset if:\n- you are a member of either the Australian Defence Force a United Nations armed force\n- you serve in a specified overseas locality\n- your income relating to that service is not specifically exempt from tax.\nIf your income was exempt foreign employment income, exclude these periods when working out your eligibility for the tax offset.\nTo claim the full tax offset, you must have served in an overseas locality for 183 days or more in the income year. If your overseas service was less than 183 days, you may be able to claim part of the tax offset. Unlike the zone tax offset, you can't carry forward any unused days from previous years to make up 183 days.\n## Specified overseas localities\nTable 1 below lists the current specified overseas localities. If you served in any of these localities as a member of the Australian Defence Force or United Nations armed force during the last income year, you may qualify for an overseas forces tax offset.\nDate the area became a specified locality | Date the area will cease to be a specified locality | Description of the specified locality\n26 October 2011 | – | The Republic of South Sudan and Uganda including superjacent airspace.\n20 July 2006 | – | Area comprising Lebanon and its territorial waters and superjacent airspace.\n12 May 2006 | – | Area comprising East Timor and its territorial waters and superjacent airspace.\n28 October 2005 | – | Area comprising the land, sea and air areas bounded by the internationally recognised borders of Pakistan.\n10 April 2005 | – | Sudan and its territorial waters and superjacent airspace.\n24 July 2003 | – | Total land areas, territorial waters and superjacent airspace boundaries of the Solomon Islands.\n21 April 2003 | – | Total land area, territorial waters and superjacent airspace within the internationally recognised boundaries of Israel, Jordan, Syria, Lebanon and Egypt.\n11 June 1999 | – | Area comprising the political boundaries and airspace of the Federal Republic of Yugoslavia (including the province of Kosovo), Albania and the former Yugoslav Republic of Macedonia.\n28 October 1992 | – | The Sinai.\n## Former specified overseas localities\nTable 2 below lists the specified overseas localities that are no longer current. You may be able to claim the overseas forces tax offset in the income year you served there.\nWhen working this out, if you were in the area on the date the area:\n- became a specified locality, include that day in your calculation\n- ceased to be a specified locality, exclude that day from the calculation.\nDate the area became a specified locality | Date the area ceased to be a specified locality | Description of the specified locality\n1 July 2014 | 30 June 2015 | For service with Operation OKRA, the land territory, territorial waters, airspace and superjacent airspace of the: State of Kuwait Kingdom of Bahrain United Arab Emirates State of Qatar Hashemite Kingdom of Jordan.\n1 July 2014 | 30 June 2015 | For service with Operation OKRA, the waters, airspace and superjacent airspace of the Persian Gulf. (Also known as the Arabian Gulf.)\n1 July 2014 | 31 December 2014 | For service with Operation Accordion, the land territory, internal waters, airspace and superjacent airspace of: the Kingdom of Bahrain the State of Qatar the United Arab Emirates.\n1 July 2014 | 30 June 2015 | For service with Operation Manitou, the sea (including adjacent ports and the area within a 10 km radius of such ports) and superjacent airspace of the: Arabian Sea, north of latitude 12 degrees South and west of longitude 68 degrees east Persian Gulf Strait of Hormuz Gulf of Oman Gulf of Aden Red Sea.\n31 March 2011 | 1 November 2011 | International waters and superjacent airspace of the Central Southern Mediterranean Sea: between 10 00' E and 28 00' E and south of 41 00' N including portions of Italy, Greece, Turkey, Albania and all of Malta and north of Libya, and its territorial waters and superjacent airspace.\n20 May 2004 | 18 August 2009 | East Timor and the territorial sea of East Timor.\n18 August 2003 | 18 August 2009 | Total land area, territorial waters and superjacent airspace of East Timor.\n15 January 2001 | 18 August 2009 | Area of operations defined as comprising Ethiopia and Eritrea.\n4 November 2000 | 18 August 2009 | Area of operations defined as comprising the Solomon Islands and its territorial sea.\n19 June 1999 | 18 August 2009 | Area comprising East Timor and the territorial sea of Indonesia adjacent to East Timor.\n12 July 1994 | 18 August 2009 | Mozambique.\n7 July 1994 | 18 August 2009 | Cambodia.\n7 May 1991 | 18 August 2009 | The waters of the: Arabian Gulf, Gulf of Oman, Northern Arabian Sea, the Gulf of Aden and the Red Sea bounded to the south and east by the following coordinates 25 00' N – 61 50' E 20 00' N – 61 50' E 11 50' N – 51 17' E.\n1 July 1970 | 18 August 2009 | The areas in: Syria, the Arab Republic of Egypt, Jordan, Lebanon and Israel, including territories occupied by Israel, in which Australian personnel served with the United Nations Truce Supervision Organisation.\n16 September 1963 | 18 August 2009 | Malaysia and its contiguous waters for a distance of 100 nautical miles seaward.\n26 December 2004 | 27 May 2005 | Area comprising of the land, sea and air areas bounded by the following geographical points: 7 deg north 94 deg east 7 deg north 108 deg east 7 deg south 94 deg east 7 deg south 108 deg east.\n20 November 1997 | 27 August 2003 | Area comprising Bougainville, Buka Islands and the Papua New Guinea territorial waters surrounding those islands.\n15 January 2001 | 28 February 2003 | The specified area comprises Sierra Leone.\n1 October 1999 | 12 January 2003 | Area of operations comprising the political borders of Iraq, Kuwait and Saudi Arabia.\n13 May 1999 | 12 January 2003 | Area of operations comprising the political borders of Iraq, Kuwait and Saudi Arabia.\n15 May 1999 | 19 October 2001 | The sea area: comprising the Arabian Gulf, the Gulf of Oman and the northern Arabian Sea bounded by 61 degrees 50 minutes east longitude and 20 degrees north latitude together with the ports contiguous to that sea area and the airfields and military facilities adjacent to those ports.\n– | 1 October 2001 | Area of operations all sea, airspace and land North and West from 5 deg 00 min S 68 deg 00 min E and encompassing the outer boundaries of Pakistan, Afghanistan, Iran, Iraq, Jordan, Egypt, Sudan and Kenya.\n8 June 2000 | 25 June 2000 | Area of operations defined as comprising: the island of Guadalcanal and the adjacent waters extending 12 nautical miles (including the superjacent airspace) from the shoreline of the island of Guadalcanal.\n– | 5 October 1999 | Area of operations comprising Cambodia and the areas in Laos and Thailand that are not more than 50 kms from the border with Cambodia.\n6 September 1999 | 20 September 1999 | Area comprising East Timor and the territorial sea of Indonesia adjacent to East Timor.\n25 February 1999 | 11 June 1999 | Area comprising the political boundaries and airspace of: the Federal Republic of Yugoslavia (including the province of Kosovo) Albania the former Yugoslav Republic of Macedonia.\n15 April 1999 | 4 June 1999 | Area comprising the political boundaries and airspace of: the Federal Republic of Yugoslavia (including the province of Kosovo) Albania the former Yugoslav Republic of Macedonia the air bases in Italy used for this operation the Adriatic Sea.\n13 February 1997 | 13 May 1997 | Guatemala.\n– | 1 July 1996 | Haiti.\n– | 21 February 1995 | Rwanda and the areas of Uganda, Zaire, Burundi and Tanzania that are not more than 50 kms from the border with Rwanda.\n21 September 1994 | 13 November 1994 | Bougainville, the Buka Islands and the Papua New Guinea territorial waters surrounding those islands.\n– | 1 August 1994 | The countries of: Bahrain Iraq Kuwait Oman Qatar Saudi Arabia the United Arab Emirates Turkey, south of latitude 38 north Western Sahara.\n– | 1 January 1994 | The North West Frontier Province of Pakistan and Afghanistan.\n8 October 1993 | 21 November 1993 | Cambodia.\n– | 1 January 1991 | The area in which Australian Defence Force members are serving with the United Nations Iran or Iraq Military Observer Group: on the Iran side of the internationally recognised border between Iran and Iraq being an area within 200 kms of that border.\n– | 1 February 1990 | The areas in Uganda in which Australian military personnel served with the Australian Contingent Commonwealth Military Training Team.\n– | 1 February 1990 | The areas in Sinai in which Australian military personnel served with the Multi-National Force and Observers (MFO).\n– | 1 February 1990 | The areas in India and Pakistan in which Australian personnel served with the United Nations Military Observer Group, India and Pakistan.\n– | 1 February 1990 | Indonesia.\n– | 1 February 1990 | Vietnam (southern zone) and the waters contiguous to the coast of Vietnam for a distance of 100 nautical miles seaward.\n– | 1 February 1990 | Thailand.\n– | 1 February 1990 | The waters contiguous to the coast of Singapore for a distance of 100 nautical miles seaward.\n– | 1 February 1990 | Brunei and the waters contiguous to Brunei for a distance of 100 nautical miles seaward.\n## Calculate and claim the overseas forces tax offset\nYou need to calculate the tax offset and claim the amount in your tax return at Zone or overseas forces .\nYou can only claim one of these tax offsets. If you qualify for both, you can claim the one that gives you the greater offset amount.\nUse the calculator to work out your eligibility for a tax offset and the amount to claim.",
+  "child_links": [],
+  "word_count": 1720,
+  "source_title": "",
+  "source_description": "",
+  "category": "income-deductions-offsets-and-records"
+}

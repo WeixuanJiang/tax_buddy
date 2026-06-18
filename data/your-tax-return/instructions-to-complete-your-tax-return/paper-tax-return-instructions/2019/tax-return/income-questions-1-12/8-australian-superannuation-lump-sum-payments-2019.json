@@ -1,0 +1,220 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2019/tax-return/income-questions-1-12/8-australian-superannuation-lump-sum-payments-2019",
+  "title": "8 Australian superannuation lump sum payments 2019",
+  "description": "Complete question 8 to declare Australian superannuation lump sum payments or death benefit payments you received.",
+  "nat_number": "",
+  "quick_code": "57965",
+  "date_updated": "2019-05-29T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, tax return, 2019, superannuation, superannuation lump sum, payments, income, approved deposit funds, retirement savings, life insurance companies, paper tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about Australian superannuation lump sum payments or superannuation death benefit payments you received, including those paid by:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "superannuation funds",
+        "approved deposit funds",
+        "retirement savings account providers",
+        "life insurance companies."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "It is also about:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "amounts we paid to you in respect of the superannuation guarantee charge or the superannuation holding accounts special account",
+        "payments you received from the unclaimed money registers."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to complete this item if you received a PAYG payment summary – superannuation lump sum ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to show lump sums you received from foreign superannuation funds at item 20 on your tax return (supplementary section)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you receive any of these payments?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to question 9 Attributed personal services income 2019 , or return to main menu Individual tax return instructions 2019 ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show on your tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "tax-free component of any superannuation lump sum, including any super co-contribution or low-income super tax offset payment from us (these amounts are tax free and not included in your assessable income)",
+        "lump sum payments you received as a death benefits dependant of the deceased (see the definition in Special circumstances and glossary 2019 , these amounts are tax free and not included in your assessable income)",
+        "taxed element of a superannuation lump sum payment you received on or after your 60th birthday (these amounts are tax free and not included in your assessable income) unless it is a death benefit superannuation lump sum payment paid to you as a non-dependant",
+        "superannuation lump sum payment received as the trustee of a deceased estate (this payment must be shown on the trust tax return of the deceased estate)",
+        "amounts released under a 'release authority' issued to you because of an excess contributions tax assessment (these amounts are tax free and not included in your assessable income)",
+        "amounts paid to you because you have a terminal medical condition (see the definition in Special circumstances and glossary 2019 ; these amounts are tax free and you should not have received a PAYG payment summary – superannuation lump sum for this type of payment)",
+        "departing Australia superannuation payments."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your PAYG payment summary – superannuation lump sum ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have not received it, have lost it or think the details (such as the dependency status) on it are wrong, contact your payer. If you still cannot obtain it or cannot agree on the details, see PAYG payment summary – individual non-business ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received more than one superannuation lump sum during the year, go to step 4 . Otherwise, read on."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write in the left column at item 8 the date of payment and your payer's Australian business number (ABN), as shown on your payment summary."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total amount of tax withheld, as shown on your payment summary, under Tax withheld at item 8 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "From your payment summary, write at item 8 :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the taxed element amount at Q",
+        "the untaxed element amount at P ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a lump sum death benefit payment, print N in the TYPE box at item 8 . Otherwise, leave the TYPE box blank."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have now finished this question. Go to question 9 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received two or more superannuation lump sums, you need to complete a Superannuation lump sum schedule using the information shown on your payment summaries."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you have completed the Superannuation lump sum schedule , add all the 'tax withheld', 'taxed elements' and 'untaxed elements' from each superannuation lump sum you received, and transfer these amounts to item 8 on your tax return. Write:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the total tax withheld in the Tax withheld column.",
+        "the total taxed elements at Q",
+        "the total untaxed elements at P ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Print the code letter M in the TYPE box."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not write any date of payment or payer's ABN on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Attach your Superannuation lump sum schedule to page 3 of your tax return and print X in the Yes box at Taxpayer's declaration question 2 on page 10 of your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Withdrawing your super and paying tax"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question 9 Attributed personal services income 2019 .",
+        "Return to main menu Individual tax return instructions 2019 .",
+        "Go back to question 7 Australian annuities and superannuation income streams 2019 ."
+      ]
+    }
+  ],
+  "content_text": "This question is about Australian superannuation lump sum payments or superannuation death benefit payments you received, including those paid by:\n- superannuation funds\n- approved deposit funds\n- retirement savings account providers\n- life insurance companies.\nIt is also about:\n- amounts we paid to you in respect of the superannuation guarantee charge or the superannuation holding accounts special account\n- payments you received from the unclaimed money registers.\nYou need to complete this item if you received a PAYG payment summary – superannuation lump sum .\nYou need to show lump sums you received from foreign superannuation funds at item 20 on your tax return (supplementary section).\nDid you receive any of these payments?\nNo | Go to question 9 Attributed personal services income 2019 , or return to main menu Individual tax return instructions 2019 .\nYes | Read on.\n## Answering this question\nDo not show on your tax return:\n- tax-free component of any superannuation lump sum, including any super co-contribution or low-income super tax offset payment from us (these amounts are tax free and not included in your assessable income)\n- lump sum payments you received as a death benefits dependant of the deceased (see the definition in Special circumstances and glossary 2019 , these amounts are tax free and not included in your assessable income)\n- taxed element of a superannuation lump sum payment you received on or after your 60th birthday (these amounts are tax free and not included in your assessable income) unless it is a death benefit superannuation lump sum payment paid to you as a non-dependant\n- superannuation lump sum payment received as the trustee of a deceased estate (this payment must be shown on the trust tax return of the deceased estate)\n- amounts released under a 'release authority' issued to you because of an excess contributions tax assessment (these amounts are tax free and not included in your assessable income)\n- amounts paid to you because you have a terminal medical condition (see the definition in Special circumstances and glossary 2019 ; these amounts are tax free and you should not have received a PAYG payment summary – superannuation lump sum for this type of payment)\n- departing Australia superannuation payments.\nYou will need your PAYG payment summary – superannuation lump sum .\nIf you have not received it, have lost it or think the details (such as the dependency status) on it are wrong, contact your payer. If you still cannot obtain it or cannot agree on the details, see PAYG payment summary – individual non-business .\n## Completing your tax return\nIf you received more than one superannuation lump sum during the year, go to step 4 . Otherwise, read on.\n### Step 1\nWrite in the left column at item 8 the date of payment and your payer's Australian business number (ABN), as shown on your payment summary.\n### Step 2\nWrite the total amount of tax withheld, as shown on your payment summary, under Tax withheld at item 8 .\n### Step 3\nFrom your payment summary, write at item 8 :\n- the taxed element amount at Q\n- the untaxed element amount at P .\nIf you received a lump sum death benefit payment, print N in the TYPE box at item 8 . Otherwise, leave the TYPE box blank.\nYou have now finished this question. Go to question 9 .\n### Step 4\nIf you received two or more superannuation lump sums, you need to complete a Superannuation lump sum schedule using the information shown on your payment summaries.\n### Step 5\nWhen you have completed the Superannuation lump sum schedule , add all the 'tax withheld', 'taxed elements' and 'untaxed elements' from each superannuation lump sum you received, and transfer these amounts to item 8 on your tax return. Write:\n- the total tax withheld in the Tax withheld column.\n- the total taxed elements at Q\n- the total untaxed elements at P .\nPrint the code letter M in the TYPE box.\nDo not write any date of payment or payer's ABN on your tax return.\n### Step 6\nAttach your Superannuation lump sum schedule to page 3 of your tax return and print X in the Yes box at Taxpayer's declaration question 2 on page 10 of your tax return.\nSee also:\n- Withdrawing your super and paying tax\n## Where to go next\n- Go to question 9 Attributed personal services income 2019 .\n- Return to main menu Individual tax return instructions 2019 .\n- Go back to question 7 Australian annuities and superannuation income streams 2019 .",
+  "child_links": [],
+  "word_count": 773,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2012/supporting-information/special-circumstances-and-glossary-2012/foreign-employment-termination-payments",
+  "title": "Foreign employment termination payments",
+  "description": "Payment you received due to termination of your employment overseas.",
+  "nat_number": "",
+  "quick_code": "80816",
+  "date_updated": "2012-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "An employment termination payment (ETP) that you received due to termination of your employment overseas is a foreign employment termination payment (foreign ETP):"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "where you were an Australian resident for the period of your employment",
+        "where the payment was exempt from income tax under that country's laws, and",
+        "whether or not your foreign employer has an Australian business number (ABN) or has given you a PAYG payment summary - employment termination payment ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: A foreign ETP is different from a foreign termination payment (FTP) ."
+    }
+  ],
+  "content_text": "An employment termination payment (ETP) that you received due to termination of your employment overseas is a foreign employment termination payment (foreign ETP):\n- where you were an Australian resident for the period of your employment\n- where the payment was exempt from income tax under that country's laws, and\n- whether or not your foreign employer has an Australian business number (ABN) or has given you a PAYG payment summary - employment termination payment .\nNote: A foreign ETP is different from a foreign termination payment (FTP) .",
+  "child_links": [
+    {
+      "title": "Instructions for foreign ETPs",
+      "description": "",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2012/supporting-information/special-circumstances-and-glossary-2012/foreign-employment-termination-payments/instructions-for-foreign-etps"
+    }
+  ],
+  "word_count": 89,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,358 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2017/supplementary-tax-return/income-questions-13-24/23-forestry-managed-investment-scheme-income-2017",
+  "title": "23 Forestry managed investment scheme income 2017",
+  "description": "Complete question 23 to report income from forestry managed investment schemes.",
+  "nat_number": "",
+  "quick_code": "51153",
+  "date_updated": "2017-05-24T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack supplement, forestry, managed investment schemes, income",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Did you receive income from a forestry managed investment scheme (FMIS)?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to question 24 Other income 2017 , or return to main menu Individual tax return instructions 2017"
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "A forestry interest in an FMIS is a right to benefits produced by the scheme (whether the right is actual, prospective or contingent and whether it is enforceable or not)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You are an initial participant in an FMIS if you meet the following conditions:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you obtained your forestry interest in the FMIS from the forestry manager of the scheme",
+        "your payment to obtain the forestry interest in an FMIS results in the establishment of trees."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You are a subsequent participant if you are not an initial participant."
+    },
+    {
+      "type": "paragraph",
+      "text": "A forestry manager of an FMIS is the entity that manages, arranges or promotes the FMIS."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of your total forestry scheme deductions is the total of each amount that you can deduct or have deducted for each income year that you held your forestry interest. See D14 Forestry managed investment scheme deduction for more information on amounts you can deduct."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of your incidental forestry scheme receipts is the total of each amount that you received under the scheme in each income year that you held your forestry interest, other than amounts received because of a capital gains tax (CGT) event. A CGT event includes, a sale of all or part of a forestry interest or harvest proceeds."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this item"
+    },
+    {
+      "type": "paragraph",
+      "text": "Show at A item 23 the total income from forestry interests you held in an FMIS from the following activities."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Initial participants"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thinning receipts"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received thinning proceeds from your forestry interest, include the actual amount you received in the total amount at A item 23 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sale and harvest receipts: forestry interest you no longer held"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the following applies, include the market value of the forestry interest at the time of the CGT event in the total amount at A item 23 ."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a CGT event happened and you no longer held your forestry interest as a result of the CGT event (for example, because you have sold the interest to another person, or you have received harvest proceeds), and",
+        "you claimed a deduction, or can claim a deduction, or would be entitled to claim a deduction but for a CGT event happening within four years after the end of the income year in which you first pay an amount under the FMIS."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sale and harvest receipts: forestry interest you still held"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the following applies, include the amount by which the market value of your forestry interest was reduced in the total amount at A item 23 ."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a CGT event happened and you still held your forestry interest (for example, because you have sold part of your interest or there was a partial harvest), and",
+        "you claimed a deduction, or can claim a deduction, or would be entitled to claim a deduction but for a CGT event happening within 4 years after the end of the income year in which you first pay an amount under the FMIS."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Subsequent participants"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thinning receipts"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received thinning proceeds from your forestry interest, include the actual amount you received in the total amount at A item 23 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sale and harvest receipts: forestry interest you no longer held"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the following applies, include the amount worked out below in the total amount at A item 23 ."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a CGT event happened, and",
+        "you no longer held your forestry interest as a result of the CGT event (for example, you sold your interest or you received harvest proceeds), and",
+        "you have deducted or can deduct or could have deducted an amount if you paid the amount under the FMIS in relation to the forestry interest."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Work out the lesser of the following two amounts:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the market value of the forestry interest (at the time of the CGT event)",
+        "the amount (if any) by which the total forestry scheme deductions exceeded the incidental forestry scheme receipts."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sale and harvest receipts: forestry interest you still held"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the following applies, include the amount worked out below in the total amount at A item 23 ."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a CGT event happened, and",
+        "you still held your forestry interest (for example, because you have sold part of your interest or there was a partial harvest), and",
+        "you have deducted or can deduct or could have deducted an amount if you paid the amount under the FMIS in relation to the forestry interest."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Work out the lesser of the following two amounts:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the market value of the forestry interest (at the time of the CGT event)",
+        "the amount (if any) by which the total forestry scheme deductions exceeded the incidental forestry scheme receipts."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the lesser of the two amounts above in the following formula:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include at A item 23 the amount you worked out using the above formula."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the amounts included in your FMIS income at steps 1 to 6."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 8"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total from step 7 at A item 23 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on the CGT treatment of your forestry interest, see the Guide to capital gains tax 2017 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example 1: Sale receipts: forestry interest no longer held"
+    },
+    {
+      "type": "paragraph",
+      "text": "Julian is a subsequent participant in an FMIS. He sells his forestry interest at the market value of $20,000. The sale of his forestry interest is a CGT event. His original cost base is $14,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the time that Julian held his forestry interest, he claimed $4,000 in deductions (his 'total forestry scheme deductions') for lease fees, annual management fees and the cost of felling that he paid to the forestry manager. In the same period, Julian received $1,500 from thinning proceeds (his 'incidental forestry scheme receipts')."
+    },
+    {
+      "type": "paragraph",
+      "text": "Julian writes $2,500 (that is, $4,000 − $1,500) at A item 23 , because this amount is less than the market value of his forestry interest at the time of the CGT event."
+    },
+    {
+      "type": "paragraph",
+      "text": "CGT notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Julian will take the amount included at A item 23 into account when working out the amount to include in his Net capital gain at item 18",
+        "The capital gain would be $3,500, that is capital proceeds of $20,000 less cost base of $16,500 (made up of $14,000 plus $2,500 that was included in assessable income)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Example 2: Harvest receipts: forestry interest still held"
+    },
+    {
+      "type": "paragraph",
+      "text": "John is a subsequent participant in an FMIS. He receives harvest proceeds over two income years. He receives his first harvest payment of $5,000 in the 2016-17 income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "The market value of John's forestry interest is $20,000 just before he receives his first harvest payment (which is a CGT event). After John receives this first harvest payment, the market value of his forestry interest is reduced to $15,000. His original cost base is $14,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the time that he held his interest, he claimed $4,000 in deductions (his 'total forestry scheme deductions') for lease fees, annual management fees and the cost of felling that he paid to the forestry manager. In the same period, John received $1,500 from thinning proceeds (his 'incidental forestry scheme receipts')."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "The market value of the forestry interest (at the time of the CGT event) is $20,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount by which the total forestry scheme deductions exceed the incidental forestry scheme receipts is $2,500 (that is, $4,000 − $1,500)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount to use in step 2 is $2,500."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "John writes $625 at A item 23 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "CGT notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "John has disposed of 25% of his forestry interest. John will take the amount that it included at A into account when working out the amount to include in his Net capital gain at item 18 ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For 2016-17 the capital gain would be $875 (capital proceeds of $5,000 less apportioned original cost base of $4,125 (made up of $3,500 (25% of $14,000) plus $625 that is included in assessable income))."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question 24 Other income 2017",
+        "Return to main menu Individual tax return instructions 2017",
+        "Go back to question 22 Bonuses from life insurance companies and friendly societies 2017"
+      ]
+    }
+  ],
+  "content_text": "Did you receive income from a forestry managed investment scheme (FMIS)?\nNo | Go to question 24 Other income 2017 , or return to main menu Individual tax return instructions 2017\nYes | Read on.\n## You need to know\nA forestry interest in an FMIS is a right to benefits produced by the scheme (whether the right is actual, prospective or contingent and whether it is enforceable or not).\nYou are an initial participant in an FMIS if you meet the following conditions:\n- you obtained your forestry interest in the FMIS from the forestry manager of the scheme\n- your payment to obtain the forestry interest in an FMIS results in the establishment of trees.\nYou are a subsequent participant if you are not an initial participant.\nA forestry manager of an FMIS is the entity that manages, arranges or promotes the FMIS.\nThe amount of your total forestry scheme deductions is the total of each amount that you can deduct or have deducted for each income year that you held your forestry interest. See D14 Forestry managed investment scheme deduction for more information on amounts you can deduct.\nThe amount of your incidental forestry scheme receipts is the total of each amount that you received under the scheme in each income year that you held your forestry interest, other than amounts received because of a capital gains tax (CGT) event. A CGT event includes, a sale of all or part of a forestry interest or harvest proceeds.\n## Completing this item\nShow at A item 23 the total income from forestry interests you held in an FMIS from the following activities.\n### Initial participants\n#### Step 1\nThinning receipts\nIf you received thinning proceeds from your forestry interest, include the actual amount you received in the total amount at A item 23 .\n#### Step 2\nSale and harvest receipts: forestry interest you no longer held\nIf the following applies, include the market value of the forestry interest at the time of the CGT event in the total amount at A item 23 .\n- a CGT event happened and you no longer held your forestry interest as a result of the CGT event (for example, because you have sold the interest to another person, or you have received harvest proceeds), and\n- you claimed a deduction, or can claim a deduction, or would be entitled to claim a deduction but for a CGT event happening within four years after the end of the income year in which you first pay an amount under the FMIS.\n#### Step 3\nSale and harvest receipts: forestry interest you still held\nIf the following applies, include the amount by which the market value of your forestry interest was reduced in the total amount at A item 23 .\n- a CGT event happened and you still held your forestry interest (for example, because you have sold part of your interest or there was a partial harvest), and\n- you claimed a deduction, or can claim a deduction, or would be entitled to claim a deduction but for a CGT event happening within 4 years after the end of the income year in which you first pay an amount under the FMIS.\n### Subsequent participants\n#### Step 4\nThinning receipts\nIf you received thinning proceeds from your forestry interest, include the actual amount you received in the total amount at A item 23 .\n#### Step 5\nSale and harvest receipts: forestry interest you no longer held\nIf the following applies, include the amount worked out below in the total amount at A item 23 .\n- a CGT event happened, and\n- you no longer held your forestry interest as a result of the CGT event (for example, you sold your interest or you received harvest proceeds), and\n- you have deducted or can deduct or could have deducted an amount if you paid the amount under the FMIS in relation to the forestry interest.\nWork out the lesser of the following two amounts:\n- the market value of the forestry interest (at the time of the CGT event)\n- the amount (if any) by which the total forestry scheme deductions exceeded the incidental forestry scheme receipts.\n#### Step 6\nSale and harvest receipts: forestry interest you still held\nIf the following applies, include the amount worked out below in the total amount at A item 23 .\n- a CGT event happened, and\n- you still held your forestry interest (for example, because you have sold part of your interest or there was a partial harvest), and\n- you have deducted or can deduct or could have deducted an amount if you paid the amount under the FMIS in relation to the forestry interest.\nWork out the lesser of the following two amounts:\n- the market value of the forestry interest (at the time of the CGT event)\n- the amount (if any) by which the total forestry scheme deductions exceeded the incidental forestry scheme receipts.\nUse the lesser of the two amounts above in the following formula:\nInclude at A item 23 the amount you worked out using the above formula.\n#### Step 7\nAdd up all the amounts included in your FMIS income at steps 1 to 6.\n#### Step 8\nWrite the total from step 7 at A item 23 .\nFor more information on the CGT treatment of your forestry interest, see the Guide to capital gains tax 2017 .\nExample 1: Sale receipts: forestry interest no longer held\nJulian is a subsequent participant in an FMIS. He sells his forestry interest at the market value of $20,000. The sale of his forestry interest is a CGT event. His original cost base is $14,000.\nIn the time that Julian held his forestry interest, he claimed $4,000 in deductions (his 'total forestry scheme deductions') for lease fees, annual management fees and the cost of felling that he paid to the forestry manager. In the same period, Julian received $1,500 from thinning proceeds (his 'incidental forestry scheme receipts').\nJulian writes $2,500 (that is, $4,000 − $1,500) at A item 23 , because this amount is less than the market value of his forestry interest at the time of the CGT event.\nCGT notes:\n- Julian will take the amount included at A item 23 into account when working out the amount to include in his Net capital gain at item 18\n- The capital gain would be $3,500, that is capital proceeds of $20,000 less cost base of $16,500 (made up of $14,000 plus $2,500 that was included in assessable income).\nExample 2: Harvest receipts: forestry interest still held\nJohn is a subsequent participant in an FMIS. He receives harvest proceeds over two income years. He receives his first harvest payment of $5,000 in the 2016-17 income year.\nThe market value of John's forestry interest is $20,000 just before he receives his first harvest payment (which is a CGT event). After John receives this first harvest payment, the market value of his forestry interest is reduced to $15,000. His original cost base is $14,000.\nIn the time that he held his interest, he claimed $4,000 in deductions (his 'total forestry scheme deductions') for lease fees, annual management fees and the cost of felling that he paid to the forestry manager. In the same period, John received $1,500 from thinning proceeds (his 'incidental forestry scheme receipts').\nStep 1\nThe market value of the forestry interest (at the time of the CGT event) is $20,000.\nThe amount by which the total forestry scheme deductions exceed the incidental forestry scheme receipts is $2,500 (that is, $4,000 − $1,500).\nThe amount to use in step 2 is $2,500.\nStep 2\nStep 3\nJohn writes $625 at A item 23 .\nCGT notes:\n- John has disposed of 25% of his forestry interest. John will take the amount that it included at A into account when working out the amount to include in his Net capital gain at item 18 .\nFor 2016-17 the capital gain would be $875 (capital proceeds of $5,000 less apportioned original cost base of $4,125 (made up of $3,500 (25% of $14,000) plus $625 that is included in assessable income)).\n## Where to go next\n- Go to question 24 Other income 2017\n- Return to main menu Individual tax return instructions 2017\n- Go back to question 22 Bonuses from life insurance companies and friendly societies 2017",
+  "child_links": [],
+  "word_count": 1411,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

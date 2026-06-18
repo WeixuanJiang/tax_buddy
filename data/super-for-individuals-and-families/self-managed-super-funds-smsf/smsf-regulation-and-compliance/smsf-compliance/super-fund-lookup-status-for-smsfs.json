@@ -1,0 +1,238 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-regulation-and-compliance/smsf-compliance/super-fund-lookup-status-for-smsfs",
+  "title": "Super Fund Lookup status for SMSFs",
+  "description": "What the Super Fund Lookup (SFLU) compliance status means and how it affects your SMSF.",
+  "nat_number": "",
+  "quick_code": "64569",
+  "date_updated": "2026-04-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "SMSF lookup, SMSF SFLU, complying SMSF, non-complying SMSF, SMSF regulation details, SMSF regulation details withheld, SMSF regulation details removed, Election to be Regulated SMSF, SMSF status, Superfund lookup, super fund look up, fund registration details",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "About Super Fund Lookup"
+    },
+    {
+      "type": "paragraph",
+      "text": "Super Fund Lookup External Link (SFLU) contains publicly available information about:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "all self-managed super funds (SMSFs) with an ABN",
+        "funds regulated by the Australian Prudential Regulation Authority (APRA)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "It is our external register that reflects the current compliance status of your SMSF. Your compliance status can affect your fund's eligibility for concessional taxation and acceptance of certain contributions."
+    },
+    {
+      "type": "paragraph",
+      "text": "SFLU can also be used:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "to access contact details for a fund",
+        "to identify whether a fund has ceased to operate",
+        "by APRA-regulated funds to find out if rollovers can be made into an SMSF",
+        "by employers to find out if employer contributions qualify as super guarantee (SG) payments."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "SMSF checks"
+    },
+    {
+      "type": "paragraph",
+      "text": "We undertake checks on all SMSFs that elect to be regulated by us."
+    },
+    {
+      "type": "paragraph",
+      "text": "Checks can take between 2 and 56 days. This could delay the registration of your SMSF or prevent you from being added as a new trustee to a fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "While we complete checks, the first status for a newly registered SMSF is 'Election to be regulated is being processed'. This means:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "we are undertaking checks before we can record the SMSF as ATO-regulated",
+        "other super funds cannot make transfers or rollovers",
+        "employers cannot make super guarantee contributions."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "SFLU status types"
+    },
+    {
+      "type": "paragraph",
+      "text": "An SMSF will be described as one of 5 different status types on the SFLU:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "registered",
+        "complying",
+        "non-complying",
+        "regulation details withheld",
+        "regulation details removed."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Registered"
+    },
+    {
+      "type": "paragraph",
+      "text": "A registered SMSF:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "is eligible to receive rollovers, transfers and contributions",
+        "is regulated by us",
+        "has not been issued with a notice of compliance or a notice of non-compliance."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Once the notice of compliance has been issued, we will change the fund's status to 'complying'."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Complying"
+    },
+    {
+      "type": "paragraph",
+      "text": "A complying SMSF:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "is regulated by us",
+        "has been issued with a notice of compliance",
+        "qualifies for a concessional tax rate of 15%",
+        "is eligible to receive rollovers."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Employer contributions made to complying funds can qualify as SG payments."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Non-complying"
+    },
+    {
+      "type": "paragraph",
+      "text": "A non-complying SMSF either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "does not meet the residency conditions to be an Australian super fund",
+        "has been issued with a notice of non-compliance."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Non-complying SMSFs:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "do not qualify for concessional tax rates, which are currently 15%",
+        "pay the highest marginal tax rate, which is currently 45%",
+        "are not eligible to receive a rollover",
+        "do not qualify to receive employer contributions as SG payments."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Regulation details withheld"
+    },
+    {
+      "type": "paragraph",
+      "text": "When we have concerns about how an SMSF is operating, we usually withhold the regulation details and conduct further enquiries into its operation."
+    },
+    {
+      "type": "paragraph",
+      "text": "APRA-regulated funds will not make rollovers to SMSFs that have regulation details withheld."
+    },
+    {
+      "type": "paragraph",
+      "text": "We recommend employers don't make contributions to funds that have regulation details withheld because it is not clear if the fund is complying and operating as required."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Regulation details removed"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your SMSF annual returns are 2 weeks overdue, your regulation details will be removed on the first business day of the month."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you lodge your overdue annual returns, your regulation details will be updated, updates are made twice a week on Mondays and Wednesdays ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your fund's updated status will be displayed on SFLU the following business day. This will happen automatically, so there is no need to contact us to make the update."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your fund's corporate trustee is de-registered by the Australian Securities & Investments Commission (ASIC), the fund's regulation details will be removed on the 15th business day of the month following deregistration. Check your fund's corporate trustee registration status at ASIC External Link ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you re-register your corporate trustee or restructure your fund, you need to phone us on 13 10 20 to request to have the fund reinstated on Super Fund Lookup."
+    },
+    {
+      "type": "paragraph",
+      "text": "APRA-regulated funds will not be able to make rollovers to funds that have regulation details removed."
+    },
+    {
+      "type": "paragraph",
+      "text": "We recommend employers don't make contributions to funds that have regulation details removed because it is not clear if the fund is complying and operating as required."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "SMSF with no ABN"
+    },
+    {
+      "type": "paragraph",
+      "text": "If an SMSF does not have an ABN, the fund will not be displayed on SFLU."
+    },
+    {
+      "type": "paragraph",
+      "text": "This does not necessarily mean the SMSF is not complying. We will still provide complying SMSFs with a notice of compliance."
+    }
+  ],
+  "content_text": "## About Super Fund Lookup\nSuper Fund Lookup External Link (SFLU) contains publicly available information about:\n- all self-managed super funds (SMSFs) with an ABN\n- funds regulated by the Australian Prudential Regulation Authority (APRA).\nIt is our external register that reflects the current compliance status of your SMSF. Your compliance status can affect your fund's eligibility for concessional taxation and acceptance of certain contributions.\nSFLU can also be used:\n- to access contact details for a fund\n- to identify whether a fund has ceased to operate\n- by APRA-regulated funds to find out if rollovers can be made into an SMSF\n- by employers to find out if employer contributions qualify as super guarantee (SG) payments.\n## SMSF checks\nWe undertake checks on all SMSFs that elect to be regulated by us.\nChecks can take between 2 and 56 days. This could delay the registration of your SMSF or prevent you from being added as a new trustee to a fund.\nWhile we complete checks, the first status for a newly registered SMSF is 'Election to be regulated is being processed'. This means:\n- we are undertaking checks before we can record the SMSF as ATO-regulated\n- other super funds cannot make transfers or rollovers\n- employers cannot make super guarantee contributions.\n## SFLU status types\nAn SMSF will be described as one of 5 different status types on the SFLU:\n- registered\n- complying\n- non-complying\n- regulation details withheld\n- regulation details removed.\n### Registered\nA registered SMSF:\n- is eligible to receive rollovers, transfers and contributions\n- is regulated by us\n- has not been issued with a notice of compliance or a notice of non-compliance.\nOnce the notice of compliance has been issued, we will change the fund's status to 'complying'.\n### Complying\nA complying SMSF:\n- is regulated by us\n- has been issued with a notice of compliance\n- qualifies for a concessional tax rate of 15%\n- is eligible to receive rollovers.\nEmployer contributions made to complying funds can qualify as SG payments.\n### Non-complying\nA non-complying SMSF either:\n- does not meet the residency conditions to be an Australian super fund\n- has been issued with a notice of non-compliance.\nNon-complying SMSFs:\n- do not qualify for concessional tax rates, which are currently 15%\n- pay the highest marginal tax rate, which is currently 45%\n- are not eligible to receive a rollover\n- do not qualify to receive employer contributions as SG payments.\n### Regulation details withheld\nWhen we have concerns about how an SMSF is operating, we usually withhold the regulation details and conduct further enquiries into its operation.\nAPRA-regulated funds will not make rollovers to SMSFs that have regulation details withheld.\nWe recommend employers don't make contributions to funds that have regulation details withheld because it is not clear if the fund is complying and operating as required.\n### Regulation details removed\nIf your SMSF annual returns are 2 weeks overdue, your regulation details will be removed on the first business day of the month.\nOnce you lodge your overdue annual returns, your regulation details will be updated, updates are made twice a week on Mondays and Wednesdays .\nYour fund's updated status will be displayed on SFLU the following business day. This will happen automatically, so there is no need to contact us to make the update.\nIf your fund's corporate trustee is de-registered by the Australian Securities & Investments Commission (ASIC), the fund's regulation details will be removed on the 15th business day of the month following deregistration. Check your fund's corporate trustee registration status at ASIC External Link .\nOnce you re-register your corporate trustee or restructure your fund, you need to phone us on 13 10 20 to request to have the fund reinstated on Super Fund Lookup.\nAPRA-regulated funds will not be able to make rollovers to funds that have regulation details removed.\nWe recommend employers don't make contributions to funds that have regulation details removed because it is not clear if the fund is complying and operating as required.\n## SMSF with no ABN\nIf an SMSF does not have an ABN, the fund will not be displayed on SFLU.\nThis does not necessarily mean the SMSF is not complying. We will still provide complying SMSFs with a notice of compliance.",
+  "child_links": [],
+  "word_count": 720,
+  "source_title": "",
+  "source_description": "",
+  "category": "super-for-individuals-and-families"
+}

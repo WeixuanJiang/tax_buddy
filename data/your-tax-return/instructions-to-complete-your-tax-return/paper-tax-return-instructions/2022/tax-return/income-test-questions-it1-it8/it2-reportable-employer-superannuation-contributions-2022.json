@@ -1,0 +1,115 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2022/tax-return/income-test-questions-it1-it8/it2-reportable-employer-superannuation-contributions-2022",
+  "title": "IT2 Reportable employer superannuation contributions",
+  "description": "Complete IT2 to include any reportable employer superannuation contributions you received.",
+  "nat_number": "",
+  "quick_code": "67759",
+  "date_updated": "2022-05-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "Superannuation, TaxPack, income test, reportable employer super, super contributions, superannuation, IT2, 2022, paper tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Did your employer make reportable employer superannuation contributions on your behalf?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Write 0 at T item IT2 , then go to question IT3 Tax-free government pensions or benefits 2022 , or return to main menu Individual tax return instructions 2022 ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need each:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "income statement",
+        "PAYG payment summary – individual non-business",
+        "PAYG payment summary – foreign employment",
+        "PAYG payment summary – business and personal services income"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "you received that shows an amount of reportable employer superannuation contributions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reportable employer superannuation contributions are additional to the compulsory contributions your employer must make. An example of a reportable employer superannuation contribution is a contribution made on your behalf under a salary sacrifice arrangement. For more information, see the Guide for employees and self-employed – reportable superannuation contributions ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your payment summary or income statement shows a reportable employer superannuation contributions amount and you did not get your employer to make superannuation contributions in addition to their compulsory superannuation contributions, you should contact your employer before lodging your return to check that the figure is correct."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your employer has incorrectly calculated the reportable employer superannuation contributions amount, ask them to provide you with a revised payment summary or income statement showing the correct amount."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the reportable employer superannuation contributions amounts shown on your:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "payment summaries",
+        "income statements."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total at T item IT2 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question IT3 Tax-free government pensions or benefits 2022 .",
+        "Return to main menu Individual tax return instructions 2022 .",
+        "Go back to question IT1 Total reportable fringe benefits amounts 2022 ."
+      ]
+    }
+  ],
+  "content_text": "Did your employer make reportable employer superannuation contributions on your behalf?\nNo | Write 0 at T item IT2 , then go to question IT3 Tax-free government pensions or benefits 2022 , or return to main menu Individual tax return instructions 2022 .\nYes | Read on.\n## Answering this question\nYou will need each:\n- income statement\n- PAYG payment summary – individual non-business\n- PAYG payment summary – foreign employment\n- PAYG payment summary – business and personal services income\nyou received that shows an amount of reportable employer superannuation contributions.\nReportable employer superannuation contributions are additional to the compulsory contributions your employer must make. An example of a reportable employer superannuation contribution is a contribution made on your behalf under a salary sacrifice arrangement. For more information, see the Guide for employees and self-employed – reportable superannuation contributions .\nIf your payment summary or income statement shows a reportable employer superannuation contributions amount and you did not get your employer to make superannuation contributions in addition to their compulsory superannuation contributions, you should contact your employer before lodging your return to check that the figure is correct.\nIf your employer has incorrectly calculated the reportable employer superannuation contributions amount, ask them to provide you with a revised payment summary or income statement showing the correct amount.\n## Completing your tax return\n### Step 1\nAdd up the reportable employer superannuation contributions amounts shown on your:\n- payment summaries\n- income statements.\n### Step 2\nWrite the total at T item IT2 .\n## Where to go next\n- Go to question IT3 Tax-free government pensions or benefits 2022 .\n- Return to main menu Individual tax return instructions 2022 .\n- Go back to question IT1 Total reportable fringe benefits amounts 2022 .",
+  "child_links": [],
+  "word_count": 296,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

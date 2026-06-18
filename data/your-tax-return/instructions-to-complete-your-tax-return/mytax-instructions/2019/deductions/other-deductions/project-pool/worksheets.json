@@ -1,0 +1,143 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/deductions/other-deductions/project-pool/worksheets",
+  "title": "Worksheets",
+  "description": "Calculate your project pool deduction and project pool value.",
+  "nat_number": "",
+  "quick_code": "80268",
+  "date_updated": "2019-06-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "2017–18 project pool closing pool value (if any)",
+          "$"
+        ],
+        [
+          "b",
+          "Sum of any project amounts allocated to the pool in 2018–19",
+          "$"
+        ],
+        [
+          "c",
+          "Add row a and row b .",
+          "$"
+        ],
+        [
+          "d",
+          "Proportion of this project that was used for a taxable purpose during 2018–19",
+          "%"
+        ],
+        [
+          "e",
+          "Multiply row c by row d . This is your 2018–19 project pool deduction.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Worksheet 2: Project pool deduction"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Use column ( 3 ) where your project pool contains only project amounts incurred on or after 10 May 2006, and the project started to operate on or after that date.",
+        "Use column ( 4 ) where your project started to operate before 10 May 2006, or where the project started to operate on or after 10 May 2006 but the project contains project amounts incurred before that date.",
+        "You cannot use column ( 3 ) if you abandon, sell or otherwise dispose of a project begun before 10 May 2006 and then start operating it again, just so that you can work out deductions at the higher rate."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount (3)",
+          "Amount (4)"
+        ],
+        [
+          "a",
+          "2017–18 project pool closing pool value (if any)",
+          "$",
+          "$"
+        ],
+        [
+          "b",
+          "Sum of any project amounts allocated to the pool in 2018–19",
+          "$",
+          "$"
+        ],
+        [
+          "c",
+          "Add row a and row b . This is the value of the project pool at 30 June 2019.",
+          "$",
+          "$"
+        ],
+        [
+          "d",
+          "Estimate project life (in years), including fractions of years",
+          "",
+          ""
+        ],
+        [
+          "e",
+          "Divide row c by row d .",
+          "$",
+          "$"
+        ],
+        [
+          "f",
+          "Deduction rate",
+          "200%",
+          "150%"
+        ],
+        [
+          "g",
+          "Multiply row e by row f .",
+          "$",
+          "$"
+        ],
+        [
+          "h",
+          "Take row g away from row c .",
+          "$",
+          "$"
+        ],
+        [
+          "i",
+          "Proportion of this project that was used for a taxable purpose during 2018–19",
+          "%",
+          "%"
+        ],
+        [
+          "j",
+          "If h is zero or more, multiply row g by row i If h is less than zero, multiply row c by row i This is your 2018–19 project pool deduction.",
+          "$",
+          "$"
+        ],
+        [
+          "k",
+          "If h is zero or more, enter the amount at row h If h is less than zero, enter 0 This is your 2018–19 project pool closing pool value. Record this value to work out your deduction for project amounts next year.",
+          "$",
+          "$"
+        ]
+      ]
+    }
+  ],
+  "content_text": "Row | Calculation | Amount\na | 2017–18 project pool closing pool value (if any) | $\nb | Sum of any project amounts allocated to the pool in 2018–19 | $\nc | Add row a and row b . | $\nd | Proportion of this project that was used for a taxable purpose during 2018–19 | %\ne | Multiply row c by row d . This is your 2018–19 project pool deduction. | $\nWorksheet 2: Project pool deduction\n- Use column ( 3 ) where your project pool contains only project amounts incurred on or after 10 May 2006, and the project started to operate on or after that date.\n- Use column ( 4 ) where your project started to operate before 10 May 2006, or where the project started to operate on or after 10 May 2006 but the project contains project amounts incurred before that date.\n- You cannot use column ( 3 ) if you abandon, sell or otherwise dispose of a project begun before 10 May 2006 and then start operating it again, just so that you can work out deductions at the higher rate.\nRow | Calculation | Amount (3) | Amount (4)\na | 2017–18 project pool closing pool value (if any) | $ | $\nb | Sum of any project amounts allocated to the pool in 2018–19 | $ | $\nc | Add row a and row b . This is the value of the project pool at 30 June 2019. | $ | $\nd | Estimate project life (in years), including fractions of years |  | \ne | Divide row c by row d . | $ | $\nf | Deduction rate | 200% | 150%\ng | Multiply row e by row f . | $ | $\nh | Take row g away from row c . | $ | $\ni | Proportion of this project that was used for a taxable purpose during 2018–19 | % | %\nj | If h is zero or more, multiply row g by row i If h is less than zero, multiply row c by row i This is your 2018–19 project pool deduction. | $ | $\nk | If h is zero or more, enter the amount at row h If h is less than zero, enter 0 This is your 2018–19 project pool closing pool value. Record this value to work out your deduction for project amounts next year. | $ | $",
+  "child_links": [],
+  "word_count": 425,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

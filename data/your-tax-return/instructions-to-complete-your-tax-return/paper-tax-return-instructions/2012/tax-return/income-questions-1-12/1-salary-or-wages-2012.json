@@ -1,0 +1,212 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2012/tax-return/income-questions-1-12/1-salary-or-wages-2012",
+  "title": "1 - Salary or wages 2012",
+  "description": "Complete question 1 to declare income from salary or wages from which tax was withheld.",
+  "nat_number": "71050",
+  "quick_code": "25669",
+  "date_updated": "2012-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about income from salary or wages from which tax was withheld. Income from salary or wages includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "salary and wages",
+        "commissions",
+        "bonuses",
+        "income from part-time or casual work",
+        "parental leave pay",
+        "amounts for lost salary or wages paid under",
+        "an income protection policy a sickness or accident insurance policy, or a workers compensation scheme."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "From 1 July 2009, there have been ch a n ges to the exemption rules for foreign employment income. Show the gross income from your PAYG payment summary - foreign employment at this item."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Did you earn income from salary or wages shown on a PAYG payment summary - individual non-business or PAYG payment summary - foreign employment?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to question 2 - Allowances, earnings, tips, directors fees etc , or return to main menu Individual tax return instructions ."
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your PAYG payment summary - individual non-business shows any allowances, include them at item 2 - Allowances, earnings, tips, directors fees etc ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your PAYG payment summary - individual non-business, PAYG payment summary - foreign employment , or a comparable statement such as a letter or signed statement from each employer or payer, showing the following details:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "gross income (shown as 'Gross payments' on your payment summary)",
+        "total tax withheld",
+        "foreign tax paid, if applicable, and",
+        "the employer's or payer's Australian business number (ABN) or withholding payer number (WPN)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not have all your payment summaries or comparable statements, contact your employer or payer. If you are unsuccessful in obtaining any of these, there is information about making a statutory declaration in PAYG payment summaries - individual non-business ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purposes of steps 1 to 5, 'payment summary' includes comparable statements and statutory declarations. Do not combine amounts from different payment summaries (unless instructed at steps 5 and 6)."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print the occupation from which you earned most of your income from salary or wages under Your main salary and wage occupation at item 1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Be as specific as possible when you describe how you earned your salary and wages, for example, 'insurance clerk' rather than 'clerk', 'facilities manager' rather than 'manager', 'bar attendant' rather than 'student'. For public servants, provide work type, for example, 'call centre operator'."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have more than five payment summaries, go to step 5 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the employer's or payer's ABN or WPN from each payment summary under Payer's Australian business number at item 1 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "For each PAYG payment summary - individual non-business, write the 'Total tax withheld' shown on it under Tax withheld at the left of C to G item 1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For each PAYG payment summary - foreign employment, write the 'Total Australian tax withheld' shown on it under Tax withheld at the left of C to G item 1 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the gross payment amounts shown on each payment summary under Income at C to G item 1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have now finished this question; go to question 2 - Allowances, earnings, tips, directors fees etc ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "S tep 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have any PAYG payment summaries - foreign employment , go to step 6."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otherwise, follow steps 2 to 4 for your first four PAYG payment summaries - individual non-business . Then, for your remaining payment summaries, add up the total tax withheld and write the total at the left of G item 1 . Add up the gross payment amounts and write the total at G item 1 . Leave the Payer's Australian business number for G blank."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have now finished this question; go to question 2 - Allowances, earnings, tips, directors fees etc ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sort your PAYG payment summaries - foreign employment from your PAYG payment summaries - individual non-business ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the total Australian tax withheld shown on all your PAYG payment summaries - foreign employment and write the total at the left of C item 1 . Add up the gross payment amounts and write the total at C item 1 . Leave the Payer's Australian business numbe r for C blank."
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the total tax withheld shown on all your PAYG payment summaries - individual non-business and write the total at the left of D item 1 . Add up the gross payment amounts and write the total at D item 1 . Leave the Payer's Australian business numbe r for D blank."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be entitled to a foreign income tax offset, see question 20 - Foreign source income and foreign assets or property for further information."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a Pacific Seasonal Worker you will need to complete this item and attach additional information. On a separate sheet of paper print Schedule of additional information - Pacific Seasonal Worker and your name, address and tax file number. Attach your schedule to page 3 of your tax return. Print X in the Yes box at Taxpayer's declaration question 2a on page 12 of your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have now finished this question; go to question 2 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Helpful hints"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not attach your payment summaries and comparable statements to your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Make sure you keep all your records for five years. A shorter record-keeping period may apply in some situations. There is more information on record keeping and written evidence in Keeping your tax records ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next Go to question 2 - Allowances, earnings, tips, directors fees etc , or return to main menu Individual tax return instructions"
+        ]
+      ]
+    }
+  ],
+  "content_text": "This question is about income from salary or wages from which tax was withheld. Income from salary or wages includes:\n- salary and wages\n- commissions\n- bonuses\n- income from part-time or casual work\n- parental leave pay\n- amounts for lost salary or wages paid under\n- an income protection policy a sickness or accident insurance policy, or a workers compensation scheme.\nFrom 1 July 2009, there have been ch a n ges to the exemption rules for foreign employment income. Show the gross income from your PAYG payment summary - foreign employment at this item.\n## Did you earn income from salary or wages shown on a PAYG payment summary - individual non-business or PAYG payment summary - foreign employment?\nNO | Go to question 2 - Allowances, earnings, tips, directors fees etc , or return to main menu Individual tax return instructions .\nYES | Read below.\nIf your PAYG payment summary - individual non-business shows any allowances, include them at item 2 - Allowances, earnings, tips, directors fees etc .\n### Answering this question\nYou will need your PAYG payment summary - individual non-business, PAYG payment summary - foreign employment , or a comparable statement such as a letter or signed statement from each employer or payer, showing the following details:\n- gross income (shown as 'Gross payments' on your payment summary)\n- total tax withheld\n- foreign tax paid, if applicable, and\n- the employer's or payer's Australian business number (ABN) or withholding payer number (WPN).\nIf you do not have all your payment summaries or comparable statements, contact your employer or payer. If you are unsuccessful in obtaining any of these, there is information about making a statutory declaration in PAYG payment summaries - individual non-business .\n### Completing your tax return\nFor the purposes of steps 1 to 5, 'payment summary' includes comparable statements and statutory declarations. Do not combine amounts from different payment summaries (unless instructed at steps 5 and 6).\n#### Step 1\nPrint the occupation from which you earned most of your income from salary or wages under Your main salary and wage occupation at item 1 .\nBe as specific as possible when you describe how you earned your salary and wages, for example, 'insurance clerk' rather than 'clerk', 'facilities manager' rather than 'manager', 'bar attendant' rather than 'student'. For public servants, provide work type, for example, 'call centre operator'.\nIf you have more than five payment summaries, go to step 5 .\n#### Step 2\nWrite the employer's or payer's ABN or WPN from each payment summary under Payer's Australian business number at item 1 .\n#### Step 3\nFor each PAYG payment summary - individual non-business, write the 'Total tax withheld' shown on it under Tax withheld at the left of C to G item 1 .\nFor each PAYG payment summary - foreign employment, write the 'Total Australian tax withheld' shown on it under Tax withheld at the left of C to G item 1 .\n#### Step 4\nWrite the gross payment amounts shown on each payment summary under Income at C to G item 1 .\nYou have now finished this question; go to question 2 - Allowances, earnings, tips, directors fees etc .\n#### S tep 5\nIf you have any PAYG payment summaries - foreign employment , go to step 6.\nOtherwise, follow steps 2 to 4 for your first four PAYG payment summaries - individual non-business . Then, for your remaining payment summaries, add up the total tax withheld and write the total at the left of G item 1 . Add up the gross payment amounts and write the total at G item 1 . Leave the Payer's Australian business number for G blank.\nYou have now finished this question; go to question 2 - Allowances, earnings, tips, directors fees etc .\n#### Step 6\nSort your PAYG payment summaries - foreign employment from your PAYG payment summaries - individual non-business .\nAdd up the total Australian tax withheld shown on all your PAYG payment summaries - foreign employment and write the total at the left of C item 1 . Add up the gross payment amounts and write the total at C item 1 . Leave the Payer's Australian business numbe r for C blank.\nAdd up the total tax withheld shown on all your PAYG payment summaries - individual non-business and write the total at the left of D item 1 . Add up the gross payment amounts and write the total at D item 1 . Leave the Payer's Australian business numbe r for D blank.\nYou may be entitled to a foreign income tax offset, see question 20 - Foreign source income and foreign assets or property for further information.\nIf you are a Pacific Seasonal Worker you will need to complete this item and attach additional information. On a separate sheet of paper print Schedule of additional information - Pacific Seasonal Worker and your name, address and tax file number. Attach your schedule to page 3 of your tax return. Print X in the Yes box at Taxpayer's declaration question 2a on page 12 of your tax return.\nYou have now finished this question; go to question 2 .\n### Helpful hints\nDo not attach your payment summaries and comparable statements to your tax return.\nMake sure you keep all your records for five years. A shorter record-keeping period may apply in some situations. There is more information on record keeping and written evidence in Keeping your tax records .\nWhere to go next Go to question 2 - Allowances, earnings, tips, directors fees etc , or return to main menu Individual tax return instructions",
+  "child_links": [],
+  "word_count": 951,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

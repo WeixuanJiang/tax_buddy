@@ -1,0 +1,109 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2023/tax-return/losses-question-l1/taxable-income-or-loss-2023",
+  "title": "Taxable income or loss 2023",
+  "description": "Complete this question to declare your total taxable income or loss.",
+  "nat_number": "",
+  "quick_code": "71937",
+  "date_updated": "2023-05-24T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, income, taxable income, loss, taxable loss, instruction, tax return, 2023, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things you need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Declare at this question your total taxable income or loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "How you complete it will depend on whether you completed question L1 Tax losses of earlier income years – label F or Z on page 4 in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at Taxable income or loss in your tax return is a loss (if you printed L in the Loss box) then this may not be the amount you show as losses carried forward from earlier income years at question L1 in next year's tax return. Adjustments will have to be made to take into account any exempt income, deductions for gifts or donations (question D9 ) or personal superannuation contributions (question D12 on the supplementary section of your tax return). For more information, contact us ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Have you completed question L1 – label F or Z?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to No prior year losses ."
+        ],
+        [
+          "Yes",
+          "Go to Deducting your prior year losses ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete this question use the information below."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "No prior year losses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount you have shown at Subtotal on page 4 in your tax return to Taxable income or loss ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at Taxable income or loss is less than zero, print L in the Loss box at the right of the amount. Keep a record of this amount to work out your tax losses of earlier income years for next year."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have now completed this section, see Where to go next ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Deducting your prior year losses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the amounts at question L1 – label F and Z at and take the total away from the amount you have written at Subtotal ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the answer at Taxable income or loss in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot have a loss at Taxable income or loss if you had amounts at label F or Z . This is because label F and Z are losses of earlier income years that you are able to deduct from your 2022–23 net income."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question T1 Seniors and pensioners tax offset 2023 .",
+        "Return to main menu Individual tax return instructions 2023 .",
+        "Go back to question L1 Tax losses of earlier income years 2023 ."
+      ]
+    }
+  ],
+  "content_text": "## Things you need to know\nDeclare at this question your total taxable income or loss.\nHow you complete it will depend on whether you completed question L1 Tax losses of earlier income years – label F or Z on page 4 in your tax return.\nIf the amount at Taxable income or loss in your tax return is a loss (if you printed L in the Loss box) then this may not be the amount you show as losses carried forward from earlier income years at question L1 in next year's tax return. Adjustments will have to be made to take into account any exempt income, deductions for gifts or donations (question D9 ) or personal superannuation contributions (question D12 on the supplementary section of your tax return). For more information, contact us .\nHave you completed question L1 – label F or Z?\nNo | Go to No prior year losses .\nYes | Go to Deducting your prior year losses .\n## Completing your tax return\nTo complete this question use the information below.\n### No prior year losses\nTransfer the amount you have shown at Subtotal on page 4 in your tax return to Taxable income or loss .\nIf the amount at Taxable income or loss is less than zero, print L in the Loss box at the right of the amount. Keep a record of this amount to work out your tax losses of earlier income years for next year.\nYou have now completed this section, see Where to go next .\n### Deducting your prior year losses\nAdd up the amounts at question L1 – label F and Z at and take the total away from the amount you have written at Subtotal .\nWrite the answer at Taxable income or loss in your tax return.\nYou cannot have a loss at Taxable income or loss if you had amounts at label F or Z . This is because label F and Z are losses of earlier income years that you are able to deduct from your 2022–23 net income.\n## Where to go next\n- Go to question T1 Seniors and pensioners tax offset 2023 .\n- Return to main menu Individual tax return instructions 2023 .\n- Go back to question L1 Tax losses of earlier income years 2023 .",
+  "child_links": [],
+  "word_count": 389,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

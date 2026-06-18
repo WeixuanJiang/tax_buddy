@@ -1,0 +1,323 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/paying-smsf-benefits/income-stream-pension-rules-and-payments/commutations-for-smsfs",
+  "title": "Commutations for SMSFs",
+  "description": "How to action a partial or full commutation request and related tax consequences.",
+  "nat_number": "",
+  "quick_code": "103943",
+  "date_updated": "2025-08-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "Commutations for SMSFs, commutation SMSF, full commutation SMSF, partial commutation SMSF, converting SMSF to lump sum payment, commutation request SMSF",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What is a commutation?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Commutation is the process of converting a self-managed super fund (SMSF) pension or annuity into a lump sum payment. This payment can be:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "paid to the beneficiary",
+        "rolled over to another product in the same super fund super fund."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Each commutation must be reported to us as a transfer balance cap event in a transfer balance account report."
+    },
+    {
+      "type": "paragraph",
+      "text": "Making a large pension drawdown, instead of partially commuting, doesn't:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "reduce your transfer balance",
+        "bring you under your personal transfer balance cap ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To reduce your transfer balance, you must commute an amount of your super income stream."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Actioning commutation requests and minimum payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "When actioning a request to commute a pension, you must consider the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Partial commutations no longer count towards the annual minimum pension payment amount.",
+        "When the commutation is for the full amount of the pension, ensure the minimum pension amount has been paid before actioning the commutation.",
+        "When the commutation is only partial, ensure that either the minimum amount is paid before commutation sufficient assets remain to meet the minimum pension payment standards for that year, based on the original value of the income stream at the start of the year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The requirement to make a minimum payment before commutation doesn't apply when either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the commutation arises because of the death of a member",
+        "the sole purpose of the commutation is to pay a Division 293 additional tax make a payment split under the family law provisions allow a client’s right to return a financial product under the corporation's law provisions."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Full commutation and minimum payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "A full commutation doesn't count towards the minimum pension payment. It happens when you have a liability to pay a member a lump sum instead of a pension. The account-based pension also ends before you make the lump sum payment to the member."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before fully commuting a member’s pension (paying the lump sum), ensure all minimum annual pension payments are made. This is to ensure the minimum pension standards are met up to the time the pension stops."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a pension that started from 20 September 2007 is to be commuted in full, the SMSF must ensure at least a minimum amount is paid from the pension beforehand. This is because the pension ends at the time the decision is documented to fully commute."
+    },
+    {
+      "type": "paragraph",
+      "text": "The minimum payment must occur in the same financial year as the commutation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount paid must be at least the pro rata of the minimum annual payment amount ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For pensions starting in the same financial year they are commuted, the pro rata minimum annual payment amount is calculated using the number of days from the start day of the pension to the day it is commuted. This is calculated as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pro rata minimum payment amount = minimum annual payment amount × days from the start day to the day pension commuted ÷ 365 (or 366 in a leap year)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a member fully commutes a pension and retains the amount of the commutation lump sum within the fund, you will be required to recalculate the tax-free and taxable components of any new benefit subsequently paid from the fund."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: full commutation in year pension started"
+    },
+    {
+      "type": "paragraph",
+      "text": "Deepthi starts an account-based pension on 1 January 2023 at 60 years old. She decides to commute the pension on 30 May 2023. This is in the same financial year the pension began."
+    },
+    {
+      "type": "paragraph",
+      "text": "The account balance of the pension on 1 January 2023 is $235,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 1: Determine the minimum annual payment for 2022–23"
+    },
+    {
+      "type": "paragraph",
+      "text": "Based on the account balance on the start day of the pension, the minimum annual payment amount is $4,700 (2% of $235,000). As the pension started after 1 July 2022, the minimum payment amount is calculated proportionately from the start day to the end of the financial year as follows:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$4,700 (minimum annual payment amount)",
+        "× 181 (the number of days from the start day of the pension to the end of the financial year) ÷ 365",
+        "= $2,330.68."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Therefore, the minimum annual payment required for 2022–23 is $2,330 ($2,330.68 rounded to the nearest 10 whole dollars)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 2: Calculate the minimum payment prior to commutation"
+    },
+    {
+      "type": "paragraph",
+      "text": "The number of days from the start of the pension (1 January 2023) to the day the pension is to be commuted (30 May 2023) is 150."
+    },
+    {
+      "type": "paragraph",
+      "text": "The pro rata minimum payment amount for the pension will be:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$2,330 (minimum annual payment)",
+        "× 150 (the number of days from the start of the pension to the day the pension is to be commuted) ÷ 365",
+        "= $957.53."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Therefore, Deepthi must be paid at least a minimum amount of $960 ($957.53 rounded to the nearest 10 whole dollars) before the commutation."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: full commutation in a later year"
+    },
+    {
+      "type": "paragraph",
+      "text": "John starts an account-based pension on 1 January 2023 at 63 years old. He decides to commute the pension on 31 July 2023. This is not in the same financial year as the pension began."
+    },
+    {
+      "type": "paragraph",
+      "text": "As required, the minimum payments were made from the fund during the first year. The account balance of the pension on 1 July 2023 is $240,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "The minimum annual payment amount in 2023–24 is $9,600 (4% of $240,000)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The number of days from the beginning of the financial year (1 July) to the day the pension is commuted is 31."
+    },
+    {
+      "type": "paragraph",
+      "text": "The pro rata minimum payment amount for the pension will be:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$9,600 (minimum annual payment amount)",
+        "× 31 (number of days from the beginning of the financial year to the day the pension is commuted) ÷ 366 (2024 was a leap year)",
+        "= $813.11."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "As no payments have been made from the pension in 2023–24, the fund must pay John a minimum amount of $810 ($813.11 rounded to the nearest 10 whole dollars) before the commutation."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Commutation of legacy retirement products"
+    },
+    {
+      "type": "paragraph",
+      "text": "From 7 December 2024, changes have been made to the law allowing members to commute a range of legacy retirement products for 5 years. These products generally started before 20 September 2007 or started as a result of a conversion of an earlier legacy product that started before that date."
+    },
+    {
+      "type": "paragraph",
+      "text": "The commutation must be in full and all minimum annual pension payments must be made in the same financial year as the commutation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The minimum amount for the financial year of commutation is calculated as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Annual amount × days from the start day of the financial year to the day pension commuted ÷ 365 (or 366 in a leap year)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The annual amount is determined under regulations 1.07B and 1.07C of SISR or regulation 1.08 of the Retirement Savings Account Regulations 1997."
+    },
+    {
+      "type": "paragraph",
+      "text": "The minimum annual payment amount where a pension or annuity has been commuted will be calculated on a pro rata basis under the relevant regulations for that pension or annuity, as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pro rata minimum payment amount = minimum annual payment amount × days from the start day to the day pension commuted ÷ 365 (or 366 in a leap year)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the legacy retirement product had moved to a reversionary income stream, members will be eligible to commute the income stream into a death benefit payment. Minimum pension payment rules apply."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Full commutation paid in specie"
+    },
+    {
+      "type": "paragraph",
+      "text": "A full commutation can be paid in specie. For the purposes of super laws, the payment that results from a full commutation is a lump sum. If permitted under the fund’s governing rules, the payment may be in the form of cash or in specie."
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll need to consider the governing rules of the fund and any CGT consequences with the transfer of assets instead of cash."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Tax consequences"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the pension was in retirement phase:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the super income stream ends at the time the full commutation takes effect",
+        "eligibility for ECPI also ends at the same time."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "There may also be CGT consequences because of the disposal of assets after this time."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Partial commutation payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "A partial commutation:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "occurs when a member receiving a pension requests to withdraw a lump sum amount that is less than their total pension entitlement",
+        "doesn't result in a pension ending because there's still an obligation to continue to pay pension benefits."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A partial commutation of an SMSF account-based pension doesn't count towards the minimum pension payment."
+    },
+    {
+      "type": "paragraph",
+      "text": "The taxable and tax-free components of any partial commutation payment must have the same proportions as those determined for the components of the separate interest that supported the pension when the pension started."
+    },
+    {
+      "type": "paragraph",
+      "text": "The payment that results from a partial commutation is a lump sum for the purposes of the super laws. A lump sum payment includes a payment made by way of an asset transfer, known as an in specie payment."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the super income stream is partially commuted, the value of the super interest supporting the super income stream is reduced."
+    }
+  ],
+  "content_text": "## What is a commutation?\nCommutation is the process of converting a self-managed super fund (SMSF) pension or annuity into a lump sum payment. This payment can be:\n- paid to the beneficiary\n- rolled over to another product in the same super fund super fund.\nEach commutation must be reported to us as a transfer balance cap event in a transfer balance account report.\nMaking a large pension drawdown, instead of partially commuting, doesn't:\n- reduce your transfer balance\n- bring you under your personal transfer balance cap .\nTo reduce your transfer balance, you must commute an amount of your super income stream.\n## Actioning commutation requests and minimum payments\nWhen actioning a request to commute a pension, you must consider the following:\n- Partial commutations no longer count towards the annual minimum pension payment amount.\n- When the commutation is for the full amount of the pension, ensure the minimum pension amount has been paid before actioning the commutation.\n- When the commutation is only partial, ensure that either the minimum amount is paid before commutation sufficient assets remain to meet the minimum pension payment standards for that year, based on the original value of the income stream at the start of the year.\nThe requirement to make a minimum payment before commutation doesn't apply when either:\n- the commutation arises because of the death of a member\n- the sole purpose of the commutation is to pay a Division 293 additional tax make a payment split under the family law provisions allow a client’s right to return a financial product under the corporation's law provisions.\n## Full commutation and minimum payments\nA full commutation doesn't count towards the minimum pension payment. It happens when you have a liability to pay a member a lump sum instead of a pension. The account-based pension also ends before you make the lump sum payment to the member.\nBefore fully commuting a member’s pension (paying the lump sum), ensure all minimum annual pension payments are made. This is to ensure the minimum pension standards are met up to the time the pension stops.\nIf a pension that started from 20 September 2007 is to be commuted in full, the SMSF must ensure at least a minimum amount is paid from the pension beforehand. This is because the pension ends at the time the decision is documented to fully commute.\nThe minimum payment must occur in the same financial year as the commutation.\nThe amount paid must be at least the pro rata of the minimum annual payment amount .\nFor pensions starting in the same financial year they are commuted, the pro rata minimum annual payment amount is calculated using the number of days from the start day of the pension to the day it is commuted. This is calculated as follows:\nPro rata minimum payment amount = minimum annual payment amount × days from the start day to the day pension commuted ÷ 365 (or 366 in a leap year).\nIf a member fully commutes a pension and retains the amount of the commutation lump sum within the fund, you will be required to recalculate the tax-free and taxable components of any new benefit subsequently paid from the fund.\n### Example: full commutation in year pension started\nDeepthi starts an account-based pension on 1 January 2023 at 60 years old. She decides to commute the pension on 30 May 2023. This is in the same financial year the pension began.\nThe account balance of the pension on 1 January 2023 is $235,000.\nStep 1: Determine the minimum annual payment for 2022–23\nBased on the account balance on the start day of the pension, the minimum annual payment amount is $4,700 (2% of $235,000). As the pension started after 1 July 2022, the minimum payment amount is calculated proportionately from the start day to the end of the financial year as follows:\n- $4,700 (minimum annual payment amount)\n- × 181 (the number of days from the start day of the pension to the end of the financial year) ÷ 365\n- = $2,330.68.\nTherefore, the minimum annual payment required for 2022–23 is $2,330 ($2,330.68 rounded to the nearest 10 whole dollars).\nStep 2: Calculate the minimum payment prior to commutation\nThe number of days from the start of the pension (1 January 2023) to the day the pension is to be commuted (30 May 2023) is 150.\nThe pro rata minimum payment amount for the pension will be:\n- $2,330 (minimum annual payment)\n- × 150 (the number of days from the start of the pension to the day the pension is to be commuted) ÷ 365\n- = $957.53.\nTherefore, Deepthi must be paid at least a minimum amount of $960 ($957.53 rounded to the nearest 10 whole dollars) before the commutation.\n### Example: full commutation in a later year\nJohn starts an account-based pension on 1 January 2023 at 63 years old. He decides to commute the pension on 31 July 2023. This is not in the same financial year as the pension began.\nAs required, the minimum payments were made from the fund during the first year. The account balance of the pension on 1 July 2023 is $240,000.\nThe minimum annual payment amount in 2023–24 is $9,600 (4% of $240,000).\nThe number of days from the beginning of the financial year (1 July) to the day the pension is commuted is 31.\nThe pro rata minimum payment amount for the pension will be:\n- $9,600 (minimum annual payment amount)\n- × 31 (number of days from the beginning of the financial year to the day the pension is commuted) ÷ 366 (2024 was a leap year)\n- = $813.11.\nAs no payments have been made from the pension in 2023–24, the fund must pay John a minimum amount of $810 ($813.11 rounded to the nearest 10 whole dollars) before the commutation.\n### Commutation of legacy retirement products\nFrom 7 December 2024, changes have been made to the law allowing members to commute a range of legacy retirement products for 5 years. These products generally started before 20 September 2007 or started as a result of a conversion of an earlier legacy product that started before that date.\nThe commutation must be in full and all minimum annual pension payments must be made in the same financial year as the commutation.\nThe minimum amount for the financial year of commutation is calculated as follows:\nAnnual amount × days from the start day of the financial year to the day pension commuted ÷ 365 (or 366 in a leap year).\nThe annual amount is determined under regulations 1.07B and 1.07C of SISR or regulation 1.08 of the Retirement Savings Account Regulations 1997.\nThe minimum annual payment amount where a pension or annuity has been commuted will be calculated on a pro rata basis under the relevant regulations for that pension or annuity, as follows:\nPro rata minimum payment amount = minimum annual payment amount × days from the start day to the day pension commuted ÷ 365 (or 366 in a leap year).\nWhere the legacy retirement product had moved to a reversionary income stream, members will be eligible to commute the income stream into a death benefit payment. Minimum pension payment rules apply.\n### Full commutation paid in specie\nA full commutation can be paid in specie. For the purposes of super laws, the payment that results from a full commutation is a lump sum. If permitted under the fund’s governing rules, the payment may be in the form of cash or in specie.\nYou'll need to consider the governing rules of the fund and any CGT consequences with the transfer of assets instead of cash.\n### Tax consequences\nIf the pension was in retirement phase:\n- the super income stream ends at the time the full commutation takes effect\n- eligibility for ECPI also ends at the same time.\nThere may also be CGT consequences because of the disposal of assets after this time.\n## Partial commutation payments\nA partial commutation:\n- occurs when a member receiving a pension requests to withdraw a lump sum amount that is less than their total pension entitlement\n- doesn't result in a pension ending because there's still an obligation to continue to pay pension benefits.\nA partial commutation of an SMSF account-based pension doesn't count towards the minimum pension payment.\nThe taxable and tax-free components of any partial commutation payment must have the same proportions as those determined for the components of the separate interest that supported the pension when the pension started.\nThe payment that results from a partial commutation is a lump sum for the purposes of the super laws. A lump sum payment includes a payment made by way of an asset transfer, known as an in specie payment.\nWhen the super income stream is partially commuted, the value of the super interest supporting the super income stream is reduced.",
+  "child_links": [],
+  "word_count": 1495,
+  "source_title": "",
+  "source_description": "",
+  "category": "super-for-individuals-and-families"
+}

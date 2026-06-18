@@ -1,0 +1,1213 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2024/income/managed-fund-or-trust-distributions/trusts",
+  "title": "myTax 2024 Trusts",
+  "description": "How to complete the trusts section of your return using myTax.",
+  "nat_number": "",
+  "quick_code": "101599",
+  "date_updated": "2024-06-03T01:02:00Z",
+  "first_published": true,
+  "keywords": "2024, myTax, income or trust, primary production",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "This section relates to your distributions from trusts, complete this section if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you received, or were entitled to income from a trust a credit for amounts of tax paid on, or amounts withheld from, trust income a share of the 'national rental affordability scheme' tax offset",
+        "you had an interest in a trust that made a loss from primary production."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your trust income is from a managed fund, you should enter this information at Managed funds ."
+    },
+    {
+      "type": "paragraph",
+      "text": "A trust is not a separate taxable entity, but the trustee must lodge a tax return for the trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, the beneficiaries of the trust declare the amount of their entitlement to the trust's income in their own tax return. Then they pay tax on it, even if they didn’t actually receive the income."
+    },
+    {
+      "type": "paragraph",
+      "text": "An exception to this is, you don’t need to declare a trust distribution if family trust distribution tax has already been paid."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were entitled to an amount of trust income on 30 June 2024, you need to include your share of the net income of the trust in your 2023–24 tax return even if you did not receive an amount from the trust until after 30 June 2024."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of your share of the trust's net income (for tax purposes) may be different from the actual distribution which you received or were entitled to receive from the trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your trustee should provide you with details about your share of the trust's net income or all of your trust entitlements."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are the principal beneficiary of a special disability trust, you are considered to be entitled to all of the income of the trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a foreign resident who has received a fund payment from a managed investment trust on which an amount was withheld, see Withholding tax arrangements for managed investment trust fund payments ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Don’t show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't show the following income or offsets at this section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Income from a public trading trust or a corporate unit trust, go to Dividends .",
+        "Part of a distribution which relates to an amount of trust income on which family trust distribution tax has been paid, go to Amount on which family trust distribution tax has been paid ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete this section, you will need a statement of distribution or advice from the trustee ."
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your return to show trusts, at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You had managed fund or trust distributions (including where distribution has capital gains and foreign income)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your trust details, at Prepare return select 'Add/Edit' at the Managed fund and trust distributions banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: myTax 24 will look different when you are completing the Trust distributions section. This section replicates the fields from a trust’s statement of distribution ."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Trust distributions banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each trust distribution, select Add and enter information into the corresponding fields. To learn more about any topic, select the relevant link below. Distribution details Trust income Small business tax offset information Capital gains Foreign income",
+        "Answer the question Do you have distribution labels not shown above? If No , go to step 4. If Yes, go to step 3.",
+        "Enter information into the corresponding fields. To learn more about any topic, select the relevant link below. Share of credits from income and tax offsets Share of credits from amounts withheld Non-resident beneficiaries Non-concessional MIT income Other income information Deductions Annual Trustee Payment report information",
+        "Select Save .",
+        "Select Save and continue when you have completed the Managed fund and trust distributions section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If you received, or were entitled to trust income as a special professional you must also enter the amount of this taxable professional income in the Other income section. This includes income from activities as an author, an inventor, performing artist, production associate or active sportsperson.",
+        "Keep a record of each share of net income from a trust with your other records."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Statement of distribution or advice from the trustee"
+    },
+    {
+      "type": "paragraph",
+      "text": "A statement of distribution or advice from the trustee may show the following details in relation to your share trust net income for tax purposes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the amount of any primary production income or loss non-primary production income or loss",
+        "the amount of any franked distribution from a trust",
+        "the amount of net small business income from a small business entity trust",
+        "the amount of capital gains, attributed foreign income and other foreign source income",
+        "the amount of any income on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid",
+        "details that you are a chosen beneficiary if you are the beneficiary of a discretionary primary production trust that has made a loss",
+        "your entitlement to any of the following credits or tax offsets credit for amounts of tax withheld because the trust failed to quote its Australian business number credit for amounts of tax withheld by the trustee of a closely held trust because you did not provide your TFN credit for amounts of tax withheld due to the imposition of non-resident withholding tax or managed investment trust withholding tax from trust income you received when you were a resident share of the 'national rental affordability scheme' tax offset allowable franking credits from franked dividends credit for TFN amounts withheld credit for tax paid by the trustee."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Contact the trustee if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "have not received a statement of distribution or advice (or the advice does not contain enough information to help you complete your tax return)",
+        "think that any details are wrong or are missing from the statement of distribution or advice you received from the trust."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The information provided by your trustee may contain references to help you complete your tax return."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Your statement may include references such as: 58A or A (a label from the statement of distribution – which is part of the Trust tax return) Share of income: Primary production (a field name from the statement of distribution – which is part of the Trust tax return) tax return label reference, like 13L (an individual income tax return label)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To help you enter data into the correct fields in myTax, at Trust distributions the screen will also display:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "statement of distribution references",
+        "Individual tax return references."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you would like to see where myTax automatically transfers values from the Trust distributions section, refer to the table below."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Trust distributions fields in myTax",
+          "Where myTax maps data to in your tax return"
+        ],
+        [
+          "58A. Share of income: Primary production",
+          "13L Primary production – share of net income from trusts"
+        ],
+        [
+          "58B. Share of income: Non-primary production",
+          "13U Non-primary production – share of net income from trusts less capital gains, foreign income and franked distributions"
+        ],
+        [
+          "58U. Franked distributions",
+          "13C Non-primary production – Franked distributions from trusts"
+        ],
+        [
+          "58D. Franking credit",
+          "13Q Share of franking credit from franked dividend"
+        ],
+        [
+          "58Y. Share of net small business income",
+          "13E Trust share of net small business income less deductions attributable to that share"
+        ],
+        [
+          "58F1. Gross capital gain",
+          "18H Total current year capital gains The amount reported here should be ‘58F1. Total gross capital gains’ less the losses already applied within the trust ‘58F2. Capital losses applied’."
+        ],
+        [
+          "58F2. Capital losses applied",
+          "See Capital gains and trusts"
+        ],
+        [
+          "58F3. CGT discount applied",
+          "See Capital gains and trusts"
+        ],
+        [
+          "58F4. CGT small business concessions applied",
+          "See Capital gains and trusts"
+        ],
+        [
+          "58F. Capital gains",
+          "18A Net capital gain"
+        ],
+        [
+          "58G. Attributed foreign income",
+          "19K Controlled foreign company (CFC) income"
+        ],
+        [
+          "58H. Other assessable foreign source income",
+          "20M Other net foreign source income"
+        ],
+        [
+          "58N. Australian franking credits from a New Zealand franking company",
+          "20F Australian franking credits from a New Zealand franking company"
+        ],
+        [
+          "58I. Foreign income tax offset",
+          "20O Foreign income tax offset"
+        ],
+        [
+          "58W. Share of income of Trust estate",
+          "Not required"
+        ],
+        [
+          "58R. Share of national rental affordability scheme tax offset",
+          "13B Share of National rental affordability scheme tax offset"
+        ],
+        [
+          "58M. Exploration credits distributed",
+          "T9P Other refundable tax offsets"
+        ],
+        [
+          "58T. Early stage venture capital limited partnership tax offset",
+          "T7K Early stage venture capital limited partnership – current year tax offset"
+        ],
+        [
+          "58J. Early stage investor tax offset",
+          "T8L Early stage investor – current year tax offset"
+        ],
+        [
+          "58C. Credit for tax withheld where ABN not quoted",
+          "13P share of credit for tax withheld where Australian business number not quoted"
+        ],
+        [
+          "58E. TFN amounts withheld",
+          "13R Share of credit for tax file number amounts withheld from interest, dividends and unit trust distributions"
+        ],
+        [
+          "58O. Share of credit for TFN amounts withheld from payments from closely held trusts",
+          "13M Credit for TFN amounts withheld from payments from closely held trusts"
+        ],
+        [
+          "58L. Share of credit for tax withheld – foreign resident withholding (excluding capital gains)",
+          "13A Share of credit for foreign resident withholding amounts (excluding capital gains)"
+        ],
+        [
+          "Tax paid by trustee",
+          "13S Share of credit for tax paid by trustee"
+        ],
+        [
+          "58Z. Share of credit for foreign resident capital gains withholding amounts",
+          "18X Credit for foreign resident capital gains withholding amounts"
+        ],
+        [
+          "58J. s98(3) assessable amount",
+          "Not required"
+        ],
+        [
+          "58K. s98(4) assessable amount",
+          "Not required"
+        ],
+        [
+          "58K. s98(4) assessable amount",
+          "Not required"
+        ],
+        [
+          "58A2. Share of income PP - Excluded from NCMI",
+          "Not required"
+        ],
+        [
+          "58B1. Share of income Non PP - NCMI",
+          "Not required"
+        ],
+        [
+          "58B2. Share of income Non PP - Excluded from NCMI",
+          "Not required"
+        ],
+        [
+          "58F5. NCMI capital gains",
+          "Not required"
+        ],
+        [
+          "58F6. Excluded from NCMI capital gains",
+          "Not required"
+        ],
+        [
+          "58C1. Div 6AA eligible income",
+          "Not required"
+        ],
+        [
+          "Primary production - Other deductions",
+          "13X Primary production – other deductions relating to amounts shown at 13N and 13L"
+        ],
+        [
+          "Non-primary production - Other deductions",
+          "13Y Non-primary production – other deductions relating to amounts shown at 13O, 13U and 13C."
+        ],
+        [
+          "58T. Total TFN amounts withheld from payments",
+          "Not required"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "More information"
+    },
+    {
+      "type": "paragraph",
+      "text": "More information about completing the trust distributions section of your tax return using myTax."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Trust distributions",
+        "Distribution details",
+        "Trust income",
+        "Small business tax offset information",
+        "Capital gains",
+        "Foreign income",
+        "Share of credits from income and tax offsets",
+        "Share of credits from amounts withheld",
+        "Non-resident beneficiaries",
+        "Non-concessional MIT income",
+        "Other income information",
+        "Deductions",
+        "Annual Trustee Payment report information"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Trust distributions"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your trustee provides you with a copy of the trust’s statement of distribution section from the trust tax return as it relates to your distribution, you can directly enter the information into the Trust distributions section in myTax."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don’t receive a copy of the statement of distribution section from the trust tax return, but you receive advice from your trustee about your trust distribution, this advice should contain enough detail to help you to complete the Trust distributions section in myTax. If you need more information, ask the trustee."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the trust made an overall loss for tax law purposes in 2023–24, the loss is retained in the trust. You will have no share of the net income of the trust. For more information, contact us ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Distribution details"
+    },
+    {
+      "type": "paragraph",
+      "text": "For each distribution from a trust, use the statement of distribution or advice from the trustee to complete the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Name of distributing trust",
+        "Identifier of distributing trust."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Trust income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include the following trust income."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Share of income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include your share of income for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Primary production",
+        "Non-primary production"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Primary production"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensure that you include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your share of any primary production non-concessional managed investment trust income",
+        "primary production excluded from non-concessional managed investment trust income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Exception for primary producers – You may still be eligible for income averaging where the trust reports a loss. While beneficiaries of fixed trusts that report a loss continue to be eligible for income averaging, beneficiaries of discretionary trusts are required to meet some additional requirements."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are an eligible beneficiary and you show nothing so far, enter 0 at Net income from trusts ."
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Non-primary production"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensure that you include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your share of any non-primary production non-concessional managed investment trust income",
+        "non-primary production excluded from non-concessional managed investment trust income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you enter an amount at Share of income: Non-primary production , to enable us to work out your Income tests amounts, you will need to enter the following fields:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Managed investment scheme amount (this includes all investment income related to trusts)",
+        "Remaining non-primary production trust amount ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Franked distributions"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Franked distributions enter your share of franked distributions, to the extent they formed part of the net income of the trust for tax purposes. The amount you enter at Franked distributions also includes your share of attached franking credits (the franking credit 'gross-up')."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you enter an amount at Franked distributions , to enable us to work out your Income tests amounts, you will need to enter the following fields:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Franked distribution related to investments",
+        "Remaining franked distribution amount ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Franking credits"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enter your share of any allowable franking credits which you are entitled to claim as a franking tax offset through a trust at Franking credit ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can only claim a share of a franking credit which relates to the share of a franked dividend paid to a trust which is indirectly included in the amount of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "trust income you enter at Share of income: Non-primary production",
+        "franked distribution you enter at Franked distributions ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Therefore, you can't claim a franking credit for a dividend paid to the trust which was exempt income or non-assessable non-exempt income (for example, a distribution on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't claim a share of a franking credit through a trust in any of the following circumstances:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the trust has an overall loss for tax purposes for 2023–24",
+        "you did not enter an amount at Franked distributions",
+        "the amount of income from the trust you have entered at Share of income: Non-primary production is not attributable to the franked dividend which has generated the franking credit."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition, you may not be entitled to claim the franking credits if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "within 45 days of buying the shares (90 days for certain preference shares), you either sold them or entered into an arrangement to reduce the risk of making a loss on them",
+        "you were under an obligation to make, or were likely to make, a related payment, or",
+        "you received a dividend as a result of a dividend washing arrangement."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "These rules apply to your interests in the shares held by the trust (other than widely held trusts) in the same way that the rules apply to shares you own directly."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on these rules, see When you are not entitled to claim a franking tax offset ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Small business tax offset information"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be entitled to the small business income tax offset if either of the following apply:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your share of net income included a share of net small business income",
+        "you had a farm management repayment or other amount you received as a beneficiary in a small business entity."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At Share of net small business income enter your share of the trust’s net small business income."
+    },
+    {
+      "type": "paragraph",
+      "text": "Amounts you show at this section are not included in your income. They are only used for the purpose of working out your small business income tax offset."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Capital gains"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enter your share of the following capital gains."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Gross capital gain"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Gross capital gain enter your share of each capital gain of the trust (prior to any losses or concessions being applied)."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Capital losses applied"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Capital losses applied enter your share of the capital losses that applied to your share of gross capital gains distributed by the trust."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "CGT discount applied"
+    },
+    {
+      "type": "paragraph",
+      "text": "At CGT discount applied enter your share of the CGT discount that applied to the gross capital gains distributed by the trust."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "CGT small business concessions applied"
+    },
+    {
+      "type": "paragraph",
+      "text": "At CGT small business concessions applied enter your share of the small business CGT concessions that applied to the gross capital gains distributed by the trust."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Capital gains"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Capital gains enter your share of the trust’s net capital gains. The Trust’s net capital gains is the amount remaining after applying capital losses, CGT discounts and CGT small business concessions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Capital gains and trusts contains more information on capital gains received through a trust."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Foreign income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enter your share of the following foreign income."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Attributed foreign income"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Attributed foreign income enter your share of attributed foreign income included in the net income of the trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign entities contains more information on attributed foreign income."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Other assessable foreign source income"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Other assessable foreign source income enter your share of other assessable net foreign source income included in the net income of the trust for tax purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other foreign income contains more information on other assessable foreign source income."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Australian franking credits from a New Zealand franking company"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Australian franking credits from a New Zealand franking company enter your share of the amount of Australian franking credits that are included in the net income of the trust because of franked dividends received from a New Zealand franking company directly or indirectly through a partnership or other trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "Working out your Australian franking credits from a New Zealand franking company contains more information on Australian franking credits from a New Zealand franking company."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Foreign income tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Foreign income tax offset enter your share of foreign income tax offsets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign income tax offset contains more information on foreign income tax offsets."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Share of income of Trust estate"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Share of income of Trust estate enter your share of the income of the trust estate for trust law purposes."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Share of credits from income and tax offsets"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enter your share of credits from the following income and tax offsets."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Share of national rental affordability scheme tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "At national rental affordability scheme tax offset enter your share of the national rental affordability scheme (NRAS) tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "Claiming the NRAS refundable tax offset contains more information on the national rental affordability scheme tax offset."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Exploration credits distributed"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Exploration Credits distributed enter your share of exploration credits."
+    },
+    {
+      "type": "paragraph",
+      "text": "Junior Minerals Exploration Incentive contains more information on exploration credits."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Early stage venture capital limited partnership tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Early stage venture capital limited partnership tax offset enter your allocation of the early stage venture capital limited partnership tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "Early stage venture capital limited partnership contains more information on Early stage venture capital limited partnership tax offset."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Early stage investor tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Early stage investor tax offset enter your share of the early stage investor tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "Early stage investor contains more information on the Early stage investor tax offset."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Share of credits from amounts withheld"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enter your share of credits from the following amounts withheld."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Credit for tax withheld where ABN not quoted"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Credit for tax withheld where ABN not quoted enter your share of the total of amounts withheld from income subject to withholding where an Australian business number (ABN) was not quoted."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "TFN amounts withheld"
+    },
+    {
+      "type": "paragraph",
+      "text": "At TFN amounts withheld enter your share of the amounts withheld from all payments or distributions where you did not provide a TFN."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Share of credit for TFN amounts withheld from payments from closely held trusts"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Share of credit for TFN amounts withheld from payments from closely held trusts enter your share of the amounts withheld from all payments or distributions from closely held trusts where a TFN was not provided."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Share of credit for tax withheld – foreign resident withholding (excluding capital gains)"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Share of credit for tax withheld – foreign resident withholding (excluding capital gains) enter your share of any foreign resident withholding credit:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "received as an Australian resident where an amount of tax was withheld because of the imposition of non-resident withholding tax or managed investment trust withholding tax",
+        "derived as a foreign resident from which an amount of tax was withheld because of the operation of the foreign resident withholding rules."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Tax paid by trustee"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you enter an amount at Tax paid by trustee, you will need to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "select the Situation",
+        "enter the Share of income ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Non-resident trust"
+    },
+    {
+      "type": "paragraph",
+      "text": "A non-resident trust is a trust which, for all of 2023–24"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "only had non-resident trustees",
+        "had its central management and control outside Australia."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were an Australian resident, you may be able to claim a credit for Australian withholding tax you have borne on any Australian sourced:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "dividend",
+        "interest",
+        "royalty",
+        "payment from an Australian managed investment trust included in the income of a non-resident trust to which you are entitled."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Legal disability"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were under a legal disability you may be able to claim a credit for the tax that the trustee has paid on your share of the trust's net income. You are considered to be under a legal disability if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "were under 18 years old on 30 June 2024",
+        "were a person who is bankrupt",
+        "had been declared legally incapable because of a mental condition."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Foreign resident"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were not an Australian resident, you may be able to claim a credit for the tax that the trustee has paid on your share of income from a resident trust."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Share of credit for foreign resident capital gains withholding amounts"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Share of credit for foreign resident capital gains withholding amounts enter your share of foreign resident capital gains withholding."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Capital gains withholding: Impacts on foreign and Australian residents ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Non-resident beneficiaries"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "s98(3) assessable amount"
+    },
+    {
+      "type": "paragraph",
+      "text": "At s98(3) assessable amount enter your share of the amount the trust is liable to pay tax on under subsection 98(3) of the ITAA 1936."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "s98(4) assessable amount"
+    },
+    {
+      "type": "paragraph",
+      "text": "At s98(4) assessable amount enter your share of the amount the trust is liable to pay tax on under subsection 98(4) of the ITAA 1936."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Non-concessional MIT income"
+    },
+    {
+      "type": "paragraph",
+      "text": "For an explanation of the acronyms we use at this section."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "NCMI - Non-concessional MIT income.",
+        "MIT - Managed investment trust."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Share of income PP - NCMI"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Share of Income PP – NCMI enter your share of the total NCMI amount distributed from a trust categorised as primary production income."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you show an amount here, you will also need to show an amount at Share of income: Primary production ."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Share of income PP - Excluded from NCMI"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Share of Income PP – Excluded from NCMI enter your share of non-primary production income excluded from NCMI."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you show an amount here, you will also need to show an amount at Share of income: Primary production ."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Share of income Non PP - NCMI"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Share of Income Non PP – NCMI enter your share of the total NCMI amount distributed from a trust categorised as non-primary production income, that is, cross staple income, trading trust income and residential housing income."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you show an amount here, you will also need to show an amount at Share of income: Non-primary production ."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Share of income Non PP - Excluded from NCMI"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Share of income Non PP – Excluded from NCMI enter your share of non-primary production income excluded from NCMI."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you show an amount here, you will also need to show an amount at Share of income: Non-primary production ."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "NCMI capital gains"
+    },
+    {
+      "type": "paragraph",
+      "text": "At NCMI capital gains enter your share of the total NCMI capital gains amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you show an amount here, you will also need to show an amount at Gross capital gain ."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Excluded from NCMI capital gains"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Excluded from NCMI capital gains enter your share of the total capital gains amount excluded from NCMI."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you show an amount here, you will also need to show an amount at Gross capital gain ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Other income information"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Div 6AA eligible income"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Div 6AA eligible income enter your share of net income that is considered eligible income as you were under 18 years old at the end of the income year."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember, you can't claim a deduction:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "for amounts already claimed by the trust, or",
+        "for expenses incurred in deriving exempt income or non-assessable non-exempt income (for example, expenses incurred in deriving distributions on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were the beneficiary of a discretionary trust you cannot claim a deduction for expenses you incurred in relation to your share of any net income of the trust under the general deduction provisions. This is because at the time you incurred the expense, you were not entitled to any income of the trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you made a prepayment of $1,000 or more for something to be done (in whole or in part) in a future income year, the amount you can deduct may be affected by the rules relating to prepayments. For more information on prepayments, see Deductions for prepaid expenses ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Debt deductions (such as interest and borrowing costs) incurred in deriving assessable trust income may be affected by the thin capitalisation rules. These rules may apply if the total of your debt deductions and those of your associates are over $2 million for 2023–24. For more information, see Thin capitalisation ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have used the Depreciation and capital allowances tool to work out any decline in value deductions for your trust, you’ll need to use your recorded information to complete trust deductions."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Primary production – Other deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a trustee incurred eligible expenditure on landcare operations, water facilities, fencing assets or fodder storage assets, then only the trustee, not a beneficiary of the trust, can claim deductions for that expenditure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Include at Primary production – Other deductions your share of other deductions that you can claim in relation to your share of primary production income of a trust that you can claim this income year."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Non-primary productions – Other deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a trustee incurred eligible expenditure on landcare operations, only the trustee, not a beneficiary of the trust, can claim deductions for that expenditure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Include at Non-primary production – Other deductions your share of any other deductions that relate to non-primary production income of a trust that you can claim this income year, including deductions relating to franked distributions from trusts."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you show an amount at Non-primary production – Other deductions , to enable us to work out your Income tests amounts, you will need to enter the following fields:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Managed investment scheme deductions (this includes all investment deductions related to trusts)",
+        "Remaining trust deductions ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Annual Trustee Payment report information"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Total TFN amounts withheld from payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Total TFN amounts withheld from payments enter the amounts withheld from all payments or distributions in your trust distribution because you did not provide your TFN. This includes amounts withheld from payments during the year or as a result of determining present entitlement at the end of the income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't include amounts you have entered at Share of credit for TFN amounts withheld from payments from closely held trusts ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Capital gains and trusts"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your trust distribution includes a capital gains component, how you complete the rest of your myTax return will depend on your circumstances."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your only capital gains are from trusts or managed funds and entered at the Managed fund and trust distributions section and:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your current year capital gains are $10,000 or less, you do not need to complete the Capital gains or losses section",
+        "your current year capital gains are more than $10,000, you need to complete the Capital gains or losses section myTax will prompt you to complete the Capital gains or losses section myTax will complete Total current year capital gains and Net capital gain in the Capital gains or losses section from information entered in the Managed fund and trust distributions section you will need to complete the Capital gains tax schedule."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have other capital gains tax events during the year or you have carried forward capital losses from a prior year:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you need to complete the Capital gains or losses section myTax will prompt you to complete the Capital gains or losses section the capital gains amounts entered in the Managed fund and trust distributions section will be automatically carried over to the Capital gains or losses section for you to review you will need to ensure that all your capital gains from managed funds and trusts are included in what you enter at Total current year capital gains and Net capital gain ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Who is a primary producer?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A primary producer undertakes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "plant or animal cultivation (or both)",
+        "fishing or pearling (or both)",
+        "tree farming or felling (or both)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information about who is a primary producer, see Primary production activities ."
+    }
+  ],
+  "content_text": "## Things to know\nThis section relates to your distributions from trusts, complete this section if:\n- you received, or were entitled to income from a trust a credit for amounts of tax paid on, or amounts withheld from, trust income a share of the 'national rental affordability scheme' tax offset\n- you had an interest in a trust that made a loss from primary production.\nIf your trust income is from a managed fund, you should enter this information at Managed funds .\nA trust is not a separate taxable entity, but the trustee must lodge a tax return for the trust.\nGenerally, the beneficiaries of the trust declare the amount of their entitlement to the trust's income in their own tax return. Then they pay tax on it, even if they didn’t actually receive the income.\nAn exception to this is, you don’t need to declare a trust distribution if family trust distribution tax has already been paid.\nIf you were entitled to an amount of trust income on 30 June 2024, you need to include your share of the net income of the trust in your 2023–24 tax return even if you did not receive an amount from the trust until after 30 June 2024.\nThe amount of your share of the trust's net income (for tax purposes) may be different from the actual distribution which you received or were entitled to receive from the trust.\nYour trustee should provide you with details about your share of the trust's net income or all of your trust entitlements.\nIf you are the principal beneficiary of a special disability trust, you are considered to be entitled to all of the income of the trust.\nIf you are a foreign resident who has received a fund payment from a managed investment trust on which an amount was withheld, see Withholding tax arrangements for managed investment trust fund payments .\n### Don’t show at this section\nDon't show the following income or offsets at this section:\n- Income from a public trading trust or a corporate unit trust, go to Dividends .\n- Part of a distribution which relates to an amount of trust income on which family trust distribution tax has been paid, go to Amount on which family trust distribution tax has been paid .\n## Completing this section\nTo complete this section, you will need a statement of distribution or advice from the trustee .\nTo personalise your return to show trusts, at Personalise return select:\n- You had managed fund or trust distributions (including where distribution has capital gains and foreign income)\nTo show your trust details, at Prepare return select 'Add/Edit' at the Managed fund and trust distributions banner.\nNote: myTax 24 will look different when you are completing the Trust distributions section. This section replicates the fields from a trust’s statement of distribution .\nAt the Trust distributions banner:\n- For each trust distribution, select Add and enter information into the corresponding fields. To learn more about any topic, select the relevant link below. Distribution details Trust income Small business tax offset information Capital gains Foreign income\n- Answer the question Do you have distribution labels not shown above? If No , go to step 4. If Yes, go to step 3.\n- Enter information into the corresponding fields. To learn more about any topic, select the relevant link below. Share of credits from income and tax offsets Share of credits from amounts withheld Non-resident beneficiaries Non-concessional MIT income Other income information Deductions Annual Trustee Payment report information\n- Select Save .\n- Select Save and continue when you have completed the Managed fund and trust distributions section.\nNotes\n- If you received, or were entitled to trust income as a special professional you must also enter the amount of this taxable professional income in the Other income section. This includes income from activities as an author, an inventor, performing artist, production associate or active sportsperson.\n- Keep a record of each share of net income from a trust with your other records.\n### Statement of distribution or advice from the trustee\nA statement of distribution or advice from the trustee may show the following details in relation to your share trust net income for tax purposes:\n- the amount of any primary production income or loss non-primary production income or loss\n- the amount of any franked distribution from a trust\n- the amount of net small business income from a small business entity trust\n- the amount of capital gains, attributed foreign income and other foreign source income\n- the amount of any income on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid\n- details that you are a chosen beneficiary if you are the beneficiary of a discretionary primary production trust that has made a loss\n- your entitlement to any of the following credits or tax offsets credit for amounts of tax withheld because the trust failed to quote its Australian business number credit for amounts of tax withheld by the trustee of a closely held trust because you did not provide your TFN credit for amounts of tax withheld due to the imposition of non-resident withholding tax or managed investment trust withholding tax from trust income you received when you were a resident share of the 'national rental affordability scheme' tax offset allowable franking credits from franked dividends credit for TFN amounts withheld credit for tax paid by the trustee.\nContact the trustee if you:\n- have not received a statement of distribution or advice (or the advice does not contain enough information to help you complete your tax return)\n- think that any details are wrong or are missing from the statement of distribution or advice you received from the trust.\nThe information provided by your trustee may contain references to help you complete your tax return.\n- Your statement may include references such as: 58A or A (a label from the statement of distribution – which is part of the Trust tax return) Share of income: Primary production (a field name from the statement of distribution – which is part of the Trust tax return) tax return label reference, like 13L (an individual income tax return label).\nTo help you enter data into the correct fields in myTax, at Trust distributions the screen will also display:\n- statement of distribution references\n- Individual tax return references.\nIf you would like to see where myTax automatically transfers values from the Trust distributions section, refer to the table below.\nTrust distributions fields in myTax | Where myTax maps data to in your tax return\n58A. Share of income: Primary production | 13L Primary production – share of net income from trusts\n58B. Share of income: Non-primary production | 13U Non-primary production – share of net income from trusts less capital gains, foreign income and franked distributions\n58U. Franked distributions | 13C Non-primary production – Franked distributions from trusts\n58D. Franking credit | 13Q Share of franking credit from franked dividend\n58Y. Share of net small business income | 13E Trust share of net small business income less deductions attributable to that share\n58F1. Gross capital gain | 18H Total current year capital gains The amount reported here should be ‘58F1. Total gross capital gains’ less the losses already applied within the trust ‘58F2. Capital losses applied’.\n58F2. Capital losses applied | See Capital gains and trusts\n58F3. CGT discount applied | See Capital gains and trusts\n58F4. CGT small business concessions applied | See Capital gains and trusts\n58F. Capital gains | 18A Net capital gain\n58G. Attributed foreign income | 19K Controlled foreign company (CFC) income\n58H. Other assessable foreign source income | 20M Other net foreign source income\n58N. Australian franking credits from a New Zealand franking company | 20F Australian franking credits from a New Zealand franking company\n58I. Foreign income tax offset | 20O Foreign income tax offset\n58W. Share of income of Trust estate | Not required\n58R. Share of national rental affordability scheme tax offset | 13B Share of National rental affordability scheme tax offset\n58M. Exploration credits distributed | T9P Other refundable tax offsets\n58T. Early stage venture capital limited partnership tax offset | T7K Early stage venture capital limited partnership – current year tax offset\n58J. Early stage investor tax offset | T8L Early stage investor – current year tax offset\n58C. Credit for tax withheld where ABN not quoted | 13P share of credit for tax withheld where Australian business number not quoted\n58E. TFN amounts withheld | 13R Share of credit for tax file number amounts withheld from interest, dividends and unit trust distributions\n58O. Share of credit for TFN amounts withheld from payments from closely held trusts | 13M Credit for TFN amounts withheld from payments from closely held trusts\n58L. Share of credit for tax withheld – foreign resident withholding (excluding capital gains) | 13A Share of credit for foreign resident withholding amounts (excluding capital gains)\nTax paid by trustee | 13S Share of credit for tax paid by trustee\n58Z. Share of credit for foreign resident capital gains withholding amounts | 18X Credit for foreign resident capital gains withholding amounts\n58J. s98(3) assessable amount | Not required\n58K. s98(4) assessable amount | Not required\n58K. s98(4) assessable amount | Not required\n58A2. Share of income PP - Excluded from NCMI | Not required\n58B1. Share of income Non PP - NCMI | Not required\n58B2. Share of income Non PP - Excluded from NCMI | Not required\n58F5. NCMI capital gains | Not required\n58F6. Excluded from NCMI capital gains | Not required\n58C1. Div 6AA eligible income | Not required\nPrimary production - Other deductions | 13X Primary production – other deductions relating to amounts shown at 13N and 13L\nNon-primary production - Other deductions | 13Y Non-primary production – other deductions relating to amounts shown at 13O, 13U and 13C.\n58T. Total TFN amounts withheld from payments | Not required\n### More information\nMore information about completing the trust distributions section of your tax return using myTax.\n- Trust distributions\n- Distribution details\n- Trust income\n- Small business tax offset information\n- Capital gains\n- Foreign income\n- Share of credits from income and tax offsets\n- Share of credits from amounts withheld\n- Non-resident beneficiaries\n- Non-concessional MIT income\n- Other income information\n- Deductions\n- Annual Trustee Payment report information\n#### Trust distributions\nIf your trustee provides you with a copy of the trust’s statement of distribution section from the trust tax return as it relates to your distribution, you can directly enter the information into the Trust distributions section in myTax.\nIf you don’t receive a copy of the statement of distribution section from the trust tax return, but you receive advice from your trustee about your trust distribution, this advice should contain enough detail to help you to complete the Trust distributions section in myTax. If you need more information, ask the trustee.\nIf the trust made an overall loss for tax law purposes in 2023–24, the loss is retained in the trust. You will have no share of the net income of the trust. For more information, contact us .\n#### Distribution details\nFor each distribution from a trust, use the statement of distribution or advice from the trustee to complete the following:\n- Name of distributing trust\n- Identifier of distributing trust.\n#### Trust income\nInclude the following trust income.\n##### Share of income\nInclude your share of income for:\n- Primary production\n- Non-primary production\n###### Primary production\nEnsure that you include:\n- your share of any primary production non-concessional managed investment trust income\n- primary production excluded from non-concessional managed investment trust income.\nException for primary producers – You may still be eligible for income averaging where the trust reports a loss. While beneficiaries of fixed trusts that report a loss continue to be eligible for income averaging, beneficiaries of discretionary trusts are required to meet some additional requirements.\nIf you are an eligible beneficiary and you show nothing so far, enter 0 at Net income from trusts .\n###### Non-primary production\nEnsure that you include:\n- your share of any non-primary production non-concessional managed investment trust income\n- non-primary production excluded from non-concessional managed investment trust income.\nIf you enter an amount at Share of income: Non-primary production , to enable us to work out your Income tests amounts, you will need to enter the following fields:\n- Managed investment scheme amount (this includes all investment income related to trusts)\n- Remaining non-primary production trust amount .\n##### Franked distributions\nAt Franked distributions enter your share of franked distributions, to the extent they formed part of the net income of the trust for tax purposes. The amount you enter at Franked distributions also includes your share of attached franking credits (the franking credit 'gross-up').\nIf you enter an amount at Franked distributions , to enable us to work out your Income tests amounts, you will need to enter the following fields:\n- Franked distribution related to investments\n- Remaining franked distribution amount .\n##### Franking credits\nEnter your share of any allowable franking credits which you are entitled to claim as a franking tax offset through a trust at Franking credit .\nYou can only claim a share of a franking credit which relates to the share of a franked dividend paid to a trust which is indirectly included in the amount of:\n- trust income you enter at Share of income: Non-primary production\n- franked distribution you enter at Franked distributions .\nTherefore, you can't claim a franking credit for a dividend paid to the trust which was exempt income or non-assessable non-exempt income (for example, a distribution on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid).\nYou can't claim a share of a franking credit through a trust in any of the following circumstances:\n- the trust has an overall loss for tax purposes for 2023–24\n- you did not enter an amount at Franked distributions\n- the amount of income from the trust you have entered at Share of income: Non-primary production is not attributable to the franked dividend which has generated the franking credit.\nIn addition, you may not be entitled to claim the franking credits if:\n- within 45 days of buying the shares (90 days for certain preference shares), you either sold them or entered into an arrangement to reduce the risk of making a loss on them\n- you were under an obligation to make, or were likely to make, a related payment, or\n- you received a dividend as a result of a dividend washing arrangement.\nThese rules apply to your interests in the shares held by the trust (other than widely held trusts) in the same way that the rules apply to shares you own directly.\nFor more information on these rules, see When you are not entitled to claim a franking tax offset .\n#### Small business tax offset information\nYou may be entitled to the small business income tax offset if either of the following apply:\n- your share of net income included a share of net small business income\n- you had a farm management repayment or other amount you received as a beneficiary in a small business entity.\nAt Share of net small business income enter your share of the trust’s net small business income.\nAmounts you show at this section are not included in your income. They are only used for the purpose of working out your small business income tax offset.\n#### Capital gains\nEnter your share of the following capital gains.\n##### Gross capital gain\nAt Gross capital gain enter your share of each capital gain of the trust (prior to any losses or concessions being applied).\n##### Capital losses applied\nAt Capital losses applied enter your share of the capital losses that applied to your share of gross capital gains distributed by the trust.\n##### CGT discount applied\nAt CGT discount applied enter your share of the CGT discount that applied to the gross capital gains distributed by the trust.\n##### CGT small business concessions applied\nAt CGT small business concessions applied enter your share of the small business CGT concessions that applied to the gross capital gains distributed by the trust.\n##### Capital gains\nAt Capital gains enter your share of the trust’s net capital gains. The Trust’s net capital gains is the amount remaining after applying capital losses, CGT discounts and CGT small business concessions.\nCapital gains and trusts contains more information on capital gains received through a trust.\n#### Foreign income\nEnter your share of the following foreign income.\n##### Attributed foreign income\nAt Attributed foreign income enter your share of attributed foreign income included in the net income of the trust.\nForeign entities contains more information on attributed foreign income.\n##### Other assessable foreign source income\nAt Other assessable foreign source income enter your share of other assessable net foreign source income included in the net income of the trust for tax purposes.\nOther foreign income contains more information on other assessable foreign source income.\n##### Australian franking credits from a New Zealand franking company\nAt Australian franking credits from a New Zealand franking company enter your share of the amount of Australian franking credits that are included in the net income of the trust because of franked dividends received from a New Zealand franking company directly or indirectly through a partnership or other trust.\nWorking out your Australian franking credits from a New Zealand franking company contains more information on Australian franking credits from a New Zealand franking company.\n##### Foreign income tax offset\nAt Foreign income tax offset enter your share of foreign income tax offsets.\nForeign income tax offset contains more information on foreign income tax offsets.\n##### Share of income of Trust estate\nAt Share of income of Trust estate enter your share of the income of the trust estate for trust law purposes.\n#### Share of credits from income and tax offsets\nEnter your share of credits from the following income and tax offsets.\n##### Share of national rental affordability scheme tax offset\nAt national rental affordability scheme tax offset enter your share of the national rental affordability scheme (NRAS) tax offset.\nClaiming the NRAS refundable tax offset contains more information on the national rental affordability scheme tax offset.\n##### Exploration credits distributed\nAt Exploration Credits distributed enter your share of exploration credits.\nJunior Minerals Exploration Incentive contains more information on exploration credits.\n##### Early stage venture capital limited partnership tax offset\nAt Early stage venture capital limited partnership tax offset enter your allocation of the early stage venture capital limited partnership tax offset.\nEarly stage venture capital limited partnership contains more information on Early stage venture capital limited partnership tax offset.\n##### Early stage investor tax offset\nAt Early stage investor tax offset enter your share of the early stage investor tax offset.\nEarly stage investor contains more information on the Early stage investor tax offset.\n#### Share of credits from amounts withheld\nEnter your share of credits from the following amounts withheld.\n##### Credit for tax withheld where ABN not quoted\nAt Credit for tax withheld where ABN not quoted enter your share of the total of amounts withheld from income subject to withholding where an Australian business number (ABN) was not quoted.\n##### TFN amounts withheld\nAt TFN amounts withheld enter your share of the amounts withheld from all payments or distributions where you did not provide a TFN.\n##### Share of credit for TFN amounts withheld from payments from closely held trusts\nAt Share of credit for TFN amounts withheld from payments from closely held trusts enter your share of the amounts withheld from all payments or distributions from closely held trusts where a TFN was not provided.\n##### Share of credit for tax withheld – foreign resident withholding (excluding capital gains)\nAt Share of credit for tax withheld – foreign resident withholding (excluding capital gains) enter your share of any foreign resident withholding credit:\n- received as an Australian resident where an amount of tax was withheld because of the imposition of non-resident withholding tax or managed investment trust withholding tax\n- derived as a foreign resident from which an amount of tax was withheld because of the operation of the foreign resident withholding rules.\n##### Tax paid by trustee\nIf you enter an amount at Tax paid by trustee, you will need to:\n- select the Situation\n- enter the Share of income .\n###### Non-resident trust\nA non-resident trust is a trust which, for all of 2023–24\n- only had non-resident trustees\n- had its central management and control outside Australia.\nIf you were an Australian resident, you may be able to claim a credit for Australian withholding tax you have borne on any Australian sourced:\n- dividend\n- interest\n- royalty\n- payment from an Australian managed investment trust included in the income of a non-resident trust to which you are entitled.\n###### Legal disability\nIf you were under a legal disability you may be able to claim a credit for the tax that the trustee has paid on your share of the trust's net income. You are considered to be under a legal disability if you:\n- were under 18 years old on 30 June 2024\n- were a person who is bankrupt\n- had been declared legally incapable because of a mental condition.\n###### Foreign resident\nIf you were not an Australian resident, you may be able to claim a credit for the tax that the trustee has paid on your share of income from a resident trust.\n##### Share of credit for foreign resident capital gains withholding amounts\nAt Share of credit for foreign resident capital gains withholding amounts enter your share of foreign resident capital gains withholding.\nFor more information, see Capital gains withholding: Impacts on foreign and Australian residents .\n#### Non-resident beneficiaries\n##### s98(3) assessable amount\nAt s98(3) assessable amount enter your share of the amount the trust is liable to pay tax on under subsection 98(3) of the ITAA 1936.\n##### s98(4) assessable amount\nAt s98(4) assessable amount enter your share of the amount the trust is liable to pay tax on under subsection 98(4) of the ITAA 1936.\n#### Non-concessional MIT income\nFor an explanation of the acronyms we use at this section.\n- NCMI - Non-concessional MIT income.\n- MIT - Managed investment trust.\n##### Share of income PP - NCMI\nAt Share of Income PP – NCMI enter your share of the total NCMI amount distributed from a trust categorised as primary production income.\nIf you show an amount here, you will also need to show an amount at Share of income: Primary production .\n##### Share of income PP - Excluded from NCMI\nAt Share of Income PP – Excluded from NCMI enter your share of non-primary production income excluded from NCMI.\nIf you show an amount here, you will also need to show an amount at Share of income: Primary production .\n##### Share of income Non PP - NCMI\nAt Share of Income Non PP – NCMI enter your share of the total NCMI amount distributed from a trust categorised as non-primary production income, that is, cross staple income, trading trust income and residential housing income.\nIf you show an amount here, you will also need to show an amount at Share of income: Non-primary production .\n##### Share of income Non PP - Excluded from NCMI\nAt Share of income Non PP – Excluded from NCMI enter your share of non-primary production income excluded from NCMI.\nIf you show an amount here, you will also need to show an amount at Share of income: Non-primary production .\n##### NCMI capital gains\nAt NCMI capital gains enter your share of the total NCMI capital gains amount.\nIf you show an amount here, you will also need to show an amount at Gross capital gain .\n##### Excluded from NCMI capital gains\nAt Excluded from NCMI capital gains enter your share of the total capital gains amount excluded from NCMI.\nIf you show an amount here, you will also need to show an amount at Gross capital gain .\n#### Other income information\n##### Div 6AA eligible income\nAt Div 6AA eligible income enter your share of net income that is considered eligible income as you were under 18 years old at the end of the income year.\n#### Deductions\nRemember, you can't claim a deduction:\n- for amounts already claimed by the trust, or\n- for expenses incurred in deriving exempt income or non-assessable non-exempt income (for example, expenses incurred in deriving distributions on which family trust distribution tax or trustee beneficiary non-disclosure tax has been paid).\nIf you were the beneficiary of a discretionary trust you cannot claim a deduction for expenses you incurred in relation to your share of any net income of the trust under the general deduction provisions. This is because at the time you incurred the expense, you were not entitled to any income of the trust.\nIf you made a prepayment of $1,000 or more for something to be done (in whole or in part) in a future income year, the amount you can deduct may be affected by the rules relating to prepayments. For more information on prepayments, see Deductions for prepaid expenses .\nDebt deductions (such as interest and borrowing costs) incurred in deriving assessable trust income may be affected by the thin capitalisation rules. These rules may apply if the total of your debt deductions and those of your associates are over $2 million for 2023–24. For more information, see Thin capitalisation .\nIf you have used the Depreciation and capital allowances tool to work out any decline in value deductions for your trust, you’ll need to use your recorded information to complete trust deductions.\n##### Primary production – Other deductions\nIf a trustee incurred eligible expenditure on landcare operations, water facilities, fencing assets or fodder storage assets, then only the trustee, not a beneficiary of the trust, can claim deductions for that expenditure.\nInclude at Primary production – Other deductions your share of other deductions that you can claim in relation to your share of primary production income of a trust that you can claim this income year.\n##### Non-primary productions – Other deductions\nIf a trustee incurred eligible expenditure on landcare operations, only the trustee, not a beneficiary of the trust, can claim deductions for that expenditure.\nInclude at Non-primary production – Other deductions your share of any other deductions that relate to non-primary production income of a trust that you can claim this income year, including deductions relating to franked distributions from trusts.\nIf you show an amount at Non-primary production – Other deductions , to enable us to work out your Income tests amounts, you will need to enter the following fields:\n- Managed investment scheme deductions (this includes all investment deductions related to trusts)\n- Remaining trust deductions .\n#### Annual Trustee Payment report information\n##### Total TFN amounts withheld from payments\nAt Total TFN amounts withheld from payments enter the amounts withheld from all payments or distributions in your trust distribution because you did not provide your TFN. This includes amounts withheld from payments during the year or as a result of determining present entitlement at the end of the income year.\nDon't include amounts you have entered at Share of credit for TFN amounts withheld from payments from closely held trusts .\n### Capital gains and trusts\nIf your trust distribution includes a capital gains component, how you complete the rest of your myTax return will depend on your circumstances.\nIf your only capital gains are from trusts or managed funds and entered at the Managed fund and trust distributions section and:\n- your current year capital gains are $10,000 or less, you do not need to complete the Capital gains or losses section\n- your current year capital gains are more than $10,000, you need to complete the Capital gains or losses section myTax will prompt you to complete the Capital gains or losses section myTax will complete Total current year capital gains and Net capital gain in the Capital gains or losses section from information entered in the Managed fund and trust distributions section you will need to complete the Capital gains tax schedule.\nIf you have other capital gains tax events during the year or you have carried forward capital losses from a prior year:\n- you need to complete the Capital gains or losses section myTax will prompt you to complete the Capital gains or losses section the capital gains amounts entered in the Managed fund and trust distributions section will be automatically carried over to the Capital gains or losses section for you to review you will need to ensure that all your capital gains from managed funds and trusts are included in what you enter at Total current year capital gains and Net capital gain .\n### Who is a primary producer?\nA primary producer undertakes:\n- plant or animal cultivation (or both)\n- fishing or pearling (or both)\n- tree farming or felling (or both).\nFor more information about who is a primary producer, see Primary production activities .",
+  "child_links": [],
+  "word_count": 4904,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

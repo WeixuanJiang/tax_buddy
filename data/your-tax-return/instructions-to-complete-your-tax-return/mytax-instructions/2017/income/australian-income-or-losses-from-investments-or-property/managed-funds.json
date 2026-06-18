@@ -1,0 +1,70 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2017/income/australian-income-or-losses-from-investments-or-property/managed-funds",
+  "title": "myTax 2017 Managed funds",
+  "description": "How to complete the managed funds section in your return using myTax.",
+  "nat_number": "",
+  "quick_code": "51006",
+  "date_updated": "2017-06-11T14:00:00Z",
+  "first_published": "",
+  "keywords": "managed funds, fund, trust, distributions, myTax, e-tax, online tax return, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with information provided to us by the Managed Investment funds. Check for any managed funds distributions you received that are not pre-filled and ensure you add them."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your statement from the managed fund, for example, a property trust, share trust, equity trust, growth trust, imputation trust or balanced trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your statement may indicate where you need to show the amounts on your tax return. If you think that any detail is wrong or is missing from the statement, contact the fund manager."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Add any missing distribution that has not been pre-filled in your tax return by selecting Add and enter the details.",
+        "Include your share of any distribution from jointly-owned managed fund investments.",
+        "Select Save and continue ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: Your capital gains amounts must be shown at the Managed fund distributions and the Capital gains or losses sections when:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you have capital gains from a managed fund, and Capital gains or losses that are not from a managed fund is selected on the Personalise return screen"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "or"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your share of total current year capital gains from managed funds is more than $10,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your capital gains amount will be included in your taxable income from the Capital gains or losses section, and any capital gains amount shown in the Managed fund distributions section will be disregarded."
+    }
+  ],
+  "content_text": "We have pre-filled your tax return with information provided to us by the Managed Investment funds. Check for any managed funds distributions you received that are not pre-filled and ensure you add them.\n## Completing this section\nYou will need your statement from the managed fund, for example, a property trust, share trust, equity trust, growth trust, imputation trust or balanced trust.\nYour statement may indicate where you need to show the amounts on your tax return. If you think that any detail is wrong or is missing from the statement, contact the fund manager.\n- Add any missing distribution that has not been pre-filled in your tax return by selecting Add and enter the details.\n- Include your share of any distribution from jointly-owned managed fund investments.\n- Select Save and continue .\nNote: Your capital gains amounts must be shown at the Managed fund distributions and the Capital gains or losses sections when:\n- you have capital gains from a managed fund, and Capital gains or losses that are not from a managed fund is selected on the Personalise return screen\nor\n- your share of total current year capital gains from managed funds is more than $10,000.\nYour capital gains amount will be included in your taxable income from the Capital gains or losses section, and any capital gains amount shown in the Managed fund distributions section will be disregarded.",
+  "child_links": [],
+  "word_count": 233,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

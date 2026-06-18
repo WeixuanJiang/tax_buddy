@@ -1,0 +1,127 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2015/tax-offsets/seniors-and-pensioners",
+  "title": "Seniors and pensioners (includes self-funded retirees)",
+  "description": "How to determine your eligibility for the seniors and pensioners tax offset when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "45047",
+  "date_updated": "2015-06-18T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "You can claim the seniors and pensioners tax offset if you meet certain conditions relating to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "eligibility for Australian Government pensions or allowances, and",
+        "income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a spouse:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you also need to work out whether they were eligible",
+        "you may not get the seniors and pensioners tax offset even if you meet all the eligibility conditions as the amount of the tax offset is based on your individual rebate income, not your combined rebate income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim this tax offset if you were in jail for the whole of 2014–15."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are eligible for this tax offset, we will use the information you provide at this question to work out the amount of your tax offset for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the beneficiary tax offset and seniors and pensioners tax offset calculator to work out:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "whether you are eligible for this tax offset",
+        "your tax offset code and veteran code, and",
+        "an estimate of your tax offset."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Select your tax offset code using the drop-down menu.",
+        "Select your veteran code using the drop-down menu, if one applies. Otherwise do not select any code.",
+        "We will use this and other information you provide in your return to work out any tax offset amount."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Seniors and pensioners tax offset code letters"
+        ],
+        [
+          "You were single, separated or widowed.",
+          "A"
+        ],
+        [
+          "You and your spouse: were both eligible for the seniors and pensioners tax offset, and ‘had to live apart due to illness’* or lived apart because one of you was in a nursing home.",
+          "B"
+        ],
+        [
+          "Your spouse was not eligible for the seniors and pensioners tax offset, and you and your spouse ’had to live apart due to illness’* or lived apart because one of you was in a nursing home.",
+          "C"
+        ],
+        [
+          "You and your spouse: lived together, and were both eligible for the seniors and pensioners tax offset.",
+          "D"
+        ],
+        [
+          "You and your spouse lived together, and your spouse was not eligible for the seniors and pensioners tax offset.",
+          "E"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Both A and B applied, and your spouse’s taxable income was less than $18,334",
+          "B"
+        ],
+        [
+          "Both A and D applied, and your spouse’s taxable income was less than $12,494",
+          "D"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "* Had to live apart due to illness refers to situations where you and your spouse did not live together because one or both of you have an indefinitely continuing illness or infirmity, and as a result your combined living expenses were increased."
+    }
+  ],
+  "content_text": "You can claim the seniors and pensioners tax offset if you meet certain conditions relating to:\n- eligibility for Australian Government pensions or allowances, and\n- income.\nIf you have a spouse:\n- you also need to work out whether they were eligible\n- you may not get the seniors and pensioners tax offset even if you meet all the eligibility conditions as the amount of the tax offset is based on your individual rebate income, not your combined rebate income.\nYou cannot claim this tax offset if you were in jail for the whole of 2014–15.\n## Answering this question\nIf you are eligible for this tax offset, we will use the information you provide at this question to work out the amount of your tax offset for you.\nUse the beneficiary tax offset and seniors and pensioners tax offset calculator to work out:\n- whether you are eligible for this tax offset\n- your tax offset code and veteran code, and\n- an estimate of your tax offset.\n## Completing your tax return\n- Select your tax offset code using the drop-down menu.\n- Select your veteran code using the drop-down menu, if one applies. Otherwise do not select any code.\n- We will use this and other information you provide in your return to work out any tax offset amount.\nSeniors and pensioners tax offset code letters\nYou were single, separated or widowed. | A\nYou and your spouse: were both eligible for the seniors and pensioners tax offset, and ‘had to live apart due to illness’* or lived apart because one of you was in a nursing home. | B\nYour spouse was not eligible for the seniors and pensioners tax offset, and you and your spouse ’had to live apart due to illness’* or lived apart because one of you was in a nursing home. | C\nYou and your spouse: lived together, and were both eligible for the seniors and pensioners tax offset. | D\nYou and your spouse lived together, and your spouse was not eligible for the seniors and pensioners tax offset. | E\nBoth A and B applied, and your spouse’s taxable income was less than $18,334 | B\nBoth A and D applied, and your spouse’s taxable income was less than $12,494 | D\n* Had to live apart due to illness refers to situations where you and your spouse did not live together because one or both of you have an indefinitely continuing illness or infirmity, and as a result your combined living expenses were increased.",
+  "child_links": [],
+  "word_count": 427,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

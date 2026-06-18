@@ -1,0 +1,764 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2018/tax-return/medicare-levy-questions-m1-m2/m2-medicare-levy-surcharge-2018",
+  "title": "M2 Medicare levy surcharge (MLS) 2018",
+  "description": "Complete compulsory question M2 to determine whether you may have to pay the Medicare levy surcharge.",
+  "nat_number": "",
+  "quick_code": "54251",
+  "date_updated": "2018-05-30T14:00:00Z",
+  "first_published": "",
+  "keywords": "Medicare levy surcharge (MLS), TaxPack, medicare, medicare levy, surcharge, medicare surcharge, levy, 2018, M2, paper tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is compulsory."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Medicare levy surcharge (MLS) is in addition to the Medicare levy. Depending on your income for MLS purposes the MLS rate is 1%, 1.25% or 1.5% of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your taxable income",
+        "your total reportable fringe benefits, and",
+        "any amount on which family trust distribution tax has been paid."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Medicare levy surcharge income testing"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Medicare levy surcharge is income tested against the following income tier thresholds:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Threshold",
+          "Tier 1",
+          "Tier 2",
+          "Tier 3"
+        ],
+        [
+          "Singles",
+          "$90,000 or less",
+          "$90,001–$105,000",
+          "$105,001–$140,000",
+          "$140,001 or more"
+        ],
+        [
+          "Families (see note )",
+          "$180,000 or less",
+          "$180,001–$210,000",
+          "$210,001–$280,000",
+          "$280,001 or more"
+        ],
+        [
+          "Rates",
+          "0.0%",
+          "1.0%",
+          "1.25%",
+          "1.5%"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: The family income threshold is increased by $1,500 for each Medicare levy surcharge dependent child after the first child."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may have to pay Medicare levy surcharge for any period during the income year that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you, your spouse, or any of your dependants did not have an appropriate level of private patient hospital cover , and",
+        "your income for Medicare levy surcharge purposes is above the threshold."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Example"
+    },
+    {
+      "type": "paragraph",
+      "text": "Josh is 35 years old, single, has no dependants, and does not have the appropriate level of private patient hospital cover. In 2017–18, Josh's taxable income is $90,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "When Josh completes his tax return, he also completes the income test section of the tax return and declares:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "reportable fringe benefits of $20,000",
+        "net investment losses of $7,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Josh's total income for Medicare levy surcharge purposes is $117,000, which makes him a tier 2 income earner for calculating the Medicare levy surcharge. The amount of Medicare levy surcharge is only calculated against taxable income and reportable fringe benefits."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2017–18 Josh's Medicare levy surcharge liability is:"
+    },
+    {
+      "type": "paragraph",
+      "text": "($90,000 taxable income + $20,000 reportable fringe benefits) ×1.25% = $1,375."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Appropriate level of private patient hospital cover"
+    },
+    {
+      "type": "paragraph",
+      "text": "An appropriate level of private patient hospital cover is cover provided by a registered health insurer for hospital treatment in Australia which has an excess of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$500 or less (for a policy covering only one person), or",
+        "$1,000 or less (for all other policies)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Excess is the amount you pay before your health insurer pays for any claim you make."
+    },
+    {
+      "type": "paragraph",
+      "text": "General cover (formerly called ancillary cover) or 'extras' is not private patient hospital cover because it covers only items such as optical, dental, physiotherapy or chiropractic treatment."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have health cover but are not sure whether it is at the appropriate level, your registered health insurer can tell you."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Income for MLS purposes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your income for MLS purposes is your taxable income plus the following if they apply to you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "reportable fringe benefits (shown on your payment summary)",
+        "reportable superannuation contributions (which is the sum of both your reportable employer superannuation contributions and your deductible personal superannuation contributions)",
+        "your net investment loss (which is the amount by which your financial investment deductions exceeded your financial investment income, plus the amount by which your rental property deductions exceeded your rental property income)",
+        "the amount on which family trust distribution tax has been paid."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were aged between your preservation age and 59 years old, this amount is then reduced by the taxed element amount of superannuation lump sums, other than a death benefit, received during 2017–18 that do not exceed your low rate cap (see Superannuation lump sums and income for MLS purposes )."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dependants"
+    },
+    {
+      "type": "paragraph",
+      "text": "For this question, your dependants (regardless of their income) are your:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "spouse, even if they worked during 2017–18 or had their own income",
+        "children under 21 years old",
+        "children 21 to 24 years old who are studying full time at school, college or university."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Dependants must have been Australian residents and you must have contributed to their maintenance. For the meaning of dependant and maintaining a dependant, see Special circumstances and glossary 2018 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your spouse includes another person (of any sex) who:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were in a relationship with that was registered under a prescribed state or territory law",
+        "although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The definition of child includes children of people who are in same-sex relationships. See the definition of child in Special circumstances and glossary 2018 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had private patient hospital cover during 2017–18, you will need a statement from your health insurer showing the number of days you and your dependants were covered by an appropriate level of health cover. If you do not have this statement, contact your health insurer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Were you and all your dependants, including your spouse, covered by an appropriate level of private patient hospital cover for the whole of 2017–18?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "Go to Step 1 ."
+        ],
+        [
+          "No",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not have an appropriate level of private patient hospital cover, you may be liable for MLS. Whether or not you are liable to pay MLS depends on:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your income for MLS purposes, and",
+        "your combined income for MLS purposes, if you had a spouse in 2017–18 or if your spouse died in 2017–18."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Next step:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Complete worksheet 1 to work out your and your spouse's income (if relevant) for MLS purposes."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had exempt foreign employment income, and your taxable income is $1 or more, add your exempt foreign income to your taxable income, and write the total at row a in Worksheet 1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were aged between your preservation age and 59 years old, write at k the taxed element amount of superannuation lump sums, other than a death benefit, you received during 2017–18 that do not exceed your low rate cap. The same applies for your spouse (see Superannuation lump sums and income for MLS purposes )."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you did not have a spouse, go to Medicare levy surcharge exemption after you have completed Worksheet 1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your spouse was under a legal disability, write at row h in the spouse column your spouse's net income from a trust for which the trustee was liable to pay tax. Examples of a legal disability include being:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a bankrupt",
+        "a person who has been declared legally incapable because of a mental condition",
+        "under 18 years old on 30 June 2018."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include any amount that has already been included in your spouse's taxable income at row a ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write at row c the total amount of distributions to you or your spouse:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "on which family trust distribution tax has been paid, and",
+        "which you or your spouse would have had to show as assessable income if the tax had not been paid."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Working out income for MLS purposes",
+          "You",
+          "Spouse"
+        ],
+        [
+          "a",
+          "Taxable income (from Taxable income or loss on page 4 of the tax return)",
+          "$",
+          "$"
+        ],
+        [
+          "b",
+          "Total reportable fringe benefits amount (the sum of N and W item IT1 on page 8 of the tax return)",
+          "$",
+          "$"
+        ],
+        [
+          "c",
+          "Amount on which family trust distribution tax has been paid (from X item A5 on page 16 of the supplementary section of your or your spouse's tax return)",
+          "$",
+          "$"
+        ],
+        [
+          "d",
+          "Net financial investment loss (from X item IT5 on page 8 of the tax return)",
+          "$",
+          "$"
+        ],
+        [
+          "e",
+          "Net rental property loss (from Y item IT6 on page 8 of the tax return)",
+          "$",
+          "$"
+        ],
+        [
+          "f",
+          "Reportable employer superannuation contributions (from T item IT2 on page 8 of the tax return)",
+          "$",
+          "$"
+        ],
+        [
+          "g",
+          "Deductible personal superannuation contributions (from H item D12 on page 15 of the supplementary section of the tax return)",
+          "$",
+          "$"
+        ],
+        [
+          "h",
+          "Your spouse's share of the net income of a trust on which the trustee must pay tax (from T Spouse details on page 9 of the tax return)",
+          "",
+          "$"
+        ],
+        [
+          "j",
+          "Add the amounts from a to h in each column.",
+          "$",
+          "$"
+        ],
+        [
+          "k",
+          "If you or your spouse were aged between your preservation age and 59 years old, write here the taxed element amount of superannuation lump sums, other than a death benefit, received during 2017–18 that do not exceed your or your spouse's low rate cap (see Superannuation lump sums and income for MLS purposes ).",
+          "$",
+          "$"
+        ],
+        [
+          "l",
+          "Take row k away from row j . This is each individual's income for MLS purposes.",
+          "$",
+          "$"
+        ],
+        [
+          "n",
+          "Add the amount from row l in your column to the amount from row l in your spouse's column.",
+          "$",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your income for MLS purposes when you are single is the amount at row l in your column."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your combined income for MLS purposes is the amount at row n ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Medicare levy surcharge exemption"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you fit in one of the following categories, you are exempt from MLS for the whole of 2017–18."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Surcharge exemption categories"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Your income for MLS purposes was $90,000 or less, and for the whole of 2017–18, you were single without a dependent child.",
+        "Your income for MLS purposes was $90,000 or less, and for part of 2017–18 you were single your spouse did not die during the year, and for the whole of the year you did not have a dependent child.",
+        "You were single with a dependent child for the whole of the year and your income for MLS purposes was $180,000 or less (plus $1,500 for each dependent child after the first).",
+        "You had a spouse (with or without dependent children) for the whole of the year, and your combined income for MLS purposes was $180,000 or less (plus $1,500 for each dependent child after the first). In working out whether your income exceeds an MLS income threshold, if your spouse died in 2017–18 and you did not have another spouse before the end of the year, you are treated as having had a spouse for the remainder of 2017–18.",
+        "You and all your dependants (including your spouse, if any) were in a Medicare levy exemption category for the whole of 2017–18 (see Question M1 ).",
+        "The combined income of you and your spouse for MLS purposes was above the limit, but your own income for MLS purposes was $21,980 or less."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Your spouse shows a lump sum payment in arrears on the supplementary section of their tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are liable for MLS only because your spouse has shown a lump sum payment in arrears at item 20 Foreign source income and foreign assets or property 2018 or item 24 Other income on the supplementary section of their tax return, you may be entitled to a tax offset up to the amount of MLS you have to pay. We will calculate the tax offset for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to provide additional information. Print Schedule of additional information – Item M2 on the top of a separate piece of paper. Print your name, address, tax file number and the name and address of your spouse. Explain that your spouse received a lump sum payment in arrears. Attach your schedule to your tax return. Print X in the Yes box at Taxpayer's declaration question 2."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Which income threshold do you use if, during the year, you had a new spouse or separated from your spouse, or you became or ceased to be a sole parent?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a new spouse or you separated from your spouse, or you became or ceased to be a sole parent, both the single and the family surcharge thresholds may apply to you for different periods."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to work out whether you were liable for MLS for any period during 2017–18 that you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "were single (that is, you had no spouse or dependent children) so you can apply the single surcharge threshold of $90,000 to your income for MLS purposes",
+        "had a spouse or any dependent children, so you can apply the family surcharge threshold of $180,000, plus $1,500 for each dependent child after the first, to your income for MLS purposes."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your spouse died during 2017–18 and you did not have another spouse before the end of the year, you are treated as if you had a spouse for the remainder of 2017–18 and you apply the family surcharge threshold of $180,000, plus $1,500 for each dependent child after the first."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your income for MLS purposes (or if you have a spouse, your combined income for MLS purposes) was above the relevant surcharge threshold that applies to you, and you and all of your dependents (including your spouse, if any) did not have an appropriate level of private patient hospital cover, or were not in a Medicare levy exemption category for the whole year, then you may be liable for MLS."
+    },
+    {
+      "type": "paragraph",
+      "text": "To help you work out whether you were liable for MLS for the different periods, see the examples."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example: Spouse for the first part of the year"
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael and Michelle lived together as a couple on a genuine domestic basis for seven years, but on 12 October 2017 they separated and each stayed single. They did not have private patient hospital cover at any time during 2017–18."
+    },
+    {
+      "type": "paragraph",
+      "text": "Michelle and Michael had no dependent children, but they were dependants of each other for MLS purposes until they separated."
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael's income for MLS purposes was $69,000 and Michelle's was $95,000. In previous years, they had used their combined income to assess their MLS liability. They now have to use their individual income for MLS purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael and Michelle are considered to be a family for the period 1 July to 12 October 2017 (104 days), so the family MLS threshold of $180,000 applies to each of them for that period. This means:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Michelle is not liable for MLS for this period because her $95,000 income for MLS purposes was less than $180,000.",
+        "Michael is not liable for MLS for this period because his $69,000 income for MLS purposes was less than $180,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael and Michelle were single for the period 13 October 2017 to 30 June 2018, so the single person MLS threshold of $90,000 applies for that period:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Michelle is liable to pay MLS for this period because her $95,000 income for MLS purposes exceeded $90,000.",
+        "Michael is not liable for MLS for this period because his $69,000 income for MLS purposes was less than $90,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Michelle and Michael complete their tax returns at A item M2 by writing the number of days that they were not liable for MLS in 2017–18:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Michelle writes 104, the number of days in the first period when she was not liable for MLS",
+        "Michael writes 365 because he was not liable for MLS in 2017–18."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Example: Spouse for the second part of the year"
+    },
+    {
+      "type": "paragraph",
+      "text": "At the beginning of the income year Alice and Adam were both single. Alice and Adam got married on 17 January 2018 and are still married on 30 June 2018. They did not have private patient hospital cover at any time during 2017-18."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alice and Adam had no dependent children, but they were dependants of each other for MLS purposes from the date they were married."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alice's income for MLS purposes was $133,000 (including a net investment loss of $8,000) and Adam's income for MLS purposes was $80,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alice and Adam were single for the period 1 July 2017 to 16 January 2018 (200 days), so the single person MLS threshold of $90,000 applies to each of them for that period. This means:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Alice is liable to pay MLS for this period because her $133,000 income for MLS purposes exceeds $90,000.",
+        "Adam is not liable for MLS for this period because his $80,000 income for MLS purposes was less than $90,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Alice and Adam are considered to be a family for the period 17 January to 30 June 2018 (165 days), so the family MLS threshold of $180,000 applies to each of them for that period. This means:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Alice is not liable for MLS for this period because her $133,000 income for MLS purposes was less than $180,000.",
+        "Adam is not liable for MLS for this period because his $80,000 income for MLS purposes was less than $180,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Alice and Adam complete their tax returns at A item M2 by writing the number of days that they were not liable for MLS in 2017–18:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Alice writes 165, the number of days in the second period when she was not liable for MLS.",
+        "Adam writes 365 because he was not liable for MLS at any period in 2017–18."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Alice and Adam's combined income for MLS purposes is $213,000, which is above the family tier 2 earner threshold ($210,000). This means that any surcharge levied on either Alice or Adam is at the rate of 1.25%. Therefore, Alice's Medicare levy surcharge for the first part of the year is calculated as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "$125,000 × 1.25% × (200÷365) = $856.16"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "What if you were covered by an appropriate level of private patient hospital cover for only part of the year?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were single and took out private patient hospital cover during the year use the following example to help you work out how many days you are liable to pay MLS."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example: Part-year private patient hospital cover"
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2017–18, Jacinta was single and had no dependants. She had income for MLS purposes of $95,000. She was not in a Medicare levy exemption category at any time during the year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jacinta took out private patient hospital cover on 15 January 2018. Because Jacinta's income for MLS purposes was above the single surcharge threshold of $90,000 and she did not have private patient hospital cover for the full year, she will have to pay MLS for the part of the year that she did not have private patient hospital cover."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jacinta will not have to pay MLS for the time she had private patient hospital cover, that is, 15 January 2018 to 30 June 2018 (167 days)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jacinta will write the number of days in 2017–18 that she is not liable for MLS (167) at A item M2 on her tax return and complete Private health insurance policy details on page 7 of her tax return."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Family covered for part of the year"
+    },
+    {
+      "type": "paragraph",
+      "text": "If some members of your family were covered by private patient hospital cover for the whole year and other members of your family had cover for only part of the year, use the following example to help you work out how many days you are liable to pay MLS."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example: Part-year liability"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jill and Kevin have been married for a number of years. They have three dependent children. Jill, Kevin and their children were not in a Medicare levy exemption category at any time during the year. Jill and the children were covered by private patient hospital cover for the full income year. Kevin had his name added to the policy on 10 January 2018."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jill and Kevin had a combined income for MLS purposes of $190,000. The family surcharge threshold for Jill and Kevin is $183,000 (that is, $180,000 plus 2 × $1,500). Because not everyone was covered for the period 1 July 2017 to 9 January 2018 and their combined income for MLS purposes exceeds the family surcharge threshold, Jill and Kevin are both liable for MLS for this period (193 days). Jill and Kevin would both write the number of days that they were not liable for MLS (172) at A item M2 on their tax returns and complete Private health insurance policy details on page 7 of their tax returns."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you and all your dependants (including your spouse) had an appropriate level of private patient hospital cover for the whole of 2017–18, print X in the Yes box at the right of E item M2 . Make sure you also complete your Private health insurance policy details 2018 . You have now finished this question."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you or any of your dependants (including your spouse) did not have private patient hospital cover or only had cover for part of the year, print X in the No box at the right of E item M2 . Continue to Step 2."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write at A item M2 the number of days for which you do not have to pay MLS."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were in an exemption category (see Surcharge exemption categories ) for the whole of 2017–18, print X in the Yes box to the left of 'You do not have to pay the surcharge.' and write 365 at A item M2 . You have now finished this question. Go to Private health insurance policy details 2018 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were not in an exemption category, print X in the No box to the left of 'You may have to pay the surcharge.'"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write at A item M2 the number of days for which you do not have to pay MLS ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not have to pay MLS for any days during the period 1 July 2017 to 30 June 2018, write 365 at A item M2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have to pay MLS for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the whole period 1 July 2017 to 30 June 2018, write 0 at A item M2",
+        "part of the period 1 July 2017 to 30 June 2018, write at A item M2 the number of days for which you do not have to pay MLS."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete Income tests ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a spouse during 2017–18 and you or any of your dependants (including your spouse) were not covered by private patient hospital cover for the full year, complete Spouse details – married or de facto ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your spouse's income for MLS purposes included a superannuation lump sum that was shown at row k in Worksheet 1 , write that amount at F under Spouse details – married or de facto ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had private patient hospital cover for any part of the year, you must complete Private health insurance policy details . See Private health insurance policy details 2018 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tax tips"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you would like to work out the amount of Medicare levy surcharge you have to pay, use the Income tax estimator ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Superannuation lump sums and income for MLS purposes for worksheet 1 row k"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your income and your combined income for MLS purposes exclude the taxed element of a superannuation lump sum, other than a death benefit, that you received when you were aged between your preservation age and 59 years old that does not exceed your low-rate cap amount for 2017–18. For 2017–18 the low-rate cap amount is $200,000, but it could be less for you if you had received certain superannuation lump sums in previous years. For more information, see table 1 and the definition of low-rate cap in Special circumstances and glossary 2018 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bill received a superannuation lump sum of $100,000 in 2016–17 and $105,000 in 2017–18, both of which consisted entirely of a taxed element. He was aged between his preservation age and 59 years old when he received both payments. Bill's wife Mary received a superannuation lump sum of $50,000 that consisted entirely of a taxed element in 2017–18 when she was between her preservation age and 59 years old."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bill's low rate cap for 2017–18 is $100,000 because his low-rate cap was reduced by $100,000 in 2016–17. Therefore, the amount he received in excess of his low-rate cap (that is, $5,000) cannot be taken into account at rows k and l in worksheet 1. To work out his income for MLS purposes using worksheet 1, Bill subtracts $100,000 from the amount worked out at row j in that worksheet."
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out his combined income for MLS purposes (using worksheet 1, spouse column), Bill subtracts Mary's $50,000 superannuation lump sum from the amount worked out at row j in the spouse column."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to Private health insurance policy details 2018 .",
+        "Return to main menu Individual tax return instructions 2018 .",
+        "Go back to question M1 Medicare levy reduction or exemption 2018 ."
+      ]
+    }
+  ],
+  "content_text": "This question is compulsory.\nThe Medicare levy surcharge (MLS) is in addition to the Medicare levy. Depending on your income for MLS purposes the MLS rate is 1%, 1.25% or 1.5% of:\n- your taxable income\n- your total reportable fringe benefits, and\n- any amount on which family trust distribution tax has been paid.\n## Medicare levy surcharge income testing\nThe Medicare levy surcharge is income tested against the following income tier thresholds:\n | Threshold | Tier 1 | Tier 2 | Tier 3\nSingles | $90,000 or less | $90,001–$105,000 | $105,001–$140,000 | $140,001 or more\nFamilies (see note ) | $180,000 or less | $180,001–$210,000 | $210,001–$280,000 | $280,001 or more\nRates | 0.0% | 1.0% | 1.25% | 1.5%\nNote: The family income threshold is increased by $1,500 for each Medicare levy surcharge dependent child after the first child.\nYou may have to pay Medicare levy surcharge for any period during the income year that:\n- you, your spouse, or any of your dependants did not have an appropriate level of private patient hospital cover , and\n- your income for Medicare levy surcharge purposes is above the threshold.\nExample\nJosh is 35 years old, single, has no dependants, and does not have the appropriate level of private patient hospital cover. In 2017–18, Josh's taxable income is $90,000.\nWhen Josh completes his tax return, he also completes the income test section of the tax return and declares:\n- reportable fringe benefits of $20,000\n- net investment losses of $7,000.\nJosh's total income for Medicare levy surcharge purposes is $117,000, which makes him a tier 2 income earner for calculating the Medicare levy surcharge. The amount of Medicare levy surcharge is only calculated against taxable income and reportable fringe benefits.\nIn 2017–18 Josh's Medicare levy surcharge liability is:\n($90,000 taxable income + $20,000 reportable fringe benefits) ×1.25% = $1,375.\n## Appropriate level of private patient hospital cover\nAn appropriate level of private patient hospital cover is cover provided by a registered health insurer for hospital treatment in Australia which has an excess of:\n- $500 or less (for a policy covering only one person), or\n- $1,000 or less (for all other policies).\nExcess is the amount you pay before your health insurer pays for any claim you make.\nGeneral cover (formerly called ancillary cover) or 'extras' is not private patient hospital cover because it covers only items such as optical, dental, physiotherapy or chiropractic treatment.\nIf you have health cover but are not sure whether it is at the appropriate level, your registered health insurer can tell you.\n## Income for MLS purposes\nYour income for MLS purposes is your taxable income plus the following if they apply to you:\n- reportable fringe benefits (shown on your payment summary)\n- reportable superannuation contributions (which is the sum of both your reportable employer superannuation contributions and your deductible personal superannuation contributions)\n- your net investment loss (which is the amount by which your financial investment deductions exceeded your financial investment income, plus the amount by which your rental property deductions exceeded your rental property income)\n- the amount on which family trust distribution tax has been paid.\nIf you were aged between your preservation age and 59 years old, this amount is then reduced by the taxed element amount of superannuation lump sums, other than a death benefit, received during 2017–18 that do not exceed your low rate cap (see Superannuation lump sums and income for MLS purposes ).\n## Dependants\nFor this question, your dependants (regardless of their income) are your:\n- spouse, even if they worked during 2017–18 or had their own income\n- children under 21 years old\n- children 21 to 24 years old who are studying full time at school, college or university.\nDependants must have been Australian residents and you must have contributed to their maintenance. For the meaning of dependant and maintaining a dependant, see Special circumstances and glossary 2018 .\nYour spouse includes another person (of any sex) who:\n- you were in a relationship with that was registered under a prescribed state or territory law\n- although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple.\nThe definition of child includes children of people who are in same-sex relationships. See the definition of child in Special circumstances and glossary 2018 .\nIf you had private patient hospital cover during 2017–18, you will need a statement from your health insurer showing the number of days you and your dependants were covered by an appropriate level of health cover. If you do not have this statement, contact your health insurer.\nWere you and all your dependants, including your spouse, covered by an appropriate level of private patient hospital cover for the whole of 2017–18?\nYes | Go to Step 1 .\nNo | Read on.\n## Answering this question\nIf you do not have an appropriate level of private patient hospital cover, you may be liable for MLS. Whether or not you are liable to pay MLS depends on:\n- your income for MLS purposes, and\n- your combined income for MLS purposes, if you had a spouse in 2017–18 or if your spouse died in 2017–18.\nNext step:\n- Complete worksheet 1 to work out your and your spouse's income (if relevant) for MLS purposes.\nIf you had exempt foreign employment income, and your taxable income is $1 or more, add your exempt foreign income to your taxable income, and write the total at row a in Worksheet 1 .\nIf you were aged between your preservation age and 59 years old, write at k the taxed element amount of superannuation lump sums, other than a death benefit, you received during 2017–18 that do not exceed your low rate cap. The same applies for your spouse (see Superannuation lump sums and income for MLS purposes ).\nIf you did not have a spouse, go to Medicare levy surcharge exemption after you have completed Worksheet 1 .\nIf your spouse was under a legal disability, write at row h in the spouse column your spouse's net income from a trust for which the trustee was liable to pay tax. Examples of a legal disability include being:\n- a bankrupt\n- a person who has been declared legally incapable because of a mental condition\n- under 18 years old on 30 June 2018.\nDo not include any amount that has already been included in your spouse's taxable income at row a .\nWrite at row c the total amount of distributions to you or your spouse:\n- on which family trust distribution tax has been paid, and\n- which you or your spouse would have had to show as assessable income if the tax had not been paid.\nRow | Working out income for MLS purposes | You | Spouse\na | Taxable income (from Taxable income or loss on page 4 of the tax return) | $ | $\nb | Total reportable fringe benefits amount (the sum of N and W item IT1 on page 8 of the tax return) | $ | $\nc | Amount on which family trust distribution tax has been paid (from X item A5 on page 16 of the supplementary section of your or your spouse's tax return) | $ | $\nd | Net financial investment loss (from X item IT5 on page 8 of the tax return) | $ | $\ne | Net rental property loss (from Y item IT6 on page 8 of the tax return) | $ | $\nf | Reportable employer superannuation contributions (from T item IT2 on page 8 of the tax return) | $ | $\ng | Deductible personal superannuation contributions (from H item D12 on page 15 of the supplementary section of the tax return) | $ | $\nh | Your spouse's share of the net income of a trust on which the trustee must pay tax (from T Spouse details on page 9 of the tax return) |  | $\nj | Add the amounts from a to h in each column. | $ | $\nk | If you or your spouse were aged between your preservation age and 59 years old, write here the taxed element amount of superannuation lump sums, other than a death benefit, received during 2017–18 that do not exceed your or your spouse's low rate cap (see Superannuation lump sums and income for MLS purposes ). | $ | $\nl | Take row k away from row j . This is each individual's income for MLS purposes. | $ | $\nn | Add the amount from row l in your column to the amount from row l in your spouse's column. | $ | $\nYour income for MLS purposes when you are single is the amount at row l in your column.\nYour combined income for MLS purposes is the amount at row n .\n### Medicare levy surcharge exemption\nIf you fit in one of the following categories, you are exempt from MLS for the whole of 2017–18.\n#### Surcharge exemption categories\n- Your income for MLS purposes was $90,000 or less, and for the whole of 2017–18, you were single without a dependent child.\n- Your income for MLS purposes was $90,000 or less, and for part of 2017–18 you were single your spouse did not die during the year, and for the whole of the year you did not have a dependent child.\n- You were single with a dependent child for the whole of the year and your income for MLS purposes was $180,000 or less (plus $1,500 for each dependent child after the first).\n- You had a spouse (with or without dependent children) for the whole of the year, and your combined income for MLS purposes was $180,000 or less (plus $1,500 for each dependent child after the first). In working out whether your income exceeds an MLS income threshold, if your spouse died in 2017–18 and you did not have another spouse before the end of the year, you are treated as having had a spouse for the remainder of 2017–18.\n- You and all your dependants (including your spouse, if any) were in a Medicare levy exemption category for the whole of 2017–18 (see Question M1 ).\n- The combined income of you and your spouse for MLS purposes was above the limit, but your own income for MLS purposes was $21,980 or less.\n### Your spouse shows a lump sum payment in arrears on the supplementary section of their tax return.\nIf you are liable for MLS only because your spouse has shown a lump sum payment in arrears at item 20 Foreign source income and foreign assets or property 2018 or item 24 Other income on the supplementary section of their tax return, you may be entitled to a tax offset up to the amount of MLS you have to pay. We will calculate the tax offset for you.\nYou will need to provide additional information. Print Schedule of additional information – Item M2 on the top of a separate piece of paper. Print your name, address, tax file number and the name and address of your spouse. Explain that your spouse received a lump sum payment in arrears. Attach your schedule to your tax return. Print X in the Yes box at Taxpayer's declaration question 2.\n### Which income threshold do you use if, during the year, you had a new spouse or separated from your spouse, or you became or ceased to be a sole parent?\nIf you had a new spouse or you separated from your spouse, or you became or ceased to be a sole parent, both the single and the family surcharge thresholds may apply to you for different periods.\nYou need to work out whether you were liable for MLS for any period during 2017–18 that you:\n- were single (that is, you had no spouse or dependent children) so you can apply the single surcharge threshold of $90,000 to your income for MLS purposes\n- had a spouse or any dependent children, so you can apply the family surcharge threshold of $180,000, plus $1,500 for each dependent child after the first, to your income for MLS purposes.\nIf your spouse died during 2017–18 and you did not have another spouse before the end of the year, you are treated as if you had a spouse for the remainder of 2017–18 and you apply the family surcharge threshold of $180,000, plus $1,500 for each dependent child after the first.\nIf your income for MLS purposes (or if you have a spouse, your combined income for MLS purposes) was above the relevant surcharge threshold that applies to you, and you and all of your dependents (including your spouse, if any) did not have an appropriate level of private patient hospital cover, or were not in a Medicare levy exemption category for the whole year, then you may be liable for MLS.\nTo help you work out whether you were liable for MLS for the different periods, see the examples.\nExample: Spouse for the first part of the year\nMichael and Michelle lived together as a couple on a genuine domestic basis for seven years, but on 12 October 2017 they separated and each stayed single. They did not have private patient hospital cover at any time during 2017–18.\nMichelle and Michael had no dependent children, but they were dependants of each other for MLS purposes until they separated.\nMichael's income for MLS purposes was $69,000 and Michelle's was $95,000. In previous years, they had used their combined income to assess their MLS liability. They now have to use their individual income for MLS purposes.\nMichael and Michelle are considered to be a family for the period 1 July to 12 October 2017 (104 days), so the family MLS threshold of $180,000 applies to each of them for that period. This means:\n- Michelle is not liable for MLS for this period because her $95,000 income for MLS purposes was less than $180,000.\n- Michael is not liable for MLS for this period because his $69,000 income for MLS purposes was less than $180,000.\nMichael and Michelle were single for the period 13 October 2017 to 30 June 2018, so the single person MLS threshold of $90,000 applies for that period:\n- Michelle is liable to pay MLS for this period because her $95,000 income for MLS purposes exceeded $90,000.\n- Michael is not liable for MLS for this period because his $69,000 income for MLS purposes was less than $90,000.\nMichelle and Michael complete their tax returns at A item M2 by writing the number of days that they were not liable for MLS in 2017–18:\n- Michelle writes 104, the number of days in the first period when she was not liable for MLS\n- Michael writes 365 because he was not liable for MLS in 2017–18.\nExample: Spouse for the second part of the year\nAt the beginning of the income year Alice and Adam were both single. Alice and Adam got married on 17 January 2018 and are still married on 30 June 2018. They did not have private patient hospital cover at any time during 2017-18.\nAlice and Adam had no dependent children, but they were dependants of each other for MLS purposes from the date they were married.\nAlice's income for MLS purposes was $133,000 (including a net investment loss of $8,000) and Adam's income for MLS purposes was $80,000.\nAlice and Adam were single for the period 1 July 2017 to 16 January 2018 (200 days), so the single person MLS threshold of $90,000 applies to each of them for that period. This means:\n- Alice is liable to pay MLS for this period because her $133,000 income for MLS purposes exceeds $90,000.\n- Adam is not liable for MLS for this period because his $80,000 income for MLS purposes was less than $90,000.\nAlice and Adam are considered to be a family for the period 17 January to 30 June 2018 (165 days), so the family MLS threshold of $180,000 applies to each of them for that period. This means:\n- Alice is not liable for MLS for this period because her $133,000 income for MLS purposes was less than $180,000.\n- Adam is not liable for MLS for this period because his $80,000 income for MLS purposes was less than $180,000.\nAlice and Adam complete their tax returns at A item M2 by writing the number of days that they were not liable for MLS in 2017–18:\n- Alice writes 165, the number of days in the second period when she was not liable for MLS.\n- Adam writes 365 because he was not liable for MLS at any period in 2017–18.\nAlice and Adam's combined income for MLS purposes is $213,000, which is above the family tier 2 earner threshold ($210,000). This means that any surcharge levied on either Alice or Adam is at the rate of 1.25%. Therefore, Alice's Medicare levy surcharge for the first part of the year is calculated as follows:\n$125,000 × 1.25% × (200÷365) = $856.16\n#### What if you were covered by an appropriate level of private patient hospital cover for only part of the year?\nIf you were single and took out private patient hospital cover during the year use the following example to help you work out how many days you are liable to pay MLS.\nExample: Part-year private patient hospital cover\nIn 2017–18, Jacinta was single and had no dependants. She had income for MLS purposes of $95,000. She was not in a Medicare levy exemption category at any time during the year.\nJacinta took out private patient hospital cover on 15 January 2018. Because Jacinta's income for MLS purposes was above the single surcharge threshold of $90,000 and she did not have private patient hospital cover for the full year, she will have to pay MLS for the part of the year that she did not have private patient hospital cover.\nJacinta will not have to pay MLS for the time she had private patient hospital cover, that is, 15 January 2018 to 30 June 2018 (167 days).\nJacinta will write the number of days in 2017–18 that she is not liable for MLS (167) at A item M2 on her tax return and complete Private health insurance policy details on page 7 of her tax return.\n#### Family covered for part of the year\nIf some members of your family were covered by private patient hospital cover for the whole year and other members of your family had cover for only part of the year, use the following example to help you work out how many days you are liable to pay MLS.\nExample: Part-year liability\nJill and Kevin have been married for a number of years. They have three dependent children. Jill, Kevin and their children were not in a Medicare levy exemption category at any time during the year. Jill and the children were covered by private patient hospital cover for the full income year. Kevin had his name added to the policy on 10 January 2018.\nJill and Kevin had a combined income for MLS purposes of $190,000. The family surcharge threshold for Jill and Kevin is $183,000 (that is, $180,000 plus 2 × $1,500). Because not everyone was covered for the period 1 July 2017 to 9 January 2018 and their combined income for MLS purposes exceeds the family surcharge threshold, Jill and Kevin are both liable for MLS for this period (193 days). Jill and Kevin would both write the number of days that they were not liable for MLS (172) at A item M2 on their tax returns and complete Private health insurance policy details on page 7 of their tax returns.\n## Completing your tax return\n### Step 1\nIf you and all your dependants (including your spouse) had an appropriate level of private patient hospital cover for the whole of 2017–18, print X in the Yes box at the right of E item M2 . Make sure you also complete your Private health insurance policy details 2018 . You have now finished this question.\nIf you or any of your dependants (including your spouse) did not have private patient hospital cover or only had cover for part of the year, print X in the No box at the right of E item M2 . Continue to Step 2.\n### Step 2\nWrite at A item M2 the number of days for which you do not have to pay MLS.\nIf you were in an exemption category (see Surcharge exemption categories ) for the whole of 2017–18, print X in the Yes box to the left of 'You do not have to pay the surcharge.' and write 365 at A item M2 . You have now finished this question. Go to Private health insurance policy details 2018 .\nIf you were not in an exemption category, print X in the No box to the left of 'You may have to pay the surcharge.'\nWrite at A item M2 the number of days for which you do not have to pay MLS .\nIf you do not have to pay MLS for any days during the period 1 July 2017 to 30 June 2018, write 365 at A item M2 .\nIf you have to pay MLS for:\n- the whole period 1 July 2017 to 30 June 2018, write 0 at A item M2\n- part of the period 1 July 2017 to 30 June 2018, write at A item M2 the number of days for which you do not have to pay MLS.\n### Step 3\nComplete Income tests .\n### Step 4\nIf you had a spouse during 2017–18 and you or any of your dependants (including your spouse) were not covered by private patient hospital cover for the full year, complete Spouse details – married or de facto .\nIf your spouse's income for MLS purposes included a superannuation lump sum that was shown at row k in Worksheet 1 , write that amount at F under Spouse details – married or de facto .\n### Step 5\nIf you had private patient hospital cover for any part of the year, you must complete Private health insurance policy details . See Private health insurance policy details 2018 .\n## Tax tips\nIf you would like to work out the amount of Medicare levy surcharge you have to pay, use the Income tax estimator .\n### Superannuation lump sums and income for MLS purposes for worksheet 1 row k\nYour income and your combined income for MLS purposes exclude the taxed element of a superannuation lump sum, other than a death benefit, that you received when you were aged between your preservation age and 59 years old that does not exceed your low-rate cap amount for 2017–18. For 2017–18 the low-rate cap amount is $200,000, but it could be less for you if you had received certain superannuation lump sums in previous years. For more information, see table 1 and the definition of low-rate cap in Special circumstances and glossary 2018 .\nExample\nBill received a superannuation lump sum of $100,000 in 2016–17 and $105,000 in 2017–18, both of which consisted entirely of a taxed element. He was aged between his preservation age and 59 years old when he received both payments. Bill's wife Mary received a superannuation lump sum of $50,000 that consisted entirely of a taxed element in 2017–18 when she was between her preservation age and 59 years old.\nBill's low rate cap for 2017–18 is $100,000 because his low-rate cap was reduced by $100,000 in 2016–17. Therefore, the amount he received in excess of his low-rate cap (that is, $5,000) cannot be taken into account at rows k and l in worksheet 1. To work out his income for MLS purposes using worksheet 1, Bill subtracts $100,000 from the amount worked out at row j in that worksheet.\nTo work out his combined income for MLS purposes (using worksheet 1, spouse column), Bill subtracts Mary's $50,000 superannuation lump sum from the amount worked out at row j in the spouse column.\n## Where to go next\n- Go to Private health insurance policy details 2018 .\n- Return to main menu Individual tax return instructions 2018 .\n- Go back to question M1 Medicare levy reduction or exemption 2018 .",
+  "child_links": [],
+  "word_count": 4107,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,306 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2011/tax-return/income-tests/it5-net-financial-investment-loss-2011",
+  "title": "About question IT5",
+  "description": "Complete question IT5 to include a net loss from any financial investments you owned.",
+  "nat_number": "976",
+  "quick_code": "25498",
+  "date_updated": "2011-06-28T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, income test, loss, investment loss, net financial",
+  "content_blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "During the 2010-11 income year, did you receive income from or claim deductions in relation to any of the following types of investments: shares an interest in a managed investment scheme a forestry interest in a forestry managed investment scheme rights or options in respect of any of your shares or interests in a managed investment scheme distributions from a partnership that included income or losses from an investment listed above interests in trusts that you provided consideration to acquire any investment that is of a similar nature to those listed above?"
+        ],
+        [
+          "No",
+          "go to question IT6 Net rental property loss , or return to main menu Tax return for individuals instructions ."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The loss you show at this item is the amount by which your deductions relating to your financial investments exceed your income from those investments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include any of the following when calculating your net financial investment loss:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "interest from your everyday transactions accounts",
+        "capital gains",
+        "capital losses."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your net financial investment loss does not affect the way we work out your taxable income. You are still able to claim allowable tax deductions for expenditure you make in relation to your financial investments."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, your net financial investment loss will be used in certain income tests to work out whether you are entitled to receive a range of government benefits and certain tax offsets."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are not sure whether an investment you hold is a financial investment, go to www.ato.gov.au/incometests . If you are still not sure, phone 13 28 61 ."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need account statements or other documentation from your financial institution or other sources that show your financial investment income. You will also need documentation showing the amount of deductions you can claim in respect of your financial investments (such as interest)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a partner in a partnership you will need a statement or advice showing the amount of net financial investment income or loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "We consider that if a financial investment is held by a trust then for the purposes of the income tests the trustee will generally be the owner of the investment."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Managed investment schemes"
+    },
+    {
+      "type": "paragraph",
+      "text": "The investment manager will be able to tell you whether your investment is a managed investment scheme (that is, a scheme registered under the Corporations Act 2001 )."
+    },
+    {
+      "type": "paragraph",
+      "text": "Managed schemes include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "cash management trusts",
+        "property trusts",
+        "Australian equity (share) trusts",
+        "international equity trusts",
+        "agricultural schemes (which include horticultural, aquaculture and commercial horse breeding schemes)",
+        "some film schemes",
+        "some time-share schemes",
+        "some mortgage schemes",
+        "actively managed strata title schemes."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Investments that are not managed investment schemes include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "regulated superannuation funds",
+        "approved deposit funds",
+        "debentures issued by a body corporate",
+        "barter schemes",
+        "franchises",
+        "direct purchases of shares or other equities",
+        "schemes operated by an Australian bank in the ordinary course of banking business (such as term deposits)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Forestry managed investment schemes"
+    },
+    {
+      "type": "paragraph",
+      "text": "See more information about forestry managed investment schemes ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rights and options"
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your financial investment loss, you need to include income and deductions from rights and options you hold over shares, and interests in managed investment schemes. Rights and options include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "warrants",
+        "futures contracts."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Allowable deductions you can claim for an investment include, but are not limited to, expenses you pay to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "borrow money to purchase an investment",
+        "manage your investments",
+        "obtain advice about changes in the mix of your investments."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The expenses should be taken into account only to the extent that they are attributable to your financial investments."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete items 11 and D8 on your tax return and items 13 , 20 , 23 , 24 , D14 and D15 on your Tax return for individuals (supplementary section) 2011 if they apply to you."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete the worksheet below."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet: Working out your net financial investment loss"
+        ],
+        [
+          "Financial investment income"
+        ],
+        [
+          "Dividends from Australian shares from item 11 :",
+          "",
+          ""
+        ],
+        [
+          "unfranked amount",
+          "$",
+          "(a)"
+        ],
+        [
+          "franked amount",
+          "$",
+          "(b)"
+        ],
+        [
+          "franking credit",
+          "$",
+          "(c)"
+        ],
+        [
+          "Managed investment scheme income from U item 13",
+          "$",
+          "(d)"
+        ],
+        [
+          "Dividend income or managed investment scheme income from foreign companies from M item 20",
+          "$",
+          "(e)"
+        ],
+        [
+          "Forestry managed investment scheme income from A item 23",
+          "$",
+          "(f)"
+        ],
+        [
+          "Any other income from a financial investment (this would include any income from a financial investment that you included at item 24 )",
+          "",
+          "(g)"
+        ],
+        [
+          "Add all amounts from (a) to (g).",
+          "$",
+          "(h)"
+        ],
+        [
+          "Financial investment deductions"
+        ],
+        [
+          "Dividend deductions from Australian shares from item D8",
+          "$",
+          "(i)"
+        ],
+        [
+          "Managed investment scheme deductions from Y item 13 and H item D8",
+          "$",
+          "(j)"
+        ],
+        [
+          "Forestry managed investment scheme deductions from F item D14",
+          "$",
+          "(k)"
+        ],
+        [
+          "Any other deductions attributable to a financial investment (this would include any deductions from a financial investment that you claimed at J item D15 )",
+          "$",
+          "(l)"
+        ],
+        [
+          "Add all amounts from (i) to (l).",
+          "$",
+          "(m)"
+        ],
+        [
+          "Take (m) away from (h). (Show a loss as a negative.)",
+          "$",
+          "(n)"
+        ],
+        [
+          "If you are a partner in one or more partnerships, add up your share of all net financial investment income and deduct your share of all net losses from the partnerships' financial investments. The statement of distribution from each partnership should show these amounts. (Show an overall loss at (o) as a negative.)",
+          "$",
+          "(o)"
+        ],
+        [
+          "Add (n) and (o).",
+          "$",
+          "(p)"
+        ],
+        [
+          "If the amount at (p) is negative, write this amount at X item IT5 . Otherwise leave X blank and go to question IT6 ."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question IT6 Rental property loss return to main menu Tax return for individuals instructions , or go back to IT4 Target foreign income ."
+        ]
+      ]
+    }
+  ],
+  "content_text": "During the 2010-11 income year, did you receive income from or claim deductions in relation to any of the following types of investments: shares an interest in a managed investment scheme a forestry interest in a forestry managed investment scheme rights or options in respect of any of your shares or interests in a managed investment scheme distributions from a partnership that included income or losses from an investment listed above interests in trusts that you provided consideration to acquire any investment that is of a similar nature to those listed above?\nNo | go to question IT6 Net rental property loss , or return to main menu Tax return for individuals instructions .\nYes | Read below.\nThe loss you show at this item is the amount by which your deductions relating to your financial investments exceed your income from those investments.\nDo not include any of the following when calculating your net financial investment loss:\n- interest from your everyday transactions accounts\n- capital gains\n- capital losses.\nYour net financial investment loss does not affect the way we work out your taxable income. You are still able to claim allowable tax deductions for expenditure you make in relation to your financial investments.\nHowever, your net financial investment loss will be used in certain income tests to work out whether you are entitled to receive a range of government benefits and certain tax offsets.\nIf you are not sure whether an investment you hold is a financial investment, go to www.ato.gov.au/incometests . If you are still not sure, phone 13 28 61 .\n# Answering this question\nYou will need account statements or other documentation from your financial institution or other sources that show your financial investment income. You will also need documentation showing the amount of deductions you can claim in respect of your financial investments (such as interest).\nIf you are a partner in a partnership you will need a statement or advice showing the amount of net financial investment income or loss.\nWe consider that if a financial investment is held by a trust then for the purposes of the income tests the trustee will generally be the owner of the investment.\n## Managed investment schemes\nThe investment manager will be able to tell you whether your investment is a managed investment scheme (that is, a scheme registered under the Corporations Act 2001 ).\nManaged schemes include:\n- cash management trusts\n- property trusts\n- Australian equity (share) trusts\n- international equity trusts\n- agricultural schemes (which include horticultural, aquaculture and commercial horse breeding schemes)\n- some film schemes\n- some time-share schemes\n- some mortgage schemes\n- actively managed strata title schemes.\nInvestments that are not managed investment schemes include:\n- regulated superannuation funds\n- approved deposit funds\n- debentures issued by a body corporate\n- barter schemes\n- franchises\n- direct purchases of shares or other equities\n- schemes operated by an Australian bank in the ordinary course of banking business (such as term deposits).\n## Forestry managed investment schemes\nSee more information about forestry managed investment schemes .\n## Rights and options\nTo work out your financial investment loss, you need to include income and deductions from rights and options you hold over shares, and interests in managed investment schemes. Rights and options include:\n- warrants\n- futures contracts.\n## Deductions\nAllowable deductions you can claim for an investment include, but are not limited to, expenses you pay to:\n- borrow money to purchase an investment\n- manage your investments\n- obtain advice about changes in the mix of your investments.\nThe expenses should be taken into account only to the extent that they are attributable to your financial investments.\n# Completing your tax return\n### Step 1\nComplete items 11 and D8 on your tax return and items 13 , 20 , 23 , 24 , D14 and D15 on your Tax return for individuals (supplementary section) 2011 if they apply to you.\n### Step 2:\nComplete the worksheet below.\nWorksheet: Working out your net financial investment loss\nFinancial investment income\nDividends from Australian shares from item 11 : |  | \nunfranked amount | $ | (a)\nfranked amount | $ | (b)\nfranking credit | $ | (c)\nManaged investment scheme income from U item 13 | $ | (d)\nDividend income or managed investment scheme income from foreign companies from M item 20 | $ | (e)\nForestry managed investment scheme income from A item 23 | $ | (f)\nAny other income from a financial investment (this would include any income from a financial investment that you included at item 24 ) |  | (g)\nAdd all amounts from (a) to (g). | $ | (h)\nFinancial investment deductions\nDividend deductions from Australian shares from item D8 | $ | (i)\nManaged investment scheme deductions from Y item 13 and H item D8 | $ | (j)\nForestry managed investment scheme deductions from F item D14 | $ | (k)\nAny other deductions attributable to a financial investment (this would include any deductions from a financial investment that you claimed at J item D15 ) | $ | (l)\nAdd all amounts from (i) to (l). | $ | (m)\nTake (m) away from (h). (Show a loss as a negative.) | $ | (n)\nIf you are a partner in one or more partnerships, add up your share of all net financial investment income and deduct your share of all net losses from the partnerships' financial investments. The statement of distribution from each partnership should show these amounts. (Show an overall loss at (o) as a negative.) | $ | (o)\nAdd (n) and (o). | $ | (p)\nIf the amount at (p) is negative, write this amount at X item IT5 . Otherwise leave X blank and go to question IT6 .\nWhere to go next go to question IT6 Rental property loss return to main menu Tax return for individuals instructions , or go back to IT4 Target foreign income .",
+  "child_links": [],
+  "word_count": 1007,
+  "source_title": "About question IT5 | Australian Taxation Office",
+  "source_description": "Complete question IT5 to include a net loss from any financial investments you owned.",
+  "category": "your-tax-return"
+}

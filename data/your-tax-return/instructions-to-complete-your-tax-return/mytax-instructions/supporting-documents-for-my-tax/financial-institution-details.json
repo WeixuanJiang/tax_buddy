@@ -1,0 +1,71 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/supporting-documents-for-my-tax/financial-institution-details",
+  "title": "myTax Financial institution details",
+  "description": "How to check or update your financial institution details when completing your tax return using myTax.",
+  "nat_number": "",
+  "quick_code": "67849",
+  "date_updated": "2026-05-18T14:00:00Z",
+  "first_published": "",
+  "keywords": "mytax bank details, financial details mytax",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's important you provide your correct financial institution details as we'll pay any tax refund into this account."
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll only pay tax refunds into recognised financial institution accounts located in Australia."
+    },
+    {
+      "type": "paragraph",
+      "text": "We accept financial institution account details held by:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you, either solely or jointly – for example, Alan White, White’s Widgets, or Alan & Mary White",
+        "your registered tax agent",
+        "your legal practitioner acting as trustee or executor for you."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't choose to have your refund sent to your spouse’s account."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't provide your financial institution details, you may be unable to lodge your tax return online using myTax. Check what options you have to lodge your tax return yourself or with help from someone else."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill myTax with financial institution details from your ATO records."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Are your financial institution details displayed in myTax up to date? Yes – go to step 4. No – go to step 2.",
+        "Select Edit and provide your current financial institution details. We require: Bank State Branch (BSB) – this number has 6 digits (don't include spaces or hyphens). Account number – this number has no more than 9 digits (don't include spaces or hyphens). Account name – when entering the account name, include spaces between each word and initials where required. For example, JQ Citizen. If there are more than 32 characters in the account name, provide the first 32 only. Don't show the account type, such as cheque, savings or mortgage offset. Go to step 3.",
+        "Select Save .",
+        "Select Next ."
+      ]
+    }
+  ],
+  "content_text": "## Things to know\nIt's important you provide your correct financial institution details as we'll pay any tax refund into this account.\nWe'll only pay tax refunds into recognised financial institution accounts located in Australia.\nWe accept financial institution account details held by:\n- you, either solely or jointly – for example, Alan White, White’s Widgets, or Alan & Mary White\n- your registered tax agent\n- your legal practitioner acting as trustee or executor for you.\nYou can't choose to have your refund sent to your spouse’s account.\nIf you don't provide your financial institution details, you may be unable to lodge your tax return online using myTax. Check what options you have to lodge your tax return yourself or with help from someone else.\n## Completing this section\nWe pre-fill myTax with financial institution details from your ATO records.\n- Are your financial institution details displayed in myTax up to date? Yes – go to step 4. No – go to step 2.\n- Select Edit and provide your current financial institution details. We require: Bank State Branch (BSB) – this number has 6 digits (don't include spaces or hyphens). Account number – this number has no more than 9 digits (don't include spaces or hyphens). Account name – when entering the account name, include spaces between each word and initials where required. For example, JQ Citizen. If there are more than 32 characters in the account name, provide the first 32 only. Don't show the account type, such as cheque, savings or mortgage offset. Go to step 3.\n- Select Save .\n- Select Next .",
+  "child_links": [],
+  "word_count": 269,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

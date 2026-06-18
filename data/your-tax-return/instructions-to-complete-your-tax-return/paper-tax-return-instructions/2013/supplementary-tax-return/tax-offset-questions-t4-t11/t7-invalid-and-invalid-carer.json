@@ -1,0 +1,437 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2013/supplementary-tax-return/tax-offset-questions-t4-t11/t7-invalid-and-invalid-carer",
+  "title": "T7 - Dependent (invalid and carer) 2013",
+  "description": "Complete question T7 if you maintained a person who was 16 years or older and received particular government payments.",
+  "nat_number": "71050",
+  "quick_code": "32402",
+  "date_updated": "2021-09-13T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, tax offset, parent, invalid, carer",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "You may be entitled to a tax offset if you maintained:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your invalid or carer spouse",
+        "your or your spouse's invalid or carer parent, or",
+        "your or your spouse’s invalid child, brother or sister aged 16 years old or older."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The dependent carer must be:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "receiving a carer allowance or carer payment in respect of the care they provide in relation to that person"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "or"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "wholly engaged in providing care to a person receiving: a disability support pension a special needs disability support pension, or an invalidity service pension"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The dependant invalid must be receiving:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a disability support pension",
+        "a special needs disability support pension under the Social Security Act 1991 , or",
+        "an invalidity service pension under the Veterans' Entitlement Act 1986 ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Did you maintain one or more of the dependants listed above?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to question T8 Landcare and water facility , or return to main menu Individual tax return instructions"
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before you complete this item, you need to read Adjusted taxable income (ATI) for you and your dependants ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you maintained a dependant who is an invalid or carer"
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim this tax offset for your dependent spouse if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your ATI for 2012-13 was more than $150,000 or",
+        "you maintained your spouse for the whole year and their ATI for 2012-13 was $9,974 or more."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim this tax offset for any other dependant if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your ATI for 2012-13 was more than $150,000, or",
+        "you had a spouse for all of 2012-13 and the combined ATI of you and your spouse was more than $150,000, or",
+        "you had a spouse for only part of the year and the sum of the following is more than $150,000 your ATI your spouse's ATI for 2012-13 multiplied by the number of days they were your spouse divided by 365, or",
+        "you maintained your dependant for the whole year and their ATI for 2012-13 was $9,974 or more."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim for your spouse if you can claim for them as a dependent spouse at item T1 Spouse (without dependent child or student) . You can only claim for your spouse as an invalid or carer, not both."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are claiming for your spouse, your claim will be reduced for any period that you, or your spouse during any period they were your spouse, were:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "eligible for Family Tax Benefit (Part B), or",
+        "receiving parental leave pay. (Dad and partner pay does not affect your entitlement to this tax offset.)"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "How much can you claim for each dependant?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The maximum amount of offset available for each dependant is $2,423"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your tax offset is reduced if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your dependant's ATI for the period you are claiming the tax offset was $286 or more",
+        "you maintained your dependant for only part of the year",
+        "another person helped to maintain your dependant",
+        "your dependant was an Australian resident for tax purposes for only part of the year, or",
+        "your dependant was an invalid or carer for only part of the year."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this item"
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete this item you need to know each dependant's ATI for the period you are claiming the tax offset for them."
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your dependent (carer and invalid) tax offset for a full year or part of the year, follow the steps below."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have more than one dependant, complete those steps for each dependant. Then add together their totals."
+    },
+    {
+      "type": "paragraph",
+      "text": "Go to step 5 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are claiming for a spouse who is an invalid or carer, complete worksheet 1 below."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are claiming for any other dependant (invalid or carer), go to step 2."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 1"
+        ],
+        [
+          "Working out your offset for your spouse who is an invalid or carer"
+        ],
+        [
+          "If you had a resident invalid or carer spouse for the whole year and neither of you were eligible for FTB Part B or received parental leave pay at any time during the year, write $2,423 at (d), then continue from there."
+        ],
+        [
+          "If you had a resident invalid or carer spouse for only part of the year and neither of you were eligible for FTB Part B or received parental leave pay during that period, work out the number of days you had an invalid or carer spouse and multiply this number by $6.64. Write the amount at (a).",
+          "$",
+          "(a)"
+        ],
+        [
+          "If you or your spouse were eligible for FTB Part B or parental leave pay at any time during the year, for the period you had a resident invalid or carer spouse, work out the number of days that neither of you were eligible for FTB Part B or received parental leave pay. Multiply this number by $6.64. Write the amount at (b).",
+          "$",
+          "(b)"
+        ],
+        [
+          "If you or your spouse were eligible for FTB Part B at a shared-care rate at any time during the year, work through (p) to (s) below for the period you had a resident invalid or carer spouse. (If your FTB shared-care percentage changed during the year, work through (p) to (s) for each period it was different.)"
+        ],
+        [
+          "Work out the number of days that you or your spouse was eligible for FTB Part B at a shared-care rate and write the answer at (p).",
+          "(p)"
+        ],
+        [
+          "Multiply the number of days from (p) by $6.64 and write the answer at (q).",
+          "$",
+          "(q)"
+        ],
+        [
+          "Take your FTB shared-care percentage away from 100% and write the answer at (r).",
+          "$",
+          "(r)"
+        ],
+        [
+          "Multiply the amount from (q) by the percentage from (r) and write the answer at (s).",
+          "$",
+          "(s)"
+        ],
+        [
+          "Write the amount from (s) at (c). If your FTB shared-care percentage changed during the year, add up the amounts from (s) and write the total at (c).",
+          "$",
+          "(c)"
+        ],
+        [
+          "Add (a), (b) and (c). Write the answer at (d). The amount at (d) is your maximum invalid spouse or carer spouse tax offset. It cannot be more than $2,423.",
+          "$",
+          "(d)"
+        ],
+        [
+          "To calculate your spouse's ATI for the period you are claiming for them, see Adjusted taxable income (ATI) for you and your dependants or use the Income tests calculator . If your spouse's ATI for the period you are claiming for them was less than $286, the amount at (d) is your spouse tax offset. Write this amount at (f) If your spouse's ATI was $286 or more for the period you are claiming for them, deduct $282 from their ATI and divide the remaining amount by 4. Round this down to the nearest dollar. Write the answer at (e).",
+          "$",
+          "(e)"
+        ],
+        [
+          "Take (e) away from (d). Write the answer at (f).",
+          "$",
+          "(f)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are also claiming for any other dependant (invalid or carer), go to step 2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otherwise, go to step 4 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are claiming for any other dependant who was an invalid or carer for the whole year and their ATI was $285 or less and you maintained them for the whole year, you can claim the maximum tax offset of $2,423 for each dependant. Go to step 4 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your dependant's ATI was $285 or less and they were an invalid or carer for part of the year or you maintained them for part of the year, go to worksheet 3 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your dependant's ATI was $286 or more, read on."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your dependant's ATI for the year was $286 or more and they were an invalid or carer you maintained for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the whole year, use worksheet 2",
+        "part of the year, use worksheet 3 ."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 2"
+        ],
+        [
+          "Working out your offset for an invalid or a carer, who is not your spouse, for the whole year"
+        ],
+        [
+          "Your dependant's ATI for the whole of 2012-13",
+          "(a)",
+          "$"
+        ],
+        [
+          "Take $282 away from (a).",
+          "(b)",
+          "$"
+        ],
+        [
+          "Divide (b) by 4 (tax offset reduced by $1 for every $4 in excess of $282).",
+          "(c)",
+          "$"
+        ],
+        [
+          "If the amount at (c) is $2,423 for each dependant you cannot claim a tax offset for them. If you have an amount from worksheet 1 to claim, go to step 4. Otherwise, go to question T11 . If the amount at (c) is less than $2,423 for each dependant, read on."
+        ],
+        [
+          "Take (c) away from $2,423 for each dependant.",
+          "(d)",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at (d), if it is more than zero (0), is your tax offset for the dependant. Go to step 4 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 3"
+        ],
+        [
+          "Working out your offset for an invalid or a carer, who is not your spouse, for part of the year"
+        ],
+        [
+          "Work out the number of days in the year you maintained your dependant while they were an Australian resident invalid or carer.",
+          "(a)",
+          ""
+        ],
+        [
+          "Multiply the number of days at (a) by the following daily rate: $6.64",
+          "(b)",
+          "$"
+        ],
+        [
+          "If your dependant's ATI was $285 or less for the period you are claiming for them, the amount at (b) is your tax offset for the dependant. Go to step 4 . Otherwise, read on."
+        ],
+        [
+          "If your dependant's ATI was $286 or more, write their ATI for that period at (c).",
+          "(c)",
+          "$"
+        ],
+        [
+          "Take $282 away from (c).",
+          "(d)",
+          "$"
+        ],
+        [
+          "Divide (d) by 4.",
+          "(e)",
+          "$"
+        ],
+        [
+          "Take (e) away from (b).",
+          "(f)",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at (f), if it is more than zero (0), is your tax offset for the dependant. Go to step 4."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "If another person or persons contributed to the maintenance of your dependant remember to claim only part of the allowable tax offset, according to the extent of your contribution."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the amounts you have calculated for each of your dependants. The total is your dependent (invalid and carer) tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write your dependent (invalid and carer) tax offset at B item T7 on page 16 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete the income test items IT1 to IT7 on page 8 of your tax return. If you had a spouse, you must also complete Spouse details - married or de facto on page 9 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question T8 Landcare and water facility",
+        "Return to main menu Individual tax return instructions",
+        "Go back to question T6 Total net medical expenses ."
+      ]
+    }
+  ],
+  "content_text": "You may be entitled to a tax offset if you maintained:\n- your invalid or carer spouse\n- your or your spouse's invalid or carer parent, or\n- your or your spouse’s invalid child, brother or sister aged 16 years old or older.\nThe dependent carer must be:\n- receiving a carer allowance or carer payment in respect of the care they provide in relation to that person\nor\n- wholly engaged in providing care to a person receiving: a disability support pension a special needs disability support pension, or an invalidity service pension\nThe dependant invalid must be receiving:\n- a disability support pension\n- a special needs disability support pension under the Social Security Act 1991 , or\n- an invalidity service pension under the Veterans' Entitlement Act 1986 .\n## Did you maintain one or more of the dependants listed above?\nNo | Go to question T8 Landcare and water facility , or return to main menu Individual tax return instructions\nYes | Read below.\n## You need to know\nBefore you complete this item, you need to read Adjusted taxable income (ATI) for you and your dependants .\n### If you maintained a dependant who is an invalid or carer\nYou cannot claim this tax offset for your dependent spouse if:\n- your ATI for 2012-13 was more than $150,000 or\n- you maintained your spouse for the whole year and their ATI for 2012-13 was $9,974 or more.\nYou cannot claim this tax offset for any other dependant if:\n- your ATI for 2012-13 was more than $150,000, or\n- you had a spouse for all of 2012-13 and the combined ATI of you and your spouse was more than $150,000, or\n- you had a spouse for only part of the year and the sum of the following is more than $150,000 your ATI your spouse's ATI for 2012-13 multiplied by the number of days they were your spouse divided by 365, or\n- you maintained your dependant for the whole year and their ATI for 2012-13 was $9,974 or more.\nYou cannot claim for your spouse if you can claim for them as a dependent spouse at item T1 Spouse (without dependent child or student) . You can only claim for your spouse as an invalid or carer, not both.\nIf you are claiming for your spouse, your claim will be reduced for any period that you, or your spouse during any period they were your spouse, were:\n- eligible for Family Tax Benefit (Part B), or\n- receiving parental leave pay. (Dad and partner pay does not affect your entitlement to this tax offset.)\n#### How much can you claim for each dependant?\nThe maximum amount of offset available for each dependant is $2,423\nYour tax offset is reduced if:\n- your dependant's ATI for the period you are claiming the tax offset was $286 or more\n- you maintained your dependant for only part of the year\n- another person helped to maintain your dependant\n- your dependant was an Australian resident for tax purposes for only part of the year, or\n- your dependant was an invalid or carer for only part of the year.\n## Completing this item\nTo complete this item you need to know each dependant's ATI for the period you are claiming the tax offset for them.\nTo work out your dependent (carer and invalid) tax offset for a full year or part of the year, follow the steps below.\nIf you have more than one dependant, complete those steps for each dependant. Then add together their totals.\nGo to step 5 .\n### Step 1\nIf you are claiming for a spouse who is an invalid or carer, complete worksheet 1 below.\nIf you are claiming for any other dependant (invalid or carer), go to step 2.\nWorksheet 1\nWorking out your offset for your spouse who is an invalid or carer\nIf you had a resident invalid or carer spouse for the whole year and neither of you were eligible for FTB Part B or received parental leave pay at any time during the year, write $2,423 at (d), then continue from there.\nIf you had a resident invalid or carer spouse for only part of the year and neither of you were eligible for FTB Part B or received parental leave pay during that period, work out the number of days you had an invalid or carer spouse and multiply this number by $6.64. Write the amount at (a). | $ | (a)\nIf you or your spouse were eligible for FTB Part B or parental leave pay at any time during the year, for the period you had a resident invalid or carer spouse, work out the number of days that neither of you were eligible for FTB Part B or received parental leave pay. Multiply this number by $6.64. Write the amount at (b). | $ | (b)\nIf you or your spouse were eligible for FTB Part B at a shared-care rate at any time during the year, work through (p) to (s) below for the period you had a resident invalid or carer spouse. (If your FTB shared-care percentage changed during the year, work through (p) to (s) for each period it was different.)\nWork out the number of days that you or your spouse was eligible for FTB Part B at a shared-care rate and write the answer at (p). | (p)\nMultiply the number of days from (p) by $6.64 and write the answer at (q). | $ | (q)\nTake your FTB shared-care percentage away from 100% and write the answer at (r). | $ | (r)\nMultiply the amount from (q) by the percentage from (r) and write the answer at (s). | $ | (s)\nWrite the amount from (s) at (c). If your FTB shared-care percentage changed during the year, add up the amounts from (s) and write the total at (c). | $ | (c)\nAdd (a), (b) and (c). Write the answer at (d). The amount at (d) is your maximum invalid spouse or carer spouse tax offset. It cannot be more than $2,423. | $ | (d)\nTo calculate your spouse's ATI for the period you are claiming for them, see Adjusted taxable income (ATI) for you and your dependants or use the Income tests calculator . If your spouse's ATI for the period you are claiming for them was less than $286, the amount at (d) is your spouse tax offset. Write this amount at (f) If your spouse's ATI was $286 or more for the period you are claiming for them, deduct $282 from their ATI and divide the remaining amount by 4. Round this down to the nearest dollar. Write the answer at (e). | $ | (e)\nTake (e) away from (d). Write the answer at (f). | $ | (f)\nIf you are also claiming for any other dependant (invalid or carer), go to step 2 .\nOtherwise, go to step 4 .\n### Step 2\nIf you are claiming for any other dependant who was an invalid or carer for the whole year and their ATI was $285 or less and you maintained them for the whole year, you can claim the maximum tax offset of $2,423 for each dependant. Go to step 4 .\nIf your dependant's ATI was $285 or less and they were an invalid or carer for part of the year or you maintained them for part of the year, go to worksheet 3 .\nIf your dependant's ATI was $286 or more, read on.\n### Step 3\nIf your dependant's ATI for the year was $286 or more and they were an invalid or carer you maintained for:\n- the whole year, use worksheet 2\n- part of the year, use worksheet 3 .\nWorksheet 2\nWorking out your offset for an invalid or a carer, who is not your spouse, for the whole year\nYour dependant's ATI for the whole of 2012-13 | (a) | $\nTake $282 away from (a). | (b) | $\nDivide (b) by 4 (tax offset reduced by $1 for every $4 in excess of $282). | (c) | $\nIf the amount at (c) is $2,423 for each dependant you cannot claim a tax offset for them. If you have an amount from worksheet 1 to claim, go to step 4. Otherwise, go to question T11 . If the amount at (c) is less than $2,423 for each dependant, read on.\nTake (c) away from $2,423 for each dependant. | (d) | $\nThe amount at (d), if it is more than zero (0), is your tax offset for the dependant. Go to step 4 .\nWorksheet 3\nWorking out your offset for an invalid or a carer, who is not your spouse, for part of the year\nWork out the number of days in the year you maintained your dependant while they were an Australian resident invalid or carer. | (a) | \nMultiply the number of days at (a) by the following daily rate: $6.64 | (b) | $\nIf your dependant's ATI was $285 or less for the period you are claiming for them, the amount at (b) is your tax offset for the dependant. Go to step 4 . Otherwise, read on.\nIf your dependant's ATI was $286 or more, write their ATI for that period at (c). | (c) | $\nTake $282 away from (c). | (d) | $\nDivide (d) by 4. | (e) | $\nTake (e) away from (b). | (f) | $\nThe amount at (f), if it is more than zero (0), is your tax offset for the dependant. Go to step 4.\n### Step 4\nIf another person or persons contributed to the maintenance of your dependant remember to claim only part of the allowable tax offset, according to the extent of your contribution.\n### Step 5\nAdd up the amounts you have calculated for each of your dependants. The total is your dependent (invalid and carer) tax offset.\nWrite your dependent (invalid and carer) tax offset at B item T7 on page 16 of your tax return.\n### Step 6\nComplete the income test items IT1 to IT7 on page 8 of your tax return. If you had a spouse, you must also complete Spouse details - married or de facto on page 9 of your tax return.\n#### Where to go next\n- Go to question T8 Landcare and water facility\n- Return to main menu Individual tax return instructions\n- Go back to question T6 Total net medical expenses .",
+  "child_links": [],
+  "word_count": 1782,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

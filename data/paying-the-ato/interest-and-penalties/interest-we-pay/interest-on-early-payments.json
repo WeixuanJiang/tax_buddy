@@ -1,0 +1,255 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/paying-the-ato/interest-and-penalties/interest-we-pay/interest-on-early-payments",
+  "title": "Interest on early payments",
+  "description": "When we pay interest on early payments you make 14 days or more before the due date and how we calculate the interest",
+  "nat_number": "",
+  "quick_code": "67821",
+  "date_updated": "2025-06-15T14:00:00Z",
+  "first_published": "",
+  "keywords": "interest on early payments, credit interest, automation, payment of credit interest, early payment of tax, early payment",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Payments eligible for IEP"
+    },
+    {
+      "type": "paragraph",
+      "text": "Interest on early payments (IEP) is interest we pay when you make a payment towards any of the following tax liabilities more than 14 days before the due date :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "income tax (including Medicare levy and Medicare levy surcharge)",
+        "compulsory Higher Education Loan Program (HELP) repayments",
+        "compulsory Vocational Education and Training Student Loan (VETSL) repayments",
+        "Student Financial Supplement Scheme (SFSS) assessment debts",
+        "compulsory Student Start-up Loan (SSL) repayments",
+        "compulsory ABSTUDY Student Start-up Loan (SSL) repayments",
+        "compulsory Australian Apprenticeship Support Loans (AASL) debt repayments",
+        "interest on distributions from non-resident trust estates",
+        "shortfall interest charge (SIC)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Payments not eligible for IEP"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following payments are not eligible for IEP:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "pay as you go (PAYG) withholding amounts including amounts withheld from interest, dividends and royalties amounts withheld by payers (including those withheld for the purpose of repaying contributions or debts for HELP, VETSL SFSS, AASL, SSL or ABSTUDY SSL)",
+        "PAYG instalments",
+        "self-managed super fund (SMSF) supervisory levy payments",
+        "any part of a payment that exceeds the amount that is due and payable."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Payment of IEP"
+    },
+    {
+      "type": "paragraph",
+      "text": "We have automated the calculation and payment of IEP entitlements for eligible early payments. This process applies to amounts you have paid us since 1 July 2021 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "We calculate and pay IEP after the due date of the tax debt has passed. We only pay IEP if your interest amount is $0.50 or more and it may be used to offset income tax and other debts."
+    },
+    {
+      "type": "paragraph",
+      "text": "IEP is paid directly to your nominated bank account, so make sure your financial institution account details are up to date ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your financial institution account (FIA) details are not up to date, we will hold the IEP credit on your account for a maximum of 12 months provided the amount has not been:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "offset against an outstanding tax debt",
+        "paid to you with another credit."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If after 12 months we don’t have any FIA details we will then allow an IEP cheque to issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you update your FIA details within the 12-month period, then the IEP credit will be paid directly to your nominated bank account after the 12 months have passed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Payment of an IEP credit retained on an account can be requested:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "through practice mail in Online services for agents",
+        "through secure mail in Online services for business",
+        "in writing ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Registered agents"
+    },
+    {
+      "type": "paragraph",
+      "text": "IEP amounts will be paid to a client’s nominated bank account, that can be either their:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "personal bank account",
+        "tax agent's trust account."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Clients should check their bank account details are up to date. This is to ensure they receive their IEP entitlements as soon as possible."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your client has nominated your practice trust account for refunds, we'll pay IEP to that account. You will need to forward or transfer the amount to your client."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can access an EFT Reconciliation Report to view any IEP entitlements paid to your trust account on behalf of your client."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Statement of Account"
+    },
+    {
+      "type": "paragraph",
+      "text": "A Statement of Account (SoA) will be sent when the IEP credit is refunded or offset against an existing debt. For:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "individuals – use myGov Opens in a new window to view your SoA",
+        "businesses – use Online services for business (OSB) to view your SoA",
+        "tax professionals – use Online services for agents to view your clients SoA."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How we calculate IEP"
+    },
+    {
+      "type": "paragraph",
+      "text": "Interest is payable on the amount of the early payments you make. The period for which the interest is payable is calculated according to your circumstances."
+    },
+    {
+      "type": "paragraph",
+      "text": "For individuals and trusts, interest is payable:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "from the later of the date of issue on your notice setting out the amount of tax, debt or interest you need to pay the date you make the payment",
+        "until and including the payment due date."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Individuals and taxable trusts can use the interest on early payment calculator to calculate the amount of your entitlement."
+    },
+    {
+      "type": "paragraph",
+      "text": "For companies and super funds, interest is payable from the date you make the payment up to and including the due date for payment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Interest on early payments is not payable :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "on amounts that exceed the value of your tax debt",
+        "for any period after we refund your early payment."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also check the formula we use to calculate credit interest and the rates ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to claim IEP"
+    },
+    {
+      "type": "paragraph",
+      "text": "To claim IEP for payments made before 1 July 2021, you can:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "use practice mail in Online Services for agents",
+        "use secure mail in Online Services for Business",
+        "write to us ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to provide details of your entitlement including:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "payment amounts",
+        "payment dates",
+        "the specific debt (including income year) the payments were made towards."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Alternatively, you can include it as a Credit for early payments in your tax return for the income year in which the interest entitlement arises. If you've already lodged that tax return, you'll need to calculate your entitlement and lodge an amendment ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How we treat IEP"
+    },
+    {
+      "type": "paragraph",
+      "text": "Interest on early payments is assessable income. Include any IEP in your tax return in either the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "income year you receive the interest payment",
+        "income year it is offset against another tax debt you had with us."
+      ]
+    }
+  ],
+  "content_text": "## Payments eligible for IEP\nInterest on early payments (IEP) is interest we pay when you make a payment towards any of the following tax liabilities more than 14 days before the due date :\n- income tax (including Medicare levy and Medicare levy surcharge)\n- compulsory Higher Education Loan Program (HELP) repayments\n- compulsory Vocational Education and Training Student Loan (VETSL) repayments\n- Student Financial Supplement Scheme (SFSS) assessment debts\n- compulsory Student Start-up Loan (SSL) repayments\n- compulsory ABSTUDY Student Start-up Loan (SSL) repayments\n- compulsory Australian Apprenticeship Support Loans (AASL) debt repayments\n- interest on distributions from non-resident trust estates\n- shortfall interest charge (SIC).\n## Payments not eligible for IEP\nThe following payments are not eligible for IEP:\n- pay as you go (PAYG) withholding amounts including amounts withheld from interest, dividends and royalties amounts withheld by payers (including those withheld for the purpose of repaying contributions or debts for HELP, VETSL SFSS, AASL, SSL or ABSTUDY SSL)\n- PAYG instalments\n- self-managed super fund (SMSF) supervisory levy payments\n- any part of a payment that exceeds the amount that is due and payable.\n## Payment of IEP\nWe have automated the calculation and payment of IEP entitlements for eligible early payments. This process applies to amounts you have paid us since 1 July 2021 .\nWe calculate and pay IEP after the due date of the tax debt has passed. We only pay IEP if your interest amount is $0.50 or more and it may be used to offset income tax and other debts.\nIEP is paid directly to your nominated bank account, so make sure your financial institution account details are up to date .\nIf your financial institution account (FIA) details are not up to date, we will hold the IEP credit on your account for a maximum of 12 months provided the amount has not been:\n- offset against an outstanding tax debt\n- paid to you with another credit.\nIf after 12 months we don’t have any FIA details we will then allow an IEP cheque to issue.\nIf you update your FIA details within the 12-month period, then the IEP credit will be paid directly to your nominated bank account after the 12 months have passed.\nPayment of an IEP credit retained on an account can be requested:\n- through practice mail in Online services for agents\n- through secure mail in Online services for business\n- in writing .\n### Registered agents\nIEP amounts will be paid to a client’s nominated bank account, that can be either their:\n- personal bank account\n- tax agent's trust account.\nClients should check their bank account details are up to date. This is to ensure they receive their IEP entitlements as soon as possible.\nIf your client has nominated your practice trust account for refunds, we'll pay IEP to that account. You will need to forward or transfer the amount to your client.\nYou can access an EFT Reconciliation Report to view any IEP entitlements paid to your trust account on behalf of your client.\n### Statement of Account\nA Statement of Account (SoA) will be sent when the IEP credit is refunded or offset against an existing debt. For:\n- individuals – use myGov Opens in a new window to view your SoA\n- businesses – use Online services for business (OSB) to view your SoA\n- tax professionals – use Online services for agents to view your clients SoA.\n## How we calculate IEP\nInterest is payable on the amount of the early payments you make. The period for which the interest is payable is calculated according to your circumstances.\nFor individuals and trusts, interest is payable:\n- from the later of the date of issue on your notice setting out the amount of tax, debt or interest you need to pay the date you make the payment\n- until and including the payment due date.\nIndividuals and taxable trusts can use the interest on early payment calculator to calculate the amount of your entitlement.\nFor companies and super funds, interest is payable from the date you make the payment up to and including the due date for payment.\nInterest on early payments is not payable :\n- on amounts that exceed the value of your tax debt\n- for any period after we refund your early payment.\nYou can also check the formula we use to calculate credit interest and the rates .\n## How to claim IEP\nTo claim IEP for payments made before 1 July 2021, you can:\n- use practice mail in Online Services for agents\n- use secure mail in Online Services for Business\n- write to us .\nYou will need to provide details of your entitlement including:\n- payment amounts\n- payment dates\n- the specific debt (including income year) the payments were made towards.\nAlternatively, you can include it as a Credit for early payments in your tax return for the income year in which the interest entitlement arises. If you've already lodged that tax return, you'll need to calculate your entitlement and lodge an amendment .\n## How we treat IEP\nInterest on early payments is assessable income. Include any IEP in your tax return in either the:\n- income year you receive the interest payment\n- income year it is offset against another tax debt you had with us.",
+  "child_links": [],
+  "word_count": 899,
+  "source_title": "",
+  "source_description": "",
+  "category": "paying-the-ato"
+}

@@ -1,0 +1,534 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/capital-gains-tax/property-and-capital-gains-tax/cgt-discount-for-affordable-housing",
+  "title": "CGT discount for affordable housing",
+  "description": "Work out how you can reduce your capital gains tax when you sell a property that you used for affordable rental housing.",
+  "nat_number": "",
+  "quick_code": "66040",
+  "date_updated": "2025-06-22T14:00:00Z",
+  "first_published": "",
+  "keywords": "additional CGT, CGT discount, 10% discount, 60% discount, discount on CGT, affordable housing, affordable housing discount",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eligibility for the extra discount"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you sell a property, you can reduce your CGT by an extra 10% for any period that you used it to provide affordable housing . This is the affordable housing CGT discount and is in addition to the 50% CGT discount."
+    },
+    {
+      "type": "paragraph",
+      "text": "To be eligible to claim the extra discount, you must meet all of the following conditions:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you are eligible for the 50% CGT discount on the property (in whole or part)",
+        "you used your property to provide affordable housing for a minimum of 3 years (1,095 days) since 1 January 2018",
+        "your property rental was managed by a registered community housing provider (CHP)",
+        "the capital gain was made by you as an individual, or distributed or attributed to you either directly from a trust or managed investment trust (MIT) indirectly from a trust through an interposed partnership, MIT or other trust (this does not include public unit trusts or super funds)",
+        "you (or the trust you invested in) have an affordable housing certificate from the CHP for each income year for which you are claiming the discount",
+        "no entity that has an ownership interest in the property received an incentive from the National Rental Affordability Scheme (NRAS) for the NRAS year",
+        "if an MIT has an ownership interest in the property, the tenant and their associates do not have an interest of more than 10% of the MIT."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You're not eligible to claim the additional CGT discount for affordable housing if you invest through an entity that's not a trust, MIT or partnership. For example, if you invest through a company."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other entities, for example Local Government Authorities (such as a council) that own properties used for affordable housing and are managed through a registered CHP, aren't eligible to claim the additional discount."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Affordable housing requirements"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your CHP will send you an annual affordable housing certificate confirming your property qualifies as affordable housing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your property must satisfy the following conditions:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "It must be fixed domestic residential premises, such as a house, unit or apartment. Caravans, mobile homes and houseboats do not qualify. Commercial residential premises do not qualify.",
+        "It must be rented, or genuinely available for rent, at below-market rates to eligible tenants on low to moderate incomes.",
+        "Rentals must be managed exclusively by a registered CHP ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Working out the minimum 3-year period"
+    },
+    {
+      "type": "paragraph",
+      "text": "To qualify for the affordable housing CGT discount, you must use your property to provide affordable housing for a minimum of 3 years (1,095 days) from the later of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "1 January 2018",
+        "the time you acquired it."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The 3-year period can be continuous or an aggregation over a longer period."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: working out the minimum 3-year period"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lisa is an Australian resident. She:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "buys an apartment on 15 August 2020",
+        "leaves it vacant to make repairs until 1 December 2020 (109 days)",
+        "rents it out through a CHP as affordable housing from 2 December 2020 to 20 August 2022 (627 days)",
+        "rents it out through a real estate property manager at market rates (that is, not providing affordable housing) from 21 August 2022 to 31 August 2023 (376 days)",
+        "rents it out through a CHP as affordable housing from 1 September 2023 to 15 January 2025 (503 days)",
+        "vacates the apartment and prepares it for sale from 16 January 2025 to 13 March 2025 (57 days)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Lisa signs a contract to sell the apartment on 13 March 2025. She makes a capital gain of $100,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lisa has:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "held the apartment for a total of 1,672 days",
+        "used the apartment to provide affordable housing for 1,130 days",
+        "received an annual affordable housing certificate from her CHP, and met the other affordable housing requirements"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Lisa is eligible for the affordable housing CGT discount because she has used the apartment to provide affordable housing for more than 1,095 days in total since 1 January 2018."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Property used to provide affordable housing before you acquire it"
+    },
+    {
+      "type": "paragraph",
+      "text": "When working out if your property qualifies for the affordable housing CGT discount, you only count the period you owned it."
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot count any period a previous owner used the property to provide affordable housing."
+    },
+    {
+      "type": "paragraph",
+      "text": "This applies whether you acquired the property by:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "buying it",
+        "inheriting it",
+        "receiving it as a rollover from your former spouse after a relationship breakdown."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Calculating your affordable housing CGT discount"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you qualify for the CGT discount of 50%, you can reduce your CGT by another 10% for the period you used the property to provide affordable housing."
+    },
+    {
+      "type": "paragraph",
+      "text": "The 10% affordable housing discount is pro-rated (reduced proportionately) if you either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "did not use the property for affordable housing for the entire period you owned it",
+        "were a foreign or temporary resident for part of the time you owned the property."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Australian residents work out their affordable housing discount percentage as follows:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "10% × (affordable housing days ÷ total ownership days)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In this equation:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "affordable housing days is the number of days you used the property to provide affordable housing (on or after 1 January 2018) during the time you owned it",
+        "total ownership days is the number of days you owned the property, from the time you acquired it until a CGT event occurs (such as signing a contract to sell it)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: affordable housing discount percentage"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the previous example Lisa owned an apartment, for which she had:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "1,130 affordable housing days",
+        "1,672 total ownership days."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Her affordable housing CGT discount percentage is:"
+    },
+    {
+      "type": "paragraph",
+      "text": "10% × (1,130 ÷ 1,672) = 6.76%."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lisa's total discount on her capital gain is the sum of the general CGT discount (50%) and her affordable housing CGT discount percentage:"
+    },
+    {
+      "type": "paragraph",
+      "text": "50% + 6.75% = 56.76%"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lisa had a capital gain of $100,000 when she sold the apartment. She has no other capital gains or capital losses."
+    },
+    {
+      "type": "paragraph",
+      "text": "She can reduce her capital gain by her total discount percentage:"
+    },
+    {
+      "type": "paragraph",
+      "text": "capital gain × (1 − discount percentage)"
+    },
+    {
+      "type": "paragraph",
+      "text": "$100,000 × (1 − 56.76%) = $43,240."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lisa reports a net capital gain of $43,240 in her tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Foreign or temporary residency"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a period of foreign or temporary residency during your ownership of the property, you are generally not entitled to the full 50% CGT discount (see CGT discount for foreign residents )."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, you may be entitled to a CGT discount of less than 50%. Your affordable housing discount percentage is reduced in proportion to the general CGT discount you are entitled to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "(CGT discount percentage ÷ 5) × (affordable housing days ÷ total ownership days)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition, you don't count the period that you were a foreign or temporary resident when you work out the amount of your affordable housing CGT discount."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: affordable housing discount with a period of foreign or temporary residency"
+    },
+    {
+      "type": "paragraph",
+      "text": "Klaus, an Australian resident, buys a house on 1 January 2017. He:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "rents the house out from 1 January 2017 to 31 December 2019 (1,095 days)",
+        "uses it to provide affordable housing from 1 January 2020 to 30 June 2025 (2,008 days)",
+        "moves to the USA on 1 July 2024, becoming a foreign resident for tax purposes",
+        "sells the house on 30 June 2025, making a capital gain of $200,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This means Klaus owns the house for a total of 3,103 days. During this period he is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an Australian resident for 2,738 days (1 January 2017 to 30 June 2024)",
+        "a foreign resident for 365 days."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Klaus does not have any other capital gains or capital losses."
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out his net capital gain for the 2024–25 income year, Klaus first calculates his CGT discount percentage:"
+    },
+    {
+      "type": "paragraph",
+      "text": "50% × (Australian resident days ÷ total ownership days)"
+    },
+    {
+      "type": "paragraph",
+      "text": "50% × (2,738 ÷ 3,103) = 44.11%"
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out if he has met the qualifying requirement of at least 1,095 affordable housing days, he offered the house for affordable housing for 2,008 days."
+    },
+    {
+      "type": "paragraph",
+      "text": "Klaus has met the minimum affordable housing days requirement."
+    },
+    {
+      "type": "paragraph",
+      "text": "He then calculates his affordable housing CGT discount percentage:"
+    },
+    {
+      "type": "paragraph",
+      "text": "(CGT discount percentage ÷ 5) × (affordable housing days less foreign or temporary residency days) ÷ (total ownership days less foreign or temporary residency days)"
+    },
+    {
+      "type": "paragraph",
+      "text": "(44.11% ÷ 5) × (2,008 − 365) ÷ (3,103 − 365)"
+    },
+    {
+      "type": "paragraph",
+      "text": "= 8.822% × 1,643 ÷ 2,738"
+    },
+    {
+      "type": "paragraph",
+      "text": "= 5.29%."
+    },
+    {
+      "type": "paragraph",
+      "text": "Klaus's total discount on his capital gain is the sum of his CGT discount percentage and his affordable housing discount percentage:"
+    },
+    {
+      "type": "paragraph",
+      "text": "44.11% + 5.29% = 49.4%"
+    },
+    {
+      "type": "paragraph",
+      "text": "He can reduce his capital gain by his total discount percentage:"
+    },
+    {
+      "type": "paragraph",
+      "text": "capital gain × (1 − discount percentage)"
+    },
+    {
+      "type": "paragraph",
+      "text": "$200,000 × (1 − 49.4%) = $101,200"
+    },
+    {
+      "type": "paragraph",
+      "text": "Klaus reports a net capital gain of $101,200 in his tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Engaging a community housing provider"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your property must be managed by a registered community housing provider (CHP) to qualify for the affordable housing CGT discount. Your CHP must be registered under either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a law of the Commonwealth or a state or territory",
+        "an Australian government agency."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A CHP provides rental housing at below-market rates to tenants who earn low to moderate incomes."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can find a CHP using:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the National Provider Register Opens in a new window",
+        "the Victorian Housing Register Opens in a new window",
+        "the West Australian list of Registered providers Opens in a new window"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The registered CHP's reporting obligations include sending you an annual affordable housing certificate confirming that your property qualifies as affordable housing."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you engage a CHP that isn't registered to manage your investment property, you're not eligible to claim the CGT affordable housing discount."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Affordable housing certificates"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you own a property that is used to provide affordable housing, your registered CHP will send you an annual affordable housing certificate."
+    },
+    {
+      "type": "paragraph",
+      "text": "The CHP will issue your certificate on or before 31 July immediately following the relevant income year. For example, a certificate covering the 2024–25 income year will be issued by your CHP on or before 31 July 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your certificate will:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "show the number of days your property was used to provide affordable housing during the income year",
+        "state that your property met the residential premises and property management conditions for affordable housing."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep a record of your affordable housing certificates. You will need them to work out:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your eligibility for the affordable housing CGT discount",
+        "the discount percentage you can claim on any capital gain you make when you sell the property."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you invested in the property through a trust, MIT or partnership, the CHP will send the certificate to that entity."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Investing in affordable housing through a trust"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can invest in affordable housing through a trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "Only you, as an individual investor, can claim the additional affordable housing CGT discount. The trust cannot claim this discount."
+    },
+    {
+      "type": "paragraph",
+      "text": "For you to qualify for the affordable housing CGT discount:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the trust can be a managed investment trust (MIT), but not a public unit trust or super fund",
+        "the trust must be entitled to the general CGT discount on the capital gain on the property, either in full or part."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The capital gain can be distributed or attributed to you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "directly from the trust or MIT",
+        "indirectly from the trust or MIT through an interposed partnership, MIT or other trust, but not through a public unit trust or super fund."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When you receive the capital gain distribution, the trust, MIT or partnership will send you the information you need to work out your affordable housing discount percentage and net capital gain amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "This information includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "number of days the property was used to provide affordable housing (the trust, MIT or partnership will have this information from the affordable housing certificates they received from the CHP)",
+        "total ownership days of the rental property."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were a foreign or temporary resident at any time during the investment period, you will also need to know the dates the property was used for affordable housing."
+    }
+  ],
+  "content_text": "## Eligibility for the extra discount\nWhen you sell a property, you can reduce your CGT by an extra 10% for any period that you used it to provide affordable housing . This is the affordable housing CGT discount and is in addition to the 50% CGT discount.\nTo be eligible to claim the extra discount, you must meet all of the following conditions:\n- you are eligible for the 50% CGT discount on the property (in whole or part)\n- you used your property to provide affordable housing for a minimum of 3 years (1,095 days) since 1 January 2018\n- your property rental was managed by a registered community housing provider (CHP)\n- the capital gain was made by you as an individual, or distributed or attributed to you either directly from a trust or managed investment trust (MIT) indirectly from a trust through an interposed partnership, MIT or other trust (this does not include public unit trusts or super funds)\n- you (or the trust you invested in) have an affordable housing certificate from the CHP for each income year for which you are claiming the discount\n- no entity that has an ownership interest in the property received an incentive from the National Rental Affordability Scheme (NRAS) for the NRAS year\n- if an MIT has an ownership interest in the property, the tenant and their associates do not have an interest of more than 10% of the MIT.\nYou're not eligible to claim the additional CGT discount for affordable housing if you invest through an entity that's not a trust, MIT or partnership. For example, if you invest through a company.\nOther entities, for example Local Government Authorities (such as a council) that own properties used for affordable housing and are managed through a registered CHP, aren't eligible to claim the additional discount.\n### Affordable housing requirements\nYour CHP will send you an annual affordable housing certificate confirming your property qualifies as affordable housing.\nYour property must satisfy the following conditions:\n- It must be fixed domestic residential premises, such as a house, unit or apartment. Caravans, mobile homes and houseboats do not qualify. Commercial residential premises do not qualify.\n- It must be rented, or genuinely available for rent, at below-market rates to eligible tenants on low to moderate incomes.\n- Rentals must be managed exclusively by a registered CHP .\n### Working out the minimum 3-year period\nTo qualify for the affordable housing CGT discount, you must use your property to provide affordable housing for a minimum of 3 years (1,095 days) from the later of:\n- 1 January 2018\n- the time you acquired it.\nThe 3-year period can be continuous or an aggregation over a longer period.\n#### Example: working out the minimum 3-year period\nLisa is an Australian resident. She:\n- buys an apartment on 15 August 2020\n- leaves it vacant to make repairs until 1 December 2020 (109 days)\n- rents it out through a CHP as affordable housing from 2 December 2020 to 20 August 2022 (627 days)\n- rents it out through a real estate property manager at market rates (that is, not providing affordable housing) from 21 August 2022 to 31 August 2023 (376 days)\n- rents it out through a CHP as affordable housing from 1 September 2023 to 15 January 2025 (503 days)\n- vacates the apartment and prepares it for sale from 16 January 2025 to 13 March 2025 (57 days).\nLisa signs a contract to sell the apartment on 13 March 2025. She makes a capital gain of $100,000.\nLisa has:\n- held the apartment for a total of 1,672 days\n- used the apartment to provide affordable housing for 1,130 days\n- received an annual affordable housing certificate from her CHP, and met the other affordable housing requirements\nLisa is eligible for the affordable housing CGT discount because she has used the apartment to provide affordable housing for more than 1,095 days in total since 1 January 2018.\n#### Property used to provide affordable housing before you acquire it\nWhen working out if your property qualifies for the affordable housing CGT discount, you only count the period you owned it.\nYou cannot count any period a previous owner used the property to provide affordable housing.\nThis applies whether you acquired the property by:\n- buying it\n- inheriting it\n- receiving it as a rollover from your former spouse after a relationship breakdown.\n## Calculating your affordable housing CGT discount\nIf you qualify for the CGT discount of 50%, you can reduce your CGT by another 10% for the period you used the property to provide affordable housing.\nThe 10% affordable housing discount is pro-rated (reduced proportionately) if you either:\n- did not use the property for affordable housing for the entire period you owned it\n- were a foreign or temporary resident for part of the time you owned the property.\nAustralian residents work out their affordable housing discount percentage as follows:\n- 10% × (affordable housing days ÷ total ownership days).\nIn this equation:\n- affordable housing days is the number of days you used the property to provide affordable housing (on or after 1 January 2018) during the time you owned it\n- total ownership days is the number of days you owned the property, from the time you acquired it until a CGT event occurs (such as signing a contract to sell it).\n### Example: affordable housing discount percentage\nIn the previous example Lisa owned an apartment, for which she had:\n- 1,130 affordable housing days\n- 1,672 total ownership days.\nHer affordable housing CGT discount percentage is:\n10% × (1,130 ÷ 1,672) = 6.76%.\nLisa's total discount on her capital gain is the sum of the general CGT discount (50%) and her affordable housing CGT discount percentage:\n50% + 6.75% = 56.76%\nLisa had a capital gain of $100,000 when she sold the apartment. She has no other capital gains or capital losses.\nShe can reduce her capital gain by her total discount percentage:\ncapital gain × (1 − discount percentage)\n$100,000 × (1 − 56.76%) = $43,240.\nLisa reports a net capital gain of $43,240 in her tax return.\n### Foreign or temporary residency\nIf you had a period of foreign or temporary residency during your ownership of the property, you are generally not entitled to the full 50% CGT discount (see CGT discount for foreign residents ).\nHowever, you may be entitled to a CGT discount of less than 50%. Your affordable housing discount percentage is reduced in proportion to the general CGT discount you are entitled to:\n- (CGT discount percentage ÷ 5) × (affordable housing days ÷ total ownership days).\nIn addition, you don't count the period that you were a foreign or temporary resident when you work out the amount of your affordable housing CGT discount.\n#### Example: affordable housing discount with a period of foreign or temporary residency\nKlaus, an Australian resident, buys a house on 1 January 2017. He:\n- rents the house out from 1 January 2017 to 31 December 2019 (1,095 days)\n- uses it to provide affordable housing from 1 January 2020 to 30 June 2025 (2,008 days)\n- moves to the USA on 1 July 2024, becoming a foreign resident for tax purposes\n- sells the house on 30 June 2025, making a capital gain of $200,000.\nThis means Klaus owns the house for a total of 3,103 days. During this period he is:\n- an Australian resident for 2,738 days (1 January 2017 to 30 June 2024)\n- a foreign resident for 365 days.\nKlaus does not have any other capital gains or capital losses.\nTo work out his net capital gain for the 2024–25 income year, Klaus first calculates his CGT discount percentage:\n50% × (Australian resident days ÷ total ownership days)\n50% × (2,738 ÷ 3,103) = 44.11%\nTo work out if he has met the qualifying requirement of at least 1,095 affordable housing days, he offered the house for affordable housing for 2,008 days.\nKlaus has met the minimum affordable housing days requirement.\nHe then calculates his affordable housing CGT discount percentage:\n(CGT discount percentage ÷ 5) × (affordable housing days less foreign or temporary residency days) ÷ (total ownership days less foreign or temporary residency days)\n(44.11% ÷ 5) × (2,008 − 365) ÷ (3,103 − 365)\n= 8.822% × 1,643 ÷ 2,738\n= 5.29%.\nKlaus's total discount on his capital gain is the sum of his CGT discount percentage and his affordable housing discount percentage:\n44.11% + 5.29% = 49.4%\nHe can reduce his capital gain by his total discount percentage:\ncapital gain × (1 − discount percentage)\n$200,000 × (1 − 49.4%) = $101,200\nKlaus reports a net capital gain of $101,200 in his tax return.\n## Engaging a community housing provider\nYour property must be managed by a registered community housing provider (CHP) to qualify for the affordable housing CGT discount. Your CHP must be registered under either:\n- a law of the Commonwealth or a state or territory\n- an Australian government agency.\nA CHP provides rental housing at below-market rates to tenants who earn low to moderate incomes.\nYou can find a CHP using:\n- the National Provider Register Opens in a new window\n- the Victorian Housing Register Opens in a new window\n- the West Australian list of Registered providers Opens in a new window\nThe registered CHP's reporting obligations include sending you an annual affordable housing certificate confirming that your property qualifies as affordable housing.\nIf you engage a CHP that isn't registered to manage your investment property, you're not eligible to claim the CGT affordable housing discount.\n## Affordable housing certificates\nWhen you own a property that is used to provide affordable housing, your registered CHP will send you an annual affordable housing certificate.\nThe CHP will issue your certificate on or before 31 July immediately following the relevant income year. For example, a certificate covering the 2024–25 income year will be issued by your CHP on or before 31 July 2025.\nYour certificate will:\n- show the number of days your property was used to provide affordable housing during the income year\n- state that your property met the residential premises and property management conditions for affordable housing.\nKeep a record of your affordable housing certificates. You will need them to work out:\n- your eligibility for the affordable housing CGT discount\n- the discount percentage you can claim on any capital gain you make when you sell the property.\nIf you invested in the property through a trust, MIT or partnership, the CHP will send the certificate to that entity.\n## Investing in affordable housing through a trust\nYou can invest in affordable housing through a trust.\nOnly you, as an individual investor, can claim the additional affordable housing CGT discount. The trust cannot claim this discount.\nFor you to qualify for the affordable housing CGT discount:\n- the trust can be a managed investment trust (MIT), but not a public unit trust or super fund\n- the trust must be entitled to the general CGT discount on the capital gain on the property, either in full or part.\nThe capital gain can be distributed or attributed to you:\n- directly from the trust or MIT\n- indirectly from the trust or MIT through an interposed partnership, MIT or other trust, but not through a public unit trust or super fund.\nWhen you receive the capital gain distribution, the trust, MIT or partnership will send you the information you need to work out your affordable housing discount percentage and net capital gain amount.\nThis information includes:\n- number of days the property was used to provide affordable housing (the trust, MIT or partnership will have this information from the affordable housing certificates they received from the CHP)\n- total ownership days of the rental property.\nIf you were a foreign or temporary resident at any time during the investment period, you will also need to know the dates the property was used for affordable housing.",
+  "child_links": [
+    {
+      "title": "Community housing providers: reporting for affordable housing",
+      "description": "Find out what reports and certificates community housing providers (CHPs) must provide each year.",
+      "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/capital-gains-tax/property-and-capital-gains-tax/cgt-discount-for-affordable-housing/community-housing-providers-reporting-for-affordable-housing"
+    },
+    {
+      "title": "Trusts, MITs and partnerships: reporting for affordable housing",
+      "description": "Find out what information your investors need if your trust or partnership sells a property used for affordable housing.",
+      "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/capital-gains-tax/property-and-capital-gains-tax/cgt-discount-for-affordable-housing/trusts-mits-and-partnerships-reporting-for-affordable-housing"
+    }
+  ],
+  "word_count": 2017,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

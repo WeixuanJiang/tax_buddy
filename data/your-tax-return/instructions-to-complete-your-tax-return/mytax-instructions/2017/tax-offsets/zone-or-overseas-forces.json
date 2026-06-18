@@ -1,0 +1,215 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2017/tax-offsets/zone-or-overseas-forces",
+  "title": "myTax 2017 Zone or overseas forces",
+  "description": "How to determine your entitlement to a zone or overseas forces tax offset in myTax.",
+  "nat_number": "",
+  "quick_code": "51043",
+  "date_updated": "2017-06-11T14:00:00Z",
+  "first_published": "",
+  "keywords": "myTax, e-tax, overseas, zone tax offset, online tax return, tax offset, zone, overseas forces, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "You may be able to claim this tax offset if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "lived in a remote or isolated area of Australia (not including an offshore oil or gas rig), or",
+        "served overseas as a member of the Australian Defence Force or a United Nations armed force."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you qualify for both a zone tax offset and an overseas forces tax offset, you can claim only one of them. Claim the one that gives you the higher tax offset."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Zone tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eligibility for the zone tax offset is based on your usual place of residence. If your usual place of residence was not in a zone, you are not eligible for the zone tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "The zone or overseas forces tax offset is made up of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a fixed amount, and",
+        "a base amount."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The fixed amount is a prescribed amount available to all people in the zone or overseas area eligible for the tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be able to include a base amount if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "maintained a child under 21 or full time student under 25, or",
+        "were entitled to claim the Invalid and invalid carer offset ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your fixed and base amounts are determined by your circumstances."
+    },
+    {
+      "type": "paragraph",
+      "text": "To qualify for the tax offset, your usual place of residence must have been in a remote area (not necessarily continuously) for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "183 days or more during 2016–17, or",
+        "183 days or more during the period 1 July 2015 to 30 June 2017 (including at least one day in 2016–17), and you did not claim a zone tax offset in your 2016 tax return."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your usual place of residence was in a zone for less than 183 days in 2016–17, you may still be able to claim a tax offset as long as your usual place of residence was in a zone for a continuous period of less than five years after 1 July 2011 and:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were unable to claim in the first year because you lived there less than 183 days, and",
+        "the total days you lived there in the first year and in 2016–17 is 183 or more. The period you lived in a zone in 2016–17 must include the first day of the income year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Remote areas are classed as either zone A or zone B. There are also special areas within these zones. If you do not know which zone your area is in, see Australian zone list ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Overseas forces tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be eligible for an overseas forces tax offset if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you served in a specified overseas locality as a member of the Australian Defence Force or a United Nations armed force in 2016–17, and",
+        "income relating to that service was not specifically exempt from tax."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Periods of service for which your income was ‘exempt foreign employment income’ are excluded in working out your eligibility for the tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your employer will be able to advise you whether you served in a locality that qualifies, you can also see Overseas forces tax offset ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your overseas service was less than 183 days, you may be able to claim part of the tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "To claim the full overseas forces tax offset:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you must have served in the overseas locality for 183 days or more in 2016–17, or",
+        "the total number of days served in the overseas locality, when added to the number of days served in one or more zones, must be 183 days or more."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you served as a member of the Australian Defence Force, days spent in a zone must be defence force service."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Your tax offset is the amount in the table below if: your usual place of residence was in only one zone or you served in only one specified overseas locality for at least 183 days, and you are not able to include a base amount as you were not entitled to claim the invalid and invalid carer tax offset, and you either did not have a dependent child or student at any time in 2016–17 or if you did have a dependent child or student, their adjusted taxable income (ATI) was equal to or greater than $282 plus $28.92 for each week you maintained them."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Your circumstances",
+          "Zone A",
+          "Zone B",
+          "Special area",
+          "Overseas forces"
+        ],
+        [
+          "You were able to claim the fixed amount only (you were not able to include a base amount)",
+          "$338",
+          "$57",
+          "$1,173",
+          "$338"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do the circumstances in step 1 apply to you?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "You must use the Zone or overseas forces tax offset calculator This link opens in a new window to work out your tax offset, and then go to step 3."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "If you are claiming an overseas forces tax offset, go to step 3."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a remote area allowance from Centrelink or the Department of Veterans’ Affairs you must reduce the amount of your zone tax offset by the amount you received for this allowance."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Enter the amount of your tax offset.",
+        "Select Save and continue when you have completed the Offsets section."
+      ]
+    }
+  ],
+  "content_text": "You may be able to claim this tax offset if you:\n- lived in a remote or isolated area of Australia (not including an offshore oil or gas rig), or\n- served overseas as a member of the Australian Defence Force or a United Nations armed force.\nIf you qualify for both a zone tax offset and an overseas forces tax offset, you can claim only one of them. Claim the one that gives you the higher tax offset.\n## Zone tax offset\nEligibility for the zone tax offset is based on your usual place of residence. If your usual place of residence was not in a zone, you are not eligible for the zone tax offset.\nThe zone or overseas forces tax offset is made up of:\n- a fixed amount, and\n- a base amount.\nThe fixed amount is a prescribed amount available to all people in the zone or overseas area eligible for the tax offset.\nYou may be able to include a base amount if you:\n- maintained a child under 21 or full time student under 25, or\n- were entitled to claim the Invalid and invalid carer offset .\nYour fixed and base amounts are determined by your circumstances.\nTo qualify for the tax offset, your usual place of residence must have been in a remote area (not necessarily continuously) for:\n- 183 days or more during 2016–17, or\n- 183 days or more during the period 1 July 2015 to 30 June 2017 (including at least one day in 2016–17), and you did not claim a zone tax offset in your 2016 tax return.\nIf your usual place of residence was in a zone for less than 183 days in 2016–17, you may still be able to claim a tax offset as long as your usual place of residence was in a zone for a continuous period of less than five years after 1 July 2011 and:\n- you were unable to claim in the first year because you lived there less than 183 days, and\n- the total days you lived there in the first year and in 2016–17 is 183 or more. The period you lived in a zone in 2016–17 must include the first day of the income year.\nRemote areas are classed as either zone A or zone B. There are also special areas within these zones. If you do not know which zone your area is in, see Australian zone list .\n## Overseas forces tax offset\nYou may be eligible for an overseas forces tax offset if:\n- you served in a specified overseas locality as a member of the Australian Defence Force or a United Nations armed force in 2016–17, and\n- income relating to that service was not specifically exempt from tax.\nPeriods of service for which your income was ‘exempt foreign employment income’ are excluded in working out your eligibility for the tax offset.\nYour employer will be able to advise you whether you served in a locality that qualifies, you can also see Overseas forces tax offset .\nIf your overseas service was less than 183 days, you may be able to claim part of the tax offset.\nTo claim the full overseas forces tax offset:\n- you must have served in the overseas locality for 183 days or more in 2016–17, or\n- the total number of days served in the overseas locality, when added to the number of days served in one or more zones, must be 183 days or more.\nIf you served as a member of the Australian Defence Force, days spent in a zone must be defence force service.\n## Completing this section\n- Your tax offset is the amount in the table below if: your usual place of residence was in only one zone or you served in only one specified overseas locality for at least 183 days, and you are not able to include a base amount as you were not entitled to claim the invalid and invalid carer tax offset, and you either did not have a dependent child or student at any time in 2016–17 or if you did have a dependent child or student, their adjusted taxable income (ATI) was equal to or greater than $282 plus $28.92 for each week you maintained them.\nYour circumstances | Zone A | Zone B | Special area | Overseas forces\nYou were able to claim the fixed amount only (you were not able to include a base amount) | $338 | $57 | $1,173 | $338\nDo the circumstances in step 1 apply to you?\nNo | You must use the Zone or overseas forces tax offset calculator This link opens in a new window to work out your tax offset, and then go to step 3.\nYes | Read on.\n- If you are claiming an overseas forces tax offset, go to step 3.\nIf you received a remote area allowance from Centrelink or the Department of Veterans’ Affairs you must reduce the amount of your zone tax offset by the amount you received for this allowance.\n- Enter the amount of your tax offset.\n- Select Save and continue when you have completed the Offsets section.",
+  "child_links": [],
+  "word_count": 873,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

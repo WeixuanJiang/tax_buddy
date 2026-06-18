@@ -1,0 +1,372 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/supporting-documents-for-my-tax/mytax-lump-sum-payments-in-arrears",
+  "title": "myTax Lump sum payments in arrears",
+  "description": "How to report your lump sum payment in arrears breakdown when lodging your tax return using myTax.",
+  "nat_number": "",
+  "quick_code": "104980",
+  "date_updated": "2026-05-18T14:00:00Z",
+  "first_published": "",
+  "keywords": "myTax, 2026, Estimate, lodged, changes that may affect your estimate",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lump sum payment in arrears (LSPIA) amounts are for certain types of income you accrue or is payable to you in a prior income year, that you receive in the current income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll need to include any LSPIA amount you receive in your tax return in the income year you receive the payment. Don’t amend prior year tax returns to report the amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll also need to provide a breakdown of the payment into each income year. We'll use the information to address any additional tax or Medicare levy amounts resulting from the LSPIA and work out if you're eligible for concessions ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Get your LSPIA breakdown"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can find a breakdown of your LSPIA on your income statement , payment summary or by contacting your payer."
+    },
+    {
+      "type": "paragraph",
+      "text": "The breakdown should include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "each recent income year the payment relates to",
+        "the amount for each recent income year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to enter the LSPIA breakdown in myTax at Lump sum payment in arrears (LSPIA) additional information ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Income statement"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your payer reports your income (including LSPIA) in an income statement, the LSPIA breakdown may be available in ATO Online."
+    },
+    {
+      "type": "paragraph",
+      "text": "To see if it's available in ATO Online, you'll need to leave myTax. Before you do, we recommend you select the Save and exit button within myTax. This will save your work and return you to the ATO Online home page."
+    },
+    {
+      "type": "paragraph",
+      "text": "From the ATO Online home page:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "select Employment",
+        "select Income statements",
+        "expand the income statement record that contains your LSPIA",
+        "under the heading Lump sum amounts , note the following information for up to the 5 most recent income years (the payment years may not display in order) Lump sum payment E Lump sum E financial year ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you believe any information is missing or incorrect, contact the payer."
+    },
+    {
+      "type": "paragraph",
+      "text": "To return to myTax:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "select the Home button in ATO Online",
+        "in the For action section, select Prepare or Resume for the income year you're lodging",
+        "select Resume when you see the message 'It appears that you have some data saved from a previous session. Would you like to resume this session?'",
+        "navigate to and expand (if necessary), the record containing the LSPIA amount",
+        "Enter the LSPIA breakdown in myTax at Lump sum payment in arrears (LSPIA) additional information ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "LSPIA breakdown years more than 10 years ago?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Are the 2 most recent income years of your LSPIA breakdown more than 10 years before the tax return you're lodging?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If they are, you can't lodge your tax return using myTax as it only captures breakdown information for the 10 most recent income years. For instructions on how to lodge a paper tax return, see Lodge a paper tax return ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: unable to lodge using myTax"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bec receives a $2,400 payment from a payer on 19 March 2026, for back pay from income years 2014 and 2015."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bec needs to include the back pay in her tax return for 2026, the income year she receives the payment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bec's payer provides her a breakdown of the LSPIA amounts, that shows:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$1,400 in 2015",
+        "$1,000 in 2014."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bec can't lodge her tax return using myTax as the most recent income year the back pay relates to is 2015. This is more than 10 years before the tax return for 2026."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bec lodges a paper tax return and follows the instructions at Q24 Other Income in the Individual supplementary tax return instructions 2026. Bec includes this back pay and provides the LSPIA breakdown in her paper tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Enter the LSPIA breakdown in myTax"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "When you show a LSPIA amount, myTax will present a Lump sum payment in arrears (LSPIA) additional information banner for the record.",
+        "Using the LSPIA breakdown you get from ATO Online or your payer, for the most recent income year: At Year , use the drop-down list to select the most recent income year the payment relates to. If you get your information from ATO Online, this list is at Lump sum E financial year as a single year. In myTax, you will need to select the income year. For example, if your lists shows 2025, select 2024–25 from the drop-down list in myTax. At Amount , enter the LSPIA amount for that most recent income year. If you get your information from ATO Online this is the Lump sum payment E . Select Save .",
+        "Does your LSPIA breakdown contain another income year? Yes – select Add and repeat step 2 for each income year in descending order. If your information shows more than 5 income years, only list the 5 most recent income years. No – go to step 4.",
+        "Select Save ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Examples – entering the LSPIA breakdown in myTax"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the following examples to help you work out how to enter the LSPIA breakdown in myTax."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Example 1 : reporting LSPIA additional information (up to 5 years).",
+        "Example 2 : reporting LSPIA additional information (more than 5 years)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example 1: reporting LSPIA additional information (up to 5 years)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Anthony receives a lump sum payment in arrears as back pay for salary and wages from his employer on 16 September 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "Anthony's income statement for 2025–26 in ATO Online at the end of the income year shows the information he needs to complete his tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "total lump sum payment in arrears of $6,800, which pre-fills in myTax at Lump sum E",
+        "a breakdown of the LSPIA amounts as they relate to recent income years $2,600 in 2024 $4,200 in 2023."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When preparing his tax return using myTax, below the Lump sum E amount, the Lump sum payment in arrears (LSPIA) additional information banner displays. This is where Anthony must enter the LSPIA breakdown."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the most recent income year (2024), at:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Year , he uses the drop-down list and selects 2023–24.",
+        "Amount , he enters 2600 and selects Save ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To add the other recent income year (2023), he selects the Add button, and at:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Year , he uses the drop-down list and selects 2022–23.",
+        "Amount , he enters 4200 and selects Save ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When we process Anthony's tax return, we use information in the tax return (including the LSPIA breakdown details) to work out if he is eligible to receive any concessions ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Return to: Enter the LSPIA breakdown in myTax ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example 2: reporting LSPIA additional information (more than 5 years)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jimmy receives a lump sum payment in arrears as back pay for salary and wages from his employer on 14 August 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jimmy's income statement for 2025–26 in ATO Online at the end of the income year shows the information he needs to complete his tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "total lump sum payment in arrears of $4,500, which pre-fills in myTax at Lump sum E",
+        "a breakdown of the LSPIA amounts as they relate to recent income years $500 in 2024 $1,200 in 2023 $1,000 in 2022 $800 in 2021 $600 in 2020 $400 in 2019."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When preparing his tax return using myTax, below the Lump sum E amount the Lump sum payment in arrears (LSPIA) additional information banner displays. This is where Jimmy must enter the LSPIA breakdown."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the most recent income year (2024), at:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Year , he uses the drop-down list and selects 2023–24.",
+        "Amount , he enters 500 and selects Save ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To add the next recent income year (2023), he selects the Add button, and at:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Year , he uses the drop-down list and selects 2022–23.",
+        "Amount , he enters 1200 and selects Save ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For the next recent income year (2022), he selects the Add button, and at:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Year , he uses the drop-down list and selects 2021–22.",
+        "Amount , he enters 1000 and selects Save ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To include the next recent income year (2021), he selects the Add button, and at:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Year , he uses the drop-down list and selects 2020–21.",
+        "Amount , he enters 800 and selects Save ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To insert the next recent income year (2020), he selects the Add button and:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "at Year , he uses the drop-down list and selects 2019–20.",
+        "at Amount , he enters 600 and selects Save ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Jimmy can't select the Add button to enter the remaining year (2019) as myTax displays a message ' You have reached the maximum number of records '."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jimmy only needs to list the 5 most recent income years."
+    },
+    {
+      "type": "paragraph",
+      "text": "When we process Jimmy's tax return, we use information in the tax return (including the LSPIA breakdown details) to work out if he is eligible to receive any concessions ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Return to: Enter the LSPIA breakdown in myTax ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Concessions"
+    },
+    {
+      "type": "paragraph",
+      "text": "A consequence of us assessing the LSPIA in the income year you receive it, is that you may pay more tax, Medicare levy and Medicare levy surcharge (MLS)."
+    },
+    {
+      "type": "paragraph",
+      "text": "To address this additional tax or Medicare levy amount, if you meet certain conditions and you correctly complete your tax return, we will consider you for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a LSPIA tax offset",
+        "an exemption from Medicare levy on the LSPIA amount – from 1 July 2024",
+        "a MLS tax offset."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll work out the amounts for you using the information you provide in your tax return. The calculations are complex and relate to each individuals' personal circumstances. The myTax estimate doesn't include the LSPIA tax offset, Medicare levy exemption or MLS tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information about these concessions and the payments that qualify, see Lump sum payment in arrears ."
+    }
+  ],
+  "content_text": "## Things to know\nLump sum payment in arrears (LSPIA) amounts are for certain types of income you accrue or is payable to you in a prior income year, that you receive in the current income year.\nYou'll need to include any LSPIA amount you receive in your tax return in the income year you receive the payment. Don’t amend prior year tax returns to report the amount.\nYou'll also need to provide a breakdown of the payment into each income year. We'll use the information to address any additional tax or Medicare levy amounts resulting from the LSPIA and work out if you're eligible for concessions .\n## Get your LSPIA breakdown\nYou can find a breakdown of your LSPIA on your income statement , payment summary or by contacting your payer.\nThe breakdown should include:\n- each recent income year the payment relates to\n- the amount for each recent income year.\nYou will need to enter the LSPIA breakdown in myTax at Lump sum payment in arrears (LSPIA) additional information .\n### Income statement\nIf your payer reports your income (including LSPIA) in an income statement, the LSPIA breakdown may be available in ATO Online.\nTo see if it's available in ATO Online, you'll need to leave myTax. Before you do, we recommend you select the Save and exit button within myTax. This will save your work and return you to the ATO Online home page.\nFrom the ATO Online home page:\n- select Employment\n- select Income statements\n- expand the income statement record that contains your LSPIA\n- under the heading Lump sum amounts , note the following information for up to the 5 most recent income years (the payment years may not display in order) Lump sum payment E Lump sum E financial year .\nIf you believe any information is missing or incorrect, contact the payer.\nTo return to myTax:\n- select the Home button in ATO Online\n- in the For action section, select Prepare or Resume for the income year you're lodging\n- select Resume when you see the message 'It appears that you have some data saved from a previous session. Would you like to resume this session?'\n- navigate to and expand (if necessary), the record containing the LSPIA amount\n- Enter the LSPIA breakdown in myTax at Lump sum payment in arrears (LSPIA) additional information .\n### LSPIA breakdown years more than 10 years ago?\nAre the 2 most recent income years of your LSPIA breakdown more than 10 years before the tax return you're lodging?\nIf they are, you can't lodge your tax return using myTax as it only captures breakdown information for the 10 most recent income years. For instructions on how to lodge a paper tax return, see Lodge a paper tax return .\n#### Example: unable to lodge using myTax\nBec receives a $2,400 payment from a payer on 19 March 2026, for back pay from income years 2014 and 2015.\nBec needs to include the back pay in her tax return for 2026, the income year she receives the payment.\nBec's payer provides her a breakdown of the LSPIA amounts, that shows:\n- $1,400 in 2015\n- $1,000 in 2014.\nBec can't lodge her tax return using myTax as the most recent income year the back pay relates to is 2015. This is more than 10 years before the tax return for 2026.\nBec lodges a paper tax return and follows the instructions at Q24 Other Income in the Individual supplementary tax return instructions 2026. Bec includes this back pay and provides the LSPIA breakdown in her paper tax return.\n## Enter the LSPIA breakdown in myTax\n- When you show a LSPIA amount, myTax will present a Lump sum payment in arrears (LSPIA) additional information banner for the record.\n- Using the LSPIA breakdown you get from ATO Online or your payer, for the most recent income year: At Year , use the drop-down list to select the most recent income year the payment relates to. If you get your information from ATO Online, this list is at Lump sum E financial year as a single year. In myTax, you will need to select the income year. For example, if your lists shows 2025, select 2024–25 from the drop-down list in myTax. At Amount , enter the LSPIA amount for that most recent income year. If you get your information from ATO Online this is the Lump sum payment E . Select Save .\n- Does your LSPIA breakdown contain another income year? Yes – select Add and repeat step 2 for each income year in descending order. If your information shows more than 5 income years, only list the 5 most recent income years. No – go to step 4.\n- Select Save .\n### Examples – entering the LSPIA breakdown in myTax\nUse the following examples to help you work out how to enter the LSPIA breakdown in myTax.\n- Example 1 : reporting LSPIA additional information (up to 5 years).\n- Example 2 : reporting LSPIA additional information (more than 5 years).\n#### Example 1: reporting LSPIA additional information (up to 5 years)\nAnthony receives a lump sum payment in arrears as back pay for salary and wages from his employer on 16 September 2025.\nAnthony's income statement for 2025–26 in ATO Online at the end of the income year shows the information he needs to complete his tax return:\n- total lump sum payment in arrears of $6,800, which pre-fills in myTax at Lump sum E\n- a breakdown of the LSPIA amounts as they relate to recent income years $2,600 in 2024 $4,200 in 2023.\nWhen preparing his tax return using myTax, below the Lump sum E amount, the Lump sum payment in arrears (LSPIA) additional information banner displays. This is where Anthony must enter the LSPIA breakdown.\nFor the most recent income year (2024), at:\n- Year , he uses the drop-down list and selects 2023–24.\n- Amount , he enters 2600 and selects Save .\nTo add the other recent income year (2023), he selects the Add button, and at:\n- Year , he uses the drop-down list and selects 2022–23.\n- Amount , he enters 4200 and selects Save .\nWhen we process Anthony's tax return, we use information in the tax return (including the LSPIA breakdown details) to work out if he is eligible to receive any concessions .\nReturn to: Enter the LSPIA breakdown in myTax .\n#### Example 2: reporting LSPIA additional information (more than 5 years)\nJimmy receives a lump sum payment in arrears as back pay for salary and wages from his employer on 14 August 2025.\nJimmy's income statement for 2025–26 in ATO Online at the end of the income year shows the information he needs to complete his tax return:\n- total lump sum payment in arrears of $4,500, which pre-fills in myTax at Lump sum E\n- a breakdown of the LSPIA amounts as they relate to recent income years $500 in 2024 $1,200 in 2023 $1,000 in 2022 $800 in 2021 $600 in 2020 $400 in 2019.\nWhen preparing his tax return using myTax, below the Lump sum E amount the Lump sum payment in arrears (LSPIA) additional information banner displays. This is where Jimmy must enter the LSPIA breakdown.\nFor the most recent income year (2024), at:\n- Year , he uses the drop-down list and selects 2023–24.\n- Amount , he enters 500 and selects Save .\nTo add the next recent income year (2023), he selects the Add button, and at:\n- Year , he uses the drop-down list and selects 2022–23.\n- Amount , he enters 1200 and selects Save .\nFor the next recent income year (2022), he selects the Add button, and at:\n- Year , he uses the drop-down list and selects 2021–22.\n- Amount , he enters 1000 and selects Save .\nTo include the next recent income year (2021), he selects the Add button, and at:\n- Year , he uses the drop-down list and selects 2020–21.\n- Amount , he enters 800 and selects Save .\nTo insert the next recent income year (2020), he selects the Add button and:\n- at Year , he uses the drop-down list and selects 2019–20.\n- at Amount , he enters 600 and selects Save .\nJimmy can't select the Add button to enter the remaining year (2019) as myTax displays a message ' You have reached the maximum number of records '.\nJimmy only needs to list the 5 most recent income years.\nWhen we process Jimmy's tax return, we use information in the tax return (including the LSPIA breakdown details) to work out if he is eligible to receive any concessions .\nReturn to: Enter the LSPIA breakdown in myTax .\n## Concessions\nA consequence of us assessing the LSPIA in the income year you receive it, is that you may pay more tax, Medicare levy and Medicare levy surcharge (MLS).\nTo address this additional tax or Medicare levy amount, if you meet certain conditions and you correctly complete your tax return, we will consider you for:\n- a LSPIA tax offset\n- an exemption from Medicare levy on the LSPIA amount – from 1 July 2024\n- a MLS tax offset.\nWe'll work out the amounts for you using the information you provide in your tax return. The calculations are complex and relate to each individuals' personal circumstances. The myTax estimate doesn't include the LSPIA tax offset, Medicare levy exemption or MLS tax offset.\nFor more information about these concessions and the payments that qualify, see Lump sum payment in arrears .",
+  "child_links": [],
+  "word_count": 1617,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,192 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/adjustments/medical-expenses",
+  "title": "myTax 2019 Total net medical expenses for disability aids, attendant care or aged care",
+  "description": "How to claim a tax offset in myTax for medical expenses such as disability aids or aged care.",
+  "nat_number": "",
+  "quick_code": "59127",
+  "date_updated": "2019-06-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "2019, offset, net medical expenses tax offset, tax offsets, medical expenses, myTax, e-tax, online tax return, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "You can only claim this offset if you had expenses that relate to disability aids, attendant care or aged care."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the final year this offset can be claimed. Legislation passed in 2014 abolishes this offset from 1 July 2019."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Essentials"
+    },
+    {
+      "type": "paragraph",
+      "text": "Disability aids are items of property manufactured as, or generally recognised to be, an aid to the functional capacity of a person with a disability but, generally, will not include ordinary household or commercial appliances."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attendant care expenses relate to services and care provided to a person with certain disabilities to assist with everyday living, such as the provision of personal assistance, home nursing, home maintenance, and domestic services to a person who is blind or permanently confined to bed or a wheelchair."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aged care expenses relate to services and accommodation provided by an approved aged care provider to a person who is a care recipient or continuing care recipient within the meaning of the Aged Care Act 1997 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Net expenses are your total eligible medical expenses less refunds from the National Disability Insurance Scheme (NDIS) and private health insurers which you, or someone else, received or are entitled to receive."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a reimbursement amount as part of a compensation payment, you do not have to reduce your eligible medical expenses, unless the amount was received from a government, public authority, society, association or fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eligible medical expenses do not include contributions to a private health insurer or travel or accommodation expenses associated with other categories of medical expenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "To learn more about eligible expenses and expenses which do not qualify , see More information ."
+    },
+    {
+      "type": "paragraph",
+      "text": "This tax offset is income tested. The percentage of net expenses you can claim is determined by your adjusted taxable income (ATI) and family status. To calculate your ATI, use the Income tests calculator This link opens in a new window ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Can you claim this offset?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the following tables to work out whether you can claim this tax offset. If you are entitled to claim, we will work out your tax offset for you using the information you provide in your tax return."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "ATI threshold",
+          "What can I claim?"
+        ],
+        [
+          "$90,000 or less",
+          "20% of net medical expenses over $2,377"
+        ],
+        [
+          "above $90,000",
+          "10% of net medical expenses over $5,609"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "ATI threshold",
+          "What can I claim?"
+        ],
+        [
+          "$180,000 or less (plus $1,500 for each dependent child after the first)",
+          "20% of net medical expenses over $2,377"
+        ],
+        [
+          "above $180,000 (plus $1,500 for each dependent child after the first)",
+          "10% of net medical expenses over $5,609"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "There is no upper limit on the amount you can claim."
+    },
+    {
+      "type": "paragraph",
+      "text": "When calculating your net eligible expenses you can only include an amount paid for your dependants who were Australian residents for tax purposes ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The disability aid, attendant care or aged care expenses must be for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you",
+        "your spouse , regardless of their income",
+        "your children who were under 21 years old (including your adopted children, stepchildren, ex-nuptial children and children of your spouse) regardless of their income",
+        "any other child under 21 years old whom you maintained , who was not a student, and whose ATI for the period you maintained them was less than for the first child under 21 years old the total of $282 plus $28.92 for each week you maintained them, or $1,786 if you maintained them for the whole year for any other child under 21 years old the total of $282 plus $21.70 for each week you maintained them, or $1,410 if you maintained them for the whole year",
+        "a student under 25 years old who is studying full time at school, college or university whom you maintained and whose ATI was less than the total of $282 plus $28.92 for each week you maintained them, or $1,786 if you maintained them for the whole year",
+        "an invalid or invalid carer if they meet the criteria and, you claimed in relation to them or could have claimed for them had your ATI or the combined ATI of you and your spouse not exceeded $100,000."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need details of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "expenses you paid that relate to disability aids, attendant care or aged care",
+        "refunds for these expenses which you or any other person has received, or are entitled to receive, from the National Disability Insurance Scheme (NDIS) or a private health insurer."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Work out your net medical expenses amount using Net medical expenses tax offset calculator This link opens in a new window , or the worksheet below.",
+        "Enter the amount of your net medical expenses into the Net medical expenses field. We will work out your tax offset for you based on your ATI and family status.",
+        "Select Save and continue when you have completed the Offsets section."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "Add up your disability aids, attendant care or aged care expenses.",
+          "$"
+        ],
+        [
+          "b",
+          "Add up the refunds for these expenses which you or any other person has received or are entitled to receive.",
+          "$"
+        ],
+        [
+          "c",
+          "Take row b away from row a . This is your net medical expenses amount.",
+          "$"
+        ]
+      ]
+    }
+  ],
+  "content_text": "You can only claim this offset if you had expenses that relate to disability aids, attendant care or aged care.\nThis is the final year this offset can be claimed. Legislation passed in 2014 abolishes this offset from 1 July 2019.\n## Essentials\nDisability aids are items of property manufactured as, or generally recognised to be, an aid to the functional capacity of a person with a disability but, generally, will not include ordinary household or commercial appliances.\nAttendant care expenses relate to services and care provided to a person with certain disabilities to assist with everyday living, such as the provision of personal assistance, home nursing, home maintenance, and domestic services to a person who is blind or permanently confined to bed or a wheelchair.\nAged care expenses relate to services and accommodation provided by an approved aged care provider to a person who is a care recipient or continuing care recipient within the meaning of the Aged Care Act 1997 .\nNet expenses are your total eligible medical expenses less refunds from the National Disability Insurance Scheme (NDIS) and private health insurers which you, or someone else, received or are entitled to receive.\nIf you received a reimbursement amount as part of a compensation payment, you do not have to reduce your eligible medical expenses, unless the amount was received from a government, public authority, society, association or fund.\nEligible medical expenses do not include contributions to a private health insurer or travel or accommodation expenses associated with other categories of medical expenses.\nTo learn more about eligible expenses and expenses which do not qualify , see More information .\nThis tax offset is income tested. The percentage of net expenses you can claim is determined by your adjusted taxable income (ATI) and family status. To calculate your ATI, use the Income tests calculator This link opens in a new window .\n### Can you claim this offset?\nUse the following tables to work out whether you can claim this tax offset. If you are entitled to claim, we will work out your tax offset for you using the information you provide in your tax return.\nATI threshold | What can I claim?\n$90,000 or less | 20% of net medical expenses over $2,377\nabove $90,000 | 10% of net medical expenses over $5,609\nATI threshold | What can I claim?\n$180,000 or less (plus $1,500 for each dependent child after the first) | 20% of net medical expenses over $2,377\nabove $180,000 (plus $1,500 for each dependent child after the first) | 10% of net medical expenses over $5,609\nThere is no upper limit on the amount you can claim.\nWhen calculating your net eligible expenses you can only include an amount paid for your dependants who were Australian residents for tax purposes .\nThe disability aid, attendant care or aged care expenses must be for:\n- you\n- your spouse , regardless of their income\n- your children who were under 21 years old (including your adopted children, stepchildren, ex-nuptial children and children of your spouse) regardless of their income\n- any other child under 21 years old whom you maintained , who was not a student, and whose ATI for the period you maintained them was less than for the first child under 21 years old the total of $282 plus $28.92 for each week you maintained them, or $1,786 if you maintained them for the whole year for any other child under 21 years old the total of $282 plus $21.70 for each week you maintained them, or $1,410 if you maintained them for the whole year\n- a student under 25 years old who is studying full time at school, college or university whom you maintained and whose ATI was less than the total of $282 plus $28.92 for each week you maintained them, or $1,786 if you maintained them for the whole year\n- an invalid or invalid carer if they meet the criteria and, you claimed in relation to them or could have claimed for them had your ATI or the combined ATI of you and your spouse not exceeded $100,000.\n## Completing this section\nYou will need details of:\n- expenses you paid that relate to disability aids, attendant care or aged care\n- refunds for these expenses which you or any other person has received, or are entitled to receive, from the National Disability Insurance Scheme (NDIS) or a private health insurer.\n- Work out your net medical expenses amount using Net medical expenses tax offset calculator This link opens in a new window , or the worksheet below.\n- Enter the amount of your net medical expenses into the Net medical expenses field. We will work out your tax offset for you based on your ATI and family status.\n- Select Save and continue when you have completed the Offsets section.\nRow | Calculation | Amount\na | Add up your disability aids, attendant care or aged care expenses. | $\nb | Add up the refunds for these expenses which you or any other person has received or are entitled to receive. | $\nc | Take row b away from row a . This is your net medical expenses amount. | $",
+  "child_links": [
+    {
+      "title": "More information",
+      "description": "Find out what medical expenses are eligible.",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/adjustments/medical-expenses/more-information"
+    },
+    {
+      "title": "Definitions",
+      "description": "Check definitions related to medical expenses.",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/adjustments/medical-expenses/definitions"
+    }
+  ],
+  "word_count": 876,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

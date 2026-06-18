@@ -1,0 +1,101 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2014/tax-return/tax-offset-questions-t1-t3/rebate-income-2014",
+  "title": "Rebate income 2014",
+  "description": "Work out your rebate income and if you're eligible for the seniors and pensioners tax offset at question T1.",
+  "nat_number": "71050",
+  "quick_code": "40129",
+  "date_updated": "2014-06-03T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, TaxPack, rebate income, rebate, income, senior Australians, tax offset",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "We work out what we call 'rebate income' to determine whether you are eligible for the Seniors and pensioners tax offset at T2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your rebate income is the total amount of your taxable income plus the following amounts if they apply to you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "adjusted fringe benefits (that is, the total reportable fringe benefits amounts multiplied by 0.535)",
+        "reportable employer superannuation contributions",
+        "deductible personal superannuation contributions",
+        "your net financial investment loss (that is, the amount by which your deductions attributable to financial investments exceeded your total financial investment income)",
+        "your net rental property loss (that is, the amount by which your deductions attributable to rental property exceeded your rental property income)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your rebate income, use the following worksheet."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 1"
+        ],
+        [
+          "Working out your rebate income"
+        ],
+        [
+          "Your taxable income (from TAXABLE INCOME OR LOSS on your tax return) If your taxable income is a loss, write 0 at (a).",
+          "$",
+          "(a)"
+        ],
+        [
+          "Your reportable employer superannuation contributions (from T item IT2 on your tax return)",
+          "$",
+          "(b)"
+        ],
+        [
+          "Your deductible personal superannuation contributions (from H item D12 on your tax return)",
+          "$",
+          "(c)"
+        ],
+        [
+          "Your net financial investment loss (from X item IT5 on your tax return)",
+          "$",
+          "(d)"
+        ],
+        [
+          "Your net rental property loss (from Y item IT6 on your tax return)",
+          "$",
+          "(e)"
+        ],
+        [
+          "Your adjusted fringe benefits Multiply the amount from W item IT1 on your tax return by 0.535. Round down to the nearest dollar.",
+          "$",
+          "(f)"
+        ],
+        [
+          "Add up all the amounts from (a) to (f). This is your rebate income.",
+          "$",
+          "(g)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "go to question T2 Seniors and pensioners (includes self-funded retirees)",
+        "return to main menu Individual tax return instructions",
+        "go back to question T1 Spouse (without dependent child or student) ."
+      ]
+    }
+  ],
+  "content_text": "We work out what we call 'rebate income' to determine whether you are eligible for the Seniors and pensioners tax offset at T2 .\nYour rebate income is the total amount of your taxable income plus the following amounts if they apply to you:\n- adjusted fringe benefits (that is, the total reportable fringe benefits amounts multiplied by 0.535)\n- reportable employer superannuation contributions\n- deductible personal superannuation contributions\n- your net financial investment loss (that is, the amount by which your deductions attributable to financial investments exceeded your total financial investment income)\n- your net rental property loss (that is, the amount by which your deductions attributable to rental property exceeded your rental property income).\nTo work out your rebate income, use the following worksheet.\nWorksheet 1\nWorking out your rebate income\nYour taxable income (from TAXABLE INCOME OR LOSS on your tax return) If your taxable income is a loss, write 0 at (a). | $ | (a)\nYour reportable employer superannuation contributions (from T item IT2 on your tax return) | $ | (b)\nYour deductible personal superannuation contributions (from H item D12 on your tax return) | $ | (c)\nYour net financial investment loss (from X item IT5 on your tax return) | $ | (d)\nYour net rental property loss (from Y item IT6 on your tax return) | $ | (e)\nYour adjusted fringe benefits Multiply the amount from W item IT1 on your tax return by 0.535. Round down to the nearest dollar. | $ | (f)\nAdd up all the amounts from (a) to (f). This is your rebate income. | $ | (g)\n## Where to go next\n- go to question T2 Seniors and pensioners (includes self-funded retirees)\n- return to main menu Individual tax return instructions\n- go back to question T1 Spouse (without dependent child or student) .",
+  "child_links": [],
+  "word_count": 311,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

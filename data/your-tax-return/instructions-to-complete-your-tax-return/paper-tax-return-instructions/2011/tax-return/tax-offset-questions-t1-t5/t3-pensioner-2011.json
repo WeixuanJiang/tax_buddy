@@ -1,0 +1,213 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2011/tax-return/tax-offset-questions-t1-t5/t3-pensioner-2011",
+  "title": "About question T3",
+  "description": "Provides information which will help you complete this question on your tax return.",
+  "nat_number": "976",
+  "quick_code": "25480",
+  "date_updated": "2011-06-28T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, pension, pensioner, pensioner tax offset, pensioner rebate",
+  "content_blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you show an Australian Government pension or allowance at item 6 on your tax return?"
+        ],
+        [
+          "No",
+          "go to question T4 Australian superannuation income stream , or return to main menu Tax return for individuals instructions ."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have already claimed a tax offset at item T2 , go to question T4 Australian superannuation income stream , because you cannot also claim this tax offset."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work out which of the following code letters applied to your circumstances. The code letter tells us how to work out the amount of your tax offset."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Pensioner tax offset code letters"
+        ],
+        [
+          "If, at any time during 2010-11, while you were receiving an Australian Government pension or allowance listed at question 6 from:"
+        ],
+        [
+          "",
+          "Centrelink",
+          "Veterans' Affairs"
+        ],
+        [
+          "you were single, widowed or separated, use",
+          "S",
+          "L"
+        ],
+        [
+          "you and your spouse lived together, use",
+          "P",
+          "M"
+        ],
+        [
+          "you and your spouse 'had to live apart due to illness' or you lived apart because one of you was in a nursing home, use",
+          "I",
+          "A"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If more than one code letter applies."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "If both P and I apply to you, use",
+          "I"
+        ],
+        [
+          "If S , P and I all apply to you, use",
+          "J"
+        ],
+        [
+          "If both S and I apply to you, use",
+          "J"
+        ],
+        [
+          "If both S and P apply to you, use",
+          "Q"
+        ],
+        [
+          "If both M and A apply to you, use",
+          "A"
+        ],
+        [
+          "If L , M and A all apply to you, use",
+          "K"
+        ],
+        [
+          "If both L and A apply to you, use",
+          "K"
+        ],
+        [
+          "If both L and M apply to you, use",
+          "R"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "'Had to live apart due to illness' refers to situations in which you were paid a pension at a higher rate because you and your spouse did not live together in your home due to illness. If you are not sure, check with Centrelink or the Department of Veterans' Affairs."
+    },
+    {
+      "type": "paragraph",
+      "text": "If only one code letter above applied, go to step 2."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print your pensioner tax offset code letter in the TAX OFFSET CODE box at O item T3 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "We will work out the amount of your tax offset."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you or your spouse were a veteran, war widow or war widower, you need to work out your veteran code . Select the code letter that applies to you."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Veteran code letters"
+        ],
+        [
+          "If you were a veteran, war widow or war widower, use",
+          "V"
+        ],
+        [
+          "If your spouse was a veteran, war widow or war widower, use",
+          "W"
+        ],
+        [
+          "If both V and W apply to you, use",
+          "X"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If a veteran code letter applies to you, print the code letter in the VETERAN CODE box at T item T3 . Otherwise, leave it blank."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your pensioner tax offset code letter was S or L , you must read Income tests and, where applicable, complete Income tests items IT1 , IT2 , IT5 and IT6 . Then go to question T4 Australian superannuation income stream ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your pensioner tax offset code letter was P , Q , I , J , M , R , A or K , you must read Income tests and, where applicable, complete Income tests items IT1 , IT2 , IT5 and IT6 . Then read and complete Spouse details - married or de facto on pages 9-11 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Any unused portion of tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are eligible for the pensioner tax offset and your spouse is eligible for either the senior Australians tax offset or pensioner tax offset, and one of you does not fully use your tax offset, the unused portion may be available for transfer to the other person. We will work this out automatically and transfer any entitlement."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question T4 Australian superannuation income stream return to main menu Tax return for individuals instructions , or go back to question T2 Senior Australians (includes age pensioners, service pensioners and self-funded retirees ."
+        ]
+      ]
+    }
+  ],
+  "content_text": "Did you show an Australian Government pension or allowance at item 6 on your tax return?\nNo | go to question T4 Australian superannuation income stream , or return to main menu Tax return for individuals instructions .\nYes | Read below.\nIf you have already claimed a tax offset at item T2 , go to question T4 Australian superannuation income stream , because you cannot also claim this tax offset.\n# Completing your tax return\n### Step 1\nWork out which of the following code letters applied to your circumstances. The code letter tells us how to work out the amount of your tax offset.\nPensioner tax offset code letters\nIf, at any time during 2010-11, while you were receiving an Australian Government pension or allowance listed at question 6 from:\n | Centrelink | Veterans' Affairs\nyou were single, widowed or separated, use | S | L\nyou and your spouse lived together, use | P | M\nyou and your spouse 'had to live apart due to illness' or you lived apart because one of you was in a nursing home, use | I | A\nIf more than one code letter applies.\nIf both P and I apply to you, use | I\nIf S , P and I all apply to you, use | J\nIf both S and I apply to you, use | J\nIf both S and P apply to you, use | Q\nIf both M and A apply to you, use | A\nIf L , M and A all apply to you, use | K\nIf both L and A apply to you, use | K\nIf both L and M apply to you, use | R\n'Had to live apart due to illness' refers to situations in which you were paid a pension at a higher rate because you and your spouse did not live together in your home due to illness. If you are not sure, check with Centrelink or the Department of Veterans' Affairs.\nIf only one code letter above applied, go to step 2.\n### Step 2\nPrint your pensioner tax offset code letter in the TAX OFFSET CODE box at O item T3 .\nWe will work out the amount of your tax offset.\n### Step 3\nIf you or your spouse were a veteran, war widow or war widower, you need to work out your veteran code . Select the code letter that applies to you.\nVeteran code letters\nIf you were a veteran, war widow or war widower, use | V\nIf your spouse was a veteran, war widow or war widower, use | W\nIf both V and W apply to you, use | X\nIf a veteran code letter applies to you, print the code letter in the VETERAN CODE box at T item T3 . Otherwise, leave it blank.\n### Step 4\nIf your pensioner tax offset code letter was S or L , you must read Income tests and, where applicable, complete Income tests items IT1 , IT2 , IT5 and IT6 . Then go to question T4 Australian superannuation income stream .\n### Step 5\nIf your pensioner tax offset code letter was P , Q , I , J , M , R , A or K , you must read Income tests and, where applicable, complete Income tests items IT1 , IT2 , IT5 and IT6 . Then read and complete Spouse details - married or de facto on pages 9-11 of your tax return.\n## Any unused portion of tax offset\nIf you are eligible for the pensioner tax offset and your spouse is eligible for either the senior Australians tax offset or pensioner tax offset, and one of you does not fully use your tax offset, the unused portion may be available for transfer to the other person. We will work this out automatically and transfer any entitlement.\nWhere to go next go to question T4 Australian superannuation income stream return to main menu Tax return for individuals instructions , or go back to question T2 Senior Australians (includes age pensioners, service pensioners and self-funded retirees .",
+  "child_links": [],
+  "word_count": 693,
+  "source_title": "About question T3 | Australian Taxation Office",
+  "source_description": "Provides information which will help you complete this question on your tax return.",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,378 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/capital-gains-tax/property-and-capital-gains-tax/cgt-discount-for-affordable-housing/community-housing-providers-reporting-for-affordable-housing",
+  "title": "Community housing providers reporting for affordable housing",
+  "description": "Find out what reports and certificates community housing providers (CHPs) must provide each year.",
+  "nat_number": "",
+  "quick_code": "66947",
+  "date_updated": "2025-06-22T14:00:00Z",
+  "first_published": "",
+  "keywords": "CGT discount, affordable housing, affordable housing discount, community housing providers, reporting, chp housing",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "CHP eligibility and regulation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Community housing providers (CHPs) provide rental housing to tenants who earn low to moderate incomes."
+    },
+    {
+      "type": "paragraph",
+      "text": "CHPs may own some properties and also manage properties on behalf of investors, institutions and state and territory governments."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purposes of the affordable housing discount on capital gains tax (CGT), an eligible CHP must be registered to provide community housing services under either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a law of the Commonwealth or a state or territory",
+        "an Australian government agency."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "CHPs are regulated under the National Regulatory System for Community Housing External Link . This is monitored and enforced by state-based community housing registrars."
+    },
+    {
+      "type": "paragraph",
+      "text": "The registered CHP itself does not have to perform all aspects of the management of the properties. It can subcontract out any or all of the property management responsibilities, provided it retains oversight of decisions. For example, the CHP could outsource scheduling and carrying out repairs and maintenance or advertising of vacant affordable housing properties for rent."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Issuing affordable housing certificates"
+    },
+    {
+      "type": "paragraph",
+      "text": "You only need to issue certificates to eligible investors."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a registered CHP, you must issue affordable housing certificates:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "annually, by 31 July immediately following the relevant income year",
+        "to each entity (including an individual, trust, managed investment trust (MIT), partnership, company or Local Government Authority such as a council) that has an ownership interest in an affordable housing property under your management",
+        "with all the required information ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can issue affordable housing certificates in electronic or paper format."
+    },
+    {
+      "type": "paragraph",
+      "text": "The investor needs the certificate to claim their affordable housing CGT discount."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Information to include in the certificate"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can create affordable housing certificates using either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "our Affordable housing certificate form (NAT 75348)",
+        "your own format, provided it includes the same information as our form."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your affordable housing certificates must include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "details of the owner of the property (the owner may be an individual investor, trust, MIT or partnership)",
+        "details of the property used to provide affordable housing",
+        "the number of days during the income year that the property was used or available for affordable housing",
+        "details of your CHP",
+        "a declaration confirming the status of the property and that it was exclusively managed by your CHP."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Issuing certificates for prior years"
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to issue certificates for all income years from 1 January 2018 in which properties under your management met the affordable housing conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the 2017–18 income year, a certificate is only required for the period 1 January 2018 to 30 June 2018."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the law for the affordable housing CGT discount did not pass until December 2019, there will be few properties requiring certificates for the 2017-18 to 2019-20 income years."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lodging your annual report"
+    },
+    {
+      "type": "paragraph",
+      "text": "For each income year that you issue affordable housing certificates, you must provide a CHP annual report to us."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your report:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "must be lodged by 31 July immediately following the income year",
+        "include details of all certificates you have issued for the income year, compiled in a CSV file",
+        "be lodged online ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The requirement to lodge a CHP annual report applies to the 2020–21 and later income years. You do not need to submit reports for the 2018–19 or 2019–20 income years."
+    },
+    {
+      "type": "paragraph",
+      "text": "For information on reporting for trusts, MITs and partnerships, see Trusts, MITs and partnerships: reporting for affordable housing ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Compiling your annual report"
+    },
+    {
+      "type": "paragraph",
+      "text": "Instructions to complete your CHP annual report."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "CSV file format"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your CHP annual report must be a comma-separated values (CSV) file. This is a text file that uses a comma to separate the values. Each line of the file is a data record."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can create a CSV file from various business software products, such as Microsoft Excel."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Information to include in your annual report"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following is a list of the information that you may need to include in your CHP annual report."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not all the information is mandatory. However, your report must have sufficient detail to identify the entities involved."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Intermediary details"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include the details of the entity lodging the annual report (this may be a CHP or their tax agent):"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Australian business number (ABN)",
+        "branch number",
+        "name",
+        "contact name",
+        "contact address",
+        "contact phone number",
+        "contact email address."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Provider and report details"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include the details of the CHP itself, and the report being lodged:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "ABN",
+        "name",
+        "contact name",
+        "contact phone number",
+        "address",
+        "email address",
+        "reporting period start date and end date",
+        "income year the report relates to",
+        "whether it is an original or replacement report",
+        "number of certificates issued during reporting period."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Investor details"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include the details of each investor that was issued with a certificate by the CHP (the investor may be an individual person, trust, partnership or MIT):"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "ABN",
+        "name",
+        "surname or family name",
+        "first name",
+        "date of birth",
+        "address",
+        "contact name",
+        "contact phone number",
+        "property managed by CHP ('Yes' or 'No')",
+        "number of days property used for affordable housing",
+        "property address",
+        "email address."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Declaration"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include a declaration that the report is true and correct with the following information:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "full name of signatory",
+        "signatory position",
+        "tax agent registration number (if lodged by tax agent)",
+        "contact phone number",
+        "declaration",
+        "date authorised."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Report template and examples"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following documents can help you complete your CHP annual report:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "blank report template – includes instructions to complete the report to avoid errors when lodging",
+        "completed report example – example reporting information has been added but the report hasn't been formatted for lodgment",
+        "report ready for lodgment example – the report has been formatted to remove instructions and headings and is ready for lodgment."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To use these documents:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "go to Supported files",
+        "find Community housing provider (CHP) annual report in the table and use the links to download the files."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on lodging your report, see file transfer ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need assistance to complete this report or have questions, you can email the Individuals new measures team at MEINewMeasures@ato.gov.au ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lodging online"
+    },
+    {
+      "type": "paragraph",
+      "text": "To lodge your CHP annual report:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "sign in to your CHP's account in Online services for business"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "select Lodgments , then File transfer (find out how to use file transfer )",
+        "attach and submit your CSV file ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Alternatively, your CHP's tax agent can lodge the report through Online services for agents."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lodgment deadline and extensions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your CHP annual report should be lodged by 31 July (or the next business day if this date falls on a weekend) immediately following the relevant income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need more time to lodge, phone us and provide the following information:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the CHP's name and ABN",
+        "the reasons for requesting an extension",
+        "the proposed new deadline for lodgment."
+      ]
+    }
+  ],
+  "content_text": "## CHP eligibility and regulation\nCommunity housing providers (CHPs) provide rental housing to tenants who earn low to moderate incomes.\nCHPs may own some properties and also manage properties on behalf of investors, institutions and state and territory governments.\nFor the purposes of the affordable housing discount on capital gains tax (CGT), an eligible CHP must be registered to provide community housing services under either:\n- a law of the Commonwealth or a state or territory\n- an Australian government agency.\nCHPs are regulated under the National Regulatory System for Community Housing External Link . This is monitored and enforced by state-based community housing registrars.\nThe registered CHP itself does not have to perform all aspects of the management of the properties. It can subcontract out any or all of the property management responsibilities, provided it retains oversight of decisions. For example, the CHP could outsource scheduling and carrying out repairs and maintenance or advertising of vacant affordable housing properties for rent.\n## Issuing affordable housing certificates\nYou only need to issue certificates to eligible investors.\nAs a registered CHP, you must issue affordable housing certificates:\n- annually, by 31 July immediately following the relevant income year\n- to each entity (including an individual, trust, managed investment trust (MIT), partnership, company or Local Government Authority such as a council) that has an ownership interest in an affordable housing property under your management\n- with all the required information .\nYou can issue affordable housing certificates in electronic or paper format.\nThe investor needs the certificate to claim their affordable housing CGT discount.\n### Information to include in the certificate\nYou can create affordable housing certificates using either:\n- our Affordable housing certificate form (NAT 75348)\n- your own format, provided it includes the same information as our form.\nYour affordable housing certificates must include:\n- details of the owner of the property (the owner may be an individual investor, trust, MIT or partnership)\n- details of the property used to provide affordable housing\n- the number of days during the income year that the property was used or available for affordable housing\n- details of your CHP\n- a declaration confirming the status of the property and that it was exclusively managed by your CHP.\n### Issuing certificates for prior years\nYou need to issue certificates for all income years from 1 January 2018 in which properties under your management met the affordable housing conditions.\nFor the 2017–18 income year, a certificate is only required for the period 1 January 2018 to 30 June 2018.\nAs the law for the affordable housing CGT discount did not pass until December 2019, there will be few properties requiring certificates for the 2017-18 to 2019-20 income years.\n## Lodging your annual report\nFor each income year that you issue affordable housing certificates, you must provide a CHP annual report to us.\nYour report:\n- must be lodged by 31 July immediately following the income year\n- include details of all certificates you have issued for the income year, compiled in a CSV file\n- be lodged online .\nThe requirement to lodge a CHP annual report applies to the 2020–21 and later income years. You do not need to submit reports for the 2018–19 or 2019–20 income years.\nFor information on reporting for trusts, MITs and partnerships, see Trusts, MITs and partnerships: reporting for affordable housing .\n### Compiling your annual report\nInstructions to complete your CHP annual report.\n#### CSV file format\nYour CHP annual report must be a comma-separated values (CSV) file. This is a text file that uses a comma to separate the values. Each line of the file is a data record.\nYou can create a CSV file from various business software products, such as Microsoft Excel.\n#### Information to include in your annual report\nThe following is a list of the information that you may need to include in your CHP annual report.\nNot all the information is mandatory. However, your report must have sufficient detail to identify the entities involved.\n##### Intermediary details\nInclude the details of the entity lodging the annual report (this may be a CHP or their tax agent):\n- Australian business number (ABN)\n- branch number\n- name\n- contact name\n- contact address\n- contact phone number\n- contact email address.\n##### Provider and report details\nInclude the details of the CHP itself, and the report being lodged:\n- ABN\n- name\n- contact name\n- contact phone number\n- address\n- email address\n- reporting period start date and end date\n- income year the report relates to\n- whether it is an original or replacement report\n- number of certificates issued during reporting period.\n##### Investor details\nInclude the details of each investor that was issued with a certificate by the CHP (the investor may be an individual person, trust, partnership or MIT):\n- ABN\n- name\n- surname or family name\n- first name\n- date of birth\n- address\n- contact name\n- contact phone number\n- property managed by CHP ('Yes' or 'No')\n- number of days property used for affordable housing\n- property address\n- email address.\n##### Declaration\nInclude a declaration that the report is true and correct with the following information:\n- full name of signatory\n- signatory position\n- tax agent registration number (if lodged by tax agent)\n- contact phone number\n- declaration\n- date authorised.\n### Report template and examples\nThe following documents can help you complete your CHP annual report:\n- blank report template – includes instructions to complete the report to avoid errors when lodging\n- completed report example – example reporting information has been added but the report hasn't been formatted for lodgment\n- report ready for lodgment example – the report has been formatted to remove instructions and headings and is ready for lodgment.\nTo use these documents:\n- go to Supported files\n- find Community housing provider (CHP) annual report in the table and use the links to download the files.\nFor more information on lodging your report, see file transfer .\nIf you need assistance to complete this report or have questions, you can email the Individuals new measures team at MEINewMeasures@ato.gov.au .\n### Lodging online\nTo lodge your CHP annual report:\n- sign in to your CHP's account in Online services for business\n- select Lodgments , then File transfer (find out how to use file transfer )\n- attach and submit your CSV file .\nAlternatively, your CHP's tax agent can lodge the report through Online services for agents.\n## Lodgment deadline and extensions\nYour CHP annual report should be lodged by 31 July (or the next business day if this date falls on a weekend) immediately following the relevant income year.\nIf you need more time to lodge, phone us and provide the following information:\n- the CHP's name and ABN\n- the reasons for requesting an extension\n- the proposed new deadline for lodgment.",
+  "child_links": [],
+  "word_count": 1163,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

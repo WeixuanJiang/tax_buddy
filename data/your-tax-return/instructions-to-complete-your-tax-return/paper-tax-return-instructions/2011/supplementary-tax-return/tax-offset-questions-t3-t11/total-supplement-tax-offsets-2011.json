@@ -1,0 +1,82 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2011/supplementary-tax-return/tax-offset-questions-t3-t11/total-supplement-tax-offsets-2011",
+  "title": "About this question",
+  "description": "Complete the total supplement tax offsets section in your supplementary tax return.",
+  "nat_number": "2677",
+  "quick_code": "25529",
+  "date_updated": "2011-06-28T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, supplement, tax offsets, total tax offsets, supplement tax offsets",
+  "content_blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you claim any tax offsets at items T7, T8, T9, T10, T11 and T14?"
+        ],
+        [
+          "No",
+          "go to step 4, or return to main menu Tax return for individuals instructions ."
+        ],
+        [
+          "Yes",
+          "Go to step 1."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the tax offset amounts in the right-hand column of items T7 , T8 , T9 , T10 , T11 and T14 on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the amount from step 1 at TOTAL SUPPLEMENT TAX OFFSETS on page 16 of your tax return. Do not show cents."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount you wrote at TOTAL SUPPLEMENT TAX OFFSETS to T on page 5 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Go to Total tax offsets to calculate your total tax offsets."
+    },
+    {
+      "type": "paragraph",
+      "text": "We use the amounts at items T12 and T13 to work out your mature age worker and entrepreneurs tax offset entitlements. Do not include them at TOTAL SUPPLEMENT TAX OFFSETS ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question A4 Amount on which family distribution tax has been paid return to main menu Tax return for individuals instructions go back to question T14 Other tax offsets"
+        ]
+      ]
+    }
+  ],
+  "content_text": "Did you claim any tax offsets at items T7, T8, T9, T10, T11 and T14?\nNo | go to step 4, or return to main menu Tax return for individuals instructions .\nYes | Go to step 1.\n### Step 1\nAdd up all the tax offset amounts in the right-hand column of items T7 , T8 , T9 , T10 , T11 and T14 on your tax return.\n### Step 2\nWrite the amount from step 1 at TOTAL SUPPLEMENT TAX OFFSETS on page 16 of your tax return. Do not show cents.\n### Step 3\nTransfer the amount you wrote at TOTAL SUPPLEMENT TAX OFFSETS to T on page 5 of your tax return.\n### Step 4\nGo to Total tax offsets to calculate your total tax offsets.\nWe use the amounts at items T12 and T13 to work out your mature age worker and entrepreneurs tax offset entitlements. Do not include them at TOTAL SUPPLEMENT TAX OFFSETS .\nWhere to go next go to question A4 Amount on which family distribution tax has been paid return to main menu Tax return for individuals instructions go back to question T14 Other tax offsets",
+  "child_links": [],
+  "word_count": 195,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

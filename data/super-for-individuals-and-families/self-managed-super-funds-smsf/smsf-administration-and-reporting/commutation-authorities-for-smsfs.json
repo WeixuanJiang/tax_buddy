@@ -1,0 +1,511 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-administration-and-reporting/commutation-authorities-for-smsfs",
+  "title": "Commutation authorities for SMSFs",
+  "description": "How to respond to SMSF commutation authorities and what happens after you respond.",
+  "nat_number": "",
+  "quick_code": "57302",
+  "date_updated": "2025-04-01T13:00:00Z",
+  "first_published": "",
+  "keywords": "commutation authorities SMSF, commutation authority SMSF, responding to commutation authority, vary commutation authority SMSF, revoke commutation authority SMSF, commutation authorities",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why we issue a commutation authority"
+    },
+    {
+      "type": "paragraph",
+      "text": "We issue a commutation authority when a member has exceeded their transfer balance cap and we have sent them an excess transfer balance determination, and they have either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "not commuted the excess amount in the determination in full by the due date",
+        "made an election for us to send a commutation authority to their fund to have the excess amount commuted."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A commutation authority will detail the excess amount that must be commuted from the specified income stream for that SMSF member."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to action a commutation authority"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must respond by the due date on the commutation authority. The Commissioner doesn't have discretion to grant you an extension of time, if you can't respond in this time."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "commute the amount stated on the commutation authority to an accumulation account (unless it’s a death benefit income stream), or a super lump sum",
+        "choose not to comply with the commutation authority because the member is deceased, or we’ve issued it in relation to a capped defined benefit income stream (CDBIS) ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You must also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "send us a Transfer balance account report (TBAR) reporting the details of the commutation or why you have chosen not to comply with the commutation authority. For assistance with the TBAR, see TBAR instructions",
+        "notify your member in writing that you have complied or not complied with a commutation authority."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Responding to the commutation authority"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before you can commute an amount, you should make reasonable efforts to contact the member and discuss their options. They need to choose whether to retain the commuted amount in an accumulation account or take it as a super lump sum. If you can't contact the member, you should commute the amount in a way that you judge to be in the member's best interests."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the commutation authority is for a death benefit income stream, the amount must be paid as a super lump sum."
+    },
+    {
+      "type": "paragraph",
+      "text": "You do not have authority from us to commute the member’s income stream after the due date on the commutation authority."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Commuting the full amount"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before you fully commute an income stream ensure the minimum pension amount has been paid. The amount paid must be at least the pro rata of the minimum annual payment amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "When a pension is fully commuted it stops being in pension phase, which means it no longer provides the fund with exempt current pension income (ECPI). How this affects your SMSF will depend on whether it uses the aggregated or segregated method for claiming ECPI."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Consequences of not responding to the commutation authority by the due date"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't commute the required amount by the due date (that is, within 60 days of the issue date of the commutation authority) or tell us why you have not done so (using a TBAR), the income stream will stop being in the retirement phase. This will affect the fund's entitlement to ECPI. You may also be liable for penalties or subject to compliance action."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is also an administrative penalty if you do not notify your member of your response to the commutation authority within 60 days of the issue of the commutation authority."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Commuting a partial amount"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the amount on the commutation authority is higher than the value of the interest supporting the income stream, you must:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "commute the value of the interest",
+        "close the account."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Before calculating the value of the interest that can be commuted, ensure you consider any pro-rata minimum pension payments that must be met."
+    },
+    {
+      "type": "paragraph",
+      "text": "The income stream in the commutation authority may have already ceased. This could be if the member has already exhausted the full value of the interest through pension payments. If this is the case, then you need to lodge a TBAR by the due date to tell us:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you have complied in part",
+        "the commutation amount is nil",
+        "the account is closed."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: commuting a partial amount"
+    },
+    {
+      "type": "paragraph",
+      "text": "An SMSF member is receiving an income stream valued at $70,000 on 1 July 2023."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 1 October 2023, we issue your SMSF a commutation authority for $100,000. You are required to commute the amount within 60 days of the issue date, so by 30 November 2023."
+    },
+    {
+      "type": "paragraph",
+      "text": "The member is receiving monthly payments of $525 so they have already received a total of $1,575 for July, August and September."
+    },
+    {
+      "type": "paragraph",
+      "text": "You decide to commute on 15 October 2023 so you will need to pay the minimum pension amount before you make the commutation. As the member is 86 years old, their minimum pension payment is 9% of the balance on 1 July 2023, which is $6,300."
+    },
+    {
+      "type": "paragraph",
+      "text": "The pro-rata amount is calculated by multiplying the annual amount by the number of days in the period, then dividing by the number of days in the financial year. The calculation is as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "$6,300 (the minimum annual amount)"
+    },
+    {
+      "type": "paragraph",
+      "text": "× 107 (number of days in the period)"
+    },
+    {
+      "type": "paragraph",
+      "text": "÷ 366 (number of days in the 2024 financial year)"
+    },
+    {
+      "type": "paragraph",
+      "text": "= $1,842."
+    },
+    {
+      "type": "paragraph",
+      "text": "$1,842 (pro-rata minimum pension amount)"
+    },
+    {
+      "type": "paragraph",
+      "text": "- $1,575 (pension amounts already paid)"
+    },
+    {
+      "type": "paragraph",
+      "text": "= $267"
+    },
+    {
+      "type": "paragraph",
+      "text": "You make another minimum pension payment amount of $267 to ensure that the minimum pension payment standards will be met up to the date of the commutation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The remaining $68,158 is commuted and retained in an accumulation account in the SMSF."
+    },
+    {
+      "type": "paragraph",
+      "text": "You lodge a TBAR, reporting by the due date 30 November 2023:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "that you have partly complied with the commutation authority",
+        "a commutation value of $68,158",
+        "the account is closed."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "What to do if the income stream identified in the commutation authority is a legacy or market-linked pension that isn't a capped defined benefit income stream"
+    },
+    {
+      "type": "paragraph",
+      "text": "Certain legacy pensions, including market-linked pensions, are not a capped defined benefit income stream (CDBIS) if they started on or after 1 July 2017."
+    },
+    {
+      "type": "paragraph",
+      "text": "The pension rules that apply in these circumstances changed and commenced on 5 April 2022 to allow the commutation of specific legacy and market-linked pensions in order to comply with a commutation authority."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is where one of the following is commuted and a new market-linked, or life expectancy pension or annuity is commenced (which is no longer a CDBIS):"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "lifetime pension, regardless of the commencement date, or",
+        "market-linked or life expectancy pension or annuity that commenced prior to 1 July 2017, and",
+        "this CDBIS is commuted, and a new market linked, or life expectancy pension or annuity is commenced (no longer a CDBIS)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When the transfer balance account events are reported, if the member has an excess transfer balance account, then the excess can be commuted from these income streams (market-linked, or life expectancy pension or annuity). A commutation can only occur after a Commissioner's commutation authority is issued to the fund. This occurs 60 days after the member has been issued with an excess transfer balance determination if the member is still in excess."
+    },
+    {
+      "type": "paragraph",
+      "text": "If we issue you with a Commissioner's commutation authority in relation to one of these income streams, you must comply with the authority by commuting the income stream up to the maximum available and advise us using the TBAR."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: commuting excess transfer balance from a market-linked pension"
+    },
+    {
+      "type": "paragraph",
+      "text": "On 1 July 2018, your member purchased a market-linked pension (new credit) directly from the underlying account balance of the lump sum from the commutation of their CDBIS market-linked pension (the debit). Because their new market-linked pension commenced after 1 July 2017, it is no longer a CDBIS for transfer balance cap purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The original credit for the CDBIS market-linked pension was valued on 1 July 2017 at $2.4 million. There was no excess as it was a CDBIS."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the updated regulations, the debit and credit for this commutation and new commencement will arise in the member's transfer balance account on 5 April 2022, when the regulation commenced. The reported effective date of these transfer balance account events is 5 April 2022."
+    },
+    {
+      "type": "paragraph",
+      "text": "A special value of $2.1 million is attributed to commutation of the old CDBIS (debit value). This is the original credit value less the total pension payments made before the commutation of the old product since 1 July 2017. The underlying account balance of the lump sum when the old CDBIS was commuted was $1.8 million (the new credit)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The member will have an excess transfer balance amount of $500,000 that they would have been unable to resolve before the commencement of the regulation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The member will receive a determination of their excess transfer balance amount which will include the excess and the deemed earnings that accrue from 5 April 2022. There will be no transfer balance credits for deemed earnings between 1 July 2018 to 5 April 2022."
+    },
+    {
+      "type": "paragraph",
+      "text": "A commutation authority will enable the member to commute the excess from the market-linked pension."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "The commutation authority relates to a CDBIS"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can choose not to comply with a commutation authority if it relates to a CDBIS."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "still lodge a TBAR by the due date to tell us you’re choosing not to comply for this reason",
+        "amend your initial reporting to us to advise that the income stream is a CDBIS."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This is because we won’t issue a commutation authority to an SMSF in relation to an income stream you have told us is a CDBIS."
+    },
+    {
+      "type": "paragraph",
+      "text": "Amending your reporting may mean we need to recalculate your member’s transfer balance."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: commutation authority relates to a CDBIS"
+    },
+    {
+      "type": "paragraph",
+      "text": "You reported a member has an account-based pension with a value of $2 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "You receive a commutation authority requiring you to commute an amount from this pension."
+    },
+    {
+      "type": "paragraph",
+      "text": "You review your records and identify that this is a CDBIS."
+    },
+    {
+      "type": "paragraph",
+      "text": "You lodge 3 TBARs, which are to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "cancel the original incorrect information",
+        "correctly report the original pension as a CDBIS",
+        "report that you’re choosing not to comply with the commutation authority because it relates to a CDBIS."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "The account number for the pension has changed"
+    },
+    {
+      "type": "paragraph",
+      "text": "In some instances, the reference you use to identify an income stream may have changed since the income stream was reported to us. For example, the SMSF has changed software providers and the income stream reported to us as account '123' is now referred to as account '123A'."
+    },
+    {
+      "type": "paragraph",
+      "text": "In these instances, we may send a commutation authority identifying the income stream that needs to be commuted, which uses the account number you initially reported to us."
+    },
+    {
+      "type": "paragraph",
+      "text": "You’re still required to commute the identified income stream, even though the reference you use has changed."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you need to report on the transfer balance report (TBAR)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The TBAR must report that the SMSF has:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "complied with the commutation authority by commuting the full amount from the income stream stated in the notice, or",
+        "complied with the commutation authority by commuting the income stream as much as possible – even if this is less than the amount in the commutation authority (this is known as the maximum available release amount), or",
+        "chosen not to comply with the commutation authority because either: the member is deceased we issued the commutation authority in relation to a capped defined benefit income stream."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Advising your member"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you comply with a commutation authority, you must notify your member in writing within 60 days of the commutation authority's issue date. If you don't, there may be an administrative penalty."
+    },
+    {
+      "type": "paragraph",
+      "text": "In your written notification to your member, include the following information:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the member's name and address",
+        "income stream account number in the commutation authority",
+        "the issue date and due date of the commutation authority",
+        "the amount you were required to commute",
+        "the amount and date of any amount you commuted."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have chosen not to comply with the commutation authority because it was in relation to a CDBIS, you must also include a statement that explains this."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must also sign the notice you provide your member and declare that the information it contains is 'true and correct'."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What we will do after you've responded to the commutation authority"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must report on the TBAR whether you've either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "complied with the commutation authority by commuting the amount in full or partly",
+        "chosen not to comply with the commutation authority."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you complied in full or notified us that the member is deceased, we will send your member or their estate an excess transfer balance (ETB) tax notice of assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "We will consider whether your member has other retirement phase income streams if you either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "complied partly and the account is closed",
+        "didn't comply because the stream is a capped defined benefit income stream."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your member has other retirement phase income streams, we will then send commutation authorities to the providers of those income streams until the excess is resolved."
+    },
+    {
+      "type": "paragraph",
+      "text": "If these providers don’t resolve the excess, we will send your member a Notice of non-commutable excess transfer balance . If we send your member this notice, they will receive a debit in their transfer balance account to resolve their excess transfer balance. Once your member is no longer in excess, we will send them an ETB tax notice of assessment."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Disagreeing with the commutation authority"
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot object to a commutation authority and your member can’t direct you not to comply with it."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you think the amount on the commutation authority doesn’t take into account a commutation by the member, then this may be because:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your member commuted their income stream after the due date on the excess transfer balance determination, or",
+        "there was a delay in reporting the commutation to us."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You should provide any missing information or correct any reporting as soon as possible in time for us to revoke the commutation authority before its due date."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your member disagrees with the way we calculated their excess, they can seek an extension of time to lodge an objection to the ETB determination. However, this doesn’t remove your obligation to comply with the commutation authority by the due date once it’s issued."
+    },
+    {
+      "type": "paragraph",
+      "text": "If an objection is lodged to the ETB determination and we allow the objection in full, then we will revoke or amend the commutation authority, if we are able to do this, by the due date. Otherwise, you’ll still need to action the commutation authority by the due date."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Vary or revoke a commutation authority"
+    },
+    {
+      "type": "paragraph",
+      "text": "In limited circumstances, we may be able to vary or revoke a commutation authority once we receive and process any outstanding information. For example, if you think the amount on the commutation authority doesn’t take into account a commutation by the member then this may be because:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your member commuted their income stream after the due date on the ETB determination, or",
+        "there was a delay in reporting the commutation to us."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "However, varying your commutation authority does not give you more time to comply. For example, if we issued a commutation authority with a due date of 30 November and receive information that allows us to vary it on 1 November, you still only have until 30 November to action the varied commutation authority."
+    }
+  ],
+  "content_text": "## Why we issue a commutation authority\nWe issue a commutation authority when a member has exceeded their transfer balance cap and we have sent them an excess transfer balance determination, and they have either:\n- not commuted the excess amount in the determination in full by the due date\n- made an election for us to send a commutation authority to their fund to have the excess amount commuted.\nA commutation authority will detail the excess amount that must be commuted from the specified income stream for that SMSF member.\n## How to action a commutation authority\nYou must respond by the due date on the commutation authority. The Commissioner doesn't have discretion to grant you an extension of time, if you can't respond in this time.\nYou must either:\n- commute the amount stated on the commutation authority to an accumulation account (unless it’s a death benefit income stream), or a super lump sum\n- choose not to comply with the commutation authority because the member is deceased, or we’ve issued it in relation to a capped defined benefit income stream (CDBIS) .\nYou must also:\n- send us a Transfer balance account report (TBAR) reporting the details of the commutation or why you have chosen not to comply with the commutation authority. For assistance with the TBAR, see TBAR instructions\n- notify your member in writing that you have complied or not complied with a commutation authority.\n## Responding to the commutation authority\nBefore you can commute an amount, you should make reasonable efforts to contact the member and discuss their options. They need to choose whether to retain the commuted amount in an accumulation account or take it as a super lump sum. If you can't contact the member, you should commute the amount in a way that you judge to be in the member's best interests.\nIf the commutation authority is for a death benefit income stream, the amount must be paid as a super lump sum.\nYou do not have authority from us to commute the member’s income stream after the due date on the commutation authority.\n### Commuting the full amount\nBefore you fully commute an income stream ensure the minimum pension amount has been paid. The amount paid must be at least the pro rata of the minimum annual payment amount.\nWhen a pension is fully commuted it stops being in pension phase, which means it no longer provides the fund with exempt current pension income (ECPI). How this affects your SMSF will depend on whether it uses the aggregated or segregated method for claiming ECPI.\n### Consequences of not responding to the commutation authority by the due date\nIf you don't commute the required amount by the due date (that is, within 60 days of the issue date of the commutation authority) or tell us why you have not done so (using a TBAR), the income stream will stop being in the retirement phase. This will affect the fund's entitlement to ECPI. You may also be liable for penalties or subject to compliance action.\nThere is also an administrative penalty if you do not notify your member of your response to the commutation authority within 60 days of the issue of the commutation authority.\n### Commuting a partial amount\nWhen the amount on the commutation authority is higher than the value of the interest supporting the income stream, you must:\n- commute the value of the interest\n- close the account.\nBefore calculating the value of the interest that can be commuted, ensure you consider any pro-rata minimum pension payments that must be met.\nThe income stream in the commutation authority may have already ceased. This could be if the member has already exhausted the full value of the interest through pension payments. If this is the case, then you need to lodge a TBAR by the due date to tell us:\n- you have complied in part\n- the commutation amount is nil\n- the account is closed.\n#### Example: commuting a partial amount\nAn SMSF member is receiving an income stream valued at $70,000 on 1 July 2023.\nOn 1 October 2023, we issue your SMSF a commutation authority for $100,000. You are required to commute the amount within 60 days of the issue date, so by 30 November 2023.\nThe member is receiving monthly payments of $525 so they have already received a total of $1,575 for July, August and September.\nYou decide to commute on 15 October 2023 so you will need to pay the minimum pension amount before you make the commutation. As the member is 86 years old, their minimum pension payment is 9% of the balance on 1 July 2023, which is $6,300.\nThe pro-rata amount is calculated by multiplying the annual amount by the number of days in the period, then dividing by the number of days in the financial year. The calculation is as follows:\n$6,300 (the minimum annual amount)\n× 107 (number of days in the period)\n÷ 366 (number of days in the 2024 financial year)\n= $1,842.\n$1,842 (pro-rata minimum pension amount)\n- $1,575 (pension amounts already paid)\n= $267\nYou make another minimum pension payment amount of $267 to ensure that the minimum pension payment standards will be met up to the date of the commutation.\nThe remaining $68,158 is commuted and retained in an accumulation account in the SMSF.\nYou lodge a TBAR, reporting by the due date 30 November 2023:\n- that you have partly complied with the commutation authority\n- a commutation value of $68,158\n- the account is closed.\n### What to do if the income stream identified in the commutation authority is a legacy or market-linked pension that isn't a capped defined benefit income stream\nCertain legacy pensions, including market-linked pensions, are not a capped defined benefit income stream (CDBIS) if they started on or after 1 July 2017.\nThe pension rules that apply in these circumstances changed and commenced on 5 April 2022 to allow the commutation of specific legacy and market-linked pensions in order to comply with a commutation authority.\nThis is where one of the following is commuted and a new market-linked, or life expectancy pension or annuity is commenced (which is no longer a CDBIS):\n- lifetime pension, regardless of the commencement date, or\n- market-linked or life expectancy pension or annuity that commenced prior to 1 July 2017, and\n- this CDBIS is commuted, and a new market linked, or life expectancy pension or annuity is commenced (no longer a CDBIS).\nWhen the transfer balance account events are reported, if the member has an excess transfer balance account, then the excess can be commuted from these income streams (market-linked, or life expectancy pension or annuity). A commutation can only occur after a Commissioner's commutation authority is issued to the fund. This occurs 60 days after the member has been issued with an excess transfer balance determination if the member is still in excess.\nIf we issue you with a Commissioner's commutation authority in relation to one of these income streams, you must comply with the authority by commuting the income stream up to the maximum available and advise us using the TBAR.\n#### Example: commuting excess transfer balance from a market-linked pension\nOn 1 July 2018, your member purchased a market-linked pension (new credit) directly from the underlying account balance of the lump sum from the commutation of their CDBIS market-linked pension (the debit). Because their new market-linked pension commenced after 1 July 2017, it is no longer a CDBIS for transfer balance cap purposes.\nThe original credit for the CDBIS market-linked pension was valued on 1 July 2017 at $2.4 million. There was no excess as it was a CDBIS.\nUnder the updated regulations, the debit and credit for this commutation and new commencement will arise in the member's transfer balance account on 5 April 2022, when the regulation commenced. The reported effective date of these transfer balance account events is 5 April 2022.\nA special value of $2.1 million is attributed to commutation of the old CDBIS (debit value). This is the original credit value less the total pension payments made before the commutation of the old product since 1 July 2017. The underlying account balance of the lump sum when the old CDBIS was commuted was $1.8 million (the new credit).\nThe member will have an excess transfer balance amount of $500,000 that they would have been unable to resolve before the commencement of the regulation.\nThe member will receive a determination of their excess transfer balance amount which will include the excess and the deemed earnings that accrue from 5 April 2022. There will be no transfer balance credits for deemed earnings between 1 July 2018 to 5 April 2022.\nA commutation authority will enable the member to commute the excess from the market-linked pension.\n### The commutation authority relates to a CDBIS\nYou can choose not to comply with a commutation authority if it relates to a CDBIS.\nYou must:\n- still lodge a TBAR by the due date to tell us you’re choosing not to comply for this reason\n- amend your initial reporting to us to advise that the income stream is a CDBIS.\nThis is because we won’t issue a commutation authority to an SMSF in relation to an income stream you have told us is a CDBIS.\nAmending your reporting may mean we need to recalculate your member’s transfer balance.\n#### Example: commutation authority relates to a CDBIS\nYou reported a member has an account-based pension with a value of $2 million.\nYou receive a commutation authority requiring you to commute an amount from this pension.\nYou review your records and identify that this is a CDBIS.\nYou lodge 3 TBARs, which are to:\n- cancel the original incorrect information\n- correctly report the original pension as a CDBIS\n- report that you’re choosing not to comply with the commutation authority because it relates to a CDBIS.\n### The account number for the pension has changed\nIn some instances, the reference you use to identify an income stream may have changed since the income stream was reported to us. For example, the SMSF has changed software providers and the income stream reported to us as account '123' is now referred to as account '123A'.\nIn these instances, we may send a commutation authority identifying the income stream that needs to be commuted, which uses the account number you initially reported to us.\nYou’re still required to commute the identified income stream, even though the reference you use has changed.\n## What you need to report on the transfer balance report (TBAR)\nThe TBAR must report that the SMSF has:\n- complied with the commutation authority by commuting the full amount from the income stream stated in the notice, or\n- complied with the commutation authority by commuting the income stream as much as possible – even if this is less than the amount in the commutation authority (this is known as the maximum available release amount), or\n- chosen not to comply with the commutation authority because either: the member is deceased we issued the commutation authority in relation to a capped defined benefit income stream.\n## Advising your member\nWhen you comply with a commutation authority, you must notify your member in writing within 60 days of the commutation authority's issue date. If you don't, there may be an administrative penalty.\nIn your written notification to your member, include the following information:\n- the member's name and address\n- income stream account number in the commutation authority\n- the issue date and due date of the commutation authority\n- the amount you were required to commute\n- the amount and date of any amount you commuted.\nIf you have chosen not to comply with the commutation authority because it was in relation to a CDBIS, you must also include a statement that explains this.\nYou must also sign the notice you provide your member and declare that the information it contains is 'true and correct'.\n## What we will do after you've responded to the commutation authority\nYou must report on the TBAR whether you've either:\n- complied with the commutation authority by commuting the amount in full or partly\n- chosen not to comply with the commutation authority.\nIf you complied in full or notified us that the member is deceased, we will send your member or their estate an excess transfer balance (ETB) tax notice of assessment.\nWe will consider whether your member has other retirement phase income streams if you either:\n- complied partly and the account is closed\n- didn't comply because the stream is a capped defined benefit income stream.\nIf your member has other retirement phase income streams, we will then send commutation authorities to the providers of those income streams until the excess is resolved.\nIf these providers don’t resolve the excess, we will send your member a Notice of non-commutable excess transfer balance . If we send your member this notice, they will receive a debit in their transfer balance account to resolve their excess transfer balance. Once your member is no longer in excess, we will send them an ETB tax notice of assessment.\n## Disagreeing with the commutation authority\nYou cannot object to a commutation authority and your member can’t direct you not to comply with it.\nIf you think the amount on the commutation authority doesn’t take into account a commutation by the member, then this may be because:\n- your member commuted their income stream after the due date on the excess transfer balance determination, or\n- there was a delay in reporting the commutation to us.\nYou should provide any missing information or correct any reporting as soon as possible in time for us to revoke the commutation authority before its due date.\nIf your member disagrees with the way we calculated their excess, they can seek an extension of time to lodge an objection to the ETB determination. However, this doesn’t remove your obligation to comply with the commutation authority by the due date once it’s issued.\nIf an objection is lodged to the ETB determination and we allow the objection in full, then we will revoke or amend the commutation authority, if we are able to do this, by the due date. Otherwise, you’ll still need to action the commutation authority by the due date.\n### Vary or revoke a commutation authority\nIn limited circumstances, we may be able to vary or revoke a commutation authority once we receive and process any outstanding information. For example, if you think the amount on the commutation authority doesn’t take into account a commutation by the member then this may be because:\n- your member commuted their income stream after the due date on the ETB determination, or\n- there was a delay in reporting the commutation to us.\nHowever, varying your commutation authority does not give you more time to comply. For example, if we issued a commutation authority with a due date of 30 November and receive information that allows us to vary it on 1 November, you still only have until 30 November to action the varied commutation authority.",
+  "child_links": [],
+  "word_count": 2546,
+  "source_title": "",
+  "source_description": "",
+  "category": "super-for-individuals-and-families"
+}

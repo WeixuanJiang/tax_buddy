@@ -1,0 +1,348 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/data-matching-letters/types-of-letters/lodgment-of-your-tax-return-letter",
+  "title": "Lodgment of your tax return letter",
+  "description": "What to do if you get a data matching letter from us asking you to lodge your tax return.",
+  "nat_number": "",
+  "quick_code": "73772",
+  "date_updated": "2024-01-07T14:00:00Z",
+  "first_published": true,
+  "keywords": "Data matching, data-matching, discrepancy, letter, schedule, declare income",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Receiving your letter"
+    },
+    {
+      "type": "paragraph",
+      "text": "We have received information from third-party payers indicating they have paid you taxable income during the financial year, so you need to lodge a tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Third-party payers may include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "employers",
+        "financial or investment institutions",
+        "companies",
+        "partnerships, trusts or manage funds",
+        "government agencies",
+        "private health insurance funds."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll send the letter to the most recent postal address we have for you."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Types of lodgment letters"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are two types of lodgment letter and both mean you must lodge your tax return."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Do you need to lodge?",
+        "You must lodge urgently ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to do"
+    },
+    {
+      "type": "paragraph",
+      "text": "For both letters you need to review the letter and compare the information with your records. You can then determine if you agree or disagree."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Letter 1: Do you need to lodge?"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Sample income schedule summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "Below is a sample income schedule for the lodgment letter titled Do you need to lodge? Keep in mind that your schedule will contain your own details and may not look exactly like this one."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Payer description and income type",
+          "Income tax (IT) amount",
+          "Credit amount"
+        ],
+        [
+          "Ace Employer Pty (salary/wages)",
+          "$42,000",
+          "$5,461"
+        ],
+        [
+          "Government agency (pension)",
+          "$14,835",
+          "$0"
+        ],
+        [
+          "Big Bank (gross interest)",
+          "$15",
+          "$0"
+        ],
+        [
+          "Investment Company Pty Ltd (franked amount)",
+          "$150",
+          "$0"
+        ],
+        [
+          "Investment Company Pty Ltd (franked credit)",
+          "$64",
+          "$64"
+        ],
+        [
+          "Total",
+          "$57,064",
+          "$5,525"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "If you agree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you agree with our information, you must lodge your tax return as soon as possible so the information is the same as the data we hold. If you don't lodge your tax return, you may be selected for an audit in the future."
+    },
+    {
+      "type": "paragraph",
+      "text": "To lodge a tax return, you can choose from the following options, depending on your circumstances:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Lodge your tax return online with myTax – prepare and lodge your own tax return online. It is the quick, safe and secure way to lodge, and most process in 2 weeks.",
+        "Lodge your tax return with a registered tax agent – use a registered tax agent to prepare and lodge your tax return. They are the only people that can charge a fee.",
+        "Lodge a paper tax return – you can use the paper tax return to lodge your tax return by mail, with most processed within 50 business days."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "If you disagree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with the details reported, you need to let us know."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a question, phone us on 1300 768 912 between 8:00 am and 5:00 pm, Monday to Friday and select option 4 :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "quoting reference number found at the top right of your letter",
+        "using the words 'non lodgment data matching'."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Letter 2: You must lodge urgently"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Sample income schedule summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "Below is a sample income schedule summary of estimated income and reason for penalty application schedule for the lodgment letter titled You must lodge. Keep in mind that your schedules will contain your own details and may not look exactly like this one."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Payer description and income type",
+          "Income tax (IT) amount",
+          "Credit amount"
+        ],
+        [
+          "Ace Employer Pty (salary/ wages)",
+          "$42,000",
+          "$5,461"
+        ],
+        [
+          "Government agency (pension)",
+          "$14,835",
+          "$0"
+        ],
+        [
+          "Big Bank (gross interest)",
+          "$15",
+          "$0"
+        ],
+        [
+          "Investment Company Pty Ltd (franked amount)",
+          "$150",
+          "$0"
+        ],
+        [
+          "Investment Company Pty Ltd (franked credit)",
+          "$64",
+          "$64"
+        ],
+        [
+          "Total",
+          "$57,064",
+          "$5,525"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Tax return item",
+          "Tax return description",
+          "Amount"
+        ],
+        [
+          "1C–G",
+          "Salary or wages",
+          "$42,000"
+        ],
+        [
+          "1C–G",
+          "Salary or wages – tax withheld",
+          "$5,461"
+        ],
+        [
+          "6B",
+          "Australian government pensions and allowances",
+          "$14,835"
+        ],
+        [
+          "10L",
+          "Gross Interest",
+          "$15"
+        ],
+        [
+          "11T",
+          "Dividends",
+          "$150"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Our estimate of your total taxable income for year ended 30 June <CCYY> $57,064"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our estimate of your total tax credits for year ended 30 June <CCYY> $5,525"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Sample: Reason for penalty application schedule"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Administrative penalty for failing to provide a document"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Year",
+          "Estimated tax liability",
+          "Estimated 75% penalty"
+        ],
+        [
+          "<CCYY>",
+          "$4,629",
+          "$3,471"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "If you agree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you agree with our information, you must lodge your tax return as soon as possible so the information is the same as the data we hold."
+    },
+    {
+      "type": "paragraph",
+      "text": "To lodge a tax return, you can choose from the following options depending on your circumstances:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Lodge your tax return online with myTax – prepare and lodge your own tax return online. It is the quick, safe and secure way to lodge and most are process in 2 weeks.",
+        "Lodge your tax return with a registered tax agent – use a registered tax agent to prepare and lodge your tax return. They are the only people that can charge a fee.",
+        "Lodge a paper tax return – you can use the paper tax return to lodge your tax return by mail, with most being processed within 50 business days."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "If you disagree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with the details reported, you need to let us know."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't contact us or lodge your tax return by the due date, we may issue a default assessment based on the information we have received. Where we make a default assessment, you may be required to pay tax and may also be liable for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a minimum penalty of 75% of any tax raised from the assessment",
+        "a penalty for failing to lodge your form on time, and",
+        "interest charges on any tax you owe."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a question, phone us on 1300 768 912 between 8:00 am and 5:00 pm, Monday to Friday and select option 4 :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "quoting the reference number found at the top right of your letter",
+        "using the words 'non lodgment data matching'."
+      ]
+    }
+  ],
+  "content_text": "## Receiving your letter\nWe have received information from third-party payers indicating they have paid you taxable income during the financial year, so you need to lodge a tax return.\nThird-party payers may include:\n- employers\n- financial or investment institutions\n- companies\n- partnerships, trusts or manage funds\n- government agencies\n- private health insurance funds.\nWe'll send the letter to the most recent postal address we have for you.\n### Types of lodgment letters\nThere are two types of lodgment letter and both mean you must lodge your tax return.\n- Do you need to lodge?\n- You must lodge urgently .\n## What to do\nFor both letters you need to review the letter and compare the information with your records. You can then determine if you agree or disagree.\n### Letter 1: Do you need to lodge?\n#### Sample income schedule summary\nBelow is a sample income schedule for the lodgment letter titled Do you need to lodge? Keep in mind that your schedule will contain your own details and may not look exactly like this one.\nPayer description and income type | Income tax (IT) amount | Credit amount\nAce Employer Pty (salary/wages) | $42,000 | $5,461\nGovernment agency (pension) | $14,835 | $0\nBig Bank (gross interest) | $15 | $0\nInvestment Company Pty Ltd (franked amount) | $150 | $0\nInvestment Company Pty Ltd (franked credit) | $64 | $64\nTotal | $57,064 | $5,525\n#### If you agree\nIf you agree with our information, you must lodge your tax return as soon as possible so the information is the same as the data we hold. If you don't lodge your tax return, you may be selected for an audit in the future.\nTo lodge a tax return, you can choose from the following options, depending on your circumstances:\n- Lodge your tax return online with myTax – prepare and lodge your own tax return online. It is the quick, safe and secure way to lodge, and most process in 2 weeks.\n- Lodge your tax return with a registered tax agent – use a registered tax agent to prepare and lodge your tax return. They are the only people that can charge a fee.\n- Lodge a paper tax return – you can use the paper tax return to lodge your tax return by mail, with most processed within 50 business days.\n#### If you disagree\nIf you disagree with the details reported, you need to let us know.\nIf you have a question, phone us on 1300 768 912 between 8:00 am and 5:00 pm, Monday to Friday and select option 4 :\n- quoting reference number found at the top right of your letter\n- using the words 'non lodgment data matching'.\n### Letter 2: You must lodge urgently\n#### Sample income schedule summary\nBelow is a sample income schedule summary of estimated income and reason for penalty application schedule for the lodgment letter titled You must lodge. Keep in mind that your schedules will contain your own details and may not look exactly like this one.\nPayer description and income type | Income tax (IT) amount | Credit amount\nAce Employer Pty (salary/ wages) | $42,000 | $5,461\nGovernment agency (pension) | $14,835 | $0\nBig Bank (gross interest) | $15 | $0\nInvestment Company Pty Ltd (franked amount) | $150 | $0\nInvestment Company Pty Ltd (franked credit) | $64 | $64\nTotal | $57,064 | $5,525\nTax return item | Tax return description | Amount\n1C–G | Salary or wages | $42,000\n1C–G | Salary or wages – tax withheld | $5,461\n6B | Australian government pensions and allowances | $14,835\n10L | Gross Interest | $15\n11T | Dividends | $150\nOur estimate of your total taxable income for year ended 30 June <CCYY> $57,064\nOur estimate of your total tax credits for year ended 30 June <CCYY> $5,525\n#### Sample: Reason for penalty application schedule\n##### Administrative penalty for failing to provide a document\nYear | Estimated tax liability | Estimated 75% penalty\n<CCYY> | $4,629 | $3,471\n#### If you agree\nIf you agree with our information, you must lodge your tax return as soon as possible so the information is the same as the data we hold.\nTo lodge a tax return, you can choose from the following options depending on your circumstances:\n- Lodge your tax return online with myTax – prepare and lodge your own tax return online. It is the quick, safe and secure way to lodge and most are process in 2 weeks.\n- Lodge your tax return with a registered tax agent – use a registered tax agent to prepare and lodge your tax return. They are the only people that can charge a fee.\n- Lodge a paper tax return – you can use the paper tax return to lodge your tax return by mail, with most being processed within 50 business days.\n#### If you disagree\nIf you disagree with the details reported, you need to let us know.\nIf you don't contact us or lodge your tax return by the due date, we may issue a default assessment based on the information we have received. Where we make a default assessment, you may be required to pay tax and may also be liable for:\n- a minimum penalty of 75% of any tax raised from the assessment\n- a penalty for failing to lodge your form on time, and\n- interest charges on any tax you owe.\nIf you have a question, phone us on 1300 768 912 between 8:00 am and 5:00 pm, Monday to Friday and select option 4 :\n- quoting the reference number found at the top right of your letter\n- using the words 'non lodgment data matching'.",
+  "child_links": [],
+  "word_count": 968,
+  "source_title": "Lodgment of your tax return letter | Australian Taxation Office",
+  "source_description": "We have received information from third-party payers indicating they have paid you taxable income during the financial year, so you need to ...",
+  "category": "your-tax-return"
+}

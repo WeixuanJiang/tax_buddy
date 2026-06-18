@@ -1,0 +1,288 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2017/tax-return/income-questions-1-12/11-dividends-2017",
+  "title": "11 Dividends 2017",
+  "description": "Complete question 11 to declare dividends and distributions paid or credited by Australian companies you had shares in.",
+  "nat_number": "",
+  "quick_code": "51079",
+  "date_updated": "2017-05-24T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, dividends, income, shares",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about dividends and distributions that were paid or credited to you by Australian companies that you had shares in. These include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "dividends applied under a dividend reinvestment plan",
+        "dividends that were dealt with on your behalf",
+        "bonus shares that qualify as dividends."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Dividends include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "distributions by a corporate limited partnership",
+        "dividends paid by a corporate unit trust",
+        "dividends paid by a public trading trust",
+        "dividends paid by a listed investment company."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The following may also be included as dividends:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "earnings you received, or were credited with, on a non-share equity interest",
+        "amounts you received from, or were credited by, a private company as a shareholder or an associate of a shareholder in the form of payments, loans or debts forgiven (these are generally unfranked dividends)",
+        "amounts you received from, or were credited by, the trustee of a trust estate in the form of payments, loans or debts forgiven where a private company in which you were a shareholder, or an associate of a shareholder, had an unpaid present entitlement (or was going to have such an entitlement by a certain time) from the trust (these are generally unfranked dividends)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include dividends paid under a demerger unless the company advised you to include them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your dividend statements will show the amounts and should show the payment dates."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received, or were credited with, a dividend when you were not an Australian resident, see Special circumstances and glossary 2017 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Were you paid or credited with any dividends by Australian companies?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to question 12 Employee share schemes 2017 , or return to main menu Individual tax return instructions 2017 ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your statements from each Australian company, corporate limited partnership, corporate unit trust, public trading trust and listed investment company that paid you dividends or made distributions to you from 1 July 2016 to 30 June 2017 inclusive."
+    },
+    {
+      "type": "paragraph",
+      "text": "Statements may show:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "amounts of franked and unfranked dividends",
+        "amounts of franking credits",
+        "tax file number (TFN) amounts withheld from unfranked dividends."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Franking credits are amounts of tax paid by the company that are allocated to your dividend or distribution. You include as assessable income both:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the amount of your dividend or distribution, and",
+        "the amount of the franking credits allocated to you."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You also receive a tax credit on your tax assessment for an amount equal to the franking credits."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may not be entitled to claim the franking credits if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "within 45 days of buying the shares (90 days for certain preference shares), you either sold them or entered into an arrangement to reduce the risk of making a loss on them",
+        "you were under an obligation to make, or were likely to make, a related payment, or",
+        "you received a dividend as a result of a dividend washing arrangement."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Holding period rule, Related payments rule and Dividend washing integrity rule in Special circumstances and glossary 2017 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "TFN amounts are amounts of tax withheld from dividends and some distributions by investment bodies because you did not provide your TFN or ABN to them. TFN amounts are shown on your dividend statement. These amounts must be included in the amount of unfranked dividends you write on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had any shares in joint names, show only your proportion of the dividends. This would be half if you held the shares equally with one other person. Keep a record of how you worked out your proportion if you and the other joint owners did not own the shares equally."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "If any of your statements do not show franked and unfranked portions of the dividend, show the total dividend amount at T ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the unfranked dividend amounts from your statements, including any TFN amounts withheld. Include any other amount that is treated as dividends."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total amount at S ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the franked dividend amounts from your statements, and any other franked dividends paid or credited to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total amount at T ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the 'franking credit amounts that you are entitled to claim' shown on your statements."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include them if the holding period rule , related payments rule or dividend washing integrity rule prevent you from claiming them."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You and your shares 2017"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total amount at U ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the TFN amounts withheld that have not been refunded to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total amount at V . Show cents."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep your dividend statements."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Keeping your tax records"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tax tips"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "received a distribution from a partnership or trust, see question 13 Partnerships and trusts 2017",
+        "carried on a business of trading in shares, see question 15 Net income or loss from business 2017",
+        "sold, redeemed, cancelled or otherwise disposed of shares during the year (but did not carry on a business of trading in shares), see question 18 Capital gains 2017",
+        "received dividends from a foreign company, see question 20 Foreign source income and foreign assets or property 2017",
+        "received dividends from a New Zealand company with Australian franking credits attached, see question 20 Foreign source income and foreign assets or property 2017",
+        "received dividends or a distribution on which family trust distribution tax had been paid, see question A5 Amount on which family trust distribution tax has been paid 2017 ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You and your shares 2017 (NAT 2632)",
+        "Guide to capital gains tax 2017"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question 12 Employee share schemes 2017",
+        "Return to main menu Individual tax return instructions 2017",
+        "Go back to question 10 Gross interest 2017"
+      ]
+    }
+  ],
+  "content_text": "This question is about dividends and distributions that were paid or credited to you by Australian companies that you had shares in. These include:\n- dividends applied under a dividend reinvestment plan\n- dividends that were dealt with on your behalf\n- bonus shares that qualify as dividends.\nDividends include:\n- distributions by a corporate limited partnership\n- dividends paid by a corporate unit trust\n- dividends paid by a public trading trust\n- dividends paid by a listed investment company.\nThe following may also be included as dividends:\n- earnings you received, or were credited with, on a non-share equity interest\n- amounts you received from, or were credited by, a private company as a shareholder or an associate of a shareholder in the form of payments, loans or debts forgiven (these are generally unfranked dividends)\n- amounts you received from, or were credited by, the trustee of a trust estate in the form of payments, loans or debts forgiven where a private company in which you were a shareholder, or an associate of a shareholder, had an unpaid present entitlement (or was going to have such an entitlement by a certain time) from the trust (these are generally unfranked dividends).\nDo not include dividends paid under a demerger unless the company advised you to include them.\nYour dividend statements will show the amounts and should show the payment dates.\nIf you received, or were credited with, a dividend when you were not an Australian resident, see Special circumstances and glossary 2017 .\nWere you paid or credited with any dividends by Australian companies?\nNo | Go to question 12 Employee share schemes 2017 , or return to main menu Individual tax return instructions 2017 .\nYes | Read on.\n## Answering this question\nYou will need your statements from each Australian company, corporate limited partnership, corporate unit trust, public trading trust and listed investment company that paid you dividends or made distributions to you from 1 July 2016 to 30 June 2017 inclusive.\nStatements may show:\n- amounts of franked and unfranked dividends\n- amounts of franking credits\n- tax file number (TFN) amounts withheld from unfranked dividends.\nFranking credits are amounts of tax paid by the company that are allocated to your dividend or distribution. You include as assessable income both:\n- the amount of your dividend or distribution, and\n- the amount of the franking credits allocated to you.\nYou also receive a tax credit on your tax assessment for an amount equal to the franking credits.\nYou may not be entitled to claim the franking credits if:\n- within 45 days of buying the shares (90 days for certain preference shares), you either sold them or entered into an arrangement to reduce the risk of making a loss on them\n- you were under an obligation to make, or were likely to make, a related payment, or\n- you received a dividend as a result of a dividend washing arrangement.\nFor more information, see Holding period rule, Related payments rule and Dividend washing integrity rule in Special circumstances and glossary 2017 .\nTFN amounts are amounts of tax withheld from dividends and some distributions by investment bodies because you did not provide your TFN or ABN to them. TFN amounts are shown on your dividend statement. These amounts must be included in the amount of unfranked dividends you write on your tax return.\nIf you had any shares in joint names, show only your proportion of the dividends. This would be half if you held the shares equally with one other person. Keep a record of how you worked out your proportion if you and the other joint owners did not own the shares equally.\n## Completing your tax return\nIf any of your statements do not show franked and unfranked portions of the dividend, show the total dividend amount at T .\n### Step 1\nAdd up all the unfranked dividend amounts from your statements, including any TFN amounts withheld. Include any other amount that is treated as dividends.\nWrite the total amount at S .\n### Step 2\nAdd up all the franked dividend amounts from your statements, and any other franked dividends paid or credited to you.\nWrite the total amount at T .\n### Step 3\nAdd up the 'franking credit amounts that you are entitled to claim' shown on your statements.\nDo not include them if the holding period rule , related payments rule or dividend washing integrity rule prevent you from claiming them.\nSee also:\n- You and your shares 2017\nWrite the total amount at U .\n### Step 4\nAdd up all the TFN amounts withheld that have not been refunded to you.\nWrite the total amount at V . Show cents.\nKeep your dividend statements.\nSee also:\n- Keeping your tax records\n## Tax tips\nIf you:\n- received a distribution from a partnership or trust, see question 13 Partnerships and trusts 2017\n- carried on a business of trading in shares, see question 15 Net income or loss from business 2017\n- sold, redeemed, cancelled or otherwise disposed of shares during the year (but did not carry on a business of trading in shares), see question 18 Capital gains 2017\n- received dividends from a foreign company, see question 20 Foreign source income and foreign assets or property 2017\n- received dividends from a New Zealand company with Australian franking credits attached, see question 20 Foreign source income and foreign assets or property 2017\n- received dividends or a distribution on which family trust distribution tax had been paid, see question A5 Amount on which family trust distribution tax has been paid 2017 .\nSee also:\n- You and your shares 2017 (NAT 2632)\n- Guide to capital gains tax 2017\n## Where to go next\n- Go to question 12 Employee share schemes 2017\n- Return to main menu Individual tax return instructions 2017\n- Go back to question 10 Gross interest 2017",
+  "child_links": [],
+  "word_count": 999,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

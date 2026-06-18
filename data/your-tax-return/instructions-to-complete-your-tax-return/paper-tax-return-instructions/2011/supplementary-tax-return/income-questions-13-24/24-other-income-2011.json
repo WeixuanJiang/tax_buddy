@@ -1,0 +1,401 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2011/supplementary-tax-return/income-questions-13-24/24-other-income-2011",
+  "title": "About question 24",
+  "description": "Complete question 24 if you have other types of income you need to declare in your supplementary tax return.",
+  "nat_number": "",
+  "quick_code": "25513",
+  "date_updated": "2014-09-16T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you receive any other income? Other income includes: an amount released by one or more of your superannuation funds greater than the excess contributions tax liability stated on the release authority; the release authority is sent to you with the notice of assessment for excess contributions tax lump sum payments in arrears; do not include lump sum payments in arrears relating to superannuation income streams, show them at item 7 jury attendance fees foreign exchange gains royalties bonus amounts distributed from friendly society income bonds taxable scholarships, bursaries, grants or other educational awards benefits or prizes from investment-related lotteries and some game-show winnings income from activities as a special professional (author of a literary, dramatic, musical or artistic work, inventor, performing artist, production associate or active sportsperson); amounts you have already included at item 1 , 2 , 13 , 14 or 15 may also have to be shown here as you may be entitled to a concessional rate of tax if you have certain amounts of professional income; you will not be taxed twice on these amounts reimbursements of tax-related expenses (including amounts imposed by us as an interest charge) or election expenses which you have claimed as a deduction any assessable balancing adjustment when you stop holding a depreciating asset (for example, because of its disposal, loss or destruction) for which you have claimed a deduction for depreciation or decline in value in previous years; your car is a depreciating asset payments made to you under an income protection, sickness or accident insurance policy where the premiums were deductible and the payments replaced income; do not include payments from which tax has been withheld which you have already shown at item 1 , or payments which have been shown on a payment summary which you have already shown at item 2 interest from infrastructure borrowings if you intend to claim a tax offset at item T14 interest derived under the land transport facilities tax offset scheme gains derived on disposal or redemption of traditional securities that are assessable under section 26BB of the Income Tax Assessment Act 1936 allowances or payments you received as a member of a local government council that you have not shown at item 1 or 2 other taxable allowances or payments you received from Centrelink that you have not shown at item 5 or 6 work-in-progress amounts assessable under section 15-50 of the Income Tax Assessment Act 1997 that you received and have not included at item 15 Net income or loss from business ."
+        ],
+        [
+          "No",
+          "go to Total supplement income or loss , or return to main menu Tax return for individuals instructions ."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For an explanation of many of these types of income, see You need to know below. If you have income not listed here that you are unsure about, visit our website or phone 13 28 61 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show at this item:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "foreign exchange losses",
+        "rental income or losses",
+        "business income or losses",
+        "partnership income or losses",
+        "capital gains or capital losses, or",
+        "discounts on shares, stapled securities (provided at least one of the stapled interests is a share in a company) or rights to acquire shares or such stapled securities, acquired under an employee share scheme."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Other questions deal with these matters."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "An amount released by one or more of your superannuation funds which is greater than the excess contributions tax liability"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you use a release authority that we give you to withdraw an amount from your superannuation fund, the payment is tax free unless you withdraw an amount greater than the excess contributions tax liability printed on the release authority."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must include the excess of the total amount released to you over the excess contributions tax liability printed on the release authority in your assessable income for the income year in which you withdrew the money."
+    },
+    {
+      "type": "paragraph",
+      "text": "For further information see Super contributions - too much super can mean extra tax ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lump sum payments in arrears"
+    },
+    {
+      "type": "paragraph",
+      "text": "These payments relate to an earlier income year or years and should normally be shown at 'E' on your PAYG payment summary - individual non-business or at 'E' on your PAYG payment summary - foreign employment ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Include at this item any lump sum payments you received in relation to the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "back payments of salary or wages that accrued in a period more than 12 months before the date of payment",
+        "salary or wages that accrued during a period of suspension and were paid to you on resuming duty",
+        "back payments of non-superannuation annuities that accrued, in whole or in part, in an earlier year or years of income",
+        "back payments of repatriation and social welfare pensions, allowances or payments, including those paid by foreign governments",
+        "back payments of periodical workers and accident compensation payments but not payments made to the owner of the policy",
+        "back payments of Commonwealth education or training payments."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You may get a tax offset if you received certain lump sum payments in 2010-11. We will calculate the tax offset for you. You need to provide additional information. Print SCHEDULE OF ADDITIONAL INFORMATION - ITEM 24 on the top of a separate piece of paper and show the amount of the payment in arrears for each income year involved. Include your name, address and tax file number. Print X in the Yes box at Taxpayer's declaration question 2a on page 12 of your tax return. Sign your schedule and attach it to page 3 of your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you did not need to lodge a tax return for the two most recent years that the payment related to, include on your schedule details of what your taxable income, including your lump sum payments in arrears, would have been had you lodged tax returns in those two years."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have received a PAYG payment summary - foreign employment showing an amount at 'Lump sum E' on which foreign tax has been paid you will also need to include the amount at U item 20 . You will not be taxed twice on this amount."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Jury attendance fees"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include any jury attendance fees you received here. Do not include attendance fees if you had to pay the fees to your employer because you received your normal income while on jury duty. Do not include any travel and meal allowances that were included in the jury fees anywhere on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Foreign exchange gains"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unless you carried on a business and have included all your foreign exchange gains (forex gains) in calculating your business net income or loss at item 15 , your forex gains must be shown at this item (except any foreign source forex gains that you have included at item 20 )."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the forex measures, gains attributable to a fluctuation in a currency exchange rate or to an agreed exchange rate differing from an actual exchange rate are included in assessable income. The gains are assessable when they are realised. This is when:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you dispose of foreign currency or a right there to",
+        "you cease to have a right to receive or pay foreign currency, or",
+        "you cease to have an obligation to pay or receive foreign currency."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Some forex gains are not assessable, and in some circumstances, you may make an election that affects the realisation or treatment of a forex gain. These are set out on our website, together with more information about the forex measures and how to calculate your foreign exchange gains."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a deductible foreign exchange loss, go to question D15 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Royalties"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were an Australian resident for tax purposes in 2010-11, include at this item income from royalties that has not been included at either item 15 or 20 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bonus amounts distributed from friendly society income bonds"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must include at this item any bonus amounts distributed from a friendly society income bond. Your friendly society income bond distribution statement will advise you of the amount to include."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Taxable scholarships, bursaries, grants and other educational awards"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include at this item any income from a scholarship, bursary, grant or other award that you have to pay tax on, unless you have already shown it at item 1 or 2 , or in calculating your business net income or loss shown at item 15 . If you are not sure about a payment, contact the organisation that paid you. If you then need more information, phone 13 28 61 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Benefits or prizes from investment-related lotteries and some game-show winnings"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must include at this item the value of benefits or prizes you received from an investment-related lottery offered by an investment body such as a bank, building society or credit union. Prizes may include cash, low-interest or interest-free loans, holidays or cars."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include prizes won in ordinary lotteries, for example, lotto draws, caskets and raffles. Do not include prizes won in game shows unless you regularly receive appearance fees or game-show winnings."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Income from activities as a special professional"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a special professional, you must include your taxable professional income at this item."
+    },
+    {
+      "type": "paragraph",
+      "text": "A special professional is an author of a literary, dramatic, musical or artistic work, an inventor, a performing artist, a production associate or an active sportsperson. As a special professional, you may be entitled to a concessional rate of tax where your taxable income includes certain amounts of professional income which, when added to your other income, moves you into a higher tax bracket."
+    },
+    {
+      "type": "paragraph",
+      "text": "You are entitled to this concession in 2010-11 if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were an Australian resident, and",
+        "you were a special professional, and",
+        "your taxable professional income was more than $2,500 in the first year that this concession applied."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to read Income averaging for special professionals 2011 (NAT 2475) before you can complete this item. This publication explains how you work out your taxable professional income."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Reimbursements and recoupments of tax-related expenses or election expenses which you have claimed as a deduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a reimbursement or refund in 2010-11 of any tax-related expenses or election expenses which you have claimed, you must include the amount at this item."
+    },
+    {
+      "type": "paragraph",
+      "text": "This question also applies to any remission of an ATO interest or underestimation charge. If you claimed a deduction for an interest or underestimation charge incurred in 2009-10 or earlier years and received a remission (a partial or full reduction) of that charge in 2010-11, you must include the amount of the remission at this item. Similarly, if you are claiming at item D10 a deduction for an interest charge incurred during 2010-11, and some or all of it was remitted during the 2010-11 year, you must include the amount of the remission at this item. You must also include any remissions of goods and services tax (GST) and pay as you go (PAYG) instalment underestimation charge at this item."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Assessable balancing adjustment"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must include at this item any assessable balancing adjustment when you stop holding a depreciating asset (for example, when it is sold, lost or destroyed) for which you have claimed a deduction for depreciation or decline in value in previous years. You may be entitled to a deduction if an employee or agent misappropriates some or all of the amount that you received, or were entitled to receive, as a result of you no longer holding the depreciating asset. The publication Guide to depreciating assets 2011 explains how to make assessable balancing adjustment calculations."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Gains derived on disposal or redemption of traditional securities"
+    },
+    {
+      "type": "paragraph",
+      "text": "The gains derived on disposal or redemption of traditional securities are assessable under section 26BB of the Income Tax Assessment Act 1936 (ITAA 1936)."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see the section on Sale or disposal of company bonds and convertible notes in You and your shares 2011 (NAT 2632)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Other allowances and payments from Centrelink"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must include at this item any taxable allowances and payments from Centrelink that you have not already shown at item 5 or 6 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this item"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "From the list below, work out whether the income you received is a category 1 or category 2 type of income."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Types of income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Category 1"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Lump sum payments in arrears except lump sum payments in arrears relating to superannuation income streams",
+        "Jury attendance fees",
+        "Foreign exchange gains",
+        "Benefits or prizes from investment-related lotteries and some game-show winnings",
+        "Reimbursements of tax-related expenses or election expenses",
+        "Any assessable balancing adjustment when you stop holding a depreciating asset",
+        "A gain on the disposal or the redemption of traditional securities that is assessable under section 26BB of the ITAA 1936",
+        "Work-in-progress amounts assessable under section 15-50 of the Income Tax Assessment Act 1997"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Category 2"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Any income not described in category 1."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Category 2 income shown at this item and certain amounts of income from some other items are used in working out whether you have to pay PAYG instalments and, if so, your instalment rate."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have only one type of income in either category, print a description in the relevant Type of income category box at item 24 on page 15 of your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received more than one type of either category of income, you will need to provide full details. Print ADDITIONAL INFORMATION in the relevant Type of income category box. Print SCHEDULE OF ADDITIONAL INFORMATION - ITEM 24 on the top of a separate piece of paper. Include your name, address and tax file number. Show each type and amount of income you received within the category. Print X in the Yes box at Taxpayer's declaration question 2a on page 12 of your tax return. Sign your schedule and attach it to page 3 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received lump sum payments in arrears, write the amount of any tax withheld from these payments at E item 24 . Do not show any tax withheld included elsewhere on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a special professional, write the taxable professional income you received at Z item 24 . Do not show cents. We take this amount into account for income averaging."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all your category 1 income and write the total at Y item 24 on page 15 of your tax return. Do not show cents."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all your category 2 income, including the amount you wrote at Z item 24 unless you have already included it in your answer to question 1 , 2 , 13 , 14 or 15 and write this total at V item 24 . Do not show cents."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Check that you have . . ."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "printed on your tax return your type of income",
+        "written on your tax return the total of your other income",
+        "attached to page 3 of your tax return your signed SCHEDULE OF ADDITIONAL INFORMATION - ITEM 24, if you need to send us one."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Helpful hint"
+    },
+    {
+      "type": "paragraph",
+      "text": "Super co-contribution"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have declared income at this item, then you may need to complete item A3 Super co-contribution ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question Total supplement income or loss return to main menu Tax return for individuals instructions , or go back to question 23 Forestry managed investment scheme income ."
+        ]
+      ]
+    }
+  ],
+  "content_text": "Did you receive any other income? Other income includes: an amount released by one or more of your superannuation funds greater than the excess contributions tax liability stated on the release authority; the release authority is sent to you with the notice of assessment for excess contributions tax lump sum payments in arrears; do not include lump sum payments in arrears relating to superannuation income streams, show them at item 7 jury attendance fees foreign exchange gains royalties bonus amounts distributed from friendly society income bonds taxable scholarships, bursaries, grants or other educational awards benefits or prizes from investment-related lotteries and some game-show winnings income from activities as a special professional (author of a literary, dramatic, musical or artistic work, inventor, performing artist, production associate or active sportsperson); amounts you have already included at item 1 , 2 , 13 , 14 or 15 may also have to be shown here as you may be entitled to a concessional rate of tax if you have certain amounts of professional income; you will not be taxed twice on these amounts reimbursements of tax-related expenses (including amounts imposed by us as an interest charge) or election expenses which you have claimed as a deduction any assessable balancing adjustment when you stop holding a depreciating asset (for example, because of its disposal, loss or destruction) for which you have claimed a deduction for depreciation or decline in value in previous years; your car is a depreciating asset payments made to you under an income protection, sickness or accident insurance policy where the premiums were deductible and the payments replaced income; do not include payments from which tax has been withheld which you have already shown at item 1 , or payments which have been shown on a payment summary which you have already shown at item 2 interest from infrastructure borrowings if you intend to claim a tax offset at item T14 interest derived under the land transport facilities tax offset scheme gains derived on disposal or redemption of traditional securities that are assessable under section 26BB of the Income Tax Assessment Act 1936 allowances or payments you received as a member of a local government council that you have not shown at item 1 or 2 other taxable allowances or payments you received from Centrelink that you have not shown at item 5 or 6 work-in-progress amounts assessable under section 15-50 of the Income Tax Assessment Act 1997 that you received and have not included at item 15 Net income or loss from business .\nNo | go to Total supplement income or loss , or return to main menu Tax return for individuals instructions .\nYes | Read below.\nFor an explanation of many of these types of income, see You need to know below. If you have income not listed here that you are unsure about, visit our website or phone 13 28 61 .\nDo not show at this item:\n- foreign exchange losses\n- rental income or losses\n- business income or losses\n- partnership income or losses\n- capital gains or capital losses, or\n- discounts on shares, stapled securities (provided at least one of the stapled interests is a share in a company) or rights to acquire shares or such stapled securities, acquired under an employee share scheme.\nOther questions deal with these matters.\n## You need to know\n### An amount released by one or more of your superannuation funds which is greater than the excess contributions tax liability\nIf you use a release authority that we give you to withdraw an amount from your superannuation fund, the payment is tax free unless you withdraw an amount greater than the excess contributions tax liability printed on the release authority.\nYou must include the excess of the total amount released to you over the excess contributions tax liability printed on the release authority in your assessable income for the income year in which you withdrew the money.\nFor further information see Super contributions - too much super can mean extra tax .\n### Lump sum payments in arrears\nThese payments relate to an earlier income year or years and should normally be shown at 'E' on your PAYG payment summary - individual non-business or at 'E' on your PAYG payment summary - foreign employment .\nInclude at this item any lump sum payments you received in relation to the following:\n- back payments of salary or wages that accrued in a period more than 12 months before the date of payment\n- salary or wages that accrued during a period of suspension and were paid to you on resuming duty\n- back payments of non-superannuation annuities that accrued, in whole or in part, in an earlier year or years of income\n- back payments of repatriation and social welfare pensions, allowances or payments, including those paid by foreign governments\n- back payments of periodical workers and accident compensation payments but not payments made to the owner of the policy\n- back payments of Commonwealth education or training payments.\nYou may get a tax offset if you received certain lump sum payments in 2010-11. We will calculate the tax offset for you. You need to provide additional information. Print SCHEDULE OF ADDITIONAL INFORMATION - ITEM 24 on the top of a separate piece of paper and show the amount of the payment in arrears for each income year involved. Include your name, address and tax file number. Print X in the Yes box at Taxpayer's declaration question 2a on page 12 of your tax return. Sign your schedule and attach it to page 3 of your tax return.\nIf you did not need to lodge a tax return for the two most recent years that the payment related to, include on your schedule details of what your taxable income, including your lump sum payments in arrears, would have been had you lodged tax returns in those two years.\nIf you have received a PAYG payment summary - foreign employment showing an amount at 'Lump sum E' on which foreign tax has been paid you will also need to include the amount at U item 20 . You will not be taxed twice on this amount.\n### Jury attendance fees\nInclude any jury attendance fees you received here. Do not include attendance fees if you had to pay the fees to your employer because you received your normal income while on jury duty. Do not include any travel and meal allowances that were included in the jury fees anywhere on your tax return.\n### Foreign exchange gains\nUnless you carried on a business and have included all your foreign exchange gains (forex gains) in calculating your business net income or loss at item 15 , your forex gains must be shown at this item (except any foreign source forex gains that you have included at item 20 ).\nUnder the forex measures, gains attributable to a fluctuation in a currency exchange rate or to an agreed exchange rate differing from an actual exchange rate are included in assessable income. The gains are assessable when they are realised. This is when:\n- you dispose of foreign currency or a right there to\n- you cease to have a right to receive or pay foreign currency, or\n- you cease to have an obligation to pay or receive foreign currency.\nSome forex gains are not assessable, and in some circumstances, you may make an election that affects the realisation or treatment of a forex gain. These are set out on our website, together with more information about the forex measures and how to calculate your foreign exchange gains.\nIf you had a deductible foreign exchange loss, go to question D15 .\n### Royalties\nIf you were an Australian resident for tax purposes in 2010-11, include at this item income from royalties that has not been included at either item 15 or 20 .\n### Bonus amounts distributed from friendly society income bonds\nYou must include at this item any bonus amounts distributed from a friendly society income bond. Your friendly society income bond distribution statement will advise you of the amount to include.\n### Taxable scholarships, bursaries, grants and other educational awards\nInclude at this item any income from a scholarship, bursary, grant or other award that you have to pay tax on, unless you have already shown it at item 1 or 2 , or in calculating your business net income or loss shown at item 15 . If you are not sure about a payment, contact the organisation that paid you. If you then need more information, phone 13 28 61 .\n### Benefits or prizes from investment-related lotteries and some game-show winnings\nYou must include at this item the value of benefits or prizes you received from an investment-related lottery offered by an investment body such as a bank, building society or credit union. Prizes may include cash, low-interest or interest-free loans, holidays or cars.\nDo not include prizes won in ordinary lotteries, for example, lotto draws, caskets and raffles. Do not include prizes won in game shows unless you regularly receive appearance fees or game-show winnings.\n### Income from activities as a special professional\nIf you are a special professional, you must include your taxable professional income at this item.\nA special professional is an author of a literary, dramatic, musical or artistic work, an inventor, a performing artist, a production associate or an active sportsperson. As a special professional, you may be entitled to a concessional rate of tax where your taxable income includes certain amounts of professional income which, when added to your other income, moves you into a higher tax bracket.\nYou are entitled to this concession in 2010-11 if:\n- you were an Australian resident, and\n- you were a special professional, and\n- your taxable professional income was more than $2,500 in the first year that this concession applied.\nYou will need to read Income averaging for special professionals 2011 (NAT 2475) before you can complete this item. This publication explains how you work out your taxable professional income.\n### Reimbursements and recoupments of tax-related expenses or election expenses which you have claimed as a deduction\nIf you received a reimbursement or refund in 2010-11 of any tax-related expenses or election expenses which you have claimed, you must include the amount at this item.\nThis question also applies to any remission of an ATO interest or underestimation charge. If you claimed a deduction for an interest or underestimation charge incurred in 2009-10 or earlier years and received a remission (a partial or full reduction) of that charge in 2010-11, you must include the amount of the remission at this item. Similarly, if you are claiming at item D10 a deduction for an interest charge incurred during 2010-11, and some or all of it was remitted during the 2010-11 year, you must include the amount of the remission at this item. You must also include any remissions of goods and services tax (GST) and pay as you go (PAYG) instalment underestimation charge at this item.\n### Assessable balancing adjustment\nYou must include at this item any assessable balancing adjustment when you stop holding a depreciating asset (for example, when it is sold, lost or destroyed) for which you have claimed a deduction for depreciation or decline in value in previous years. You may be entitled to a deduction if an employee or agent misappropriates some or all of the amount that you received, or were entitled to receive, as a result of you no longer holding the depreciating asset. The publication Guide to depreciating assets 2011 explains how to make assessable balancing adjustment calculations.\n### Gains derived on disposal or redemption of traditional securities\nThe gains derived on disposal or redemption of traditional securities are assessable under section 26BB of the Income Tax Assessment Act 1936 (ITAA 1936).\nFor more information, see the section on Sale or disposal of company bonds and convertible notes in You and your shares 2011 (NAT 2632).\n### Other allowances and payments from Centrelink\nYou must include at this item any taxable allowances and payments from Centrelink that you have not already shown at item 5 or 6 .\n## Completing this item\n### Step 1\nFrom the list below, work out whether the income you received is a category 1 or category 2 type of income.\n### Types of income\nCategory 1\n- Lump sum payments in arrears except lump sum payments in arrears relating to superannuation income streams\n- Jury attendance fees\n- Foreign exchange gains\n- Benefits or prizes from investment-related lotteries and some game-show winnings\n- Reimbursements of tax-related expenses or election expenses\n- Any assessable balancing adjustment when you stop holding a depreciating asset\n- A gain on the disposal or the redemption of traditional securities that is assessable under section 26BB of the ITAA 1936\n- Work-in-progress amounts assessable under section 15-50 of the Income Tax Assessment Act 1997\nCategory 2\n- Any income not described in category 1.\nCategory 2 income shown at this item and certain amounts of income from some other items are used in working out whether you have to pay PAYG instalments and, if so, your instalment rate.\nIf you have only one type of income in either category, print a description in the relevant Type of income category box at item 24 on page 15 of your tax return.\nIf you received more than one type of either category of income, you will need to provide full details. Print ADDITIONAL INFORMATION in the relevant Type of income category box. Print SCHEDULE OF ADDITIONAL INFORMATION - ITEM 24 on the top of a separate piece of paper. Include your name, address and tax file number. Show each type and amount of income you received within the category. Print X in the Yes box at Taxpayer's declaration question 2a on page 12 of your tax return. Sign your schedule and attach it to page 3 of your tax return.\n### Step 2\nIf you received lump sum payments in arrears, write the amount of any tax withheld from these payments at E item 24 . Do not show any tax withheld included elsewhere on your tax return.\n### Step 3\nIf you are a special professional, write the taxable professional income you received at Z item 24 . Do not show cents. We take this amount into account for income averaging.\n### Step 4\nAdd up all your category 1 income and write the total at Y item 24 on page 15 of your tax return. Do not show cents.\n### Step 5\nAdd up all your category 2 income, including the amount you wrote at Z item 24 unless you have already included it in your answer to question 1 , 2 , 13 , 14 or 15 and write this total at V item 24 . Do not show cents.\n## Check that you have . . .\n- printed on your tax return your type of income\n- written on your tax return the total of your other income\n- attached to page 3 of your tax return your signed SCHEDULE OF ADDITIONAL INFORMATION - ITEM 24, if you need to send us one.\n### Helpful hint\nSuper co-contribution\nIf you have declared income at this item, then you may need to complete item A3 Super co-contribution .\nWhere to go next go to question Total supplement income or loss return to main menu Tax return for individuals instructions , or go back to question 23 Forestry managed investment scheme income .",
+  "child_links": [],
+  "word_count": 2608,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

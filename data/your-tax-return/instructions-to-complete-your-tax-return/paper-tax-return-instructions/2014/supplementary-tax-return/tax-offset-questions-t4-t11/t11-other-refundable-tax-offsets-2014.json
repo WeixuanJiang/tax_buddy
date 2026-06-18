@@ -1,0 +1,117 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2014/supplementary-tax-return/tax-offset-questions-t4-t11/t11-other-refundable-tax-offsets-2014",
+  "title": "T11 Other refundable tax offsets 2014",
+  "description": "Complete question T11 to claim other refundable tax offsets.",
+  "nat_number": "71050",
+  "quick_code": "40127",
+  "date_updated": "2014-06-03T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, TaxPack, supplement, tax offset",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part A"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Are you entitled to a Conservation tillage refundable tax offset for an eligible no-till seeder (eligible seeder)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a qualifying primary producer or an individual partner in a qualifying primary production partnership, you may be entitled to a refundable tax offset of 15% of the cost of an eligible seeder. If you are a partner in a partnership your offset claim will be made in accordance with your share of the partnership. For more information on this offset see Conservation tillage refundable tax offset ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to Part B."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Work out the cost of the eligible seeder. This will include optional equipment that forms part of the eligible seeder and was installed when it was first used.",
+        "The maximum offset will be 15% of the amount from step 1.",
+        "If you are a partner, your amount from step 2 will be in proportion to your share of the partnership."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part B"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Are you the principal beneficiary of a Special disability trust entitled to a tax offset for tax paid by the trustee?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the trustee of the Special disability trust has lodged a tax return and paid tax on the net income of the trust, you are entitled to claim the amount of the tax paid by the trustee as a refundable tax offset. For more information on this offset see our factsheet Special disability trusts - tax return lodgment instructions ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "If you have a tax offset under Part A , go to Completing this item . Otherwise, go to Total supplement tax offsets , or return to main menu Individual tax return instructions ."
+        ],
+        [
+          "Yes",
+          "Include the amount of the tax paid by the trustee as a Special disability trust offset."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing this item"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Add up all your refundable tax offset amounts for this item. Write the total at P item T11 . Do not show cents.",
+        "Complete the CODE box at the right of P item T11 as follows:"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If you are only claiming a Conservation tillage refundable tax offset under Part A , print C in the CODE box.",
+        "If you are only claiming an offset as a beneficiary of a Special disability trust under Part B , print S in the CODE box.",
+        "If you are claiming for both types of offset under Part A and B print M in the CODE box."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to Total supplement tax offsets .",
+        "Return to main menu Individual tax return instructions .",
+        "Go back to question T10 Other non-refundable tax offsets ."
+      ]
+    }
+  ],
+  "content_text": "## Part A\n## Are you entitled to a Conservation tillage refundable tax offset for an eligible no-till seeder (eligible seeder)?\nIf you are a qualifying primary producer or an individual partner in a qualifying primary production partnership, you may be entitled to a refundable tax offset of 15% of the cost of an eligible seeder. If you are a partner in a partnership your offset claim will be made in accordance with your share of the partnership. For more information on this offset see Conservation tillage refundable tax offset .\nNo | Go to Part B.\nYes | Read on.\n- Work out the cost of the eligible seeder. This will include optional equipment that forms part of the eligible seeder and was installed when it was first used.\n- The maximum offset will be 15% of the amount from step 1.\n- If you are a partner, your amount from step 2 will be in proportion to your share of the partnership.\n## Part B\n## Are you the principal beneficiary of a Special disability trust entitled to a tax offset for tax paid by the trustee?\nIf the trustee of the Special disability trust has lodged a tax return and paid tax on the net income of the trust, you are entitled to claim the amount of the tax paid by the trustee as a refundable tax offset. For more information on this offset see our factsheet Special disability trusts - tax return lodgment instructions .\nNo | If you have a tax offset under Part A , go to Completing this item . Otherwise, go to Total supplement tax offsets , or return to main menu Individual tax return instructions .\nYes | Include the amount of the tax paid by the trustee as a Special disability trust offset.\n### Completing this item\n- Add up all your refundable tax offset amounts for this item. Write the total at P item T11 . Do not show cents.\n- Complete the CODE box at the right of P item T11 as follows:\n- If you are only claiming a Conservation tillage refundable tax offset under Part A , print C in the CODE box.\n- If you are only claiming an offset as a beneficiary of a Special disability trust under Part B , print S in the CODE box.\n- If you are claiming for both types of offset under Part A and B print M in the CODE box.\n### Where to go next\n- Go to Total supplement tax offsets .\n- Return to main menu Individual tax return instructions .\n- Go back to question T10 Other non-refundable tax offsets .",
+  "child_links": [],
+  "word_count": 448,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

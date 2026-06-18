@@ -1,0 +1,967 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/foreign-resident-investments/foreign-investment-in-australia/register-of-foreign-ownership-of-australian-assets/register-of-foreign-ownership-of-australian-assets-reports/register-of-foreign-ownership-of-australian-assets-2024-25-report/water-interests",
+  "title": "Water interests",
+  "description": "Data on foreign ownership of water interests as at 30 June 2025.",
+  "nat_number": "",
+  "quick_code": "106049",
+  "date_updated": "2026-03-04T13:00:00Z",
+  "first_published": "",
+  "keywords": "foreign ownership report, foreign owner, Register of Foreign Ownership of Australian Assets, foreign investment, the Register, the Register report, residential land, water interests, business interests, mining or production tenements and exploration tenements, commercial land, agricultural land",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to interpret this data"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following information outlines foreign ownership of water interests at 30 June 2025 as taken from the Register of Foreign Ownership of Australian Assets (the Register)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Foreign Acquisitions and Takeovers Act 1975 (FATA) defines foreign persons (which include temporary residents and entities with foreign ownership of 20% or more) and details registration requirements for those who acquire interests in specified Australian assets."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Register is a live dataset of self-registrations of foreign-owned assets, including water entitlements that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "were registered through a stocktake in 2017 and subsequently converted from the Register of Foreign Ownership of Water Entitlements into the current Register, and",
+        "continued to be held by the foreign person as at 30 June 2025."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Information contained in the Register is protected and subject to the provisions of Division 355 of Schedule 1 of the Taxation Administration Act 1953 and Division 3 of Part 7 of the FATA. As such, the complete Register is not made publicly available, and this report presents aggregated information providing a view of all registrations at a point in time. Consistent with Australia’s foreign investment framework, the details of specific registrations or investors are not made publicly available, and information which could identify, or be used to identify, an individual or entity is excluded from this report."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aggregated data, including figures for prior years, is available on data.gov.au External Link ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Registrable water interests are defined in the FATA to include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an irrigation right (within the meaning of the Water Act 2007 ) that relates to a water resource in Australia",
+        "a right (including an Australian water access entitlement) conferred by or under a law of a state or territory to hold or take water from a water resource in Australia, or",
+        "a contractual water right of a person under a contract or deed whose term (including any extension or renewal) after the person starts to hold the right is reasonably likely to exceed 5 years."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign persons must register a registerable water interest if they:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "acquire it during the financial year and they hold the interest at the end of the same financial year, or",
+        "become a foreign person during the financial year and they hold it at the end of the same financial year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Water interests can be registered at any time during the year, but no later than 30 days after the end of the financial year in which the event occurred."
+    },
+    {
+      "type": "paragraph",
+      "text": "Statistics on registrable water interests in this report are presented by reference to volume of water in gigalitres (GL)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Bureau of Meteorology (the Bureau) is required to collect, manage and disseminate Australia’s water information under the Water Act 2007 and publishes details of Australian water entitlements on issue annually in the Water Markets Dashboard External Link on its website. We use this information to determine the percentage of Australian water entitlements on issue which have a level of foreign ownership."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Bureau water entitlement on issue data used in the report to calculate the level of foreign ownership is based on 30 June 2024 data for all states, except South Australia which is based on 30 June 2023 data. This is the most current Bureau dataset available at the time the report was developed. This may affect the level of foreign ownership percentages of water entitlements throughout this report."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Bureau Water Market Dashboard does not include zero volume water entitlements."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Bureau Water Markets Dashboard does not capture water rights issued outside state water planning frameworks. The volume of registered water interests attributed in the Register at 30 June 2025 to water rights outside the state water planning frameworks was 3 GL."
+    },
+    {
+      "type": "paragraph",
+      "text": "Many of the rights issued outside the state water planning frameworks are in Queensland and the Northern Territory and have been issued with zero volumes. The level of foreign ownership expressed as a proportion of the total water entitlements is potentially marginally overstated. This is because the 3 GL of registered water rights outside the state water planning frameworks are included in the tables, but the total water rights outside of the state water planning frameworks are not included in the total available water entitlements taken from the Bureau Water Markets Dashboard. However, 3 GL represents less than 0.1% of the registered water rights."
+    },
+    {
+      "type": "paragraph",
+      "text": "The approach to the administration of water resources within state water planning frameworks also varies across the states and territories, and hence data collected by the Register is not entirely consistent across those jurisdictions. In particular, certain water licences are issued with conditions rather than volumetric limits (such as maximum extraction rates once certain river flow conditions are met) where other water entitlements are issued with a nominal volume (typically a maximum volume of water that may be taken in a given period, generally per annum)."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is a total of 289 GL of water interests which are flagged as contractual rights (leases) registered by foreign persons which are also water interests registered by different foreign persons. This figure is not included in the tables, as it would double count the water registered by foreign entities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Water usage is specified by foreign persons at the point of registration. Some water usage is listed by registrants as ‘Other’. This includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "water supply to townships for mining company employees",
+        "water used for dairy farm activities and pasture irrigation for stock feed."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The data should only be used as an indication of water usage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not all industries need to hold rights to water. Food processing and other industries located in or near cities and towns are likely to source their water requirements through town supply and services. Conversely, manufacturing and processing industries such as wineries which are located in rural and remote regions are likely to hold rights to water required for their operation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Water interests held by mining may not reflect water usage, as it often includes water managed for mine safety such as de-watering activities where water is extracted and discharged into the environment or to downstream users. Furthermore, water used by mining may be so saline it effectively has no other use. Mine water use is also managed under environmental or related regulation. For more information, see the Minerals Council of Australia website External Link ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Total registered water interests"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1 shows registered water interests by volume over the 3 years to 30 June 2025, segmented by Australian state and territory."
+    },
+    {
+      "type": "paragraph",
+      "text": "The total volume of water entitlements in Australia with a level of foreign ownership increased from 4,932 GL at 30 June 2024 to 5,089 GL at 30 June 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "The overall proportion of water entitlements with a level of foreign ownership is 12.7% at 30 June 2025, compared to 12.3% at 30 June 2024."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "State or territory",
+          "30 June 2023 (GL)",
+          "30 June 2024 (GL)",
+          "30 June 2025 (GL)",
+          "Bureau water entitlement on issue (GL)",
+          "Registered water interest as a proportion of Bureau water entitlement on issue (%)"
+        ],
+        [
+          "NSW/ACT",
+          "1,532",
+          "1,510",
+          "1,538",
+          "15,332",
+          "10.0"
+        ],
+        [
+          "NT",
+          "42",
+          "42",
+          "38",
+          "652",
+          "5.8"
+        ],
+        [
+          "QLD",
+          "1,295",
+          "1,328",
+          "1,365",
+          "6,910",
+          "19.8"
+        ],
+        [
+          "SA",
+          "363",
+          "406",
+          "430",
+          "2,738",
+          "15.7"
+        ],
+        [
+          "TAS",
+          "160",
+          "161",
+          "167",
+          "2,635",
+          "6.3"
+        ],
+        [
+          "VIC",
+          "519",
+          "532",
+          "601",
+          "7,518",
+          "8.0"
+        ],
+        [
+          "WA",
+          "864",
+          "952",
+          "951",
+          "4,426",
+          "21.5"
+        ],
+        [
+          "Total",
+          "4,775",
+          "4,932",
+          "5,089",
+          "40,211",
+          "12.7"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Totals may differ from the sum of components due to rounding.",
+        "The Registered water interest as a proportion of Bureau water entitlement on issue percentage is the ratio of registered water interests at 30 June 2025 to the Bureau water entitlement on issue by state or territory.",
+        "The Bureau water entitlement on issue data used to calculate the level of foreign ownership is based on 30 June 2024 data for all states, except South Australia which is based on 30 June 2023 data. This is the most current Bureau dataset available at the time the report was developed. This may affect the level of foreign ownership percentages of water entitlements in this table."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Zero volume registrations"
+    },
+    {
+      "type": "paragraph",
+      "text": "At 30 June 2025, there were 730 registrations of water interests with a reported volume of zero. Of these, 288 were in connection with gas and petroleum or mining exploration licences. Exploration licences can be granted for a specific term and allow the water entitlement holder to take and use water which might be found during exploration activities. Where the quantity of water which may be uncovered during exploration is unknown, a zero amount is stated in the registration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other situations where registrants report a water interest with zero volume include registrations relating to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "water monitoring bores",
+        "water search bores (such as mining or exploration)",
+        "water supply works",
+        "water licences from an unregulated water resource."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Foreign and Australian share of registered water interests"
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 1 shows the foreign share and Australian share of registered water interests as at 30 June for each year from 2023 to 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the Register records foreign person entities that have a foreign ownership share of 20% or more, there may be more than one nationality and some level of Australian ownership in the same water interest."
+    },
+    {
+      "type": "paragraph",
+      "text": "At 30 June 2025, of the 5,089 gigalitres of registered water interests, 18.1% (921 GL) was indirectly held by Australian investors who have shares in entities considered foreign persons."
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 1: Foreign and Australian share of registered water interests"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Registered water interests by resource"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2 shows the registered water interests by resource as a proportion of the total water entitlement on issue by resource."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Resource",
+          "Registered water interest (GL)",
+          "Bureau water entitlement on issue (GL)",
+          "Registered water interest as a proportion of total Bureau water entitlement on issue (%)"
+        ],
+        [
+          "Groundwater",
+          "1,830",
+          "9,245",
+          "19.8"
+        ],
+        [
+          "Surface water",
+          "3,256",
+          "30,966",
+          "10.5"
+        ],
+        [
+          "Undefined",
+          "3",
+          "N/A",
+          "N/A"
+        ],
+        [
+          "Total",
+          "5,089",
+          "40,211",
+          "12.7"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The registered water interest as a proportion of Bureau water entitlement on issue percentage is the ratio of registered water interests at 30 June 2025 to the Bureau water entitlement on issue by resource.",
+        "The Bureau water entitlement on issue data used to calculate the level of foreign ownership is based on 30 June 2024 data for all states, except South Australia which is based on 30 June 2023 data. This is the most current Bureau dataset available at the time the report was developed. This may affect the level of foreign ownership percentages of water entitlements in this table."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 3 shows the registered water interests by resource in each state or territory as a proportion of the total water entitlement on issue."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "State or territory Resource",
+          "Registered water interest (GL)",
+          "Bureau water entitlement on issue (GL)",
+          "Registered water interest as a proportion of total water entitlement on issue (%)"
+        ],
+        [
+          "NSW and ACT Groundwater",
+          "381",
+          "2,006",
+          "19.0"
+        ],
+        [
+          "NSW and ACT Surface water",
+          "1,157",
+          "13,326",
+          "8.7"
+        ],
+        [
+          "NT Groundwater",
+          "38",
+          "361",
+          "10.4"
+        ],
+        [
+          "NT Surface water",
+          "0",
+          "292",
+          "0.0"
+        ],
+        [
+          "QLD Groundwater",
+          "123",
+          "1,088",
+          "11.3"
+        ],
+        [
+          "QLD Surface water",
+          "1,240",
+          "5,822",
+          "21.3"
+        ],
+        [
+          "QLD Undefined",
+          "3",
+          "n/a",
+          "n/a"
+        ],
+        [
+          "SA Groundwater",
+          "350",
+          "1,541",
+          "22.7"
+        ],
+        [
+          "SA Surface water",
+          "79",
+          "1,197",
+          "6.6"
+        ],
+        [
+          "TAS Groundwater",
+          "2",
+          "20",
+          "10.5"
+        ],
+        [
+          "TAS Surface water",
+          "165",
+          "2,615",
+          "6.3"
+        ],
+        [
+          "VIC Groundwater",
+          "42",
+          "899",
+          "4.7"
+        ],
+        [
+          "VIC Surface water",
+          "559",
+          "6,619",
+          "8.4"
+        ],
+        [
+          "WA Groundwater",
+          "895",
+          "3,331",
+          "26.9"
+        ],
+        [
+          "WA Surface water",
+          "56",
+          "1,095",
+          "5.1"
+        ],
+        [
+          "Total state or territory",
+          "5,089",
+          "40,211",
+          "12.7"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Totals may differ from the sum of components due to rounding.",
+        "The registered water interest as a proportion of Bureau water entitlement on issue percentage is the ratio of registered water interests at 30 June 2025 to the Bureau water entitlement on issue by resource by state or territory.",
+        "The Bureau water entitlement on issue data used to calculate the level of foreign ownership is based on 30 June 2024 data for all states, except South Australia which is based on 30 June 2023 data. This is the most current Bureau dataset available at the time the report was developed. This may affect the level of foreign ownership percentages of water entitlements in this table."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Regulated and unregulated water interests – surface water"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 4 shows:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "registered water interests by regulated and unregulated water resource for surface water as at 30 June 2025",
+        "registered water interests as a proportion of total water entitlement on issue as at 30 June 2025, by water resource",
+        "the total regulated and unregulated water entitlement on issue (sourced from the Bureau Water Market Dashboard)."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Water resource",
+          "Registered water interest (GL)",
+          "Bureau water on entitlement on issue (GL)",
+          "Registered water interests as a proportion of total Bureau water entitlement on issue (%)"
+        ],
+        [
+          "Regulated",
+          "2,525",
+          "20,030",
+          "12.6"
+        ],
+        [
+          "Unregulated",
+          "512",
+          "10,936",
+          "4.7"
+        ],
+        [
+          "Not specified",
+          "220",
+          "n/a",
+          "n/a"
+        ],
+        [
+          "Total",
+          "3,256",
+          "30,966",
+          "10.5"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Regulated is defined as a water resource which has its flows controlled through the use of infrastructure to store and release water.",
+        "Unregulated is defined as a water resource that is not controlled through the use of infrastructure to store and release water.",
+        "Where a foreign person has not specified whether their interest is in a regulated or unregulated water resource at the point of registration, this is noted as 'Not specified'.",
+        "Registered water interests as a proportion of total water entitlement on issue is the ratio of registered water interest by water resource to the total water entitlement on issue by water resource.",
+        "The Bureau water entitlement on issue data used to calculate the level of foreign ownership is based on 30 June 2024 data for all states, except South Australia which is based on 30 June 2023 data. This is the most current Bureau dataset available at the time the report was developed. This may affect the level of foreign ownership percentages of water entitlements in this table."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Registered water interests in the Murray-Darling Basin"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Murray-Darling Basin (MDB) is defined by the catchment areas of the Murray and Darling rivers and their many tributaries. The MDB covers:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "75% of New South Wales",
+        "more than 50% of Victoria",
+        "15% of Queensland",
+        "8% of South Australia",
+        "all of the Australian Capital Territory."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A geographic view of the northern and southern basin can be found on the Murray-Darling Basin Authority website External Link ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Bureau reported the total water entitlement on issue in the MDB was 20,034 GL, with:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "17,618 GL for total surface water in the Northern MDB and Southern MDB, and",
+        "2,416 GL for total groundwater in the Northern MDB and Southern MDB."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 5 shows the registered water interests in the MDB as a proportion of the total water entitlement by resource as at 30 June 2025."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Resource",
+          "Registered water interest (GL)",
+          "Bureau water on entitlement on issue (GL)",
+          "Registered water interests as a proportion of water entitlement on issue (%)"
+        ],
+        [
+          "Surface water Northern MDB",
+          "1,228",
+          "4,324",
+          "28.4"
+        ],
+        [
+          "Surface water Southern MDB",
+          "1,149",
+          "13,295",
+          "8.6"
+        ],
+        [
+          "Groundwater Northern MDB and Southern MDB",
+          "310",
+          "2,416",
+          "12.8"
+        ],
+        [
+          "Total for MDB",
+          "2,687",
+          "20,034",
+          "13.4"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Registered water interests as a proportion of total water entitlement on issue is the ratio of registered water interest by water resource to the total Bureau water entitlement on issue by water resource.",
+        "The Bureau water entitlement on issue data used to calculate the level of foreign ownership is based on 30 June 2024 data for all states, except South Australia which is based on 30 June 2023 data. This is the most current Bureau dataset available at the time the report was developed. This may affect the level of foreign ownership percentages of water entitlements in this table.",
+        "The Bureau water entitlement on issue data details all groundwater and does not split groundwater between Northern or Southern MDB."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Registered water interests by water use"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Register collects information about the use of the water interests. Registrants are required to register the relevant percentage of use against one or more of the 14 types of water use. For the purpose of this report, we've grouped the different water uses into 4 categories. These are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "agriculture, which contains crops, forestry, horticulture and stock usages",
+        "mining",
+        "industry, which contains construction, energy, industrial, manufacturing and transport usages",
+        "other, which contains tourism, trade, other and research usages."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 6 shows the water use by state and territory. The highest use was for agriculture (65.8%) followed by mining (18.5%), other (8.0%) and industry (7.7%)."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "State or territory",
+          "Agriculture (GL)",
+          "Mining (GL)",
+          "Industry (GL)",
+          "Other (GL)"
+        ],
+        [
+          "NSW/ACT",
+          "1,210",
+          "160",
+          "44",
+          "125"
+        ],
+        [
+          "NT",
+          "26",
+          "5",
+          "0",
+          "6"
+        ],
+        [
+          "QLD",
+          "1,205",
+          "101",
+          "29",
+          "30"
+        ],
+        [
+          "SA",
+          "381",
+          "0",
+          "2",
+          "46"
+        ],
+        [
+          "TAS",
+          "76",
+          "0",
+          "56",
+          "35"
+        ],
+        [
+          "VIC",
+          "394",
+          "0",
+          "81",
+          "126"
+        ],
+        [
+          "WA",
+          "57",
+          "674",
+          "181",
+          "40"
+        ],
+        [
+          "Total",
+          "3,350",
+          "940",
+          "392",
+          "407"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Totals may differ from the sum of components due to rounding.",
+        "Registrants use 'other' where water usage does not fit within a specific category. These registrations are reconciled against third-party information and where appropriate, the Register is updated to reflect the appropriate category."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Registered water interests by type"
+    },
+    {
+      "type": "paragraph",
+      "text": "Water entitlements are issued as:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an irrigation right from an irrigation infrastructure",
+        "a lease (contractual right), and",
+        "water access entitlements."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 7 shows the registered water interests issued by type."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "State or territory",
+          "Irrigation right (GL)",
+          "Lease (contractual right) (GL)",
+          "Water access entitlement (GL)",
+          "Total (GL)"
+        ],
+        [
+          "NSW/ACT",
+          "181",
+          "53",
+          "1,304",
+          "1,538"
+        ],
+        [
+          "NT",
+          "0",
+          "0",
+          "38",
+          "38"
+        ],
+        [
+          "QLD",
+          "1",
+          "29",
+          "1,335",
+          "1,365"
+        ],
+        [
+          "SA",
+          "3",
+          "140",
+          "287",
+          "430"
+        ],
+        [
+          "TAS",
+          "1",
+          "3",
+          "163",
+          "167"
+        ],
+        [
+          "VIC",
+          "10",
+          "72",
+          "519",
+          "601"
+        ],
+        [
+          "WA",
+          "8",
+          "142",
+          "801",
+          "951"
+        ],
+        [
+          "Total",
+          "204",
+          "439",
+          "4,446",
+          "5,089"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Totals may differ from the sum of components due to rounding.",
+        "An irrigation right is a right a person has against an irrigation infrastructure operator to receive water. While this may be similar to a lease (contractual right) as a contract may be involved, a lease is a right that a person holds to another person’s water entitlement (other than an irrigation infrastructure operator).",
+        "A ‘water access entitlement’ is an ongoing entitlement to a share of water from a resource plan or other water management area. This is sometimes called a water access right."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Top 20 sources of foreign investment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 8 shows the top 20 source countries of the foreign share of registered water interests as at 30 June 2025. This excludes the Australian share of registered water interests."
+    },
+    {
+      "type": "paragraph",
+      "text": "The total registered water interests by country is compared to the total Bureau water entitlement on issue of 40,211 GL to identify the estimated proportion of water entitlement that can be attributed to each country. The Bureau water entitlement on issue is based on 30 June 2024 data for all states, except South Australia which is based on 30 June 2023 data."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Country",
+          "Foreign share of registered water interests (GL)",
+          "Foreign share of total Bureau water entitlement (%)"
+        ],
+        [
+          "Canada",
+          "1,066",
+          "2.6"
+        ],
+        [
+          "United States of America",
+          "790",
+          "2.0"
+        ],
+        [
+          "United Kingdom",
+          "374",
+          "0.9"
+        ],
+        [
+          "People's Republic of China",
+          "343",
+          "0.9"
+        ],
+        [
+          "France",
+          "209",
+          "0.5"
+        ],
+        [
+          "Germany",
+          "151",
+          "0.4"
+        ],
+        [
+          "Singapore",
+          "139",
+          "0.3"
+        ],
+        [
+          "Hong Kong, SAR",
+          "127",
+          "0.3"
+        ],
+        [
+          "Brazil",
+          "92",
+          "0.2"
+        ],
+        [
+          "Switzerland",
+          "89",
+          "0.2"
+        ],
+        [
+          "Netherlands",
+          "89",
+          "0.2"
+        ],
+        [
+          "Japan",
+          "87",
+          "0.2"
+        ],
+        [
+          "South Africa",
+          "78",
+          "0.2"
+        ],
+        [
+          "Korea, Republic of South Korea",
+          "73",
+          "0.2"
+        ],
+        [
+          "Belgium",
+          "68",
+          "0.2"
+        ],
+        [
+          "Thailand",
+          "65",
+          "0.2"
+        ],
+        [
+          "Cayman Islands",
+          "51",
+          "0.1"
+        ],
+        [
+          "Sweden",
+          "50",
+          "0.1"
+        ],
+        [
+          "Saudi Arabia",
+          "41",
+          "0.1"
+        ],
+        [
+          "New Zealand",
+          "39",
+          "0.1"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The source country is obtained from the registrant at the time of registration and maintained by the foreign person.",
+        "As at 30 June 2025, foreign persons from a total of 47 countries, excluding Australia, held registered interests in Australian water entitlements.",
+        "Where the registered owner is a company or trust, it is the nationality of the person (or persons) who appear to control the entity that is used to attribute the source country, rather than the country of incorporation. Where the person who controls the entity is identified as an Australian citizen who is not ordinarily resident in Australia (and hence a foreign person), the source country is attributed to the country in which they are ordinarily resident.",
+        "Where shares or interests are widely held for companies or trusts, depending on information available the interest in the asset is attributed to a source country based on the location of: the directors, or the country where the entity (or trustee) is headquartered or publicly listed.",
+        "The country of control is assessed using data resources within: the ATO, and agencies such as the Department of Home Affairs and the Australian Securities & Investments Commission (ASIC)."
+      ]
+    }
+  ],
+  "content_text": "## How to interpret this data\nThe following information outlines foreign ownership of water interests at 30 June 2025 as taken from the Register of Foreign Ownership of Australian Assets (the Register).\nThe Foreign Acquisitions and Takeovers Act 1975 (FATA) defines foreign persons (which include temporary residents and entities with foreign ownership of 20% or more) and details registration requirements for those who acquire interests in specified Australian assets.\nThe Register is a live dataset of self-registrations of foreign-owned assets, including water entitlements that:\n- were registered through a stocktake in 2017 and subsequently converted from the Register of Foreign Ownership of Water Entitlements into the current Register, and\n- continued to be held by the foreign person as at 30 June 2025.\nInformation contained in the Register is protected and subject to the provisions of Division 355 of Schedule 1 of the Taxation Administration Act 1953 and Division 3 of Part 7 of the FATA. As such, the complete Register is not made publicly available, and this report presents aggregated information providing a view of all registrations at a point in time. Consistent with Australia’s foreign investment framework, the details of specific registrations or investors are not made publicly available, and information which could identify, or be used to identify, an individual or entity is excluded from this report.\nAggregated data, including figures for prior years, is available on data.gov.au External Link .\nRegistrable water interests are defined in the FATA to include:\n- an irrigation right (within the meaning of the Water Act 2007 ) that relates to a water resource in Australia\n- a right (including an Australian water access entitlement) conferred by or under a law of a state or territory to hold or take water from a water resource in Australia, or\n- a contractual water right of a person under a contract or deed whose term (including any extension or renewal) after the person starts to hold the right is reasonably likely to exceed 5 years.\nForeign persons must register a registerable water interest if they:\n- acquire it during the financial year and they hold the interest at the end of the same financial year, or\n- become a foreign person during the financial year and they hold it at the end of the same financial year.\nWater interests can be registered at any time during the year, but no later than 30 days after the end of the financial year in which the event occurred.\nStatistics on registrable water interests in this report are presented by reference to volume of water in gigalitres (GL).\nThe Bureau of Meteorology (the Bureau) is required to collect, manage and disseminate Australia’s water information under the Water Act 2007 and publishes details of Australian water entitlements on issue annually in the Water Markets Dashboard External Link on its website. We use this information to determine the percentage of Australian water entitlements on issue which have a level of foreign ownership.\nThe Bureau water entitlement on issue data used in the report to calculate the level of foreign ownership is based on 30 June 2024 data for all states, except South Australia which is based on 30 June 2023 data. This is the most current Bureau dataset available at the time the report was developed. This may affect the level of foreign ownership percentages of water entitlements throughout this report.\nThe Bureau Water Market Dashboard does not include zero volume water entitlements.\nThe Bureau Water Markets Dashboard does not capture water rights issued outside state water planning frameworks. The volume of registered water interests attributed in the Register at 30 June 2025 to water rights outside the state water planning frameworks was 3 GL.\nMany of the rights issued outside the state water planning frameworks are in Queensland and the Northern Territory and have been issued with zero volumes. The level of foreign ownership expressed as a proportion of the total water entitlements is potentially marginally overstated. This is because the 3 GL of registered water rights outside the state water planning frameworks are included in the tables, but the total water rights outside of the state water planning frameworks are not included in the total available water entitlements taken from the Bureau Water Markets Dashboard. However, 3 GL represents less than 0.1% of the registered water rights.\nThe approach to the administration of water resources within state water planning frameworks also varies across the states and territories, and hence data collected by the Register is not entirely consistent across those jurisdictions. In particular, certain water licences are issued with conditions rather than volumetric limits (such as maximum extraction rates once certain river flow conditions are met) where other water entitlements are issued with a nominal volume (typically a maximum volume of water that may be taken in a given period, generally per annum).\nThere is a total of 289 GL of water interests which are flagged as contractual rights (leases) registered by foreign persons which are also water interests registered by different foreign persons. This figure is not included in the tables, as it would double count the water registered by foreign entities.\nWater usage is specified by foreign persons at the point of registration. Some water usage is listed by registrants as ‘Other’. This includes:\n- water supply to townships for mining company employees\n- water used for dairy farm activities and pasture irrigation for stock feed.\nThe data should only be used as an indication of water usage.\nNot all industries need to hold rights to water. Food processing and other industries located in or near cities and towns are likely to source their water requirements through town supply and services. Conversely, manufacturing and processing industries such as wineries which are located in rural and remote regions are likely to hold rights to water required for their operation.\nWater interests held by mining may not reflect water usage, as it often includes water managed for mine safety such as de-watering activities where water is extracted and discharged into the environment or to downstream users. Furthermore, water used by mining may be so saline it effectively has no other use. Mine water use is also managed under environmental or related regulation. For more information, see the Minerals Council of Australia website External Link .\n## Total registered water interests\nTable 1 shows registered water interests by volume over the 3 years to 30 June 2025, segmented by Australian state and territory.\nThe total volume of water entitlements in Australia with a level of foreign ownership increased from 4,932 GL at 30 June 2024 to 5,089 GL at 30 June 2025.\nThe overall proportion of water entitlements with a level of foreign ownership is 12.7% at 30 June 2025, compared to 12.3% at 30 June 2024.\nState or territory | 30 June 2023 (GL) | 30 June 2024 (GL) | 30 June 2025 (GL) | Bureau water entitlement on issue (GL) | Registered water interest as a proportion of Bureau water entitlement on issue (%)\nNSW/ACT | 1,532 | 1,510 | 1,538 | 15,332 | 10.0\nNT | 42 | 42 | 38 | 652 | 5.8\nQLD | 1,295 | 1,328 | 1,365 | 6,910 | 19.8\nSA | 363 | 406 | 430 | 2,738 | 15.7\nTAS | 160 | 161 | 167 | 2,635 | 6.3\nVIC | 519 | 532 | 601 | 7,518 | 8.0\nWA | 864 | 952 | 951 | 4,426 | 21.5\nTotal | 4,775 | 4,932 | 5,089 | 40,211 | 12.7\nNotes:\n- Totals may differ from the sum of components due to rounding.\n- The Registered water interest as a proportion of Bureau water entitlement on issue percentage is the ratio of registered water interests at 30 June 2025 to the Bureau water entitlement on issue by state or territory.\n- The Bureau water entitlement on issue data used to calculate the level of foreign ownership is based on 30 June 2024 data for all states, except South Australia which is based on 30 June 2023 data. This is the most current Bureau dataset available at the time the report was developed. This may affect the level of foreign ownership percentages of water entitlements in this table.\n## Zero volume registrations\nAt 30 June 2025, there were 730 registrations of water interests with a reported volume of zero. Of these, 288 were in connection with gas and petroleum or mining exploration licences. Exploration licences can be granted for a specific term and allow the water entitlement holder to take and use water which might be found during exploration activities. Where the quantity of water which may be uncovered during exploration is unknown, a zero amount is stated in the registration.\nOther situations where registrants report a water interest with zero volume include registrations relating to:\n- water monitoring bores\n- water search bores (such as mining or exploration)\n- water supply works\n- water licences from an unregulated water resource.\n## Foreign and Australian share of registered water interests\nFigure 1 shows the foreign share and Australian share of registered water interests as at 30 June for each year from 2023 to 2025.\nAs the Register records foreign person entities that have a foreign ownership share of 20% or more, there may be more than one nationality and some level of Australian ownership in the same water interest.\nAt 30 June 2025, of the 5,089 gigalitres of registered water interests, 18.1% (921 GL) was indirectly held by Australian investors who have shares in entities considered foreign persons.\nFigure 1: Foreign and Australian share of registered water interests\n## Registered water interests by resource\nTable 2 shows the registered water interests by resource as a proportion of the total water entitlement on issue by resource.\nResource | Registered water interest (GL) | Bureau water entitlement on issue (GL) | Registered water interest as a proportion of total Bureau water entitlement on issue (%)\nGroundwater | 1,830 | 9,245 | 19.8\nSurface water | 3,256 | 30,966 | 10.5\nUndefined | 3 | N/A | N/A\nTotal | 5,089 | 40,211 | 12.7\nNotes:\n- The registered water interest as a proportion of Bureau water entitlement on issue percentage is the ratio of registered water interests at 30 June 2025 to the Bureau water entitlement on issue by resource.\n- The Bureau water entitlement on issue data used to calculate the level of foreign ownership is based on 30 June 2024 data for all states, except South Australia which is based on 30 June 2023 data. This is the most current Bureau dataset available at the time the report was developed. This may affect the level of foreign ownership percentages of water entitlements in this table.\nTable 3 shows the registered water interests by resource in each state or territory as a proportion of the total water entitlement on issue.\nState or territory Resource | Registered water interest (GL) | Bureau water entitlement on issue (GL) | Registered water interest as a proportion of total water entitlement on issue (%)\nNSW and ACT Groundwater | 381 | 2,006 | 19.0\nNSW and ACT Surface water | 1,157 | 13,326 | 8.7\nNT Groundwater | 38 | 361 | 10.4\nNT Surface water | 0 | 292 | 0.0\nQLD Groundwater | 123 | 1,088 | 11.3\nQLD Surface water | 1,240 | 5,822 | 21.3\nQLD Undefined | 3 | n/a | n/a\nSA Groundwater | 350 | 1,541 | 22.7\nSA Surface water | 79 | 1,197 | 6.6\nTAS Groundwater | 2 | 20 | 10.5\nTAS Surface water | 165 | 2,615 | 6.3\nVIC Groundwater | 42 | 899 | 4.7\nVIC Surface water | 559 | 6,619 | 8.4\nWA Groundwater | 895 | 3,331 | 26.9\nWA Surface water | 56 | 1,095 | 5.1\nTotal state or territory | 5,089 | 40,211 | 12.7\nNotes :\n- Totals may differ from the sum of components due to rounding.\n- The registered water interest as a proportion of Bureau water entitlement on issue percentage is the ratio of registered water interests at 30 June 2025 to the Bureau water entitlement on issue by resource by state or territory.\n- The Bureau water entitlement on issue data used to calculate the level of foreign ownership is based on 30 June 2024 data for all states, except South Australia which is based on 30 June 2023 data. This is the most current Bureau dataset available at the time the report was developed. This may affect the level of foreign ownership percentages of water entitlements in this table.\n## Regulated and unregulated water interests – surface water\nTable 4 shows:\n- registered water interests by regulated and unregulated water resource for surface water as at 30 June 2025\n- registered water interests as a proportion of total water entitlement on issue as at 30 June 2025, by water resource\n- the total regulated and unregulated water entitlement on issue (sourced from the Bureau Water Market Dashboard).\nWater resource | Registered water interest (GL) | Bureau water on entitlement on issue (GL) | Registered water interests as a proportion of total Bureau water entitlement on issue (%)\nRegulated | 2,525 | 20,030 | 12.6\nUnregulated | 512 | 10,936 | 4.7\nNot specified | 220 | n/a | n/a\nTotal | 3,256 | 30,966 | 10.5\nNotes:\n- Regulated is defined as a water resource which has its flows controlled through the use of infrastructure to store and release water.\n- Unregulated is defined as a water resource that is not controlled through the use of infrastructure to store and release water.\n- Where a foreign person has not specified whether their interest is in a regulated or unregulated water resource at the point of registration, this is noted as 'Not specified'.\n- Registered water interests as a proportion of total water entitlement on issue is the ratio of registered water interest by water resource to the total water entitlement on issue by water resource.\n- The Bureau water entitlement on issue data used to calculate the level of foreign ownership is based on 30 June 2024 data for all states, except South Australia which is based on 30 June 2023 data. This is the most current Bureau dataset available at the time the report was developed. This may affect the level of foreign ownership percentages of water entitlements in this table.\n## Registered water interests in the Murray-Darling Basin\nThe Murray-Darling Basin (MDB) is defined by the catchment areas of the Murray and Darling rivers and their many tributaries. The MDB covers:\n- 75% of New South Wales\n- more than 50% of Victoria\n- 15% of Queensland\n- 8% of South Australia\n- all of the Australian Capital Territory.\nA geographic view of the northern and southern basin can be found on the Murray-Darling Basin Authority website External Link .\nThe Bureau reported the total water entitlement on issue in the MDB was 20,034 GL, with:\n- 17,618 GL for total surface water in the Northern MDB and Southern MDB, and\n- 2,416 GL for total groundwater in the Northern MDB and Southern MDB.\nTable 5 shows the registered water interests in the MDB as a proportion of the total water entitlement by resource as at 30 June 2025.\nResource | Registered water interest (GL) | Bureau water on entitlement on issue (GL) | Registered water interests as a proportion of water entitlement on issue (%)\nSurface water Northern MDB | 1,228 | 4,324 | 28.4\nSurface water Southern MDB | 1,149 | 13,295 | 8.6\nGroundwater Northern MDB and Southern MDB | 310 | 2,416 | 12.8\nTotal for MDB | 2,687 | 20,034 | 13.4\nNotes:\n- Registered water interests as a proportion of total water entitlement on issue is the ratio of registered water interest by water resource to the total Bureau water entitlement on issue by water resource.\n- The Bureau water entitlement on issue data used to calculate the level of foreign ownership is based on 30 June 2024 data for all states, except South Australia which is based on 30 June 2023 data. This is the most current Bureau dataset available at the time the report was developed. This may affect the level of foreign ownership percentages of water entitlements in this table.\n- The Bureau water entitlement on issue data details all groundwater and does not split groundwater between Northern or Southern MDB.\n## Registered water interests by water use\nThe Register collects information about the use of the water interests. Registrants are required to register the relevant percentage of use against one or more of the 14 types of water use. For the purpose of this report, we've grouped the different water uses into 4 categories. These are:\n- agriculture, which contains crops, forestry, horticulture and stock usages\n- mining\n- industry, which contains construction, energy, industrial, manufacturing and transport usages\n- other, which contains tourism, trade, other and research usages.\nTable 6 shows the water use by state and territory. The highest use was for agriculture (65.8%) followed by mining (18.5%), other (8.0%) and industry (7.7%).\nState or territory | Agriculture (GL) | Mining (GL) | Industry (GL) | Other (GL)\nNSW/ACT | 1,210 | 160 | 44 | 125\nNT | 26 | 5 | 0 | 6\nQLD | 1,205 | 101 | 29 | 30\nSA | 381 | 0 | 2 | 46\nTAS | 76 | 0 | 56 | 35\nVIC | 394 | 0 | 81 | 126\nWA | 57 | 674 | 181 | 40\nTotal | 3,350 | 940 | 392 | 407\nNotes:\n- Totals may differ from the sum of components due to rounding.\n- Registrants use 'other' where water usage does not fit within a specific category. These registrations are reconciled against third-party information and where appropriate, the Register is updated to reflect the appropriate category.\n## Registered water interests by type\nWater entitlements are issued as:\n- an irrigation right from an irrigation infrastructure\n- a lease (contractual right), and\n- water access entitlements.\nTable 7 shows the registered water interests issued by type.\nState or territory | Irrigation right (GL) | Lease (contractual right) (GL) | Water access entitlement (GL) | Total (GL)\nNSW/ACT | 181 | 53 | 1,304 | 1,538\nNT | 0 | 0 | 38 | 38\nQLD | 1 | 29 | 1,335 | 1,365\nSA | 3 | 140 | 287 | 430\nTAS | 1 | 3 | 163 | 167\nVIC | 10 | 72 | 519 | 601\nWA | 8 | 142 | 801 | 951\nTotal | 204 | 439 | 4,446 | 5,089\nNotes:\n- Totals may differ from the sum of components due to rounding.\n- An irrigation right is a right a person has against an irrigation infrastructure operator to receive water. While this may be similar to a lease (contractual right) as a contract may be involved, a lease is a right that a person holds to another person’s water entitlement (other than an irrigation infrastructure operator).\n- A ‘water access entitlement’ is an ongoing entitlement to a share of water from a resource plan or other water management area. This is sometimes called a water access right.\n## Top 20 sources of foreign investment\nTable 8 shows the top 20 source countries of the foreign share of registered water interests as at 30 June 2025. This excludes the Australian share of registered water interests.\nThe total registered water interests by country is compared to the total Bureau water entitlement on issue of 40,211 GL to identify the estimated proportion of water entitlement that can be attributed to each country. The Bureau water entitlement on issue is based on 30 June 2024 data for all states, except South Australia which is based on 30 June 2023 data.\nCountry | Foreign share of registered water interests (GL) | Foreign share of total Bureau water entitlement (%)\nCanada | 1,066 | 2.6\nUnited States of America | 790 | 2.0\nUnited Kingdom | 374 | 0.9\nPeople's Republic of China | 343 | 0.9\nFrance | 209 | 0.5\nGermany | 151 | 0.4\nSingapore | 139 | 0.3\nHong Kong, SAR | 127 | 0.3\nBrazil | 92 | 0.2\nSwitzerland | 89 | 0.2\nNetherlands | 89 | 0.2\nJapan | 87 | 0.2\nSouth Africa | 78 | 0.2\nKorea, Republic of South Korea | 73 | 0.2\nBelgium | 68 | 0.2\nThailand | 65 | 0.2\nCayman Islands | 51 | 0.1\nSweden | 50 | 0.1\nSaudi Arabia | 41 | 0.1\nNew Zealand | 39 | 0.1\nNotes:\n- The source country is obtained from the registrant at the time of registration and maintained by the foreign person.\n- As at 30 June 2025, foreign persons from a total of 47 countries, excluding Australia, held registered interests in Australian water entitlements.\n- Where the registered owner is a company or trust, it is the nationality of the person (or persons) who appear to control the entity that is used to attribute the source country, rather than the country of incorporation. Where the person who controls the entity is identified as an Australian citizen who is not ordinarily resident in Australia (and hence a foreign person), the source country is attributed to the country in which they are ordinarily resident.\n- Where shares or interests are widely held for companies or trusts, depending on information available the interest in the asset is attributed to a source country based on the location of: the directors, or the country where the entity (or trustee) is headquartered or publicly listed.\n- The country of control is assessed using data resources within: the ATO, and agencies such as the Department of Home Affairs and the Australian Securities & Investments Commission (ASIC).",
+  "child_links": [],
+  "word_count": 3659,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

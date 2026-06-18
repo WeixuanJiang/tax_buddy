@@ -1,0 +1,174 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2021/tax-return/deduction-questions-d1-d10/d6-low-value-pool-deduction-2021/completing-your-tax-return",
+  "title": "Completing your tax return",
+  "description": "How to complete your tax return.",
+  "nat_number": "",
+  "quick_code": "80649",
+  "date_updated": "2021-05-26T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Low-value pool deduction",
+          "Amount"
+        ],
+        [
+          "a",
+          "The closing balance of the pool for 2019–20. If you did not have a low-value pool in 2019–20, write 0 .",
+          "$"
+        ],
+        [
+          "b",
+          "For each low-value asset allocated to the pool in 2020–21, multiply its opening adjustable value (on 1 July 2020) by your taxable use percentage for the asset. Add up the amounts and write in the total.",
+          "$"
+        ],
+        [
+          "c",
+          "Add rows a and b .",
+          "$"
+        ],
+        [
+          "d",
+          "Multiply row c by 0.375.",
+          "$"
+        ],
+        [
+          "e",
+          "For each low-cost asset allocated to the pool in 2020–21, multiply its cost (including additional capital costs incurred in 2020–21, such as improvements) by your taxable use percentage for the asset. Add up the amounts and write in the total.",
+          "$"
+        ],
+        [
+          "f",
+          "For each: asset allocated to the pool in a prior income year, and low-value asset allocated to the pool in 2020–21 for which you incurred additional capital costs (such as improvements) in 2020–21, multiply the costs by your taxable use percentage for the asset. Add up the amounts and write in the total.",
+          "$"
+        ],
+        [
+          "g",
+          "Add rows e and f .",
+          "$"
+        ],
+        [
+          "h",
+          "Multiply row g by 0.1875.",
+          "$"
+        ],
+        [
+          "i",
+          "Add rows d and h .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at row i is the total low-value pool deduction."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Using Worksheet 1 , work out your total low-value pool deduction. Transfer the amount you worked out at i to K item D6 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need the closing pool balance for 2020–21 to calculate your low-value pool deduction for 2021–22. Worksheet 2 will help you work out the closing balance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some common events, such as the sale or disposal of an asset in the low-value pool, or the asset's loss or destruction, result in a 'balancing adjustment event'. If there has been a balancing adjustment event for an asset in the pool, you must reduce the closing pool balance. To do this, you multiply the asset's termination value (generally any proceeds, including any insurance payout, from the event) by your taxable use percentage for the asset. Your closing pool balance is reduced by the amount that results from this calculation. There is space for you to include this amount in Worksheet 2 . If this amount is more than the closing pool balance, you reduce the closing pool balance to nil and include the excess amount at item 24 Other income on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep a record of your 2020–21 closing pool balance for next year's tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Guide to depreciating assets 2021 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Read example 2 , then use Worksheet 2 to work out your closing balance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Edward works out his closing balance, using his worksheet 2:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Closing balance for 2020–21",
+          "Amount"
+        ],
+        [
+          "j",
+          "Transfer amount from row a in worksheet 1 .",
+          "$0"
+        ],
+        [
+          "k",
+          "Transfer amount from row b in worksheet 1 .",
+          "$900"
+        ],
+        [
+          "l",
+          "Transfer amount from row e in worksheet 1 .",
+          "$240"
+        ],
+        [
+          "m",
+          "Transfer amount from row f in worksheet 1 .",
+          "$0"
+        ],
+        [
+          "n",
+          "Add rows j , k , l and m .",
+          "$1140"
+        ],
+        [
+          "o",
+          "Transfer amount from row i in worksheet 1 .",
+          "$382"
+        ],
+        [
+          "p",
+          "Take row o away from row n .",
+          "$758"
+        ],
+        [
+          "q",
+          "For each pool asset subject to a balancing adjustment event in 2020–21, multiply its termination value by your taxable use percentage for the asset (see step 2 above).",
+          "$0"
+        ],
+        [
+          "r",
+          "Take row q away from row p . This is your closing pool balance for 2020–21 .",
+          "$758"
+        ]
+      ]
+    }
+  ],
+  "content_text": "Row | Low-value pool deduction | Amount\na | The closing balance of the pool for 2019–20. If you did not have a low-value pool in 2019–20, write 0 . | $\nb | For each low-value asset allocated to the pool in 2020–21, multiply its opening adjustable value (on 1 July 2020) by your taxable use percentage for the asset. Add up the amounts and write in the total. | $\nc | Add rows a and b . | $\nd | Multiply row c by 0.375. | $\ne | For each low-cost asset allocated to the pool in 2020–21, multiply its cost (including additional capital costs incurred in 2020–21, such as improvements) by your taxable use percentage for the asset. Add up the amounts and write in the total. | $\nf | For each: asset allocated to the pool in a prior income year, and low-value asset allocated to the pool in 2020–21 for which you incurred additional capital costs (such as improvements) in 2020–21, multiply the costs by your taxable use percentage for the asset. Add up the amounts and write in the total. | $\ng | Add rows e and f . | $\nh | Multiply row g by 0.1875. | $\ni | Add rows d and h . | $\nThe amount at row i is the total low-value pool deduction.\n## Step 1\nUsing Worksheet 1 , work out your total low-value pool deduction. Transfer the amount you worked out at i to K item D6 .\n## Step 2\nYou will need the closing pool balance for 2020–21 to calculate your low-value pool deduction for 2021–22. Worksheet 2 will help you work out the closing balance.\nSome common events, such as the sale or disposal of an asset in the low-value pool, or the asset's loss or destruction, result in a 'balancing adjustment event'. If there has been a balancing adjustment event for an asset in the pool, you must reduce the closing pool balance. To do this, you multiply the asset's termination value (generally any proceeds, including any insurance payout, from the event) by your taxable use percentage for the asset. Your closing pool balance is reduced by the amount that results from this calculation. There is space for you to include this amount in Worksheet 2 . If this amount is more than the closing pool balance, you reduce the closing pool balance to nil and include the excess amount at item 24 Other income on your tax return.\nKeep a record of your 2020–21 closing pool balance for next year's tax return.\nFor more information, see Guide to depreciating assets 2021 .\nRead example 2 , then use Worksheet 2 to work out your closing balance.\nExample 2\nEdward works out his closing balance, using his worksheet 2:\nRow | Closing balance for 2020–21 | Amount\nj | Transfer amount from row a in worksheet 1 . | $0\nk | Transfer amount from row b in worksheet 1 . | $900\nl | Transfer amount from row e in worksheet 1 . | $240\nm | Transfer amount from row f in worksheet 1 . | $0\nn | Add rows j , k , l and m . | $1140\no | Transfer amount from row i in worksheet 1 . | $382\np | Take row o away from row n . | $758\nq | For each pool asset subject to a balancing adjustment event in 2020–21, multiply its termination value by your taxable use percentage for the asset (see step 2 above). | $0\nr | Take row q away from row p . This is your closing pool balance for 2020–21 . | $758",
+  "child_links": [],
+  "word_count": 626,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

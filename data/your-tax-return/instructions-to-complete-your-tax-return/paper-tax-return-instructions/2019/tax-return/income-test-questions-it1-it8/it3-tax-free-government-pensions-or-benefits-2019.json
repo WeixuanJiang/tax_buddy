@@ -1,0 +1,102 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2019/tax-return/income-test-questions-it1-it8/it3-tax-free-government-pensions-or-benefits-2019",
+  "title": "IT3 Tax-free government pensions or benefits 2019",
+  "description": "Complete question IT3 to include certain tax-free government pensions or benefits you received.",
+  "nat_number": "",
+  "quick_code": "58032",
+  "date_updated": "2019-05-29T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, income tests, pensions, government pensions, tax-free, tax return, 2019, IT3, paper tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about certain tax-free government pensions or benefits that you received in 2018–19. For a list of the relevant tax-free government pensions and benefits, see Special circumstances and glossary 2019 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are still unsure whether your pension or benefit is tax-free, phone 13 28 61 , or contact the agency that paid you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include at this item:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Australian Government allowances and payments that you have included at item 5",
+        "Australian Government pensions and allowances that you have included at item 6",
+        "Australian annuities and superannuation income streams that you have included at item 7 ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you receive a tax-free government pension or benefit that is listed in the Special circumstances and glossary section?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Write 0 at U item IT3 , then go to question IT4 Target foreign income 2019 , or return to main menu Individual tax return instructions 2019 ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "Income tax is not paid on certain tax-free government pensions or benefits, however, those pensions or benefits are taken into account when working out your adjusted taxable income. Your adjusted taxable income is an income test we use to work out your eligibility for certain tax offsets and the amount of those offsets."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the amount of tax-free pensions or benefits you received during 2018–19."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total at U item IT3 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question IT4 Target foreign income 2019 .",
+        "Return to main menu Individual tax return instructions 2019 .",
+        "Go back to question IT2 Reportable employer superannuation contributions 2019 ."
+      ]
+    }
+  ],
+  "content_text": "This question is about certain tax-free government pensions or benefits that you received in 2018–19. For a list of the relevant tax-free government pensions and benefits, see Special circumstances and glossary 2019 .\nIf you are still unsure whether your pension or benefit is tax-free, phone 13 28 61 , or contact the agency that paid you.\nDo not include at this item:\n- Australian Government allowances and payments that you have included at item 5\n- Australian Government pensions and allowances that you have included at item 6\n- Australian annuities and superannuation income streams that you have included at item 7 .\nDid you receive a tax-free government pension or benefit that is listed in the Special circumstances and glossary section?\nNo | Write 0 at U item IT3 , then go to question IT4 Target foreign income 2019 , or return to main menu Individual tax return instructions 2019 .\nYes | Read on.\n## Answering this question\nIncome tax is not paid on certain tax-free government pensions or benefits, however, those pensions or benefits are taken into account when working out your adjusted taxable income. Your adjusted taxable income is an income test we use to work out your eligibility for certain tax offsets and the amount of those offsets.\n## Completing your tax return\n### Step 1\nAdd up the amount of tax-free pensions or benefits you received during 2018–19.\n### Step 2\nWrite the total at U item IT3 .\n### Where to go next\n- Go to question IT4 Target foreign income 2019 .\n- Return to main menu Individual tax return instructions 2019 .\n- Go back to question IT2 Reportable employer superannuation contributions 2019 .",
+  "child_links": [],
+  "word_count": 284,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,493 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/income/australian-super-or-annuity-payments/super-lump-sum",
+  "title": "myTax 2018 Australian superannuation lump sum payments",
+  "description": "How to report super lump sum payments in your return using myTax.",
+  "nat_number": "",
+  "quick_code": "55669",
+  "date_updated": "2018-06-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "2018, superannuation, superannuation lump sum, superannuation lump sum payment, superannuation death benefit, myTax, e-tax, online tax return, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This section is about Australian superannuation lump sum payments or superannuation death benefit payments you received, including those paid by:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "superannuation funds",
+        "approved deposit funds",
+        "retirement savings account providers",
+        "life insurance companies."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "It is also about any:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "amounts we paid to you in respect of the superannuation guarantee charge or the superannuation holding accounts special account",
+        "payments you received from the unclaimed money registers."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to complete this section if you received a PAYG payment summary - superannuation lump sum that shows a taxed or untaxed element."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You need to know",
+        "Withdrawing your super and paying tax"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Do not show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show the following at this section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "tax-free component of any superannuation lump sum, including any super co-contribution or low-income super tax offset payment from us. These amounts are tax free and not included in your assessable income",
+        "lump sum payments you received as a death benefits dependant . These amounts are tax free and not included in your assessable income",
+        "taxed element of a superannuation lump sum payment you received on or after your 60th birthday (these amounts are tax free and not included in your assessable income) unless it is a death benefit superannuation lump sum payment paid to you as a non-dependant",
+        "superannuation lump sum payment received as the trustee of a deceased estate. This payment must be shown on the trust tax return of the deceased estate",
+        "amounts released under a 'release authority' issued to you because of an excess contributions tax assessment. These amounts are tax free and not included in your assessable income",
+        "amounts paid to you because you have a terminal medical condition . These amounts are tax free and not included in your assessable income (you should not have received a PAYG payment summary - superannuation lump sum for this type of payment)",
+        "departing Australia superannuation payments",
+        "lump sums you received from foreign superannuation. Show these at Other foreign income in the Foreign income, assets and entities section."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your PAYG payment summary – superannuation lump sum . If you have not received it, have lost it or think the details (such as the dependency status) on it are wrong, contact your payer. If you still cannot obtain it or cannot agree on the details, see PAYG payment summary - individual non-business ."
+    },
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with payment summary information provided to us. Check for Australian superannuation lump sum payments you received that are not pre-filled and ensure you add them."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each payment summary that has not been pre-filled in your tax return, select Add and enter information into the corresponding fields. If your payment summary shows a tax-free component, this amount will not be included in your taxable income.",
+        "For each payment summary, answer the question Is this a death benefit?",
+        "Select Save .",
+        "Select Save and continue ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Australian superannuation lump sum payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tables 1 and 2 set out the maximum tax rates that apply to superannuation lump sum payments made by complying superannuation funds. The Medicare levy is additional where applicable. You may find this useful in completing this section and the Medicare and private health insurance section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any lump sum in arrears amounts paid after 1 July 2017 must be included in your assessable income regardless of the period the income stream payment relates to."
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1: Death benefit"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Element",
+          "Amount",
+          "Tax rate"
+        ],
+        [
+          "Tax free component",
+          "Whole",
+          "Tax free"
+        ],
+        [
+          "Taxed element",
+          "Whole",
+          "Tax free"
+        ],
+        [
+          "Untaxed element",
+          "Whole",
+          "Tax free"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Element",
+          "Amount",
+          "Tax rate"
+        ],
+        [
+          "Tax free component",
+          "Whole",
+          "Tax free"
+        ],
+        [
+          "Taxed element",
+          "Whole",
+          "15%"
+        ],
+        [
+          "Untaxed element",
+          "Whole",
+          "30%"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2: Superannuation lump sum (other than death benefit)"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Element",
+          "Amount",
+          "Tax rate"
+        ],
+        [
+          "Tax free component",
+          "Whole",
+          "Tax free"
+        ],
+        [
+          "Taxed element",
+          "Whole",
+          "20%"
+        ],
+        [
+          "Untaxed element",
+          "Up to the untaxed-plan cap amount, $1,445,000 (see Note 1 )",
+          "30%"
+        ],
+        [
+          "Untaxed element",
+          "Over the untaxed-plan cap amount, $1,445,000 (see Note 1 )",
+          "45%"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Element",
+          "Amount",
+          "Tax rate"
+        ],
+        [
+          "Tax free component",
+          "Whole",
+          "Tax free"
+        ],
+        [
+          "Taxed element",
+          "Up to the low rate cap amount, $200,000 (see Note 2 )",
+          "Tax free"
+        ],
+        [
+          "Taxed element",
+          "Over the low rate cap amount, $200,000 (see Note 2 )",
+          "15%"
+        ],
+        [
+          "Untaxed element",
+          "Up to the low rate cap amount, $200,000 (see Note 2 )",
+          "15%"
+        ],
+        [
+          "Untaxed element",
+          "Over the low rate cap amount, $200,000 (see Note 2 ) and up to the untaxed-plan cap amount, $1,445,000 (see Note 1 )",
+          "30%"
+        ],
+        [
+          "Untaxed element",
+          "Over the untaxed-plan cap amount, $1,445,000 (see Note 1 )",
+          "45%"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "60 years of age or older at the time of payment"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Element",
+          "Amount",
+          "Tax rate"
+        ],
+        [
+          "Tax free component",
+          "Whole",
+          "Tax free"
+        ],
+        [
+          "Taxed element",
+          "Whole",
+          "Tax free"
+        ],
+        [
+          "Untaxed element",
+          "Up to the untaxed-plan cap amount, $1,445,000 (See Note 1 )",
+          "15%"
+        ],
+        [
+          "Untaxed element",
+          "Over the untaxed-plan cap amount, $1,445,000 (see Note 1 )",
+          "45%"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note 1: For 2017–18, the untaxed-plan cap amount is a maximum of $1.445 million, but it could be less for you if you have previously received another superannuation lump sum with an untaxed element from the same superannuation fund. For more information on how we work out your untaxed-plan cap amount, see How tax applies to your super ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note 2: For 2017–18, the low-rate cap amount is a maximum of $200,000, but it could be less if you received any superannuation lump sums in a prior income year that counted towards your entitlement to a superannuation lump sum tax offset or, if before July 2007, you received an eligible termination payment after your 55th birthday. For more information on how we work out your low-rate cap amount, see How tax applies to your super ."
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "low-rate cap amount",
+        "untaxed-plan cap amount"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Definitions"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Death benefits dependant"
+    },
+    {
+      "type": "paragraph",
+      "text": "You are a death benefits dependant of the deceased if, at the time they died, you were:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the surviving spouse",
+        "a former spouse",
+        "a child of the deceased and you were under 18 years old",
+        "any other person who was financially dependent on the deceased, or",
+        "any other person in an interdependency relationship with the deceased."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For this section, you are also a death benefits dependant when you receive a superannuation lump sum payment because a member of the Australian Defence Force or of an Australian police force, including the Australian Protective Service, died in the line of duty."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with the dependency status shown on your payment summary, you should discuss it with the payer."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purposes of the definition of death benefits dependant the following apply:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spouse of the deceased includes another person (of any sex):"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "with whom the deceased was in a relationship that was registered under a prescribed law of a state or territory",
+        "not legally married to the deceased person, who lived with the deceased on a genuine domestic basis in a relationship as a couple."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Child of the deceased includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an adopted child, stepchild or ex-nuptial child of the deceased",
+        "a child of the deceased's spouse",
+        "someone who is a child of the deceased within the meaning of the Family Law Act 1975 (for example, a child who is considered to be a child of a person under a state or territory court order giving effect to a surrogacy agreement)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Interdependency relationship"
+    },
+    {
+      "type": "paragraph",
+      "text": "An interdependency relationship exists if there is a close personal relationship between two persons and the following conditions are met:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "they live together, and",
+        "one or each of them provides the other with financial support, domestic support and personal care."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "An interdependency relationship can also exist if there is a close personal relationship between two persons but one or more of the conditions stated above are not satisfied because of the physical, intellectual or psychiatric disability of one of the people."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, two persons do not have an interdependency relationship if one of them provides domestic support and personal care to the other:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "under an employment contract or a contract for service, or",
+        "on behalf of another person or organisation such as a government agency, a body corporate or a benevolent or charitable organisation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Low-rate cap amount for taxable components of superannuation lump sum payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "This concession applies only to superannuation lump sums paid to you when you have reached your preservation age but before you turn 60 years old."
+    },
+    {
+      "type": "paragraph",
+      "text": "The low-rate cap amount is the maximum amount of taxable components (taxed and untaxed elements) that can be taxed at a concessional lower rate."
+    },
+    {
+      "type": "paragraph",
+      "text": "For 2017–18, the low-rate cap amount is a maximum of $200,000, but it could be less for you if before July 2017 you received any superannuation lump sums that counted towards your entitlement to a superannuation lump sum tax offset. The amount is indexed to average weekly ordinary time earnings and rounded down to the nearest multiple of $5,000. See Key superannuation rates and thresholds ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The low-rate cap amount is a 'lifetime' limit. This means that the taxed element and untaxed elements of all superannuation lump sum payments that you receive (as well as the amount of any eligible termination payments for which you became entitled to a rebate before 1 July 2007) when you have reached your preservation age but before you turn 60 years old will be taxed at a concessional rate until your total reaches the low-rate cap amount ($200,000 plus future indexed increases). Payments you receive in excess of the low-rate cap amount will be taxed at the tax rate shown in Table 2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consequently, for 2017–18 the maximum amount for which you can be taxed at a concessional rate is $200,000 less any amounts to which the concessional tax rate has previously been applied."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on how we work out your low-rate cap amount, see Super and tax ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Terminal medical condition"
+    },
+    {
+      "type": "paragraph",
+      "text": "For income tax purposes, you have a terminal medical condition if both the following circumstances are met:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "two registered medical practitioners (with at least one being a specialist practising in the area related to the illness or injury) have certified that you suffer an illness or have incurred an injury that is likely to result in your death within a 24 month period, starting from the date of certification",
+        "each of the certificates is less than 24 months old."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Superannuation lump sum payments paid to you are tax free if you have a terminal medical condition at the time you received the payment or within 90 days of receiving payment. You should not have received a PAYG payment summary for these payments."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received such a payment and tax was withheld, you can get a refund of the tax."
+    },
+    {
+      "type": "paragraph",
+      "text": "For information about how to get the refund and for further information about these payments, see Accessing your super ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Transfer balance cap"
+    },
+    {
+      "type": "paragraph",
+      "text": "From 1 July 2017, there is a cap on the total amount of superannuation that can be transferred into a superannuation income stream (such as a pension or annuity)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The transfer balance cap for 2017–18 is $1.6 million (this may be reduced in certain circumstances). For later financial years, the transfer balance cap will be indexed."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Untaxed-plan cap amount for untaxed elements"
+    },
+    {
+      "type": "paragraph",
+      "text": "The untaxed-plan cap amount is the maximum amount of the untaxed elements of your superannuation lump sum payments which will be subject to concessional tax rates."
+    },
+    {
+      "type": "paragraph",
+      "text": "For 2017–18, the untaxed-plan cap amount is a maximum of $1.445 million, but it could be less for you if you have previously received another superannuation lump sum with an untaxed element from the same superannuation fund. The amount is indexed to average weekly ordinary time earnings and rounded down to the nearest multiple of $5,000. See Key superannuation rates and thresholds ."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is a separate untaxed-plan cap amount for each superannuation fund you have. This means that, for each fund, the untaxed elements which make up your superannuation payments will be taxed at a concessional rate until these untaxed elements reach the untaxed-plan cap amount ($1.445 million plus future indexed increases). Amounts above this limit are taxed at the top marginal rate."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you roll over an amount from one superannuation fund to another, any untaxed element that is part of that amount will count towards the untaxed-plan cap amount for the fund from which the amount was rolled over."
+    }
+  ],
+  "content_text": "This section is about Australian superannuation lump sum payments or superannuation death benefit payments you received, including those paid by:\n- superannuation funds\n- approved deposit funds\n- retirement savings account providers\n- life insurance companies.\nIt is also about any:\n- amounts we paid to you in respect of the superannuation guarantee charge or the superannuation holding accounts special account\n- payments you received from the unclaimed money registers.\nYou need to complete this section if you received a PAYG payment summary - superannuation lump sum that shows a taxed or untaxed element.\nSee also :\n- You need to know\n- Withdrawing your super and paying tax\n## Do not show at this section\nDo not show the following at this section:\n- tax-free component of any superannuation lump sum, including any super co-contribution or low-income super tax offset payment from us. These amounts are tax free and not included in your assessable income\n- lump sum payments you received as a death benefits dependant . These amounts are tax free and not included in your assessable income\n- taxed element of a superannuation lump sum payment you received on or after your 60th birthday (these amounts are tax free and not included in your assessable income) unless it is a death benefit superannuation lump sum payment paid to you as a non-dependant\n- superannuation lump sum payment received as the trustee of a deceased estate. This payment must be shown on the trust tax return of the deceased estate\n- amounts released under a 'release authority' issued to you because of an excess contributions tax assessment. These amounts are tax free and not included in your assessable income\n- amounts paid to you because you have a terminal medical condition . These amounts are tax free and not included in your assessable income (you should not have received a PAYG payment summary - superannuation lump sum for this type of payment)\n- departing Australia superannuation payments\n- lump sums you received from foreign superannuation. Show these at Other foreign income in the Foreign income, assets and entities section.\n## Completing this section\nYou will need your PAYG payment summary – superannuation lump sum . If you have not received it, have lost it or think the details (such as the dependency status) on it are wrong, contact your payer. If you still cannot obtain it or cannot agree on the details, see PAYG payment summary - individual non-business .\nWe have pre-filled your tax return with payment summary information provided to us. Check for Australian superannuation lump sum payments you received that are not pre-filled and ensure you add them.\n- For each payment summary that has not been pre-filled in your tax return, select Add and enter information into the corresponding fields. If your payment summary shows a tax-free component, this amount will not be included in your taxable income.\n- For each payment summary, answer the question Is this a death benefit?\n- Select Save .\n- Select Save and continue .\n## You need to know\n### Australian superannuation lump sum payments\nTables 1 and 2 set out the maximum tax rates that apply to superannuation lump sum payments made by complying superannuation funds. The Medicare levy is additional where applicable. You may find this useful in completing this section and the Medicare and private health insurance section.\nAny lump sum in arrears amounts paid after 1 July 2017 must be included in your assessable income regardless of the period the income stream payment relates to.\nTable 1: Death benefit\nElement | Amount | Tax rate\nTax free component | Whole | Tax free\nTaxed element | Whole | Tax free\nUntaxed element | Whole | Tax free\nElement | Amount | Tax rate\nTax free component | Whole | Tax free\nTaxed element | Whole | 15%\nUntaxed element | Whole | 30%\nTable 2: Superannuation lump sum (other than death benefit)\nElement | Amount | Tax rate\nTax free component | Whole | Tax free\nTaxed element | Whole | 20%\nUntaxed element | Up to the untaxed-plan cap amount, $1,445,000 (see Note 1 ) | 30%\nUntaxed element | Over the untaxed-plan cap amount, $1,445,000 (see Note 1 ) | 45%\nElement | Amount | Tax rate\nTax free component | Whole | Tax free\nTaxed element | Up to the low rate cap amount, $200,000 (see Note 2 ) | Tax free\nTaxed element | Over the low rate cap amount, $200,000 (see Note 2 ) | 15%\nUntaxed element | Up to the low rate cap amount, $200,000 (see Note 2 ) | 15%\nUntaxed element | Over the low rate cap amount, $200,000 (see Note 2 ) and up to the untaxed-plan cap amount, $1,445,000 (see Note 1 ) | 30%\nUntaxed element | Over the untaxed-plan cap amount, $1,445,000 (see Note 1 ) | 45%\n60 years of age or older at the time of payment\nElement | Amount | Tax rate\nTax free component | Whole | Tax free\nTaxed element | Whole | Tax free\nUntaxed element | Up to the untaxed-plan cap amount, $1,445,000 (See Note 1 ) | 15%\nUntaxed element | Over the untaxed-plan cap amount, $1,445,000 (see Note 1 ) | 45%\nNote 1: For 2017–18, the untaxed-plan cap amount is a maximum of $1.445 million, but it could be less for you if you have previously received another superannuation lump sum with an untaxed element from the same superannuation fund. For more information on how we work out your untaxed-plan cap amount, see How tax applies to your super .\nNote 2: For 2017–18, the low-rate cap amount is a maximum of $200,000, but it could be less if you received any superannuation lump sums in a prior income year that counted towards your entitlement to a superannuation lump sum tax offset or, if before July 2007, you received an eligible termination payment after your 55th birthday. For more information on how we work out your low-rate cap amount, see How tax applies to your super .\nSee also:\n- low-rate cap amount\n- untaxed-plan cap amount\n## Definitions\n### Death benefits dependant\nYou are a death benefits dependant of the deceased if, at the time they died, you were:\n- the surviving spouse\n- a former spouse\n- a child of the deceased and you were under 18 years old\n- any other person who was financially dependent on the deceased, or\n- any other person in an interdependency relationship with the deceased.\nFor this section, you are also a death benefits dependant when you receive a superannuation lump sum payment because a member of the Australian Defence Force or of an Australian police force, including the Australian Protective Service, died in the line of duty.\nIf you disagree with the dependency status shown on your payment summary, you should discuss it with the payer.\nFor the purposes of the definition of death benefits dependant the following apply:\nSpouse of the deceased includes another person (of any sex):\n- with whom the deceased was in a relationship that was registered under a prescribed law of a state or territory\n- not legally married to the deceased person, who lived with the deceased on a genuine domestic basis in a relationship as a couple.\nChild of the deceased includes:\n- an adopted child, stepchild or ex-nuptial child of the deceased\n- a child of the deceased's spouse\n- someone who is a child of the deceased within the meaning of the Family Law Act 1975 (for example, a child who is considered to be a child of a person under a state or territory court order giving effect to a surrogacy agreement).\n### Interdependency relationship\nAn interdependency relationship exists if there is a close personal relationship between two persons and the following conditions are met:\n- they live together, and\n- one or each of them provides the other with financial support, domestic support and personal care.\nAn interdependency relationship can also exist if there is a close personal relationship between two persons but one or more of the conditions stated above are not satisfied because of the physical, intellectual or psychiatric disability of one of the people.\nHowever, two persons do not have an interdependency relationship if one of them provides domestic support and personal care to the other:\n- under an employment contract or a contract for service, or\n- on behalf of another person or organisation such as a government agency, a body corporate or a benevolent or charitable organisation.\n### Low-rate cap amount for taxable components of superannuation lump sum payments\nThis concession applies only to superannuation lump sums paid to you when you have reached your preservation age but before you turn 60 years old.\nThe low-rate cap amount is the maximum amount of taxable components (taxed and untaxed elements) that can be taxed at a concessional lower rate.\nFor 2017–18, the low-rate cap amount is a maximum of $200,000, but it could be less for you if before July 2017 you received any superannuation lump sums that counted towards your entitlement to a superannuation lump sum tax offset. The amount is indexed to average weekly ordinary time earnings and rounded down to the nearest multiple of $5,000. See Key superannuation rates and thresholds .\nThe low-rate cap amount is a 'lifetime' limit. This means that the taxed element and untaxed elements of all superannuation lump sum payments that you receive (as well as the amount of any eligible termination payments for which you became entitled to a rebate before 1 July 2007) when you have reached your preservation age but before you turn 60 years old will be taxed at a concessional rate until your total reaches the low-rate cap amount ($200,000 plus future indexed increases). Payments you receive in excess of the low-rate cap amount will be taxed at the tax rate shown in Table 2 .\nConsequently, for 2017–18 the maximum amount for which you can be taxed at a concessional rate is $200,000 less any amounts to which the concessional tax rate has previously been applied.\nFor more information on how we work out your low-rate cap amount, see Super and tax .\n### Terminal medical condition\nFor income tax purposes, you have a terminal medical condition if both the following circumstances are met:\n- two registered medical practitioners (with at least one being a specialist practising in the area related to the illness or injury) have certified that you suffer an illness or have incurred an injury that is likely to result in your death within a 24 month period, starting from the date of certification\n- each of the certificates is less than 24 months old.\nSuperannuation lump sum payments paid to you are tax free if you have a terminal medical condition at the time you received the payment or within 90 days of receiving payment. You should not have received a PAYG payment summary for these payments.\nIf you received such a payment and tax was withheld, you can get a refund of the tax.\nFor information about how to get the refund and for further information about these payments, see Accessing your super .\n### Transfer balance cap\nFrom 1 July 2017, there is a cap on the total amount of superannuation that can be transferred into a superannuation income stream (such as a pension or annuity).\nThe transfer balance cap for 2017–18 is $1.6 million (this may be reduced in certain circumstances). For later financial years, the transfer balance cap will be indexed.\n### Untaxed-plan cap amount for untaxed elements\nThe untaxed-plan cap amount is the maximum amount of the untaxed elements of your superannuation lump sum payments which will be subject to concessional tax rates.\nFor 2017–18, the untaxed-plan cap amount is a maximum of $1.445 million, but it could be less for you if you have previously received another superannuation lump sum with an untaxed element from the same superannuation fund. The amount is indexed to average weekly ordinary time earnings and rounded down to the nearest multiple of $5,000. See Key superannuation rates and thresholds .\nThere is a separate untaxed-plan cap amount for each superannuation fund you have. This means that, for each fund, the untaxed elements which make up your superannuation payments will be taxed at a concessional rate until these untaxed elements reach the untaxed-plan cap amount ($1.445 million plus future indexed increases). Amounts above this limit are taxed at the top marginal rate.\nIf you roll over an amount from one superannuation fund to another, any untaxed element that is part of that amount will count towards the untaxed-plan cap amount for the fund from which the amount was rolled over.",
+  "child_links": [],
+  "word_count": 2133,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

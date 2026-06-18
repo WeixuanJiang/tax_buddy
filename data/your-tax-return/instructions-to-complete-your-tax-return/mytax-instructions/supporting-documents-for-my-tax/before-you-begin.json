@@ -1,0 +1,356 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/supporting-documents-for-my-tax/before-you-begin",
+  "title": "myTax Before you begin",
+  "description": "How to begin preparing and lodging your tax return using myTax.",
+  "nat_number": "",
+  "quick_code": "67845",
+  "date_updated": "2026-05-19T14:00:00Z",
+  "first_published": "",
+  "keywords": "myTax self-assessment, myTax pre-fill, myTax self-help, lodging with mytax",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Self-assessment"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "You're responsible for your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the self-assessment system, you take responsibility for declaring all your income and for being able to support all your claims for deductions and tax offsets when you sign your tax return. This includes when you sign it using an electronic signature."
+    },
+    {
+      "type": "paragraph",
+      "text": "If we pre-fill your tax return with information provided to us by your employer or other organisations, you also take responsibility for the correctness of that information when you sign your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll issue a notice of assessment to you, usually without adjustment. However, your return may still be subject to review."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you become aware that your tax return is incorrect, you need to request an amendment by logging in to our online services ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Will you be penalised if something is missing?"
+    },
+    {
+      "type": "paragraph",
+      "text": "We routinely compare information between what you include in your tax return and the information provided to us by employers and other organisations. If we detect discrepancies or other errors after we have issued your notice of assessment, we'll contact you and may issue an amended assessment. You'll be obliged to repay any tax owing, and any interest and penalties we may impose."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you make an honest mistake when following our information in myTax and you owe us money as a result, we won't charge you a penalty. However, you must pay the money owed, and we may also charge you interest. If correcting the mistake means we owe you money, we'll pay it and any interest you're entitled to."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you voluntarily disclose mistakes in your return, we'll take that into consideration in deciding what interest and penalties to impose."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "We will pre-fill your myTax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "What you need to do"
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll pre-fill your return with all the available information reported to us by organisations, such as:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "banks",
+        "employers",
+        "government agencies, and",
+        "private health insurers."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This information is reported to us from 1 July, with most of it available by late July."
+    },
+    {
+      "type": "paragraph",
+      "text": "All you have to do is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "review the pre-filled information by checking it against your records",
+        "enter any other missing details to complete your tax return."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You must make sure all the information on your tax return is correct before you lodge it, including all the pre-filled information."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you delete your pre-fill data, you can select to 'Restart' your tax return to see all of your pre-fill data. If you do this, you'll lose any information that you've manually entered into your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Why you may want to wait until late July to lodge using myTax"
+    },
+    {
+      "type": "paragraph",
+      "text": "Historically, most information is reported to us and available for pre-filling by late July. All of your information may be available before this, but sometimes it takes a little longer."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, you may find that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "some of your income statements and payment summaries have been pre-filled, but not all of them",
+        "your income statement is 'Not tax ready'",
+        "interest from one financial institution has been pre-filled but interest from another one hasn’t been."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can complete myTax from 1 July if you prefer not to wait for all your information to be pre-filled. If you do, you'll need all your records and statements to enter information yourself to complete and lodge your return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "What information can we pre-fill?"
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll pre-fill for you all the information provided to us at the time you do your myTax return, including:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Australian Government allowances, pensions and payments",
+        "salary, wages, foreign employment income and other amounts that are shown on income statements or payment summaries",
+        "Australian superannuation income streams, annuity payments and lump sums",
+        "interest from financial institutions including ATO imposed interest",
+        "public company dividends (including exploration credits up to myTax 25)",
+        "managed fund distributions",
+        "trust distributions (from myTax 26)",
+        "employee share scheme interests",
+        "business and personal services income amounts that are shown on an income statement or payment summary including voluntary agreements labour hire other specified payments",
+        "information reported on a Taxable payments annual report (TPAR), such as payments and grants reported by government entities payments reported by businesses providing building and construction services cleaning services courier services road freight services information technology (IT) services security, investigation or surveillance services mixed services (a business that provides one or more of the services listed above)",
+        "a reminder about possible capital gains tax events for details of share disposals transfers of property crypto assets",
+        "amounts received through a partnership distribution",
+        "a reminder you received interest or dividends from a foreign financial investment in previous income years",
+        "private health insurance policy details",
+        "spouse details, if you indicated you had a spouse on 30 June in the previous year's tax return",
+        "deductions that you have uploaded to your tax return via the myDeductions tool."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "What if you don't agree with the pre-filled information?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have checked the pre-filled information against your own records or statements and it doesn't match, generally you can change or delete the pre-filled information in myTax."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do this, it is important to resolve any discrepancies with the third-party provider before you lodge. They may need to send new or amended information to us to ensure our records are accurate."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "TPAR payments or grants"
+    },
+    {
+      "type": "paragraph",
+      "text": "Businesses and government entities who make payments to contractors may need to report these payments and lodge a Taxable payments annual report (TPAR)."
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "myTax 25 and prior years"
+    },
+    {
+      "type": "paragraph",
+      "text": "You won't be able to change or delete the TPAR pre-filled information."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the pre-filled TPAR record doesn't belong to you, or you've entered the income in another section of your return, you can ignore the record."
+    },
+    {
+      "type": "paragraph",
+      "text": "To ignore a TPAR record and lodge your tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "When myTax requires you to select Type of income , select 'Other income'.",
+        "At Prepare your return, select Add/Edit at Other income .",
+        "At the Other income section, myTax will ask you to review your information at this section.",
+        "Enter any information you must include at this section (excluding the pre-filled payments and grants that don't belong to you).",
+        "When you're finished, select Save and continue ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The incorrect data won't be included in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otherwise, contact us on the individuals enquiries phone number, select option 3 and then option 2 so the matter can be investigated. Wait for the pre-filled record to be removed before restarting and lodging your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "myTax 26 and future years"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't delete any pre-filled TPAR payments or grants."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have checked the pre-filled TPAR information against your own records and it doesn't match you can edit the pre-filled information in myTax. To learn more, select Help from the myTax screen displaying your TPAR pre-filled information."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Business transactions shown in Business income or losses"
+    },
+    {
+      "type": "paragraph",
+      "text": "You won't be able to change or delete the business transactions information."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the pre-filled business transaction record doesn't belong to you, or you've entered the income in another section of your return, you can ignore the record."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Business/sole trader and partnership income (including loss details) section, select Save and continue ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incorrect data won't be included in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otherwise, contact us on the individuals enquiries phone number, select option 3 and then option 2 so the matter can be investigated. Wait for the pre-filled record to be removed before lodging your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Capital gains or losses"
+    },
+    {
+      "type": "paragraph",
+      "text": "You won't be able to change or delete the following information only pre-fill for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "details of share disposals",
+        "transfers of property",
+        "crypto assets."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the information only pre-filled record doesn't belong to you, or you've entered the income in another section of your tax return, you can ignore the record."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Capital gains or losses section, select Save and continue ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incorrect data won't be included in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otherwise, contact us on the individuals enquiries phone number, select option 3 and then option 2 so the matter can be investigated. Wait for the pre-filled record to be removed before lodging your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Foreign income, assets and entities"
+    },
+    {
+      "type": "paragraph",
+      "text": "You won't be able to change or delete the pre-filled reminder you received interest or dividends from a foreign financial institution in previous income years."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the information only pre-filled record doesn't belong to you, or you've entered the income in another section of your tax return, you can ignore the record."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Foreign income, assets and entities section, select Save and continue ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incorrect data won't be included in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otherwise, contact us on the individuals enquiries phone number, select option 3 and then option 2 so the matter can be investigated."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Self-help in myTax"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: Help for myTax will open in a new tab of your browser. When you have finished in a topic, close the help tab or click the tab in your browser that contains your return to return to myTax."
+    },
+    {
+      "type": "paragraph",
+      "text": "At times, preparing your tax return can be confusing, so we offer help within myTax which can be accessed via:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "myTax help button which can be seen on the right-hand side or top of the screen, depending on the device you're using",
+        "links within our screens to myTax help other resources on the ATO's website."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In myTax help, you'll see help topics that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "are relevant to the screen you can see",
+        "are tailored to your personalisation selections",
+        "generally present information with common headings, such as Things to know – which covers important background that you should know before you start to complete that part of your tax return Completing this section – which covers the documents and information that you might need explanation of what may pre-fill your return steps to complete that section of your return the records you need to keep",
+        "include links to other pages on our ATO website that may provide further detail."
+      ]
+    }
+  ],
+  "content_text": "## Self-assessment\n### You're responsible for your tax return\nUnder the self-assessment system, you take responsibility for declaring all your income and for being able to support all your claims for deductions and tax offsets when you sign your tax return. This includes when you sign it using an electronic signature.\nIf we pre-fill your tax return with information provided to us by your employer or other organisations, you also take responsibility for the correctness of that information when you sign your tax return.\nWe'll issue a notice of assessment to you, usually without adjustment. However, your return may still be subject to review.\nIf you become aware that your tax return is incorrect, you need to request an amendment by logging in to our online services .\n#### Will you be penalised if something is missing?\nWe routinely compare information between what you include in your tax return and the information provided to us by employers and other organisations. If we detect discrepancies or other errors after we have issued your notice of assessment, we'll contact you and may issue an amended assessment. You'll be obliged to repay any tax owing, and any interest and penalties we may impose.\nIf you make an honest mistake when following our information in myTax and you owe us money as a result, we won't charge you a penalty. However, you must pay the money owed, and we may also charge you interest. If correcting the mistake means we owe you money, we'll pay it and any interest you're entitled to.\nIf you voluntarily disclose mistakes in your return, we'll take that into consideration in deciding what interest and penalties to impose.\n## We will pre-fill your myTax return\n### What you need to do\nWe'll pre-fill your return with all the available information reported to us by organisations, such as:\n- banks\n- employers\n- government agencies, and\n- private health insurers.\nThis information is reported to us from 1 July, with most of it available by late July.\nAll you have to do is:\n- review the pre-filled information by checking it against your records\n- enter any other missing details to complete your tax return.\nYou must make sure all the information on your tax return is correct before you lodge it, including all the pre-filled information.\nIf you delete your pre-fill data, you can select to 'Restart' your tax return to see all of your pre-fill data. If you do this, you'll lose any information that you've manually entered into your tax return.\n#### Why you may want to wait until late July to lodge using myTax\nHistorically, most information is reported to us and available for pre-filling by late July. All of your information may be available before this, but sometimes it takes a little longer.\nFor example, you may find that:\n- some of your income statements and payment summaries have been pre-filled, but not all of them\n- your income statement is 'Not tax ready'\n- interest from one financial institution has been pre-filled but interest from another one hasn’t been.\nYou can complete myTax from 1 July if you prefer not to wait for all your information to be pre-filled. If you do, you'll need all your records and statements to enter information yourself to complete and lodge your return.\n### What information can we pre-fill?\nWe'll pre-fill for you all the information provided to us at the time you do your myTax return, including:\n- Australian Government allowances, pensions and payments\n- salary, wages, foreign employment income and other amounts that are shown on income statements or payment summaries\n- Australian superannuation income streams, annuity payments and lump sums\n- interest from financial institutions including ATO imposed interest\n- public company dividends (including exploration credits up to myTax 25)\n- managed fund distributions\n- trust distributions (from myTax 26)\n- employee share scheme interests\n- business and personal services income amounts that are shown on an income statement or payment summary including voluntary agreements labour hire other specified payments\n- information reported on a Taxable payments annual report (TPAR), such as payments and grants reported by government entities payments reported by businesses providing building and construction services cleaning services courier services road freight services information technology (IT) services security, investigation or surveillance services mixed services (a business that provides one or more of the services listed above)\n- a reminder about possible capital gains tax events for details of share disposals transfers of property crypto assets\n- amounts received through a partnership distribution\n- a reminder you received interest or dividends from a foreign financial investment in previous income years\n- private health insurance policy details\n- spouse details, if you indicated you had a spouse on 30 June in the previous year's tax return\n- deductions that you have uploaded to your tax return via the myDeductions tool.\n#### What if you don't agree with the pre-filled information?\nIf you have checked the pre-filled information against your own records or statements and it doesn't match, generally you can change or delete the pre-filled information in myTax.\nIf you do this, it is important to resolve any discrepancies with the third-party provider before you lodge. They may need to send new or amended information to us to ensure our records are accurate.\n##### TPAR payments or grants\nBusinesses and government entities who make payments to contractors may need to report these payments and lodge a Taxable payments annual report (TPAR).\n###### myTax 25 and prior years\nYou won't be able to change or delete the TPAR pre-filled information.\nIf the pre-filled TPAR record doesn't belong to you, or you've entered the income in another section of your return, you can ignore the record.\nTo ignore a TPAR record and lodge your tax return:\n- When myTax requires you to select Type of income , select 'Other income'.\n- At Prepare your return, select Add/Edit at Other income .\n- At the Other income section, myTax will ask you to review your information at this section.\n- Enter any information you must include at this section (excluding the pre-filled payments and grants that don't belong to you).\n- When you're finished, select Save and continue .\nThe incorrect data won't be included in your tax return.\nOtherwise, contact us on the individuals enquiries phone number, select option 3 and then option 2 so the matter can be investigated. Wait for the pre-filled record to be removed before restarting and lodging your tax return.\n###### myTax 26 and future years\nYou can't delete any pre-filled TPAR payments or grants.\nIf you have checked the pre-filled TPAR information against your own records and it doesn't match you can edit the pre-filled information in myTax. To learn more, select Help from the myTax screen displaying your TPAR pre-filled information.\n##### Business transactions shown in Business income or losses\nYou won't be able to change or delete the business transactions information.\nIf the pre-filled business transaction record doesn't belong to you, or you've entered the income in another section of your return, you can ignore the record.\nAt the Business/sole trader and partnership income (including loss details) section, select Save and continue .\nThe incorrect data won't be included in your tax return.\nOtherwise, contact us on the individuals enquiries phone number, select option 3 and then option 2 so the matter can be investigated. Wait for the pre-filled record to be removed before lodging your tax return.\n##### Capital gains or losses\nYou won't be able to change or delete the following information only pre-fill for:\n- details of share disposals\n- transfers of property\n- crypto assets.\nIf the information only pre-filled record doesn't belong to you, or you've entered the income in another section of your tax return, you can ignore the record.\nAt the Capital gains or losses section, select Save and continue .\nThe incorrect data won't be included in your tax return.\nOtherwise, contact us on the individuals enquiries phone number, select option 3 and then option 2 so the matter can be investigated. Wait for the pre-filled record to be removed before lodging your tax return.\n##### Foreign income, assets and entities\nYou won't be able to change or delete the pre-filled reminder you received interest or dividends from a foreign financial institution in previous income years.\nIf the information only pre-filled record doesn't belong to you, or you've entered the income in another section of your tax return, you can ignore the record.\nAt the Foreign income, assets and entities section, select Save and continue .\nThe incorrect data won't be included in your tax return.\nOtherwise, contact us on the individuals enquiries phone number, select option 3 and then option 2 so the matter can be investigated.\n## Self-help in myTax\nNote: Help for myTax will open in a new tab of your browser. When you have finished in a topic, close the help tab or click the tab in your browser that contains your return to return to myTax.\nAt times, preparing your tax return can be confusing, so we offer help within myTax which can be accessed via:\n- myTax help button which can be seen on the right-hand side or top of the screen, depending on the device you're using\n- links within our screens to myTax help other resources on the ATO's website.\nIn myTax help, you'll see help topics that:\n- are relevant to the screen you can see\n- are tailored to your personalisation selections\n- generally present information with common headings, such as Things to know – which covers important background that you should know before you start to complete that part of your tax return Completing this section – which covers the documents and information that you might need explanation of what may pre-fill your return steps to complete that section of your return the records you need to keep\n- include links to other pages on our ATO website that may provide further detail.",
+  "child_links": [],
+  "word_count": 1673,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

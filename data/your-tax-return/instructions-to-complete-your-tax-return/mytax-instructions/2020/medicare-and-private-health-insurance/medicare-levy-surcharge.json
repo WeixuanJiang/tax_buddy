@@ -1,0 +1,494 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2020/medicare-and-private-health-insurance/medicare-levy-surcharge",
+  "title": "myTax 2020 Medicare levy surcharge",
+  "description": "How to complete the Medicare levy surcharge section when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "62380",
+  "date_updated": "2020-09-24T14:00:00Z",
+  "first_published": "",
+  "keywords": "2020, myTax, e-tax, medicare, medicare surcharge, surcharge, medicare levy surcharge, MLS, online tax return, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Complete this section to work out whether you have to pay a Medicare levy surcharge. This section is compulsory."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Medicare levy surcharge (MLS) is in addition to the Medicare levy."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may have to pay MLS for any period during the income year that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you, your spouse, or any of your dependants did not have an appropriate level of private patient hospital cover , and",
+        "income for MLS purposes (including your spouse's income if relevant) is above the relevant thresholds ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on your income for MLS purposes, the MLS rate is either 1%, 1.25% or 1.5% of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your taxable income",
+        "your total reportable fringe benefits, and",
+        "any amount on which family trust distribution tax has been paid."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Your private health insurance policy details"
+    },
+    {
+      "type": "paragraph",
+      "text": "The law has changed regarding the way insurers provide you with private health insurance details. It is optional for registered health insurers to provide you with a private health insurance statement. A statement may only be provided if you request one from your registered health insurer."
+    },
+    {
+      "type": "paragraph",
+      "text": "To obtain your statement information, go to your health insurer's website for details on viewing your statement information online, or to request a printed statement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: If you are an overseas visitor, for more information and instructions on how to complete the Private health insurance and this section, see Overseas visitors ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you and all your dependants were covered by an appropriate level of private patient hospital cover for part (but not all) of 2019–20, you may need the number of days you and your dependants were covered."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Personalise return , you don't need to make a selection to show Medicare levy surcharge as it's always displayed at Prepare return."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Prepare return , select Add/Edit at the Medicare and private health insurance banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Medicare levy surcharge (MLS) heading:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Answer the question Were you and all your dependants covered by an appropriate level of private patient hospital cover from 1 July 2019 to 30 June 2020? If Yes , go to step 4. If No , go to step 2. Note: We may have populated this based on information you previously provided to us. Check and correct if necessary.",
+        "If your income for MLS purposes is below the threshold for your circumstances , myTax may advise you that you do not have to pay the Medicare levy surcharge. If this occurs , go to step 4 Otherwise , go to step 3.",
+        "Work out and enter the Number of days you do not have to pay the surcharge . If you do not have to pay the surcharge because you were in a Medicare levy surcharge exemption category for the whole of 2019–20, enter 366 . If you have to pay the surcharge for part of the period 1 July 2019 to 30 June 2020, enter the number of days for which you do not have to pay the surcharge. For some examples, see you or your family were covered by an appropriate level of private patient hospital cover for only part of the year which income threshold do you use if your family circumstances change during the year . If you have to pay the surcharge for the whole period 1 July 2019 to 30 June 2020, enter 0 .",
+        "You have completed the Medicare levy surcharge section. If you had private patient hospital cover for any part of the year, go to the Private health insurance section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We use this information to work out any Medicare levy surcharge for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are liable for MLS only because your spouse has shown a lump sum payment in arrears in Foreign income or Other income section on their tax return , you may be entitled to a tax offset up to the amount of MLS you have to pay. We will calculate the tax offset for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Spouse details , you will need to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "answer Yes to the question Did your spouse receive a lump sum payment in arrears during the 2019–20 and is your combined income for Medicare levy surcharge purposes over $180,000 (plus $1,500 for each dependent child after the first)?",
+        "enter your spouse's address."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Further information"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "MLS income thresholds and rates"
+    },
+    {
+      "type": "paragraph",
+      "text": "The MLS is income tested against the following thresholds:"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Medicare levy surcharge thresholds"
+    },
+    {
+      "type": "paragraph",
+      "text": "You do not have to pay the MLS for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Singles : if your income for MLS purposes is $90,000 or less",
+        "Families : if your combined income for MLS purposes is $180,000 or less plus $1,500 for each MLS dependent child after the first child."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Medicare levy surcharge rate"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have to pay the MLS, the level of your income determines the MLS rate that you pay."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "For Singles if your MLS income is $90,001 to $105,000, the rate is 1.0% $105,001 to $140,000, the rate is 1.25% $140,001 or more, the rate is 1.5%.",
+        "For Families if your MLS income is $180,001 to $210,000 (see Note 1 ), the rate is 1.0% $210,001 to $280,000 see Note 1 ), the rate is 1.25% $280,001 (see Note 1 ) or more, the rate is 1.5%."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note 1: The family income threshold is increased by $1,500 for each MLS dependent child after the first child."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "What if you or your family were covered by an appropriate level of private patient hospital cover for only part of the year?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you took out private patient hospital cover during the 2019–20 year, use the following examples to help you work out how many days you are not liable to pay MLS."
+    },
+    {
+      "type": "paragraph",
+      "text": "Find out about:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Example 1: A single person with part-year private patient hospital cover",
+        "Example 2: A family with part-year private patient hospital cover"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Example 1: A single person with part-year private patient hospital cover"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Jacinta was single and had no dependants. She was not in a Medicare levy exemption category at any time during the year.",
+        "Jacinta took out private patient hospital cover on 15 January 2020.",
+        "Jacinta will answer No to the question Were you and all your dependants including your spouse covered by an appropriate level of private patient hospital cover from 1 July 2019 to 30 June 2020?",
+        "Income below the MLS threshold: Where Jacinta's income for MLS purposes was less than the single income threshold of $90,000, myTax displays a message indicating that she does not have to pay the Medicare levy surcharge.",
+        "Income above the MLS threshold: Where Jacinta's income for MLS purposes was greater than the single MLS threshold of $90,000, myTax displays the Number of days you not have the pay the surcharge entry box. Jacinta does not have to pay MLS for the time she had private patient hospital cover – from 15 January 2020 to 30 June 2020. That was 168 days. Jacinta will enter 168 at Number of days you do not have to pay the surcharge and complete Private health insurance section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Example 2: A family with part-year private patient hospital cover"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Jill and Kevin have been married for a number of years. They have three dependent children. Jill, Kevin and their children were not in a Medicare levy exemption category at any time during the year.",
+        "Jill and the children were covered by private patient hospital cover for the full income year.",
+        "Kevin added his name to the policy on 10 January 2020.",
+        "Both Jill and Kevin will answer No to the question Were you and all your dependants covered by an appropriate level of private patient hospital cover from 1 July 2019 to 30 June 2020?",
+        "Income below the MLS threshold: Where Jill and Kevin's combined income for MLS purposes is less than their family MLS threshold, myTax displays a message indicating that they do not have to pay the Medicare levy surcharge.",
+        "Income above the MLS threshold: Where Jill and Kevin's income for MLS purposes greater than their family MLS threshold, myTax displays the Number of days you not have the pay the surcharge entry box. Jill and Kevin do not have to pay MLS for the time the whole family had private patient hospital cover – from 10 January 2020 to 30 June 2020. That was 173 days. Jill and Kevin would both enter 173 at Number of days you do not have to pay the surcharge and complete Private health insurance section."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Which income threshold do you use if your family circumstances change during the year?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a new spouse or you separated from your spouse, or you became or ceased to be a sole parent, both the single and the family surcharge thresholds may apply to you for different periods. Special rules apply in calculating MLS for these periods."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to work out whether you were liable for MLS for any period during 2019–20 that you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "were single (that is, you had no spouse or dependent children) so you can apply the single surcharge threshold of $90,000 to your income for MLS purposes",
+        "had a spouse or any dependent children, so you can apply the family surcharge threshold of $180,000, plus $1,500 for each dependent child after the first, to your income for MLS purposes."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We will calculate the rate of your MLS liability based on:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your combined family income using the relevant family income threshold if you had a spouse on 30 June 2020, or",
+        "your own income using the relevant single income threshold if you were single on 30 June 2020."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your spouse died during 2019–20 and you did not have another spouse before the end of the year, you are treated as if you had a spouse for the remainder of 2019–20 and you apply the family surcharge threshold of $180,000, plus $1,500 for each dependent child after the first."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will be liable for MLS for the number of days you were single if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your own income for MLS purposes was more than the single surcharge threshold of $90,000, and",
+        "you did not have an appropriate level of private patient hospital cover or were not in a Medicare levy exemption category."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You will be liable for MLS for the number of days you had a spouse or dependent children, if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your own income for MLS purposes was more than the family surcharge threshold of $180,000 (plus $1,500 for each dependent child after the first one), and",
+        "you, your spouse, or any dependent children, did not have an appropriate level of private patient hospital cover or were not in a Medicare levy exemption category."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the following examples to help you work out how many days you are not liable to pay MLS if your family circumstances changed during the 2019–20 year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Find out about"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Example 3: Separated during the year",
+        "Example 4: Got married during the year"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Example 3: Separated during the year"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Michelle and Michael lived together as a couple on a genuine domestic basis for seven years, but on 12 October 2019 they separated and each stayed single.",
+        "They did not have private patient hospital cover at any time during 2019–20.",
+        "Michelle and Michael had no dependent children, but they were dependants of each other for MLS purposes until they separated.",
+        "Michelle's income for MLS purposes was $95,000 and Michael's income for MLS purposes was $69,000.",
+        "Michelle and Michael now have to use their individual income for MLS purposes and compare that with the: family MLS threshold to calculate whether or not they will have to pay the MLS for the number of days they were living together as a couple single person MLS threshold to calculate whether or not they will have to pay the MLS for the number of days they were single.",
+        "As they did not have any private patient hospital cover during 2019–20, both Michelle and Michael answered No to the question Were you and all your dependants covered by an appropriate level of private patient hospital cover from 1 July 2019 to 30 June 2020?",
+        "First period of the year: Michelle and Michael are considered to be a family for the period 1 July to 12 October 2019 (104 days). For this period, they use their own income for MLS purposes and each compare that with the family MLS threshold of $180,000. This means: Michelle is not liable for MLS for this period because her own income for MLS purposes ($95,000) was less than $180,000. Michael is not liable for MLS for this period because his own income for MLS purposes ($69,000) was less than $180,000.",
+        "Second period of the year: Michelle and Michael were single for the period 13 October 2019 to 30 June 2020 (262 days). For this period, they use their own income for MLS purposes and each compare that with the single person MLS threshold of $90,000. This means Michelle is liable to pay MLS for this period because her own income for MLS purposes ($95,000) exceeded $90,000. Michael is not liable for MLS for this period because his own income for MLS purposes ($69,000) was less than $90,000.",
+        "Entering Number of days you do not have to pay the surcharge: Michelle writes 104 being the number of days in the first period when she was not liable for MLS. Michael writes 366 because he was not liable for MLS in 2019–20."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Example 4: Got married during the year"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "At the beginning of the income year, Alice and Adam were both single. Alice and Adam got married on 17 January 2020 and are still married on 30 June 2020. They were not in a de facto relationship before their marriage.",
+        "They did not have private patient hospital cover at any time during 2019–20.",
+        "Alice and Adam had no dependent children, but they were dependants of each other for MLS purposes from the date they were married.",
+        "Alice's income for MLS purposes was $133,000 (including a net investment loss of $8,000) and Adam's income for MLS purposes was $80,000.",
+        "Alice and Adam now have to use their individual income for MLS purposes and compare that with the single person MLS threshold to calculate whether or not they will have to pay the MLS to the number of days they were single family MLS threshold to calculate whether or not they will have to pay the MLS for the number of days they were considered to be a family.",
+        "As they did not have any private patient hospital cover during 2019–20 both Alice and Adam answered No to the question Were you and all your dependants covered by an appropriate level of private patient hospital cover from 1 July 2019 to 30 June 2020?",
+        "First period of the year: Alice and Adam were single for the period 1 July 2019 to 16 January 2020 (200 days). For this period, they use their own income for MLS purposes and each compare that with the single person MLS threshold of $90,000. This means: Alice is liable to pay MLS for this period because her own income for MLS purposes ($133,000) exceeds $90,000. Adam is not liable for MLS for this period because his own income for MLS purposes ($80,000) was less than $90,000.",
+        "Second period of the year: Alice and Adam are considered to be a family for the period 17 January to 30 June 2020 (166 days). For this period, they use their own income for MLS purposes and each compare that with the family MLS threshold of $180,000. This means Alice is not liable for MLS for this period because her own income for MLS purposes ($133,000) was less than $180,000. Adam is not liable for MLS for this period because his own income for MLS purposes ($80,000) was less than $180,000.",
+        "Entering Number of days you do not have to pay the surcharge: Alice writes 166 , the number of days in the second period when she was not liable for MLS. Adam writes 366 because he was not liable for MLS at any period in 2019–20."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Medicare levy surcharge exemption categories"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you fit into one of the following categories, you are exempt from MLS for the whole of 2019–20."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "For the whole of 2019–20, you and all your dependants (if you had any) either: had an appropriate level of private patient hospital cover, or were in a Medicare levy exemption category .",
+        "Your income for MLS purposes was $90,000 or less and, for the whole of 2019–20 , you were single without a dependent child.",
+        "Your income for MLS purposes was $90,000 or less and: for part of 2019–20 you were single your spouse did not die during the year, and for the whole of the year you did not have a dependent child.",
+        "Your income for MLS purposes was $180,000 or less (plus $1,500 for each dependent child after the first) and: you were single for the whole of the year , and you had at least one dependent child for the whole of the year.",
+        "Your combined income for MLS purposes was $180,000 or less (plus $1,500 for each dependent child after the first), and: you had a spouse (with or without dependent children) for the whole of the year . Note: If your spouse died during 2019–20 and you did not have another spouse before the end of the year, you are treated as having had a spouse for the remainder of 2019–20.",
+        "Your combined income for MLS purposes was greater than $180,000 (plus $1,500 for each dependent child after the first), but your own income for MLS purposes was $22,801 or less."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Working out your income for MLS purposes"
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your and your spouse's income for MLS purposes, go to the Income tests calculator This link opens in a new window ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Glossary"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Appropriate level of private patient hospital cover"
+    },
+    {
+      "type": "paragraph",
+      "text": "An appropriate level of private patient hospital cover is cover provided by a registered health insurer for hospital treatment in Australia which has an excess of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$750 or less (for a policy covering only one person), or",
+        "$1,500 or less (for all other policies)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Excess is the amount you pay before your health insurer pays for any claim you make."
+    },
+    {
+      "type": "paragraph",
+      "text": "General cover (formerly called ancillary cover) or 'extras' is not private patient hospital cover because it covers only items such as optical, dental, physiotherapy or chiropractic treatment."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are not sure whether you had an 'appropriate level of private patient hospital cover' during 2019–20, contact your health insurer."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Child"
+    },
+    {
+      "type": "paragraph",
+      "text": "Child includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your adopted child, stepchild or ex-nuptial child",
+        "a newborn or newly adopted child",
+        "a child of your spouse, and",
+        "someone who is your child within the meaning of the Family Law Act 1975 (for example, a child who is considered to be a child of a person under a state or territory court order giving effect to a surrogacy agreement)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The definition of child includes children of people who are in same-sex relationships."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Dependants"
+    },
+    {
+      "type": "paragraph",
+      "text": "For Medicare levy surcharge purposes, your dependants (regardless of their income) are your:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "spouse, even if they worked during 2019–20 or had their own income",
+        "children under 21 years old",
+        "children 21 to 24 years old who are studying full time at school, college or university."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Dependants must have been Australian residents in 2019–20 and you must have contributed to their maintenance ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your spouse includes another person (of any sex) who for 2019–20:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were in a relationship with that was registered under a prescribed state or territory law",
+        "although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Maintaining a dependant"
+    },
+    {
+      "type": "paragraph",
+      "text": "You maintained a dependant if any of the following applied:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you both lived in the same house",
+        "you gave them food, clothing and lodging",
+        "you helped them to pay for their living, medical and educational costs."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a spouse for the whole of 2019–20 and your spouse worked at any time during the year, we still consider you to have maintained your spouse as a dependant for the whole income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "We consider you to have maintained a dependant even if the two of you were temporarily separated, for example, due to holidays or overseas travel."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you maintained a dependant for only part of the year, you may need to adjust your claim accordingly."
+    }
+  ],
+  "content_text": "Complete this section to work out whether you have to pay a Medicare levy surcharge. This section is compulsory.\n## Things to know\nThe Medicare levy surcharge (MLS) is in addition to the Medicare levy.\nYou may have to pay MLS for any period during the income year that:\n- you, your spouse, or any of your dependants did not have an appropriate level of private patient hospital cover , and\n- income for MLS purposes (including your spouse's income if relevant) is above the relevant thresholds .\nDepending on your income for MLS purposes, the MLS rate is either 1%, 1.25% or 1.5% of:\n- your taxable income\n- your total reportable fringe benefits, and\n- any amount on which family trust distribution tax has been paid.\n### Your private health insurance policy details\nThe law has changed regarding the way insurers provide you with private health insurance details. It is optional for registered health insurers to provide you with a private health insurance statement. A statement may only be provided if you request one from your registered health insurer.\nTo obtain your statement information, go to your health insurer's website for details on viewing your statement information online, or to request a printed statement.\n## Completing this section\nNote: If you are an overseas visitor, for more information and instructions on how to complete the Private health insurance and this section, see Overseas visitors .\nIf you and all your dependants were covered by an appropriate level of private patient hospital cover for part (but not all) of 2019–20, you may need the number of days you and your dependants were covered.\nAt Personalise return , you don't need to make a selection to show Medicare levy surcharge as it's always displayed at Prepare return.\nAt Prepare return , select Add/Edit at the Medicare and private health insurance banner.\nAt the Medicare levy surcharge (MLS) heading:\n- Answer the question Were you and all your dependants covered by an appropriate level of private patient hospital cover from 1 July 2019 to 30 June 2020? If Yes , go to step 4. If No , go to step 2. Note: We may have populated this based on information you previously provided to us. Check and correct if necessary.\n- If your income for MLS purposes is below the threshold for your circumstances , myTax may advise you that you do not have to pay the Medicare levy surcharge. If this occurs , go to step 4 Otherwise , go to step 3.\n- Work out and enter the Number of days you do not have to pay the surcharge . If you do not have to pay the surcharge because you were in a Medicare levy surcharge exemption category for the whole of 2019–20, enter 366 . If you have to pay the surcharge for part of the period 1 July 2019 to 30 June 2020, enter the number of days for which you do not have to pay the surcharge. For some examples, see you or your family were covered by an appropriate level of private patient hospital cover for only part of the year which income threshold do you use if your family circumstances change during the year . If you have to pay the surcharge for the whole period 1 July 2019 to 30 June 2020, enter 0 .\n- You have completed the Medicare levy surcharge section. If you had private patient hospital cover for any part of the year, go to the Private health insurance section.\nWe use this information to work out any Medicare levy surcharge for you.\nIf you are liable for MLS only because your spouse has shown a lump sum payment in arrears in Foreign income or Other income section on their tax return , you may be entitled to a tax offset up to the amount of MLS you have to pay. We will calculate the tax offset for you.\nAt Spouse details , you will need to:\n- answer Yes to the question Did your spouse receive a lump sum payment in arrears during the 2019–20 and is your combined income for Medicare levy surcharge purposes over $180,000 (plus $1,500 for each dependent child after the first)?\n- enter your spouse's address.\n### Further information\n#### MLS income thresholds and rates\nThe MLS is income tested against the following thresholds:\n##### Medicare levy surcharge thresholds\nYou do not have to pay the MLS for:\n- Singles : if your income for MLS purposes is $90,000 or less\n- Families : if your combined income for MLS purposes is $180,000 or less plus $1,500 for each MLS dependent child after the first child.\n##### Medicare levy surcharge rate\nIf you have to pay the MLS, the level of your income determines the MLS rate that you pay.\n- For Singles if your MLS income is $90,001 to $105,000, the rate is 1.0% $105,001 to $140,000, the rate is 1.25% $140,001 or more, the rate is 1.5%.\n- For Families if your MLS income is $180,001 to $210,000 (see Note 1 ), the rate is 1.0% $210,001 to $280,000 see Note 1 ), the rate is 1.25% $280,001 (see Note 1 ) or more, the rate is 1.5%.\nNote 1: The family income threshold is increased by $1,500 for each MLS dependent child after the first child.\n#### What if you or your family were covered by an appropriate level of private patient hospital cover for only part of the year?\nIf you took out private patient hospital cover during the 2019–20 year, use the following examples to help you work out how many days you are not liable to pay MLS.\nFind out about:\n- Example 1: A single person with part-year private patient hospital cover\n- Example 2: A family with part-year private patient hospital cover\nExample 1: A single person with part-year private patient hospital cover\n- Jacinta was single and had no dependants. She was not in a Medicare levy exemption category at any time during the year.\n- Jacinta took out private patient hospital cover on 15 January 2020.\n- Jacinta will answer No to the question Were you and all your dependants including your spouse covered by an appropriate level of private patient hospital cover from 1 July 2019 to 30 June 2020?\n- Income below the MLS threshold: Where Jacinta's income for MLS purposes was less than the single income threshold of $90,000, myTax displays a message indicating that she does not have to pay the Medicare levy surcharge.\n- Income above the MLS threshold: Where Jacinta's income for MLS purposes was greater than the single MLS threshold of $90,000, myTax displays the Number of days you not have the pay the surcharge entry box. Jacinta does not have to pay MLS for the time she had private patient hospital cover – from 15 January 2020 to 30 June 2020. That was 168 days. Jacinta will enter 168 at Number of days you do not have to pay the surcharge and complete Private health insurance section.\nExample 2: A family with part-year private patient hospital cover\n- Jill and Kevin have been married for a number of years. They have three dependent children. Jill, Kevin and their children were not in a Medicare levy exemption category at any time during the year.\n- Jill and the children were covered by private patient hospital cover for the full income year.\n- Kevin added his name to the policy on 10 January 2020.\n- Both Jill and Kevin will answer No to the question Were you and all your dependants covered by an appropriate level of private patient hospital cover from 1 July 2019 to 30 June 2020?\n- Income below the MLS threshold: Where Jill and Kevin's combined income for MLS purposes is less than their family MLS threshold, myTax displays a message indicating that they do not have to pay the Medicare levy surcharge.\n- Income above the MLS threshold: Where Jill and Kevin's income for MLS purposes greater than their family MLS threshold, myTax displays the Number of days you not have the pay the surcharge entry box. Jill and Kevin do not have to pay MLS for the time the whole family had private patient hospital cover – from 10 January 2020 to 30 June 2020. That was 173 days. Jill and Kevin would both enter 173 at Number of days you do not have to pay the surcharge and complete Private health insurance section.\n#### Which income threshold do you use if your family circumstances change during the year?\nIf you had a new spouse or you separated from your spouse, or you became or ceased to be a sole parent, both the single and the family surcharge thresholds may apply to you for different periods. Special rules apply in calculating MLS for these periods.\nYou need to work out whether you were liable for MLS for any period during 2019–20 that you:\n- were single (that is, you had no spouse or dependent children) so you can apply the single surcharge threshold of $90,000 to your income for MLS purposes\n- had a spouse or any dependent children, so you can apply the family surcharge threshold of $180,000, plus $1,500 for each dependent child after the first, to your income for MLS purposes.\nWe will calculate the rate of your MLS liability based on:\n- your combined family income using the relevant family income threshold if you had a spouse on 30 June 2020, or\n- your own income using the relevant single income threshold if you were single on 30 June 2020.\nIf your spouse died during 2019–20 and you did not have another spouse before the end of the year, you are treated as if you had a spouse for the remainder of 2019–20 and you apply the family surcharge threshold of $180,000, plus $1,500 for each dependent child after the first.\nYou will be liable for MLS for the number of days you were single if:\n- your own income for MLS purposes was more than the single surcharge threshold of $90,000, and\n- you did not have an appropriate level of private patient hospital cover or were not in a Medicare levy exemption category.\nYou will be liable for MLS for the number of days you had a spouse or dependent children, if:\n- your own income for MLS purposes was more than the family surcharge threshold of $180,000 (plus $1,500 for each dependent child after the first one), and\n- you, your spouse, or any dependent children, did not have an appropriate level of private patient hospital cover or were not in a Medicare levy exemption category.\nUse the following examples to help you work out how many days you are not liable to pay MLS if your family circumstances changed during the 2019–20 year.\nFind out about\n- Example 3: Separated during the year\n- Example 4: Got married during the year\nExample 3: Separated during the year\n- Michelle and Michael lived together as a couple on a genuine domestic basis for seven years, but on 12 October 2019 they separated and each stayed single.\n- They did not have private patient hospital cover at any time during 2019–20.\n- Michelle and Michael had no dependent children, but they were dependants of each other for MLS purposes until they separated.\n- Michelle's income for MLS purposes was $95,000 and Michael's income for MLS purposes was $69,000.\n- Michelle and Michael now have to use their individual income for MLS purposes and compare that with the: family MLS threshold to calculate whether or not they will have to pay the MLS for the number of days they were living together as a couple single person MLS threshold to calculate whether or not they will have to pay the MLS for the number of days they were single.\n- As they did not have any private patient hospital cover during 2019–20, both Michelle and Michael answered No to the question Were you and all your dependants covered by an appropriate level of private patient hospital cover from 1 July 2019 to 30 June 2020?\n- First period of the year: Michelle and Michael are considered to be a family for the period 1 July to 12 October 2019 (104 days). For this period, they use their own income for MLS purposes and each compare that with the family MLS threshold of $180,000. This means: Michelle is not liable for MLS for this period because her own income for MLS purposes ($95,000) was less than $180,000. Michael is not liable for MLS for this period because his own income for MLS purposes ($69,000) was less than $180,000.\n- Second period of the year: Michelle and Michael were single for the period 13 October 2019 to 30 June 2020 (262 days). For this period, they use their own income for MLS purposes and each compare that with the single person MLS threshold of $90,000. This means Michelle is liable to pay MLS for this period because her own income for MLS purposes ($95,000) exceeded $90,000. Michael is not liable for MLS for this period because his own income for MLS purposes ($69,000) was less than $90,000.\n- Entering Number of days you do not have to pay the surcharge: Michelle writes 104 being the number of days in the first period when she was not liable for MLS. Michael writes 366 because he was not liable for MLS in 2019–20.\nExample 4: Got married during the year\n- At the beginning of the income year, Alice and Adam were both single. Alice and Adam got married on 17 January 2020 and are still married on 30 June 2020. They were not in a de facto relationship before their marriage.\n- They did not have private patient hospital cover at any time during 2019–20.\n- Alice and Adam had no dependent children, but they were dependants of each other for MLS purposes from the date they were married.\n- Alice's income for MLS purposes was $133,000 (including a net investment loss of $8,000) and Adam's income for MLS purposes was $80,000.\n- Alice and Adam now have to use their individual income for MLS purposes and compare that with the single person MLS threshold to calculate whether or not they will have to pay the MLS to the number of days they were single family MLS threshold to calculate whether or not they will have to pay the MLS for the number of days they were considered to be a family.\n- As they did not have any private patient hospital cover during 2019–20 both Alice and Adam answered No to the question Were you and all your dependants covered by an appropriate level of private patient hospital cover from 1 July 2019 to 30 June 2020?\n- First period of the year: Alice and Adam were single for the period 1 July 2019 to 16 January 2020 (200 days). For this period, they use their own income for MLS purposes and each compare that with the single person MLS threshold of $90,000. This means: Alice is liable to pay MLS for this period because her own income for MLS purposes ($133,000) exceeds $90,000. Adam is not liable for MLS for this period because his own income for MLS purposes ($80,000) was less than $90,000.\n- Second period of the year: Alice and Adam are considered to be a family for the period 17 January to 30 June 2020 (166 days). For this period, they use their own income for MLS purposes and each compare that with the family MLS threshold of $180,000. This means Alice is not liable for MLS for this period because her own income for MLS purposes ($133,000) was less than $180,000. Adam is not liable for MLS for this period because his own income for MLS purposes ($80,000) was less than $180,000.\n- Entering Number of days you do not have to pay the surcharge: Alice writes 166 , the number of days in the second period when she was not liable for MLS. Adam writes 366 because he was not liable for MLS at any period in 2019–20.\n#### Medicare levy surcharge exemption categories\nIf you fit into one of the following categories, you are exempt from MLS for the whole of 2019–20.\n- For the whole of 2019–20, you and all your dependants (if you had any) either: had an appropriate level of private patient hospital cover, or were in a Medicare levy exemption category .\n- Your income for MLS purposes was $90,000 or less and, for the whole of 2019–20 , you were single without a dependent child.\n- Your income for MLS purposes was $90,000 or less and: for part of 2019–20 you were single your spouse did not die during the year, and for the whole of the year you did not have a dependent child.\n- Your income for MLS purposes was $180,000 or less (plus $1,500 for each dependent child after the first) and: you were single for the whole of the year , and you had at least one dependent child for the whole of the year.\n- Your combined income for MLS purposes was $180,000 or less (plus $1,500 for each dependent child after the first), and: you had a spouse (with or without dependent children) for the whole of the year . Note: If your spouse died during 2019–20 and you did not have another spouse before the end of the year, you are treated as having had a spouse for the remainder of 2019–20.\n- Your combined income for MLS purposes was greater than $180,000 (plus $1,500 for each dependent child after the first), but your own income for MLS purposes was $22,801 or less.\n#### Working out your income for MLS purposes\nTo work out your and your spouse's income for MLS purposes, go to the Income tests calculator This link opens in a new window .\n### Glossary\n#### Appropriate level of private patient hospital cover\nAn appropriate level of private patient hospital cover is cover provided by a registered health insurer for hospital treatment in Australia which has an excess of:\n- $750 or less (for a policy covering only one person), or\n- $1,500 or less (for all other policies).\nExcess is the amount you pay before your health insurer pays for any claim you make.\nGeneral cover (formerly called ancillary cover) or 'extras' is not private patient hospital cover because it covers only items such as optical, dental, physiotherapy or chiropractic treatment.\nIf you are not sure whether you had an 'appropriate level of private patient hospital cover' during 2019–20, contact your health insurer.\n#### Child\nChild includes:\n- your adopted child, stepchild or ex-nuptial child\n- a newborn or newly adopted child\n- a child of your spouse, and\n- someone who is your child within the meaning of the Family Law Act 1975 (for example, a child who is considered to be a child of a person under a state or territory court order giving effect to a surrogacy agreement).\nThe definition of child includes children of people who are in same-sex relationships.\n#### Dependants\nFor Medicare levy surcharge purposes, your dependants (regardless of their income) are your:\n- spouse, even if they worked during 2019–20 or had their own income\n- children under 21 years old\n- children 21 to 24 years old who are studying full time at school, college or university.\nDependants must have been Australian residents in 2019–20 and you must have contributed to their maintenance .\nYour spouse includes another person (of any sex) who for 2019–20:\n- you were in a relationship with that was registered under a prescribed state or territory law\n- although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple.\n#### Maintaining a dependant\nYou maintained a dependant if any of the following applied:\n- you both lived in the same house\n- you gave them food, clothing and lodging\n- you helped them to pay for their living, medical and educational costs.\nIf you had a spouse for the whole of 2019–20 and your spouse worked at any time during the year, we still consider you to have maintained your spouse as a dependant for the whole income year.\nWe consider you to have maintained a dependant even if the two of you were temporarily separated, for example, due to holidays or overseas travel.\nIf you maintained a dependant for only part of the year, you may need to adjust your claim accordingly.",
+  "child_links": [],
+  "word_count": 3461,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,199 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2011/tax-return/tax-offset-questions-t1-t5/t5-private-health-insurance-2011/more-information/how-to-work-out-your-private-health-insurance-tax-offset",
+  "title": "How to work out your private health insurance tax offset",
+  "description": "",
+  "nat_number": "",
+  "quick_code": "80912",
+  "date_updated": "2011-06-28T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the amounts shown at G on your statements."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Deduct any cash or cheque rebates you received from Medicare for your private health insurance premiums."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the result from step 2 is $0 or a negative amount, you have already received your full entitlement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otherwise, the result from step 2 is the amount you are entitled to claim."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you and another person made payments for the same policy (for example, from a joint bank account) you can each claim the proportion of the amount you worked out at step 2 that reflects the amount of the premiums that you paid."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "If you do not have a private health insurance statement"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is better if you complete this item using the annual statement which health insurers give to all policy holders."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, if you cannot get a statement, or if your statement shows a total amount expected to be paid during the year which is different to the total amount actually paid (for example, you did not make one of the expected payments) you can use one of the following worksheets to help you calculate your tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use Worksheet 1 if your tax offset percentage did not change during the period the payments cover."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use Worksheet 2 if your tax offset percentage changed during the period the payments cover - for example, a person covered by the policy turned 65 or 70 years old."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 1 - Use if your tax offset percentage did not change during the period the payments cover."
+        ],
+        [
+          "Total premiums paid during 2010-11 for the policy before any premium reduction from your health insurer or rebate from Medicare",
+          "(a)",
+          "$_________"
+        ],
+        [
+          "Your tax offset percentage",
+          "(b)",
+          "_________%"
+        ],
+        [
+          "Multiply (a) by the percentage shown at (b)",
+          "(c)",
+          "__________"
+        ],
+        [
+          "Amount, if any, of premium reduction from your health insurer or of rebate from Medicare",
+          "(d)",
+          "__________"
+        ],
+        [
+          "Take (d) away from (c)",
+          "(e)",
+          "__________"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at (e) is what you are entitled to claim. If (e) is 0 or a negative amount, you have already received your full entitlement. Go to item T6 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 2 - Use if your tax offset percentage changed during the period the payments cover."
+        ],
+        [
+          "Total premiums paid during 2010-11 for the policy before any premium reduction from your health insurer or rebate from Medicare",
+          "(a)",
+          "$___________"
+        ],
+        [
+          "Number of days the amount shown at (a) covers",
+          "(b)",
+          "___________"
+        ],
+        [
+          "",
+          "",
+          "Column 1 Tax offset for first period",
+          "",
+          "Column 2 Tax offset for second period"
+        ],
+        [
+          "Your tax offset percentages for the days shown at (b)",
+          "(c)",
+          "___________%",
+          "(c)",
+          "___________%"
+        ],
+        [
+          "Number of days to which the tax offset percentages at (c) apply",
+          "(d)",
+          "___________",
+          "(d)",
+          "___________"
+        ],
+        [
+          "Multiply (a) by (d)",
+          "(e)",
+          "$___________",
+          "(e)",
+          "$___________"
+        ],
+        [
+          "Divide (e) by (b)",
+          "(f)",
+          "$___________",
+          "(f)",
+          "$___________"
+        ],
+        [
+          "Multiply (f) by the percentage shown at (c)",
+          "(g)",
+          "$___________",
+          "(g)",
+          "$___________"
+        ],
+        [
+          "Add (g) column 1 and (g) column 2",
+          "(h)",
+          "$___________",
+          "",
+          ""
+        ],
+        [
+          "Amount, if any, of premium reduction from your health insurer or of rebate from Medicare",
+          "(i)",
+          "$___________",
+          "",
+          ""
+        ],
+        [
+          "Take (i) away from (h)",
+          "(j)",
+          "$___________",
+          "",
+          ""
+        ],
+        [
+          "* Add another column if your tax offset percentage changed more than once."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at (j) is what you are entitled to claim. If (j) is 0 or a negative amount, you have already received your full entitlement. Go to item T6 ."
+    }
+  ],
+  "content_text": "## Step 1\nAdd up all the amounts shown at G on your statements.\n## Step 2\nDeduct any cash or cheque rebates you received from Medicare for your private health insurance premiums.\n## Step 3\nIf the result from step 2 is $0 or a negative amount, you have already received your full entitlement.\nOtherwise, the result from step 2 is the amount you are entitled to claim.\nIf you and another person made payments for the same policy (for example, from a joint bank account) you can each claim the proportion of the amount you worked out at step 2 that reflects the amount of the premiums that you paid.\n## If you do not have a private health insurance statement\nIt is better if you complete this item using the annual statement which health insurers give to all policy holders.\nHowever, if you cannot get a statement, or if your statement shows a total amount expected to be paid during the year which is different to the total amount actually paid (for example, you did not make one of the expected payments) you can use one of the following worksheets to help you calculate your tax offset.\nUse Worksheet 1 if your tax offset percentage did not change during the period the payments cover.\nUse Worksheet 2 if your tax offset percentage changed during the period the payments cover - for example, a person covered by the policy turned 65 or 70 years old.\nWorksheet 1 - Use if your tax offset percentage did not change during the period the payments cover.\nTotal premiums paid during 2010-11 for the policy before any premium reduction from your health insurer or rebate from Medicare | (a) | $_________\nYour tax offset percentage | (b) | _________%\nMultiply (a) by the percentage shown at (b) | (c) | __________\nAmount, if any, of premium reduction from your health insurer or of rebate from Medicare | (d) | __________\nTake (d) away from (c) | (e) | __________\nThe amount at (e) is what you are entitled to claim. If (e) is 0 or a negative amount, you have already received your full entitlement. Go to item T6 .\nWorksheet 2 - Use if your tax offset percentage changed during the period the payments cover.\nTotal premiums paid during 2010-11 for the policy before any premium reduction from your health insurer or rebate from Medicare | (a) | $___________\nNumber of days the amount shown at (a) covers | (b) | ___________\n |  | Column 1 Tax offset for first period |  | Column 2 Tax offset for second period\nYour tax offset percentages for the days shown at (b) | (c) | ___________% | (c) | ___________%\nNumber of days to which the tax offset percentages at (c) apply | (d) | ___________ | (d) | ___________\nMultiply (a) by (d) | (e) | $___________ | (e) | $___________\nDivide (e) by (b) | (f) | $___________ | (f) | $___________\nMultiply (f) by the percentage shown at (c) | (g) | $___________ | (g) | $___________\nAdd (g) column 1 and (g) column 2 | (h) | $___________ |  | \nAmount, if any, of premium reduction from your health insurer or of rebate from Medicare | (i) | $___________ |  | \nTake (i) away from (h) | (j) | $___________ |  | \n* Add another column if your tax offset percentage changed more than once.\nThe amount at (j) is what you are entitled to claim. If (j) is 0 or a negative amount, you have already received your full entitlement. Go to item T6 .",
+  "child_links": [],
+  "word_count": 607,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

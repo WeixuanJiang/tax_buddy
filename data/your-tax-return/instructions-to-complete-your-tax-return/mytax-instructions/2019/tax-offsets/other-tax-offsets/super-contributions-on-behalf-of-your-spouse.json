@@ -1,0 +1,238 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/tax-offsets/other-tax-offsets/super-contributions-on-behalf-of-your-spouse",
+  "title": "myTax 2019 Superannuation contributions on behalf of your spouse",
+  "description": "How to claim super contributions made on behalf of your spouse in your return using myTax.",
+  "nat_number": "",
+  "quick_code": "58956",
+  "date_updated": "2019-06-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "2019, myTax, e-tax, online tax return, tax offset, spouse, superannuation, superannuation contributions, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "You may be entitled to a tax offset if you made contributions to a complying superannuation fund or a retirement savings account (RSA) on behalf of your spouse who is earning a low income or not working."
+    },
+    {
+      "type": "paragraph",
+      "text": "An RSA is a special account offered by banks, building societies, credit unions, life insurance companies and prescribed financial institutions. It is used for retirement savings and is similar to a superannuation fund."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Essentials"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will be entitled to a tax offset of up to $540 per year if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the sum of your spouse's assessable income (excluding any assessable First home super saver released amount), total reportable fringe benefits amounts and reportable employer superannuation contributions was less than $40,000",
+        "the contributions you made on behalf of your spouse were not deductible to you",
+        "the person was your spouse when you made the contribution",
+        "both you and your spouse were Australian residents when the contributions were made",
+        "when making the contributions you and your spouse were not living separately and apart on a permanent basis, and",
+        "your spouse did not have: non-concessional contributions totalling more than their non-concessional contributions cap, or at 30 June 2018, a total superannuation balance of $1.6 million or more."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the contributions were made to a superannuation fund, then it must have been a complying superannuation fund for the income year in which you made the contribution."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your spouse includes another person (of any sex) who:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were in a relationship with that was registered under a prescribed state or territory law",
+        "although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had more than one spouse during the income year and you satisfy the conditions for the tax offset for more than one spouse, the tax offset is the lesser of the sum of the tax offset entitlements for each spouse, or $540."
+    },
+    {
+      "type": "paragraph",
+      "text": "The tax offset is calculated as 18% of the lesser of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$3,000, reduced by $1 for every $1 that the sum of your spouse's assessable income (excluding any assessable First home super saver released amount), total reportable fringe benefits amounts and reportable employer superannuation contributions for the year was more than $37,000",
+        "the total of your contributions for your spouse for the year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The tax offset for eligible spouse contributions cannot be claimed for superannuation contributions that you made to satisfy your spouse's entitlements under a family law obligation to split superannuation with your spouse."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must first complete the Spouse details section."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Enter your spouse's reportable employer super contribution shown on your spouse's income statements/payment summaries.",
+        "Enter your spouse's assessable income. For the purposes of this offset your spouse's assessable income is their total income (excluding any assessable First home super saver release amount) before deductions and any loss amount, unless they: had a distribution from a partnership or trust had income or losses from rent or business (including personal services income) had a capital gain or foreign source income made a deposit into a Farm Management Deposit Scheme Account, or claimed a deductible amount for a foreign pension or annuity. If any of these apply phone 13 10 20 for help to work out your spouse's assessable income.",
+        "Enter the total of your contributions you have paid.",
+        "MyTax will work out the Offset amount . For information on how myTax works it out, see Calculating this offset .",
+        "Select Save and continue when you have completed the Offsets section."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Calculating this offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "We will work out the tax offset amount for you using information you provide."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to know how we work out the tax offset amount, use these worksheets."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "Your spouse's reportable employer super contributions",
+          "$"
+        ],
+        [
+          "b",
+          "Your spouse's assessable income (excluding any assessable First home super saver released amount)",
+          "$"
+        ],
+        [
+          "c",
+          "Your spouse's total reportable fringe benefits amounts",
+          "$"
+        ],
+        [
+          "d",
+          "Add row a and row b and row c .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at row d in worksheet 1 was:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$37,000 or less, use Worksheet 2",
+        "more than $37,000 but less than $40,000, use Worksheet 3 ."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "e",
+          "Maximum spouse contributions eligible for the tax offset",
+          "$3,000"
+        ],
+        [
+          "f",
+          "Amount of contributions paid",
+          "$"
+        ],
+        [
+          "g",
+          "Write the lesser of row e or f .",
+          "$"
+        ],
+        [
+          "h",
+          "Multiply row g by 18 and divide by 100. This is your tax offset amount.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "i",
+          "Maximum spouse contributions eligible for the tax offset",
+          "$3,000"
+        ],
+        [
+          "j",
+          "The amount from row d in Worksheet 1",
+          "$"
+        ],
+        [
+          "k",
+          "Base amount",
+          "$37,000"
+        ],
+        [
+          "l",
+          "Take row k away from row j .",
+          "$"
+        ],
+        [
+          "m",
+          "Take row l away from row i .",
+          "$"
+        ],
+        [
+          "n",
+          "Amount of contributions paid",
+          "$"
+        ],
+        [
+          "o",
+          "Write the lesser of row m or row n .",
+          "$"
+        ],
+        [
+          "p",
+          "Multiply row o by 18 and divide by 100. This is your tax offset amount.",
+          "$"
+        ]
+      ]
+    }
+  ],
+  "content_text": "You may be entitled to a tax offset if you made contributions to a complying superannuation fund or a retirement savings account (RSA) on behalf of your spouse who is earning a low income or not working.\nAn RSA is a special account offered by banks, building societies, credit unions, life insurance companies and prescribed financial institutions. It is used for retirement savings and is similar to a superannuation fund.\n## Essentials\nYou will be entitled to a tax offset of up to $540 per year if:\n- the sum of your spouse's assessable income (excluding any assessable First home super saver released amount), total reportable fringe benefits amounts and reportable employer superannuation contributions was less than $40,000\n- the contributions you made on behalf of your spouse were not deductible to you\n- the person was your spouse when you made the contribution\n- both you and your spouse were Australian residents when the contributions were made\n- when making the contributions you and your spouse were not living separately and apart on a permanent basis, and\n- your spouse did not have: non-concessional contributions totalling more than their non-concessional contributions cap, or at 30 June 2018, a total superannuation balance of $1.6 million or more.\nIf the contributions were made to a superannuation fund, then it must have been a complying superannuation fund for the income year in which you made the contribution.\nYour spouse includes another person (of any sex) who:\n- you were in a relationship with that was registered under a prescribed state or territory law\n- although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple.\nIf you had more than one spouse during the income year and you satisfy the conditions for the tax offset for more than one spouse, the tax offset is the lesser of the sum of the tax offset entitlements for each spouse, or $540.\nThe tax offset is calculated as 18% of the lesser of:\n- $3,000, reduced by $1 for every $1 that the sum of your spouse's assessable income (excluding any assessable First home super saver released amount), total reportable fringe benefits amounts and reportable employer superannuation contributions for the year was more than $37,000\n- the total of your contributions for your spouse for the year.\nThe tax offset for eligible spouse contributions cannot be claimed for superannuation contributions that you made to satisfy your spouse's entitlements under a family law obligation to split superannuation with your spouse.\n## Completing this section\nYou must first complete the Spouse details section.\n- Enter your spouse's reportable employer super contribution shown on your spouse's income statements/payment summaries.\n- Enter your spouse's assessable income. For the purposes of this offset your spouse's assessable income is their total income (excluding any assessable First home super saver release amount) before deductions and any loss amount, unless they: had a distribution from a partnership or trust had income or losses from rent or business (including personal services income) had a capital gain or foreign source income made a deposit into a Farm Management Deposit Scheme Account, or claimed a deductible amount for a foreign pension or annuity. If any of these apply phone 13 10 20 for help to work out your spouse's assessable income.\n- Enter the total of your contributions you have paid.\n- MyTax will work out the Offset amount . For information on how myTax works it out, see Calculating this offset .\n- Select Save and continue when you have completed the Offsets section.\n### Calculating this offset\nWe will work out the tax offset amount for you using information you provide.\nIf you want to know how we work out the tax offset amount, use these worksheets.\nRow | Calculation | Amount\na | Your spouse's reportable employer super contributions | $\nb | Your spouse's assessable income (excluding any assessable First home super saver released amount) | $\nc | Your spouse's total reportable fringe benefits amounts | $\nd | Add row a and row b and row c . | $\nIf the amount at row d in worksheet 1 was:\n- $37,000 or less, use Worksheet 2\n- more than $37,000 but less than $40,000, use Worksheet 3 .\nRow | Calculation | Amount\ne | Maximum spouse contributions eligible for the tax offset | $3,000\nf | Amount of contributions paid | $\ng | Write the lesser of row e or f . | $\nh | Multiply row g by 18 and divide by 100. This is your tax offset amount. | $\nRow | Calculation | Amount\ni | Maximum spouse contributions eligible for the tax offset | $3,000\nj | The amount from row d in Worksheet 1 | $\nk | Base amount | $37,000\nl | Take row k away from row j . | $\nm | Take row l away from row i . | $\nn | Amount of contributions paid | $\no | Write the lesser of row m or row n . | $\np | Multiply row o by 18 and divide by 100. This is your tax offset amount. | $",
+  "child_links": [],
+  "word_count": 875,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

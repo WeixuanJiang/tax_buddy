@@ -1,0 +1,303 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/tax-offsets/zone-or-overseas-forces-tax-offsets/zone-tax-offset",
+  "title": "Zone tax offset",
+  "description": "Check if you are eligible for a tax offset for living in a remote area.",
+  "nat_number": "",
+  "quick_code": "105018",
+  "date_updated": "2026-06-07T14:00:00Z",
+  "first_published": "",
+  "keywords": "remote zone, zone tax offset, ato zone offset, zone rebate tax offset, zone offset, remote areas",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What is the zone tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "The zone tax offset is a tax offset for people who are residents of either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "specified remote areas",
+        "isolated areas of Australia."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This doesn't include an offshore oil or gas rig."
+    },
+    {
+      "type": "paragraph",
+      "text": "The offset helps with the higher cost of living, isolation and other factors that come with living in these areas. We call these areas Zone A or Zone B as specified in the Australian zone list , and there are also special areas within each zone. Note that this list is not exhaustive and there is a continuous need to review and revise it. Some new localities may meet the requirements to be in a special area but are not yet included in the Australian zone list."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Zone A and Zone B geographical boundaries are defined in Australian tax law. Images of these boundaries can be found on the National Library of Australia website External Link ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eligibility for the zone tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "We base your eligibility on your usual place of residence. You’re not eligible if you work in a qualifying remote or isolated area but don't live there. For example, if you're a fly-in-fly-out worker."
+    },
+    {
+      "type": "paragraph",
+      "text": "To claim the zone tax offset your usual place of residence needs to be both:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "in a remote or isolated area (check the Australian zone list noting it's not exhaustive)",
+        "your residence for 183 days or more during the income year in which you are claiming."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your usual place of residence was in a zone for less than 183 days in the income year, you may still be able to claim the zone offset. This applies if your residence in the zone lasted for a continuous period of less than 5 years, and:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were unable to claim in the first year because it was not your residence for 183 days or more",
+        "the total of the days you lived there in the first year and the current income year is 183 days or more",
+        "the period you lived in a zone in the current income year includes the first day of the income year.",
+        "in all the income years between the first income year and current income year of the continuous period, you resided in the remote zone for the full income year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You may also be able to claim the zone offset, if your usual place of residence is in a remote area for 2 part years and all the following apply:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were unable to claim it in the previous income year because your usual place of residence was in a zone for less than 183 days",
+        "your usual place of residence is in a zone for less than 183 days in the current year",
+        "the number of days your usual place of residence was in a zone in the previous income year and the current year exceeds 182 days."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Examples of your usual place of residence"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: no residence in a prescribed zone"
+    },
+    {
+      "type": "paragraph",
+      "text": "Levi is an engineer who lives in Adelaide. He flies to Alice Springs for 12-day shifts at an engineering firm. He then travels back to Adelaide for his days off (which vary between 4 and 8 days in a row)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Levi’s usual place of residence (Adelaide) is not within a prescribed zone, even though he is in Alice Springs for 183 days or more. This means he is unable to claim the zone tax offset."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: residence in a remote area"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jonte is an engineer who lives in Darwin (located in Zone A). He travels to Kununurra in Western Australia (located in a Zone A special area) for his job in the mining industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "In his usual shift, Jonte drives to Kununurra, works 14 days at the mine and drives back to Darwin, where he remains for 16 days."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jonte is eligible for the Zone A tax offset because his usual place of residence is in Darwin (Zone A)."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: residence in remote area for part of 2 income years"
+    },
+    {
+      "type": "paragraph",
+      "text": "Narendra moves from Sydney to Lord Howe Island (located in Zone A special area) on 23 March 2025 to take up employment as a chef. After around 7 months, Narendra quits his job as he misses living in Sydney. He moves back to Sydney on 31 October 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "Narendra can't claim a zone tax offset in his 2024–25 tax return because his usual place of residence was on Lord Howe Island for less than 183 days. However, Narendra can claim a zone tax offset in his 2025-26 tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although Narendra's usual place of residence was on Lord Howe Island for less than 183 days in the 2025-26 income year, the total number of days his usual place of residence was on Lord Howe Island in 2024-25 (100 days) and in 2025-26 (124 days) was greater than 183 days (100 days + 124 days = 224 days)."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: main residence outside Australia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Angela is a doctor who works in the Darwin Hospital emergency department. She flies into Darwin from Auckland, New Zealand, and works on a regular rotational basis in Darwin Hospital."
+    },
+    {
+      "type": "paragraph",
+      "text": "Usually, Angela works for 10 days and then has a break of between 8 and 10 days. During her breaks, Angela travels back to Auckland to see her friends and family. She stays in accommodation provided by the hospital when she is in Darwin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Angela is purchasing a house in Auckland. She also has a car which she leaves at her Auckland home for use when she is there. Angela has bills sent to her Auckland home and she is registered to vote in New Zealand."
+    },
+    {
+      "type": "paragraph",
+      "text": "Angela isn't eligible for the zone tax offset. This is because her usual place of residence is in Auckland."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on when you may be eligible to claim the zone tax offset, see Zone or overseas forces 2026 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Amount of a zone tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "The minimum (base) amount of zone tax offset will depend on which zone your usual place of residence is in."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other things that may change how much you get include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "how many children under 21 years old or full-time students under 25 years old you look after",
+        "if you're a single parent",
+        "if you receive an invalid or invalid carer tax offset",
+        "if any amount paid to you as a remote area allowance from Centrelink."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The easiest way to work out your eligibility and how much your offset should be is to use our Zone or overseas forces tax offset calculator ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Zones",
+          "Base amount"
+        ],
+        [
+          "Special area A or B",
+          "$1,173"
+        ],
+        [
+          "Zone A",
+          "$338"
+        ],
+        [
+          "Zone B",
+          "$57"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Claiming a zone tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "The easiest way to work out your eligibility and the amount you can claim is to use our Zone or overseas forces tax offset calculator . You can also work out your zone offset by using the tax return instructions . Regardless of how you work this out, you'll need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the number of days, or the dates, your usual place of residence was in a zone during the relevant income year or years",
+        "the adjusted taxable income (ATI) of children under 21 years old or full-time students under 25 years old you look after",
+        "the amount of any remote area allowance you receive from Centrelink",
+        "the amount of invalid or invalid carer tax offset you are entitled to."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To receive the zone tax offset, you must:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "receive assessable income that you pay tax on",
+        "lodge a tax return."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have outstanding tax returns, you need to lodge them to claim the zone tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on eligibility, changes to the calculator and instructions on how to work out your zone tax offset, see:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Zone and overseas forces tax offset calculator",
+        "What's new for individuals",
+        "Zone or overseas forces 2026 ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tax agents and claiming a zone tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "You don’t need to use a tax agent to claim the zone tax offset. You can use our Zone or overseas forces tax offset calculator to help you work out how much you can claim if you're eligible."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Effect of a zone tax offset on Centrelink payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "The zone tax offset is not assessable income for Centrelink purposes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Calculate and claim the zone tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to calculate the tax offset and claim the amount in your tax return at Zone or overseas forces ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can only claim one of these tax offsets. If you qualify for both, you can claim the one that gives you the greater offset amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the calculator to work out your eligibility for a tax offset and the amount to claim."
+    }
+  ],
+  "content_text": "## What is the zone tax offset\nThe zone tax offset is a tax offset for people who are residents of either:\n- specified remote areas\n- isolated areas of Australia.\nThis doesn't include an offshore oil or gas rig.\nThe offset helps with the higher cost of living, isolation and other factors that come with living in these areas. We call these areas Zone A or Zone B as specified in the Australian zone list , and there are also special areas within each zone. Note that this list is not exhaustive and there is a continuous need to review and revise it. Some new localities may meet the requirements to be in a special area but are not yet included in the Australian zone list.\nThe Zone A and Zone B geographical boundaries are defined in Australian tax law. Images of these boundaries can be found on the National Library of Australia website External Link .\n## Eligibility for the zone tax offset\nWe base your eligibility on your usual place of residence. You’re not eligible if you work in a qualifying remote or isolated area but don't live there. For example, if you're a fly-in-fly-out worker.\nTo claim the zone tax offset your usual place of residence needs to be both:\n- in a remote or isolated area (check the Australian zone list noting it's not exhaustive)\n- your residence for 183 days or more during the income year in which you are claiming.\nIf your usual place of residence was in a zone for less than 183 days in the income year, you may still be able to claim the zone offset. This applies if your residence in the zone lasted for a continuous period of less than 5 years, and:\n- you were unable to claim in the first year because it was not your residence for 183 days or more\n- the total of the days you lived there in the first year and the current income year is 183 days or more\n- the period you lived in a zone in the current income year includes the first day of the income year.\n- in all the income years between the first income year and current income year of the continuous period, you resided in the remote zone for the full income year.\nYou may also be able to claim the zone offset, if your usual place of residence is in a remote area for 2 part years and all the following apply:\n- you were unable to claim it in the previous income year because your usual place of residence was in a zone for less than 183 days\n- your usual place of residence is in a zone for less than 183 days in the current year\n- the number of days your usual place of residence was in a zone in the previous income year and the current year exceeds 182 days.\n### Examples of your usual place of residence\n#### Example: no residence in a prescribed zone\nLevi is an engineer who lives in Adelaide. He flies to Alice Springs for 12-day shifts at an engineering firm. He then travels back to Adelaide for his days off (which vary between 4 and 8 days in a row).\nLevi’s usual place of residence (Adelaide) is not within a prescribed zone, even though he is in Alice Springs for 183 days or more. This means he is unable to claim the zone tax offset.\n#### Example: residence in a remote area\nJonte is an engineer who lives in Darwin (located in Zone A). He travels to Kununurra in Western Australia (located in a Zone A special area) for his job in the mining industry.\nIn his usual shift, Jonte drives to Kununurra, works 14 days at the mine and drives back to Darwin, where he remains for 16 days.\nJonte is eligible for the Zone A tax offset because his usual place of residence is in Darwin (Zone A).\n#### Example: residence in remote area for part of 2 income years\nNarendra moves from Sydney to Lord Howe Island (located in Zone A special area) on 23 March 2025 to take up employment as a chef. After around 7 months, Narendra quits his job as he misses living in Sydney. He moves back to Sydney on 31 October 2025.\nNarendra can't claim a zone tax offset in his 2024–25 tax return because his usual place of residence was on Lord Howe Island for less than 183 days. However, Narendra can claim a zone tax offset in his 2025-26 tax return.\nAlthough Narendra's usual place of residence was on Lord Howe Island for less than 183 days in the 2025-26 income year, the total number of days his usual place of residence was on Lord Howe Island in 2024-25 (100 days) and in 2025-26 (124 days) was greater than 183 days (100 days + 124 days = 224 days).\n#### Example: main residence outside Australia\nAngela is a doctor who works in the Darwin Hospital emergency department. She flies into Darwin from Auckland, New Zealand, and works on a regular rotational basis in Darwin Hospital.\nUsually, Angela works for 10 days and then has a break of between 8 and 10 days. During her breaks, Angela travels back to Auckland to see her friends and family. She stays in accommodation provided by the hospital when she is in Darwin.\nAngela is purchasing a house in Auckland. She also has a car which she leaves at her Auckland home for use when she is there. Angela has bills sent to her Auckland home and she is registered to vote in New Zealand.\nAngela isn't eligible for the zone tax offset. This is because her usual place of residence is in Auckland.\nFor more information on when you may be eligible to claim the zone tax offset, see Zone or overseas forces 2026 .\n## Amount of a zone tax offset\nThe minimum (base) amount of zone tax offset will depend on which zone your usual place of residence is in.\nOther things that may change how much you get include:\n- how many children under 21 years old or full-time students under 25 years old you look after\n- if you're a single parent\n- if you receive an invalid or invalid carer tax offset\n- if any amount paid to you as a remote area allowance from Centrelink.\nThe easiest way to work out your eligibility and how much your offset should be is to use our Zone or overseas forces tax offset calculator .\nZones | Base amount\nSpecial area A or B | $1,173\nZone A | $338\nZone B | $57\n## Claiming a zone tax offset\nThe easiest way to work out your eligibility and the amount you can claim is to use our Zone or overseas forces tax offset calculator . You can also work out your zone offset by using the tax return instructions . Regardless of how you work this out, you'll need:\n- the number of days, or the dates, your usual place of residence was in a zone during the relevant income year or years\n- the adjusted taxable income (ATI) of children under 21 years old or full-time students under 25 years old you look after\n- the amount of any remote area allowance you receive from Centrelink\n- the amount of invalid or invalid carer tax offset you are entitled to.\nTo receive the zone tax offset, you must:\n- receive assessable income that you pay tax on\n- lodge a tax return.\nIf you have outstanding tax returns, you need to lodge them to claim the zone tax offset.\nFor more information on eligibility, changes to the calculator and instructions on how to work out your zone tax offset, see:\n- Zone and overseas forces tax offset calculator\n- What's new for individuals\n- Zone or overseas forces 2026 .\n## Tax agents and claiming a zone tax offset\nYou don’t need to use a tax agent to claim the zone tax offset. You can use our Zone or overseas forces tax offset calculator to help you work out how much you can claim if you're eligible.\n## Effect of a zone tax offset on Centrelink payments\nThe zone tax offset is not assessable income for Centrelink purposes.\n## Calculate and claim the zone tax offset\nYou need to calculate the tax offset and claim the amount in your tax return at Zone or overseas forces .\nYou can only claim one of these tax offsets. If you qualify for both, you can claim the one that gives you the greater offset amount.\nUse the calculator to work out your eligibility for a tax offset and the amount to claim.",
+  "child_links": [],
+  "word_count": 1470,
+  "source_title": "",
+  "source_description": "",
+  "category": "income-deductions-offsets-and-records"
+}

@@ -1,0 +1,1091 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2026/reporting-non-resident-foreign-income/nrfi-non-mytax-amend",
+  "title": "2026 Non-resident foreign income",
+  "description": "How to amend your non-resident foreign income form when using ATO online services.",
+  "nat_number": "",
+  "quick_code": "107061",
+  "date_updated": "2026-06-01T00:10:00Z",
+  "first_published": true,
+  "keywords": "non-resident, foreign income, 2026",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Part year and full year foreign residents for Australian tax purposes are required to report their worldwide income, if they had one of the following study and trade support loan debts on 1 June 2026:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Higher Education Loan Program (HELP) debt",
+        "VET Student Loan (VSL) liability",
+        "Australian Apprenticeship Support Loan (AASL) liability."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Worldwide income is your:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "repayment income",
+        "income earned from sources outside Australia while you were a foreign resident (your non-resident foreign-sourced income)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're a foreign resident for tax purposes and your worldwide income is above the minimum repayment threshold , you still need to make repayments on your HELP, VSL and AASL debt. Repayment may be in the form of a compulsory repayment and/or an overseas levy depending on how the worldwide income is made up . For more information, see Overseas obligations when repaying loans ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you wish to update or correct a previously submitted form, follow these instructions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Non-resident foreign income section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete the following in the non-resident income section."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Foreign occupation"
+    },
+    {
+      "type": "paragraph",
+      "text": "From the available occupations, select the closest matching occupation from which you earned the majority of your foreign-sourced income during the year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your occupation isn't listed, or you weren't employed (for example, you were an investor, retired or a pensioner), select ‘Occupation not listed’."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Method to calculate your foreign-sourced income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Select the income assessment method to calculate your foreign-sourced income. There are 3 assessment methods available to determine your non-resident foreign-sourced income:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Simple self-assessment method",
+        "Comprehensive tax-based assessment method",
+        "Overseas assessed method"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The method you choose to determine your non-resident foreign-sourced income this year doesn’t restrict your choice of method in a subsequent year."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Net non-resident foreign income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enter the net amount of your non-resident foreign income calculated under the assessment method you're using for this amendment. To complete this field, follow the instructions for the assessment method you're using:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Simple self-assessment method",
+        "Comprehensive tax-based assessment method",
+        "Overseas assessed method"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "All amounts must be converted to Australian dollars before you report. Use the average annual exchange rate for the financial year most closely corresponding to the 2025–26 income year. For assistance converting your currency, you can use the foreign income conversion calculator This link opens in a new window ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Simple self-assessment method"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the simple self-assessment method, to assess your foreign-sourced income you must report:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the occupation from which you derived the most foreign income for an income year",
+        "your gross (pre-tax) foreign income earned."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign-sourced income is the difference between your gross (pre-tax) foreign income and the standard deduction that applies to the occupation that you have selected. We automatically calculate and apply the standard deduction for your occupation before calculating any overseas levy due."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have selected ‘Occupation not listed’ in the foreign occupation field (for example, if you're an investor, retired or a pensioner), no standard deduction can be calculated. The standard deduction amount applied to your gross income will be zero."
+    },
+    {
+      "type": "paragraph",
+      "text": "To amend your non-resident foreign income, you will need to enter your gross (pre-tax) non-resident foreign income in the net non-resident foreign income field and we'll apply the standard deduction to that amount. We may contact you if we can't process your amendment, so please ensure your contact details are up to date."
+    },
+    {
+      "type": "paragraph",
+      "text": "To select another method to calculate your foreign-sourced income, return to Method to calculate your foreign-sourced income ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Comprehensive tax-based assessment method"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following information will help you to determine your net non-resident foreign-sourced income amount under the comprehensive tax-based assessment method."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under this method, your foreign-sourced income is determined using Australian taxation rules. This income may be from one or a number of sources – for example, from investment income or from being an employee or sole trader."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your foreign-sourced income is the difference between your total (pre-tax) foreign income and the deductions that would have been allowable under the income tax law if that income was assessable in Australia."
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete your amendment, enter the net non-resident foreign income amount from your worksheet (XLSX, 14.8KB) This link will download a file into the net non-resident foreign income field."
+    },
+    {
+      "type": "paragraph",
+      "text": "To select another method to calculate your foreign-sourced income, return to Method to calculate your foreign-sourced income ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Gross foreign income when a foreign resident for tax purposes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign-sourced income is income you earned from outside Australia when you were a foreign resident for tax purposes, for example, when working overseas."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must report all the foreign-sourced income that you earned during the 2025–26 income year as a foreign resident for Australian tax purposes. You must do this even if tax was taken out in the country where you earned the income."
+    },
+    {
+      "type": "paragraph",
+      "text": "This section includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Salary, wages",
+        "Allowances",
+        "Government allowances",
+        "Pensions (government pensions and superannuation)",
+        "Interest",
+        "Dividends",
+        "Other income"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You must provide the gross amount (pre-tax amount) of your foreign income. The foreign income you need to report may consist of the following."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Salary, wages"
+    },
+    {
+      "type": "paragraph",
+      "text": "Income from salary or wages includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "salary and wages",
+        "commissions",
+        "bonuses",
+        "payment for part-time or casual work",
+        "parental leave pay",
+        "amounts for lost salary or wages paid under an income protection policy a sickness or accident insurance policy a workers compensation scheme."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Allowances"
+    },
+    {
+      "type": "paragraph",
+      "text": "Payments of income from working (other than salary or wages) include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "employment allowances – for example, car, travel, meals, entertainment, tools, clothing, laundry and site allowances",
+        "tips, gratuities",
+        "consultation fees."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Government allowances"
+    },
+    {
+      "type": "paragraph",
+      "text": "Government allowances include allowances paid to you by a foreign government that form part of your foreign-source income. For example:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "unemployment benefits",
+        "education payments",
+        "parenting payments",
+        "other government provided income support."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Pensions (government pensions and superannuation)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pensions include foreign government pension payments and superannuation income. Some types of government pensions are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "age pension",
+        "carer payment",
+        "disability pension",
+        "military pension."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Interest"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your foreign income may include any interest paid or credited to you from any source outside Australia, including:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "interest from savings accounts, term deposits and cash management accounts",
+        "interest from children’s savings accounts you opened or operated with funds that were yours or you used as if they were yours."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Dividends"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your foreign income may include dividends and distributions that were paid or credited to you by foreign companies while you were a foreign resident such as:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "dividends applied under a dividend reinvestment plan",
+        "dividends that were dealt with on your behalf",
+        "bonus shares that qualify as dividends",
+        "distributions by a corporate limited partnership",
+        "dividends paid by a corporate unit trust",
+        "dividends paid by a public trading trust",
+        "dividends paid by a listed investment company."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: If you received dividends from an Australian company while you were a foreign resident, this should be included in your Australian income tax return section."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Other income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Other income that may form part of your foreign income includes income you earned as a foreign resident such as:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "royalties",
+        "bonus amounts distributed from friendly society income bonds",
+        "scholarships, bursaries, grants or other educational awards",
+        "income from activities as a 'special professional' that you haven't included elsewhere on this form (author of a literary, dramatic, musical or artistic work, inventor, performing artist, production associate or active sportsperson)",
+        "any balancing adjustment when you stopped holding a depreciating asset (for example, because of its disposal, loss or destruction) that you claimed a deduction for depreciation or decline in value in previous years; your car, for example, is a depreciating asset",
+        "payments made to you under an income protection, sickness or accident insurance policy where you were self-employed and the payments replaced income, that haven't already been included elsewhere",
+        "income you earned from the sharing economy or other marketplace, except income from rent (shown at Net rent ) income from carrying on a business (shown at Net business income ) income from being an employee (shown at Salary, wages )"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Foreign deductions when a foreign resident for tax purposes"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be able to claim deductions for expenses you incurred in earning your foreign income. For example, work-related expenses you incurred in the course of your employment duties or while performing your work duties as an employee."
+    },
+    {
+      "type": "paragraph",
+      "text": "To claim a deduction for a work-related expense:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you must have spent the money yourself and weren't reimbursed",
+        "it must be directly related to earning your income",
+        "you must have a record to prove it (usually a receipt)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Any expenses you claim must reflect the expenses that would be allowable as a deduction if the foreign income was assessable in Australia and the same record keeping rules apply. For more information, see Claiming deductions ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deductions covered in this section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Work-related – employee Car Travel Clothing Self-education Other expenses",
+        "Depreciation",
+        "Interest and dividends Interest Dividends",
+        "UPP of a foreign pension",
+        "Personal superannuation contributions",
+        "Other",
+        "Prior year tax losses"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Work-related – employee"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be able to claim deductions for work-related expenses you incurred in the course of your employment duties or while performing your work duties as an employee."
+    },
+    {
+      "type": "paragraph",
+      "text": "You incurred an expense in an income year when you either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "received a bill or invoice for an expense that you're liable for (even if you paid it until after the end of the income year)",
+        "didn't receive a bill or invoice but you paid for the expense in the income year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If an expense includes an amount of indirect tax such as a goods and services tax (GST) or a value added tax (VAT), the GST/VAT is part of the total expense and is therefore part of any deduction. For example, if you incurred union fees of $440 which included $40 GST/VAT, you claim a deduction for $440."
+    },
+    {
+      "type": "paragraph",
+      "text": "Include here the total of the following work-related expenses incurred as an employee."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Car"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work-related car expenses are expenses you incurred as an employee for a car you owned, leased or hired under a hire-purchase agreement ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, including the methods to calculate deductions for car expenses, see Motor vehicle and car expenses ."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Travel"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work-related travel expenses are travel expenses you incurred in the course of performing your work as an employee. They include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "taxi ride-share and public transport, airfares , short-term car hire, road and bridge tolls and parking fees when travelling for work",
+        "overnight travel expenses, such as accommodation, meal and incidental expenses you incurred while away overnight for work",
+        "expenses for a vehicle that isn't yours or isn't a car, such as expenses for motorcycles expenses for vehicles with a carrying capacity of one tonne or more, or 9 or more passengers, such as utility trucks and minibuses actual expenses, such as petrol, repair and maintenance costs, that you incurred to travel for work in a car that someone else owned or leased."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your employer provided a vehicle for your or your relatives’ exclusive use (including under a salary sacrifice arrangement) and you or your relatives used it for non-work purposes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you can't claim a deduction for work-related expenses for operating the vehicle, such as petrol, repairs or other maintenance (even if the expenses relate directly to your work)",
+        "you can claim expenses such as parking, bridge and road tolls for a work-related use of the vehicle, excluding parking at or travelling to a normal or regular place of work."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Clothing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work-related clothing expenses are the costs you incurred as an employee for clothing that is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "protective clothing and footwear that you wear while working to protect you from the real and likely of illness or injury or prevent damage to your ordinary clothes caused by your work or work environment may cause. Items may include fire-resistant clothing sun protection clothing safety-coloured vests non-slip nurse’s shoes steel-capped boots gloves overalls aprons heavy-duty shirts and trousers (but not jeans)",
+        "a compulsory uniform that is a set of clothing or a single item that is distinctive (such as one that has your employer’s logo permanently attached to it) and identifies you as an employee of an organisation your employer must make it compulsory to wear the uniform through a strictly enforced workplace agreement or policy. items may include shoes, stockings, socks and jumpers where they are an essential part of a distinctive compulsory uniform and your employers policy specifies the colour, style and type.",
+        "occupation-specific that allows people to distinctly identify your occupation (such as the chequered pants a chef wears when working) and aren't for everyday use."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also claim the cost of renting work-related clothing from these categories."
+    },
+    {
+      "type": "paragraph",
+      "text": "Work-related clothing expenses also include the costs you incurred to launder, dry-clean or repair work clothing from the categories listed above."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't claim the cost of buying, hiring, repairing or cleaning conventional clothing that you bought to wear, even if your employer says the clothing is compulsory or you only wear it at work."
+    },
+    {
+      "type": "paragraph",
+      "text": "'Conventional clothing' is everyday clothing worn by people regardless of their occupation – for example, black trousers worn by waiters, business attire worn by office workers or jeans or drill shirts worn by tradespeople."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you launder, dry and iron your work-related clothing, a reasonable basis for working out your claim is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "AUD$1.00 per load (if you wash only your work clothes in that load)",
+        "AUD$0.50 per load (if you mix other clothes in with your work clothes)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the actual cost you incurred to work out your claim for dry-cleaning and repair expenses."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Self-education"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work-related self-education expenses are costs you incurred to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "undertake a course at an educational institution (whether they lead to a formal qualification or not)",
+        "undertake a course by a professional or industry organisation",
+        "attend a work-related conference or seminar",
+        "complete self-paced learning and study tours (whether within Australia or overseas)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To claim a deduction for self-education expenses, you must be able to show, at the time you incurred the self-expense, it had a sufficient connection to your employment activities."
+    },
+    {
+      "type": "paragraph",
+      "text": "A self-education expense had a sufficient connection to earning your employment income if it either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "maintained or improved the specific skills or knowledge you required for your employment activities",
+        "lead to, or was likely to lead to, an increase income from your then employment activities."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't claim a deduction for self-education expenses that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you incurred when you weren't employed",
+        "related only in a general way to your current employment or profession",
+        "will enable you to get new employment",
+        "is reimbursed."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't claim course fee contributions or repayments you, or the Australian Government, made under"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the Higher Education Loan Program (HELP), including FEE-HELP and HECS-HELP",
+        "VET Student Loan (VSL)",
+        "the Student Financial Supplement Scheme (SFSS)",
+        "the Student Start-up Loan (SSL) and ABSTUDY Start-up Loan (ABSTUDY SSL)",
+        "the Australian Apprenticeship Support Loan (AASL) Program."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If at the time you incurred any of the following expenses, there was a sufficient connection between your self-education and your employment activities, you can claim them as a deduction:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "textbooks",
+        "stationery",
+        "student union fees, student services and amenities fees",
+        "the decline in value of your computer",
+        "certain course fees."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Other expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Other work-related expenses are expenses you incurred as an employee and have not claimed above. These include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "union fees and subscriptions to trade, business or professional associations",
+        "reference books, technical journals and trade magazines",
+        "the work-related portion of items that protected you from the risk of injury of illness posed by your work or your work environment, such as hard hats, safety glasses, sunscreens, and other protective items",
+        "the work-related proportion of the following costs interest on money you borrowed to buy tools and equipment repair costs for the tools and equipment phone or internet expenses (if you haven’t already claimed working from home expenses using the fixed rate method additional running expenses you incurred because you worked from home",
+        "the work-related portion of tools and equipment , such as a computer or office furniture and professional libraries, you may be able to claim an immediate deduction for the cost of depreciating assets costing $300 or less a deduction for the decline in value of an item that costs more than $300 over its effective life (however, if you no longer own or use an item and you previously claimed a deduction for its decline in value, you may need to make a balancing adjustment – see Guide to depreciating assets )",
+        "COVID-19 test expenses"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't claim a deduction for the decline in value of items primarily for use in your employment if your employer provided the items, or some or all of the cost of the items was paid or reimbursed by your employer, and the benefit was exempt from fringe benefits tax."
+    },
+    {
+      "type": "paragraph",
+      "text": "For your working from home expenses, you can choose to use one of 2 methods below. You must meet the eligibility criteria and record keeping requirements for the method you choose."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Fixed rate method – (AUD)$0.70 per hour you worked from home This rate covers the additional running expenses that you incurred as a result of working from home for energy expenses (electricity and gas), internet and data expenses, mobile and home phone expenses, stationery and computer consumables. You don’t need a separate home office or dedicated work area to use this method The fixed rate doesn't cover the decline in value of depreciating assets you used for work.",
+        "Actual cost method"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Depreciation"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be able to claim a deduction for the decline in value of a depreciating asset which you held during the income year to the extent that you used it to produce income that you have included in the non-resident foreign income section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Depreciating assets include items such as tools, reference books, computers and office furniture."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be able to claim an immediate deduction for the full cost of depreciating assets costing $300 or less ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use the Depreciation and capital allowance tool This link opens in a new window to work out your deduction if the cost isn't fully deductible."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Interest and dividends"
+    },
+    {
+      "type": "paragraph",
+      "text": "Information about interest and dividend expenses."
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Interest"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include any allowable expenses that you would be entitled to claim if the foreign income you reported in the non-resident foreign income section was assessable income in Australia. Expenses include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "bank or other financial institution account-keeping fees for accounts held for investment purposes",
+        "fees for investment advice relating to changes in the mix of your investments",
+        "interest you paid on money you borrowed to purchase income-producing investments."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a joint account or if you shared an interest-earning investment, you can claim only your share of the joint expenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you incurred expenses when borrowing money for both private use and to purchase investments to produce interest, you can claim only the portion of the expenses relating to the investments."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim a proportion of the decline in value of your computer using the percentage of your total computer use that related to managing your investments. If you used your computer to manage both your investments to produce interest and investments in shares or similar securities, you can claim only part of the decline in value related to managing those investments once."
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Dividends"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include any expenses you incurred earning the gross foreign dividends you reported."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expenses include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "management fees and fees for investment advice related to changes in the mix of your investments",
+        "interest you paid on money you borrowed to buy shares or similar investments",
+        "costs related to managing your investments, such as travel and buying specialist investment journals or subscriptions."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had joint share investments or similar shared investments, claim only your share of joint expenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you borrowed money to buy assets for your private use and income-producing investments, you can claim only the portion of the interest expenses related to the income-producing investments."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim a proportion of the decline in value of your computer using on the percentage of your total computer use that related to managing your investments. If you used your computer to manage both your investments to produce interest and investments in shares or similar securities, then you claim only part of the decline in value related to managing those investments once."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "UPP of a foreign pension"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be entitled to claim a deduction to reduce your reported foreign pension or annuity income if it has an undeducted purchase price (UPP)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Only some foreign pensions and annuities have a UPP. The UPP is the amount you contributed towards the purchase price of your pension or annuity (your personal contributions)."
+    },
+    {
+      "type": "paragraph",
+      "text": "That part of your annual pension or annuity income that represents a return to you of your personal contributions is free from tax. This tax-free portion is called the deductible amount of the UPP, the calculation usually divides the UPP of your pension or annuity by a life expectancy factor, according to life expectancy statistics."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on pensions from another country, see Deductible amount of undeducted purchase price of a foreign pension or annuity ."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Personal superannuation contributions"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be able to claim a deduction for after-tax personal superannuation contributions you made to a complying Australian super fund or a retirement savings account (RSA) if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you satisfied the work and age restrictions",
+        "you gave a valid notice of intent to your super fund or RSA provider, in the approved form, and advised them of the amount you intend to claim as a deduction",
+        "you gave this notice of intent on or before the day you report your 2026 non-resident foreign income, lodge your 2026 tax return or 30 June 2027, whichever is earlier",
+        "your super fund or RSA provider acknowledged your valid notice, and",
+        "your super fund wasn't a Commonwealth public sector superannuation scheme with a defined benefit interest constitutionally protected fund or other untaxed fund that wouldn't include the contributions in their assessable income super fund that notified the Commissioner before the start of the income year that they elected to treat all member contributions to the super fund as non-deductible defined benefit interest within the super fund as non-deductible."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Personal superannuation contributions ."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Other"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have other expenses that would be allowable as a deduction if your foreign income was assessable, which you haven't been able to claim elsewhere in the Non-resident foreign income section, you can include them here."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information about what can be claimed, see Other deductions . Note that this link takes you to the Australian income tax return information and that some items which are specific to Australian residents don't apply in your situation."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Prior year tax losses"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a foreign tax loss from an earlier income year that you haven't claimed as a deduction, you can include it here."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may have a foreign tax loss this year which you may be able to claim as a deduction. You must complete this section whether or not you're able to claim a deduction for the loss this year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have foreign tax losses from more than one earlier income year you should generally deduct the earliest losses first."
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete this field you'll need records of your tax losses from earlier income years."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Net foreign income (income less expenses) when a foreign resident for tax purposes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Net foreign income (gross foreign income less expenses) is from overseas business and investments you made as a foreign resident. This section covers:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Net business income",
+        "Net personal services income",
+        "Net partnership and trust income",
+        "Net capital gains",
+        "Net rent",
+        "Rental income",
+        "Rental expenses"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You must include your net foreign income here."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Net business income"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you derived income or incurred a loss from any business carried on outside Australia while you're a foreign resident include it here. This includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "income or loss from carrying on a business as a sole trader",
+        "income or a loss from a primary production business",
+        "income or loss of an independent contractor working under a labour hire arrangement",
+        "income or loss as a performing artist in a promotional activity",
+        "any other business income or loss."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Business and professional items ."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Net personal services income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete this field if you received income from sources outside Australia for personal services you provided while you were a foreign resident sole trader and you didn't:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "receive a personal services business determination for your personal services income (PSI)",
+        "satisfy the results test, or",
+        "satisfy at least one of the other three personal services business tests (if less than 80% of your PSI came from each client)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "PSI is income that is mainly a reward for an individual's personal efforts or skills."
+    },
+    {
+      "type": "paragraph",
+      "text": "If more than 50% of the income you receive under a contract is for your personal efforts or skills, then all income from that contract is PSI."
+    },
+    {
+      "type": "paragraph",
+      "text": "If 50% or less of the income you receive under a contract is for your personal efforts or skills, then none of the income for that contract is PSI."
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out whether your income is personal services income you can use the Personal services income tool This link opens in a new window . For more information see, Personal services income ."
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your net personal services income, see Business and professional items ."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Net partnership and trust income"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received income from partnerships or trusts outside Australia while you're a foreign resident include it here. Include your share of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "primary production partnership income or loss, and",
+        "non-primary production partnership income or loss."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the partnership in which you were a partner paid you a salary, wages or allowances you must show that income here."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received, or were entitled to, a distribution of trust income, you must enter that amount here."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Net capital gains"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your income from sources outside Australia while you were a foreign resident includes a capital gain or a capital loss made for an asset that isn't taxable Australian property you hold or held during the year, include it here. Under the Australian tax law, for most CGT events, you make a:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "capital gain if the amount of money and property you received, or were entitled to receive, from the CGT event was more than the cost base of your asset; you may then have to pay tax on your capital gain",
+        "capital loss if the amount of money and property you received, or were entitled to receive, from the CGT event was less than the reduced cost base of your asset."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "There are a wide range of CGT events that can happen. The most common CGT event happens when you sell or give away a CGT asset. For more information, see Capital gains or losses ."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Net rent"
+    },
+    {
+      "type": "paragraph",
+      "text": "Net rent is your rental income, less your rental expenses."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Rental income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rental income is the full amount of money you earn when you rented out your property outside Australia (including renting out a room through the sharing economy) while you were a foreign resident."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must include any bond money you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "retained in place of rent, or",
+        "kept because of damage to the property requiring repairs."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You must also include as rental income:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an insurance payout for lost rent, or a reimbursement of any rental expenses, you claim in 2025–26 or in an earlier year",
+        "fees retained from cancelled bookings."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Rental expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim expenses relating to your rental property but only for the period your property was rented or held to produce rental income. A rental property is held to produce income if it's available for rent on commercial terms."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your rental property is a holiday home , you can only claim ownership and use expenses such as interest expenses, body corporate fees, council rates and repair and maintenance expenses, if you used the property (or held it for use) mainly to produce rental income ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expenses could include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "advertising for tenants and property agent fees or commissions",
+        "body corporate fees and land tax",
+        "borrowing expenses",
+        "interest expenses",
+        "council rates",
+        "decline in value of depreciating assets",
+        "gardening, lawn mowing and pest controls",
+        "repairs and maintenance",
+        "stationery and phone expenses",
+        "water charges."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you rented only part of your home (for example, a single room) you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "can claim expenses related to renting out only that part of the house only for the period the room in your home was rented to a tenant. You can't claim deductions for expenses when the room isn't rented.",
+        "can't claim the total amount of the expenses related to the whole property – for example, council rates and interest expenses need to be apportioned. As a general guide, you should apportion expenses based on the area that was solely occupied by the renter (user) and add to that a reasonable amount based on their access to common areas."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim 100% of fees or commissions charged by a sharing economy facilitator or administrator."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Rent and Renting out all or part of your home ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Overseas assessed method"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the overseas assessed method, your net non-resident foreign income amount is your income for taxation purposes according to the most recent tax assessment by a taxation authority of a foreign country."
+    },
+    {
+      "type": "paragraph",
+      "text": "If no tax was payable because the foreign income is below the foreign country's tax threshold, this option is still available provided there is an income assessment (provide your income for taxation purposes)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The assessment must cover a period of 12 months, even if income was not earned for the whole 12 months. If this period of 12 months overlaps with the Australian income year (1 July to 30 June), you can use the assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't use this method of assessment if any of the following apply:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the period of 12 months for which your income was assessed by a foreign taxation authority does not overlap with the relevant Australian income year that the assessment relates to. This is to ensure that you're reporting your income for a period of time as closely aligned as possible with the Australian income year",
+        "multiple assessments of your income have been made by tax authorities of different foreign countries for periods of 12 months that overlap with the relevant Australian income year",
+        "the most recent tax assessment made by a foreign tax authority has already been used to work out your foreign-sourced income for a previous income year."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "TFN equivalent in the relevant tax jurisdiction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Each tax jurisdiction will use an identifier for their taxpayers, whether it is an identity number to access all government services, or an identifier specific to that nation's revenue agency. You need to include the identifier here."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Net non-resident foreign income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enter the income amount that appears on your foreign income tax assessment. That is, your income for taxation purposes according to the tax assessment you received from a taxation authority of the foreign country that made the assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "To select another method to calculate your foreign-sourced income, return to Method to calculate your foreign-sourced income ."
+    }
+  ],
+  "content_text": "## Things to know\nPart year and full year foreign residents for Australian tax purposes are required to report their worldwide income, if they had one of the following study and trade support loan debts on 1 June 2026:\n- Higher Education Loan Program (HELP) debt\n- VET Student Loan (VSL) liability\n- Australian Apprenticeship Support Loan (AASL) liability.\nWorldwide income is your:\n- repayment income\n- income earned from sources outside Australia while you were a foreign resident (your non-resident foreign-sourced income).\nIf you're a foreign resident for tax purposes and your worldwide income is above the minimum repayment threshold , you still need to make repayments on your HELP, VSL and AASL debt. Repayment may be in the form of a compulsory repayment and/or an overseas levy depending on how the worldwide income is made up . For more information, see Overseas obligations when repaying loans .\nIf you wish to update or correct a previously submitted form, follow these instructions.\n## Non-resident foreign income section\nComplete the following in the non-resident income section.\n### Foreign occupation\nFrom the available occupations, select the closest matching occupation from which you earned the majority of your foreign-sourced income during the year.\nIf your occupation isn't listed, or you weren't employed (for example, you were an investor, retired or a pensioner), select ‘Occupation not listed’.\n### Method to calculate your foreign-sourced income\nSelect the income assessment method to calculate your foreign-sourced income. There are 3 assessment methods available to determine your non-resident foreign-sourced income:\n- Simple self-assessment method\n- Comprehensive tax-based assessment method\n- Overseas assessed method\nThe method you choose to determine your non-resident foreign-sourced income this year doesn’t restrict your choice of method in a subsequent year.\n### Net non-resident foreign income\nEnter the net amount of your non-resident foreign income calculated under the assessment method you're using for this amendment. To complete this field, follow the instructions for the assessment method you're using:\n- Simple self-assessment method\n- Comprehensive tax-based assessment method\n- Overseas assessed method\nAll amounts must be converted to Australian dollars before you report. Use the average annual exchange rate for the financial year most closely corresponding to the 2025–26 income year. For assistance converting your currency, you can use the foreign income conversion calculator This link opens in a new window .\n### Simple self-assessment method\nUnder the simple self-assessment method, to assess your foreign-sourced income you must report:\n- the occupation from which you derived the most foreign income for an income year\n- your gross (pre-tax) foreign income earned.\nForeign-sourced income is the difference between your gross (pre-tax) foreign income and the standard deduction that applies to the occupation that you have selected. We automatically calculate and apply the standard deduction for your occupation before calculating any overseas levy due.\nIf you have selected ‘Occupation not listed’ in the foreign occupation field (for example, if you're an investor, retired or a pensioner), no standard deduction can be calculated. The standard deduction amount applied to your gross income will be zero.\nTo amend your non-resident foreign income, you will need to enter your gross (pre-tax) non-resident foreign income in the net non-resident foreign income field and we'll apply the standard deduction to that amount. We may contact you if we can't process your amendment, so please ensure your contact details are up to date.\nTo select another method to calculate your foreign-sourced income, return to Method to calculate your foreign-sourced income .\n### Comprehensive tax-based assessment method\nThe following information will help you to determine your net non-resident foreign-sourced income amount under the comprehensive tax-based assessment method.\nUnder this method, your foreign-sourced income is determined using Australian taxation rules. This income may be from one or a number of sources – for example, from investment income or from being an employee or sole trader.\nYour foreign-sourced income is the difference between your total (pre-tax) foreign income and the deductions that would have been allowable under the income tax law if that income was assessable in Australia.\nTo complete your amendment, enter the net non-resident foreign income amount from your worksheet (XLSX, 14.8KB) This link will download a file into the net non-resident foreign income field.\nTo select another method to calculate your foreign-sourced income, return to Method to calculate your foreign-sourced income .\n#### Gross foreign income when a foreign resident for tax purposes\nForeign-sourced income is income you earned from outside Australia when you were a foreign resident for tax purposes, for example, when working overseas.\nYou must report all the foreign-sourced income that you earned during the 2025–26 income year as a foreign resident for Australian tax purposes. You must do this even if tax was taken out in the country where you earned the income.\nThis section includes:\n- Salary, wages\n- Allowances\n- Government allowances\n- Pensions (government pensions and superannuation)\n- Interest\n- Dividends\n- Other income\nYou must provide the gross amount (pre-tax amount) of your foreign income. The foreign income you need to report may consist of the following.\n##### Salary, wages\nIncome from salary or wages includes:\n- salary and wages\n- commissions\n- bonuses\n- payment for part-time or casual work\n- parental leave pay\n- amounts for lost salary or wages paid under an income protection policy a sickness or accident insurance policy a workers compensation scheme.\n##### Allowances\nPayments of income from working (other than salary or wages) include:\n- employment allowances – for example, car, travel, meals, entertainment, tools, clothing, laundry and site allowances\n- tips, gratuities\n- consultation fees.\n##### Government allowances\nGovernment allowances include allowances paid to you by a foreign government that form part of your foreign-source income. For example:\n- unemployment benefits\n- education payments\n- parenting payments\n- other government provided income support.\n##### Pensions (government pensions and superannuation)\nPensions include foreign government pension payments and superannuation income. Some types of government pensions are:\n- age pension\n- carer payment\n- disability pension\n- military pension.\n##### Interest\nYour foreign income may include any interest paid or credited to you from any source outside Australia, including:\n- interest from savings accounts, term deposits and cash management accounts\n- interest from children’s savings accounts you opened or operated with funds that were yours or you used as if they were yours.\n##### Dividends\nYour foreign income may include dividends and distributions that were paid or credited to you by foreign companies while you were a foreign resident such as:\n- dividends applied under a dividend reinvestment plan\n- dividends that were dealt with on your behalf\n- bonus shares that qualify as dividends\n- distributions by a corporate limited partnership\n- dividends paid by a corporate unit trust\n- dividends paid by a public trading trust\n- dividends paid by a listed investment company.\nNote: If you received dividends from an Australian company while you were a foreign resident, this should be included in your Australian income tax return section.\n##### Other income\nOther income that may form part of your foreign income includes income you earned as a foreign resident such as:\n- royalties\n- bonus amounts distributed from friendly society income bonds\n- scholarships, bursaries, grants or other educational awards\n- income from activities as a 'special professional' that you haven't included elsewhere on this form (author of a literary, dramatic, musical or artistic work, inventor, performing artist, production associate or active sportsperson)\n- any balancing adjustment when you stopped holding a depreciating asset (for example, because of its disposal, loss or destruction) that you claimed a deduction for depreciation or decline in value in previous years; your car, for example, is a depreciating asset\n- payments made to you under an income protection, sickness or accident insurance policy where you were self-employed and the payments replaced income, that haven't already been included elsewhere\n- income you earned from the sharing economy or other marketplace, except income from rent (shown at Net rent ) income from carrying on a business (shown at Net business income ) income from being an employee (shown at Salary, wages )\n#### Foreign deductions when a foreign resident for tax purposes\nYou may be able to claim deductions for expenses you incurred in earning your foreign income. For example, work-related expenses you incurred in the course of your employment duties or while performing your work duties as an employee.\nTo claim a deduction for a work-related expense:\n- you must have spent the money yourself and weren't reimbursed\n- it must be directly related to earning your income\n- you must have a record to prove it (usually a receipt).\nAny expenses you claim must reflect the expenses that would be allowable as a deduction if the foreign income was assessable in Australia and the same record keeping rules apply. For more information, see Claiming deductions .\nDeductions covered in this section:\n- Work-related – employee Car Travel Clothing Self-education Other expenses\n- Depreciation\n- Interest and dividends Interest Dividends\n- UPP of a foreign pension\n- Personal superannuation contributions\n- Other\n- Prior year tax losses\n##### Work-related – employee\nYou may be able to claim deductions for work-related expenses you incurred in the course of your employment duties or while performing your work duties as an employee.\nYou incurred an expense in an income year when you either:\n- received a bill or invoice for an expense that you're liable for (even if you paid it until after the end of the income year)\n- didn't receive a bill or invoice but you paid for the expense in the income year.\nIf an expense includes an amount of indirect tax such as a goods and services tax (GST) or a value added tax (VAT), the GST/VAT is part of the total expense and is therefore part of any deduction. For example, if you incurred union fees of $440 which included $40 GST/VAT, you claim a deduction for $440.\nInclude here the total of the following work-related expenses incurred as an employee.\n##### Car\nWork-related car expenses are expenses you incurred as an employee for a car you owned, leased or hired under a hire-purchase agreement .\nFor more information, including the methods to calculate deductions for car expenses, see Motor vehicle and car expenses .\n##### Travel\nWork-related travel expenses are travel expenses you incurred in the course of performing your work as an employee. They include:\n- taxi ride-share and public transport, airfares , short-term car hire, road and bridge tolls and parking fees when travelling for work\n- overnight travel expenses, such as accommodation, meal and incidental expenses you incurred while away overnight for work\n- expenses for a vehicle that isn't yours or isn't a car, such as expenses for motorcycles expenses for vehicles with a carrying capacity of one tonne or more, or 9 or more passengers, such as utility trucks and minibuses actual expenses, such as petrol, repair and maintenance costs, that you incurred to travel for work in a car that someone else owned or leased.\nIf your employer provided a vehicle for your or your relatives’ exclusive use (including under a salary sacrifice arrangement) and you or your relatives used it for non-work purposes:\n- you can't claim a deduction for work-related expenses for operating the vehicle, such as petrol, repairs or other maintenance (even if the expenses relate directly to your work)\n- you can claim expenses such as parking, bridge and road tolls for a work-related use of the vehicle, excluding parking at or travelling to a normal or regular place of work.\n##### Clothing\nWork-related clothing expenses are the costs you incurred as an employee for clothing that is:\n- protective clothing and footwear that you wear while working to protect you from the real and likely of illness or injury or prevent damage to your ordinary clothes caused by your work or work environment may cause. Items may include fire-resistant clothing sun protection clothing safety-coloured vests non-slip nurse’s shoes steel-capped boots gloves overalls aprons heavy-duty shirts and trousers (but not jeans)\n- a compulsory uniform that is a set of clothing or a single item that is distinctive (such as one that has your employer’s logo permanently attached to it) and identifies you as an employee of an organisation your employer must make it compulsory to wear the uniform through a strictly enforced workplace agreement or policy. items may include shoes, stockings, socks and jumpers where they are an essential part of a distinctive compulsory uniform and your employers policy specifies the colour, style and type.\n- occupation-specific that allows people to distinctly identify your occupation (such as the chequered pants a chef wears when working) and aren't for everyday use.\nYou can also claim the cost of renting work-related clothing from these categories.\nWork-related clothing expenses also include the costs you incurred to launder, dry-clean or repair work clothing from the categories listed above.\nYou can't claim the cost of buying, hiring, repairing or cleaning conventional clothing that you bought to wear, even if your employer says the clothing is compulsory or you only wear it at work.\n'Conventional clothing' is everyday clothing worn by people regardless of their occupation – for example, black trousers worn by waiters, business attire worn by office workers or jeans or drill shirts worn by tradespeople.\nIf you launder, dry and iron your work-related clothing, a reasonable basis for working out your claim is:\n- AUD$1.00 per load (if you wash only your work clothes in that load)\n- AUD$0.50 per load (if you mix other clothes in with your work clothes).\nUse the actual cost you incurred to work out your claim for dry-cleaning and repair expenses.\n##### Self-education\nWork-related self-education expenses are costs you incurred to:\n- undertake a course at an educational institution (whether they lead to a formal qualification or not)\n- undertake a course by a professional or industry organisation\n- attend a work-related conference or seminar\n- complete self-paced learning and study tours (whether within Australia or overseas).\nTo claim a deduction for self-education expenses, you must be able to show, at the time you incurred the self-expense, it had a sufficient connection to your employment activities.\nA self-education expense had a sufficient connection to earning your employment income if it either:\n- maintained or improved the specific skills or knowledge you required for your employment activities\n- lead to, or was likely to lead to, an increase income from your then employment activities.\nYou can't claim a deduction for self-education expenses that:\n- you incurred when you weren't employed\n- related only in a general way to your current employment or profession\n- will enable you to get new employment\n- is reimbursed.\nYou can't claim course fee contributions or repayments you, or the Australian Government, made under\n- the Higher Education Loan Program (HELP), including FEE-HELP and HECS-HELP\n- VET Student Loan (VSL)\n- the Student Financial Supplement Scheme (SFSS)\n- the Student Start-up Loan (SSL) and ABSTUDY Start-up Loan (ABSTUDY SSL)\n- the Australian Apprenticeship Support Loan (AASL) Program.\nIf at the time you incurred any of the following expenses, there was a sufficient connection between your self-education and your employment activities, you can claim them as a deduction:\n- textbooks\n- stationery\n- student union fees, student services and amenities fees\n- the decline in value of your computer\n- certain course fees.\n##### Other expenses\nOther work-related expenses are expenses you incurred as an employee and have not claimed above. These include:\n- union fees and subscriptions to trade, business or professional associations\n- reference books, technical journals and trade magazines\n- the work-related portion of items that protected you from the risk of injury of illness posed by your work or your work environment, such as hard hats, safety glasses, sunscreens, and other protective items\n- the work-related proportion of the following costs interest on money you borrowed to buy tools and equipment repair costs for the tools and equipment phone or internet expenses (if you haven’t already claimed working from home expenses using the fixed rate method additional running expenses you incurred because you worked from home\n- the work-related portion of tools and equipment , such as a computer or office furniture and professional libraries, you may be able to claim an immediate deduction for the cost of depreciating assets costing $300 or less a deduction for the decline in value of an item that costs more than $300 over its effective life (however, if you no longer own or use an item and you previously claimed a deduction for its decline in value, you may need to make a balancing adjustment – see Guide to depreciating assets )\n- COVID-19 test expenses\nYou can't claim a deduction for the decline in value of items primarily for use in your employment if your employer provided the items, or some or all of the cost of the items was paid or reimbursed by your employer, and the benefit was exempt from fringe benefits tax.\nFor your working from home expenses, you can choose to use one of 2 methods below. You must meet the eligibility criteria and record keeping requirements for the method you choose.\n- Fixed rate method – (AUD)$0.70 per hour you worked from home This rate covers the additional running expenses that you incurred as a result of working from home for energy expenses (electricity and gas), internet and data expenses, mobile and home phone expenses, stationery and computer consumables. You don’t need a separate home office or dedicated work area to use this method The fixed rate doesn't cover the decline in value of depreciating assets you used for work.\n- Actual cost method\n##### Depreciation\nYou may be able to claim a deduction for the decline in value of a depreciating asset which you held during the income year to the extent that you used it to produce income that you have included in the non-resident foreign income section.\nDepreciating assets include items such as tools, reference books, computers and office furniture.\nYou may be able to claim an immediate deduction for the full cost of depreciating assets costing $300 or less .\nYou can use the Depreciation and capital allowance tool This link opens in a new window to work out your deduction if the cost isn't fully deductible.\n##### Interest and dividends\nInformation about interest and dividend expenses.\n###### Interest\nInclude any allowable expenses that you would be entitled to claim if the foreign income you reported in the non-resident foreign income section was assessable income in Australia. Expenses include:\n- bank or other financial institution account-keeping fees for accounts held for investment purposes\n- fees for investment advice relating to changes in the mix of your investments\n- interest you paid on money you borrowed to purchase income-producing investments.\nIf you had a joint account or if you shared an interest-earning investment, you can claim only your share of the joint expenses.\nIf you incurred expenses when borrowing money for both private use and to purchase investments to produce interest, you can claim only the portion of the expenses relating to the investments.\nYou can claim a proportion of the decline in value of your computer using the percentage of your total computer use that related to managing your investments. If you used your computer to manage both your investments to produce interest and investments in shares or similar securities, you can claim only part of the decline in value related to managing those investments once.\n###### Dividends\nInclude any expenses you incurred earning the gross foreign dividends you reported.\nExpenses include:\n- management fees and fees for investment advice related to changes in the mix of your investments\n- interest you paid on money you borrowed to buy shares or similar investments\n- costs related to managing your investments, such as travel and buying specialist investment journals or subscriptions.\nIf you had joint share investments or similar shared investments, claim only your share of joint expenses.\nIf you borrowed money to buy assets for your private use and income-producing investments, you can claim only the portion of the interest expenses related to the income-producing investments.\nYou can claim a proportion of the decline in value of your computer using on the percentage of your total computer use that related to managing your investments. If you used your computer to manage both your investments to produce interest and investments in shares or similar securities, then you claim only part of the decline in value related to managing those investments once.\n##### UPP of a foreign pension\nYou may be entitled to claim a deduction to reduce your reported foreign pension or annuity income if it has an undeducted purchase price (UPP).\nOnly some foreign pensions and annuities have a UPP. The UPP is the amount you contributed towards the purchase price of your pension or annuity (your personal contributions).\nThat part of your annual pension or annuity income that represents a return to you of your personal contributions is free from tax. This tax-free portion is called the deductible amount of the UPP, the calculation usually divides the UPP of your pension or annuity by a life expectancy factor, according to life expectancy statistics.\nFor more information on pensions from another country, see Deductible amount of undeducted purchase price of a foreign pension or annuity .\n##### Personal superannuation contributions\nYou may be able to claim a deduction for after-tax personal superannuation contributions you made to a complying Australian super fund or a retirement savings account (RSA) if:\n- you satisfied the work and age restrictions\n- you gave a valid notice of intent to your super fund or RSA provider, in the approved form, and advised them of the amount you intend to claim as a deduction\n- you gave this notice of intent on or before the day you report your 2026 non-resident foreign income, lodge your 2026 tax return or 30 June 2027, whichever is earlier\n- your super fund or RSA provider acknowledged your valid notice, and\n- your super fund wasn't a Commonwealth public sector superannuation scheme with a defined benefit interest constitutionally protected fund or other untaxed fund that wouldn't include the contributions in their assessable income super fund that notified the Commissioner before the start of the income year that they elected to treat all member contributions to the super fund as non-deductible defined benefit interest within the super fund as non-deductible.\nFor more information, see Personal superannuation contributions .\n##### Other\nIf you have other expenses that would be allowable as a deduction if your foreign income was assessable, which you haven't been able to claim elsewhere in the Non-resident foreign income section, you can include them here.\nFor more information about what can be claimed, see Other deductions . Note that this link takes you to the Australian income tax return information and that some items which are specific to Australian residents don't apply in your situation.\n##### Prior year tax losses\nIf you have a foreign tax loss from an earlier income year that you haven't claimed as a deduction, you can include it here.\nYou may have a foreign tax loss this year which you may be able to claim as a deduction. You must complete this section whether or not you're able to claim a deduction for the loss this year.\nIf you have foreign tax losses from more than one earlier income year you should generally deduct the earliest losses first.\nTo complete this field you'll need records of your tax losses from earlier income years.\n#### Net foreign income (income less expenses) when a foreign resident for tax purposes\nNet foreign income (gross foreign income less expenses) is from overseas business and investments you made as a foreign resident. This section covers:\n- Net business income\n- Net personal services income\n- Net partnership and trust income\n- Net capital gains\n- Net rent\n- Rental income\n- Rental expenses\nYou must include your net foreign income here.\n##### Net business income\nIf you derived income or incurred a loss from any business carried on outside Australia while you're a foreign resident include it here. This includes:\n- income or loss from carrying on a business as a sole trader\n- income or a loss from a primary production business\n- income or loss of an independent contractor working under a labour hire arrangement\n- income or loss as a performing artist in a promotional activity\n- any other business income or loss.\nFor more information, see Business and professional items .\n##### Net personal services income\nComplete this field if you received income from sources outside Australia for personal services you provided while you were a foreign resident sole trader and you didn't:\n- receive a personal services business determination for your personal services income (PSI)\n- satisfy the results test, or\n- satisfy at least one of the other three personal services business tests (if less than 80% of your PSI came from each client).\nPSI is income that is mainly a reward for an individual's personal efforts or skills.\nIf more than 50% of the income you receive under a contract is for your personal efforts or skills, then all income from that contract is PSI.\nIf 50% or less of the income you receive under a contract is for your personal efforts or skills, then none of the income for that contract is PSI.\nTo work out whether your income is personal services income you can use the Personal services income tool This link opens in a new window . For more information see, Personal services income .\nTo work out your net personal services income, see Business and professional items .\n##### Net partnership and trust income\nIf you received income from partnerships or trusts outside Australia while you're a foreign resident include it here. Include your share of:\n- primary production partnership income or loss, and\n- non-primary production partnership income or loss.\nIf the partnership in which you were a partner paid you a salary, wages or allowances you must show that income here.\nIf you received, or were entitled to, a distribution of trust income, you must enter that amount here.\n##### Net capital gains\nIf your income from sources outside Australia while you were a foreign resident includes a capital gain or a capital loss made for an asset that isn't taxable Australian property you hold or held during the year, include it here. Under the Australian tax law, for most CGT events, you make a:\n- capital gain if the amount of money and property you received, or were entitled to receive, from the CGT event was more than the cost base of your asset; you may then have to pay tax on your capital gain\n- capital loss if the amount of money and property you received, or were entitled to receive, from the CGT event was less than the reduced cost base of your asset.\nThere are a wide range of CGT events that can happen. The most common CGT event happens when you sell or give away a CGT asset. For more information, see Capital gains or losses .\n##### Net rent\nNet rent is your rental income, less your rental expenses.\n##### Rental income\nRental income is the full amount of money you earn when you rented out your property outside Australia (including renting out a room through the sharing economy) while you were a foreign resident.\nYou must include any bond money you:\n- retained in place of rent, or\n- kept because of damage to the property requiring repairs.\nYou must also include as rental income:\n- an insurance payout for lost rent, or a reimbursement of any rental expenses, you claim in 2025–26 or in an earlier year\n- fees retained from cancelled bookings.\n##### Rental expenses\nYou can claim expenses relating to your rental property but only for the period your property was rented or held to produce rental income. A rental property is held to produce income if it's available for rent on commercial terms.\nIf your rental property is a holiday home , you can only claim ownership and use expenses such as interest expenses, body corporate fees, council rates and repair and maintenance expenses, if you used the property (or held it for use) mainly to produce rental income .\nExpenses could include:\n- advertising for tenants and property agent fees or commissions\n- body corporate fees and land tax\n- borrowing expenses\n- interest expenses\n- council rates\n- decline in value of depreciating assets\n- gardening, lawn mowing and pest controls\n- repairs and maintenance\n- stationery and phone expenses\n- water charges.\nIf you rented only part of your home (for example, a single room) you:\n- can claim expenses related to renting out only that part of the house only for the period the room in your home was rented to a tenant. You can't claim deductions for expenses when the room isn't rented.\n- can't claim the total amount of the expenses related to the whole property – for example, council rates and interest expenses need to be apportioned. As a general guide, you should apportion expenses based on the area that was solely occupied by the renter (user) and add to that a reasonable amount based on their access to common areas.\nYou can claim 100% of fees or commissions charged by a sharing economy facilitator or administrator.\nFor more information, see Rent and Renting out all or part of your home .\n### Overseas assessed method\nUnder the overseas assessed method, your net non-resident foreign income amount is your income for taxation purposes according to the most recent tax assessment by a taxation authority of a foreign country.\nIf no tax was payable because the foreign income is below the foreign country's tax threshold, this option is still available provided there is an income assessment (provide your income for taxation purposes).\nThe assessment must cover a period of 12 months, even if income was not earned for the whole 12 months. If this period of 12 months overlaps with the Australian income year (1 July to 30 June), you can use the assessment.\nYou can't use this method of assessment if any of the following apply:\n- the period of 12 months for which your income was assessed by a foreign taxation authority does not overlap with the relevant Australian income year that the assessment relates to. This is to ensure that you're reporting your income for a period of time as closely aligned as possible with the Australian income year\n- multiple assessments of your income have been made by tax authorities of different foreign countries for periods of 12 months that overlap with the relevant Australian income year\n- the most recent tax assessment made by a foreign tax authority has already been used to work out your foreign-sourced income for a previous income year.\n#### TFN equivalent in the relevant tax jurisdiction\nEach tax jurisdiction will use an identifier for their taxpayers, whether it is an identity number to access all government services, or an identifier specific to that nation's revenue agency. You need to include the identifier here.\n#### Net non-resident foreign income\nEnter the income amount that appears on your foreign income tax assessment. That is, your income for taxation purposes according to the tax assessment you received from a taxation authority of the foreign country that made the assessment.\nTo select another method to calculate your foreign-sourced income, return to Method to calculate your foreign-sourced income .",
+  "child_links": [],
+  "word_count": 5296,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

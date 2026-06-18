@@ -1,0 +1,364 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2012/supplementary-tax-return/tax-offset-questions-t7-t14/t12-net-income-from-working-supplementary-section-2012",
+  "title": "T12 - Net income from working - supplementary section 2012",
+  "description": "Provides information to help us work out your mature age worker tax offset entitlement.",
+  "nat_number": "71051",
+  "quick_code": "25751",
+  "date_updated": "2012-12-20T13:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Were you an Australian resident 55 years old or older on 30 June 2012?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to question T13 - Entrepreneurs tax offset , or return to main menu Individual tax return instructions"
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were 55 years old or older on 30 June 2012, an Australian resident and received income from working, you may be eligible for the mature age worker tax offset. We will automatically calculate your mature age worker tax offset based on the information you provide on your tax return (including this item)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your mature age worker tax offset is based on your net income from working which includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "income that is mainly a reward for your personal effort or skills less any related deductions",
+        "income from a business that you carry on, less any related deductions",
+        "reportable fringe benefits for the year (as shown on your payment summary)",
+        "reportable employer superannuation contributions (as shown on your payment summary)",
+        "farm management repayments."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this item"
+    },
+    {
+      "type": "paragraph",
+      "text": "We will work out your net income from working from any items you completed on pages 1-12 of your tax return. However, we need you to work out your net income from working for items you completed on pages 13-16 of your tax return (supplementary section). To do this, complete the worksheets below."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete (a) to (g) in worksheet 1 . Show a loss in worksheet 1 as a negative amount."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete (h) to (p) in worksheet 1 . Some amounts you show will be only part of the amounts you have shown on your tax return (supplementary section)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will have to do the following calculation for each partnership and for each partnership within a partnership, and then transfer the amount to step 2 above."
+    },
+    {
+      "type": "paragraph",
+      "text": "From your Partnership tax return 2012 (NAT 0659) add up:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the amount at net income or loss from business S item 5 Business income and expenses",
+        "only the amount of income from working in any Distribution from partnerships at A and B item 8 Partnerships and trusts",
+        "only the amount of income from working at O item 14 Other Australian income"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "then take away"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the part of the deductions that were included at labels S and T item 8 that relate to the income from working included in the distributions from partnerships shown at labels A and B item 8 Partnerships and trusts",
+        "only the amount of any deduction related to income from working at Q item 18 Other deductions ."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Work sheet 1"
+        ],
+        [
+          "Total income"
+        ],
+        [
+          "Net personal services income (PSI) from A item 14",
+          "$",
+          "(a)"
+        ],
+        [
+          "Net income or loss from business (primary production) from B item 15",
+          "$",
+          "(b)"
+        ],
+        [
+          "Net income or loss from business (non-primary production) from C item 15",
+          "$",
+          "(c)"
+        ],
+        [
+          "Deferred non-commercial business losses from primary production from I item 16",
+          "",
+          "(d)"
+        ],
+        [
+          "Deferred non-commercial business losses from non-primary production from J item 16",
+          "$",
+          "(e)"
+        ],
+        [
+          "Total farm management repayments from C , N and R item 17",
+          "$",
+          "(f)"
+        ],
+        [
+          "Add up all the amounts from (a) to (f).",
+          "$",
+          "(g)"
+        ],
+        [
+          "From N item 13 , distributions from partnerships (primary production), but only the distributions relating to income from working from the partnership tax return. See the instructions for step 2 above.",
+          "$",
+          "(h)"
+        ],
+        [
+          "From O item 13 , distributions from partnerships less foreign income (non-primary production), but only the distributions relating to income from working from the partnership tax return. See the instructions for step 2 above.",
+          "$",
+          "(i)"
+        ],
+        [
+          "From T item 20 , other net foreign employment income",
+          "$",
+          "(j)"
+        ],
+        [
+          "From M item 20 , other net foreign source income but only the amount relating to income from working",
+          "",
+          "(k)"
+        ],
+        [
+          "From V item 24 , only the following income: income from activities as a special professional that you have not included at items 1 , 2 , 13 , 14 or 15",
+          "$",
+          "(l)"
+        ],
+        [
+          "income protection, sickness and accident policy payments",
+          "$",
+          "(m)"
+        ],
+        [
+          "allowances or payments received as a member of a local government council",
+          "$",
+          "(n)"
+        ],
+        [
+          "Add the amounts from (h) to (n).",
+          "$",
+          "(o)"
+        ],
+        [
+          "Total income Add (g) from step 1 and (o) from step 2.",
+          "$",
+          "(p)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the deduction amounts from the relevant items you have completed on your tax return (supplementary section) to (a) and (b) in worksheet 2 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work out (d) to (j) in worksheet 2 . Some amounts you show will only be part of the amounts you have shown on your tax return (supplementary section)."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Wor ksheet 2"
+        ],
+        [
+          "Total deductions"
+        ],
+        [
+          "Landcare operations and deduction for the decline in value of water facility from I item 13",
+          "$",
+          "(a)"
+        ],
+        [
+          "Landcare operations expenses from J item 13",
+          "$",
+          "(b)"
+        ],
+        [
+          "Add (a) and (b).",
+          "$",
+          "(c)"
+        ],
+        [
+          "From X item 13 , the total deductions that relate to your share of primary production income or loss from a partnership (not from a trust), but only the deductions relating to the distribution of income from working from the partnership tax return",
+          "$",
+          "(d)"
+        ],
+        [
+          "From Y item 13 , the total deductions that relate to your share of non-primary production income or loss from a partnership (not from a trust), but only the deductions relating to the distribution of income from working from the partnership tax return",
+          "$",
+          "(e)"
+        ],
+        [
+          "From item D15 , only the following deductions:"
+        ],
+        [
+          "income protection, sickness and accident insurance premiums",
+          "$",
+          "(f)"
+        ],
+        [
+          "debt deductions incurred in earning assessable income from working",
+          "$",
+          "(g)"
+        ],
+        [
+          "section 40-880 deductions relating to 'income from working'",
+          "$",
+          "(h)"
+        ],
+        [
+          "net personal services income (PSI) loss of a personal services entity that related to your PSI",
+          "$",
+          "(i)"
+        ],
+        [
+          "Add all the amounts from (d) to (i).",
+          "$",
+          "(j)"
+        ],
+        [
+          "Total deductions Add (c) and (j).",
+          "$",
+          "(k)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete worksheet 3 to calculate your net income or loss from working (supplementary section). If (s) is a loss, show it as a negative amount."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 3"
+        ],
+        [
+          "Net income or loss from working"
+        ],
+        [
+          "(p) total income from worksheet 1",
+          "$",
+          "(q)"
+        ],
+        [
+          "(k) total deductions from worksheet 2",
+          "$",
+          "(r)"
+        ],
+        [
+          "If the amount at (q) is a loss then add the amounts at (q) and (r) (ignoring the fact that both amounts are losses). The total amount will be a loss. If (q) is not a loss then take the amount at (r) from the amount at (q). The result may be a loss.",
+          "$",
+          "(s)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at (s) is your net income or loss from working (supplementary section). Write the amount at (s) at M item T12 on page 16 of your tax return. If you had a loss, print L in the box at the right of M . Even if you had a loss you may still be entitled to the mature age worker tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "You do not have to work out your mature age worker tax offset. We will work out your net income from working from the information you provide on your tax return (including this item)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Check that you have …"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "written your net income from working, supplementary section at item T12 , even if the amount is 0",
+        "written your date of birth on page 1 of your tax return",
+        "answered the Australian residency question on page 1 of your tax return."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question T13 - Entrepreneurs tax offset . return to main menu Individual tax return instructions go back to T11 - Landcare and water facility"
+        ]
+      ]
+    }
+  ],
+  "content_text": "## Were you an Australian resident 55 years old or older on 30 June 2012?\nNO | Go to question T13 - Entrepreneurs tax offset , or return to main menu Individual tax return instructions\nYES | Read below.\n## You need to know\nIf you were 55 years old or older on 30 June 2012, an Australian resident and received income from working, you may be eligible for the mature age worker tax offset. We will automatically calculate your mature age worker tax offset based on the information you provide on your tax return (including this item).\nYour mature age worker tax offset is based on your net income from working which includes:\n- income that is mainly a reward for your personal effort or skills less any related deductions\n- income from a business that you carry on, less any related deductions\n- reportable fringe benefits for the year (as shown on your payment summary)\n- reportable employer superannuation contributions (as shown on your payment summary)\n- farm management repayments.\n## Completing this item\nWe will work out your net income from working from any items you completed on pages 1-12 of your tax return. However, we need you to work out your net income from working for items you completed on pages 13-16 of your tax return (supplementary section). To do this, complete the worksheets below.\n### Step 1\nComplete (a) to (g) in worksheet 1 . Show a loss in worksheet 1 as a negative amount.\n### Step 2\nComplete (h) to (p) in worksheet 1 . Some amounts you show will be only part of the amounts you have shown on your tax return (supplementary section).\nYou will have to do the following calculation for each partnership and for each partnership within a partnership, and then transfer the amount to step 2 above.\nFrom your Partnership tax return 2012 (NAT 0659) add up:\n- the amount at net income or loss from business S item 5 Business income and expenses\n- only the amount of income from working in any Distribution from partnerships at A and B item 8 Partnerships and trusts\n- only the amount of income from working at O item 14 Other Australian income\nthen take away\n- the part of the deductions that were included at labels S and T item 8 that relate to the income from working included in the distributions from partnerships shown at labels A and B item 8 Partnerships and trusts\n- only the amount of any deduction related to income from working at Q item 18 Other deductions .\nWork sheet 1\nTotal income\nNet personal services income (PSI) from A item 14 | $ | (a)\nNet income or loss from business (primary production) from B item 15 | $ | (b)\nNet income or loss from business (non-primary production) from C item 15 | $ | (c)\nDeferred non-commercial business losses from primary production from I item 16 |  | (d)\nDeferred non-commercial business losses from non-primary production from J item 16 | $ | (e)\nTotal farm management repayments from C , N and R item 17 | $ | (f)\nAdd up all the amounts from (a) to (f). | $ | (g)\nFrom N item 13 , distributions from partnerships (primary production), but only the distributions relating to income from working from the partnership tax return. See the instructions for step 2 above. | $ | (h)\nFrom O item 13 , distributions from partnerships less foreign income (non-primary production), but only the distributions relating to income from working from the partnership tax return. See the instructions for step 2 above. | $ | (i)\nFrom T item 20 , other net foreign employment income | $ | (j)\nFrom M item 20 , other net foreign source income but only the amount relating to income from working |  | (k)\nFrom V item 24 , only the following income: income from activities as a special professional that you have not included at items 1 , 2 , 13 , 14 or 15 | $ | (l)\nincome protection, sickness and accident policy payments | $ | (m)\nallowances or payments received as a member of a local government council | $ | (n)\nAdd the amounts from (h) to (n). | $ | (o)\nTotal income Add (g) from step 1 and (o) from step 2. | $ | (p)\n### Step 3\nTransfer the deduction amounts from the relevant items you have completed on your tax return (supplementary section) to (a) and (b) in worksheet 2 .\n### Step 4\nWork out (d) to (j) in worksheet 2 . Some amounts you show will only be part of the amounts you have shown on your tax return (supplementary section).\nWor ksheet 2\nTotal deductions\nLandcare operations and deduction for the decline in value of water facility from I item 13 | $ | (a)\nLandcare operations expenses from J item 13 | $ | (b)\nAdd (a) and (b). | $ | (c)\nFrom X item 13 , the total deductions that relate to your share of primary production income or loss from a partnership (not from a trust), but only the deductions relating to the distribution of income from working from the partnership tax return | $ | (d)\nFrom Y item 13 , the total deductions that relate to your share of non-primary production income or loss from a partnership (not from a trust), but only the deductions relating to the distribution of income from working from the partnership tax return | $ | (e)\nFrom item D15 , only the following deductions:\nincome protection, sickness and accident insurance premiums | $ | (f)\ndebt deductions incurred in earning assessable income from working | $ | (g)\nsection 40-880 deductions relating to 'income from working' | $ | (h)\nnet personal services income (PSI) loss of a personal services entity that related to your PSI | $ | (i)\nAdd all the amounts from (d) to (i). | $ | (j)\nTotal deductions Add (c) and (j). | $ | (k)\n### Step 5\nComplete worksheet 3 to calculate your net income or loss from working (supplementary section). If (s) is a loss, show it as a negative amount.\nWorksheet 3\nNet income or loss from working\n(p) total income from worksheet 1 | $ | (q)\n(k) total deductions from worksheet 2 | $ | (r)\nIf the amount at (q) is a loss then add the amounts at (q) and (r) (ignoring the fact that both amounts are losses). The total amount will be a loss. If (q) is not a loss then take the amount at (r) from the amount at (q). The result may be a loss. | $ | (s)\n### Step 6\nThe amount at (s) is your net income or loss from working (supplementary section). Write the amount at (s) at M item T12 on page 16 of your tax return. If you had a loss, print L in the box at the right of M . Even if you had a loss you may still be entitled to the mature age worker tax offset.\nYou do not have to work out your mature age worker tax offset. We will work out your net income from working from the information you provide on your tax return (including this item).\n### Check that you have …\n- written your net income from working, supplementary section at item T12 , even if the amount is 0\n- written your date of birth on page 1 of your tax return\n- answered the Australian residency question on page 1 of your tax return.\nWhere to go next go to question T13 - Entrepreneurs tax offset . return to main menu Individual tax return instructions go back to T11 - Landcare and water facility",
+  "child_links": [],
+  "word_count": 1321,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

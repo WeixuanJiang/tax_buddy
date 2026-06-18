@@ -1,0 +1,82 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2011/tax-return/income-tests/it7-child-support-you-paid-2011",
+  "title": "About question IT7",
+  "description": "Complete question IT7 to include child support you paid.",
+  "nat_number": "976",
+  "quick_code": "25500",
+  "date_updated": "2011-06-28T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, income test, child support, paid child support",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about amounts you paid or benefits you provided to another person other than your partner for the maintenance of your natural or adopted child."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: do not include amounts you paid or provided to a person to acquire goods or services."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you pay amounts or provide benefits to another person for the maintenance of your child?"
+        ],
+        [
+          "No",
+          "go to Spouse details - married or de facto , or return to main menu Tax return for individuals instructions ."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to know, or work out from your records, the total amounts you paid or benefits you provided for the maintenance of your child during 2010-11."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the amounts you paid and benefits you provided for the maintenance of your child during 2010-11."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total at Z item IT7 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question Spouse details - married or de facto return to main menu Tax return for individuals instructions , or go back to IT6 Net rental property loss ."
+        ]
+      ]
+    }
+  ],
+  "content_text": "This question is about amounts you paid or benefits you provided to another person other than your partner for the maintenance of your natural or adopted child.\nNote: do not include amounts you paid or provided to a person to acquire goods or services.\nDid you pay amounts or provide benefits to another person for the maintenance of your child?\nNo | go to Spouse details - married or de facto , or return to main menu Tax return for individuals instructions .\nYes | Read below.\n# Answering this question\nYou will need to know, or work out from your records, the total amounts you paid or benefits you provided for the maintenance of your child during 2010-11.\n# Completing your tax return\n### Step 1\nAdd up all the amounts you paid and benefits you provided for the maintenance of your child during 2010-11.\n### Step 2\nWrite the total at Z item IT7 .\nWhere to go next go to question Spouse details - married or de facto return to main menu Tax return for individuals instructions , or go back to IT6 Net rental property loss .",
+  "child_links": [],
+  "word_count": 191,
+  "source_title": "About question IT7 | Australian Taxation Office",
+  "source_description": "Complete question IT7 to include child support you paid.",
+  "category": "your-tax-return"
+}

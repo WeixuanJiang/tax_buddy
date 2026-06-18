@@ -1,0 +1,214 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2012/supplementary-tax-return/c1-credit-for-interest-on-early-payments-2012",
+  "title": "C1 - Credit for interest on early payments 2012",
+  "description": "Complete question C1 if you are eligible to claim a credit for interest on early tax paid to the ATO.",
+  "nat_number": "71051",
+  "quick_code": "25756",
+  "date_updated": "2012-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, credit for interest, interest, early payments, interest on early payments, credit",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Credit for interest on early payments"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "During 2011-12, did you make any of the following payments to the ATO more than 14 days before the due date:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "income tax (including Medicare levy and Medicare levy surcharge) shown on your notice of assessment",
+        "compulsory Higher Education Loan Program (HELP) repayment amount shown on your notice of assessment",
+        "compulsory Student Financial Supplement Scheme (SFSS) debt repayment shown on your notice of assessment",
+        "interest on distributions from non-resident trust estates",
+        "shortfall interest charge",
+        "income tax penalty for the 1999-2000 and earlier income years",
+        "general interest charge for lodging a late income tax return for income years up to and including 1999-2000",
+        "general interest charge on an increase in the tax payable resulting from an amended assessment for income years up to and including 1999-2000?"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to Checklist - supplement , or return to main menu Individual tax return instructions"
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim for interest on an early payment either by writing to the ATO for a direct payment or by completing this item. If you have already requested the direct payment of interest on your early payment, do not claim it at this item."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "You need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following are not early payments:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "pay as you go (PAYG) withholding amounts including:",
+        "amounts withheld from interest, dividends and royalties amounts withheld by payers including those withheld for the Higher Education Loan Payment Scheme and SFSS",
+        "PAYG instalments."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, read the publications Interest on early payments and overpayments of tax 2012 (NAT 2277) and Practice Statement Law Administration PS LA 2011/23 - Credit interest which discusses the policy and details when interest is payable."
+    },
+    {
+      "type": "paragraph",
+      "text": "The interest you receive will need to be shown as income on your tax return for the year in which we paid or credited the interest to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "The period for which you can receive interest starts on the date you made your payment or the issue date of your notice informing you of the amount of tax, debt, interest or instalment, whichever is the later. The period ends on the due date for payment or when the refund takes place where the early payment is refunded before the due date, whichever is the earlier. For example, a notice of assessment issued to you on 19 September 2011 showed an amount of tax payable. If the amount was due on 21 November 2011 but you paid early, on 1 November 2011, the interest period would be 21 days: 1 November to 21 November."
+    },
+    {
+      "type": "paragraph",
+      "text": "The interest rate applying for each quarter of 2011-12 is shown below:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Interest rates for early payments calculation"
+        ],
+        [
+          "Period",
+          "Interest rate (% pa)"
+        ],
+        [
+          "1 July 2011 to 30 September 2011",
+          "5.00"
+        ],
+        [
+          "1 October 2011 to 31 December 2011",
+          "4.86"
+        ],
+        [
+          "1 January 2012 to 31 March 2012",
+          "4.62"
+        ],
+        [
+          "1 April 2012 to 30 June 2012",
+          "4.37"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "What you need"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Notification from the ATO showing the date of the notice, the amount owing and the due date",
+        "Details of your date of payment, shown on your bank statement or receipt from the post office or the ATO. Allow three extra days if you posted your payment."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing this item"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the early payment extends over two or more interest periods, you will need to do steps 1 to 4 for the number of days in each period."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work out by how many days your payment was early. This is the number of days from either the date you paid the amount or the issue date on your notice informing you of the amount of tax, debt, interest or instalment - whichever is the later - up to and including the date when the payment was due."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Divide the number of days from step 1 by 366."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Multiply the answer you got at step 2 by the amount of the payment."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Multiply the answer from step 3 by the rate of interest for the period and divide by 100. For example, for the period 1 July 2011 to 30 September 2011, multiply by 5.00 and divide by 100."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the amounts for each period in step 4."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount from step 5 is equal to or greater than 50 cents, write the total at L item C1 on page 16 of your tax return. Show cents. If the amount is less than 50 cents, you cannot claim."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "You have now finished this question. Go to the next question."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to Checklist - supplement return to main menu Individual tax return instructions go back to question A4 - Amount on which family trust distribution tax has been paid"
+        ]
+      ]
+    }
+  ],
+  "content_text": "## Credit for interest on early payments\n#### During 2011-12, did you make any of the following payments to the ATO more than 14 days before the due date:\n- income tax (including Medicare levy and Medicare levy surcharge) shown on your notice of assessment\n- compulsory Higher Education Loan Program (HELP) repayment amount shown on your notice of assessment\n- compulsory Student Financial Supplement Scheme (SFSS) debt repayment shown on your notice of assessment\n- interest on distributions from non-resident trust estates\n- shortfall interest charge\n- income tax penalty for the 1999-2000 and earlier income years\n- general interest charge for lodging a late income tax return for income years up to and including 1999-2000\n- general interest charge on an increase in the tax payable resulting from an amended assessment for income years up to and including 1999-2000?\nNO | Go to Checklist - supplement , or return to main menu Individual tax return instructions\nYES | Read below.\nYou can claim for interest on an early payment either by writing to the ATO for a direct payment or by completing this item. If you have already requested the direct payment of interest on your early payment, do not claim it at this item.\n### You need to know\nThe following are not early payments:\n- pay as you go (PAYG) withholding amounts including:\n- amounts withheld from interest, dividends and royalties amounts withheld by payers including those withheld for the Higher Education Loan Payment Scheme and SFSS\n- PAYG instalments.\nFor more information, read the publications Interest on early payments and overpayments of tax 2012 (NAT 2277) and Practice Statement Law Administration PS LA 2011/23 - Credit interest which discusses the policy and details when interest is payable.\nThe interest you receive will need to be shown as income on your tax return for the year in which we paid or credited the interest to you.\nThe period for which you can receive interest starts on the date you made your payment or the issue date of your notice informing you of the amount of tax, debt, interest or instalment, whichever is the later. The period ends on the due date for payment or when the refund takes place where the early payment is refunded before the due date, whichever is the earlier. For example, a notice of assessment issued to you on 19 September 2011 showed an amount of tax payable. If the amount was due on 21 November 2011 but you paid early, on 1 November 2011, the interest period would be 21 days: 1 November to 21 November.\nThe interest rate applying for each quarter of 2011-12 is shown below:\nInterest rates for early payments calculation\nPeriod | Interest rate (% pa)\n1 July 2011 to 30 September 2011 | 5.00\n1 October 2011 to 31 December 2011 | 4.86\n1 January 2012 to 31 March 2012 | 4.62\n1 April 2012 to 30 June 2012 | 4.37\n### What you need\n- Notification from the ATO showing the date of the notice, the amount owing and the due date\n- Details of your date of payment, shown on your bank statement or receipt from the post office or the ATO. Allow three extra days if you posted your payment.\n### Completing this item\nIf the early payment extends over two or more interest periods, you will need to do steps 1 to 4 for the number of days in each period.\n#### Step 1\nWork out by how many days your payment was early. This is the number of days from either the date you paid the amount or the issue date on your notice informing you of the amount of tax, debt, interest or instalment - whichever is the later - up to and including the date when the payment was due.\n#### Step 2\nDivide the number of days from step 1 by 366.\n#### Step 3\nMultiply the answer you got at step 2 by the amount of the payment.\n#### Step 4\nMultiply the answer from step 3 by the rate of interest for the period and divide by 100. For example, for the period 1 July 2011 to 30 September 2011, multiply by 5.00 and divide by 100.\n#### Step 5\nAdd up the amounts for each period in step 4.\n#### Step 6\nIf the amount from step 5 is equal to or greater than 50 cents, write the total at L item C1 on page 16 of your tax return. Show cents. If the amount is less than 50 cents, you cannot claim.\n#### Step 7\nYou have now finished this question. Go to the next question.\nWhere to go next go to Checklist - supplement return to main menu Individual tax return instructions go back to question A4 - Amount on which family trust distribution tax has been paid",
+  "child_links": [],
+  "word_count": 815,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

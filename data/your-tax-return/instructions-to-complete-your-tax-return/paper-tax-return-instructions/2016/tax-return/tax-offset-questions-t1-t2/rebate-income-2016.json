@@ -1,0 +1,95 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2016/tax-return/tax-offset-questions-t1-t2/rebate-income-2016",
+  "title": "Rebate income 2016",
+  "description": "Work out your rebate income and if you're eligible for the seniors and pensioners tax offset at question T1.",
+  "nat_number": "",
+  "quick_code": "48539",
+  "date_updated": "2016-05-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, adjustments, supplementary",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "We work out what we call 'rebate income' to determine whether you are eligible for the seniors and pensioners tax offset at T1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your rebate income is the total amount of your taxable income plus the following amounts if they apply to you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "adjusted fringe benefits (that is, the total reportable fringe benefits amounts multiplied by 0.51)",
+        "reportable employer superannuation contributions",
+        "deductible personal superannuation contributions",
+        "your net financial investment loss (that is, the amount by which your deductions attributable to financial investments exceeded your total financial investment income)",
+        "your net rental property loss (that is, the amount by which your deductions attributable to rental property exceeded your rental property income)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your rebate income, use the following worksheet."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Your taxable income (from Taxable income or loss on your tax return) If your taxable income is a loss, write 0 at (a).",
+          "$",
+          "(a)"
+        ],
+        [
+          "Your reportable employer superannuation contributions (from T item IT2 on your tax return)",
+          "$",
+          "(b)"
+        ],
+        [
+          "Your deductible personal superannuation contributions (from H item D12 on your tax return)",
+          "$",
+          "(c)"
+        ],
+        [
+          "Your net financial investment loss (from X item IT5 on your tax return)",
+          "$",
+          "(d)"
+        ],
+        [
+          "Your net rental property loss (from Y item IT6 on your tax return)",
+          "$",
+          "(e)"
+        ],
+        [
+          "Your adjusted fringe benefits Multiply the amount from W item IT1 on your tax return by 0.51. Round down the answer to the nearest dollar.",
+          "$",
+          "(f)"
+        ],
+        [
+          "Add up the amounts from (a) to (f). This is your rebate income.",
+          "$",
+          "(g)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "T2 Australian superannuation income stream 2016",
+        "Individual tax return instructions 2016",
+        "T1 Seniors and pensioners (includes self-funded retirees) 2016"
+      ]
+    }
+  ],
+  "content_text": "We work out what we call 'rebate income' to determine whether you are eligible for the seniors and pensioners tax offset at T1 .\nYour rebate income is the total amount of your taxable income plus the following amounts if they apply to you:\n- adjusted fringe benefits (that is, the total reportable fringe benefits amounts multiplied by 0.51)\n- reportable employer superannuation contributions\n- deductible personal superannuation contributions\n- your net financial investment loss (that is, the amount by which your deductions attributable to financial investments exceeded your total financial investment income)\n- your net rental property loss (that is, the amount by which your deductions attributable to rental property exceeded your rental property income).\nTo work out your rebate income, use the following worksheet.\nYour taxable income (from Taxable income or loss on your tax return) If your taxable income is a loss, write 0 at (a). | $ | (a)\nYour reportable employer superannuation contributions (from T item IT2 on your tax return) | $ | (b)\nYour deductible personal superannuation contributions (from H item D12 on your tax return) | $ | (c)\nYour net financial investment loss (from X item IT5 on your tax return) | $ | (d)\nYour net rental property loss (from Y item IT6 on your tax return) | $ | (e)\nYour adjusted fringe benefits Multiply the amount from W item IT1 on your tax return by 0.51. Round down the answer to the nearest dollar. | $ | (f)\nAdd up the amounts from (a) to (f). This is your rebate income. | $ | (g)\n## Where to go next\n- T2 Australian superannuation income stream 2016\n- Individual tax return instructions 2016\n- T1 Seniors and pensioners (includes self-funded retirees) 2016",
+  "child_links": [],
+  "word_count": 294,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

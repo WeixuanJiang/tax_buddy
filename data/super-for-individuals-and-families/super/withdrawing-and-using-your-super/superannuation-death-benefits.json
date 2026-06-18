@@ -1,0 +1,761 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/super/withdrawing-and-using-your-super/superannuation-death-benefits",
+  "title": "Superannuation death benefits",
+  "description": "What you need to know about receiving a superannuation death benefit after someone has died.",
+  "nat_number": "",
+  "quick_code": "44997",
+  "date_updated": "2023-08-01T14:00:00Z",
+  "first_published": "",
+  "keywords": "super death benefit, beneficiary, death income stream, super inheritance",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When a person dies, what happens to their super?"
+    },
+    {
+      "type": "paragraph",
+      "text": "When a person dies, in most cases their super fund pays their remaining super to their nominated beneficiary."
+    },
+    {
+      "type": "paragraph",
+      "text": "Super paid after a person's death is called a 'super death benefit'."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the rules of your super fund allow it, you can nominate the beneficiary for your super, by making a non-binding or binding nomination."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the super fund rules allow a binding death benefit nomination, you can nominate one or more dependants and/or your legal personal representative to receive your super."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a deceased person did not make a nomination, or has made a non-binding nomination, the trustee of the fund may:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "use their discretion to decide which dependant or dependants to pay the death benefit to",
+        "make a payment to the deceased's legal personal representative (executor of their estate) for distribution according to the instructions in the deceased's will."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Contact your super fund to find out more about death benefit nominations."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a death benefit is paid to a dependant of the deceased, it can be paid as either a lump sum or income stream."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a death benefit is paid to someone who is not a dependant, it must be paid as a lump sum."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Who is a dependant"
+    },
+    {
+      "type": "paragraph",
+      "text": "Superannuation law sets out who a death benefit is payable to, while taxation law sets out how a death benefit is taxed."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Dependant under superannuation law"
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purposes of deciding who receives a death benefit, you're a dependant of the deceased if at the time of their death you were:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "their spouse or de facto spouse",
+        "a child of the deceased (any age)",
+        "a person in an interdependency relationship with the deceased."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "An interdependency relationship exists between two people if all of the following conditions are met:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "they have a close personal relationship",
+        "they live together",
+        "one or both provides the other with financial support",
+        "one or both provides the other with domestic support and personal care."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you would like to leave your super to someone who is not a dependant under superannuation law, ask your super fund about making a binding death benefit nomination to have the payment made to your legal personal representative. This will ensure your super is distributed according to your will."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Dependant under tax law"
+    },
+    {
+      "type": "paragraph",
+      "text": "For tax purposes, you are a dependant of the deceased if at the time of their death you were:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "their spouse or de facto spouse (of any sex)",
+        "a former spouse or de facto spouse (of any sex)",
+        "a child of the deceased under 18 years old",
+        "in an interdependency relationship with the deceased",
+        "any other person dependant on the deceased."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The conditions for the existence of an interdependency relationship under tax law are generally the same as those applying under superannuation law."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, 2 people may also have an interdependency relationship for tax purposes if they have a close personal relationship, and the reason they don't satisfy one or more of the requirements listed above is that one or both suffer from a physical, intellectual or psychiatric disability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Being financially dependent on the deceased means you relied on them for necessary financial support. Children over 18 years old must be financially dependent on the deceased to be considered a dependant."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are limits on who can receive a death benefit income stream. Children can only receive an income stream if they are under 18, or under 25 years old and are financially dependent on the deceased or have a permanent disability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Adult children with a permanent disability can continue to receive an income stream after they turn 25 years old. In all other situations the income stream must change to a lump sum on or before the date they turn 25 years old."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Tax on super benefits ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to apply for a super death benefit"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you believe you're the beneficiary of a deceased person's super or are the legal representative of a person's estate, you should contact their super fund to let them know that the person has died and ask them to release the person's super."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also check if the deceased had ATO-held super ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Death benefit income streams"
+    },
+    {
+      "type": "paragraph",
+      "text": "A super income stream involves a series of regular payments from a super fund (at least annually), drawn from a retirement account."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Death benefit income streams and your transfer balance cap"
+    },
+    {
+      "type": "paragraph",
+      "text": "There is a lifetime limit (your transfer balance cap ) on the maximum amount you can transfer into one or more tax-free retirement accounts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Special rules apply to death benefit income streams."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're receiving a death benefit income stream – either by itself or in combination with another super income stream – you need to ensure you don't exceed your personal transfer balance cap."
+    },
+    {
+      "type": "paragraph",
+      "text": "Death benefits can be rolled into another fund. However, the new fund must start a death benefit income stream or pay the amount out of super as a lump sum (or a combination of these). The death benefit cannot be retained in accumulation phase. Death benefits that are rolled over will not lose their death benefit tax treatment."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Credits to your transfer balance account"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you start to receive a death benefit income stream, a credit arises in your transfer balance account . The amount and timing of the credit depends on when you started receiving the death benefit income stream, and whether it's reversionary or non-reversionary ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Reversionary death benefit income streams"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're a beneficiary of a reversionary death benefit income stream, you automatically become entitled to the income stream on the death of the original member. The date of death of the original member is when the income stream first becomes payable to you."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Before 1 July 2017"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were entitled to a reversionary death benefit income stream before 1 July 2017, the credit in your transfer balance account arises on 1 July 2017 or 12 months after the death of the original member – whichever is the later. This means:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "if the member died before 1 July 2016 , the credit in your transfer balance account arises on 1 July 2017",
+        "if the member died between 1 July 2016 and 30 June 2017 , the credit in your transfer balance account arises 12 months after the date of the member’s death."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "On or after 1 July 2017"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you become entitled to a reversionary death benefit income stream on or after 1 July 2017, the credit in your transfer balance account arises 12 months after the date of the member’s death. The amount of the credit is equal to the value of the income stream at the date of the member’s death."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Non-reversionary death benefit income streams"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're a beneficiary of a non-reversionary death benefit income stream, you're not automatically entitled to the income stream on the death of the original member. You become entitled when you start being paid the death benefit income stream."
+    },
+    {
+      "type": "paragraph",
+      "text": "The value of non-reversionary death benefit income streams may also include any:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "investment earnings that accrued to the deceased member's interest between the date of death and the date you become entitled to the income stream",
+        "other amounts the super fund has decided to pay as a death benefit income stream."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Before 1 July 2017"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're entitled to a non-reversionary death benefit income stream before 1 July 2017, the credit in your transfer balance account arises on 1 July 2017. The amount of the credit is equal to the value of your income stream at the end of 30 June 2017."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "On or after 1 July 2017"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you become entitled to a non-reversionary death benefit income stream on or after 1 July 2017, the credit arises on the day you become entitled to the income stream. The amount of the credit is the value of the income stream on that day."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Example: reversionary pension"
+    },
+    {
+      "type": "paragraph",
+      "text": "On 15 April 2018, Ivan dies and his super income stream reverts automatically to Sasha."
+    },
+    {
+      "type": "paragraph",
+      "text": "The value of the super death benefit at this time is $1.1 million. Sasha’s transfer balance account will be credited with $1.1 million on 15 April 2019. This is 12 months from the day that the reversionary death benefit income stream first became payable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sasha chooses to partially commute her own super income stream and transfers $700,000 to her accumulation account on 15 April 2019. This ensures her transfer balance account does not go above her personal transfer balance cap of $1.6 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alternatively, Sasha could partially commute the reversionary death benefit income stream, but she would have to pay the commuted amount as a lump sum out of the super system because the death benefit can't be retained in accumulation phase."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Example: non-reversionary pension only"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nathaniel commences a non-reversionary super income stream worth $1.4 million on 1 October 2017. Nathaniel dies on 1 January 2018. At the time of his death, the value of his super income stream is $1.3 million. Nathaniel has no other super interests."
+    },
+    {
+      "type": "paragraph",
+      "text": "Malena is Nathaniel's spouse and only beneficiary and is entitled to all of his remaining super interest. During the period between Nathaniel's death and when the death benefit income stream starts being paid to Malena, investment earnings of $1,000 accrues."
+    },
+    {
+      "type": "paragraph",
+      "text": "The value of the death benefit income stream, when it commences on 15 June 2018, is $1,301,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 15 June 2018, Malena starts to have a transfer balance account. A transfer balance credit of $1,301,000 arises for the death benefit income stream."
+    },
+    {
+      "type": "paragraph",
+      "text": "Malena can start another super income stream, valued up to $299,000 without exceeding her personal transfer balance cap of $1.6 million."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Defined benefit income streams"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some defined benefit income streams are treated differently for transfer balance cap purposes. This includes death benefit income streams that are also defined benefit income streams. They have a special value for transfer balance cap purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rules of your fund may specify that your death benefit income stream reduces if your circumstances change. For example:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "when a reversionary defined benefit pension is paid to a surviving spouse or a beneficiary – in some cases, the first payment is the full amount of the payment that was made to the deceased, whereas the second and all subsequent payments are a proportion of the full entitlement. As a result, the annualised payment is based on an inflated figure.",
+        "when a reversionary defined benefit pension paid to a surviving spouse is calculated by reference to the deceased’s dependent children, and the surviving spouse’s entitlement is reduced as the children cease being dependent (generally at 18 or 25 years depending on their circumstances)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "These reductions occur mainly with public sector superannuation schemes."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be entitled to a debit in your transfer balance account if your death benefit income stream reduces because of a change in your circumstances. You will need to contact your fund to know if this debit will apply to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "The value of the debit is the special value of your lifetime pension or annuity just before the reduction in value less the special value of your lifetime pension or annuity just after the reduction in value."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: defined benefit lifetime pension reduced due to change in circumstances (1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jorge is 54 and his wife Anna was a retired public servant who was receiving a lifetime pension. On 9 August 2019, Anna passes away and Jorge begins receiving a reversionary defined benefit pension."
+    },
+    {
+      "type": "paragraph",
+      "text": "In line with the rules of the fund:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the first payment to Jorge will equal the amount paid to Anna",
+        "subsequent payments are reduced to three-quarters of the first payment",
+        "the same pension is payable to Jorge and it is merely the amount of the periodic payments that has changed."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The special value of the pension just before the reduction is $1.6 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "The special value of the pension just after the reduction is $1.2 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "The value of the debit equals $400,000 (i.e. $1.6 million less $1.2 million)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jorge will get a credit in his transfer balance account of $1.6 million because he starts to receive a retirement phase income stream. As the pension is a reversionary income stream, the credit will not arise in his transfer balance account until 9 August 2020 (see Reversionary income streams )."
+    },
+    {
+      "type": "paragraph",
+      "text": "The debit arises in Jorge’s transfer balance account on 6 September 2019, after which the balance of his transfer balance account will be –$400,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 9 August 2020, the credit from the reversionary income stream is applied and the balance of Jorge’s transfer balance account will be $1.2 million."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Date",
+          "Transaction",
+          "Debit",
+          "Credit",
+          "Transfer balance"
+        ],
+        [
+          "6 September 2019",
+          "Transfer balance account commences",
+          "$400,000",
+          "$0",
+          "-$400,000"
+        ],
+        [
+          "9 August 2020",
+          "Reversionary Income Stream",
+          "$0",
+          "$1,600,000",
+          "$1,200,000"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: capped defined benefit pension reduced due to change in circumstances (2)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rachel started to receive a reversionary income stream on 2 February 2019 on the death of her spouse. The credit in her transfer balance account arising from the special value of this pension was $1,000,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rachel has a dependent child, Sebastian. Under the rules of her fund:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the pension paid to Rachel will reduce when Sebastian turns 18 on 4 March 2020",
+        "the same pension is payable to the reversionary beneficiary and it's merely the amount of the periodic payments that has changed."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Rachel does not check her transfer balance account and starts her own account-based pension valued at $620,000 when she retires on 1 January 2020."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rachel's personal transfer balance cap is $1.6 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rachel forgot that her reversionary income stream would be credited to her transfer balance account on 2 February 2020. On 4 February 2020, Rachel received an excess transfer balance determination informing her she has an excess transfer balance of $20,200 (the $20,000 in excess of her personal transfer balance cap + $200 in excess transfer balance earnings, which is credited to her transfer balance account)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rachel is required to commute the excess and earnings before 4 May 2020."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 4 March 2020, Sebastian turned 18 and the fund reports a debit of $258,000 for Rachel. This means Rachel will get a debit in her transfer balance account of $258,000 on 4 March 2020."
+    },
+    {
+      "type": "paragraph",
+      "text": "As Rachel’s pension was indexed on 1 July 2019, the special value of the income stream just before the reduction was $1,008,000. The special value of the pension after the reduction will be $750,000. Her fund has calculated the debit as the difference between the special value based on the earlier annual entitlement and the special value based on the later annual entitlement (that is, $1,008,000 – $750,000 = $258,000)."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 10 March 2020, Rachel receives an excess transfer balance tax notice of assessment showing tax on her excess transfer balance earnings and that the debit of $258,000 has been applied to her transfer balance account. Rachel will be required to pay the excess transfer balance tax."
+    },
+    {
+      "type": "paragraph",
+      "text": "The debit arising from the reduction in value of the reversionary income stream on 4 March 2020 reduces the balance of her transfer balance account to $1,362,200 ($1,000,000 + $620,000 + $200 – $258,000), which is below her personal transfer balance cap."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rachel:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "needs to pay excess transfer balance tax on the excess transfer balance earnings that have accrued between 2 February 2020 and 4 March 2020",
+        "is not entitled to any indexation of her personal transfer balance cap."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Child recipients of a death benefit income stream"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "How the transfer balance cap applies to child recipients"
+    },
+    {
+      "type": "paragraph",
+      "text": "The transfer balance cap applies in a modified way to child recipients of death benefit income streams."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person is a child recipient of a death benefit income stream if they're receiving a death benefit income stream and are either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "under 18 years old",
+        "between 18 and 25 years old and were financially dependent on the deceased",
+        "living with a permanent disability."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Each child recipient of a death benefit income stream from a deceased parent has a modified personal transfer balance cap ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The modified personal transfer balance cap depends on the deceased parent’s super interests and is made up of the total amount of ‘cap increments’ a child recipient is entitled to."
+    },
+    {
+      "type": "paragraph",
+      "text": "Child recipients are entitled to retain a super income stream (or streams) up to the amount of the cap increment (or increments) without exceeding their modified personal transfer balance cap."
+    },
+    {
+      "type": "paragraph",
+      "text": "The normal transfer balance rules apply if a child exceeds their modified personal transfer balance cap."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "When the modified transfer balance cap arrangements cease"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unless the child recipient has a permanent disability, on turning 25 years old they are required to cash out all death benefit income streams and withdraw the capital from the super system. At this time, the modified transfer balance cap arrangements cease (unless the capital has already been exhausted)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Child recipients with a permanent disability are not subject to the cashing out rule. The modified transfer balance cap arrangements cease when all of the funds that support their death benefit income stream have been exhausted. An exception is if they also have other super income streams, such as a disability pension or an income stream funded by a structured settlement contribution."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the child recipient subsequently starts receiving a super income stream (other than as a child recipient) they will start a new transfer balance account with a personal transfer balance cap based on the general transfer balance cap."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Recipient of another super income stream"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the child recipient also receives their own super income stream or another death benefit income stream (for example, from an interdependency relationship), their personal transfer balance cap is worked out differently. In this case, the cap is the sum of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the recipient's personal transfer balance cap, worked out according to the general rules",
+        "their modified personal transfer balance cap based on the total amount of cap increments they're entitled to as a child recipient."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The death benefit income streams and related modified personal transfer balance cap are disregarded when calculating if the individual is entitled to proportional indexation of their personal transfer balance cap. The proportional indexation of their personal transfer balance cap is worked out according to the general rules."
+    },
+    {
+      "type": "paragraph",
+      "text": "For child recipients also receiving their own super income stream, their transfer balance account continues after the child recipient death benefit income stream has been cashed out or exhausted."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "How do the cap increments work?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Child recipients who are only receiving death benefit income streams don't have a personal transfer balance cap based on the general transfer balance cap. Instead, their modified personal transfer balance cap generally takes into account the value of the deceased parent’s retirement phase interests they receive. This is achieved through a series of transfer balance cap increments that accrue to the child recipient."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cap increments depend on whether the child recipient starts receiving the death benefit income stream:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "before 1 July 2017",
+        "on or after 1 July 2017."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Started receiving income stream before 1 July 2017"
+    },
+    {
+      "type": "paragraph",
+      "text": "The cap increment for child recipients receiving death benefit income streams before 1 July 2017 is equal to the general transfer balance cap at the time, $1.6 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cap increment arises on 1 July 2017 and means the child recipient can be receiving death benefit income streams of up to $1.6 million without exceeding their modified personal transfer balance cap."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Started receiving income stream on or after 1 July 2017"
+    },
+    {
+      "type": "paragraph",
+      "text": "For child recipients who start to receive a death benefit income stream on or after 1 July 2017, the cap increment depends on the following circumstances:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "whether the deceased parent had a transfer balance account before they died",
+        "if the deceased parent had a transfer balance account, the source of their super interest that the child recipient's income stream comes from",
+        "whether the deceased parent had a transfer balance account and also an excess transfer balance in the retirement phase just before they died."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A cap increment arises for each death benefit income stream received from a parent. If the child recipient starts to receive death benefit income streams because both their parents died, the modified personal transfer balance cap is the total of the cap increments worked out for each parent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Each cap increment arises when the child recipient starts to be entitled to the death benefit income stream. However, in the case of a reversionary death benefit income stream, the cap increment is deferred for 12 months to align with the modifications for this type of death benefit income stream."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Deceased parent had no transfer balance account"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the parent did not have a transfer balance account at the time of their death (for example, they died before they were in retirement phase), the child recipient will receive the death benefit income stream from the parent's accumulation phase interest."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, if the child recipient is the sole beneficiary of the super interest, their cap increment is equal to the general transfer balance cap at that time. If the child recipient is not the sole beneficiary of the super interest, their cap increment is a proportion of the general transfer balance cap at that time, reflecting their share of the parent’s super interests."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Deceased parent had a transfer balance account"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the deceased parent had a transfer balance account before they died, the child recipient's cap increment depends on the type of super interest their death benefit income stream comes from. This is because only death benefit income streams that come from a retirement phase interest of a deceased parent are entitled to a cap increment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, an amount is considered to be sourced from the deceased parent’s retirement phase interest if the amount came from super interests supporting income streams payable to them just before their death. This amount includes earnings accrued on those income streams after the parent’s death, up until a death benefit income stream is paid."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the deceased parent only had a retirement phase interest, the child recipient's cap increment is equal to the share of the deceased parent’s interest they're receiving as a death benefit income stream. However, if the deceased parent had a transfer balance account, but the child recipient's death benefit income stream comes from the parent's accumulation interest, the cap increment is nil."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the child recipient's death benefit income stream is partially funded by a retirement phase interest and partially from an accumulation interest, the cap increment is limited to their share of the retirement phase interest. The benefit received from the deceased parent’s accumulation interest has a cap increment of nil. This means the child recipient will have an excess transfer balance (unless they also have a cap increment because of the death of another parent or unless they also have a personal transfer balance cap because they have another non-death benefit income stream)."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Deceased parent had an excess transfer balance"
+    },
+    {
+      "type": "paragraph",
+      "text": "The child recipient's cap increment is reduced if the deceased parent had a transfer balance account that exceeded their personal cap just before they died. In this situation, the child recipient's cap increment is reduced by their share of the parent’s excess amount."
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Example: child benefit with no existing transfer balance account"
+    },
+    {
+      "type": "paragraph",
+      "text": "Raaf is 16 years old when his father dies in 2018. His father had not retired and had an accumulation account of $2 million when he died."
+    },
+    {
+      "type": "paragraph",
+      "text": "Raaf’s father did not have a transfer balance account. He is the only beneficiary of his father’s super interest."
+    },
+    {
+      "type": "paragraph",
+      "text": "Raaf is entitled to a personal transfer balance cap increment equal to the general transfer balance cap, as there are no other beneficiaries. As the general transfer balance cap at the time was $1.6 million, Raaf can receive $1.6 million of the $2 million as a death benefit income stream without exceeding his modified personal transfer balance cap. The remaining $400,000 would need to be paid to him as a death benefit lump sum and removed from the super system."
+    },
+    {
+      "type": "paragraph",
+      "text": "Raaf starts a $1.6 million death benefit income stream and a credit arises in his transfer balance account for the same amount at that time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Raaf will have to cash any remaining balance of the death benefit income stream out of the super system when he turns 25. The modified transfer balance cap arrangements will cease at that time and he will be entitled to a new transfer balance account and personal transfer balance cap when he commences his own super income stream in the future."
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Example: multiple beneficiaries where transfer balance account exists"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jemima and her sister Willow were 16 and 17 years old respectively when their mother died in January 2018. They are equal beneficiaries of their mother’s super interest. Their mother had a retirement phase interest of $1.4 million just before she died."
+    },
+    {
+      "type": "paragraph",
+      "text": "In March 2018, the trustee of their mother’s super fund decides to pay each child a non-reversionary death benefit income stream of $700,000. Both Jemima and Willow are entitled to a personal transfer balance cap increment equal to their share of their deceased mother’s retirement phase interest ($700,000, that is 50% of $1.4 million)."
+    },
+    {
+      "type": "paragraph",
+      "text": "In March 2018, a credit of $700,000 arises in each of the sisters’ transfer balance accounts. They each receive a personal transfer balance cap increment of $700,000; therefore neither has an excess transfer balance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shortly after their mother’s death, their father also dies. Their father had not retired and he had accumulation accounts of $2 million, of which the sisters were equal beneficiaries."
+    },
+    {
+      "type": "paragraph",
+      "text": "As their father did not have a transfer balance account before his death, his beneficiaries are entitled to their share of the general transfer balance cap (corresponding to their share of his super interest). As the general transfer balance cap at the time was $1.6 million, each sister will receive a personal transfer balance cap increment of $800,000 (50% of the general transfer balance cap). Each sister will now have a modified personal transfer balance cap of $1.5 million ($700,000 plus $800,000)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Each sister starts a new death benefit income stream (worth $800,000) from their father’s accumulation interest. The remaining $400,000 accumulation interest must be cashed out of the super system and provided equally to each of the sisters as death benefit lump sums."
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Example: structured settlement recipient"
+    },
+    {
+      "type": "paragraph",
+      "text": "On 1 September 2017, Barbara, who has a permanent disability, contributes $5 million she received from a structured settlement into her super and starts a super income stream worth $5 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "On that day Barbara starts to have a transfer balance account, with a personal transfer balance cap of $1.6 million. Her transfer balance account is debited by $5 million for the new super income stream and is credited by $5 million for the structured settlement contribution. At the end of 1 September 2017, her transfer balance is nil and she has $1.6 million of available personal cap space."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 1 January 2018, Barbara’s father, Jim, dies. Jim had a $1.6 million non-reversionary income stream. Barbara, Jim’s sole beneficiary, was paid a new $1.6 million death benefit income stream from Jim’s retirement phase interest."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 1 January 2018, Barbara’s personal transfer balance cap is increased to $3.2 million (her $1.6 million personal transfer balance cap plus the $1.6 million cap increment from her new death benefit income stream). A credit of $1.6 million arises in her transfer balance account on the same day. Barbara’s transfer balance is now $1.6 million, while her available personal cap space is still $1.6 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purposes of proportional indexation, Barbara’s highest transfer balance is nil (as her credit of $1.6 million for the death benefit income stream is disregarded). Assuming no further changes, she will be entitled to 100% of any future indexation of the general transfer balance cap."
+    }
+  ],
+  "content_text": "## When a person dies, what happens to their super?\nWhen a person dies, in most cases their super fund pays their remaining super to their nominated beneficiary.\nSuper paid after a person's death is called a 'super death benefit'.\nIf the rules of your super fund allow it, you can nominate the beneficiary for your super, by making a non-binding or binding nomination.\nIf the super fund rules allow a binding death benefit nomination, you can nominate one or more dependants and/or your legal personal representative to receive your super.\nIf a deceased person did not make a nomination, or has made a non-binding nomination, the trustee of the fund may:\n- use their discretion to decide which dependant or dependants to pay the death benefit to\n- make a payment to the deceased's legal personal representative (executor of their estate) for distribution according to the instructions in the deceased's will.\nContact your super fund to find out more about death benefit nominations.\nIf a death benefit is paid to a dependant of the deceased, it can be paid as either a lump sum or income stream.\nIf a death benefit is paid to someone who is not a dependant, it must be paid as a lump sum.\n## Who is a dependant\nSuperannuation law sets out who a death benefit is payable to, while taxation law sets out how a death benefit is taxed.\n### Dependant under superannuation law\nFor the purposes of deciding who receives a death benefit, you're a dependant of the deceased if at the time of their death you were:\n- their spouse or de facto spouse\n- a child of the deceased (any age)\n- a person in an interdependency relationship with the deceased.\nAn interdependency relationship exists between two people if all of the following conditions are met:\n- they have a close personal relationship\n- they live together\n- one or both provides the other with financial support\n- one or both provides the other with domestic support and personal care.\nIf you would like to leave your super to someone who is not a dependant under superannuation law, ask your super fund about making a binding death benefit nomination to have the payment made to your legal personal representative. This will ensure your super is distributed according to your will.\n### Dependant under tax law\nFor tax purposes, you are a dependant of the deceased if at the time of their death you were:\n- their spouse or de facto spouse (of any sex)\n- a former spouse or de facto spouse (of any sex)\n- a child of the deceased under 18 years old\n- in an interdependency relationship with the deceased\n- any other person dependant on the deceased.\nThe conditions for the existence of an interdependency relationship under tax law are generally the same as those applying under superannuation law.\nHowever, 2 people may also have an interdependency relationship for tax purposes if they have a close personal relationship, and the reason they don't satisfy one or more of the requirements listed above is that one or both suffer from a physical, intellectual or psychiatric disability.\nBeing financially dependent on the deceased means you relied on them for necessary financial support. Children over 18 years old must be financially dependent on the deceased to be considered a dependant.\nThere are limits on who can receive a death benefit income stream. Children can only receive an income stream if they are under 18, or under 25 years old and are financially dependent on the deceased or have a permanent disability.\nAdult children with a permanent disability can continue to receive an income stream after they turn 25 years old. In all other situations the income stream must change to a lump sum on or before the date they turn 25 years old.\nFor more information, see Tax on super benefits .\n## How to apply for a super death benefit\nIf you believe you're the beneficiary of a deceased person's super or are the legal representative of a person's estate, you should contact their super fund to let them know that the person has died and ask them to release the person's super.\nYou can also check if the deceased had ATO-held super .\n## Death benefit income streams\nA super income stream involves a series of regular payments from a super fund (at least annually), drawn from a retirement account.\n### Death benefit income streams and your transfer balance cap\nThere is a lifetime limit (your transfer balance cap ) on the maximum amount you can transfer into one or more tax-free retirement accounts.\nSpecial rules apply to death benefit income streams.\nIf you're receiving a death benefit income stream – either by itself or in combination with another super income stream – you need to ensure you don't exceed your personal transfer balance cap.\nDeath benefits can be rolled into another fund. However, the new fund must start a death benefit income stream or pay the amount out of super as a lump sum (or a combination of these). The death benefit cannot be retained in accumulation phase. Death benefits that are rolled over will not lose their death benefit tax treatment.\n### Credits to your transfer balance account\nIf you start to receive a death benefit income stream, a credit arises in your transfer balance account . The amount and timing of the credit depends on when you started receiving the death benefit income stream, and whether it's reversionary or non-reversionary .\n#### Reversionary death benefit income streams\nIf you're a beneficiary of a reversionary death benefit income stream, you automatically become entitled to the income stream on the death of the original member. The date of death of the original member is when the income stream first becomes payable to you.\n##### Before 1 July 2017\nIf you were entitled to a reversionary death benefit income stream before 1 July 2017, the credit in your transfer balance account arises on 1 July 2017 or 12 months after the death of the original member – whichever is the later. This means:\n- if the member died before 1 July 2016 , the credit in your transfer balance account arises on 1 July 2017\n- if the member died between 1 July 2016 and 30 June 2017 , the credit in your transfer balance account arises 12 months after the date of the member’s death.\n##### On or after 1 July 2017\nIf you become entitled to a reversionary death benefit income stream on or after 1 July 2017, the credit in your transfer balance account arises 12 months after the date of the member’s death. The amount of the credit is equal to the value of the income stream at the date of the member’s death.\n#### Non-reversionary death benefit income streams\nIf you're a beneficiary of a non-reversionary death benefit income stream, you're not automatically entitled to the income stream on the death of the original member. You become entitled when you start being paid the death benefit income stream.\nThe value of non-reversionary death benefit income streams may also include any:\n- investment earnings that accrued to the deceased member's interest between the date of death and the date you become entitled to the income stream\n- other amounts the super fund has decided to pay as a death benefit income stream.\n#### Before 1 July 2017\nIf you're entitled to a non-reversionary death benefit income stream before 1 July 2017, the credit in your transfer balance account arises on 1 July 2017. The amount of the credit is equal to the value of your income stream at the end of 30 June 2017.\n#### On or after 1 July 2017\nIf you become entitled to a non-reversionary death benefit income stream on or after 1 July 2017, the credit arises on the day you become entitled to the income stream. The amount of the credit is the value of the income stream on that day.\n##### Example: reversionary pension\nOn 15 April 2018, Ivan dies and his super income stream reverts automatically to Sasha.\nThe value of the super death benefit at this time is $1.1 million. Sasha’s transfer balance account will be credited with $1.1 million on 15 April 2019. This is 12 months from the day that the reversionary death benefit income stream first became payable.\nSasha chooses to partially commute her own super income stream and transfers $700,000 to her accumulation account on 15 April 2019. This ensures her transfer balance account does not go above her personal transfer balance cap of $1.6 million.\nAlternatively, Sasha could partially commute the reversionary death benefit income stream, but she would have to pay the commuted amount as a lump sum out of the super system because the death benefit can't be retained in accumulation phase.\n##### Example: non-reversionary pension only\nNathaniel commences a non-reversionary super income stream worth $1.4 million on 1 October 2017. Nathaniel dies on 1 January 2018. At the time of his death, the value of his super income stream is $1.3 million. Nathaniel has no other super interests.\nMalena is Nathaniel's spouse and only beneficiary and is entitled to all of his remaining super interest. During the period between Nathaniel's death and when the death benefit income stream starts being paid to Malena, investment earnings of $1,000 accrues.\nThe value of the death benefit income stream, when it commences on 15 June 2018, is $1,301,000.\nOn 15 June 2018, Malena starts to have a transfer balance account. A transfer balance credit of $1,301,000 arises for the death benefit income stream.\nMalena can start another super income stream, valued up to $299,000 without exceeding her personal transfer balance cap of $1.6 million.\n### Defined benefit income streams\nSome defined benefit income streams are treated differently for transfer balance cap purposes. This includes death benefit income streams that are also defined benefit income streams. They have a special value for transfer balance cap purposes.\nThe rules of your fund may specify that your death benefit income stream reduces if your circumstances change. For example:\n- when a reversionary defined benefit pension is paid to a surviving spouse or a beneficiary – in some cases, the first payment is the full amount of the payment that was made to the deceased, whereas the second and all subsequent payments are a proportion of the full entitlement. As a result, the annualised payment is based on an inflated figure.\n- when a reversionary defined benefit pension paid to a surviving spouse is calculated by reference to the deceased’s dependent children, and the surviving spouse’s entitlement is reduced as the children cease being dependent (generally at 18 or 25 years depending on their circumstances).\nThese reductions occur mainly with public sector superannuation schemes.\nYou may be entitled to a debit in your transfer balance account if your death benefit income stream reduces because of a change in your circumstances. You will need to contact your fund to know if this debit will apply to you.\nThe value of the debit is the special value of your lifetime pension or annuity just before the reduction in value less the special value of your lifetime pension or annuity just after the reduction in value.\n#### Example: defined benefit lifetime pension reduced due to change in circumstances (1)\nJorge is 54 and his wife Anna was a retired public servant who was receiving a lifetime pension. On 9 August 2019, Anna passes away and Jorge begins receiving a reversionary defined benefit pension.\nIn line with the rules of the fund:\n- the first payment to Jorge will equal the amount paid to Anna\n- subsequent payments are reduced to three-quarters of the first payment\n- the same pension is payable to Jorge and it is merely the amount of the periodic payments that has changed.\nThe special value of the pension just before the reduction is $1.6 million.\nThe special value of the pension just after the reduction is $1.2 million.\nThe value of the debit equals $400,000 (i.e. $1.6 million less $1.2 million).\nJorge will get a credit in his transfer balance account of $1.6 million because he starts to receive a retirement phase income stream. As the pension is a reversionary income stream, the credit will not arise in his transfer balance account until 9 August 2020 (see Reversionary income streams ).\nThe debit arises in Jorge’s transfer balance account on 6 September 2019, after which the balance of his transfer balance account will be –$400,000.\nOn 9 August 2020, the credit from the reversionary income stream is applied and the balance of Jorge’s transfer balance account will be $1.2 million.\nDate | Transaction | Debit | Credit | Transfer balance\n6 September 2019 | Transfer balance account commences | $400,000 | $0 | -$400,000\n9 August 2020 | Reversionary Income Stream | $0 | $1,600,000 | $1,200,000\n#### Example: capped defined benefit pension reduced due to change in circumstances (2)\nRachel started to receive a reversionary income stream on 2 February 2019 on the death of her spouse. The credit in her transfer balance account arising from the special value of this pension was $1,000,000.\nRachel has a dependent child, Sebastian. Under the rules of her fund:\n- the pension paid to Rachel will reduce when Sebastian turns 18 on 4 March 2020\n- the same pension is payable to the reversionary beneficiary and it's merely the amount of the periodic payments that has changed.\nRachel does not check her transfer balance account and starts her own account-based pension valued at $620,000 when she retires on 1 January 2020.\nRachel's personal transfer balance cap is $1.6 million.\nRachel forgot that her reversionary income stream would be credited to her transfer balance account on 2 February 2020. On 4 February 2020, Rachel received an excess transfer balance determination informing her she has an excess transfer balance of $20,200 (the $20,000 in excess of her personal transfer balance cap + $200 in excess transfer balance earnings, which is credited to her transfer balance account).\nRachel is required to commute the excess and earnings before 4 May 2020.\nOn 4 March 2020, Sebastian turned 18 and the fund reports a debit of $258,000 for Rachel. This means Rachel will get a debit in her transfer balance account of $258,000 on 4 March 2020.\nAs Rachel’s pension was indexed on 1 July 2019, the special value of the income stream just before the reduction was $1,008,000. The special value of the pension after the reduction will be $750,000. Her fund has calculated the debit as the difference between the special value based on the earlier annual entitlement and the special value based on the later annual entitlement (that is, $1,008,000 – $750,000 = $258,000).\nOn 10 March 2020, Rachel receives an excess transfer balance tax notice of assessment showing tax on her excess transfer balance earnings and that the debit of $258,000 has been applied to her transfer balance account. Rachel will be required to pay the excess transfer balance tax.\nThe debit arising from the reduction in value of the reversionary income stream on 4 March 2020 reduces the balance of her transfer balance account to $1,362,200 ($1,000,000 + $620,000 + $200 – $258,000), which is below her personal transfer balance cap.\nRachel:\n- needs to pay excess transfer balance tax on the excess transfer balance earnings that have accrued between 2 February 2020 and 4 March 2020\n- is not entitled to any indexation of her personal transfer balance cap.\n### Child recipients of a death benefit income stream\n#### How the transfer balance cap applies to child recipients\nThe transfer balance cap applies in a modified way to child recipients of death benefit income streams.\nA person is a child recipient of a death benefit income stream if they're receiving a death benefit income stream and are either:\n- under 18 years old\n- between 18 and 25 years old and were financially dependent on the deceased\n- living with a permanent disability.\nEach child recipient of a death benefit income stream from a deceased parent has a modified personal transfer balance cap .\nThe modified personal transfer balance cap depends on the deceased parent’s super interests and is made up of the total amount of ‘cap increments’ a child recipient is entitled to.\nChild recipients are entitled to retain a super income stream (or streams) up to the amount of the cap increment (or increments) without exceeding their modified personal transfer balance cap.\nThe normal transfer balance rules apply if a child exceeds their modified personal transfer balance cap.\n#### When the modified transfer balance cap arrangements cease\nUnless the child recipient has a permanent disability, on turning 25 years old they are required to cash out all death benefit income streams and withdraw the capital from the super system. At this time, the modified transfer balance cap arrangements cease (unless the capital has already been exhausted).\nChild recipients with a permanent disability are not subject to the cashing out rule. The modified transfer balance cap arrangements cease when all of the funds that support their death benefit income stream have been exhausted. An exception is if they also have other super income streams, such as a disability pension or an income stream funded by a structured settlement contribution.\nIf the child recipient subsequently starts receiving a super income stream (other than as a child recipient) they will start a new transfer balance account with a personal transfer balance cap based on the general transfer balance cap.\n#### Recipient of another super income stream\nIf the child recipient also receives their own super income stream or another death benefit income stream (for example, from an interdependency relationship), their personal transfer balance cap is worked out differently. In this case, the cap is the sum of:\n- the recipient's personal transfer balance cap, worked out according to the general rules\n- their modified personal transfer balance cap based on the total amount of cap increments they're entitled to as a child recipient.\nThe death benefit income streams and related modified personal transfer balance cap are disregarded when calculating if the individual is entitled to proportional indexation of their personal transfer balance cap. The proportional indexation of their personal transfer balance cap is worked out according to the general rules.\nFor child recipients also receiving their own super income stream, their transfer balance account continues after the child recipient death benefit income stream has been cashed out or exhausted.\n#### How do the cap increments work?\nChild recipients who are only receiving death benefit income streams don't have a personal transfer balance cap based on the general transfer balance cap. Instead, their modified personal transfer balance cap generally takes into account the value of the deceased parent’s retirement phase interests they receive. This is achieved through a series of transfer balance cap increments that accrue to the child recipient.\nThe cap increments depend on whether the child recipient starts receiving the death benefit income stream:\n- before 1 July 2017\n- on or after 1 July 2017.\n##### Started receiving income stream before 1 July 2017\nThe cap increment for child recipients receiving death benefit income streams before 1 July 2017 is equal to the general transfer balance cap at the time, $1.6 million.\nThe cap increment arises on 1 July 2017 and means the child recipient can be receiving death benefit income streams of up to $1.6 million without exceeding their modified personal transfer balance cap.\n##### Started receiving income stream on or after 1 July 2017\nFor child recipients who start to receive a death benefit income stream on or after 1 July 2017, the cap increment depends on the following circumstances:\n- whether the deceased parent had a transfer balance account before they died\n- if the deceased parent had a transfer balance account, the source of their super interest that the child recipient's income stream comes from\n- whether the deceased parent had a transfer balance account and also an excess transfer balance in the retirement phase just before they died.\nA cap increment arises for each death benefit income stream received from a parent. If the child recipient starts to receive death benefit income streams because both their parents died, the modified personal transfer balance cap is the total of the cap increments worked out for each parent.\nEach cap increment arises when the child recipient starts to be entitled to the death benefit income stream. However, in the case of a reversionary death benefit income stream, the cap increment is deferred for 12 months to align with the modifications for this type of death benefit income stream.\n##### Deceased parent had no transfer balance account\nIf the parent did not have a transfer balance account at the time of their death (for example, they died before they were in retirement phase), the child recipient will receive the death benefit income stream from the parent's accumulation phase interest.\nIn this case, if the child recipient is the sole beneficiary of the super interest, their cap increment is equal to the general transfer balance cap at that time. If the child recipient is not the sole beneficiary of the super interest, their cap increment is a proportion of the general transfer balance cap at that time, reflecting their share of the parent’s super interests.\n##### Deceased parent had a transfer balance account\nIf the deceased parent had a transfer balance account before they died, the child recipient's cap increment depends on the type of super interest their death benefit income stream comes from. This is because only death benefit income streams that come from a retirement phase interest of a deceased parent are entitled to a cap increment.\nGenerally, an amount is considered to be sourced from the deceased parent’s retirement phase interest if the amount came from super interests supporting income streams payable to them just before their death. This amount includes earnings accrued on those income streams after the parent’s death, up until a death benefit income stream is paid.\nIf the deceased parent only had a retirement phase interest, the child recipient's cap increment is equal to the share of the deceased parent’s interest they're receiving as a death benefit income stream. However, if the deceased parent had a transfer balance account, but the child recipient's death benefit income stream comes from the parent's accumulation interest, the cap increment is nil.\nIf the child recipient's death benefit income stream is partially funded by a retirement phase interest and partially from an accumulation interest, the cap increment is limited to their share of the retirement phase interest. The benefit received from the deceased parent’s accumulation interest has a cap increment of nil. This means the child recipient will have an excess transfer balance (unless they also have a cap increment because of the death of another parent or unless they also have a personal transfer balance cap because they have another non-death benefit income stream).\n##### Deceased parent had an excess transfer balance\nThe child recipient's cap increment is reduced if the deceased parent had a transfer balance account that exceeded their personal cap just before they died. In this situation, the child recipient's cap increment is reduced by their share of the parent’s excess amount.\n###### Example: child benefit with no existing transfer balance account\nRaaf is 16 years old when his father dies in 2018. His father had not retired and had an accumulation account of $2 million when he died.\nRaaf’s father did not have a transfer balance account. He is the only beneficiary of his father’s super interest.\nRaaf is entitled to a personal transfer balance cap increment equal to the general transfer balance cap, as there are no other beneficiaries. As the general transfer balance cap at the time was $1.6 million, Raaf can receive $1.6 million of the $2 million as a death benefit income stream without exceeding his modified personal transfer balance cap. The remaining $400,000 would need to be paid to him as a death benefit lump sum and removed from the super system.\nRaaf starts a $1.6 million death benefit income stream and a credit arises in his transfer balance account for the same amount at that time.\nRaaf will have to cash any remaining balance of the death benefit income stream out of the super system when he turns 25. The modified transfer balance cap arrangements will cease at that time and he will be entitled to a new transfer balance account and personal transfer balance cap when he commences his own super income stream in the future.\n###### Example: multiple beneficiaries where transfer balance account exists\nJemima and her sister Willow were 16 and 17 years old respectively when their mother died in January 2018. They are equal beneficiaries of their mother’s super interest. Their mother had a retirement phase interest of $1.4 million just before she died.\nIn March 2018, the trustee of their mother’s super fund decides to pay each child a non-reversionary death benefit income stream of $700,000. Both Jemima and Willow are entitled to a personal transfer balance cap increment equal to their share of their deceased mother’s retirement phase interest ($700,000, that is 50% of $1.4 million).\nIn March 2018, a credit of $700,000 arises in each of the sisters’ transfer balance accounts. They each receive a personal transfer balance cap increment of $700,000; therefore neither has an excess transfer balance.\nShortly after their mother’s death, their father also dies. Their father had not retired and he had accumulation accounts of $2 million, of which the sisters were equal beneficiaries.\nAs their father did not have a transfer balance account before his death, his beneficiaries are entitled to their share of the general transfer balance cap (corresponding to their share of his super interest). As the general transfer balance cap at the time was $1.6 million, each sister will receive a personal transfer balance cap increment of $800,000 (50% of the general transfer balance cap). Each sister will now have a modified personal transfer balance cap of $1.5 million ($700,000 plus $800,000).\nEach sister starts a new death benefit income stream (worth $800,000) from their father’s accumulation interest. The remaining $400,000 accumulation interest must be cashed out of the super system and provided equally to each of the sisters as death benefit lump sums.\n###### Example: structured settlement recipient\nOn 1 September 2017, Barbara, who has a permanent disability, contributes $5 million she received from a structured settlement into her super and starts a super income stream worth $5 million.\nOn that day Barbara starts to have a transfer balance account, with a personal transfer balance cap of $1.6 million. Her transfer balance account is debited by $5 million for the new super income stream and is credited by $5 million for the structured settlement contribution. At the end of 1 September 2017, her transfer balance is nil and she has $1.6 million of available personal cap space.\nOn 1 January 2018, Barbara’s father, Jim, dies. Jim had a $1.6 million non-reversionary income stream. Barbara, Jim’s sole beneficiary, was paid a new $1.6 million death benefit income stream from Jim’s retirement phase interest.\nOn 1 January 2018, Barbara’s personal transfer balance cap is increased to $3.2 million (her $1.6 million personal transfer balance cap plus the $1.6 million cap increment from her new death benefit income stream). A credit of $1.6 million arises in her transfer balance account on the same day. Barbara’s transfer balance is now $1.6 million, while her available personal cap space is still $1.6 million.\nFor the purposes of proportional indexation, Barbara’s highest transfer balance is nil (as her credit of $1.6 million for the death benefit income stream is disregarded). Assuming no further changes, she will be entitled to 100% of any future indexation of the general transfer balance cap.",
+  "child_links": [],
+  "word_count": 4672,
+  "source_title": "Superannuation death benefits | Australian Taxation Office",
+  "source_description": "What you need to know about receiving a superannuation death benefit after someone has died.",
+  "category": "super-for-individuals-and-families"
+}

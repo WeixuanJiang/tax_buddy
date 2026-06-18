@@ -1,0 +1,165 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/financial-difficulties-and-disasters/natural-disaster-support/recovery-following-natural-disasters/trading-stock-damaged-or-destroyed-by-a-natural-disaster",
+  "title": "Trading stock damaged or destroyed by a natural disaster",
+  "description": "What your tax obligations are when your trading stock has been damaged or destroyed by a natural disaster.",
+  "nat_number": "",
+  "quick_code": "72809",
+  "date_updated": "2026-04-08T14:00:00Z",
+  "first_published": "",
+  "keywords": "trading stock, natural disaster, disaster, stock",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Accounting for lost or damaged trading stock"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the value of your trading stock varied by more than $5,000 during the income year, you must do an end-of-year stocktake and record the value of all trading stock you have on hand."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have trading stock that was lost or damaged due to a disaster, the loss or reduction in value will either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "reduce the amount that would otherwise be included in your assessable income at the end of the income year",
+        "increase the amount of the deduction you would otherwise be entitled to at the end of the income year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also claim a deduction for the cost of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "disposing of trading stock that was damaged or destroyed",
+        "moving trading stock to ensure it’s not damaged in a disaster."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see the general trading stock rules ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Receiving an insurance payout"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you receive an insurance payout for lost or damaged trading stock, you must include this amount in your tax return as assessable income. You can claim a deduction for expenses incurred relating to the insurance payout for your destroyed trading stock."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're registered for GST you don't have to pay GST on an insurance settlement if you tell your insurer about your entitlement to GST credits, before you make the claim. Otherwise you may have to pay GST."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be entitled to a deduction if the value of your trading stock at the end of the year is less than what it was at the beginning of the year."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also claim a deduction for stock you purchase to replace lost or damaged trading stock."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example 1: trading stock is uninsured"
+    },
+    {
+      "type": "paragraph",
+      "text": "Healthy Pets Co runs a business of selling pet food and is registered for GST."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 1 March 2022, the business lost $100,000 of trading stock as a result of a natural disaster. Healthy Pets Co was not insured and purchased $100,000 of replacement stock (GST exclusive) on 1 June 2022. Healthy Pets Co sold $70,000 of the stock during June 2022 (excluding GST) and had a closing stock balance of $30,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the end of the financial year, Healthy Pets Co accounts for its trading stock to work out whether it needs to include an amount in its assessable income or if it is entitled to a deduction. The values accounted for are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "opening stock: $100,000",
+        "value of stock sold: $70,000",
+        "closing stock: $30,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In its tax return, Healthy Pets Co:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "is entitled to a deduction for $70,000, as the value of its trading stock at the end of the year is less than what it was at the beginning of the year",
+        "can claim a deduction of $100,000 for the cost of the replacement trading stock",
+        "doesn't need to include any amount in its assessable income as a result of the loss."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example 2: trading stock is insured"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sally runs a small retail store. She is not registered or required to be registered for GST."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 1 March 2022, her business lost $10,000 in trading stock because of a natural disaster. Sally was insured and received a $10,000 insurance payout on 1 June 2022 to cover the lost trading stock. On 15 June, she purchased $10,000 worth of stock to replace the lost trading stock. Sally is unable to claim a GST credit as she is not registered or required to be registered for GST."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the end of the year, Sally accounts for her trading stock to work out whether she needs to include an amount in her assessable income or if she is entitled to a deduction. The values accounted for are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "opening stock: $20,000",
+        "stock lost as a result of the natural disaster: $10,000",
+        "value of stock sold: $5,000",
+        "stock purchased to replace stock lost in natural disaster: $10,000",
+        "closing stock: $15,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In her tax return, Sally:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "is entitled to a deduction for $5,000 as the value of her trading stock at the end of the year is less than what it was at the beginning of the year",
+        "can claim a deduction of $10,000 for the cost of the trading stock purchased to replace that lost in the natural disaster",
+        "includes the $10,000 insurance payout she received in her assessable income."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Primary producers"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a primary producer and lose livestock or trees from a disaster, there are special rules that apply to your situation. For more information, see Abnormal primary production income ."
+    }
+  ],
+  "content_text": "## Accounting for lost or damaged trading stock\nIf the value of your trading stock varied by more than $5,000 during the income year, you must do an end-of-year stocktake and record the value of all trading stock you have on hand.\nIf you have trading stock that was lost or damaged due to a disaster, the loss or reduction in value will either:\n- reduce the amount that would otherwise be included in your assessable income at the end of the income year\n- increase the amount of the deduction you would otherwise be entitled to at the end of the income year.\nYou can also claim a deduction for the cost of:\n- disposing of trading stock that was damaged or destroyed\n- moving trading stock to ensure it’s not damaged in a disaster.\nFor more information, see the general trading stock rules .\n## Receiving an insurance payout\nIf you receive an insurance payout for lost or damaged trading stock, you must include this amount in your tax return as assessable income. You can claim a deduction for expenses incurred relating to the insurance payout for your destroyed trading stock.\nIf you're registered for GST you don't have to pay GST on an insurance settlement if you tell your insurer about your entitlement to GST credits, before you make the claim. Otherwise you may have to pay GST.\nYou may be entitled to a deduction if the value of your trading stock at the end of the year is less than what it was at the beginning of the year.\nYou can also claim a deduction for stock you purchase to replace lost or damaged trading stock.\n### Example 1: trading stock is uninsured\nHealthy Pets Co runs a business of selling pet food and is registered for GST.\nOn 1 March 2022, the business lost $100,000 of trading stock as a result of a natural disaster. Healthy Pets Co was not insured and purchased $100,000 of replacement stock (GST exclusive) on 1 June 2022. Healthy Pets Co sold $70,000 of the stock during June 2022 (excluding GST) and had a closing stock balance of $30,000.\nAt the end of the financial year, Healthy Pets Co accounts for its trading stock to work out whether it needs to include an amount in its assessable income or if it is entitled to a deduction. The values accounted for are:\n- opening stock: $100,000\n- value of stock sold: $70,000\n- closing stock: $30,000.\nIn its tax return, Healthy Pets Co:\n- is entitled to a deduction for $70,000, as the value of its trading stock at the end of the year is less than what it was at the beginning of the year\n- can claim a deduction of $100,000 for the cost of the replacement trading stock\n- doesn't need to include any amount in its assessable income as a result of the loss.\n### Example 2: trading stock is insured\nSally runs a small retail store. She is not registered or required to be registered for GST.\nOn 1 March 2022, her business lost $10,000 in trading stock because of a natural disaster. Sally was insured and received a $10,000 insurance payout on 1 June 2022 to cover the lost trading stock. On 15 June, she purchased $10,000 worth of stock to replace the lost trading stock. Sally is unable to claim a GST credit as she is not registered or required to be registered for GST.\nAt the end of the year, Sally accounts for her trading stock to work out whether she needs to include an amount in her assessable income or if she is entitled to a deduction. The values accounted for are:\n- opening stock: $20,000\n- stock lost as a result of the natural disaster: $10,000\n- value of stock sold: $5,000\n- stock purchased to replace stock lost in natural disaster: $10,000\n- closing stock: $15,000.\nIn her tax return, Sally:\n- is entitled to a deduction for $5,000 as the value of her trading stock at the end of the year is less than what it was at the beginning of the year\n- can claim a deduction of $10,000 for the cost of the trading stock purchased to replace that lost in the natural disaster\n- includes the $10,000 insurance payout she received in her assessable income.\n## Primary producers\nIf you are a primary producer and lose livestock or trees from a disaster, there are special rules that apply to your situation. For more information, see Abnormal primary production income .",
+  "child_links": [],
+  "word_count": 764,
+  "source_title": "",
+  "source_description": "",
+  "category": "financial-difficulties-and-disasters"
+}

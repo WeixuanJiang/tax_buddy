@@ -1,0 +1,282 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/super/withdrawing-and-using-your-super/retirement-withdrawal-lump-sum-or-income-stream/calculating-your-personal-transfer-balance-cap",
+  "title": "Calculating your personal transfer balance cap",
+  "description": "How your personal transfer balance cap is calculated.",
+  "nat_number": "",
+  "quick_code": "60627",
+  "date_updated": "2026-03-30T13:00:00Z",
+  "first_published": "",
+  "keywords": "Transfer balance, cap, TBC, super indexation, income stream, defined benefit",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Your personal transfer balance cap"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your transfer balance cap is a lifetime limit on the amount you can transfer into one or more retirement phase accounts. The earnings on an account in retirement phase are tax free."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you start a retirement phase income stream for the first time , you will have a personal transfer balance cap equal to the general transfer balance cap at that time."
+    },
+    {
+      "type": "paragraph",
+      "text": "The general transfer balance cap is increased (indexed) in line with the consumer price index in $100,000 increments."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "View your transfer balance cap"
+    },
+    {
+      "type": "paragraph",
+      "text": "In ATO online services you can view your personal transfer balance cap and your transfer balance account (including any excess over your cap), which records all the debits and credits that make up your balance. Follow these steps:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Sign in to myGov External Link .",
+        "Select Australian Taxation Office .",
+        "Select Super , then Information , then Transfer balance cap ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Indexation of your personal transfer balance cap"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have never used the full amount of your personal transfer balance cap, when the general transfer balance cap is indexed, your personal transfer balance cap will be indexed based on the highest ever balance of your transfer balance account."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your highest ever balance in your transfer balance account equals or exceeds your personal transfer balance cap, you will not be eligible for indexation."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this situation, the ATO uses information reported by your funds to calculate your personal transfer balance cap by:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "identifying the highest ever balance in your transfer balance account",
+        "using that to work out the unused cap percentage of your transfer balance account",
+        "multiplying your unused cap percentage by the general transfer balance cap index increase."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can calculate your unused cap percentage by:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "dividing the highest ever balance of your transfer balance account by your transfer balance cap on the first day you had that balance",
+        "expressing that as a percentage, rounded down to the nearest whole number",
+        "subtracting that percentage figure from 100 (to give you the unused cap percentage)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This is shown in the following examples."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: highest balance equalled transfer balance cap before 1 July 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maryanne started a pension in her self-managed super fund (SMSF) valued at $2 million on 1 December 2025. On 1 July 2026, she commuted $400,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "The balance of her transfer balance account just before indexation started on 1 July 2026 was $1.6 million. Maryanne wasn’t entitled to indexation as her highest ever balance was equal to her personal transfer balance cap and her personal transfer balance cap remained at $2 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "She will have cap space available to start a new retirement phase income stream to the value of $400,000."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: transfer balance account reduced to zero before indexation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Simon started a pension valued at $2 million on 1 July 2025 and has other assets in super. He commutes his pension in full on 30 June 2026 and gets a debit of $2 million in his transfer balance account on that day. The balance of Simon's transfer balance account at the end of the day on 30 June 2026 is nil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Simon plans to start a new pension valued at $2.1 million on 1 July 2026 to take advantage of the increased general transfer balance cap."
+    },
+    {
+      "type": "paragraph",
+      "text": "Simon isn't entitled to proportional indexation of his personal transfer balance cap as his highest ever balance before indexation was equal to his personal transfer balance cap. His personal transfer balance cap remains at $2 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "If Simon starts a new pension valued at $2.1 million, he will have an excess transfer balance that he would need to commute. He would also have to pay excess transfer balance tax."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: highest balance of more than $2 million – not entitled to proportional indexation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shazhad, a retired public servant, started a lifetime defined benefit pension on 4 April 2026, when he was over 60 years old. The pension is a capped defined benefit income stream for the purposes of the transfer balance cap. The special value of the pension (which is the annual entitlement multiplied by 16) for transfer balance account purposes is $2.2 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "As Shazhad's capped defined benefit income stream is his only retirement phase income stream, he only has credits in his transfer balance account from this income stream. He hasn't had an excess transfer balance as a capped defined benefit income stream won't give rise to an excess transfer balance by itself."
+    },
+    {
+      "type": "paragraph",
+      "text": "He also hasn't had to commute the excess transfer balance, plus excess transfer balance earnings, or pay excess transfer balance tax. However, Shazhad may have to pay additional income tax if this capped defined benefit income stream exceeds a separate defined benefit income cap ."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the highest balance of Shazhad's transfer balance account before indexation was more than his personal transfer balance cap, he won't be entitled to proportional indexation."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: highest ever balance below $1.6 million before indexation with credits"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nina started a retirement phase income stream with a value of $1.2 million on 1 October 2018 and her cap was $1.6 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "The general transfer balance cap was indexed by $100,000 to $1.7 million from 1 July 2021. There were no more events in Nina’s transfer balance account before indexation. The highest ever balance in her transfer balance account is $1.2 million. Nina’s unused cap percentage is 25% of $1.6 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nina’s personal transfer balance cap was indexed by 25% of $100,000 (increment amount) when indexation started on 1 July 2021, increasing her personal transfer balance cap to $1.625 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "The general transfer balance cap was indexed by $200,000 to $1.9 million from 1 July 2023. Nina's personal transfer balance cap is increased to $1,675,000 (25% of the $200,000 increase to the general transfer balance cap)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nina started a $400,000 retirement phase income stream on 1 October 2023. This increased the balance of her transfer balance account to $1.6 million. This is a credit event in Nina's transfer balance account before indexation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nina's highest ever transfer balance is $1.6 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nina's new unused cap percentage is calculated as follows:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "0.95522 being $1.6 million (highest ever balance of her transfer balance account) divided by $1.675 million (transfer balance cap on the first day she had that balance)",
+        "95% expressed as a percentage, rounded down to the nearest whole number",
+        "subtract 95 from 100 = 5%."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The general transfer balance cap was indexed by $100,000 to $2 million from 1 July 2025. Nina's personal transfer balance cap is indexed by 5% of $100,000 on 1 July 2025, increasing it by $5,000 to $1.68 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are no more events in Nina’s transfer balance account before indexation on 1 July 2026. The highest ever balance in her transfer balance account remains at $1.6 million. Nina's personal transfer balance cap will be indexed by 5% of $100,000 on 1 July 2026, increasing it by $5,000 to $1,685,000."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: highest ever balance below $2 million before indexation with debits"
+    },
+    {
+      "type": "paragraph",
+      "text": "Leanne started a $1 million retirement phase income stream on 1 October 2025, and her cap was $2 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 13 May 2026, Leanne commuted $200,000 from her pension. Her transfer balance account was debited by $200,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although the balance of Leanne's transfer balance account when indexation started on 1 July 2026 was $800,000, the highest ever balance of her transfer balance account was $1 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "Leanne’s personal transfer balance cap is indexed by 50% of $100,000 (the increment) on 1 July 2026, increasing it to $2.05 million."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: transfer balance account started after indexation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nada started a retirement phase income stream, with a value of $490,000, on 14 May 2024 and her cap was $1.9 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are no more recent events in her transfer balance account. Nada’s personal transfer balance cap on 14 May 2024 was $1.9 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nada’s unused cap percentage is calculated as follows:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "0.25789 being $490,000 (highest ever balance of her transfer balance account) divided by $1.9 million (transfer balance cap on the first day she had that balance)",
+        "25% expressed as a percentage, rounded down to the nearest whole number",
+        "subtract 25 from 100 = 75%."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Nada's personal transfer balance cap is indexed by 75% of $100,000 (the increment) on 1 July 2025, increasing it to $1.975 million, when the general transfer balance was indexed to $2 million."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: Starting another retirement phase income stream"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nada then started another retirement phase income stream, with a value of $510,000 on 10 October 2025 and her cap was $1.975 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nada’s unused cap percentage is calculated as follows:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "0.50632 being $1,000,000 (highest ever balance of her transfer balance account) divided by $1.975 million (transfer balance cap on the first day she had that balance)",
+        "50% expressed as a percentage, rounded down to the nearest whole number",
+        "subtract 50 from 100 = 50%."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Nada's personal transfer balance cap will be indexed by 50% of $100,000 (the increment) on 1 July 2026, increasing it to $2.025 million, when the general transfer balance is indexed to $2.1 million."
+    }
+  ],
+  "content_text": "## Your personal transfer balance cap\nYour transfer balance cap is a lifetime limit on the amount you can transfer into one or more retirement phase accounts. The earnings on an account in retirement phase are tax free.\nWhen you start a retirement phase income stream for the first time , you will have a personal transfer balance cap equal to the general transfer balance cap at that time.\nThe general transfer balance cap is increased (indexed) in line with the consumer price index in $100,000 increments.\n### View your transfer balance cap\nIn ATO online services you can view your personal transfer balance cap and your transfer balance account (including any excess over your cap), which records all the debits and credits that make up your balance. Follow these steps:\n- Sign in to myGov External Link .\n- Select Australian Taxation Office .\n- Select Super , then Information , then Transfer balance cap .\n## Indexation of your personal transfer balance cap\nIf you have never used the full amount of your personal transfer balance cap, when the general transfer balance cap is indexed, your personal transfer balance cap will be indexed based on the highest ever balance of your transfer balance account.\nIf your highest ever balance in your transfer balance account equals or exceeds your personal transfer balance cap, you will not be eligible for indexation.\nIn this situation, the ATO uses information reported by your funds to calculate your personal transfer balance cap by:\n- identifying the highest ever balance in your transfer balance account\n- using that to work out the unused cap percentage of your transfer balance account\n- multiplying your unused cap percentage by the general transfer balance cap index increase.\nYou can calculate your unused cap percentage by:\n- dividing the highest ever balance of your transfer balance account by your transfer balance cap on the first day you had that balance\n- expressing that as a percentage, rounded down to the nearest whole number\n- subtracting that percentage figure from 100 (to give you the unused cap percentage).\nThis is shown in the following examples.\n### Example: highest balance equalled transfer balance cap before 1 July 2026\nMaryanne started a pension in her self-managed super fund (SMSF) valued at $2 million on 1 December 2025. On 1 July 2026, she commuted $400,000.\nThe balance of her transfer balance account just before indexation started on 1 July 2026 was $1.6 million. Maryanne wasn’t entitled to indexation as her highest ever balance was equal to her personal transfer balance cap and her personal transfer balance cap remained at $2 million.\nShe will have cap space available to start a new retirement phase income stream to the value of $400,000.\n### Example: transfer balance account reduced to zero before indexation\nSimon started a pension valued at $2 million on 1 July 2025 and has other assets in super. He commutes his pension in full on 30 June 2026 and gets a debit of $2 million in his transfer balance account on that day. The balance of Simon's transfer balance account at the end of the day on 30 June 2026 is nil.\nSimon plans to start a new pension valued at $2.1 million on 1 July 2026 to take advantage of the increased general transfer balance cap.\nSimon isn't entitled to proportional indexation of his personal transfer balance cap as his highest ever balance before indexation was equal to his personal transfer balance cap. His personal transfer balance cap remains at $2 million.\nIf Simon starts a new pension valued at $2.1 million, he will have an excess transfer balance that he would need to commute. He would also have to pay excess transfer balance tax.\n### Example: highest balance of more than $2 million – not entitled to proportional indexation\nShazhad, a retired public servant, started a lifetime defined benefit pension on 4 April 2026, when he was over 60 years old. The pension is a capped defined benefit income stream for the purposes of the transfer balance cap. The special value of the pension (which is the annual entitlement multiplied by 16) for transfer balance account purposes is $2.2 million.\nAs Shazhad's capped defined benefit income stream is his only retirement phase income stream, he only has credits in his transfer balance account from this income stream. He hasn't had an excess transfer balance as a capped defined benefit income stream won't give rise to an excess transfer balance by itself.\nHe also hasn't had to commute the excess transfer balance, plus excess transfer balance earnings, or pay excess transfer balance tax. However, Shazhad may have to pay additional income tax if this capped defined benefit income stream exceeds a separate defined benefit income cap .\nAs the highest balance of Shazhad's transfer balance account before indexation was more than his personal transfer balance cap, he won't be entitled to proportional indexation.\n### Example: highest ever balance below $1.6 million before indexation with credits\nNina started a retirement phase income stream with a value of $1.2 million on 1 October 2018 and her cap was $1.6 million.\nThe general transfer balance cap was indexed by $100,000 to $1.7 million from 1 July 2021. There were no more events in Nina’s transfer balance account before indexation. The highest ever balance in her transfer balance account is $1.2 million. Nina’s unused cap percentage is 25% of $1.6 million.\nNina’s personal transfer balance cap was indexed by 25% of $100,000 (increment amount) when indexation started on 1 July 2021, increasing her personal transfer balance cap to $1.625 million.\nThe general transfer balance cap was indexed by $200,000 to $1.9 million from 1 July 2023. Nina's personal transfer balance cap is increased to $1,675,000 (25% of the $200,000 increase to the general transfer balance cap).\nNina started a $400,000 retirement phase income stream on 1 October 2023. This increased the balance of her transfer balance account to $1.6 million. This is a credit event in Nina's transfer balance account before indexation.\nNina's highest ever transfer balance is $1.6 million.\nNina's new unused cap percentage is calculated as follows:\n- 0.95522 being $1.6 million (highest ever balance of her transfer balance account) divided by $1.675 million (transfer balance cap on the first day she had that balance)\n- 95% expressed as a percentage, rounded down to the nearest whole number\n- subtract 95 from 100 = 5%.\nThe general transfer balance cap was indexed by $100,000 to $2 million from 1 July 2025. Nina's personal transfer balance cap is indexed by 5% of $100,000 on 1 July 2025, increasing it by $5,000 to $1.68 million.\nThere are no more events in Nina’s transfer balance account before indexation on 1 July 2026. The highest ever balance in her transfer balance account remains at $1.6 million. Nina's personal transfer balance cap will be indexed by 5% of $100,000 on 1 July 2026, increasing it by $5,000 to $1,685,000.\n### Example: highest ever balance below $2 million before indexation with debits\nLeanne started a $1 million retirement phase income stream on 1 October 2025, and her cap was $2 million.\nOn 13 May 2026, Leanne commuted $200,000 from her pension. Her transfer balance account was debited by $200,000.\nAlthough the balance of Leanne's transfer balance account when indexation started on 1 July 2026 was $800,000, the highest ever balance of her transfer balance account was $1 million.\nLeanne’s personal transfer balance cap is indexed by 50% of $100,000 (the increment) on 1 July 2026, increasing it to $2.05 million.\n### Example: transfer balance account started after indexation\nNada started a retirement phase income stream, with a value of $490,000, on 14 May 2024 and her cap was $1.9 million.\nThere are no more recent events in her transfer balance account. Nada’s personal transfer balance cap on 14 May 2024 was $1.9 million.\nNada’s unused cap percentage is calculated as follows:\n- 0.25789 being $490,000 (highest ever balance of her transfer balance account) divided by $1.9 million (transfer balance cap on the first day she had that balance)\n- 25% expressed as a percentage, rounded down to the nearest whole number\n- subtract 25 from 100 = 75%.\nNada's personal transfer balance cap is indexed by 75% of $100,000 (the increment) on 1 July 2025, increasing it to $1.975 million, when the general transfer balance was indexed to $2 million.\n### Example: Starting another retirement phase income stream\nNada then started another retirement phase income stream, with a value of $510,000 on 10 October 2025 and her cap was $1.975 million.\nNada’s unused cap percentage is calculated as follows:\n- 0.50632 being $1,000,000 (highest ever balance of her transfer balance account) divided by $1.975 million (transfer balance cap on the first day she had that balance)\n- 50% expressed as a percentage, rounded down to the nearest whole number\n- subtract 50 from 100 = 50%.\nNada's personal transfer balance cap will be indexed by 50% of $100,000 (the increment) on 1 July 2026, increasing it to $2.025 million, when the general transfer balance is indexed to $2.1 million.",
+  "child_links": [],
+  "word_count": 1520,
+  "source_title": "",
+  "source_description": "",
+  "category": "super-for-individuals-and-families"
+}

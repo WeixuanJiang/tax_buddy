@@ -1,0 +1,286 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/other-mytax-instructions-including-spouse-details-and-income-tests/income-tests/net-financial-investment-loss",
+  "title": "Net financial investment loss",
+  "description": "This section is about the net loss, if any, from any financial investments you owned.",
+  "nat_number": "",
+  "quick_code": "80461",
+  "date_updated": "2024-03-04T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "The loss shown at this section is the amount by which your deductions relating to the following financial investments exceed your income from those investments:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "shares in a company",
+        "an investment in a managed investment scheme , including a forestry managed investment scheme",
+        "rights or options for shares or managed investment schemes",
+        "distributions from a partnership that included income or losses from an investment listed above",
+        "any investment that is of a similar nature to those listed above."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When calculating your net financial investment loss, interest from your everyday transaction accounts is not included."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Managed investment schemes"
+    },
+    {
+      "type": "paragraph",
+      "text": "The investment manager will be able to tell you whether your investment is a managed investment scheme. Managed investment schemes include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "cash management trusts",
+        "property trusts",
+        "Australian equity (share) trusts",
+        "agricultural schemes (which include horticultural, aquaculture and commercial horse breeding schemes)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Investments that are not managed investment schemes include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "regulated superannuation funds",
+        "approved deposit funds",
+        "debentures issued by a body corporate",
+        "franchises",
+        "schemes operated by an Australian bank in the ordinary course of banking business (such as term deposits)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Deductions for an investment include expenses you pay to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "borrow money to purchase an investment",
+        "manage your investments",
+        "obtain advice about changes in the mix of your investments."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "We will calculate the amount of your net financial investment loss for you using the information you provide in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "MyTax will show your net financial investment loss in the Income tests section."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Calculating net financial investment loss"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to know how we work out your net financial investment loss, complete worksheets 1a, 1b and 1c below."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Financial investment income",
+          "Amount"
+        ],
+        [
+          "a",
+          "Dividends from Australian shares - Unfranked amount",
+          "$"
+        ],
+        [
+          "b",
+          "Dividends from Australian shares - Franked amount",
+          "$"
+        ],
+        [
+          "c",
+          "Dividends from Australian shares - Franking credit",
+          "$"
+        ],
+        [
+          "d",
+          "Managed funds - Your share of Total non-primary production income (show a loss as a negative)",
+          "$"
+        ],
+        [
+          "e",
+          "Managed funds - Your share of Total franked distribution",
+          "$"
+        ],
+        [
+          "f",
+          "Managed funds - Your share of Total Australian credits from a NZ franking company",
+          "$"
+        ],
+        [
+          "g",
+          "Trusts - Managed investment scheme amount (show a loss as a negative)",
+          "$"
+        ],
+        [
+          "h",
+          "Trusts - Franked distribution related to investments",
+          "$"
+        ],
+        [
+          "i",
+          "Partnerships - Partnership net financial investment income or loss (show a loss as a negative)",
+          "$"
+        ],
+        [
+          "j",
+          "Business income or losses - Net non-primary production income or loss from a business of investing (show a loss as a negative)",
+          "$"
+        ],
+        [
+          "k",
+          "Loss details - Partnership: Deferred loss amount from carrying on a business of investing",
+          "$"
+        ],
+        [
+          "l",
+          "Loss details - Sole trader: Deferred loss amount from carrying on a business of investing",
+          "$"
+        ],
+        [
+          "m",
+          "Other foreign income from a financial investment - Australian franking credits from a New Zealand franking company",
+          "$"
+        ],
+        [
+          "n",
+          "Other foreign income from a financial investment - Gross income less Deductible expenses (show a loss as a negative)",
+          "$"
+        ],
+        [
+          "o",
+          "Forestry managed investment schemes - Amount",
+          "$"
+        ],
+        [
+          "p",
+          "Any other income - Financial investments not shown elsewhere",
+          "$"
+        ],
+        [
+          "q",
+          "Any other income - Assessable adjustment from low-value pool relating to financial investments",
+          "$"
+        ],
+        [
+          "r",
+          "Add all amounts from rows a to q .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Financial investment deductions",
+          "Amount"
+        ],
+        [
+          "s",
+          "Dividend deductions - Amount",
+          "$"
+        ],
+        [
+          "t",
+          "Low value pool deduction - Low value pool deduction relating to financial investment",
+          "$"
+        ],
+        [
+          "u",
+          "Managed funds - Your share of Total other deductions relating to non-primary production",
+          "$"
+        ],
+        [
+          "v",
+          "Trusts - Managed investment scheme deductions",
+          "$"
+        ],
+        [
+          "w",
+          "Partnerships - Partnership financial investment deductions",
+          "$"
+        ],
+        [
+          "x",
+          "Forestry managed investment scheme deductions - Amount",
+          "$"
+        ],
+        [
+          "y",
+          "Other deductions - Deductions relating to financial investments",
+          "$"
+        ],
+        [
+          "z",
+          "Add all amounts from rows s to y .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "aa",
+          "Row r (from Worksheet 1a )",
+          "$"
+        ],
+        [
+          "bb",
+          "Row z (from Worksheet 1b )",
+          "$"
+        ],
+        [
+          "cc",
+          "Take row bb away from row aa . If the amount is a negative, this amount is your Net financial investment loss . Otherwise the amount will be 0 .",
+          "$"
+        ]
+      ]
+    }
+  ],
+  "content_text": "The loss shown at this section is the amount by which your deductions relating to the following financial investments exceed your income from those investments:\n- shares in a company\n- an investment in a managed investment scheme , including a forestry managed investment scheme\n- rights or options for shares or managed investment schemes\n- distributions from a partnership that included income or losses from an investment listed above\n- any investment that is of a similar nature to those listed above.\nWhen calculating your net financial investment loss, interest from your everyday transaction accounts is not included.\n## Managed investment schemes\nThe investment manager will be able to tell you whether your investment is a managed investment scheme. Managed investment schemes include:\n- cash management trusts\n- property trusts\n- Australian equity (share) trusts\n- agricultural schemes (which include horticultural, aquaculture and commercial horse breeding schemes).\nInvestments that are not managed investment schemes include:\n- regulated superannuation funds\n- approved deposit funds\n- debentures issued by a body corporate\n- franchises\n- schemes operated by an Australian bank in the ordinary course of banking business (such as term deposits).\n## Deductions\nDeductions for an investment include expenses you pay to:\n- borrow money to purchase an investment\n- manage your investments\n- obtain advice about changes in the mix of your investments.\n## Completing this section\nWe will calculate the amount of your net financial investment loss for you using the information you provide in your tax return.\nMyTax will show your net financial investment loss in the Income tests section.\n### Calculating net financial investment loss\nIf you want to know how we work out your net financial investment loss, complete worksheets 1a, 1b and 1c below.\nRow | Financial investment income | Amount\na | Dividends from Australian shares - Unfranked amount | $\nb | Dividends from Australian shares - Franked amount | $\nc | Dividends from Australian shares - Franking credit | $\nd | Managed funds - Your share of Total non-primary production income (show a loss as a negative) | $\ne | Managed funds - Your share of Total franked distribution | $\nf | Managed funds - Your share of Total Australian credits from a NZ franking company | $\ng | Trusts - Managed investment scheme amount (show a loss as a negative) | $\nh | Trusts - Franked distribution related to investments | $\ni | Partnerships - Partnership net financial investment income or loss (show a loss as a negative) | $\nj | Business income or losses - Net non-primary production income or loss from a business of investing (show a loss as a negative) | $\nk | Loss details - Partnership: Deferred loss amount from carrying on a business of investing | $\nl | Loss details - Sole trader: Deferred loss amount from carrying on a business of investing | $\nm | Other foreign income from a financial investment - Australian franking credits from a New Zealand franking company | $\nn | Other foreign income from a financial investment - Gross income less Deductible expenses (show a loss as a negative) | $\no | Forestry managed investment schemes - Amount | $\np | Any other income - Financial investments not shown elsewhere | $\nq | Any other income - Assessable adjustment from low-value pool relating to financial investments | $\nr | Add all amounts from rows a to q . | $\nRow | Financial investment deductions | Amount\ns | Dividend deductions - Amount | $\nt | Low value pool deduction - Low value pool deduction relating to financial investment | $\nu | Managed funds - Your share of Total other deductions relating to non-primary production | $\nv | Trusts - Managed investment scheme deductions | $\nw | Partnerships - Partnership financial investment deductions | $\nx | Forestry managed investment scheme deductions - Amount | $\ny | Other deductions - Deductions relating to financial investments | $\nz | Add all amounts from rows s to y . | $\nRow | Calculation | Amount\naa | Row r (from Worksheet 1a ) | $\nbb | Row z (from Worksheet 1b ) | $\ncc | Take row bb away from row aa . If the amount is a negative, this amount is your Net financial investment loss . Otherwise the amount will be 0 . | $",
+  "child_links": [],
+  "word_count": 751,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

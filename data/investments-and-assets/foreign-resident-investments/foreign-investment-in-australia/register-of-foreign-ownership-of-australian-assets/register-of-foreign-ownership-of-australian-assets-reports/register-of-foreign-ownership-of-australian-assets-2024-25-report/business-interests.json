@@ -1,0 +1,563 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/foreign-resident-investments/foreign-investment-in-australia/register-of-foreign-ownership-of-australian-assets/register-of-foreign-ownership-of-australian-assets-reports/register-of-foreign-ownership-of-australian-assets-2024-25-report/business-interests",
+  "title": "Business interests",
+  "description": "Data on foreign ownership of business interests as at 30 June 2025.",
+  "nat_number": "",
+  "quick_code": "106045",
+  "date_updated": "2026-03-04T13:00:00Z",
+  "first_published": "",
+  "keywords": "foreign ownership report, foreign owner, Register of Foreign Ownership of Australian Assets, foreign investment, the Register, the Register report, residential land, water interests, business interests, mining or production tenements and exploration tenements, commercial land, agricultural land",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to interpret this data"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following information outlines foreign ownership of business interests at 30 June 2025 as taken from the Register of Foreign Ownership of Australian Assets (the Register)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Foreign Acquisitions and Takeovers Act 1975 (FATA) defines foreign persons (which include temporary residents and entities with foreign ownership of 20% or more) and details registration requirements for those who acquire interests in specified Australian assets."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Register is a live dataset of self-registrations of foreign-owned assets, including business interests. The Register data related to interests in a business or entity is not a full stocktake of foreign ownership in business interests in Australia. Registered business interests are those that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "have received foreign investment approval (in accordance with notification requirements and monetary thresholds)",
+        "have been acquired between 1 July 2023 and 30 June 2025, and",
+        "continued to be held by the foreign person at 30 June 2025."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Information contained in the Register is protected and subject to the provisions of Division 355 of Schedule 1 of the Taxation Administration Act 1953 and Division 3 of Part 7 of the FATA. As such, the complete Register is not made publicly available, and this report presents aggregated information providing a view of all registrations at a point in time. Consistent with Australia’s foreign investment framework, the details of specific registrations or investors are not made publicly available, and information which could identify, or be used to identify, an individual or entity is excluded from this report."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additionally, persons who acquired a business interest and subsequently became a foreign person after 1 July 2023 may also be required to register."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aggregated data is available on data.gov.au External Link ."
+    },
+    {
+      "type": "paragraph",
+      "text": "'Business interests' is a broad category of registerable interests which captures interests in securities of an entity, interests in the assets of a business or other actions in relation to corporations, unit trusts and businesses that have a connection to Australia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Registrants are required to specify the action they have taken that gives rise to a register obligation by reference to business interest sub-types, namely:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the acquisition of either an agribusiness, mining or production business, or media business",
+        "the acquisition of securities in a corporation or trust",
+        "the entering into a business agreement, or",
+        "the altering of a constituent document of an entity."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign persons must register their business interest within 30 days of either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "acquiring an interest in a business or entity, entering into a business agreement or changing a constituent document, or",
+        "becoming a foreign person while holding an interest in a business or entity."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Not all acquisitions of business interests by foreign persons must be registered. From 1 July 2023, the foreign persons required to register are those who acquire an interest in a business or entity under the FATA, and for which notice was provided to the Treasurer."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "acquisitions of a direct interest in an entity or business that wholly or partly carries on an Australian media business must be registered, and",
+        "foreign government investors must give a register notice when starting an Australian business, acquiring a direct interest in an Australian entity or business or acquiring at least 10% of securities in a mining, production or exploration entity."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "There is no national data source to benchmark the percentage of foreign ownership of Australian businesses or entities."
+    },
+    {
+      "type": "paragraph",
+      "text": "The statistics on interests in Australian businesses or entities are presented in each table by reference to either the number of register notices received or the number of discrete businesses or entities to which register notices relate."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2024–25, there were 1,802,253 registrations of business interests that are not included in tables 1–3. These registrable events arise from the acquisition and sale of assets which are held for very short periods of time by registrant entities that are typically in the funds and investment management sectors and involved in inter funding activities. On 9 December 2024, inter funding transactions became exempt from registration requirements under the FATA."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Business interest type"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘Business interest’ is a broad asset category, with 3,292 registered interests at 30 June 2025. Not all acquisitions of business interests are required to be registered."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Type of registered business interest",
+          "Registered interests (no.)",
+          "Percentage of registrations"
+        ],
+        [
+          "Securities in a corporation or trust",
+          "3,039",
+          "92.3"
+        ],
+        [
+          "Securities in mining, production or exploration entities",
+          "127",
+          "3.9"
+        ],
+        [
+          "Media",
+          "16",
+          "0.5"
+        ],
+        [
+          "Agribusiness",
+          "101",
+          "3.1"
+        ],
+        [
+          "Business agreement",
+          "9",
+          "0.3"
+        ],
+        [
+          "Total",
+          "3,292",
+          "100"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Table 1 includes situations where one or more foreign persons registered an interest in the same business or entity."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2 shows the number of discrete Australian businesses or entities in which a foreign person registered a business interest between 1 July 2023 and 30 June 2025."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Type of registered business interest",
+          "Businesses or entities (no.)",
+          "Percentage of total"
+        ],
+        [
+          "Securities in a corporation or trust",
+          "1,745",
+          "91.6"
+        ],
+        [
+          "Agribusiness",
+          "80",
+          "4.2"
+        ],
+        [
+          "Securities in mining or production",
+          "65",
+          "3.4"
+        ],
+        [
+          "Business agreement",
+          "8",
+          "0.4"
+        ],
+        [
+          "Media",
+          "6",
+          "0.3"
+        ],
+        [
+          "Total",
+          "1,904",
+          "100"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "In Table 2, where the same entity or business has multiple foreign owners in the same business or entity, the entity has been counted once.",
+        "Totals may differ from the sum of components due to rounding."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Registered business interests by industry sectors"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tables 3 and 4 show registrations of discrete businesses or entities broken down by Australian and New Zealand Standard Industrial Classification (ANZSIC) industry division and class respectively."
+    },
+    {
+      "type": "paragraph",
+      "text": "Registrants provide the appropriate ANZSIC details as part of the registration process. ANZSIC is a standard classification developed by the Australian Bureau of Statistics (ABS) for the analysis of industry statistics in Australia and New Zealand. A list of ANZSIC codes is detailed in the Business industry codes fact sheet (PDF, 929KB) This link will download a file ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 3 shows the ANZSIC industry division for the 1,904 discrete businesses or entities in which a foreign person has a registered interest."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Industry division category",
+          "ANZSIC division",
+          "Businesses or entities (no.)"
+        ],
+        [
+          "Financial and insurance services",
+          "K",
+          "260"
+        ],
+        [
+          "Electricity, gas, water and waste services",
+          "D",
+          "234"
+        ],
+        [
+          "Professional, scientific and technical services",
+          "M",
+          "202"
+        ],
+        [
+          "Rental, hiring and real estate services",
+          "L",
+          "179"
+        ],
+        [
+          "Health care and social assistance",
+          "Q",
+          "156"
+        ],
+        [
+          "Transport, postal and warehousing",
+          "I",
+          "137"
+        ],
+        [
+          "Construction",
+          "E",
+          "114"
+        ],
+        [
+          "Information media and telecommunications",
+          "J",
+          "114"
+        ],
+        [
+          "Manufacturing",
+          "C",
+          "109"
+        ],
+        [
+          "Mining",
+          "B",
+          "94"
+        ],
+        [
+          "Agriculture, forestry and fishing",
+          "A",
+          "75"
+        ],
+        [
+          "Accommodation and food services",
+          "H",
+          "71"
+        ],
+        [
+          "Wholesale trade",
+          "F",
+          "45"
+        ],
+        [
+          "Administrative and support services",
+          "N",
+          "42"
+        ],
+        [
+          "Retail trade",
+          "G",
+          "24"
+        ],
+        [
+          "Public administration and safety",
+          "O",
+          "17"
+        ],
+        [
+          "Arts and recreation services",
+          "R",
+          "14"
+        ],
+        [
+          "Other services",
+          "S",
+          "13"
+        ],
+        [
+          "Education and training",
+          "P",
+          "4"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "ANZSIC divisions are derived from the industry class reported by foreign persons."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 4 shows registrations of discrete businesses or entities broken down by the top 20 ANZSIC industry class."
+    },
+    {
+      "type": "paragraph",
+      "text": "Registered business interests at 30 June 2025 include a total of 231 ANZSIC classes."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Industry class category",
+          "ANZSIC class",
+          "Businesses or entities (no.)"
+        ],
+        [
+          "Other electricity generation",
+          "2619",
+          "196"
+        ],
+        [
+          "Financial asset investing",
+          "6240",
+          "157"
+        ],
+        [
+          "Computer system design and related services",
+          "7000",
+          "91"
+        ],
+        [
+          "Land development and subdivision",
+          "3211",
+          "69"
+        ],
+        [
+          "Other auxiliary finance and investment services",
+          "6419",
+          "67"
+        ],
+        [
+          "Residential property operators",
+          "6711",
+          "67"
+        ],
+        [
+          "Non-residential property operators",
+          "6712",
+          "56"
+        ],
+        [
+          "Software publishing",
+          "5420",
+          "52"
+        ],
+        [
+          "Real estate services",
+          "6720",
+          "44"
+        ],
+        [
+          "Management advice and related consulting services",
+          "6962",
+          "39"
+        ],
+        [
+          "Road freight transport",
+          "4610",
+          "35"
+        ],
+        [
+          "Other warehousing and storage services",
+          "5309",
+          "34"
+        ],
+        [
+          "Accommodation",
+          "4400",
+          "30"
+        ],
+        [
+          "Other allied health services",
+          "8539",
+          "30"
+        ],
+        [
+          "Engineering design and engineering consulting services",
+          "6923",
+          "28"
+        ],
+        [
+          "Pubs, taverns and bars",
+          "4520",
+          "24"
+        ],
+        [
+          "Child care services",
+          "8710",
+          "24"
+        ],
+        [
+          "Other water transport support services",
+          "5219",
+          "22"
+        ],
+        [
+          "Optometry and optical dispensing",
+          "8532",
+          "22"
+        ],
+        [
+          "Pathology and diagnostic imaging services",
+          "8520",
+          "19"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Top 10 sources of foreign investment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 5 shows the top 10 source countries of registered business interests."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Country",
+          "Foreign interests (no.)"
+        ],
+        [
+          "Cayman Islands",
+          "771"
+        ],
+        [
+          "United States of America",
+          "678"
+        ],
+        [
+          "Singapore",
+          "405"
+        ],
+        [
+          "Canada",
+          "317"
+        ],
+        [
+          "United Arab Emirates",
+          "304"
+        ],
+        [
+          "United Kingdom",
+          "284"
+        ],
+        [
+          "Luxembourg",
+          "170"
+        ],
+        [
+          "Japan",
+          "154"
+        ],
+        [
+          "Bermuda",
+          "144"
+        ],
+        [
+          "France",
+          "130"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At 30 June 2025, foreign persons from a total of 61 countries, excluding Australia, held registered business interests."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are limitations to using the top sources of foreign investment data to determine the ultimate sources of investment into Australia:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The source country is obtained from the registrant at the time of registration and maintained by the foreign person.",
+        "Where there are multiple interest holders from different countries in the same business or entity, each country is counted.",
+        "An interest may be held by a foreign person which has more than one shareholder, from more than one country.",
+        "Where the registered owner is a company or trust, the nationality of the person (or persons) who appear to control the entity is used to attribute the source country, rather than the country of incorporation. Where the person who controls the entity is identified as an Australian citizen who is not ordinarily resident in Australia (and hence a foreign person), the source country is attributed to the country in which they are ordinarily resident.",
+        "Where shares or interests are widely held for companies or trusts, depending on information available the interest in the asset is attributed to a source country based on the location of: the directors the fund manager, or the country where the entity (or trustee) is headquartered or publicly listed. The source country statistical data may therefore include the presence of jurisdictions used by investment funds and their managers.",
+        "The country of control is assessed using data resources within: the ATO, and agencies such as the Department of Home Affairs and the Australian Securities & Investments Commission (ASIC)."
+      ]
+    }
+  ],
+  "content_text": "## How to interpret this data\nThe following information outlines foreign ownership of business interests at 30 June 2025 as taken from the Register of Foreign Ownership of Australian Assets (the Register).\nThe Foreign Acquisitions and Takeovers Act 1975 (FATA) defines foreign persons (which include temporary residents and entities with foreign ownership of 20% or more) and details registration requirements for those who acquire interests in specified Australian assets.\nThe Register is a live dataset of self-registrations of foreign-owned assets, including business interests. The Register data related to interests in a business or entity is not a full stocktake of foreign ownership in business interests in Australia. Registered business interests are those that:\n- have received foreign investment approval (in accordance with notification requirements and monetary thresholds)\n- have been acquired between 1 July 2023 and 30 June 2025, and\n- continued to be held by the foreign person at 30 June 2025.\nInformation contained in the Register is protected and subject to the provisions of Division 355 of Schedule 1 of the Taxation Administration Act 1953 and Division 3 of Part 7 of the FATA. As such, the complete Register is not made publicly available, and this report presents aggregated information providing a view of all registrations at a point in time. Consistent with Australia’s foreign investment framework, the details of specific registrations or investors are not made publicly available, and information which could identify, or be used to identify, an individual or entity is excluded from this report.\nAdditionally, persons who acquired a business interest and subsequently became a foreign person after 1 July 2023 may also be required to register.\nAggregated data is available on data.gov.au External Link .\n'Business interests' is a broad category of registerable interests which captures interests in securities of an entity, interests in the assets of a business or other actions in relation to corporations, unit trusts and businesses that have a connection to Australia.\nRegistrants are required to specify the action they have taken that gives rise to a register obligation by reference to business interest sub-types, namely:\n- the acquisition of either an agribusiness, mining or production business, or media business\n- the acquisition of securities in a corporation or trust\n- the entering into a business agreement, or\n- the altering of a constituent document of an entity.\nForeign persons must register their business interest within 30 days of either:\n- acquiring an interest in a business or entity, entering into a business agreement or changing a constituent document, or\n- becoming a foreign person while holding an interest in a business or entity.\nNot all acquisitions of business interests by foreign persons must be registered. From 1 July 2023, the foreign persons required to register are those who acquire an interest in a business or entity under the FATA, and for which notice was provided to the Treasurer.\nIn addition:\n- acquisitions of a direct interest in an entity or business that wholly or partly carries on an Australian media business must be registered, and\n- foreign government investors must give a register notice when starting an Australian business, acquiring a direct interest in an Australian entity or business or acquiring at least 10% of securities in a mining, production or exploration entity.\nThere is no national data source to benchmark the percentage of foreign ownership of Australian businesses or entities.\nThe statistics on interests in Australian businesses or entities are presented in each table by reference to either the number of register notices received or the number of discrete businesses or entities to which register notices relate.\nIn 2024–25, there were 1,802,253 registrations of business interests that are not included in tables 1–3. These registrable events arise from the acquisition and sale of assets which are held for very short periods of time by registrant entities that are typically in the funds and investment management sectors and involved in inter funding activities. On 9 December 2024, inter funding transactions became exempt from registration requirements under the FATA.\n## Business interest type\n‘Business interest’ is a broad asset category, with 3,292 registered interests at 30 June 2025. Not all acquisitions of business interests are required to be registered.\nType of registered business interest | Registered interests (no.) | Percentage of registrations\nSecurities in a corporation or trust | 3,039 | 92.3\nSecurities in mining, production or exploration entities | 127 | 3.9\nMedia | 16 | 0.5\nAgribusiness | 101 | 3.1\nBusiness agreement | 9 | 0.3\nTotal | 3,292 | 100\nNote:\n- Table 1 includes situations where one or more foreign persons registered an interest in the same business or entity.\nTable 2 shows the number of discrete Australian businesses or entities in which a foreign person registered a business interest between 1 July 2023 and 30 June 2025.\nType of registered business interest | Businesses or entities (no.) | Percentage of total\nSecurities in a corporation or trust | 1,745 | 91.6\nAgribusiness | 80 | 4.2\nSecurities in mining or production | 65 | 3.4\nBusiness agreement | 8 | 0.4\nMedia | 6 | 0.3\nTotal | 1,904 | 100\nNotes:\n- In Table 2, where the same entity or business has multiple foreign owners in the same business or entity, the entity has been counted once.\n- Totals may differ from the sum of components due to rounding.\n## Registered business interests by industry sectors\nTables 3 and 4 show registrations of discrete businesses or entities broken down by Australian and New Zealand Standard Industrial Classification (ANZSIC) industry division and class respectively.\nRegistrants provide the appropriate ANZSIC details as part of the registration process. ANZSIC is a standard classification developed by the Australian Bureau of Statistics (ABS) for the analysis of industry statistics in Australia and New Zealand. A list of ANZSIC codes is detailed in the Business industry codes fact sheet (PDF, 929KB) This link will download a file .\nTable 3 shows the ANZSIC industry division for the 1,904 discrete businesses or entities in which a foreign person has a registered interest.\nIndustry division category | ANZSIC division | Businesses or entities (no.)\nFinancial and insurance services | K | 260\nElectricity, gas, water and waste services | D | 234\nProfessional, scientific and technical services | M | 202\nRental, hiring and real estate services | L | 179\nHealth care and social assistance | Q | 156\nTransport, postal and warehousing | I | 137\nConstruction | E | 114\nInformation media and telecommunications | J | 114\nManufacturing | C | 109\nMining | B | 94\nAgriculture, forestry and fishing | A | 75\nAccommodation and food services | H | 71\nWholesale trade | F | 45\nAdministrative and support services | N | 42\nRetail trade | G | 24\nPublic administration and safety | O | 17\nArts and recreation services | R | 14\nOther services | S | 13\nEducation and training | P | 4\nNote:\n- ANZSIC divisions are derived from the industry class reported by foreign persons.\nTable 4 shows registrations of discrete businesses or entities broken down by the top 20 ANZSIC industry class.\nRegistered business interests at 30 June 2025 include a total of 231 ANZSIC classes.\nIndustry class category | ANZSIC class | Businesses or entities (no.)\nOther electricity generation | 2619 | 196\nFinancial asset investing | 6240 | 157\nComputer system design and related services | 7000 | 91\nLand development and subdivision | 3211 | 69\nOther auxiliary finance and investment services | 6419 | 67\nResidential property operators | 6711 | 67\nNon-residential property operators | 6712 | 56\nSoftware publishing | 5420 | 52\nReal estate services | 6720 | 44\nManagement advice and related consulting services | 6962 | 39\nRoad freight transport | 4610 | 35\nOther warehousing and storage services | 5309 | 34\nAccommodation | 4400 | 30\nOther allied health services | 8539 | 30\nEngineering design and engineering consulting services | 6923 | 28\nPubs, taverns and bars | 4520 | 24\nChild care services | 8710 | 24\nOther water transport support services | 5219 | 22\nOptometry and optical dispensing | 8532 | 22\nPathology and diagnostic imaging services | 8520 | 19\n## Top 10 sources of foreign investment\nTable 5 shows the top 10 source countries of registered business interests.\nCountry | Foreign interests (no.)\nCayman Islands | 771\nUnited States of America | 678\nSingapore | 405\nCanada | 317\nUnited Arab Emirates | 304\nUnited Kingdom | 284\nLuxembourg | 170\nJapan | 154\nBermuda | 144\nFrance | 130\nAt 30 June 2025, foreign persons from a total of 61 countries, excluding Australia, held registered business interests.\nNotes:\nThere are limitations to using the top sources of foreign investment data to determine the ultimate sources of investment into Australia:\n- The source country is obtained from the registrant at the time of registration and maintained by the foreign person.\n- Where there are multiple interest holders from different countries in the same business or entity, each country is counted.\n- An interest may be held by a foreign person which has more than one shareholder, from more than one country.\n- Where the registered owner is a company or trust, the nationality of the person (or persons) who appear to control the entity is used to attribute the source country, rather than the country of incorporation. Where the person who controls the entity is identified as an Australian citizen who is not ordinarily resident in Australia (and hence a foreign person), the source country is attributed to the country in which they are ordinarily resident.\n- Where shares or interests are widely held for companies or trusts, depending on information available the interest in the asset is attributed to a source country based on the location of: the directors the fund manager, or the country where the entity (or trustee) is headquartered or publicly listed. The source country statistical data may therefore include the presence of jurisdictions used by investment funds and their managers.\n- The country of control is assessed using data resources within: the ATO, and agencies such as the Department of Home Affairs and the Australian Securities & Investments Commission (ASIC).",
+  "child_links": [],
+  "word_count": 1718,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

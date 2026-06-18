@@ -1,0 +1,653 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2022/medicare-and-private-health-insurance/medicare-levy-reduction-or-exemption",
+  "title": "myTax 2022 Medicare levy reduction or exemption",
+  "description": "How to determine your eligibility for Medicare levy reduction or exemption when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "69340",
+  "date_updated": "2022-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Australian residents for tax purposes are subject to a Medicare levy of 2.0% of their taxable income unless they qualify for a reduction or exemption."
+    },
+    {
+      "type": "paragraph",
+      "text": "A Medicare levy reduction is based on your taxable income. In some cases, you may not have to pay the levy at all. If your taxable income is above the thresholds, you may still qualify for a reduction based on your family income ."
+    },
+    {
+      "type": "paragraph",
+      "text": "A Medicare levy exemption may apply if you meet one of the following exemption categories, you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "meet certain medical requirements",
+        "are a foreign resident",
+        "were not entitled to Medicare benefits"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to consider your eligibility for a reduction or an exemption separately."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were not an Australian resident for tax purposes for the whole of 2021–22, you may be exempt from the Medicare levy. For the meaning of Australian resident for tax purposes, see Your tax residency ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Personalise return, you don't need to make a selection to show Medicare levy reduction or exemption. It will always display at Prepare return."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Prepare return, select 'Add/Edit' at the Medicare and private health insurance details banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Medicare levy reduction heading:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Show the Number of dependent children and students . For more information, see Working out your number of dependent children . Note: We may have populated this for you based on information previously provided to us. Check and correct if necessary."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Medicare levy exemption heading:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Indicate if you were in one of the exemption categories at any time during 2021–22. If Yes , go to step 3. If No , go to step 6.",
+        "Work out the number of days that you qualify for full exemption and then enter the number into Full 2% levy exemption – number of days .",
+        "Work out the number of days that you qualify for half exemption and then enter the number into Half 2% levy exemption – number of days .",
+        "If you entered one or more days in Full 2% levy exemption – number of days , answer the question Were you a temporary resident for Medicare purposes and have a Medicare entitlement statement from Services Australia? For more information, see Medicare entitlement statement .",
+        "You have completed the Medicare levy reduction or exemption section and can go to the Medicare levy surcharge section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We use this information to work out any Medicare levy reduction or exemption for you."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Medicare levy reduction – your number of dependent children"
+    },
+    {
+      "type": "paragraph",
+      "text": "A dependent child is any child who was an Australian resident whom you maintained in 2021–22 and whose Adjusted taxable income (ATI) was less than the amounts in the table below."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Category of dependent child",
+          "ATI if maintained for the whole year",
+          "ATI if not maintained for the whole year"
+        ],
+        [
+          "Any child under 21 years old you maintained who was not a full-time student",
+          "For the first child: $1,786 For each additional child: $1,410",
+          "For the first child: $282 plus $28.92 for each week you maintained them For each additional child: $282 plus $21.70 for each week you maintained them"
+        ],
+        [
+          "Any full-time student aged under 25 years old at a school, college or university",
+          "$1,786",
+          "$282 plus $28.92 for each week you maintained them"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a spouse on 30 June 2022 or your spouse died during 2021–22 and you did not have another spouse on or before 30 June 2022, count all your dependent children."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were single or separated on 30 June 2022, count only the number of dependent children for whom you received the family tax benefit (FTB) during all or part of 2021–22. Count them even if you received only the rental assistance component of FTB Part A and you shared the care of the dependent child."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "How we work out your Medicare levy reduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your eligibility for a reduction of your Medicare levy is based on your and your spouse's taxable income and your circumstances."
+    },
+    {
+      "type": "paragraph",
+      "text": "Based on the information in your tax return, we will work out any reduction for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you would like to understand more about how we calculate the levy reduction, please use the following information."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Work out your individual Medicare levy threshold"
+    },
+    {
+      "type": "paragraph",
+      "text": "Using Table 2, work out the Medicare threshold that applies to you."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Category",
+          "Lower threshold",
+          "Upper threshold"
+        ],
+        [
+          "If you were entitled to the seniors and pensioners tax offset",
+          "$36,925",
+          "$46,156"
+        ],
+        [
+          "All other taxpayers",
+          "$23,365",
+          "$29,206"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a spouse, you may not get the seniors and pensioners tax offset even if you meet all the eligibility conditions as the amount of the tax offset is based on your individual rebate income, not your combined rebate income. If you don't get the offset, merely being eligible for it will not entitle you to a Medicare levy reduction."
+    },
+    {
+      "type": "paragraph",
+      "text": "For this section, your taxable income excludes the taxed element of certain superannuation lump sums you received during 2021–22 if you had reached your preservation age and were under 60 years old (see Reduced taxable income to take account of certain superannuation lump sums )."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Work out where your circumstances fit"
+    },
+    {
+      "type": "paragraph",
+      "text": "Using Table 3, work out your circumstances and how they apply to the calculation of the levy."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Your circumstance",
+          "What to do"
+        ],
+        [
+          "Your taxable income is equal to or less than your lower threshold amount.",
+          "You don't have to pay the Medicare levy."
+        ],
+        [
+          "Your taxable income is greater than your lower threshold amount and less than or equal to your upper threshold amount.",
+          "You pay only part of the Medicare levy. We will work it out. Go to Medicare levy exemption to see if you qualify for an exemption."
+        ],
+        [
+          "Your taxable income is over your upper threshold amount, and you are single with no dependants.",
+          "You don't qualify for a reduction. Go to Medicare levy exemption to see if you qualify for an exemption."
+        ],
+        [
+          "Your taxable income is greater than your lower threshold amount but you: had a spouse had a spouse who died during 2021–22, and you did not have another spouse in 2021–22 were entitled to an Invalid and invalid carer tax offset in respect of your child, or at any time during 2021–22 had sole care of one or more dependent children or students.",
+          "You may be eligible for a Medicare levy reduction based on family taxable income . to work out your family taxable income, use worksheet 1 and to work out your family taxable income limit, use worksheet 2 ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Family taxable income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Family taxable income is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the combined taxable incomes of you and your spouse (including a spouse who died during 2021–22), or",
+        "your taxable income if you were a sole parent."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "Your taxable income from Taxable income .",
+          "$"
+        ],
+        [
+          "b",
+          "Any relevant amounts of superannuation lump sums that you received (see Reduced taxable income to take account of certain superannuation lump sums ).",
+          ""
+        ],
+        [
+          "c",
+          "Take row b away from a . If the amount is less than $0, write $0.",
+          ""
+        ],
+        [
+          "d",
+          "Your spouse's taxable income from Taxable income on their tax return (if applicable).",
+          "$"
+        ],
+        [
+          "e",
+          "Any relevant amounts of superannuation lump sums that your spouse received (see Reduced taxable income to take account of certain superannuation lump sums ).",
+          ""
+        ],
+        [
+          "f",
+          "Take row e away from d . If the amount is less than $0, write $0.",
+          "$"
+        ],
+        [
+          "g",
+          "Add rows c and f . This is your family taxable income.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Working out your family taxable income limit"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your Medicare levy is reduced if your family taxable income is equal to or less than the following limits."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "h",
+          "If you were entitled to the seniors and pensioners tax offset , enter $64,251. For all other taxpayers, enter $49,252.",
+          "$"
+        ],
+        [
+          "i",
+          "Number of dependent children (if applicable, see note).",
+          ""
+        ],
+        [
+          "j",
+          "Multiply row i by $4,523 (see note).",
+          "$"
+        ],
+        [
+          "k",
+          "Family taxable income limit . Add the appropriate amount from row h to the amount at row j .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: If you are a sole parent, you can increase your family taxable income limit for a dependent child only if the family tax benefit is payable to you for that dependent child."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your family taxable income at row g in Worksheet 1 is equal to or less than your family taxable income limit at row k in Worksheet 2, you are entitled to a reduction."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Medicare entitlement statement"
+    },
+    {
+      "type": "paragraph",
+      "text": "A Medicare Entitlement Statement (MES) from Services Australia shows the period in a year that you were not entitled to Medicare benefits."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim a full exemption for any period for which you have a Medicare entitlement statement from Services Australia showing you were not entitled to Medicare benefits because you were a temporary resident for Medicare purposes, and either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you did not have any dependants for that period, or",
+        "all your dependants were in an exemption category for that period."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To claim an exemption, you must first submit a Medicare entitlement statement to Medicare and receive a certification letter from them saying that you were not entitled to Medicare benefits for a particular period. You can then claim the exemption for the period that Medicare has advised."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to submit a Medicare entitlement statement to Medicare each year you want to claim an exemption."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on how to apply for a Medicare entitlement statement as a temporary resident, go to servicesaustralia.gov.au External Link"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Glossary"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Adjusted taxable income"
+    },
+    {
+      "type": "paragraph",
+      "text": "A person's adjusted taxable income is the sum of the following amounts:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "taxable income (excluding any assessable First home super saver released amount)",
+        "reportable employer superannuation contributions",
+        "deductible personal superannuation contributions",
+        "adjusted fringe benefits total, which is the sum of: reportable fringe benefits amounts received from employers exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986 multiplied by 0.53, and reportable fringe benefits amounts received from employers not exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986",
+        "certain tax-free government pensions or benefits received by the person",
+        "target foreign income (income and certain other amounts from sources outside Australia not included in your taxable income or received as a fringe benefit)",
+        "net financial investment loss (the amount by which the person's deductions attributable to financial investments exceeded their total financial investment income)",
+        "net rental property loss (the amount by which the person's deductions attributable to rental property exceeded their rental property income)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "less"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "any child support payments the person provided to another person."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Maintaining a dependant"
+    },
+    {
+      "type": "paragraph",
+      "text": "You maintained a dependant if any of the following applied, you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "both lived in the same house",
+        "gave them food, clothing and lodging",
+        "helped them to pay for their living, medical and educational costs."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a spouse for the whole of 2021–22 and your spouse worked at any time during the year, we still consider you to have maintained your spouse as a dependant for the whole income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "We consider you to have maintained a dependant even if the two of you were temporarily separated, for example, due to holidays or overseas travel."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you maintained a dependant for only part of the year, you may need to adjust your claim accordingly."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Reduced taxable income to take account of certain superannuation lump sums"
+    },
+    {
+      "type": "paragraph",
+      "text": "For Medicare levy purposes, your taxable income excludes the taxed element of a superannuation lump sum (other than of a death benefits superannuation lump sum):"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "that you received when you had reached your preservation age and were under 60 years old",
+        "up to your low-rate cap for 2021–22, which is $225,000. If you received superannuation lump sums in previous years, your low-rate cap for 2021–22 could be less than $225,000."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Low-rate cap amount for taxable components of superannuation lump sum payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "This concession applies only to superannuation lump sums paid to you when you have reached your preservation age but before you turn 60 years old."
+    },
+    {
+      "type": "paragraph",
+      "text": "The low-rate cap amount is the maximum amount of taxable components (taxed and untaxed elements) that can be taxed at a concessional lower rate."
+    },
+    {
+      "type": "paragraph",
+      "text": "For 2021–22, the low-rate cap amount is a maximum of $225,000, but it could be less for you if before July 2021 you received any superannuation lump sums that counted towards your entitlement to a superannuation lump sum tax offset. The amount is indexed to average weekly ordinary time earnings and rounded down to the nearest multiple of $5,000. See Key superannuation rates and thresholds ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The low-rate cap amount is a 'lifetime' limit. This means that the taxed element and untaxed elements of all superannuation lump sum payments that you receive (as well as the amount of any eligible termination payments for which you became entitled to a rebate before 1 July 2007) when you have reached your preservation age but before you turn 60 years old will be taxed at a concessional rate until your total reaches the low-rate cap amount ($225,000 plus future indexed increases). Payments you receive in excess of the low-rate cap amount will be taxed at the tax rate shown in Table 4 below."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consequently, for 2021–22 the maximum amount for which you can be taxed at a concessional rate is $225,000 less any amounts to which the concessional tax rate has previously been applied."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Tax on contributions ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 4: Superannuation lump sum (other than death benefit)"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Element",
+          "Amount",
+          "Tax rate"
+        ],
+        [
+          "Tax free component",
+          "Whole",
+          "Tax free"
+        ],
+        [
+          "Taxed element",
+          "Whole",
+          "20%"
+        ],
+        [
+          "Untaxed element",
+          "Up to the untaxed-plan cap amount, $1,615,000 (see Note 1 )",
+          "30%"
+        ],
+        [
+          "Untaxed element",
+          "Over the untaxed-plan cap amount, $1,615,000 (see Note 1 )",
+          "45%"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Element",
+          "Amount",
+          "Tax rate"
+        ],
+        [
+          "Tax free component",
+          "Whole",
+          "Tax free"
+        ],
+        [
+          "Taxed element",
+          "Up to the low rate cap amount, $225,000 (see Note 2 )",
+          "Tax free"
+        ],
+        [
+          "Taxed element",
+          "Over the low rate cap amount, $225,000 (see Note 2 )",
+          "15%"
+        ],
+        [
+          "Untaxed element",
+          "Up to the low rate cap amount, $225,000 (see Note 2 )",
+          "15%"
+        ],
+        [
+          "Untaxed element",
+          "Over the low rate cap amount, $225,000 (see Note 2 ) and up to the untaxed-plan cap amount, $1,615,000 (see Note 1 )",
+          "30%"
+        ],
+        [
+          "Untaxed element",
+          "Over the untaxed-plan cap amount, $1,615,000 (see Note 1 )",
+          "45%"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "60 years of age or older at the time of payment"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Element",
+          "Amount",
+          "Tax rate"
+        ],
+        [
+          "Tax free component",
+          "Whole",
+          "Tax free"
+        ],
+        [
+          "Taxed element",
+          "Whole",
+          "Tax free"
+        ],
+        [
+          "Untaxed element",
+          "Up to the untaxed-plan cap amount, $1,615,000 (See Note 1 )",
+          "15%"
+        ],
+        [
+          "Untaxed element",
+          "Over the untaxed-plan cap amount, $1,615,000 (see Note 1 )",
+          "45%"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note 1: For 2021–22, the untaxed-plan cap amount is a maximum of $1.615 million, but it could be less for you if you have previously received another superannuation lump sum with an untaxed element from the same superannuation fund. For more information on how we work out your untaxed-plan cap amount, see How tax applies to your super ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note 2: For 2021–22, the low-rate cap amount is a maximum of $225,000, but it could be less if you received any superannuation lump sums in a prior income year that counted towards your entitlement to a superannuation lump sum tax offset or, if before July 2007, you received an eligible termination payment after your 55th birthday. For more information on how we work out your low-rate cap amount, see How tax applies to your super ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Shared care"
+    },
+    {
+      "type": "paragraph",
+      "text": "You had shared care if you, and your spouse if you had one, cared for your child for some of the income year, and someone else, such as a former spouse, cared for the child for the rest of the income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received family tax benefit (FTB) Part B as part of a shared-care arrangement, you will need to know your FTB shared-care percentage to calculate your spouse offset. Your FTB shared-care percentage is usually not the same as your ‘shared care percentage’ which appears on correspondence you have received from Services Australia."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't know your FTB shared-care percentage, contact Services Australia External Link ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Sole care"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sole care means that you alone had full responsibility, on a day-to-day basis, for the upbringing, welfare and maintenance of a child or student. You are not considered to have sole care if you are living with a spouse (married or de facto) unless special circumstances exist. Generally, for special circumstances to exist, you must be financially responsible for the dependent child or student and have sole care without the support that a spouse normally provides."
+    },
+    {
+      "type": "paragraph",
+      "text": "Situations where special circumstances may arise include the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You were married for some time during 2021–22 but during 2021–22, you then separated from, or were deserted by, your spouse, and for the remainder of 2021–22, you were not in a de facto relationship.",
+        "Your spouse was in prison for a sentence of 12 months or more.",
+        "Your spouse is medically certified as being permanently mentally incapable of taking part in caring for the child or student."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are not sure whether special circumstances apply, contact us ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Spouse"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your spouse includes another person (of any sex) who, for 2021–22:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were in a relationship with that was registered under a prescribed state or territory law",
+        "although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple."
+      ]
+    }
+  ],
+  "content_text": "## Things to know\nAustralian residents for tax purposes are subject to a Medicare levy of 2.0% of their taxable income unless they qualify for a reduction or exemption.\nA Medicare levy reduction is based on your taxable income. In some cases, you may not have to pay the levy at all. If your taxable income is above the thresholds, you may still qualify for a reduction based on your family income .\nA Medicare levy exemption may apply if you meet one of the following exemption categories, you:\n- meet certain medical requirements\n- are a foreign resident\n- were not entitled to Medicare benefits\nYou need to consider your eligibility for a reduction or an exemption separately.\nIf you were not an Australian resident for tax purposes for the whole of 2021–22, you may be exempt from the Medicare levy. For the meaning of Australian resident for tax purposes, see Your tax residency .\n## Completing this section\nAt Personalise return, you don't need to make a selection to show Medicare levy reduction or exemption. It will always display at Prepare return.\nAt Prepare return, select 'Add/Edit' at the Medicare and private health insurance details banner.\nAt the Medicare levy reduction heading:\n- Show the Number of dependent children and students . For more information, see Working out your number of dependent children . Note: We may have populated this for you based on information previously provided to us. Check and correct if necessary.\nAt the Medicare levy exemption heading:\n- Indicate if you were in one of the exemption categories at any time during 2021–22. If Yes , go to step 3. If No , go to step 6.\n- Work out the number of days that you qualify for full exemption and then enter the number into Full 2% levy exemption – number of days .\n- Work out the number of days that you qualify for half exemption and then enter the number into Half 2% levy exemption – number of days .\n- If you entered one or more days in Full 2% levy exemption – number of days , answer the question Were you a temporary resident for Medicare purposes and have a Medicare entitlement statement from Services Australia? For more information, see Medicare entitlement statement .\n- You have completed the Medicare levy reduction or exemption section and can go to the Medicare levy surcharge section.\nWe use this information to work out any Medicare levy reduction or exemption for you.\n### Medicare levy reduction – your number of dependent children\nA dependent child is any child who was an Australian resident whom you maintained in 2021–22 and whose Adjusted taxable income (ATI) was less than the amounts in the table below.\nCategory of dependent child | ATI if maintained for the whole year | ATI if not maintained for the whole year\nAny child under 21 years old you maintained who was not a full-time student | For the first child: $1,786 For each additional child: $1,410 | For the first child: $282 plus $28.92 for each week you maintained them For each additional child: $282 plus $21.70 for each week you maintained them\nAny full-time student aged under 25 years old at a school, college or university | $1,786 | $282 plus $28.92 for each week you maintained them\nIf you had a spouse on 30 June 2022 or your spouse died during 2021–22 and you did not have another spouse on or before 30 June 2022, count all your dependent children.\nIf you were single or separated on 30 June 2022, count only the number of dependent children for whom you received the family tax benefit (FTB) during all or part of 2021–22. Count them even if you received only the rental assistance component of FTB Part A and you shared the care of the dependent child.\n### How we work out your Medicare levy reduction\nYour eligibility for a reduction of your Medicare levy is based on your and your spouse's taxable income and your circumstances.\nBased on the information in your tax return, we will work out any reduction for you.\nIf you would like to understand more about how we calculate the levy reduction, please use the following information.\n#### Work out your individual Medicare levy threshold\nUsing Table 2, work out the Medicare threshold that applies to you.\nCategory | Lower threshold | Upper threshold\nIf you were entitled to the seniors and pensioners tax offset | $36,925 | $46,156\nAll other taxpayers | $23,365 | $29,206\nIf you have a spouse, you may not get the seniors and pensioners tax offset even if you meet all the eligibility conditions as the amount of the tax offset is based on your individual rebate income, not your combined rebate income. If you don't get the offset, merely being eligible for it will not entitle you to a Medicare levy reduction.\nFor this section, your taxable income excludes the taxed element of certain superannuation lump sums you received during 2021–22 if you had reached your preservation age and were under 60 years old (see Reduced taxable income to take account of certain superannuation lump sums ).\n#### Work out where your circumstances fit\nUsing Table 3, work out your circumstances and how they apply to the calculation of the levy.\nYour circumstance | What to do\nYour taxable income is equal to or less than your lower threshold amount. | You don't have to pay the Medicare levy.\nYour taxable income is greater than your lower threshold amount and less than or equal to your upper threshold amount. | You pay only part of the Medicare levy. We will work it out. Go to Medicare levy exemption to see if you qualify for an exemption.\nYour taxable income is over your upper threshold amount, and you are single with no dependants. | You don't qualify for a reduction. Go to Medicare levy exemption to see if you qualify for an exemption.\nYour taxable income is greater than your lower threshold amount but you: had a spouse had a spouse who died during 2021–22, and you did not have another spouse in 2021–22 were entitled to an Invalid and invalid carer tax offset in respect of your child, or at any time during 2021–22 had sole care of one or more dependent children or students. | You may be eligible for a Medicare levy reduction based on family taxable income . to work out your family taxable income, use worksheet 1 and to work out your family taxable income limit, use worksheet 2 .\n#### Family taxable income\nFamily taxable income is:\n- the combined taxable incomes of you and your spouse (including a spouse who died during 2021–22), or\n- your taxable income if you were a sole parent.\nRow | Calculation | Amount\na | Your taxable income from Taxable income . | $\nb | Any relevant amounts of superannuation lump sums that you received (see Reduced taxable income to take account of certain superannuation lump sums ). | \nc | Take row b away from a . If the amount is less than $0, write $0. | \nd | Your spouse's taxable income from Taxable income on their tax return (if applicable). | $\ne | Any relevant amounts of superannuation lump sums that your spouse received (see Reduced taxable income to take account of certain superannuation lump sums ). | \nf | Take row e away from d . If the amount is less than $0, write $0. | $\ng | Add rows c and f . This is your family taxable income. | $\n##### Working out your family taxable income limit\nYour Medicare levy is reduced if your family taxable income is equal to or less than the following limits.\nRow | Calculation | Amount\nh | If you were entitled to the seniors and pensioners tax offset , enter $64,251. For all other taxpayers, enter $49,252. | $\ni | Number of dependent children (if applicable, see note). | \nj | Multiply row i by $4,523 (see note). | $\nk | Family taxable income limit . Add the appropriate amount from row h to the amount at row j . | $\nNote: If you are a sole parent, you can increase your family taxable income limit for a dependent child only if the family tax benefit is payable to you for that dependent child.\nIf your family taxable income at row g in Worksheet 1 is equal to or less than your family taxable income limit at row k in Worksheet 2, you are entitled to a reduction.\n### Medicare entitlement statement\nA Medicare Entitlement Statement (MES) from Services Australia shows the period in a year that you were not entitled to Medicare benefits.\nYou can claim a full exemption for any period for which you have a Medicare entitlement statement from Services Australia showing you were not entitled to Medicare benefits because you were a temporary resident for Medicare purposes, and either:\n- you did not have any dependants for that period, or\n- all your dependants were in an exemption category for that period.\nTo claim an exemption, you must first submit a Medicare entitlement statement to Medicare and receive a certification letter from them saying that you were not entitled to Medicare benefits for a particular period. You can then claim the exemption for the period that Medicare has advised.\nYou need to submit a Medicare entitlement statement to Medicare each year you want to claim an exemption.\nFor more information on how to apply for a Medicare entitlement statement as a temporary resident, go to servicesaustralia.gov.au External Link\n### Glossary\n#### Adjusted taxable income\nA person's adjusted taxable income is the sum of the following amounts:\n- taxable income (excluding any assessable First home super saver released amount)\n- reportable employer superannuation contributions\n- deductible personal superannuation contributions\n- adjusted fringe benefits total, which is the sum of: reportable fringe benefits amounts received from employers exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986 multiplied by 0.53, and reportable fringe benefits amounts received from employers not exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986\n- certain tax-free government pensions or benefits received by the person\n- target foreign income (income and certain other amounts from sources outside Australia not included in your taxable income or received as a fringe benefit)\n- net financial investment loss (the amount by which the person's deductions attributable to financial investments exceeded their total financial investment income)\n- net rental property loss (the amount by which the person's deductions attributable to rental property exceeded their rental property income)\nless\n- any child support payments the person provided to another person.\n#### Maintaining a dependant\nYou maintained a dependant if any of the following applied, you:\n- both lived in the same house\n- gave them food, clothing and lodging\n- helped them to pay for their living, medical and educational costs.\nIf you had a spouse for the whole of 2021–22 and your spouse worked at any time during the year, we still consider you to have maintained your spouse as a dependant for the whole income year.\nWe consider you to have maintained a dependant even if the two of you were temporarily separated, for example, due to holidays or overseas travel.\nIf you maintained a dependant for only part of the year, you may need to adjust your claim accordingly.\n#### Reduced taxable income to take account of certain superannuation lump sums\nFor Medicare levy purposes, your taxable income excludes the taxed element of a superannuation lump sum (other than of a death benefits superannuation lump sum):\n- that you received when you had reached your preservation age and were under 60 years old\n- up to your low-rate cap for 2021–22, which is $225,000. If you received superannuation lump sums in previous years, your low-rate cap for 2021–22 could be less than $225,000.\n##### Low-rate cap amount for taxable components of superannuation lump sum payments\nThis concession applies only to superannuation lump sums paid to you when you have reached your preservation age but before you turn 60 years old.\nThe low-rate cap amount is the maximum amount of taxable components (taxed and untaxed elements) that can be taxed at a concessional lower rate.\nFor 2021–22, the low-rate cap amount is a maximum of $225,000, but it could be less for you if before July 2021 you received any superannuation lump sums that counted towards your entitlement to a superannuation lump sum tax offset. The amount is indexed to average weekly ordinary time earnings and rounded down to the nearest multiple of $5,000. See Key superannuation rates and thresholds .\nThe low-rate cap amount is a 'lifetime' limit. This means that the taxed element and untaxed elements of all superannuation lump sum payments that you receive (as well as the amount of any eligible termination payments for which you became entitled to a rebate before 1 July 2007) when you have reached your preservation age but before you turn 60 years old will be taxed at a concessional rate until your total reaches the low-rate cap amount ($225,000 plus future indexed increases). Payments you receive in excess of the low-rate cap amount will be taxed at the tax rate shown in Table 4 below.\nConsequently, for 2021–22 the maximum amount for which you can be taxed at a concessional rate is $225,000 less any amounts to which the concessional tax rate has previously been applied.\nFor more information, see Tax on contributions .\nTable 4: Superannuation lump sum (other than death benefit)\nElement | Amount | Tax rate\nTax free component | Whole | Tax free\nTaxed element | Whole | 20%\nUntaxed element | Up to the untaxed-plan cap amount, $1,615,000 (see Note 1 ) | 30%\nUntaxed element | Over the untaxed-plan cap amount, $1,615,000 (see Note 1 ) | 45%\nElement | Amount | Tax rate\nTax free component | Whole | Tax free\nTaxed element | Up to the low rate cap amount, $225,000 (see Note 2 ) | Tax free\nTaxed element | Over the low rate cap amount, $225,000 (see Note 2 ) | 15%\nUntaxed element | Up to the low rate cap amount, $225,000 (see Note 2 ) | 15%\nUntaxed element | Over the low rate cap amount, $225,000 (see Note 2 ) and up to the untaxed-plan cap amount, $1,615,000 (see Note 1 ) | 30%\nUntaxed element | Over the untaxed-plan cap amount, $1,615,000 (see Note 1 ) | 45%\n60 years of age or older at the time of payment\nElement | Amount | Tax rate\nTax free component | Whole | Tax free\nTaxed element | Whole | Tax free\nUntaxed element | Up to the untaxed-plan cap amount, $1,615,000 (See Note 1 ) | 15%\nUntaxed element | Over the untaxed-plan cap amount, $1,615,000 (see Note 1 ) | 45%\nNote 1: For 2021–22, the untaxed-plan cap amount is a maximum of $1.615 million, but it could be less for you if you have previously received another superannuation lump sum with an untaxed element from the same superannuation fund. For more information on how we work out your untaxed-plan cap amount, see How tax applies to your super .\nNote 2: For 2021–22, the low-rate cap amount is a maximum of $225,000, but it could be less if you received any superannuation lump sums in a prior income year that counted towards your entitlement to a superannuation lump sum tax offset or, if before July 2007, you received an eligible termination payment after your 55th birthday. For more information on how we work out your low-rate cap amount, see How tax applies to your super .\n#### Shared care\nYou had shared care if you, and your spouse if you had one, cared for your child for some of the income year, and someone else, such as a former spouse, cared for the child for the rest of the income year.\nIf you received family tax benefit (FTB) Part B as part of a shared-care arrangement, you will need to know your FTB shared-care percentage to calculate your spouse offset. Your FTB shared-care percentage is usually not the same as your ‘shared care percentage’ which appears on correspondence you have received from Services Australia.\nIf you don't know your FTB shared-care percentage, contact Services Australia External Link .\n#### Sole care\nSole care means that you alone had full responsibility, on a day-to-day basis, for the upbringing, welfare and maintenance of a child or student. You are not considered to have sole care if you are living with a spouse (married or de facto) unless special circumstances exist. Generally, for special circumstances to exist, you must be financially responsible for the dependent child or student and have sole care without the support that a spouse normally provides.\nSituations where special circumstances may arise include the following:\n- You were married for some time during 2021–22 but during 2021–22, you then separated from, or were deserted by, your spouse, and for the remainder of 2021–22, you were not in a de facto relationship.\n- Your spouse was in prison for a sentence of 12 months or more.\n- Your spouse is medically certified as being permanently mentally incapable of taking part in caring for the child or student.\nIf you are not sure whether special circumstances apply, contact us .\n#### Spouse\nYour spouse includes another person (of any sex) who, for 2021–22:\n- you were in a relationship with that was registered under a prescribed state or territory law\n- although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple.",
+  "child_links": [],
+  "word_count": 2994,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,168 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/income-you-must-declare/foreign-and-worldwide-income/australian-resident-for-tax-purposes-foreign-and-worldwide-income/attributed-foreign-income",
+  "title": "Attributed foreign income",
+  "description": "How tax applies to income you receive from your interests or involvement in foreign entities or foreign trusts.",
+  "nat_number": "",
+  "quick_code": "72092",
+  "date_updated": "2026-06-07T14:00:00Z",
+  "first_published": "",
+  "keywords": "foreign income tax australia, overseas income tax australia, ato foreign income, tax on foreign income australia, tax on foreign income for australian residents",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When income is attributed to you"
+    },
+    {
+      "type": "paragraph",
+      "text": "Attributed foreign income is the income attributed to the taxpayer from controlled foreign entities. Even if the income has not been distributed it may be attributed to you for income tax purposes, if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "have interests in a foreign entity",
+        "are involved with a foreign trust."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to declare income attributed to you, if either of the following applies:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you have either a direct or indirect interest in a foreign company controlled by Australians – known as a controlled foreign company (CFC) foreign trust controlled by Australians – known as a controlled foreign trust (CFT) CFC or CFT you effectively control",
+        "you have directly or indirectly caused the transfer of property (including money) or services at any time to a non-resident trust."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To prevent double taxation, dividend income you receive as an Australian resident , which you source from profits that have previously been attributed under these rules, is generally exempt from Australian tax."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Controlled foreign companies"
+    },
+    {
+      "type": "paragraph",
+      "text": "The CFC measures affect you if you are an Australian resident with substantial investments or involvement in foreign companies or foreign trusts controlled by Australians."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your share of the specified income and gains of a CFC is included in your assessable income, even if you did not receive a distribution from the CFC. The income and gains of CFCs are worked out using similar rules that apply to resident entities, with some specific modifications."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Transferor trust measures"
+    },
+    {
+      "type": "paragraph",
+      "text": "The transferor trust measures apply to you if you are an Australian resident entity that has either directly or indirectly caused the transfer of property (including money) or services at any time to a non-resident trust. You must include the trust's profits in your assessable income even though you have not received a distribution from the trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "A trust is considered a resident trust if either of the following applies at any time during the income year:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the trustee is an Australian resident",
+        "the trust is managed or controlled in Australia."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Foreign investment fund and foreign life assurance policies"
+    },
+    {
+      "type": "paragraph",
+      "text": "On 14 July 2010, the foreign investment fund (FIF) and foreign life assurance policy (FLP) measures were repealed and do not apply from the 2010–11 income year onwards."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are an early balancer (that is, you operate a company or trust with a substituted 2010–11 income year that starts before 1 July 2010), the repeal of the FIF provisions will apply from the start of your 2010–11 income year."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "FIF measures 2010–11 income year and onwards"
+    },
+    {
+      "type": "paragraph",
+      "text": "The FIF measures applied to income and gains accumulating in both of the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "foreign companies that were not controlled by Australians",
+        "foreign trusts that fell outside the scope of the foreign source income measures."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You are no longer subject to accruals taxation on income and gains accumulated in FIFs. As FIF income is no longer attributable, you cannot use any unapplied previous FIF losses."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have an interest in a FIF, you will be subject to the general tax rules applicable to your circumstances - for example, the general tax rules relating to trust income."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information about the repeal of the FIF measures, including information on double taxation, refer to chapter 4: Taxation of foreign investment fund (FIF) interests of the Foreign income return form guide 2011–12."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "FIF and FLP measures 2009–10 and previous income years"
+    },
+    {
+      "type": "paragraph",
+      "text": "For the 2009–10 income year and all prior income years, the FIF measures apply to you as an Australian resident if you hold an interest in certain income and gains accumulating in either of the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "foreign companies that are not controlled by Australians",
+        "foreign trusts that are not already subject to attribution under the CFC, CFT and transferor trust rules."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The FIF measures apply to your interest in a FIF or FLP if both of the following apply:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were a resident of Australia at any time in an income year",
+        "you had an interest in a FIF or FLP at the end of the income year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The FIF measures also apply when working out the income of CFCs, CFTs or transferor trusts that hold an interest in a FIF."
+    },
+    {
+      "type": "paragraph",
+      "text": "The FIF measures extend to certain FLPs that have an investment component, such as life bonds."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Foreign investment funds guide 2009–10 ."
+    }
+  ],
+  "content_text": "## When income is attributed to you\nAttributed foreign income is the income attributed to the taxpayer from controlled foreign entities. Even if the income has not been distributed it may be attributed to you for income tax purposes, if you:\n- have interests in a foreign entity\n- are involved with a foreign trust.\nYou need to declare income attributed to you, if either of the following applies:\n- you have either a direct or indirect interest in a foreign company controlled by Australians – known as a controlled foreign company (CFC) foreign trust controlled by Australians – known as a controlled foreign trust (CFT) CFC or CFT you effectively control\n- you have directly or indirectly caused the transfer of property (including money) or services at any time to a non-resident trust.\nTo prevent double taxation, dividend income you receive as an Australian resident , which you source from profits that have previously been attributed under these rules, is generally exempt from Australian tax.\n## Controlled foreign companies\nThe CFC measures affect you if you are an Australian resident with substantial investments or involvement in foreign companies or foreign trusts controlled by Australians.\nYour share of the specified income and gains of a CFC is included in your assessable income, even if you did not receive a distribution from the CFC. The income and gains of CFCs are worked out using similar rules that apply to resident entities, with some specific modifications.\n## Transferor trust measures\nThe transferor trust measures apply to you if you are an Australian resident entity that has either directly or indirectly caused the transfer of property (including money) or services at any time to a non-resident trust. You must include the trust's profits in your assessable income even though you have not received a distribution from the trust.\nA trust is considered a resident trust if either of the following applies at any time during the income year:\n- the trustee is an Australian resident\n- the trust is managed or controlled in Australia.\n## Foreign investment fund and foreign life assurance policies\nOn 14 July 2010, the foreign investment fund (FIF) and foreign life assurance policy (FLP) measures were repealed and do not apply from the 2010–11 income year onwards.\nIf you are an early balancer (that is, you operate a company or trust with a substituted 2010–11 income year that starts before 1 July 2010), the repeal of the FIF provisions will apply from the start of your 2010–11 income year.\n### FIF measures 2010–11 income year and onwards\nThe FIF measures applied to income and gains accumulating in both of the following:\n- foreign companies that were not controlled by Australians\n- foreign trusts that fell outside the scope of the foreign source income measures.\nYou are no longer subject to accruals taxation on income and gains accumulated in FIFs. As FIF income is no longer attributable, you cannot use any unapplied previous FIF losses.\nIf you have an interest in a FIF, you will be subject to the general tax rules applicable to your circumstances - for example, the general tax rules relating to trust income.\nFor more information about the repeal of the FIF measures, including information on double taxation, refer to chapter 4: Taxation of foreign investment fund (FIF) interests of the Foreign income return form guide 2011–12.\n### FIF and FLP measures 2009–10 and previous income years\nFor the 2009–10 income year and all prior income years, the FIF measures apply to you as an Australian resident if you hold an interest in certain income and gains accumulating in either of the following:\n- foreign companies that are not controlled by Australians\n- foreign trusts that are not already subject to attribution under the CFC, CFT and transferor trust rules.\nThe FIF measures apply to your interest in a FIF or FLP if both of the following apply:\n- you were a resident of Australia at any time in an income year\n- you had an interest in a FIF or FLP at the end of the income year.\nThe FIF measures also apply when working out the income of CFCs, CFTs or transferor trusts that hold an interest in a FIF.\nThe FIF measures extend to certain FLPs that have an investment component, such as life bonds.\nFor more information, see Foreign investment funds guide 2009–10 .",
+  "child_links": [],
+  "word_count": 732,
+  "source_title": "",
+  "source_description": "",
+  "category": "income-deductions-offsets-and-records"
+}

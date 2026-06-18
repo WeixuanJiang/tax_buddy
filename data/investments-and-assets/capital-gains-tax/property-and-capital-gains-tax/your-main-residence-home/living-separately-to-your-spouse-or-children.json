@@ -1,0 +1,271 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/capital-gains-tax/property-and-capital-gains-tax/your-main-residence-home/living-separately-to-your-spouse-or-children",
+  "title": "Living separately to your spouse or children",
+  "description": "How to use the main residence exemption if you live in a different home to your spouse or children.",
+  "nat_number": "",
+  "quick_code": "66032",
+  "date_updated": "2025-06-22T14:00:00Z",
+  "first_published": "",
+  "keywords": "cgt spouse, children, main residence",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Having a different home from your dependent child"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you and a dependent child under 18 years of age have different homes for a period, for capital gains tax (CGT) purposes you must choose one of the homes as the main residence for both of you for the period."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Having a different home from your spouse"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you and your spouse have different homes for a period, for CGT purposes you and your spouse must either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "choose one of the homes as the main residence for both of you for the period",
+        "each nominate one of the different homes as your main residence for the period."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you nominate different homes for the period and you own 50% or less of the home you have nominated, you qualify for an exemption for your share. If you own more than 50%, your share is exempt for half the period you and your spouse have different homes. The same rule applies to your spouse."
+    },
+    {
+      "type": "paragraph",
+      "text": "This rule applies to each main residence the spouses nominate, whether they have sole ownership or own the home jointly (either as joint tenants or tenants in common)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: spouses with different main residences"
+    },
+    {
+      "type": "paragraph",
+      "text": "On 1 July 1999 Kathy and her spouse Grahame entered into a contract to purchase a townhouse which they lived in together. Grahame owned 70% of the townhouse and Kathy owned the other 30%."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 1 August 2002 they entered into a contract to purchase a beach house, which they owned in equal shares."
+    },
+    {
+      "type": "paragraph",
+      "text": "From 1 May 2003:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Kathy lived in their beach house and nominated it as her main residence.",
+        "Grahame kept living in the townhouse and nominated it as his main residence."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "On 15 April 2025 Kathy and Grahame entered into a contract for the sale of both the townhouse and beach house."
+    },
+    {
+      "type": "paragraph",
+      "text": "Beach house"
+    },
+    {
+      "type": "paragraph",
+      "text": "As the beach house was Kathy's main residence and she owned 50% of it, she disregards her share of any capital gain or loss for the period she and Grahame had different homes (1 May 2003 to 15 April 2025)."
+    },
+    {
+      "type": "paragraph",
+      "text": "As Grahame didn't live in the beach house or nominate it as his main residence when he and Kathy had different homes, he includes his share (50%) of any capital gain or loss for any of the period he owned it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Townhouse"
+    },
+    {
+      "type": "paragraph",
+      "text": "The total capital gain on the sale of the townhouse was $100,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "Grahame's share of the capital gain is $70,000 (reflecting his 70% ownership interest). Because Grahame owned more than 50% of the townhouse, it is taken to have been his main residence for half of the period when he and Kathy had different homes. He is entitled to the main residence exemption for the entire period that he and Kathy lived together in the townhouse."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of the gain that Grahame disregards under the main residence exemption is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "his share of capital gain",
+        "multiplied by: days the spouses have one main residence (1 July 1999 to 30 April 2003)",
+        "divided by: total days the property was owned (1 July 1999 to 15 April 2025)",
+        "equals: amount of gain disregarded for the period that spouses have one main residence."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "That is:"
+    },
+    {
+      "type": "paragraph",
+      "text": "$70,000 × (1400 ÷ 9,421 days) = $10,402"
+    },
+    {
+      "type": "paragraph",
+      "text": "plus"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "his share of capital gain",
+        "multiplied by: 50%",
+        "multiplied by: days the spouses have separate main residences (1 May 2003 to 15 April 2025)",
+        "divided by: total days the property was owned (1 July 1999 to 15 April 2025)",
+        "equals: amount of gain disregarded for the period that spouses have separate main residences."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "That is:"
+    },
+    {
+      "type": "paragraph",
+      "text": "$70,000 × 50% × (8,021 days ÷ 9,421 days) = $29,799"
+    },
+    {
+      "type": "paragraph",
+      "text": "The total amount disregarded by Grahame is:"
+    },
+    {
+      "type": "paragraph",
+      "text": "$10,402 + $29,799 = $40,201"
+    },
+    {
+      "type": "paragraph",
+      "text": "Grahame's capital gain on the townhouse is therefore:"
+    },
+    {
+      "type": "paragraph",
+      "text": "$70,000 − $40,201 = $29,799"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kathy's share of the $100,000 capital gain on the townhouse is $30,000, reflecting her 30% ownership interest. She is entitled to the main residence exemption for the period that she and Grahame lived together in the townhouse. The amount she disregards is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "her share of capital gain",
+        "multiplied by: days the spouses have one main residence (1 July 1999 to 30 April 2003)",
+        "divided by: total days the property was owned (1 July 1999 to 15 April 2025)",
+        "equals: amount of gain disregarded for the period that spouses have one main residence."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "That is:"
+    },
+    {
+      "type": "paragraph",
+      "text": "$30,000 × (1,400 days ÷ 9,421 days) = $4,458"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kathy's capital gain on the townhouse is therefore:"
+    },
+    {
+      "type": "paragraph",
+      "text": "$30,000 − $4,458 = $25,542"
+    },
+    {
+      "type": "paragraph",
+      "text": "CGT discount"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kathy and Grahame can use the CGT discount to reduce their respective capital gains (after applying any capital losses) because they owned the townhouse and beach house for at least 12 months and are Australian residents. For the townhouse, which was bought before 21 September 1999, they have the option of indexing the cost base instead of using the discount."
+    },
+    {
+      "type": "paragraph",
+      "text": "This rule also applies if you choose to treat a property as your main residence after you move out , and this choice results in you having a different main residence from your spouse or a dependent child for a period."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: different main residences and continuing main residence"
+    },
+    {
+      "type": "paragraph",
+      "text": "On 5 February 2000 Anna and her spouse Mark bought a townhouse and moved in together. Anna owned more than 50% of the townhouse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before moving into the townhouse Anna had lived alone in her own flat. After moving into the townhouse she rented out her flat."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 11 March 2001 Anna sold her flat. She chose to treat the flat as her main residence from 5 February 2000 until she sold it, under the 'continuing main residence status after moving out' rule."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 29 April 2025 Anna and Mark sold their townhouse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because of Anna's choice, Mark had a different main residence from Anna for the period 5 February 2000 to 11 March 2001. Therefore, Mark must either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "treat Anna's flat as his main residence for that period, or",
+        "nominate the townhouse as his main residence for that period."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If he chooses to treat Anna's flat as his main residence, a part of any capital gain Mark makes when he sells the townhouse will be taxable. He will not get an exemption for the townhouse for the period that he nominated Anna's flat as his main residence (that is, 5 February 2000 to 11 March 2001)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If Mark nominates the townhouse as his main residence, he qualifies for a full exemption on any capital gain he makes when it is sold because he owns 50% or less of it. However, because Mark and Anna had different main residences as a result of Mark's choice, and Anna owned more than 50% of the flat, her gain on the flat will only qualify for a 50% exemption for the period from 5 February 2000 to 11 March 2001."
+    },
+    {
+      "type": "paragraph",
+      "text": "Anna's capital gain on the townhouse for the period 5 February 2000 to 11 March 2001 is taxable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Definition of spouse"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your spouse is another person who is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "legally married to you",
+        "in a relationship with you, and the relationship is registered under a prescribed state or territory law, or",
+        "not legally married to you but lives with you on a genuine domestic basis in a relationship as a couple."
+      ]
+    }
+  ],
+  "content_text": "## Having a different home from your dependent child\nIf you and a dependent child under 18 years of age have different homes for a period, for capital gains tax (CGT) purposes you must choose one of the homes as the main residence for both of you for the period.\n## Having a different home from your spouse\nIf you and your spouse have different homes for a period, for CGT purposes you and your spouse must either:\n- choose one of the homes as the main residence for both of you for the period\n- each nominate one of the different homes as your main residence for the period.\nIf you nominate different homes for the period and you own 50% or less of the home you have nominated, you qualify for an exemption for your share. If you own more than 50%, your share is exempt for half the period you and your spouse have different homes. The same rule applies to your spouse.\nThis rule applies to each main residence the spouses nominate, whether they have sole ownership or own the home jointly (either as joint tenants or tenants in common).\n### Example: spouses with different main residences\nOn 1 July 1999 Kathy and her spouse Grahame entered into a contract to purchase a townhouse which they lived in together. Grahame owned 70% of the townhouse and Kathy owned the other 30%.\nOn 1 August 2002 they entered into a contract to purchase a beach house, which they owned in equal shares.\nFrom 1 May 2003:\n- Kathy lived in their beach house and nominated it as her main residence.\n- Grahame kept living in the townhouse and nominated it as his main residence.\nOn 15 April 2025 Kathy and Grahame entered into a contract for the sale of both the townhouse and beach house.\nBeach house\nAs the beach house was Kathy's main residence and she owned 50% of it, she disregards her share of any capital gain or loss for the period she and Grahame had different homes (1 May 2003 to 15 April 2025).\nAs Grahame didn't live in the beach house or nominate it as his main residence when he and Kathy had different homes, he includes his share (50%) of any capital gain or loss for any of the period he owned it.\nTownhouse\nThe total capital gain on the sale of the townhouse was $100,000.\nGrahame's share of the capital gain is $70,000 (reflecting his 70% ownership interest). Because Grahame owned more than 50% of the townhouse, it is taken to have been his main residence for half of the period when he and Kathy had different homes. He is entitled to the main residence exemption for the entire period that he and Kathy lived together in the townhouse.\nThe amount of the gain that Grahame disregards under the main residence exemption is:\n- his share of capital gain\n- multiplied by: days the spouses have one main residence (1 July 1999 to 30 April 2003)\n- divided by: total days the property was owned (1 July 1999 to 15 April 2025)\n- equals: amount of gain disregarded for the period that spouses have one main residence.\nThat is:\n$70,000 × (1400 ÷ 9,421 days) = $10,402\nplus\n- his share of capital gain\n- multiplied by: 50%\n- multiplied by: days the spouses have separate main residences (1 May 2003 to 15 April 2025)\n- divided by: total days the property was owned (1 July 1999 to 15 April 2025)\n- equals: amount of gain disregarded for the period that spouses have separate main residences.\nThat is:\n$70,000 × 50% × (8,021 days ÷ 9,421 days) = $29,799\nThe total amount disregarded by Grahame is:\n$10,402 + $29,799 = $40,201\nGrahame's capital gain on the townhouse is therefore:\n$70,000 − $40,201 = $29,799\nKathy's share of the $100,000 capital gain on the townhouse is $30,000, reflecting her 30% ownership interest. She is entitled to the main residence exemption for the period that she and Grahame lived together in the townhouse. The amount she disregards is:\n- her share of capital gain\n- multiplied by: days the spouses have one main residence (1 July 1999 to 30 April 2003)\n- divided by: total days the property was owned (1 July 1999 to 15 April 2025)\n- equals: amount of gain disregarded for the period that spouses have one main residence.\nThat is:\n$30,000 × (1,400 days ÷ 9,421 days) = $4,458\nKathy's capital gain on the townhouse is therefore:\n$30,000 − $4,458 = $25,542\nCGT discount\nKathy and Grahame can use the CGT discount to reduce their respective capital gains (after applying any capital losses) because they owned the townhouse and beach house for at least 12 months and are Australian residents. For the townhouse, which was bought before 21 September 1999, they have the option of indexing the cost base instead of using the discount.\nThis rule also applies if you choose to treat a property as your main residence after you move out , and this choice results in you having a different main residence from your spouse or a dependent child for a period.\n### Example: different main residences and continuing main residence\nOn 5 February 2000 Anna and her spouse Mark bought a townhouse and moved in together. Anna owned more than 50% of the townhouse.\nBefore moving into the townhouse Anna had lived alone in her own flat. After moving into the townhouse she rented out her flat.\nOn 11 March 2001 Anna sold her flat. She chose to treat the flat as her main residence from 5 February 2000 until she sold it, under the 'continuing main residence status after moving out' rule.\nOn 29 April 2025 Anna and Mark sold their townhouse.\nBecause of Anna's choice, Mark had a different main residence from Anna for the period 5 February 2000 to 11 March 2001. Therefore, Mark must either:\n- treat Anna's flat as his main residence for that period, or\n- nominate the townhouse as his main residence for that period.\nIf he chooses to treat Anna's flat as his main residence, a part of any capital gain Mark makes when he sells the townhouse will be taxable. He will not get an exemption for the townhouse for the period that he nominated Anna's flat as his main residence (that is, 5 February 2000 to 11 March 2001).\nIf Mark nominates the townhouse as his main residence, he qualifies for a full exemption on any capital gain he makes when it is sold because he owns 50% or less of it. However, because Mark and Anna had different main residences as a result of Mark's choice, and Anna owned more than 50% of the flat, her gain on the flat will only qualify for a 50% exemption for the period from 5 February 2000 to 11 March 2001.\nAnna's capital gain on the townhouse for the period 5 February 2000 to 11 March 2001 is taxable.\n## Definition of spouse\nYour spouse is another person who is:\n- legally married to you\n- in a relationship with you, and the relationship is registered under a prescribed state or territory law, or\n- not legally married to you but lives with you on a genuine domestic basis in a relationship as a couple.",
+  "child_links": [],
+  "word_count": 1228,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

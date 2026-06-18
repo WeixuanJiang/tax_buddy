@@ -1,0 +1,326 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/capital-gains-tax/inherited-assets-and-capital-gains-tax/how-cgt-applies-to-inherited-assets",
+  "title": "How CGT applies to inherited assets",
+  "description": "How CGT applies when you inherit an asset, sell it or it passes to a foreign resident, charity or super fund.",
+  "nat_number": "",
+  "quick_code": "69713",
+  "date_updated": "2025-11-05T13:00:00Z",
+  "first_published": "",
+  "keywords": "cgt deceased estate, selling inherited asset, inherit an asset, inherited asset record keeping, inherit capital loss, inhertited asset",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When an asset passes to a beneficiary"
+    },
+    {
+      "type": "paragraph",
+      "text": "A beneficiary becomes the owner (inheritor) of a capital gains tax (CGT) asset if it passes to them in any of the following ways:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "under a will (including where a court order varies that will)",
+        "due to the laws of intestacy (when a person dies without having made a will), including when the laws of intestacy are varied by a court order",
+        "because the asset was owned by the deceased at the time of their death and was distributed to the beneficiary instead of a sum of money, or other interest or share of the deceased estate",
+        "under a deed of arrangement , where the beneficiary entered the arrangement to settle a claim to participate in the deceased estate and the only consideration given by the beneficiary is the variation or waiver of a claim to one or more assets that formed part of the deceased estate."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, there will be no CGT implications for any assets a beneficiary inherits in these ways. However, if the beneficiary sells or otherwise disposes of the inherited assets, a CGT event may happen unless an exemption applies (see Disposing of inherited assets )."
+    },
+    {
+      "type": "paragraph",
+      "text": "The legal personal representative (LPR) of the deceased estate disregards a capital gain or capital loss of a CGT asset where:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "it was owned by the deceased person just before they died",
+        "the asset passes to a beneficiary of the estate."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Transfers under a deed of arrangement"
+    },
+    {
+      "type": "paragraph",
+      "text": "A deed of arrangement is a legal document that alters the distribution of a deceased person's estate. Generally, you must enter into the deed of arrangement before the LPR completes the administration of the estate."
+    },
+    {
+      "type": "paragraph",
+      "text": "In limited cases, an asset may pass to you under a deed of arrangement after the administration of the estate has been completed. However, you must be able to show that a court would likely consider your application for family provision, or an extension of time to make an application, at the time you entered into the deed of arrangement."
+    },
+    {
+      "type": "paragraph",
+      "text": "For further information on the tax consequences of an asset that passes to a beneficiary, see Taxation Ruling TR 2006/14 Income tax: capital gains tax: consequences of creating life and remainder interests in property and of later events affecting those interests ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: asset passes under deed of arrangement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maria passed away in 2015, leaving a valid will. Giovanni is appointed executor of her estate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maria's will states that her home should be divided among her 2 children (the beneficiaries) according to the following shares:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Joanne – 70%",
+        "Madeline – 30%."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Madeline is dissatisfied with how the home is distributed, so Joanne and Madeline enter into a deed of family agreement to vary the terms of the will."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before Giovanni completes the administration of the estate, they sign the deed, which stipulates that the estate would transfer the home to them in equal shares."
+    },
+    {
+      "type": "paragraph",
+      "text": "The only consideration given for the transfer was the waiver of a claim to a CGT asset within the estate."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a result, Joanne and Madeline each receive a 50% ownership interest in the home. Giovanni, acting as the executor, can disregard any capital gain or capital loss on the transfer of the ownership interests to Joanne and Madeline."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Foreign residents inheriting assets"
+    },
+    {
+      "type": "paragraph",
+      "text": "When an asset passes to a foreign resident, CGT applies to the deceased at the time of their death if all the following apply:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The asset was acquired by the deceased on or after the start of CGT (20 September 1985).",
+        "The deceased was an Australian resident when they died.",
+        "The asset is not taxable Australian property in the hands of the foreign resident beneficiary."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The capital gain or loss on the asset is worked out using:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the market value of the asset at the date of death",
+        "the cost base of the asset at that date (for a capital gain) or reduced cost base (for a capital loss)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The capital gain or loss must be reported in the deceased's date of death tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Charities and super funds inheriting assets"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a CGT asset passes to a tax-advantaged entity, CGT applies to the deceased at the time of their death."
+    },
+    {
+      "type": "paragraph",
+      "text": "A tax-advantaged entity is either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a tax-exempt entity such as a church or charity",
+        "the trustee of a complying super fund complying approved deposit fund pooled super trust."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The capital gain or loss on the asset is worked out using:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the market value of the asset at the date of death",
+        "the cost base of the asset at that date (for a capital gain) or reduced cost base (for a capital loss)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The capital gain or loss must be reported in the deceased's date of death tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "A capital gain or loss from a testamentary gift can be disregarded if the gift both:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "is made to a deductible gift recipient",
+        "would have been income tax deductible if it had not been a testamentary gift."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Disposing of inherited assets"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you sell an asset you inherit, and the asset is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "not a property, the normal rules apply for calculating your CGT",
+        "a property , such as a house, it may qualify for the main residence exemption from CGT",
+        "a collectable or personal use asset , the normal rules apply – that is, the asset is subject to CGT unless it was acquired for less than the thresholds for these types of assets."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't use the CGT calculator and record keeping tool to calculate CGT for inherited assets from a deceased estate. You will need to calculate the CGT yourself ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For a summary fact sheet with common scenarios about capital gains tax on inherited property, go to the ATO Publication Ordering Service to download Capital gains tax on inherited property External Link ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cost of the asset"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unless the asset you inherit is fully exempt, you will need to know its cost base to work out your CGT when you sell it. Depending on the circumstances, the cost base may be based on the value of the asset:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "when the deceased acquired it",
+        "when they died."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Eligibility for CGT discount or indexation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Australian resident individuals, trusts and super funds can use the CGT discount to reduce their capital gain on assets they have owned for 12 months or more."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purposes of qualifying for the CGT discount, you can treat an inherited asset as though you have owned it since:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the deceased acquired the asset, if they acquired it on or after 20 September 1985",
+        "the deceased died, if they acquired the asset before 20 September 1985."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the deceased died before 21 September 1999, you have the option of indexing the cost base instead of using the discount. This involves calculating your capital gain by using the asset's cost base indexed for inflation up until 21 September 1999. If you use indexation, you are taken to have acquired the asset when the deceased acquired it."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Winding up a deceased estate"
+    },
+    {
+      "type": "paragraph",
+      "text": "In administering and winding up a deceased estate, the LPR (typically the executor) may need to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "dispose of some or all of the estate's assets",
+        "acquire an asset to satisfy a specific legacy and dispose of the asset to a beneficiary."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In these situations, CGT applies when the LPR disposes of the asset. Any capital gain or loss made by the LPR is subject to the normal CGT rules."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Unapplied capital losses"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the deceased had any unapplied net capital losses when they died, these don't transfer to you as a beneficiary or LPR."
+    },
+    {
+      "type": "paragraph",
+      "text": "This means you can't use any such losses to offset your net capital gains."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Keeping records of inherited assets"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you inherit an asset, it is important to keep records of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "when the asset was acquired by the deceased",
+        "the asset's value or cost",
+        "costs related to the asset that are incurred by you and the LPR of the deceased estate."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "These records will help you work out your CGT when you later sell an asset."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the deceased acquired an asset:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "before 20 September 1985, you'll need to know the asset's market value at the date they died. If the LPR has had the asset valued, ask for a copy of the valuation report. If not, get your own valuation .",
+        "on or after 20 September 1985, you will need records of the deceased's cost base for the asset."
+      ]
+    }
+  ],
+  "content_text": "## When an asset passes to a beneficiary\nA beneficiary becomes the owner (inheritor) of a capital gains tax (CGT) asset if it passes to them in any of the following ways:\n- under a will (including where a court order varies that will)\n- due to the laws of intestacy (when a person dies without having made a will), including when the laws of intestacy are varied by a court order\n- because the asset was owned by the deceased at the time of their death and was distributed to the beneficiary instead of a sum of money, or other interest or share of the deceased estate\n- under a deed of arrangement , where the beneficiary entered the arrangement to settle a claim to participate in the deceased estate and the only consideration given by the beneficiary is the variation or waiver of a claim to one or more assets that formed part of the deceased estate.\nGenerally, there will be no CGT implications for any assets a beneficiary inherits in these ways. However, if the beneficiary sells or otherwise disposes of the inherited assets, a CGT event may happen unless an exemption applies (see Disposing of inherited assets ).\nThe legal personal representative (LPR) of the deceased estate disregards a capital gain or capital loss of a CGT asset where:\n- it was owned by the deceased person just before they died\n- the asset passes to a beneficiary of the estate.\n### Transfers under a deed of arrangement\nA deed of arrangement is a legal document that alters the distribution of a deceased person's estate. Generally, you must enter into the deed of arrangement before the LPR completes the administration of the estate.\nIn limited cases, an asset may pass to you under a deed of arrangement after the administration of the estate has been completed. However, you must be able to show that a court would likely consider your application for family provision, or an extension of time to make an application, at the time you entered into the deed of arrangement.\nFor further information on the tax consequences of an asset that passes to a beneficiary, see Taxation Ruling TR 2006/14 Income tax: capital gains tax: consequences of creating life and remainder interests in property and of later events affecting those interests .\n#### Example: asset passes under deed of arrangement\nMaria passed away in 2015, leaving a valid will. Giovanni is appointed executor of her estate.\nMaria's will states that her home should be divided among her 2 children (the beneficiaries) according to the following shares:\n- Joanne – 70%\n- Madeline – 30%.\nMadeline is dissatisfied with how the home is distributed, so Joanne and Madeline enter into a deed of family agreement to vary the terms of the will.\nBefore Giovanni completes the administration of the estate, they sign the deed, which stipulates that the estate would transfer the home to them in equal shares.\nThe only consideration given for the transfer was the waiver of a claim to a CGT asset within the estate.\nAs a result, Joanne and Madeline each receive a 50% ownership interest in the home. Giovanni, acting as the executor, can disregard any capital gain or capital loss on the transfer of the ownership interests to Joanne and Madeline.\n## Foreign residents inheriting assets\nWhen an asset passes to a foreign resident, CGT applies to the deceased at the time of their death if all the following apply:\n- The asset was acquired by the deceased on or after the start of CGT (20 September 1985).\n- The deceased was an Australian resident when they died.\n- The asset is not taxable Australian property in the hands of the foreign resident beneficiary.\nThe capital gain or loss on the asset is worked out using:\n- the market value of the asset at the date of death\n- the cost base of the asset at that date (for a capital gain) or reduced cost base (for a capital loss).\nThe capital gain or loss must be reported in the deceased's date of death tax return.\n## Charities and super funds inheriting assets\nIf a CGT asset passes to a tax-advantaged entity, CGT applies to the deceased at the time of their death.\nA tax-advantaged entity is either:\n- a tax-exempt entity such as a church or charity\n- the trustee of a complying super fund complying approved deposit fund pooled super trust.\nThe capital gain or loss on the asset is worked out using:\n- the market value of the asset at the date of death\n- the cost base of the asset at that date (for a capital gain) or reduced cost base (for a capital loss).\nThe capital gain or loss must be reported in the deceased's date of death tax return.\nA capital gain or loss from a testamentary gift can be disregarded if the gift both:\n- is made to a deductible gift recipient\n- would have been income tax deductible if it had not been a testamentary gift.\n## Disposing of inherited assets\nWhen you sell an asset you inherit, and the asset is:\n- not a property, the normal rules apply for calculating your CGT\n- a property , such as a house, it may qualify for the main residence exemption from CGT\n- a collectable or personal use asset , the normal rules apply – that is, the asset is subject to CGT unless it was acquired for less than the thresholds for these types of assets.\nYou can't use the CGT calculator and record keeping tool to calculate CGT for inherited assets from a deceased estate. You will need to calculate the CGT yourself .\nFor a summary fact sheet with common scenarios about capital gains tax on inherited property, go to the ATO Publication Ordering Service to download Capital gains tax on inherited property External Link .\n### Cost of the asset\nUnless the asset you inherit is fully exempt, you will need to know its cost base to work out your CGT when you sell it. Depending on the circumstances, the cost base may be based on the value of the asset:\n- when the deceased acquired it\n- when they died.\n### Eligibility for CGT discount or indexation\nAustralian resident individuals, trusts and super funds can use the CGT discount to reduce their capital gain on assets they have owned for 12 months or more.\nFor the purposes of qualifying for the CGT discount, you can treat an inherited asset as though you have owned it since:\n- the deceased acquired the asset, if they acquired it on or after 20 September 1985\n- the deceased died, if they acquired the asset before 20 September 1985.\nIf the deceased died before 21 September 1999, you have the option of indexing the cost base instead of using the discount. This involves calculating your capital gain by using the asset's cost base indexed for inflation up until 21 September 1999. If you use indexation, you are taken to have acquired the asset when the deceased acquired it.\n### Winding up a deceased estate\nIn administering and winding up a deceased estate, the LPR (typically the executor) may need to:\n- dispose of some or all of the estate's assets\n- acquire an asset to satisfy a specific legacy and dispose of the asset to a beneficiary.\nIn these situations, CGT applies when the LPR disposes of the asset. Any capital gain or loss made by the LPR is subject to the normal CGT rules.\n### Unapplied capital losses\nIf the deceased had any unapplied net capital losses when they died, these don't transfer to you as a beneficiary or LPR.\nThis means you can't use any such losses to offset your net capital gains.\n## Keeping records of inherited assets\nWhen you inherit an asset, it is important to keep records of:\n- when the asset was acquired by the deceased\n- the asset's value or cost\n- costs related to the asset that are incurred by you and the LPR of the deceased estate.\nThese records will help you work out your CGT when you later sell an asset.\nIf the deceased acquired an asset:\n- before 20 September 1985, you'll need to know the asset's market value at the date they died. If the LPR has had the asset valued, ask for a copy of the valuation report. If not, get your own valuation .\n- on or after 20 September 1985, you will need records of the deceased's cost base for the asset.",
+  "child_links": [],
+  "word_count": 1438,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

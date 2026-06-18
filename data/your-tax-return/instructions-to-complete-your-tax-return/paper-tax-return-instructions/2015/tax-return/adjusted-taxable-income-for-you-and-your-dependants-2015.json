@@ -1,0 +1,281 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2015/tax-return/adjusted-taxable-income-for-you-and-your-dependants-2015",
+  "title": "Adjusted taxable income (ATI) for you and your dependants 2015",
+  "description": "Work out your adjusted taxable income and if you're eligible for certain tax offsets.",
+  "nat_number": "",
+  "quick_code": "44234",
+  "date_updated": "2015-05-28T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, TaxPack, ATI, adjusted taxable income, income",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "If you want to claim a tax offset for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "zone and overseas forces",
+        "net medical expenses",
+        "invalid and invalid carer."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "you will need to work out your and your dependant’s adjusted taxable income (ATI) for the relevant period to determine:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "whether you are eligible for a tax offset, and",
+        "the amount of any tax offset you are entitled to."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Find out more"
+    },
+    {
+      "type": "paragraph",
+      "text": "For the meaning of dependant and maintaining a dependant, go to Special circumstances and glossary ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What is ATI?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following amounts are used to calculate a person's ATI:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "taxable income",
+        "reportable employer superannuation contributions",
+        "deductible personal superannuation contributions",
+        "adjusted fringe benefits (total reportable fringe benefits amounts multiplied by 0.53)",
+        "certain tax-free government pensions or benefits received by the person",
+        "target foreign income (income and certain other amounts from sources outside Australia not included in your taxable income or received as a fringe benefit)",
+        "net financial investment loss (the amount by which the person's deductions attributable to financial investments exceeded their total financial investment income)",
+        "net rental property loss (the amount by which the person's deductions attributable to rental property exceeded their rental property income)",
+        "any child support payments the person provided to another person."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to work out ATI"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use either our Income tests calculator or worksheet 1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are working out the ATI of a person for the whole year, you can get the amounts for worksheet 1 from the person's tax return. Table 1 shows you where the relevant amounts are on the tax return."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Table 1"
+        ],
+        [
+          "Working out ATI"
+        ],
+        [
+          "For worksheet 1:",
+          "The amount comes from:"
+        ],
+        [
+          "(a)",
+          "TAXABLE INCOME OR LOSS on page 4 of the tax return"
+        ],
+        [
+          "(b)",
+          "T item IT2 on page 8 of the tax return"
+        ],
+        [
+          "(c)",
+          "H item D12 on page 15 of the supplementary section of the tax return"
+        ],
+        [
+          "(d)",
+          "U item IT3 on page 8 of the tax return"
+        ],
+        [
+          "(e)",
+          "V item IT4 on page 8 of the tax return"
+        ],
+        [
+          "(f)",
+          "X item IT5 on page 8 of the tax return"
+        ],
+        [
+          "(g)",
+          "Y item IT6 on page 8 of the tax return"
+        ],
+        [
+          "(h)",
+          "W item IT1 on page 8 of the tax return, multiplied by 0.53 and rounded down to the nearest dollar"
+        ],
+        [
+          "(j)",
+          "Z item IT7 on page 8 of the tax return."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are working out a dependant's ATI for part of the year, you cannot use the figures from their tax return. Instead, you must work out the amounts for the relevant period and complete the worksheet using these figures. The instructions at each offset question will tell you what to do."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are completing a tax return for a deceased person, or your spouse died during the year and you need to know their ATI for the whole of 2014-15, their ATI is the amount at (k) below:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "divided by the number of days the person was alive in 2014-15, and",
+        "multiplied by 365."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the deceased person's ATI for the whole of 2014-15."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 1"
+        ],
+        [
+          "Working out a person's ATI for the relevant period"
+        ],
+        [
+          "",
+          "You",
+          "Dependant 1",
+          "Dependant 2",
+          "Dependant 3"
+        ],
+        [
+          "The period for which you need to work out the person's ATI",
+          "from:",
+          "1/7/2014",
+          "",
+          "",
+          ""
+        ],
+        [
+          "to:",
+          "30/6/2015",
+          "",
+          "",
+          ""
+        ],
+        [
+          "The person's taxable income for the period. If taxable income is a loss, write 0 at (a).",
+          "(a)",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "The person's reportable employer superannuation contributions for the period",
+          "(b)",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "The person's deductible personal superannuation contributions for the period",
+          "(c)",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "The person's tax-free government pensions or benefits for the period",
+          "(d)",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "The person's target foreign income for the period",
+          "(e)",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "The person's net financial investment loss for the period",
+          "(f)",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "The person's net rental property loss for the period",
+          "(g)",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "The person's adjusted fringe benefits for the period",
+          "(h)",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "Add all the amounts from (a) to (h).",
+          "(i)",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "Child maintenance the person provided to a third party for the period",
+          "(j)",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "Take (j) away from (i). This is the person's ATI for the period.",
+          "(k)",
+          "$",
+          "$",
+          "$",
+          "$"
+        ]
+      ]
+    }
+  ],
+  "content_text": "## If you want to claim a tax offset for:\n- zone and overseas forces\n- net medical expenses\n- invalid and invalid carer.\nyou will need to work out your and your dependant’s adjusted taxable income (ATI) for the relevant period to determine:\n- whether you are eligible for a tax offset, and\n- the amount of any tax offset you are entitled to.\nFind out more\nFor the meaning of dependant and maintaining a dependant, go to Special circumstances and glossary .\n## What is ATI?\nThe following amounts are used to calculate a person's ATI:\n- taxable income\n- reportable employer superannuation contributions\n- deductible personal superannuation contributions\n- adjusted fringe benefits (total reportable fringe benefits amounts multiplied by 0.53)\n- certain tax-free government pensions or benefits received by the person\n- target foreign income (income and certain other amounts from sources outside Australia not included in your taxable income or received as a fringe benefit)\n- net financial investment loss (the amount by which the person's deductions attributable to financial investments exceeded their total financial investment income)\n- net rental property loss (the amount by which the person's deductions attributable to rental property exceeded their rental property income)\n- any child support payments the person provided to another person.\n## How to work out ATI\nYou can use either our Income tests calculator or worksheet 1 .\nIf you are working out the ATI of a person for the whole year, you can get the amounts for worksheet 1 from the person's tax return. Table 1 shows you where the relevant amounts are on the tax return.\nTable 1\nWorking out ATI\nFor worksheet 1: | The amount comes from:\n(a) | TAXABLE INCOME OR LOSS on page 4 of the tax return\n(b) | T item IT2 on page 8 of the tax return\n(c) | H item D12 on page 15 of the supplementary section of the tax return\n(d) | U item IT3 on page 8 of the tax return\n(e) | V item IT4 on page 8 of the tax return\n(f) | X item IT5 on page 8 of the tax return\n(g) | Y item IT6 on page 8 of the tax return\n(h) | W item IT1 on page 8 of the tax return, multiplied by 0.53 and rounded down to the nearest dollar\n(j) | Z item IT7 on page 8 of the tax return.\nIf you are working out a dependant's ATI for part of the year, you cannot use the figures from their tax return. Instead, you must work out the amounts for the relevant period and complete the worksheet using these figures. The instructions at each offset question will tell you what to do.\nIf you are completing a tax return for a deceased person, or your spouse died during the year and you need to know their ATI for the whole of 2014-15, their ATI is the amount at (k) below:\n- divided by the number of days the person was alive in 2014-15, and\n- multiplied by 365.\nThis is the deceased person's ATI for the whole of 2014-15.\nWorksheet 1\nWorking out a person's ATI for the relevant period\n | You | Dependant 1 | Dependant 2 | Dependant 3\nThe period for which you need to work out the person's ATI | from: | 1/7/2014 |  |  | \nto: | 30/6/2015 |  |  | \nThe person's taxable income for the period. If taxable income is a loss, write 0 at (a). | (a) | $ | $ | $ | $\nThe person's reportable employer superannuation contributions for the period | (b) | $ | $ | $ | $\nThe person's deductible personal superannuation contributions for the period | (c) | $ | $ | $ | $\nThe person's tax-free government pensions or benefits for the period | (d) | $ | $ | $ | $\nThe person's target foreign income for the period | (e) | $ | $ | $ | $\nThe person's net financial investment loss for the period | (f) | $ | $ | $ | $\nThe person's net rental property loss for the period | (g) | $ | $ | $ | $\nThe person's adjusted fringe benefits for the period | (h) | $ | $ | $ | $\nAdd all the amounts from (a) to (h). | (i) | $ | $ | $ | $\nChild maintenance the person provided to a third party for the period | (j) | $ | $ | $ | $\nTake (j) away from (i). This is the person's ATI for the period. | (k) | $ | $ | $ | $",
+  "child_links": [],
+  "word_count": 795,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,350 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2012/tax-return/spouse-details-married-or-de-facto-2012",
+  "title": "Spouse details - married or de facto 2012",
+  "description": "Complete this question if you had a spouse during 2011-12.",
+  "nat_number": "71050",
+  "quick_code": "25725",
+  "date_updated": "2012-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, spouse, spouse details, married, de facto",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Your spouse includes another person (whether of the same sex or opposite sex) who:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were in a relationship with that was registered under a prescribed state or territory law,",
+        "although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You must complete this section if you had a spouse during 2011-12 and:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you consent to use part or all of your 2012 tax refund to repay your spouse's Family Assistance Office (FAO) debt, or",
+        "you completed any of the following items:"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "T1",
+          "Spouse (without dependent child or student) tax offset"
+        ],
+        [
+          "T2",
+          "Senior Australians tax offset"
+        ],
+        [
+          "T3",
+          "Pensioner tax offset"
+        ],
+        [
+          "M1",
+          "Medicare levy reduction or exemption"
+        ],
+        [
+          "M2",
+          "Medicare levy surcharge, and you printed X in the No box at E"
+        ],
+        [
+          "T7",
+          "Superannuation contributions on behalf of your spouse (on the tax return, supplementary section)"
+        ],
+        [
+          "T10",
+          "Dependent relative tax offset (on the tax return, supplementary section)"
+        ],
+        [
+          "T13",
+          "Entrepreneurs tax offset (on the tax return, supplementary section) but only if you are required to or choose to complete steps 8-10 in T13 - Entrepreneurs tax offset ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "In 2011-12, did you have a spouse and fit into any of the above categories?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to Checklist - tax return , or return to main menu Individual tax return instructions"
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your spouse's income for any of the labels below is zero, you must write 0 at those items on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your spouse's PAYG payment summary - individual non-business",
+        "the relevant distribution statements, if any, for trust income and family trust distribution tax",
+        "if your spouse has child support obligations, the details of the amount of child support they paid (your spouse can get this information from the Child Support Agency)",
+        "if your spouse received foreign income, the details of the amount of foreign income received",
+        "if your spouse had financial investment losses, the net financial investment loss amount",
+        "if your spouse had rental property losses, the net rental property loss amount",
+        "if your spouse has claimed a deduction for personal superannuation contributions, the details of the amount claimed."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had more than one spouse during 2011-12, complete this section with the details for your spouse on 30 June 2012, or your latest spouse."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print your spouse's name in the boxes provided on page 9 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write your spouse's date of birth at K and print X in the relevant box for your spouse's sex. We use these details to work out whether your spouse is below the age-pension age."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a spouse for the full year, 1 July 2011 to 30 June 2012, print X in the Yes box at L ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you did not have a spouse for the full year, print X in the No box at L and write the dates you had a spouse between 1 July 2011 and 30 June 2012 at M and N ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you completed items T1 , T2 , T3 , M1 or M2 , or items T7 , T10 or T13 on the supplementary section of your tax return, follow the instructions below."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "If you completed …",
+          "you need to complete (where applicable)"
+        ],
+        [
+          "item T1",
+          "O, S, Q, A, B, C, D and E"
+        ],
+        [
+          "item T2 or T3",
+          "O, T, S, P, Q, A and D"
+        ],
+        [
+          "item M1 (V or W)",
+          "O"
+        ],
+        [
+          "item M1 (Y only)",
+          "O and F, if you had a spouse on 30 June 2012"
+        ],
+        [
+          "item M2 and you printed X in the No box at E",
+          "O, T, U, S, A, D and F, if you had a spouse for all of 2011-12 or your spouse died during the year"
+        ],
+        [
+          "item T7",
+          "O, S and A"
+        ],
+        [
+          "item T10",
+          "O, S, Q, A, B, C, D and E"
+        ],
+        [
+          "item T13",
+          "O, S, A, and D, if you had a spouse on 30 June 2012"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At O , write your spouse's 2011-12 taxable income. If this amount is zero, write 0. This amount can usually be obtained from your spouse's tax return or notice of assessment. If your spouse does not have to lodge a tax return, provide an estimate of their taxable income."
+    },
+    {
+      "type": "paragraph",
+      "text": "At T , write any amount of net income of a trust that the trustee was liable to pay tax on because your spouse was under a legal disability, for example, they were a bankrupt, were a person who was declared legally incapable because of a mental condition or were under 18 years old on 30 June 2012. (Do not include any amount that has already been included in your spouse's taxable income, for example, at O .) If this amount is zero, write 0. Check the trust distribution statements."
+    },
+    {
+      "type": "paragraph",
+      "text": "At U , write the total distributions to your spouse on which family trust distribution tax has been paid which they would have had to show as assessable income if the tax had not been paid. If this amount is zero, write 0. Check the trust distribution statements."
+    },
+    {
+      "type": "paragraph",
+      "text": "At S , write the total of the reportable fringe benefits amounts shown on your spouse's payment summaries, and write the total. If this amount is zero, write 0."
+    },
+    {
+      "type": "paragraph",
+      "text": "At P , write the amount of Australian Government pensions and allowances that your spouse received in 2011-12 (not including exempt pension income). If this amount is zero, write 0. Australian Government pensions and allowances are listed at question 6 - Australian Government pensions and allowances ."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Q , write the amount of any exempt pension income that your spouse received in 2011-12. Make sure you include only your spouse's exempt pension income. If this amount is zero, write 0. Exempt income is listed in Amounts you do not pay tax on ."
+    },
+    {
+      "type": "paragraph",
+      "text": "At A , write your spouse's reportable superannuation contributions. Reportable superannuation contributions are the sum of reportable employer superannuation contributions and personal deductible superannuation contributions (see question D12 - Personal superannuation contributions ). If this amount is zero, write 0."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the reportable employer superannuation contributions amounts shown on your spouse's payment summaries."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your spouse claimed a deduction for personal superannuation contributions at item D12 on their tax return (supplementary section), add the deduction amount to the result from step 1."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write your spouse's reportable superannuation contributions amount at A ."
+    },
+    {
+      "type": "paragraph",
+      "text": "At B , if your spouse received any of the following tax-free government pensions, then write the total amount they received for the income year:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a special rate disability pension under Part 6 of Chapter 4 of the Military Rehabilitation and Compensation Act 2004",
+        "a payment of compensation under section 68, 71 or 75 of the Military Rehabilitation and Compensation Act 2004",
+        "a payment of compensation mentioned in paragraph 234(1)(b) of the Military Rehabilitation and Compensation Act 2004 ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If this amount is zero, write 0"
+    },
+    {
+      "type": "paragraph",
+      "text": "At C , write the target foreign income your spouse received during the income year. Your spouse's target foreign income is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "any income amount earned, derived or received from sources outside Australia for your spouse's own use or benefit that is neither included in your spouse's taxable income nor received in the form of a fringe benefit, or",
+        "periodical payments or benefits by way of gifts or allowances from a source outside Australia that are neither included in your spouse's taxable income nor received in the form of a fringe benefit."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "It includes any foreign income that is not taxable in Australia. You must include any exempt foreign employment income shown at N item 20 on your spouse's tax return. All foreign income must be translated (converted) to Australian dollars before you complete this label. If this amount is zero, write 0."
+    },
+    {
+      "type": "paragraph",
+      "text": "At D , write your spouse's total net investment loss. Your spouse's total net investment loss is the sum of any net financial investment loss and any net rental property loss. If this amount is zero, write 0. The information and worksheets at questions IT5 and IT6 will help you to complete this label."
+    },
+    {
+      "type": "paragraph",
+      "text": "At E , write the total amount of child support your spouse provided to another person. The amount of child support provided is the total amount of any payments or benefits that your spouse was required to pay or provide to another person to maintain their natural or adopted child. However, you do not count any payments or benefits made or provided to you by your spouse unless you live apart on a permanent or indefinite basis. If this amount is zero, write 0."
+    },
+    {
+      "type": "paragraph",
+      "text": "At F , write the superannuation lump sum that you included at (k) in worksheet 1 for item M2 - Medicare levy surcharge , if it was part of your spouse's taxable income. If this amount is zero, write 0."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not consent to use part or all of your 2012 tax refund to repay any Family Assistance Office (FAO) debt of your spouse, print X in the No box. You have finished this section."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do consent, read below."
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer yes to this question only if all of the following apply to you."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You were the spouse of a family tax benefit (FTB) claimant or the spouse of a child care benefit claimant on 30 June 2012 and your income was taken into account in their claim.",
+        "Your spouse has given you authority to quote their customer reference number (CRN) on your tax return (if your spouse does not know their CRN, they can contact the FAO).",
+        "Your spouse has a debt due to the FAO or expects to have an FAO debt for 2012.",
+        "You expect to receive a tax refund for 2012.",
+        "You consent to use part or all of your refund to repay your spouse's FAO debt."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you consent, print X in the Yes box. You must complete your spouse's CRN at Z , and sign and date the consent."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to Checklist - tax return . return to main menu Individual tax return instructions go back to IT7 - Child support you paid"
+        ]
+      ]
+    }
+  ],
+  "content_text": "Your spouse includes another person (whether of the same sex or opposite sex) who:\n- you were in a relationship with that was registered under a prescribed state or territory law,\n- although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple.\nYou must complete this section if you had a spouse during 2011-12 and:\n- you consent to use part or all of your 2012 tax refund to repay your spouse's Family Assistance Office (FAO) debt, or\n- you completed any of the following items:\nT1 | Spouse (without dependent child or student) tax offset\nT2 | Senior Australians tax offset\nT3 | Pensioner tax offset\nM1 | Medicare levy reduction or exemption\nM2 | Medicare levy surcharge, and you printed X in the No box at E\nT7 | Superannuation contributions on behalf of your spouse (on the tax return, supplementary section)\nT10 | Dependent relative tax offset (on the tax return, supplementary section)\nT13 | Entrepreneurs tax offset (on the tax return, supplementary section) but only if you are required to or choose to complete steps 8-10 in T13 - Entrepreneurs tax offset .\n## In 2011-12, did you have a spouse and fit into any of the above categories?\nNO | Go to Checklist - tax return , or return to main menu Individual tax return instructions\nYES | Read below.\nIf your spouse's income for any of the labels below is zero, you must write 0 at those items on your tax return.\n## Answering this question\nYou will need:\n- your spouse's PAYG payment summary - individual non-business\n- the relevant distribution statements, if any, for trust income and family trust distribution tax\n- if your spouse has child support obligations, the details of the amount of child support they paid (your spouse can get this information from the Child Support Agency)\n- if your spouse received foreign income, the details of the amount of foreign income received\n- if your spouse had financial investment losses, the net financial investment loss amount\n- if your spouse had rental property losses, the net rental property loss amount\n- if your spouse has claimed a deduction for personal superannuation contributions, the details of the amount claimed.\nIf you had more than one spouse during 2011-12, complete this section with the details for your spouse on 30 June 2012, or your latest spouse.\n## Completing your tax return\n### Step 1\nPrint your spouse's name in the boxes provided on page 9 of your tax return.\n### Step 2\nWrite your spouse's date of birth at K and print X in the relevant box for your spouse's sex. We use these details to work out whether your spouse is below the age-pension age.\n### Step 3\nIf you had a spouse for the full year, 1 July 2011 to 30 June 2012, print X in the Yes box at L .\nIf you did not have a spouse for the full year, print X in the No box at L and write the dates you had a spouse between 1 July 2011 and 30 June 2012 at M and N .\n### Step 4\nIf you completed items T1 , T2 , T3 , M1 or M2 , or items T7 , T10 or T13 on the supplementary section of your tax return, follow the instructions below.\nIf you completed … | you need to complete (where applicable)\nitem T1 | O, S, Q, A, B, C, D and E\nitem T2 or T3 | O, T, S, P, Q, A and D\nitem M1 (V or W) | O\nitem M1 (Y only) | O and F, if you had a spouse on 30 June 2012\nitem M2 and you printed X in the No box at E | O, T, U, S, A, D and F, if you had a spouse for all of 2011-12 or your spouse died during the year\nitem T7 | O, S and A\nitem T10 | O, S, Q, A, B, C, D and E\nitem T13 | O, S, A, and D, if you had a spouse on 30 June 2012\nAt O , write your spouse's 2011-12 taxable income. If this amount is zero, write 0. This amount can usually be obtained from your spouse's tax return or notice of assessment. If your spouse does not have to lodge a tax return, provide an estimate of their taxable income.\nAt T , write any amount of net income of a trust that the trustee was liable to pay tax on because your spouse was under a legal disability, for example, they were a bankrupt, were a person who was declared legally incapable because of a mental condition or were under 18 years old on 30 June 2012. (Do not include any amount that has already been included in your spouse's taxable income, for example, at O .) If this amount is zero, write 0. Check the trust distribution statements.\nAt U , write the total distributions to your spouse on which family trust distribution tax has been paid which they would have had to show as assessable income if the tax had not been paid. If this amount is zero, write 0. Check the trust distribution statements.\nAt S , write the total of the reportable fringe benefits amounts shown on your spouse's payment summaries, and write the total. If this amount is zero, write 0.\nAt P , write the amount of Australian Government pensions and allowances that your spouse received in 2011-12 (not including exempt pension income). If this amount is zero, write 0. Australian Government pensions and allowances are listed at question 6 - Australian Government pensions and allowances .\nAt Q , write the amount of any exempt pension income that your spouse received in 2011-12. Make sure you include only your spouse's exempt pension income. If this amount is zero, write 0. Exempt income is listed in Amounts you do not pay tax on .\nAt A , write your spouse's reportable superannuation contributions. Reportable superannuation contributions are the sum of reportable employer superannuation contributions and personal deductible superannuation contributions (see question D12 - Personal superannuation contributions ). If this amount is zero, write 0.\nStep 1\nAdd up the reportable employer superannuation contributions amounts shown on your spouse's payment summaries.\nStep 2\nIf your spouse claimed a deduction for personal superannuation contributions at item D12 on their tax return (supplementary section), add the deduction amount to the result from step 1.\nStep 3\nWrite your spouse's reportable superannuation contributions amount at A .\nAt B , if your spouse received any of the following tax-free government pensions, then write the total amount they received for the income year:\n- a special rate disability pension under Part 6 of Chapter 4 of the Military Rehabilitation and Compensation Act 2004\n- a payment of compensation under section 68, 71 or 75 of the Military Rehabilitation and Compensation Act 2004\n- a payment of compensation mentioned in paragraph 234(1)(b) of the Military Rehabilitation and Compensation Act 2004 .\nIf this amount is zero, write 0\nAt C , write the target foreign income your spouse received during the income year. Your spouse's target foreign income is:\n- any income amount earned, derived or received from sources outside Australia for your spouse's own use or benefit that is neither included in your spouse's taxable income nor received in the form of a fringe benefit, or\n- periodical payments or benefits by way of gifts or allowances from a source outside Australia that are neither included in your spouse's taxable income nor received in the form of a fringe benefit.\nIt includes any foreign income that is not taxable in Australia. You must include any exempt foreign employment income shown at N item 20 on your spouse's tax return. All foreign income must be translated (converted) to Australian dollars before you complete this label. If this amount is zero, write 0.\nAt D , write your spouse's total net investment loss. Your spouse's total net investment loss is the sum of any net financial investment loss and any net rental property loss. If this amount is zero, write 0. The information and worksheets at questions IT5 and IT6 will help you to complete this label.\nAt E , write the total amount of child support your spouse provided to another person. The amount of child support provided is the total amount of any payments or benefits that your spouse was required to pay or provide to another person to maintain their natural or adopted child. However, you do not count any payments or benefits made or provided to you by your spouse unless you live apart on a permanent or indefinite basis. If this amount is zero, write 0.\nAt F , write the superannuation lump sum that you included at (k) in worksheet 1 for item M2 - Medicare levy surcharge , if it was part of your spouse's taxable income. If this amount is zero, write 0.\n#### Step 5\nIf you do not consent to use part or all of your 2012 tax refund to repay any Family Assistance Office (FAO) debt of your spouse, print X in the No box. You have finished this section.\nIf you do consent, read below.\nAnswer yes to this question only if all of the following apply to you.\n- You were the spouse of a family tax benefit (FTB) claimant or the spouse of a child care benefit claimant on 30 June 2012 and your income was taken into account in their claim.\n- Your spouse has given you authority to quote their customer reference number (CRN) on your tax return (if your spouse does not know their CRN, they can contact the FAO).\n- Your spouse has a debt due to the FAO or expects to have an FAO debt for 2012.\n- You expect to receive a tax refund for 2012.\n- You consent to use part or all of your refund to repay your spouse's FAO debt.\nIf you consent, print X in the Yes box. You must complete your spouse's CRN at Z , and sign and date the consent.\nWhere to go next go to Checklist - tax return . return to main menu Individual tax return instructions go back to IT7 - Child support you paid",
+  "child_links": [],
+  "word_count": 1747,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

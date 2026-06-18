@@ -1,0 +1,344 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-administration-and-reporting/when-to-lodge-a-transfer-balance-account-report-for-smsfs",
+  "title": "When to lodge a transfer balance account report for SMSFs",
+  "description": "Which events SMSFs must report using the transfer balance account report (TBAR).",
+  "nat_number": "",
+  "quick_code": "57300",
+  "date_updated": "2025-04-01T13:00:00Z",
+  "first_published": "",
+  "keywords": "TBAR reporting, TBAR report, transfer balance account report SMSF, TBAR lodgement dates, TBAR events, TBAR reporting due dates",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Events you need to report"
+    },
+    {
+      "type": "paragraph",
+      "text": "An SMSF must report events that affect a member's transfer balance account. Use the transfer balance account report (TBAR) to advise us when a transfer balance account event occurs. Events you need to report include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "starting a retirement phase income stream",
+        "starting a death benefit income stream, including those paid to a reversionary beneficiary",
+        "full or partial commutations of retirement phase income streams",
+        "any time a member's super income stream stops being in retirement phase, for example when the super income stream fails to comply with the pension rules or standards",
+        "limited recourse borrowing arrangement (LRBA) payments if: the LRBA was entered into or refinanced from 1 July 2017, and the payment increases the value of the member's interest that supports their retirement phase income stream",
+        "responding to a commutation authority notice we have issued",
+        "receiving personal injury (structured settlement) contributions."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "These events result in a credit or debit in the member's transfer balance account. We use this information to administer the member’s transfer balance cap."
+    },
+    {
+      "type": "paragraph",
+      "text": "Information reported in a rollover benefits statement and in your SMSF annual return are not used to administer a member's transfer balance cap."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use the TBAR to correct information about a transfer balance account event you have previously reported to us. You can find more information in the Superannuation transfer balance account reporting instructions ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Events excluded from reporting"
+    },
+    {
+      "type": "paragraph",
+      "text": "Events an SMSF does not need to report on a TBAR include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "pension payments",
+        "investment earnings and losses",
+        "when an income stream ceases because the interest has been exhausted",
+        "superannuation contributions except for personal injury (structured settlement) contributions that occurred on or after 1 July 2017",
+        "the death of a member and any transactions that occur with an effective date on or after the member's date of death",
+        "information other funds will report to us such as a member's interest in an APRA fund."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "There are some transfer balance events that require individuals to report directly to us using a Transfer balance event notification form (NAT 74919). Events to report include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "family law payment splits",
+        "debit events from fraud, dishonesty, or bankruptcy",
+        "personal injury (structured settlement) contributions made before 1 July 2007."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When to report"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most transfer balance account events are required to be reported quarterly. You must report the event that affects the member's transfer balance within 28 days after the end of the quarter in which the event occurs. If an SMSF does not lodge on time it may be subject to compliance action and penalties. This may adversely affect your member's transfer balance account."
+    },
+    {
+      "type": "paragraph",
+      "text": "We encourage you to report events before they are due because it:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "assists members in managing their transfer balance account and avoiding exceeding their personal transfer balance cap",
+        "helps ensure our calculation of a member's personal transfer balance cap is based on full and accurate information, in particular for events that occur in the income year before indexation",
+        "helps avoid incorrect excess transfer balance determinations being issued",
+        "avoids the pension being counted twice when a member commutes their pension, rolls it over to another fund and starts an income stream",
+        "allows the rollover of a member's pension account to be reported before the SMSF is wound up."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can find more guidance in the Law Companion Ruling, LCR 2016/9 Superannuation reform transfer balance cap."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Exceeding the personal transfer balance cap"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a member exceeds their personal transfer balance cap , there are different reporting requirements for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a voluntary member commutation of an income stream in response to an excess transfer balance determination – must be reported within 10 business days after the end of the month in which the commutation occurs",
+        "responses to commutation authorities – must be reported within 60 days of the date the commutation authority was issued."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If an individual has exceeded their cap and we issue an excess transfer balance determination or commutation authority based on incomplete or incorrect information, you must correct the reporting as soon as possible. This enables us to revoke the determination or commutation authority."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reporting methods"
+    },
+    {
+      "type": "paragraph",
+      "text": "Read the TBAR instructions prior to selecting your reporting method so you can understand what information is required when lodging. You can lodge a TBAR:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "online through Online services for business",
+        "through bulk data exchange",
+        "by lodging the paper form Super transfer balance account report (NAT 74923)",
+        "through a registered agent."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Valuing assets for TBAR reporting"
+    },
+    {
+      "type": "paragraph",
+      "text": "Trustees may choose to use a reasonable estimate of the value of an income stream to meet the TBAR obligations in line with our valuation guidelines for SMSFs. This usually occurs when the member starts a pension part way through the year."
+    },
+    {
+      "type": "paragraph",
+      "text": "In some instances, it may be wise to bring valuation practices forward."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the trustee has used a reasonable estimate and the value of that income stream significantly changes, the trustee may correct the value initially reported to us."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Correcting a report"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you've made an error in your reporting, you'll need to cancel the original report."
+    },
+    {
+      "type": "paragraph",
+      "text": "To cancel the original report:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "use the additional field to indicate the form is being lodged as a cancellation of a previous form.",
+        "lodge the rest of the form exactly as you first submitted it, including the incorrectly reported information."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This enables us to match your cancellation request to the original lodgment."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need to re-report, ensure you lodge the cancellation first. Then, you can lodge the second report with the correct information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Re-reporting is monitored, and we may request evidence of relevant documents and calculations to substantiate the TBAR amendment."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you previously cancelled a report and want to undo it, send us a new report containing the original information."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Reporting an account as closed"
+    },
+    {
+      "type": "paragraph",
+      "text": "When lodging a TBAR to report that a member has commuted their pension in full, it is especially important to report the account as closed when they are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "rolling over in full to another fund",
+        "commuting in full or part to avoid exceeding their personal transfer balance cap before the credit arising from a capped defined benefit income stream is applied to their account."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't report the pension account as closed, we may send the SMSF commutation authorities for the pension account."
+    },
+    {
+      "type": "paragraph",
+      "text": "This will mean it will take longer before the excess and excess transfer balance tax is rectified."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Reporting a reversionary income stream"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a member dies and the death benefit income stream payable on their death is a reversionary income stream, you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "don't need to report the death of a member for TBAR purposes",
+        "need to report the credit that arises in the transfer balance account of the reversionary beneficiary because they have started to receive this reversionary income stream."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When reporting the credit for the reversionary beneficiary:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "complete the member details for the reversionary beneficiary who is receiving the income stream, not the deceased member",
+        "clearly indicate you are reporting a reversionary income stream",
+        "report the date of death of the member as the effective date",
+        "report the value of the income stream on the day the member died (you may be able to use a reasonable estimate to do this)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll apply the credit to your member’s transfer balance account 12 months after the death of the original member."
+    },
+    {
+      "type": "paragraph",
+      "text": "Between reporting the event to us and the credit being applied to your member’s account, they will be able to see the value of the credit and when it will be applied in Online services for business . This will help them understand what action they may need to take to ensure they don't exceed their transfer balance cap when the credit is applied."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: reversionary income stream"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alex and Robyn are spouses, and both have pensions in an SMSF."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Alex dies on 4 February 2024.",
+        "Alex's pension reverts to spouse Robyn.",
+        "The value of the pension at the time of Alex’s death is $1,567,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Robyn already has a credit in her transfer balance account of $800,000 from her life pension in the SMSF."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 28 April 2024, the SMSF lodges a TBAR reporting:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Robyn’s details, as she is the reversionary beneficiary",
+        "the credit of $1,567,000 will arise in Robyn’s transfer balance account on 4 February 2025",
+        "an effective date of 4 February 2024 (Alex's date of death)",
+        "the income stream as reversionary."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Robyn will be able to view the reversionary income stream in her transfer balance account once it is reported by the fund, with the credit being included on 4 February 2025. This will help Robyn understand what she needs to do to avoid exceeding her personal transfer balance cap of $1,900,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 1 February 2025, Robyn commutes $467,000 from her life pension."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the SMSF doesn't report this to us before 4 February 2025, we'll send Robyn an excess transfer balance determination."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more guidance on the tax and regulatory treatment of super death benefits and the treatment of death benefit income streams under the transfer balance cap provisions, see Law Companion Ruling LCR 2017/3 Superannuation reform: Superannuation death benefits and the transfer balance cap ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reporting correctly"
+    },
+    {
+      "type": "paragraph",
+      "text": "Trustees have an obligation to ensure:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "their TBAR reporting is true and correct",
+        "the commencement and commutation of retirement phase income streams is supported by contemporaneous fund records",
+        "payments to members have been correctly characterised at the time the payment was requested so trustees and auditors can ensure the minimum pension payment standards have been met (this is especially important where pension payments have been made from an income stream that has also been commuted in full or in part during the year)",
+        "their TBAR reporting for the commencement and commutation of retirement phase income streams also aligns with their ECPI claim for a year",
+        "relevant documentation is clearly passed on to their auditor."
+      ]
+    }
+  ],
+  "content_text": "## Events you need to report\nAn SMSF must report events that affect a member's transfer balance account. Use the transfer balance account report (TBAR) to advise us when a transfer balance account event occurs. Events you need to report include:\n- starting a retirement phase income stream\n- starting a death benefit income stream, including those paid to a reversionary beneficiary\n- full or partial commutations of retirement phase income streams\n- any time a member's super income stream stops being in retirement phase, for example when the super income stream fails to comply with the pension rules or standards\n- limited recourse borrowing arrangement (LRBA) payments if: the LRBA was entered into or refinanced from 1 July 2017, and the payment increases the value of the member's interest that supports their retirement phase income stream\n- responding to a commutation authority notice we have issued\n- receiving personal injury (structured settlement) contributions.\nThese events result in a credit or debit in the member's transfer balance account. We use this information to administer the member’s transfer balance cap.\nInformation reported in a rollover benefits statement and in your SMSF annual return are not used to administer a member's transfer balance cap.\nYou can also use the TBAR to correct information about a transfer balance account event you have previously reported to us. You can find more information in the Superannuation transfer balance account reporting instructions .\n### Events excluded from reporting\nEvents an SMSF does not need to report on a TBAR include:\n- pension payments\n- investment earnings and losses\n- when an income stream ceases because the interest has been exhausted\n- superannuation contributions except for personal injury (structured settlement) contributions that occurred on or after 1 July 2017\n- the death of a member and any transactions that occur with an effective date on or after the member's date of death\n- information other funds will report to us such as a member's interest in an APRA fund.\nThere are some transfer balance events that require individuals to report directly to us using a Transfer balance event notification form (NAT 74919). Events to report include:\n- family law payment splits\n- debit events from fraud, dishonesty, or bankruptcy\n- personal injury (structured settlement) contributions made before 1 July 2007.\n## When to report\nMost transfer balance account events are required to be reported quarterly. You must report the event that affects the member's transfer balance within 28 days after the end of the quarter in which the event occurs. If an SMSF does not lodge on time it may be subject to compliance action and penalties. This may adversely affect your member's transfer balance account.\nWe encourage you to report events before they are due because it:\n- assists members in managing their transfer balance account and avoiding exceeding their personal transfer balance cap\n- helps ensure our calculation of a member's personal transfer balance cap is based on full and accurate information, in particular for events that occur in the income year before indexation\n- helps avoid incorrect excess transfer balance determinations being issued\n- avoids the pension being counted twice when a member commutes their pension, rolls it over to another fund and starts an income stream\n- allows the rollover of a member's pension account to be reported before the SMSF is wound up.\nYou can find more guidance in the Law Companion Ruling, LCR 2016/9 Superannuation reform transfer balance cap.\n### Exceeding the personal transfer balance cap\nIf a member exceeds their personal transfer balance cap , there are different reporting requirements for:\n- a voluntary member commutation of an income stream in response to an excess transfer balance determination – must be reported within 10 business days after the end of the month in which the commutation occurs\n- responses to commutation authorities – must be reported within 60 days of the date the commutation authority was issued.\nIf an individual has exceeded their cap and we issue an excess transfer balance determination or commutation authority based on incomplete or incorrect information, you must correct the reporting as soon as possible. This enables us to revoke the determination or commutation authority.\n## Reporting methods\nRead the TBAR instructions prior to selecting your reporting method so you can understand what information is required when lodging. You can lodge a TBAR:\n- online through Online services for business\n- through bulk data exchange\n- by lodging the paper form Super transfer balance account report (NAT 74923)\n- through a registered agent.\n## Valuing assets for TBAR reporting\nTrustees may choose to use a reasonable estimate of the value of an income stream to meet the TBAR obligations in line with our valuation guidelines for SMSFs. This usually occurs when the member starts a pension part way through the year.\nIn some instances, it may be wise to bring valuation practices forward.\nIf the trustee has used a reasonable estimate and the value of that income stream significantly changes, the trustee may correct the value initially reported to us.\n## Correcting a report\nIf you've made an error in your reporting, you'll need to cancel the original report.\nTo cancel the original report:\n- use the additional field to indicate the form is being lodged as a cancellation of a previous form.\n- lodge the rest of the form exactly as you first submitted it, including the incorrectly reported information.\nThis enables us to match your cancellation request to the original lodgment.\nIf you need to re-report, ensure you lodge the cancellation first. Then, you can lodge the second report with the correct information.\nRe-reporting is monitored, and we may request evidence of relevant documents and calculations to substantiate the TBAR amendment.\nIf you previously cancelled a report and want to undo it, send us a new report containing the original information.\n### Reporting an account as closed\nWhen lodging a TBAR to report that a member has commuted their pension in full, it is especially important to report the account as closed when they are:\n- rolling over in full to another fund\n- commuting in full or part to avoid exceeding their personal transfer balance cap before the credit arising from a capped defined benefit income stream is applied to their account.\nIf you don't report the pension account as closed, we may send the SMSF commutation authorities for the pension account.\nThis will mean it will take longer before the excess and excess transfer balance tax is rectified.\n### Reporting a reversionary income stream\nIf a member dies and the death benefit income stream payable on their death is a reversionary income stream, you:\n- don't need to report the death of a member for TBAR purposes\n- need to report the credit that arises in the transfer balance account of the reversionary beneficiary because they have started to receive this reversionary income stream.\nWhen reporting the credit for the reversionary beneficiary:\n- complete the member details for the reversionary beneficiary who is receiving the income stream, not the deceased member\n- clearly indicate you are reporting a reversionary income stream\n- report the date of death of the member as the effective date\n- report the value of the income stream on the day the member died (you may be able to use a reasonable estimate to do this).\nWe'll apply the credit to your member’s transfer balance account 12 months after the death of the original member.\nBetween reporting the event to us and the credit being applied to your member’s account, they will be able to see the value of the credit and when it will be applied in Online services for business . This will help them understand what action they may need to take to ensure they don't exceed their transfer balance cap when the credit is applied.\n#### Example: reversionary income stream\nAlex and Robyn are spouses, and both have pensions in an SMSF.\n- Alex dies on 4 February 2024.\n- Alex's pension reverts to spouse Robyn.\n- The value of the pension at the time of Alex’s death is $1,567,000.\nRobyn already has a credit in her transfer balance account of $800,000 from her life pension in the SMSF.\nOn 28 April 2024, the SMSF lodges a TBAR reporting:\n- Robyn’s details, as she is the reversionary beneficiary\n- the credit of $1,567,000 will arise in Robyn’s transfer balance account on 4 February 2025\n- an effective date of 4 February 2024 (Alex's date of death)\n- the income stream as reversionary.\nRobyn will be able to view the reversionary income stream in her transfer balance account once it is reported by the fund, with the credit being included on 4 February 2025. This will help Robyn understand what she needs to do to avoid exceeding her personal transfer balance cap of $1,900,000.\nOn 1 February 2025, Robyn commutes $467,000 from her life pension.\nIf the SMSF doesn't report this to us before 4 February 2025, we'll send Robyn an excess transfer balance determination.\nFor more guidance on the tax and regulatory treatment of super death benefits and the treatment of death benefit income streams under the transfer balance cap provisions, see Law Companion Ruling LCR 2017/3 Superannuation reform: Superannuation death benefits and the transfer balance cap .\n## Reporting correctly\nTrustees have an obligation to ensure:\n- their TBAR reporting is true and correct\n- the commencement and commutation of retirement phase income streams is supported by contemporaneous fund records\n- payments to members have been correctly characterised at the time the payment was requested so trustees and auditors can ensure the minimum pension payment standards have been met (this is especially important where pension payments have been made from an income stream that has also been commuted in full or in part during the year)\n- their TBAR reporting for the commencement and commutation of retirement phase income streams also aligns with their ECPI claim for a year\n- relevant documentation is clearly passed on to their auditor.",
+  "child_links": [],
+  "word_count": 1677,
+  "source_title": "",
+  "source_description": "",
+  "category": "super-for-individuals-and-families"
+}

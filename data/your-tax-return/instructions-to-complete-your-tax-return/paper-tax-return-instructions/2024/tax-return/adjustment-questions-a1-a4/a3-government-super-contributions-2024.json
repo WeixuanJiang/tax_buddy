@@ -1,0 +1,844 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2024/tax-return/adjustment-questions-a1-a4/a3-government-super-contributions-2024",
+  "title": "A3 Government super contributions 2024",
+  "description": "Complete question A3 if you made an eligible personal super contribution, exclude amounts you deduct at question D12.",
+  "nat_number": "",
+  "quick_code": "101474",
+  "date_updated": "2024-05-29T01:20:00Z",
+  "first_published": true,
+  "keywords": "Superannuation, Individual tax return instructions, superannuation, co-contributions, A3, government super, government super contribution, super contribution, 2024, tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things you need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "In some circumstances, the government makes additional contributions to your super, these include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Super co-contribution",
+        "Low income super tax offset ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to know if you have reported amounts at questions 13 , 14 , 15 and 16 of the supplementary tax return. If this applies to you, then you should lodge your tax return using myTax or a registered tax agent. Alternatively, you can request paper tax return and Business and professional items schedule 2024 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Super co-contribution"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a low or middle income earner and make personal (after-tax) super contributions to your super fund, the government also makes a co-contribution to your super. The government can co-contribute up to a maximum amount of $500 to help boost your retirement savings."
+    },
+    {
+      "type": "paragraph",
+      "text": "Did all of the following apply to you?"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You made an eligible personal super contribution to a complying super fund or retirement savings account. This does not include super amounts which you are claiming as a deduction an eligible downsizer contribution .",
+        "You did not exceed your non-concessional contributions cap .",
+        "Your total superannuation balance at 30 June 2023 was less than $1,700,000.",
+        "You were under 71 years old on 30 June 2024.",
+        "Your total income for 2023–24, was less than $58,445.",
+        "10% or more of your total income was from employment or business income (including from a partnership) or a combination of both.",
+        "You did not hold a temporary visa at any time during 2023–24 (unless you are a New Zealand citizen or it was a prescribed visa)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your answer to all of the above categories is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "No , you are not eligible for a super co-contribution. Go to Low income super tax offset .",
+        "Yes , go to What you need to answer this question ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Total income"
+    },
+    {
+      "type": "paragraph",
+      "text": "For super co-contribution purposes, total income is the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "sum of your assessable income , reportable fringe benefits total, and total reportable employer super contributions (RESC)",
+        "less, any assessable First home super saver (FHSS) released amount and any allowable business deductions."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Assessable income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Assessable income is your income before taking deductions into account."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Reportable employer super contributions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your total RESC is reduced (but not below zero) by any excess concessional contributions included in your assessable income."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Low income super tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a low income you may be entitled to a low income super tax offset (LISTO) payment of up to $500 to your super fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "Did all of the following apply to you?"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Your adjusted taxable income (ATI) was less than or equal to $37,000.",
+        "Concessional contributions were made to your complying super fund which include a deduction for personal super at question D12 contributions by your employer to your super fund, including contributions under a salary sacrifice agreement other concessional contributions to your super fund.",
+        "Your employment and business income (including business income from a partnership) made up 10% or more of your total income.",
+        "You did not hold a temporary visa at any time during 2023–24 (unless you are a New Zealand citizen or it was a prescribed visa)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your answer to all of the above categories is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "No , you are not eligible for a low income super tax offset. Go to question A4 Working holiday maker net income 2024 .",
+        "Yes , read on."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you show income from a partnership at question 13 in your tax return (supplementary section)?"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "No , you may be eligible for a low income super tax offset. We will work out the amount for you. Go to question A4 Working holiday maker net income 2024 .",
+        "Yes , go to What you need to answer this question ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Total income for LISTO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Total income for the purposes of the low income super tax offset is the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "sum of your assessable income , total reportable fringe benefits, and total RESC",
+        "less, any assessable FHSS released amount."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you need to answer this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you show any of the following in your supplementary tax return?"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an amount at questions 14 , 15 or 16",
+        "a loss at question 13 – label N or O ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your answer is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Yes , you should lodge your tax return using myTax or a registered tax agent. If you are unable to use myTax or a registered tax agent, contact us and we will mail you a paper tax return and Business and professional items schedule 2024 .",
+        "No , read on."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you show income from any of the following in your supplementary tax return?"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "deposits or repayments from the farm management deposits scheme at question 17",
+        "forestry managed investment scheme income at question 23 or deductions at question D14",
+        "other income at question 24 ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your answer is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Yes , you must use the Government super contributions worksheets and instructions 2024 to answer this question.",
+        "No , read on."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete this question, complete the following sections relevant to your circumstances."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Income from investment, partnership and other sources"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do any of the following apply to you?"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You showed income from a partnership at question 13 in your supplementary tax return.",
+        "You were in a joint income group and you have deductions for any of the following joint income interest you show at question 10 in your tax return dividends you show at question 11 in your tax return distributions from trusts you show at question 13 – label L , U or C in your supplementary tax return foreign entities income you show at question 19 – label K or B in your supplementary tax return foreign source income you show at question 20 – label E or F in your supplementary tax return rental income you show at question 21 – label P in your supplementary tax return bonuses from life insurance companies and friendly societies you show at question 22 – label W in your supplementary tax return."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your answer to all the above categories is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "No , go to Income from employment or business .",
+        "Yes , continue to Step 1 ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Joint income group"
+    },
+    {
+      "type": "paragraph",
+      "text": "You were in a ‘joint income group’ if you owned income-producing assets with another person or persons. For example:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were in one joint income group if you and your parents had a joint bank account, or",
+        "you were in another joint income group if you and your spouse co-owned rental properties."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete Worksheet 1 , you will need to transfer amounts from the label in your tax return."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "Amount from question 10 – label L Gross interest",
+          "$"
+        ],
+        [
+          "b",
+          "Amount from question 11 – label S Unfranked amount",
+          "$"
+        ],
+        [
+          "c",
+          "Amount from question 11 – label T Franked amount",
+          "$"
+        ],
+        [
+          "d",
+          "Amount from question 11 – label U Franking credit",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "e",
+          "Amount from question 13 – label L Share of net income from trusts (primary production)",
+          "$"
+        ],
+        [
+          "f",
+          "Amount from question 13 – label U Share of net income from trusts, less capital gains, foreign income and franked distributions (non-primary production)",
+          "$"
+        ],
+        [
+          "g",
+          "Amount from question 13 – label C Franked distributions from trusts (non-primary production)",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "h",
+          "Amount from question 19 – label K CFC income",
+          "$"
+        ],
+        [
+          "j",
+          "Amount from question 19 – label B Transferor trust income",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "k",
+          "Amount from question 20 – label E Assessable foreign source income",
+          "$"
+        ],
+        [
+          "l",
+          "Amount from question 20 – label F Australian franking credits from a New Zealand franking company",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "m",
+          "Amount from question 21 – label P Gross rent",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "n",
+          "Amount from question 22 Bonuses from life insurance companies and friendly societies – label W",
+          "$"
+        ],
+        [
+          "p",
+          "Add all amounts above, from row a to row n .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at row p to Worksheet 3 – row u , then go to Step 2."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Were you in a joint income group ?"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "No , go to Step 3 and write 0 (zero) at worksheet 3 – row v .",
+        "Yes , complete worksheet 2 . Read example 1 below to help you. Complete both worksheets 2 and 3 to work out the amount to write at question A3 – label F ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Example 1: joint income groups"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sally is in 2 joint income groups, one with David and another with Dawn."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sally and David jointly own an investment property and have a joint bank account. Sally’s share of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "rental income is $10,000",
+        "rental deductions is $15,000",
+        "bank interest is $100",
+        "bank interest deductions is $0 as there are no bank fees."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sally also jointly owns a share portfolio with Dawn, her share of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "dividend income is $4,000",
+        "deductions is $0."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sally writes $10,100 at column s for the joint income group with David and she writes $0 at column s for the joint income group with Dawn."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sally adds the 2 amounts in column s and transfers the total to worksheet 3 – row v ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Joint income group",
+          "q Income $",
+          "r Deductions $",
+          "s Lesser amount $"
+        ],
+        [
+          "Sally with David",
+          "10,100",
+          "15,000",
+          "10,100"
+        ],
+        [
+          "Sally with Dawn",
+          "4,000",
+          "0",
+          "0"
+        ],
+        [
+          "Add your lesser amounts.",
+          "–",
+          "–",
+          "t 10,100"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sally would transfer the amount of $10,100 at row t to worksheet 3 – row v ."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Worksheet 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "For every joint income group you were involved in, write:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your share of income in column q",
+        "your share of deductions in column r",
+        "the lesser amount from columns q and r in column s ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you showed partnership distributions at question 13 , don't include them in worksheet 2."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Joint income group",
+          "q Income",
+          "r Deductions",
+          "s Lesser amount"
+        ],
+        [
+          "",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "Add your lesser amounts",
+          "–",
+          "–",
+          "t"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at row t to worksheet 3 – row v ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete worksheet 3 to work out the amount to write at question A3 – label F ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Add all distributions of income from partnerships that you showed at question 13 – labels N and O in your supplementary tax return. Don't include your share of any partnership loss. Write the total at row x ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "u",
+          "Amount from row p in worksheet 1",
+          "$"
+        ],
+        [
+          "v",
+          "Amount from row t in worksheet 2",
+          "$"
+        ],
+        [
+          "w",
+          "Take row v away from row u",
+          "$"
+        ],
+        [
+          "x",
+          "Distributions of income (as defined above at Step 3)",
+          "$"
+        ],
+        [
+          "y",
+          "Add rows w and x",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at row y to question A3 – label F Income from investment, partnership and other sources . If row y is 0 (zero), print C in the CODE box at label F ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Income from employment or business"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our systems automatically treat some amounts you earned in 2023–24 as employment income or business income. If these amounts are not the same as your actual employment or business income, then you need to make an adjustment at label G . For example, because you show an employer lump sum payment you received for employment that finished in 2023–24."
+    },
+    {
+      "type": "paragraph",
+      "text": "In answering this question, income from employment includes income you earn as a company director or under a contract wholly or principally for your labour. For more information on employment income, see Government super contributions worksheets and instructions 2024 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received parental leave pay and the Dad and Partner Pay during 2023–24, it is income from employment unless your employment ceased and you continued to receive the parental leave pay or the Dad and Partner Pay. If this applies to you, only include at worksheet 4 – row cc the amount of the parental leave pay or the Dad and Partner Pay that you received after your employment ceased."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you show any 2023–24 employment income or business income in your tax return other than at any of the following?"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Questions 1 , 2 , 3 , 4 (other than death benefits), 12 – label B , IT1 or IT2 in your tax return.",
+        "Questions P1 or P8 in your see Business and professional items schedule 2024 )."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This may include foreign employment income you show at question 20 – labels T and U ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your answer is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Yes , write the total of these amounts at worksheet 4 – row z . Read on.",
+        "No , continue to Step 5 ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ignoring any partnership losses distributed to you, did you receive a share of income from a partnership carrying on a business in which you were a partner?"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "No , go to Step 6 .",
+        "Yes , write the total of your share of distributions of business income from all partnerships in which you were a partner at worksheet 4 – row aa , then go to Step 6 . Do not include partnership losses you took into account at question 13 – label N or O . distributions from trusts, including those that carry on a business."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you show any amounts in your tax return at questions 1 , 2 , 3 , 4 (other than death benefits), 12 – label B , IT1 , IT2 , or in the Business and professional items schedule 2024 questions P1 or P8 for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "income other than employment or business income",
+        "employment or business income that related to another income year?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This income may include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "parental leave pay or Dad and Partner Pay you received in 2023–24 after your employment ceased",
+        "employment or business income that you received in 2023–24 that relates to an earlier income year such as back payments of salary, wages or unused leave paid as a lump sum."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your answer is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Yes , write the total of these amounts at worksheet 4 – row cc . Go to Step 7 .",
+        "No , read on."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete worksheet 4 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "Z",
+          "Amount you worked out at Step 4",
+          "$"
+        ],
+        [
+          "Aa",
+          "Amount you worked out at Step 5",
+          "$"
+        ],
+        [
+          "Bb",
+          "Add rows z and aa .",
+          "$"
+        ],
+        [
+          "Cc",
+          "Amount you worked out at Step 6",
+          "$"
+        ],
+        [
+          "Dd",
+          "Take row cc away from row bb .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at row dd to question A3 – label G Other income from employment and business . If the amount at row dd is negative, print L in the Code box at label G ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Other deductions from business income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete Step 8 if you have any other deductions from business income."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 8"
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you have business deductions in 2023–24 other than those you included in the deduction items at question P8 in the Business and professional items schedule for individuals 2024 ?"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "No , write 0 (zero) at question A3 – label H Other deductions from business income .",
+        "Yes , write the total of these amounts at question A3 – label H Other deductions from business income ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Examples of deductions that you may include at label H are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your share of a partnership loss from a business that was included in the amount at question 13 – label N or O",
+        "deductions at question 13 – label X or Y , which relate to the business income portion of a partnership distribution",
+        "personal service income deductions at question P1 in the Business and professional items schedule 2024 ), which relate to carrying on your business",
+        "deductions included at question D10 for costs involved in managing your business tax affairs as a sole trader or partnership business."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question A4 Working holiday maker net income 2024 .",
+        "Return to main menu Individual tax return instructions 2024 .",
+        "Go back to question A2 Part-year tax-free threshold 2024 ."
+      ]
+    }
+  ],
+  "content_text": "## Things you need to know\nIn some circumstances, the government makes additional contributions to your super, these include:\n- Super co-contribution\n- Low income super tax offset .\nYou need to know if you have reported amounts at questions 13 , 14 , 15 and 16 of the supplementary tax return. If this applies to you, then you should lodge your tax return using myTax or a registered tax agent. Alternatively, you can request paper tax return and Business and professional items schedule 2024 .\n### Super co-contribution\nIf you are a low or middle income earner and make personal (after-tax) super contributions to your super fund, the government also makes a co-contribution to your super. The government can co-contribute up to a maximum amount of $500 to help boost your retirement savings.\nDid all of the following apply to you?\n- You made an eligible personal super contribution to a complying super fund or retirement savings account. This does not include super amounts which you are claiming as a deduction an eligible downsizer contribution .\n- You did not exceed your non-concessional contributions cap .\n- Your total superannuation balance at 30 June 2023 was less than $1,700,000.\n- You were under 71 years old on 30 June 2024.\n- Your total income for 2023–24, was less than $58,445.\n- 10% or more of your total income was from employment or business income (including from a partnership) or a combination of both.\n- You did not hold a temporary visa at any time during 2023–24 (unless you are a New Zealand citizen or it was a prescribed visa).\nIf your answer to all of the above categories is:\n- No , you are not eligible for a super co-contribution. Go to Low income super tax offset .\n- Yes , go to What you need to answer this question .\n#### Total income\nFor super co-contribution purposes, total income is the:\n- sum of your assessable income , reportable fringe benefits total, and total reportable employer super contributions (RESC)\n- less, any assessable First home super saver (FHSS) released amount and any allowable business deductions.\n#### Assessable income\nAssessable income is your income before taking deductions into account.\n#### Reportable employer super contributions\nYour total RESC is reduced (but not below zero) by any excess concessional contributions included in your assessable income.\n### Low income super tax offset\nIf you have a low income you may be entitled to a low income super tax offset (LISTO) payment of up to $500 to your super fund.\nDid all of the following apply to you?\n- Your adjusted taxable income (ATI) was less than or equal to $37,000.\n- Concessional contributions were made to your complying super fund which include a deduction for personal super at question D12 contributions by your employer to your super fund, including contributions under a salary sacrifice agreement other concessional contributions to your super fund.\n- Your employment and business income (including business income from a partnership) made up 10% or more of your total income.\n- You did not hold a temporary visa at any time during 2023–24 (unless you are a New Zealand citizen or it was a prescribed visa).\nIf your answer to all of the above categories is:\n- No , you are not eligible for a low income super tax offset. Go to question A4 Working holiday maker net income 2024 .\n- Yes , read on.\nDid you show income from a partnership at question 13 in your tax return (supplementary section)?\n- No , you may be eligible for a low income super tax offset. We will work out the amount for you. Go to question A4 Working holiday maker net income 2024 .\n- Yes , go to What you need to answer this question .\n#### Total income for LISTO\nTotal income for the purposes of the low income super tax offset is the:\n- sum of your assessable income , total reportable fringe benefits, and total RESC\n- less, any assessable FHSS released amount.\n## What you need to answer this question\nDid you show any of the following in your supplementary tax return?\n- an amount at questions 14 , 15 or 16\n- a loss at question 13 – label N or O .\nIf your answer is:\n- Yes , you should lodge your tax return using myTax or a registered tax agent. If you are unable to use myTax or a registered tax agent, contact us and we will mail you a paper tax return and Business and professional items schedule 2024 .\n- No , read on.\nDid you show income from any of the following in your supplementary tax return?\n- deposits or repayments from the farm management deposits scheme at question 17\n- forestry managed investment scheme income at question 23 or deductions at question D14\n- other income at question 24 .\nIf your answer is:\n- Yes , you must use the Government super contributions worksheets and instructions 2024 to answer this question.\n- No , read on.\n## Completing your tax return\nTo complete this question, complete the following sections relevant to your circumstances.\n### Income from investment, partnership and other sources\nDo any of the following apply to you?\n- You showed income from a partnership at question 13 in your supplementary tax return.\n- You were in a joint income group and you have deductions for any of the following joint income interest you show at question 10 in your tax return dividends you show at question 11 in your tax return distributions from trusts you show at question 13 – label L , U or C in your supplementary tax return foreign entities income you show at question 19 – label K or B in your supplementary tax return foreign source income you show at question 20 – label E or F in your supplementary tax return rental income you show at question 21 – label P in your supplementary tax return bonuses from life insurance companies and friendly societies you show at question 22 – label W in your supplementary tax return.\nIf your answer to all the above categories is:\n- No , go to Income from employment or business .\n- Yes , continue to Step 1 .\n#### Joint income group\nYou were in a ‘joint income group’ if you owned income-producing assets with another person or persons. For example:\n- you were in one joint income group if you and your parents had a joint bank account, or\n- you were in another joint income group if you and your spouse co-owned rental properties.\n#### Step 1\nComplete Worksheet 1 , you will need to transfer amounts from the label in your tax return.\nRow | Calculation | Amount\na | Amount from question 10 – label L Gross interest | $\nb | Amount from question 11 – label S Unfranked amount | $\nc | Amount from question 11 – label T Franked amount | $\nd | Amount from question 11 – label U Franking credit | $\nRow | Calculation | Amount\ne | Amount from question 13 – label L Share of net income from trusts (primary production) | $\nf | Amount from question 13 – label U Share of net income from trusts, less capital gains, foreign income and franked distributions (non-primary production) | $\ng | Amount from question 13 – label C Franked distributions from trusts (non-primary production) | $\nRow | Calculation | Amount\nh | Amount from question 19 – label K CFC income | $\nj | Amount from question 19 – label B Transferor trust income | $\nRow | Calculation | Amount\nk | Amount from question 20 – label E Assessable foreign source income | $\nl | Amount from question 20 – label F Australian franking credits from a New Zealand franking company | $\nRow | Calculation | Amount\nm | Amount from question 21 – label P Gross rent | $\nRow | Calculation | Amount\nn | Amount from question 22 Bonuses from life insurance companies and friendly societies – label W | $\np | Add all amounts above, from row a to row n . | $\nTransfer the amount at row p to Worksheet 3 – row u , then go to Step 2.\n#### Step 2\nWere you in a joint income group ?\n- No , go to Step 3 and write 0 (zero) at worksheet 3 – row v .\n- Yes , complete worksheet 2 . Read example 1 below to help you. Complete both worksheets 2 and 3 to work out the amount to write at question A3 – label F .\n##### Example 1: joint income groups\nSally is in 2 joint income groups, one with David and another with Dawn.\nSally and David jointly own an investment property and have a joint bank account. Sally’s share of:\n- rental income is $10,000\n- rental deductions is $15,000\n- bank interest is $100\n- bank interest deductions is $0 as there are no bank fees.\nSally also jointly owns a share portfolio with Dawn, her share of:\n- dividend income is $4,000\n- deductions is $0.\nSally writes $10,100 at column s for the joint income group with David and she writes $0 at column s for the joint income group with Dawn.\nSally adds the 2 amounts in column s and transfers the total to worksheet 3 – row v .\nJoint income group | q Income $ | r Deductions $ | s Lesser amount $\nSally with David | 10,100 | 15,000 | 10,100\nSally with Dawn | 4,000 | 0 | 0\nAdd your lesser amounts. | – | – | t 10,100\nSally would transfer the amount of $10,100 at row t to worksheet 3 – row v .\n##### Worksheet 2\nFor every joint income group you were involved in, write:\n- your share of income in column q\n- your share of deductions in column r\n- the lesser amount from columns q and r in column s .\nIf you showed partnership distributions at question 13 , don't include them in worksheet 2.\nJoint income group | q Income | r Deductions | s Lesser amount\n | $ | $ | $\n | $ | $ | $\n | $ | $ | $\nAdd your lesser amounts | – | – | t\nTransfer the amount at row t to worksheet 3 – row v .\n#### Step 3\nComplete worksheet 3 to work out the amount to write at question A3 – label F .\nAdd all distributions of income from partnerships that you showed at question 13 – labels N and O in your supplementary tax return. Don't include your share of any partnership loss. Write the total at row x .\nRow | Calculation | Amount\nu | Amount from row p in worksheet 1 | $\nv | Amount from row t in worksheet 2 | $\nw | Take row v away from row u | $\nx | Distributions of income (as defined above at Step 3) | $\ny | Add rows w and x | $\nTransfer the amount at row y to question A3 – label F Income from investment, partnership and other sources . If row y is 0 (zero), print C in the CODE box at label F .\n### Income from employment or business\nOur systems automatically treat some amounts you earned in 2023–24 as employment income or business income. If these amounts are not the same as your actual employment or business income, then you need to make an adjustment at label G . For example, because you show an employer lump sum payment you received for employment that finished in 2023–24.\nIn answering this question, income from employment includes income you earn as a company director or under a contract wholly or principally for your labour. For more information on employment income, see Government super contributions worksheets and instructions 2024 .\nIf you received parental leave pay and the Dad and Partner Pay during 2023–24, it is income from employment unless your employment ceased and you continued to receive the parental leave pay or the Dad and Partner Pay. If this applies to you, only include at worksheet 4 – row cc the amount of the parental leave pay or the Dad and Partner Pay that you received after your employment ceased.\n#### Step 4\nDid you show any 2023–24 employment income or business income in your tax return other than at any of the following?\n- Questions 1 , 2 , 3 , 4 (other than death benefits), 12 – label B , IT1 or IT2 in your tax return.\n- Questions P1 or P8 in your see Business and professional items schedule 2024 ).\nThis may include foreign employment income you show at question 20 – labels T and U .\nIf your answer is:\n- Yes , write the total of these amounts at worksheet 4 – row z . Read on.\n- No , continue to Step 5 .\n#### Step 5\nIgnoring any partnership losses distributed to you, did you receive a share of income from a partnership carrying on a business in which you were a partner?\n- No , go to Step 6 .\n- Yes , write the total of your share of distributions of business income from all partnerships in which you were a partner at worksheet 4 – row aa , then go to Step 6 . Do not include partnership losses you took into account at question 13 – label N or O . distributions from trusts, including those that carry on a business.\n#### Step 6\nDid you show any amounts in your tax return at questions 1 , 2 , 3 , 4 (other than death benefits), 12 – label B , IT1 , IT2 , or in the Business and professional items schedule 2024 questions P1 or P8 for:\n- income other than employment or business income\n- employment or business income that related to another income year?\nThis income may include:\n- parental leave pay or Dad and Partner Pay you received in 2023–24 after your employment ceased\n- employment or business income that you received in 2023–24 that relates to an earlier income year such as back payments of salary, wages or unused leave paid as a lump sum.\nIf your answer is:\n- Yes , write the total of these amounts at worksheet 4 – row cc . Go to Step 7 .\n- No , read on.\n#### Step 7\nComplete worksheet 4 .\nRow | Calculation | Amount\nZ | Amount you worked out at Step 4 | $\nAa | Amount you worked out at Step 5 | $\nBb | Add rows z and aa . | $\nCc | Amount you worked out at Step 6 | $\nDd | Take row cc away from row bb . | $\nTransfer the amount at row dd to question A3 – label G Other income from employment and business . If the amount at row dd is negative, print L in the Code box at label G .\n### Other deductions from business income\nComplete Step 8 if you have any other deductions from business income.\n#### Step 8\nDid you have business deductions in 2023–24 other than those you included in the deduction items at question P8 in the Business and professional items schedule for individuals 2024 ?\n- No , write 0 (zero) at question A3 – label H Other deductions from business income .\n- Yes , write the total of these amounts at question A3 – label H Other deductions from business income .\nExamples of deductions that you may include at label H are:\n- your share of a partnership loss from a business that was included in the amount at question 13 – label N or O\n- deductions at question 13 – label X or Y , which relate to the business income portion of a partnership distribution\n- personal service income deductions at question P1 in the Business and professional items schedule 2024 ), which relate to carrying on your business\n- deductions included at question D10 for costs involved in managing your business tax affairs as a sole trader or partnership business.\n## Where to go next\n- Go to question A4 Working holiday maker net income 2024 .\n- Return to main menu Individual tax return instructions 2024 .\n- Go back to question A2 Part-year tax-free threshold 2024 .",
+  "child_links": [],
+  "word_count": 2805,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

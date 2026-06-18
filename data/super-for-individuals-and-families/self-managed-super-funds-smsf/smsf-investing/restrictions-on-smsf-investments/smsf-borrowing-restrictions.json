@@ -1,0 +1,92 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-investing/restrictions-on-smsf-investments/smsf-borrowing-restrictions",
+  "title": "SMSF borrowing restrictions",
+  "description": "The limited circumstances where your self-managed super fund (SMSF) can borrow money.",
+  "nat_number": "",
+  "quick_code": "42461",
+  "date_updated": "2025-04-01T13:00:00Z",
+  "first_published": "",
+  "keywords": "in-house asset, smsf rules for assets",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Media: SMSF - Borrowing and limited recourse borrowing arrangements https://tv.ato.gov.au/ato-tv/media?v=bd1bdiubfs46eh External Link ( Duration: 2:20)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Paying a member benefit that is due"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your SMSF can borrow money for a maximum of 90 days to meet benefit payments due to members."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount you borrow can't exceed 10% of your SMSF's total assets."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Meeting an outstanding contribution surcharge liability"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your SMSF can borrow money for a maximum of 90 days to meet an outstanding superannuation surcharge liability."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount you borrow can't exceed 10% of your SMSF's total assets."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Covering the settlement of security transactions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your SMSF can borrow money for a maximum of 7 days to cover the settlement of security transactions if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "at the time you entered the transaction, it was likely you did not need to borrow money",
+        "the amount you borrow doesn’t exceed 10% of your fund's total assets."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Limited recourse borrowing arrangements"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your SMSF can use a limited recourse borrowing arrangement (LRBA) to fund the purchase of a:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "single asset",
+        "collection of identical assets that have the same market value."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The asset is held in a separate trust outside of the SMSF. This keeps the other assets of the SMSF protected if the loan defaults."
+    }
+  ],
+  "content_text": "Media: SMSF - Borrowing and limited recourse borrowing arrangements https://tv.ato.gov.au/ato-tv/media?v=bd1bdiubfs46eh External Link ( Duration: 2:20)\n## Paying a member benefit that is due\nYour SMSF can borrow money for a maximum of 90 days to meet benefit payments due to members.\nThe amount you borrow can't exceed 10% of your SMSF's total assets.\n## Meeting an outstanding contribution surcharge liability\nYour SMSF can borrow money for a maximum of 90 days to meet an outstanding superannuation surcharge liability.\nThe amount you borrow can't exceed 10% of your SMSF's total assets.\n## Covering the settlement of security transactions\nYour SMSF can borrow money for a maximum of 7 days to cover the settlement of security transactions if:\n- at the time you entered the transaction, it was likely you did not need to borrow money\n- the amount you borrow doesn’t exceed 10% of your fund's total assets.\n## Limited recourse borrowing arrangements\nYour SMSF can use a limited recourse borrowing arrangement (LRBA) to fund the purchase of a:\n- single asset\n- collection of identical assets that have the same market value.\nThe asset is held in a separate trust outside of the SMSF. This keeps the other assets of the SMSF protected if the loan defaults.",
+  "child_links": [
+    {
+      "title": "Limited recourse borrowing arrangements",
+      "description": "How to set up limited recourse borrowing arrangements, and the different superannuation laws and rules that apply.",
+      "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-investing/restrictions-on-smsf-investments/smsf-borrowing-restrictions/limited-recourse-borrowing-arrangements"
+    }
+  ],
+  "word_count": 207,
+  "source_title": "SMSF borrowing restrictions | Australian Taxation Office",
+  "source_description": "The limited circumstances where your self-managed super fund (SMSF) can borrow money.",
+  "category": "super-for-individuals-and-families"
+}

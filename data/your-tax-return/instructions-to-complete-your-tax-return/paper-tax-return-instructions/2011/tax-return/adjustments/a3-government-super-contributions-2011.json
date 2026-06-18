@@ -1,0 +1,579 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2011/tax-return/adjustments/a3-government-super-contributions-2011",
+  "title": "A3 - Super co-contribution 2011",
+  "description": "Complete question A3 if you made an eligible personal super contribution (not including amounts claimed as a deduction).",
+  "nat_number": "976",
+  "quick_code": "25492",
+  "date_updated": "2011-06-28T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, superannuation, super, co-contributions, contributions",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "About question A3"
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to answer this question if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you made an eligible personal super contribution (for which you are not claiming a deduction) to a complying super fund or retirement savings account",
+        "you were under 71 years old on 30 June 2011, and",
+        "your taxable income for 2010-11 was less than $61,920."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did all these apply to you?"
+        ],
+        [
+          "No",
+          "You are not entitled to a super co-contribution. Go to question IT1 Total reportable fringe benefits amounts , or return to main menu Tax return for individuals instructions ."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you show any of the following? deposits or withdrawals from the farm management deposits scheme at item 17 foreign entity income at item 19 bonuses from life insurance companies or friendly societies at item 22 forestry managed investment scheme income at item 23 or deductions at item D15 other income at item 24"
+        ],
+        [
+          "Yes",
+          "You need to use the Super co-contributions workbook 2011 (NAT 73495) to answer this question. You can get a copy from our website or by phoning 13 10 20 ."
+        ],
+        [
+          "No",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Joint income group"
+    },
+    {
+      "type": "paragraph",
+      "text": "You were in a 'joint income group' if you owned income-producing assets with another person or persons. For example:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were in one joint income group if you and your parents had a joint bank account, and",
+        "you were in another joint income group if you and your spouse co-owned rental properties."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "F Income from investment, partnership and other sources"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Do any of the following apply to you? You were in a joint income group and you have deductions for the following joint income interest you showed at item 10 dividends you showed at item 11 distributions from trusts you showed at L or U item 13 on your tax return (supplementary section) foreign source income you showed at E or F item 20 on your tax return (supplementary section) rental income you showed at P item 21 on your tax return (supplementary section). You showed a capital gain from trust distributions at H item 18 on your tax return (supplementary section). You showed income from a partnership at item 13 on your tax return (supplementary section)."
+        ],
+        [
+          "No",
+          "Go to G Income from employment or business ."
+        ],
+        [
+          "Yes",
+          "Work through steps 1, 2 and 3."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use worksheet 1 to work out what to write at (q) in worksheet 3 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 1"
+        ],
+        [
+          "Interest and dividend income"
+        ],
+        [
+          "Amount from L item 10 on page 3 of your tax return",
+          "$",
+          "(a)"
+        ],
+        [
+          "Amount from S item 11 on page 3 of your tax return",
+          "$",
+          "(b)"
+        ],
+        [
+          "Amount from T item 11 on page 3 of your tax return",
+          "$",
+          "(c)"
+        ],
+        [
+          "Amount from U item 11 on page 3 of your tax return",
+          "$",
+          "(d)"
+        ],
+        [
+          "Trust distributions"
+        ],
+        [
+          "Amount from L item 13 on page 13 of your tax return (supplementary section)",
+          "$",
+          "(e)"
+        ],
+        [
+          "Amount from U item 13 on page 13 of your tax return (supplementary section)",
+          "$",
+          "(f)"
+        ],
+        [
+          "Foreign source income"
+        ],
+        [
+          "Amount from E item 20 on page 14 of your tax return (supplementary section)",
+          "$",
+          "(g)"
+        ],
+        [
+          "Amount from F item 20 on page 14 of your tax return (supplementary section)",
+          "$",
+          "(h)"
+        ],
+        [
+          "Rental income"
+        ],
+        [
+          "Amount from P item 21 on page 15 of your tax return (supplementary section)",
+          "$",
+          "(j)"
+        ],
+        [
+          "Add all amounts above, from (a) to (j).",
+          "",
+          "(k)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at (k) to (q) in worksheet 3 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Were you in a joint income group?"
+        ],
+        [
+          "No",
+          "Go to step 3 and write 0 at (r) in worksheet 3 ."
+        ],
+        [
+          "Yes",
+          "Complete worksheet 2 and read example 1 to help you. You need to complete both worksheet 2 and worksheet 3 to work out what to write at F item A3 ."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Worksheet 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "For every joint income group you were involved in:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "write your share of income in column (l)",
+        "write your share of deductions in column (m)",
+        "write the lesser amount from columns (l) and (m) in column (n)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you showed partnership distributions at item 13 , do not include them in worksheet 2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sally is in two joint income groups, one with David and another with Dawn."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sally and David jointly own an investment property and have a joint bank account. Sally's share of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "rental income is $10,000",
+        "rental deductions is $15,000",
+        "bank interest is $100",
+        "bank interest deductions is $0 as there are no bank fees."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sally also jointly owns a shares portfolio with Dawn. Her share of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "dividend income is $4,000",
+        "deductions is $0."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sally writes $10,100 at (n) for the joint income group with David and she writes $0 at (n) for the joint income group with Dawn."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sally adds the two amounts in column (n) and transfers the total to (r) in worksheet 3 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 2"
+        ],
+        [
+          "Join income group",
+          "Income (l)",
+          "Deductions (m)",
+          "Lesser amount (n)"
+        ],
+        [
+          "Sally with David",
+          "$10,100",
+          "$15,000",
+          "$10,100"
+        ],
+        [
+          "Sally with Dawn",
+          "$ 4,000",
+          "$0",
+          "$0"
+        ],
+        [
+          "1.",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "2.",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "3.",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "4.",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "Add the lesser amounts",
+          "$ (p)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at (p) to (r) in worksheet 3 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work through worksheet 3 to work out what to write at F item A3 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 3"
+        ],
+        [
+          "Amount from (k) in worksheet 1",
+          "$",
+          "(q)"
+        ],
+        [
+          "Amount from (p) in worksheet 2",
+          "$",
+          "(r)"
+        ],
+        [
+          "Take (r) away from (q)",
+          "$",
+          "(s)"
+        ],
+        [
+          "Distributions of income (as defined above at step 3)",
+          "$",
+          "(t)"
+        ],
+        [
+          "That part of a trust distribution that you exclude from L or U item 13 because it is a capital gain (supplementary section).",
+          "$",
+          "(u)"
+        ],
+        [
+          "Add (s), (t) and (u)",
+          "$",
+          "(v)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at (v) to F item A3 on page 7 of your tax return. If (v) is 0 , print C in the CODE box at F ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "G Income from employment or business"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our systems automatically treat some amounts as employment income you earned in 2010-11 or business income. If the total of these amounts is not the same as your actual 2010-11 employment income or business income (for example, because you show an employer lump sum payment you received for employment that finished in 2009-10), you need to make an adjustment by writing an amount at G ."
+    },
+    {
+      "type": "paragraph",
+      "text": "In answering this question, income from employment includes income you earn as a company director or under a contract wholly or principally for your labour. For more information about employment income refer to Super co-contributions workbook (NAT 73495). You can obtain a copy from our website or by phoning our Superannuation Info line (see the inside back cover)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Parental leave pay you received during 2010-11 is income from employment unless your employment ceased and you continued to receive parental leave pay. If this applies to you, include at (x) below only the amount of parental leave pay that you received after your employment ceased."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Do you show any 2010-11 employment income or business income on your tax return other than at any of the following items? 1 , 2 , 3 , 4 (other than death benefits), B at item 12 , IT1 or IT2 of your tax return P1 or P8 in your Business and professional items schedule for individuals 2011"
+        ],
+        [
+          "No",
+          "Go to step 4."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you receive a share of income from a partnership carrying on a business in which you were a partner? Ignore partnership losses and distributions from trusts that carry on a business."
+        ],
+        [
+          "Yes",
+          "Go to step 4."
+        ],
+        [
+          "No",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you have income that is not from your employment in 2009-10 or from a business you carried on, which you show at any of the following items? 1 , 2 , 3 , 4 (other than death benefits), B at item 12 , IT1 or IT2 of your tax return P1 or P8 in your Business and professional items schedule for individuals 2011 ."
+        ],
+        [
+          "No",
+          "Go to H Deductions from business income ."
+        ],
+        [
+          "Yes",
+          "Go to step 4."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work through worksheet 4 to work out what to write at G item A3 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "At (w) show the total employment income from 2010-11 or business income that you do not show:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "at items 1 , 2 , 3 , 4 (other than death benefits), B at item 12 , IT1 or IT2 , or",
+        "as income on your Business and professional items schedule for individuals 2011 ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Include at (w) your share of distributions of business income from all partnerships in which you are a partner. Do not include any partnership losses you took into account at N or O item 13 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include at (w) distributions from trusts that carry on a business."
+    },
+    {
+      "type": "paragraph",
+      "text": "At (x) show the total income that was not from employment in 2010-11 or from business, which you show:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "at items 1 , 2 , 3 , 4 (other than death benefits), B at item 12 , IT1 or IT2 , or",
+        "as income in your Business and professional items schedule for individuals 2011 .",
+        "Include at (x) income from employment that ceased before 1 July 2010."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Worksheet 4"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Employment income (as defined above at step 4)",
+          "$",
+          "(w)"
+        ],
+        [
+          "Income that was not from employment (as defined above at step 4)",
+          "$",
+          "(x)"
+        ],
+        [
+          "Take (x) away from (w).",
+          "$",
+          "(y)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at (y) to G item A3 on page 7 of your tax return. If the amount at (y) is negative, print L in the CODE box at G ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "H Deductions from business income"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Do you have business deductions other than those you included in the deduction items at item P8 in the Business and professional items schedule for individuals 2011?"
+        ],
+        [
+          "No",
+          "Write 0 at H item A3 on page 7 of your tax return and go to question IT1 Total reportable fringe benefits amounts ."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Examples of deductions that you may include at H are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the business portion of a distributed partnership loss included in calculating the amount at N or O at item 13 (as long as the partnership carries on a business)",
+        "deductions at X or Y at item 13 which relate to the business income portion of a partnership distribution",
+        "personal service income deductions at item P1 in the Business and professional item schedule for individuals which relate to carrying on your business",
+        "deductions you show at D10 for costs involved in managing your business tax affairs as a sole trader or partnership business."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total amount of these deductions at H item A3 on page 7 of your tax return."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question IT1 Total reportable fringe benefits amounts return to main menu Tax return for individuals instructions , or go back to question A2 Part-year tax-free threshold ."
+        ]
+      ]
+    }
+  ],
+  "content_text": "## About question A3\nYou need to answer this question if:\n- you made an eligible personal super contribution (for which you are not claiming a deduction) to a complying super fund or retirement savings account\n- you were under 71 years old on 30 June 2011, and\n- your taxable income for 2010-11 was less than $61,920.\nDid all these apply to you?\nNo | You are not entitled to a super co-contribution. Go to question IT1 Total reportable fringe benefits amounts , or return to main menu Tax return for individuals instructions .\nYes | Read below.\n## Answering this question\nDid you show any of the following? deposits or withdrawals from the farm management deposits scheme at item 17 foreign entity income at item 19 bonuses from life insurance companies or friendly societies at item 22 forestry managed investment scheme income at item 23 or deductions at item D15 other income at item 24\nYes | You need to use the Super co-contributions workbook 2011 (NAT 73495) to answer this question. You can get a copy from our website or by phoning 13 10 20 .\nNo | Read below.\n## Completing your tax return\n### Joint income group\nYou were in a 'joint income group' if you owned income-producing assets with another person or persons. For example:\n- you were in one joint income group if you and your parents had a joint bank account, and\n- you were in another joint income group if you and your spouse co-owned rental properties.\n### F Income from investment, partnership and other sources\nDo any of the following apply to you? You were in a joint income group and you have deductions for the following joint income interest you showed at item 10 dividends you showed at item 11 distributions from trusts you showed at L or U item 13 on your tax return (supplementary section) foreign source income you showed at E or F item 20 on your tax return (supplementary section) rental income you showed at P item 21 on your tax return (supplementary section). You showed a capital gain from trust distributions at H item 18 on your tax return (supplementary section). You showed income from a partnership at item 13 on your tax return (supplementary section).\nNo | Go to G Income from employment or business .\nYes | Work through steps 1, 2 and 3.\n### Step 1\nUse worksheet 1 to work out what to write at (q) in worksheet 3 .\nWorksheet 1\nInterest and dividend income\nAmount from L item 10 on page 3 of your tax return | $ | (a)\nAmount from S item 11 on page 3 of your tax return | $ | (b)\nAmount from T item 11 on page 3 of your tax return | $ | (c)\nAmount from U item 11 on page 3 of your tax return | $ | (d)\nTrust distributions\nAmount from L item 13 on page 13 of your tax return (supplementary section) | $ | (e)\nAmount from U item 13 on page 13 of your tax return (supplementary section) | $ | (f)\nForeign source income\nAmount from E item 20 on page 14 of your tax return (supplementary section) | $ | (g)\nAmount from F item 20 on page 14 of your tax return (supplementary section) | $ | (h)\nRental income\nAmount from P item 21 on page 15 of your tax return (supplementary section) | $ | (j)\nAdd all amounts above, from (a) to (j). |  | (k)\nTransfer the amount at (k) to (q) in worksheet 3 .\n### Step 2\nWere you in a joint income group?\nNo | Go to step 3 and write 0 at (r) in worksheet 3 .\nYes | Complete worksheet 2 and read example 1 to help you. You need to complete both worksheet 2 and worksheet 3 to work out what to write at F item A3 .\nWorksheet 2\nFor every joint income group you were involved in:\n- write your share of income in column (l)\n- write your share of deductions in column (m)\n- write the lesser amount from columns (l) and (m) in column (n).\nIf you showed partnership distributions at item 13 , do not include them in worksheet 2 .\nExample 1\nSally is in two joint income groups, one with David and another with Dawn.\nSally and David jointly own an investment property and have a joint bank account. Sally's share of:\n- rental income is $10,000\n- rental deductions is $15,000\n- bank interest is $100\n- bank interest deductions is $0 as there are no bank fees.\nSally also jointly owns a shares portfolio with Dawn. Her share of:\n- dividend income is $4,000\n- deductions is $0.\nSally writes $10,100 at (n) for the joint income group with David and she writes $0 at (n) for the joint income group with Dawn.\nSally adds the two amounts in column (n) and transfers the total to (r) in worksheet 3 .\nWorksheet 2\nJoin income group | Income (l) | Deductions (m) | Lesser amount (n)\nSally with David | $10,100 | $15,000 | $10,100\nSally with Dawn | $ 4,000 | $0 | $0\n1. | $ | $ | $\n2. | $ | $ | $\n3. | $ | $ | $\n4. | $ | $ | $\nAdd the lesser amounts | $ (p)\nTransfer the amount at (p) to (r) in worksheet 3 .\n### Step 3\nWork through worksheet 3 to work out what to write at F item A3 .\nWorksheet 3\nAmount from (k) in worksheet 1 | $ | (q)\nAmount from (p) in worksheet 2 | $ | (r)\nTake (r) away from (q) | $ | (s)\nDistributions of income (as defined above at step 3) | $ | (t)\nThat part of a trust distribution that you exclude from L or U item 13 because it is a capital gain (supplementary section). | $ | (u)\nAdd (s), (t) and (u) | $ | (v)\nTransfer the amount at (v) to F item A3 on page 7 of your tax return. If (v) is 0 , print C in the CODE box at F .\n### G Income from employment or business\nOur systems automatically treat some amounts as employment income you earned in 2010-11 or business income. If the total of these amounts is not the same as your actual 2010-11 employment income or business income (for example, because you show an employer lump sum payment you received for employment that finished in 2009-10), you need to make an adjustment by writing an amount at G .\nIn answering this question, income from employment includes income you earn as a company director or under a contract wholly or principally for your labour. For more information about employment income refer to Super co-contributions workbook (NAT 73495). You can obtain a copy from our website or by phoning our Superannuation Info line (see the inside back cover).\nParental leave pay you received during 2010-11 is income from employment unless your employment ceased and you continued to receive parental leave pay. If this applies to you, include at (x) below only the amount of parental leave pay that you received after your employment ceased.\nDo you show any 2010-11 employment income or business income on your tax return other than at any of the following items? 1 , 2 , 3 , 4 (other than death benefits), B at item 12 , IT1 or IT2 of your tax return P1 or P8 in your Business and professional items schedule for individuals 2011\nNo | Go to step 4.\nYes | Read below.\nDid you receive a share of income from a partnership carrying on a business in which you were a partner? Ignore partnership losses and distributions from trusts that carry on a business.\nYes | Go to step 4.\nNo | Read below.\nDid you have income that is not from your employment in 2009-10 or from a business you carried on, which you show at any of the following items? 1 , 2 , 3 , 4 (other than death benefits), B at item 12 , IT1 or IT2 of your tax return P1 or P8 in your Business and professional items schedule for individuals 2011 .\nNo | Go to H Deductions from business income .\nYes | Go to step 4.\n### Step 4\nWork through worksheet 4 to work out what to write at G item A3 .\nAt (w) show the total employment income from 2010-11 or business income that you do not show:\n- at items 1 , 2 , 3 , 4 (other than death benefits), B at item 12 , IT1 or IT2 , or\n- as income on your Business and professional items schedule for individuals 2011 .\nInclude at (w) your share of distributions of business income from all partnerships in which you are a partner. Do not include any partnership losses you took into account at N or O item 13 .\nDo not include at (w) distributions from trusts that carry on a business.\nAt (x) show the total income that was not from employment in 2010-11 or from business, which you show:\n- at items 1 , 2 , 3 , 4 (other than death benefits), B at item 12 , IT1 or IT2 , or\n- as income in your Business and professional items schedule for individuals 2011 .\n- Include at (x) income from employment that ceased before 1 July 2010.\nWorksheet 4\nEmployment income (as defined above at step 4) | $ | (w)\nIncome that was not from employment (as defined above at step 4) | $ | (x)\nTake (x) away from (w). | $ | (y)\nTransfer the amount at (y) to G item A3 on page 7 of your tax return. If the amount at (y) is negative, print L in the CODE box at G .\n### H Deductions from business income\nDo you have business deductions other than those you included in the deduction items at item P8 in the Business and professional items schedule for individuals 2011?\nNo | Write 0 at H item A3 on page 7 of your tax return and go to question IT1 Total reportable fringe benefits amounts .\nYes | Read below.\nExamples of deductions that you may include at H are:\n- the business portion of a distributed partnership loss included in calculating the amount at N or O at item 13 (as long as the partnership carries on a business)\n- deductions at X or Y at item 13 which relate to the business income portion of a partnership distribution\n- personal service income deductions at item P1 in the Business and professional item schedule for individuals which relate to carrying on your business\n- deductions you show at D10 for costs involved in managing your business tax affairs as a sole trader or partnership business.\n### Step 5\nWrite the total amount of these deductions at H item A3 on page 7 of your tax return.\nWhere to go next go to question IT1 Total reportable fringe benefits amounts return to main menu Tax return for individuals instructions , or go back to question A2 Part-year tax-free threshold .",
+  "child_links": [],
+  "word_count": 1912,
+  "source_title": "A3 - Super co-contribution 2011 | Australian Taxation Office",
+  "source_description": "Complete question A3 if you made an eligible personal super contribution (not including amounts claimed as a deduction).",
+  "category": "your-tax-return"
+}

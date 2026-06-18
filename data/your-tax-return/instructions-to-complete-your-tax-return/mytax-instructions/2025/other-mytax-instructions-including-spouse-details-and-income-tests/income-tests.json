@@ -1,0 +1,1009 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2025/other-mytax-instructions-including-spouse-details-and-income-tests/income-tests",
+  "title": "myTax 2025 Income tests",
+  "description": "How to complete the income tests section when lodging your tax return using myTax.",
+  "nat_number": "",
+  "quick_code": "104247",
+  "date_updated": "2025-06-02T00:32:00Z",
+  "first_published": true,
+  "keywords": "myTax, 2025, offsets",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why we use income tests"
+    },
+    {
+      "type": "paragraph",
+      "text": "We use income tests to work out your eligibility for several tax offsets and benefits. These can reduce the amount of tax you pay."
+    },
+    {
+      "type": "paragraph",
+      "text": "We use income tests to work out whether you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "can claim certain tax offsets and the amount you're entitled to receive",
+        "can receive some government benefits or concessions",
+        "are entitled to a rebate for your private health insurance",
+        "must pay tax",
+        "must pay Medicare levy surcharge",
+        "have a study and training support loan repayment liability for financial assistance you receive from: Higher Education Loan Program (HELP) VET Student Loan (VSL) Student Financial Supplement Scheme (SFSS) Student Start-up Loan (SSL) ABSTUDY Student Start-up Loan (ABSTUDY SSL) Australian Apprenticeship Support Loan (AASL)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We may also pass this information to other government agencies, such as Services Australia, to ensure you're receiving your correct entitlement to government benefits. We also use income tests to correctly determine any child support payments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Each income tests item will only display at Prepare return if it contains an amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "myTax will populate some amounts using the information you provide in your tax return. You may not be able to edit those populated amounts at Income tests. For more information, refer to the specific income test."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need to add information to items not initially displayed at Prepare return , select 'Add/Edit' at the Income tests banner."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Total reportable fringe benefit amounts"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reportable fringe benefits are fringe benefit amounts that you received from your employer and have the taxable value of those benefits recorded on your income statement or payment summary."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You have a reportable fringe benefits amount if the total taxable value of certain fringe benefits provided to you or your associate (for example, a relative) exceeds $2,000 in a fringe benefits tax (FBT) year (1 April to 31 March).",
+        "Employers must gross-up this amount and report it on your income statement or payment summary. The reportable fringe benefit amount reflects the gross salary that you would have to earn to purchase the benefit from your after-tax income. The lower gross-up rate for the FBT year ending 31 March 2025 is 1.8868. If the taxable value of your fringe benefits is $2,000.01, your reportable fringe benefit amount is $3,773."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Reportable fringe benefits for employees ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Show your reportable fringe benefits amounts in the Income statements and payment summaries section at:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Salary, wages, allowances, tips, bonuses",
+        "Foreign employment income"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't show any reportable fringe benefit amount less than $3,773."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "We populate this section with reportable fringe benefits amounts shown in the Income statements and payment summaries section."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Personalise return , you don't need to make a selection to show Income tests, as it's always displayed at Prepare return."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Prepare return , select 'Add/Edit' at the Income tests banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Income tests heading:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "myTax will show the following total reportable fringe benefits amounts From employers exempt from FBT under section 57A of the FBTAA 1986 From employers not exempt from FBT under section 57A of the FBTAA 1986.",
+        "Select Save and continue when you have completed the Income tests section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To update or add a reportable fringe benefits amount of $3,773 or more in myTax, go to the relevant payment type in the Income statements and payment summaries section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Salary, wages, allowances, tips, bonuses",
+        "Foreign employment income"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reportable employer superannuation contributions"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reportable employer superannuation contributions are additional to the compulsory contributions your employer must make. An example of a reportable employer superannuation contribution is a salary sacrificed arrangement. For more information, see Reportable super contributions ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your income statement or payment summary shows a reportable employer superannuation contributions amount, and you didn't ask your employer to make additional contributions, contact them to check the amount before lodging your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask your employer to provide you with a revised income statement or payment summary if they have incorrectly calculated the reportable employer superannuation contributions amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "Show your reportable employer superannuation contributions:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "in the Income statements and payment summaries section at Salary, wages, allowances, tips, bonuses Foreign employment income Attributed personal services income",
+        "in the Business/sole trader and partnership income section at Business income statements and payment summaries"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "We populate this section with reportable employer superannuation contributions shown in the following sections:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Income statements and payment summaries",
+        "Business/sole trader and partnership income"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At Personalise return , you don't need to make a selection to show Income tests, as it's always displayed at Prepare return."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Prepare return , select 'Add/Edit' at the Income tests banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Income tests heading:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "myTax will show the total reportable employer superannuation contributions.",
+        "Select Save and continue when you have completed the Income tests section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To update or add a reportable employer superannuation contributions amount in myTax, go to the relevant section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "in the Income statements and payment summaries section Salary, wages, allowances, tips, bonuses Foreign employment income Attributed personal services income",
+        "in the Business/sole trader and partnership income section Business income statements and payment summaries"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tax-free government pensions or benefits"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Certain tax-free government pensions and benefits are taken into account when working out your adjusted taxable income (ATI). Your ATI is an income test we use to work out your eligibility for certain tax offsets and the amount of those offsets. You don't pay income tax on tax-free government pensions and benefits."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must include at this section the part of the following pensions and benefits that are exempt from tax. In some cases, all of your pension or benefit could be exempt from tax, and in other cases, only part of it might be."
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't include any part of it that is a bereavement payment, pharmaceutical allowance, rent assistance or remote area allowance, or language, literacy and numeracy supplement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Government benefits or payments you may receive are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Disability support pension paid by Centrelink to a person who is under age-pension age",
+        "Youth disability supplement if you receive disability support pension",
+        "Carer payment under Part 2.5 of the Social Security Act 1991 (this isn't the carer allowance under Part 2.19 of the Social Security Act 1991 )",
+        "Pension for defence, peacekeeping or war-caused death or incapacity, or any other pension granted under Part II or Part IV of the Veterans' Entitlement Act 1986",
+        "Invalidity service pension where the veteran is under age-pension age",
+        "Partner service pension where either the partner and the veteran are under age-pension age and the veteran is receiving an invalidity service pension the partner is under age-pension age, the veteran has died and was receiving an invalidity service pension at the time of death",
+        "Income support supplement paid under Part IIIA of the Veterans’ Entitlements Act 1986",
+        "A veteran payment under an instrument made under Part IIIAA of the Veterans' Entitlements Act 1986",
+        "Special rate disability pension under Part 6 of Chapter 4 of the Military Rehabilitation and Compensation Act 2004",
+        "A payment of compensation under section 68, 71 or 75 of the Military Rehabilitation and Compensation Act 2004",
+        "A payment of the weekly amount mentioned in paragraph 234(1)(b) of the Military Rehabilitation and Compensation Act 2004 (including a reduced weekly amount because of a choice under section 236 of that Act) or of a lump sum mentioned in subsection 236(5) of that Act."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're not sure, for the purpose of this section, whether a government pension or benefit you have received is tax-free, contact us ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Don’t show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don’t include any amount at this section for the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "family tax benefit",
+        "amounts that you have already shown in the Income statements and payment summaries section: Australian Government payment such as JobSeeker, Youth Allowance and Austudy Australian Government payment such as pensions and carer payments Super income stream Australian annuity payments."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll need details of your tax-free government pension or benefit from the agency that paid you. If you don't have this information, contact the agency that paid you."
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your tax return with information provided to us. Check it and add any tax-free government pensions and benefits you received that haven't pre-filled."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Personalise return , you don't need to make a selection to show Income tests, as it's always displayed at Prepare return."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Prepare return , select 'Add/Edit' at the Income tests banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Income tests heading:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Enter at Tax-free government pensions or benefits the total amount of tax-free pensions and benefits you received during 2024–25.",
+        "Select Save and continue when you have completed the Income tests section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: Information shown in myTax may be updated based on pre-fill data. Before you lodge, you should review this information again to ensure it is correct."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Target foreign income"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Target foreign income is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "income earned, derived or received from sources outside of Australia",
+        "a periodical payment by way of gifts or allowances from a source outside of Australia",
+        "a periodical benefit by way of gifts or allowances from a source outside of Australia."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "An amount isn’t target foreign income if you report it in your taxable income or received it in the form of a fringe benefit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Types of target foreign income you need to show at this section include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "regular receipts of money and gifts from relatives living overseas which are exempt from Australian tax",
+        "income from foreign business interests and investments, which are exempt from Australian tax, including income received by migrants with business interests in their country of origin",
+        "foreign source income you received while you were a temporary resident that is exempt from Australian tax",
+        "the amount of exempt foreign employment income you have shown in your tax return."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't include any other foreign income amounts that you show elsewhere in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're not sure whether any foreign income you have received is target foreign income, contact us ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll need details of your target foreign income amounts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Show all foreign income in Australian dollars using the market exchange rate for 1 July 2024. For information on how to convert your foreign income, see Foreign exchange rates or you can use the Foreign income conversion calculator This link opens in a new window ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have already entered exempt foreign employment income in either the Income statements and payment summaries or Foreign income, assets and entities section, that amount may be shown here. Otherwise, you'll need to include it in the total target foreign income."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Personalise return , you don't need to make a selection to show Income tests, as it's always displayed at Prepare return."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Prepare return , select 'Add/Edit' at the Income tests banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Income tests heading:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Enter at Target foreign income the total amount of target foreign income you received during 2024–25.",
+        "Select Save and continue when you have completed the Income tests section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: Information shown in myTax may be updated based on you entering data in other sections. Before you lodge, you should review this information again to ensure it is correct."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Net financial investment loss"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Net financial investment loss is the amount of net loss from any financial investments you owned."
+    },
+    {
+      "type": "paragraph",
+      "text": "The loss shown at this section is the amount by which your deductions from your financial investments exceed your income from these investments:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "shares in a company",
+        "an investment in a managed investment scheme , including a forestry managed investment scheme",
+        "rights or options for shares or managed investment schemes",
+        "distributions from a partnership that included income or losses from an investment type from the list above",
+        "any investment that is of a similar nature to those in the list above."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When calculating your net financial investment loss, interest from your everyday transaction accounts isn't included."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Managed investment schemes"
+    },
+    {
+      "type": "paragraph",
+      "text": "The investment manager will be able to tell you whether your investment is a managed investment scheme. Managed investment schemes include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "cash management trusts",
+        "property trusts",
+        "Australian equity (share) trusts",
+        "agricultural schemes (including horticultural, aquaculture and commercial horse breeding schemes)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Investments that aren't managed investment schemes include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "regulated superannuation funds",
+        "approved deposit funds",
+        "debentures issued by a body corporate",
+        "franchises",
+        "schemes an Australian bank operated in the ordinary course of banking business (such as term deposits)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Deductions for an investment include expenses you pay to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "borrow money to purchase an investment",
+        "manage your investments",
+        "get advice about changes in the mix of your investments."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll calculate the amount of your net financial investment loss using the information you provide in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Personalise return , you don't need to make a selection to show Income tests, as it's always displayed at Prepare return."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Prepare return , select 'Add/Edit' at the Income tests banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Income tests heading:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "myTax will show the net financial investment loss. If you want to see how we work this out, see Calculating net financial investment loss .",
+        "Select Save and continue when you have completed the Income tests section."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Calculating net financial investment loss"
+    },
+    {
+      "type": "paragraph",
+      "text": "Based on the information in your tax return, we work out your net financial investment loss for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to know how we work it out, complete worksheets 1a, 1b and 1c below."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Financial investment income",
+          "Amount"
+        ],
+        [
+          "a",
+          "Dividends from Australian shares – Unfranked amount.",
+          "$"
+        ],
+        [
+          "b",
+          "Dividends from Australian shares – Franked amount.",
+          "$"
+        ],
+        [
+          "c",
+          "Dividends from Australian shares – Franking credit.",
+          "$"
+        ],
+        [
+          "d",
+          "Managed funds – Your share of Total non-primary production income (show a loss as a negative).",
+          "$"
+        ],
+        [
+          "e",
+          "Managed funds – Your share of Total franked distribution.",
+          "$"
+        ],
+        [
+          "f",
+          "Managed funds – Your share of Total other foreign income.",
+          "$"
+        ],
+        [
+          "g",
+          "Managed funds – Your share of Total Australian credits from a NZ franking company.",
+          "$"
+        ],
+        [
+          "h",
+          "Managed funds – Your share of Total other income - category 4",
+          "$"
+        ],
+        [
+          "i",
+          "Trusts – Managed investment scheme amount (show a loss as a negative).",
+          "$"
+        ],
+        [
+          "j",
+          "Trusts – Franked distribution related to investments.",
+          "$"
+        ],
+        [
+          "k",
+          "Trusts – Australian franking credits from a New Zealand franking company.",
+          "$"
+        ],
+        [
+          "l",
+          "Trusts – Other assessable foreign source income from a financial investment.",
+          "$"
+        ],
+        [
+          "m",
+          "Partnerships – Partnership net financial investment income or loss (show a loss as a negative).",
+          "$"
+        ],
+        [
+          "n",
+          "Business income or losses – Net non-primary production income or loss from a business of investing (show a loss as a negative).",
+          "$"
+        ],
+        [
+          "o",
+          "Loss details – Partnership: Deferred loss amount from carrying on a business of investing.",
+          "$"
+        ],
+        [
+          "p",
+          "Loss details – Sole trader: Deferred loss amount from carrying on a business of investing.",
+          "$"
+        ],
+        [
+          "q",
+          "Other foreign income from a financial investment – Australian franking credits from a New Zealand franking company.",
+          "$"
+        ],
+        [
+          "r",
+          "Other foreign income from a financial investment – Gross income less Deductible expenses (show a loss as a negative).",
+          "$"
+        ],
+        [
+          "s",
+          "Forestry managed investment schemes – Amount.",
+          "$"
+        ],
+        [
+          "t",
+          "Any other income – Financial investments not shown elsewhere.",
+          "$"
+        ],
+        [
+          "u",
+          "Any other income – Assessable adjustment from low-value pool relating to financial investments.",
+          "$"
+        ],
+        [
+          "v",
+          "Add all amounts from rows a to u .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Financial investment deductions",
+          "Amount"
+        ],
+        [
+          "w",
+          "Dividend deductions – Amount.",
+          "$"
+        ],
+        [
+          "x",
+          "Low value pool deduction – Low value pool deduction relating to financial investment.",
+          "$"
+        ],
+        [
+          "y",
+          "Managed funds – Your share of Total other deductions relating to non-primary production.",
+          "$"
+        ],
+        [
+          "z",
+          "Trusts – Managed investment scheme deductions.",
+          "$"
+        ],
+        [
+          "aa",
+          "Partnerships – Partnership financial investment deductions.",
+          "$"
+        ],
+        [
+          "bb",
+          "Forestry managed investment scheme deductions – Amount.",
+          "$"
+        ],
+        [
+          "cc",
+          "Other deductions – Deductions relating to financial investments.",
+          "$"
+        ],
+        [
+          "dd",
+          "Add all amounts from rows w to cc .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "ee",
+          "Row v (from Worksheet 1a ).",
+          "$"
+        ],
+        [
+          "ff",
+          "Row dd (from Worksheet 1b ).",
+          "$"
+        ],
+        [
+          "gg",
+          "Take row ff away from row ee . If the amount is a negative, this amount is your Net financial investment loss . Otherwise, the amount will be 0 .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Net rental property loss"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Net rental property loss is about the net loss from any rental property you owned."
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't include at this section capital gains or capital losses from your rental properties."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll calculate the amount of your net rental property loss using the information you provide in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Personalise return , you don't need to make a selection to show Income tests, as it's always displayed at Prepare return."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Prepare return , select 'Add/Edit' at the Income tests banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Income tests heading:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "myTax will show the net rental property loss. If you want to see how we work this out, see Calculating net rental property loss .",
+        "Select Save and continue when you have completed the Income tests section."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Calculating net rental property loss"
+    },
+    {
+      "type": "paragraph",
+      "text": "Based on the information in your tax return, we work out your net rental property loss for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to know how we work it out, complete the worksheet below."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "Foreign rental income – Gross income less Deductible expenses (show a loss as a negative).",
+          "$"
+        ],
+        [
+          "b",
+          "Managed funds – Your share of Total net foreign rent (show a loss as a negative).",
+          "$"
+        ],
+        [
+          "c",
+          "Rent – Net rent (show a loss as a negative).",
+          "$"
+        ],
+        [
+          "d",
+          "Partnerships – Partnership net rental property income or loss (show a loss as a negative).",
+          "$"
+        ],
+        [
+          "e",
+          "Business income or losses – Net non-primary production income or loss from a rental property business (show a loss as a negative).",
+          "$"
+        ],
+        [
+          "f",
+          "Loss details – Partnership: Deferred loss amount from carrying on a rental property business.",
+          "$"
+        ],
+        [
+          "g",
+          "Loss details – Sole trader: Deferred loss amount from carrying on a rental property business.",
+          "$"
+        ],
+        [
+          "h",
+          "Any other income – Assessable adjustment from low-value pool relating to rental property.",
+          "$"
+        ],
+        [
+          "i",
+          "Add all amounts from rows a to h .",
+          "$"
+        ],
+        [
+          "j",
+          "Low value pool deduction – Low value pool deduction relating to rental property.",
+          "$"
+        ],
+        [
+          "k",
+          "Partnerships – Partnership rental property deductions.",
+          "$"
+        ],
+        [
+          "l",
+          "Other deductions – Debt deductions incurred in deriving foreign rental income.",
+          "$"
+        ],
+        [
+          "m",
+          "Add all amounts from rows j to m .",
+          "$"
+        ],
+        [
+          "n",
+          "Take row m away from row i . If the amount is a negative, this amount is your Net rental property loss . Otherwise, the amount will be 0 .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Child support you paid"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Child support are amounts you paid or benefits you provided to another person other than your partner for the maintenance of your natural or adopted child."
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't include amounts you paid or provided to a person to acquire goods or services."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll need the total for amounts you paid or benefits you provided to another person other than your partner for the maintenance of your natural or adopted child during 2024–25. Use your records to work out this amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Personalise return , you don't need to make a selection to show Income tests, as it's always displayed at Prepare return."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Prepare return , select 'Add/Edit' at the Income tests banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Income tests heading:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Enter at Child support you paid the total amount you paid and benefits you provided for the maintenance of your child during 2024–25.",
+        "Select Save and continue when you have completed the Income tests section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For income test purposes, we deduct this amount from the total of the other components that make up your adjusted taxable income."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Number of dependent children"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Number of dependent children is used to work out your entitlement to an increase in the income test threshold for the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "private health insurance rebate",
+        "Medicare levy surcharge."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Regardless of their income, a dependent child is your child who is either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "under 21 years old",
+        "21 to 24 years old and a full-time student at a school, college or university."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The child must be an Australian resident and you must have contributed to their maintenance."
+    },
+    {
+      "type": "paragraph",
+      "text": "You maintained a dependant if any of the following applied:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you both lived in the same house",
+        "you gave them food, clothing and lodging",
+        "you helped them to pay for their living, medical and educational costs."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your tax return with the number of dependent children from your 2024 tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Personalise return , you don't need to make a selection to show Income tests, as it's always displayed at Prepare return."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Prepare return , select 'Add/Edit' at the Income tests banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Income tests heading:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Check the Number of dependent children and correct if necessary.",
+        "Select Save and continue when you have completed the Income tests section."
+      ]
+    }
+  ],
+  "content_text": "## Why we use income tests\nWe use income tests to work out your eligibility for several tax offsets and benefits. These can reduce the amount of tax you pay.\nWe use income tests to work out whether you:\n- can claim certain tax offsets and the amount you're entitled to receive\n- can receive some government benefits or concessions\n- are entitled to a rebate for your private health insurance\n- must pay tax\n- must pay Medicare levy surcharge\n- have a study and training support loan repayment liability for financial assistance you receive from: Higher Education Loan Program (HELP) VET Student Loan (VSL) Student Financial Supplement Scheme (SFSS) Student Start-up Loan (SSL) ABSTUDY Student Start-up Loan (ABSTUDY SSL) Australian Apprenticeship Support Loan (AASL).\nWe may also pass this information to other government agencies, such as Services Australia, to ensure you're receiving your correct entitlement to government benefits. We also use income tests to correctly determine any child support payments.\nEach income tests item will only display at Prepare return if it contains an amount.\nmyTax will populate some amounts using the information you provide in your tax return. You may not be able to edit those populated amounts at Income tests. For more information, refer to the specific income test.\nIf you need to add information to items not initially displayed at Prepare return , select 'Add/Edit' at the Income tests banner.\n## Total reportable fringe benefit amounts\n### Things to know\nReportable fringe benefits are fringe benefit amounts that you received from your employer and have the taxable value of those benefits recorded on your income statement or payment summary.\n- You have a reportable fringe benefits amount if the total taxable value of certain fringe benefits provided to you or your associate (for example, a relative) exceeds $2,000 in a fringe benefits tax (FBT) year (1 April to 31 March).\n- Employers must gross-up this amount and report it on your income statement or payment summary. The reportable fringe benefit amount reflects the gross salary that you would have to earn to purchase the benefit from your after-tax income. The lower gross-up rate for the FBT year ending 31 March 2025 is 1.8868. If the taxable value of your fringe benefits is $2,000.01, your reportable fringe benefit amount is $3,773.\nFor more information, see Reportable fringe benefits for employees .\nShow your reportable fringe benefits amounts in the Income statements and payment summaries section at:\n- Salary, wages, allowances, tips, bonuses\n- Foreign employment income\nDon't show any reportable fringe benefit amount less than $3,773.\n### Completing this section\nWe populate this section with reportable fringe benefits amounts shown in the Income statements and payment summaries section.\nAt Personalise return , you don't need to make a selection to show Income tests, as it's always displayed at Prepare return.\nAt Prepare return , select 'Add/Edit' at the Income tests banner.\nAt the Income tests heading:\n- myTax will show the following total reportable fringe benefits amounts From employers exempt from FBT under section 57A of the FBTAA 1986 From employers not exempt from FBT under section 57A of the FBTAA 1986.\n- Select Save and continue when you have completed the Income tests section.\nTo update or add a reportable fringe benefits amount of $3,773 or more in myTax, go to the relevant payment type in the Income statements and payment summaries section:\n- Salary, wages, allowances, tips, bonuses\n- Foreign employment income\n## Reportable employer superannuation contributions\n### Things to know\nReportable employer superannuation contributions are additional to the compulsory contributions your employer must make. An example of a reportable employer superannuation contribution is a salary sacrificed arrangement. For more information, see Reportable super contributions .\nIf your income statement or payment summary shows a reportable employer superannuation contributions amount, and you didn't ask your employer to make additional contributions, contact them to check the amount before lodging your tax return.\nAsk your employer to provide you with a revised income statement or payment summary if they have incorrectly calculated the reportable employer superannuation contributions amount.\nShow your reportable employer superannuation contributions:\n- in the Income statements and payment summaries section at Salary, wages, allowances, tips, bonuses Foreign employment income Attributed personal services income\n- in the Business/sole trader and partnership income section at Business income statements and payment summaries\n### Completing this section\nWe populate this section with reportable employer superannuation contributions shown in the following sections:\n- Income statements and payment summaries\n- Business/sole trader and partnership income\nAt Personalise return , you don't need to make a selection to show Income tests, as it's always displayed at Prepare return.\nAt Prepare return , select 'Add/Edit' at the Income tests banner.\nAt the Income tests heading:\n- myTax will show the total reportable employer superannuation contributions.\n- Select Save and continue when you have completed the Income tests section.\nTo update or add a reportable employer superannuation contributions amount in myTax, go to the relevant section:\n- in the Income statements and payment summaries section Salary, wages, allowances, tips, bonuses Foreign employment income Attributed personal services income\n- in the Business/sole trader and partnership income section Business income statements and payment summaries\n## Tax-free government pensions or benefits\n### Things to know\nCertain tax-free government pensions and benefits are taken into account when working out your adjusted taxable income (ATI). Your ATI is an income test we use to work out your eligibility for certain tax offsets and the amount of those offsets. You don't pay income tax on tax-free government pensions and benefits.\nYou must include at this section the part of the following pensions and benefits that are exempt from tax. In some cases, all of your pension or benefit could be exempt from tax, and in other cases, only part of it might be.\nDon't include any part of it that is a bereavement payment, pharmaceutical allowance, rent assistance or remote area allowance, or language, literacy and numeracy supplement.\nGovernment benefits or payments you may receive are:\n- Disability support pension paid by Centrelink to a person who is under age-pension age\n- Youth disability supplement if you receive disability support pension\n- Carer payment under Part 2.5 of the Social Security Act 1991 (this isn't the carer allowance under Part 2.19 of the Social Security Act 1991 )\n- Pension for defence, peacekeeping or war-caused death or incapacity, or any other pension granted under Part II or Part IV of the Veterans' Entitlement Act 1986\n- Invalidity service pension where the veteran is under age-pension age\n- Partner service pension where either the partner and the veteran are under age-pension age and the veteran is receiving an invalidity service pension the partner is under age-pension age, the veteran has died and was receiving an invalidity service pension at the time of death\n- Income support supplement paid under Part IIIA of the Veterans’ Entitlements Act 1986\n- A veteran payment under an instrument made under Part IIIAA of the Veterans' Entitlements Act 1986\n- Special rate disability pension under Part 6 of Chapter 4 of the Military Rehabilitation and Compensation Act 2004\n- A payment of compensation under section 68, 71 or 75 of the Military Rehabilitation and Compensation Act 2004\n- A payment of the weekly amount mentioned in paragraph 234(1)(b) of the Military Rehabilitation and Compensation Act 2004 (including a reduced weekly amount because of a choice under section 236 of that Act) or of a lump sum mentioned in subsection 236(5) of that Act.\nIf you're not sure, for the purpose of this section, whether a government pension or benefit you have received is tax-free, contact us .\n### Don’t show at this section\nDon’t include any amount at this section for the following:\n- family tax benefit\n- amounts that you have already shown in the Income statements and payment summaries section: Australian Government payment such as JobSeeker, Youth Allowance and Austudy Australian Government payment such as pensions and carer payments Super income stream Australian annuity payments.\n### Completing this section\nYou'll need details of your tax-free government pension or benefit from the agency that paid you. If you don't have this information, contact the agency that paid you.\nWe pre-fill your tax return with information provided to us. Check it and add any tax-free government pensions and benefits you received that haven't pre-filled.\nAt Personalise return , you don't need to make a selection to show Income tests, as it's always displayed at Prepare return.\nAt Prepare return , select 'Add/Edit' at the Income tests banner.\nAt the Income tests heading:\n- Enter at Tax-free government pensions or benefits the total amount of tax-free pensions and benefits you received during 2024–25.\n- Select Save and continue when you have completed the Income tests section.\nNote: Information shown in myTax may be updated based on pre-fill data. Before you lodge, you should review this information again to ensure it is correct.\n## Target foreign income\n### Things to know\nTarget foreign income is:\n- income earned, derived or received from sources outside of Australia\n- a periodical payment by way of gifts or allowances from a source outside of Australia\n- a periodical benefit by way of gifts or allowances from a source outside of Australia.\nAn amount isn’t target foreign income if you report it in your taxable income or received it in the form of a fringe benefit.\nTypes of target foreign income you need to show at this section include:\n- regular receipts of money and gifts from relatives living overseas which are exempt from Australian tax\n- income from foreign business interests and investments, which are exempt from Australian tax, including income received by migrants with business interests in their country of origin\n- foreign source income you received while you were a temporary resident that is exempt from Australian tax\n- the amount of exempt foreign employment income you have shown in your tax return.\nDon't include any other foreign income amounts that you show elsewhere in your tax return.\nIf you're not sure whether any foreign income you have received is target foreign income, contact us .\n### Completing this section\nYou'll need details of your target foreign income amounts.\nShow all foreign income in Australian dollars using the market exchange rate for 1 July 2024. For information on how to convert your foreign income, see Foreign exchange rates or you can use the Foreign income conversion calculator This link opens in a new window .\nIf you have already entered exempt foreign employment income in either the Income statements and payment summaries or Foreign income, assets and entities section, that amount may be shown here. Otherwise, you'll need to include it in the total target foreign income.\nAt Personalise return , you don't need to make a selection to show Income tests, as it's always displayed at Prepare return.\nAt Prepare return , select 'Add/Edit' at the Income tests banner.\nAt the Income tests heading:\n- Enter at Target foreign income the total amount of target foreign income you received during 2024–25.\n- Select Save and continue when you have completed the Income tests section.\nNote: Information shown in myTax may be updated based on you entering data in other sections. Before you lodge, you should review this information again to ensure it is correct.\n## Net financial investment loss\n### Things to know\nNet financial investment loss is the amount of net loss from any financial investments you owned.\nThe loss shown at this section is the amount by which your deductions from your financial investments exceed your income from these investments:\n- shares in a company\n- an investment in a managed investment scheme , including a forestry managed investment scheme\n- rights or options for shares or managed investment schemes\n- distributions from a partnership that included income or losses from an investment type from the list above\n- any investment that is of a similar nature to those in the list above.\nWhen calculating your net financial investment loss, interest from your everyday transaction accounts isn't included.\n### Managed investment schemes\nThe investment manager will be able to tell you whether your investment is a managed investment scheme. Managed investment schemes include:\n- cash management trusts\n- property trusts\n- Australian equity (share) trusts\n- agricultural schemes (including horticultural, aquaculture and commercial horse breeding schemes).\nInvestments that aren't managed investment schemes include:\n- regulated superannuation funds\n- approved deposit funds\n- debentures issued by a body corporate\n- franchises\n- schemes an Australian bank operated in the ordinary course of banking business (such as term deposits).\n### Deductions\nDeductions for an investment include expenses you pay to:\n- borrow money to purchase an investment\n- manage your investments\n- get advice about changes in the mix of your investments.\n### Completing this section\nWe'll calculate the amount of your net financial investment loss using the information you provide in your tax return.\nAt Personalise return , you don't need to make a selection to show Income tests, as it's always displayed at Prepare return.\nAt Prepare return , select 'Add/Edit' at the Income tests banner.\nAt the Income tests heading:\n- myTax will show the net financial investment loss. If you want to see how we work this out, see Calculating net financial investment loss .\n- Select Save and continue when you have completed the Income tests section.\n#### Calculating net financial investment loss\nBased on the information in your tax return, we work out your net financial investment loss for you.\nIf you want to know how we work it out, complete worksheets 1a, 1b and 1c below.\nRow | Financial investment income | Amount\na | Dividends from Australian shares – Unfranked amount. | $\nb | Dividends from Australian shares – Franked amount. | $\nc | Dividends from Australian shares – Franking credit. | $\nd | Managed funds – Your share of Total non-primary production income (show a loss as a negative). | $\ne | Managed funds – Your share of Total franked distribution. | $\nf | Managed funds – Your share of Total other foreign income. | $\ng | Managed funds – Your share of Total Australian credits from a NZ franking company. | $\nh | Managed funds – Your share of Total other income - category 4 | $\ni | Trusts – Managed investment scheme amount (show a loss as a negative). | $\nj | Trusts – Franked distribution related to investments. | $\nk | Trusts – Australian franking credits from a New Zealand franking company. | $\nl | Trusts – Other assessable foreign source income from a financial investment. | $\nm | Partnerships – Partnership net financial investment income or loss (show a loss as a negative). | $\nn | Business income or losses – Net non-primary production income or loss from a business of investing (show a loss as a negative). | $\no | Loss details – Partnership: Deferred loss amount from carrying on a business of investing. | $\np | Loss details – Sole trader: Deferred loss amount from carrying on a business of investing. | $\nq | Other foreign income from a financial investment – Australian franking credits from a New Zealand franking company. | $\nr | Other foreign income from a financial investment – Gross income less Deductible expenses (show a loss as a negative). | $\ns | Forestry managed investment schemes – Amount. | $\nt | Any other income – Financial investments not shown elsewhere. | $\nu | Any other income – Assessable adjustment from low-value pool relating to financial investments. | $\nv | Add all amounts from rows a to u . | $\nRow | Financial investment deductions | Amount\nw | Dividend deductions – Amount. | $\nx | Low value pool deduction – Low value pool deduction relating to financial investment. | $\ny | Managed funds – Your share of Total other deductions relating to non-primary production. | $\nz | Trusts – Managed investment scheme deductions. | $\naa | Partnerships – Partnership financial investment deductions. | $\nbb | Forestry managed investment scheme deductions – Amount. | $\ncc | Other deductions – Deductions relating to financial investments. | $\ndd | Add all amounts from rows w to cc . | $\nRow | Calculation | Amount\nee | Row v (from Worksheet 1a ). | $\nff | Row dd (from Worksheet 1b ). | $\ngg | Take row ff away from row ee . If the amount is a negative, this amount is your Net financial investment loss . Otherwise, the amount will be 0 . | $\n## Net rental property loss\n### Things to know\nNet rental property loss is about the net loss from any rental property you owned.\nDon't include at this section capital gains or capital losses from your rental properties.\n### Completing this section\nWe'll calculate the amount of your net rental property loss using the information you provide in your tax return.\nAt Personalise return , you don't need to make a selection to show Income tests, as it's always displayed at Prepare return.\nAt Prepare return , select 'Add/Edit' at the Income tests banner.\nAt the Income tests heading:\n- myTax will show the net rental property loss. If you want to see how we work this out, see Calculating net rental property loss .\n- Select Save and continue when you have completed the Income tests section.\n#### Calculating net rental property loss\nBased on the information in your tax return, we work out your net rental property loss for you.\nIf you want to know how we work it out, complete the worksheet below.\nRow | Calculation | Amount\na | Foreign rental income – Gross income less Deductible expenses (show a loss as a negative). | $\nb | Managed funds – Your share of Total net foreign rent (show a loss as a negative). | $\nc | Rent – Net rent (show a loss as a negative). | $\nd | Partnerships – Partnership net rental property income or loss (show a loss as a negative). | $\ne | Business income or losses – Net non-primary production income or loss from a rental property business (show a loss as a negative). | $\nf | Loss details – Partnership: Deferred loss amount from carrying on a rental property business. | $\ng | Loss details – Sole trader: Deferred loss amount from carrying on a rental property business. | $\nh | Any other income – Assessable adjustment from low-value pool relating to rental property. | $\ni | Add all amounts from rows a to h . | $\nj | Low value pool deduction – Low value pool deduction relating to rental property. | $\nk | Partnerships – Partnership rental property deductions. | $\nl | Other deductions – Debt deductions incurred in deriving foreign rental income. | $\nm | Add all amounts from rows j to m . | $\nn | Take row m away from row i . If the amount is a negative, this amount is your Net rental property loss . Otherwise, the amount will be 0 . | $\n## Child support you paid\n### Things to know\nChild support are amounts you paid or benefits you provided to another person other than your partner for the maintenance of your natural or adopted child.\nDon't include amounts you paid or provided to a person to acquire goods or services.\n### Completing this section\nYou'll need the total for amounts you paid or benefits you provided to another person other than your partner for the maintenance of your natural or adopted child during 2024–25. Use your records to work out this amount.\nAt Personalise return , you don't need to make a selection to show Income tests, as it's always displayed at Prepare return.\nAt Prepare return , select 'Add/Edit' at the Income tests banner.\nAt the Income tests heading:\n- Enter at Child support you paid the total amount you paid and benefits you provided for the maintenance of your child during 2024–25.\n- Select Save and continue when you have completed the Income tests section.\nFor income test purposes, we deduct this amount from the total of the other components that make up your adjusted taxable income.\n## Number of dependent children\n### Things to know\nNumber of dependent children is used to work out your entitlement to an increase in the income test threshold for the:\n- private health insurance rebate\n- Medicare levy surcharge.\nRegardless of their income, a dependent child is your child who is either:\n- under 21 years old\n- 21 to 24 years old and a full-time student at a school, college or university.\nThe child must be an Australian resident and you must have contributed to their maintenance.\nYou maintained a dependant if any of the following applied:\n- you both lived in the same house\n- you gave them food, clothing and lodging\n- you helped them to pay for their living, medical and educational costs.\n### Completing this section\nWe pre-fill your tax return with the number of dependent children from your 2024 tax return.\nAt Personalise return , you don't need to make a selection to show Income tests, as it's always displayed at Prepare return.\nAt Prepare return , select 'Add/Edit' at the Income tests banner.\nAt the Income tests heading:\n- Check the Number of dependent children and correct if necessary.\n- Select Save and continue when you have completed the Income tests section.",
+  "child_links": [],
+  "word_count": 3641,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

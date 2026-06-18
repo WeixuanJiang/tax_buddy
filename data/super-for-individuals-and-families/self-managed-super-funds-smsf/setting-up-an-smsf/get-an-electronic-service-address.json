@@ -1,0 +1,106 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/setting-up-an-smsf/get-an-electronic-service-address",
+  "title": "Get an electronic service address",
+  "description": "To receive contributions and rollovers, your SMSF will need an electronic service address (ESA).",
+  "nat_number": "",
+  "quick_code": "45556",
+  "date_updated": "2025-04-01T13:00:00Z",
+  "first_published": "",
+  "keywords": "SMSF ESA, get an ESA, ESA rollover, ESA release authority, ESA contribution, SMSF messaging provider, SMSF electronic service address",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why you need an ESA"
+    },
+    {
+      "type": "paragraph",
+      "text": "To receive contributions and make rollovers into or out of your SMSF you need an electronic service address (ESA). It ensures you meet the legislative requirement under the SuperStream data and payment standard."
+    },
+    {
+      "type": "paragraph",
+      "text": "An ESA is a specific internet address, different to an email address."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ESA can also allow you to action release authorities faster."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to get an ESA"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can get an ESA through:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an SMSF messaging provider",
+        "your SMSF professional."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need to make rollovers to or from your SMSF, ensure you choose a provider that has these services. Some SMSF messaging providers do not provide rollover services."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can only use an ESA where you have subscribed with the SMSF messaging provider. ESAs can expire so make sure your ESA remains active."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Notify us of your ESA"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you receive an ESA, you must update your records with us . If you don't update your details, you can't:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "receive employer contributions",
+        "process rollovers in and out of the SMSF",
+        "receive electronic release authorities."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Notify employers of SMSF details"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your members will be receiving contributions from employers, your members will need to provide them with your SMSF's:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Australian business number",
+        "BSB and bank account number for payments",
+        "ESA."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the employer doesn't have all the details, they may redirect contributions to your members' stapled super fund or their default fund. They may also ask your member to complete a Superannuation standard choice form ."
+    }
+  ],
+  "content_text": "## Why you need an ESA\nTo receive contributions and make rollovers into or out of your SMSF you need an electronic service address (ESA). It ensures you meet the legislative requirement under the SuperStream data and payment standard.\nAn ESA is a specific internet address, different to an email address.\nThe ESA can also allow you to action release authorities faster.\n## How to get an ESA\nYou can get an ESA through:\n- an SMSF messaging provider\n- your SMSF professional.\nIf you need to make rollovers to or from your SMSF, ensure you choose a provider that has these services. Some SMSF messaging providers do not provide rollover services.\nYou can only use an ESA where you have subscribed with the SMSF messaging provider. ESAs can expire so make sure your ESA remains active.\n## Notify us of your ESA\nWhen you receive an ESA, you must update your records with us . If you don't update your details, you can't:\n- receive employer contributions\n- process rollovers in and out of the SMSF\n- receive electronic release authorities.\n## Notify employers of SMSF details\nIf your members will be receiving contributions from employers, your members will need to provide them with your SMSF's:\n- Australian business number\n- BSB and bank account number for payments\n- ESA.\nIf the employer doesn't have all the details, they may redirect contributions to your members' stapled super fund or their default fund. They may also ask your member to complete a Superannuation standard choice form .",
+  "child_links": [
+    {
+      "title": "Register of SMSF messaging providers",
+      "description": "See the self-managed super fund (SMSF) messaging providers who can provide an electronic service address.",
+      "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/setting-up-an-smsf/get-an-electronic-service-address/register-of-smsf-messaging-providers"
+    }
+  ],
+  "word_count": 257,
+  "source_title": "Get an electronic service address | Australian Taxation O...",
+  "source_description": "To receive contributions and rollovers, your SMSF will need an electronic service address (ESA).",
+  "category": "super-for-individuals-and-families"
+}

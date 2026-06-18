@@ -1,0 +1,81 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/medicare-and-private-health-insurance/private-health-insurance-policy-details/further-information",
+  "title": "Further information",
+  "description": "More information including how to work out your tax claim code.",
+  "nat_number": "",
+  "quick_code": "80293",
+  "date_updated": "2019-06-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Working out your tax claim code"
+    },
+    {
+      "type": "paragraph",
+      "text": "On 30 June 2019, were you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Single - go to step 1",
+        "Married or de facto (including if your spouse died during 2018–19 and you did not have another spouse before 30 June 2019) - go to step 2"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Dependants",
+          "Code"
+        ],
+        [
+          "You have no dependants. Note: If you had dependants in your previous tax return but don't have them anymore, you need to change the Number of dependent children in the Income tests section. Tax claim code A will then be available for selection.",
+          "Tax claim code A Go to step 3"
+        ],
+        [
+          "You have a dependent child (your child or a sibling who is dependent on you for economic support), or You paid for a dependent-child-only policy.",
+          "Tax claim code B Go to step 3"
+        ],
+        [
+          "You were covered as a dependent child on a private health insurance policy.",
+          "Tax claim code F Go to step 3"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Circumstances",
+          "Code"
+        ],
+        [
+          "You want to claim only your share of the rebate. You are a parent claiming for a dependent-child-only policy.",
+          "Tax claim code C Go to step 3"
+        ],
+        [
+          "You want to claim both your share and your spouse's share of the rebate. To do this, you must meet all of the following criteria: both were covered under the same policy both were covered for the same period of time be together on 30 June 2019 your spouse must agree that you will claim. Note: You confirm that you are claiming your spouse's share of the rebate at step 11 of Completing this section . This will automatically complete your spouse's share with tax claim code D .",
+          "Tax claim code C Go to step 3"
+        ],
+        [
+          "Your spouse is claiming your share of the rebate.",
+          "Tax claim code E Go to step 3"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 3 – You have worked out your tax claim code, return to Completing this section ."
+    }
+  ],
+  "content_text": "## Working out your tax claim code\nOn 30 June 2019, were you:\n- Single - go to step 1\n- Married or de facto (including if your spouse died during 2018–19 and you did not have another spouse before 30 June 2019) - go to step 2\nDependants | Code\nYou have no dependants. Note: If you had dependants in your previous tax return but don't have them anymore, you need to change the Number of dependent children in the Income tests section. Tax claim code A will then be available for selection. | Tax claim code A Go to step 3\nYou have a dependent child (your child or a sibling who is dependent on you for economic support), or You paid for a dependent-child-only policy. | Tax claim code B Go to step 3\nYou were covered as a dependent child on a private health insurance policy. | Tax claim code F Go to step 3\nCircumstances | Code\nYou want to claim only your share of the rebate. You are a parent claiming for a dependent-child-only policy. | Tax claim code C Go to step 3\nYou want to claim both your share and your spouse's share of the rebate. To do this, you must meet all of the following criteria: both were covered under the same policy both were covered for the same period of time be together on 30 June 2019 your spouse must agree that you will claim. Note: You confirm that you are claiming your spouse's share of the rebate at step 11 of Completing this section . This will automatically complete your spouse's share with tax claim code D . | Tax claim code C Go to step 3\nYour spouse is claiming your share of the rebate. | Tax claim code E Go to step 3\nStep 3 – You have worked out your tax claim code, return to Completing this section .",
+  "child_links": [],
+  "word_count": 323,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

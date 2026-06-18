@@ -1,0 +1,512 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2024/medicare-and-private-health-insurance/private-health-insurance",
+  "title": "myTax 2024 Private health insurance",
+  "description": "How to report your private health insurance information in your return using myTax.",
+  "nat_number": "",
+  "quick_code": "101641",
+  "date_updated": "2024-06-03T04:12:00Z",
+  "first_published": true,
+  "keywords": "myTax, 2024, dependent person, family policy",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete this section if at any time during 2023–24 you either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "were covered by a private health insurance policy",
+        "paid for a dependent-person-only policy."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't have your own policy, you may be covered as a dependent person on your family policy."
+    },
+    {
+      "type": "paragraph",
+      "text": "We use the information at this section to work out your share of any private health insurance rebate that you may be entitled to. This may result in a tax offset or liability."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Private health insurance rebate"
+    },
+    {
+      "type": "paragraph",
+      "text": "The private health insurance rebate is an amount the government contributes towards the cost of your private health insurance premiums."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you meet the eligibility requirements for a private health insurance rebate, you can claim your rebate as either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a premium reduction which lowers the policy price charged by your insurer",
+        "a refundable tax offset when you lodge your tax return."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The private health insurance rebate is income tested. If you share the policy, you will be income tested on your share."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your rebate entitlement:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "depends on your family status on 30 June. Different thresholds apply depending on whether you have a single income or a family income",
+        "is based on the age of the oldest person covered by the policy."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When you lodge your tax return, we calculate your income for surcharge purposes and determine your rebate entitlement. Depending on how you claimed the rebate, and the percentage you claimed, this may result in a tax liability and/or a tax offset."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If you haven't claimed the full rebate as a premium reduction, we calculate the rebate amount you are entitled to. This becomes payable to you as a refundable tax offset when we assess your tax return. The tax offset is added together with any other tax offsets that you receive and will appear as a credit in the myTax estimate and on your notice of assessment.",
+        "If you claimed too much rebate as a premium reduction, we recover the amount as a tax liability. This liability will be listed in the myTax estimate and on your notice of assessment as an Excess private health insurance reduction or refund."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Your private health insurance statement"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is optional for health insurers to provide you with a private health insurance statement. A statement may only be provided if you request one from your registered health insurer."
+    },
+    {
+      "type": "paragraph",
+      "text": "We aim to pre-fill your tax return by 20 July with private health insurance policies provided to us. You can check our website, at Health fund data , to confirm if your health fund has sent us your information."
+    },
+    {
+      "type": "paragraph",
+      "text": "To add policies not pre-filled, or to check pre-filled policies, you need to refer to your statement information. To obtain your statement information, go to your health insurer's website for details on viewing your statement information online, or to request a printed statement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Understanding the details on your statement includes information explaining what each label on your statement means."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Dependent person"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't have your own policy, you may be covered as a dependent person on your family policy if you were under 32 years old or have a disability."
+    },
+    {
+      "type": "paragraph",
+      "text": "A dependent person includes a dependent child who is aged under 18 and does not have a partner."
+    },
+    {
+      "type": "paragraph",
+      "text": "For this section, the definition of a dependent person is affected by the rules of your health fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are unsure about whether this applies to you, check your family private health insurance policy details or contact your insurer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dependent persons are not eligible to claim a private health insurance rebate and don't get their own statement."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, as a dependent person covered on a private health insurance policy, you need to complete this section so we can verify your insurance coverage. This will ensure you are not charged the Medicare levy surcharge (if your income is above the threshold)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "are an overseas visitor, information and instructions on how to complete the Medicare levy surcharge and this section can be found at Overseas visitors",
+        "have paid for a dependent-person only policy, more information is available at Claiming for dependent-person-only policies ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your tax return with private health insurance policies provided to us. Check them and add any additional policies you held, or policy details, that have not pre-filled."
+    },
+    {
+      "type": "paragraph",
+      "text": "We may have pre-filled the tax claim code for you based on your last year's tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "When checking or adding policies, use your statement information (or family statement information, if covered as a dependent person). If you don't have your statement information, see Your private health insurance statement ."
+    },
+    {
+      "type": "paragraph",
+      "text": "In most cases, there will be 2 rows of information on your private health insurance statement. One row relates to premiums you paid and rebates you received before 1 April, and the other row relates to premiums you paid and rebates you received on or after 1 April."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Personalise return , you don't need to make a selection to show private health insurance. It will always be displayed at Prepare return."
+    },
+    {
+      "type": "paragraph",
+      "text": "At Prepare return , select 'Add/Edit' at the Medicare and private health insurance banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Private health insurance heading:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each of your private health insurance policies that are pre-filled, go to step 2 not pre-filled, go to step 5.",
+        "Is there a 'Record complete' indicator at the pre-filled policy details? Yes – go to step 3. No – go to step 4.",
+        "Check each pre-filled policy line panel, including the Tax claim code , and correct if necessary. Don’t combine the policy lines . If unsure of your tax claim code, visit Working out your tax claim code . Go to step 9.",
+        "Select the Tax claim code that applies to you in each policy line panel. If you are unsure of your tax claim code, visit Working out your tax claim code . Check each pre-filled policy line panel and correct if necessary. Don't combine the policy lines. Go to step 9.",
+        "For each private health insurance policy that has not been pre-filled, select Add and enter information into the corresponding fields Select your Health insurer ID External Link Enter your Membership number .",
+        "From your private health insurance statement information, for each policy line set up a policy line panel. Enter each policy line separately, as they appear on your private health insurance statement. Don’t combine the policy lines . If you need to enter more policy line panels in myTax, select Add policy line . If you have any policy line panels that you don’t need in myTax, select Delete to remove.",
+        "In each policy line panel, select the Tax claim code that applies to you. If unsure of your tax claim code, visit Working out your tax claim code . If you select Tax claim code A , B or C , go to step 8. If you select Tax claim code E or F , go to step 12.",
+        "In each policy line panel enter Your premiums eligible for Australian Government rebate (shown at J in your statement information). Don't show a percentage. enter Your Australian Government rebate received (shown at K in your statement information). Don't show a percentage. select the Benefit code (shown at L in your statement information). Note: Your statement information should include the name and an identifier that corresponds with these parts of the policy line panel (for example, L for Benefit code ).",
+        "In the policy line panel, is Tax claim code C selected? Yes – go to step 10. No – go to step 12.",
+        "Did you indicate (in Spouse details) that you had a spouse on 30 June 2024? Yes – go to step 11. No – go to step 12.",
+        "Answer the question Do you want to claim your spouse's share? To claim your spouse's share, you must meet all the following criteria you were both covered under the same policy you were both covered for the same period you were together on 30 June 2024 your spouse must agree that you will claim."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you answer Yes , for each of your policy line panels myTax will show your spouse's share in a corresponding read-only panel with Tax claim code D. Answer No if you are claiming for a dependent-person-only policy or you are claiming only your share of the rebate."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Select Save .",
+        "Are all your private health insurance policy details included? Yes – go to step 14. No – go to step 1.",
+        "Select Save and continue when you have completed the Medicare and private health insurance section."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Claiming for dependent-person-only policies"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have paid for a dependent-person-only policy, you may be eligible to claim a private health insurance rebate for it."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the parents of the dependent (or dependents) are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "together – then one of the parents may claim the rebate. This applies regardless of which parent paid the policy",
+        "no longer together – then the payer of the policy must claim the rebate, as long as the payer is not a dependent. The payer of the policy does not need to be a parent of the dependent."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Working out your tax claim code"
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 1 – Were you covered as a dependent person on a private health insurance policy?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dependent person code Select the code letter that describes your circumstances"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Circumstances",
+          "Code"
+        ],
+        [
+          "Yes – you were covered as a dependent person on a private health insurance policy.",
+          "Tax claim code F Go to step 3"
+        ],
+        [
+          "No – you were not covered as a dependent person on a private health insurance policy.",
+          "Go to step 2"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 2 – On 30 June 2024 , were you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Single – go to Single tax claim codes",
+        "Married or de facto (including if your spouse died during 2023–24 and you did not have another spouse before 30 June 2024) – go to Married or de facto tax claim codes"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Dependants",
+          "Code"
+        ],
+        [
+          "You have no dependants. Note: If you had dependants in your previous tax return but don't have them anymore, you need to change the Number of dependent children in the Income tests section. Tax claim code A will then be available for selection.",
+          "Tax claim code A Go to step 3"
+        ],
+        [
+          "You have a dependent person (they can be your child or a sibling dependent on you for economic support), or You paid for a dependent-person-only policy.",
+          "Tax claim code B Go to step 3"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Circumstances",
+          "Code"
+        ],
+        [
+          "You want to claim your share of the rebate for the policy. You are a parent claiming for a dependent-person-only policy.",
+          "Tax claim code C Go to step 3"
+        ],
+        [
+          "You want to claim both your share and your spouse's share of the rebate for the policy. To do this, you must meet all the following criteria: both were covered under the same policy both were covered for the same period be together on 30 June 2024 your spouse must agree that you will claim. Note: You confirm that you are claiming your spouse's share of the rebate at step 11 of Completing this section . This will automatically complete your spouse's share with tax claim code D .",
+          "Tax claim code C Go to step 3"
+        ],
+        [
+          "Your spouse is claiming your share of the rebate for the policy.",
+          "Tax claim code E Go to step 3"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 3 – You have worked out your tax claim code, return to Completing this section ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Overseas visitors"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are an overseas visitor, how you complete Medicare levy surcharge and Private health insurance in myTax depends on your circumstances, such as if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "have an overseas health insurer",
+        "have a complying health insurance policy",
+        "are not eligible for Medicare",
+        "have overseas student or overseas visitor health cover"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you have an overseas health insurer"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your private health insurance provider is an overseas provider that is not registered in Australia, you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "will not be eligible for any rebate on your policy",
+        "may need to pay the Medicare levy surcharge if you don't meet the conditions for a Medicare levy exemption."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When completing myTax, you should:"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Medicare levy surcharge"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Answer No to the question Were you and all your dependants covered by an appropriate level of private patient hospital cover from 1 July 2023 to 30 June 2024?",
+        "Indicate the Number of days you don’t have to pay the surcharge . In some instances, myTax may determine for you that you don't have to pay the Medicare levy surcharge. Otherwise, see Medicare levy surcharge to determine what to enter into Number of days you don’t have to pay the surcharge ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At Private health insurance"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Not show any Private health insurance policies ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you have a complying health insurance policy"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to determine if you are eligible for Medicare, if you are not eligible see If you are not eligible for Medicare ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are eligible for Medicare, you can ask for a private health insurance statement from your insurance provider if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "have an Australian-registered complying health insurance policy",
+        "are a private health insurance incentive beneficiary (PHIIB)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When completing myTax, if you and all your dependants were covered under a complying health insurance policy for the full year with the appropriate level of private patient hospital cover, you should:"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Medicare levy surcharge"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Answer Yes to the question Were you and all your dependants covered by an appropriate level of private patient hospital cover from 1 July 2023 to 30 June 2024?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At Private health insurance"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Show your Private health insurance policies . For more information, see Completing this section ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you are not eligible for Medicare"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are an overseas visitor who is not eligible for Medicare, you are not entitled to any private health insurance rebate."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, you can still purchase a complying health insurance policy with an Australian-registered health insurer. You will need to confirm the details of your private health insurance statement information. Your statement information will include the amount of premiums paid (at label J ), while the rebate received at label K will be zero ($0)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the complying health insurance policy provides you and all your dependants with the appropriate level of private patient hospital cover, you will be eligible to claim an exemption from the Medicare levy surcharge."
+    },
+    {
+      "type": "paragraph",
+      "text": "When completing myTax, you should:"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Medicare levy surcharge"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Answer No to the question Were you and all your dependants covered by an appropriate level of private patient hospital cover from 1 July 2023 to 30 June 2024?",
+        "Indicate the Number of days you don’t have to pay the surcharge . In some instances, myTax may determine for you that you don’t have to pay the Medicare levy surcharge. If not, and you and all your dependants, including your spouse, were covered under the appropriate level of private patient hospital cover for the full year, enter 366 into Number of days you don’t have to pay the surcharge . Otherwise, see Medicare levy surcharge to determine what to enter into Number of days you don’t have to pay the surcharge ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At Private health insurance"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Not show any Private health insurance policies ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Overseas student or overseas visitor health cover"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are an overseas visitor, you can purchase Overseas student health cover External Link (OSHC) or Overseas visitors health cover External Link (OVHC) from an Australian-registered health insurer. These are not complying health insurance policies, and you will not be eligible for the private health insurance rebate."
+    },
+    {
+      "type": "paragraph",
+      "text": "When completing myTax as an overseas visitor with OSHC or OVHC, you should:"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Medicare levy surcharge"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Answer No to the question Were you and all your dependants covered by an appropriate level of private patient hospital cover from 1 July 2023 to 30 June 2024?",
+        "Indicate the Number of days you don’t have to pay the surcharge . In some instances, myTax may determine for you that you don’t have to pay the Medicare levy surcharge. Otherwise, see Medicare levy surcharge to determine what to enter into Number of days you don’t have to pay the surcharge ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At Private health insurance"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Not show any Private health insurance policies ."
+      ]
+    }
+  ],
+  "content_text": "## Things to know\nComplete this section if at any time during 2023–24 you either:\n- were covered by a private health insurance policy\n- paid for a dependent-person-only policy.\nIf you don't have your own policy, you may be covered as a dependent person on your family policy.\nWe use the information at this section to work out your share of any private health insurance rebate that you may be entitled to. This may result in a tax offset or liability.\n### Private health insurance rebate\nThe private health insurance rebate is an amount the government contributes towards the cost of your private health insurance premiums.\nIf you meet the eligibility requirements for a private health insurance rebate, you can claim your rebate as either:\n- a premium reduction which lowers the policy price charged by your insurer\n- a refundable tax offset when you lodge your tax return.\nThe private health insurance rebate is income tested. If you share the policy, you will be income tested on your share.\nYour rebate entitlement:\n- depends on your family status on 30 June. Different thresholds apply depending on whether you have a single income or a family income\n- is based on the age of the oldest person covered by the policy.\nWhen you lodge your tax return, we calculate your income for surcharge purposes and determine your rebate entitlement. Depending on how you claimed the rebate, and the percentage you claimed, this may result in a tax liability and/or a tax offset.\n- If you haven't claimed the full rebate as a premium reduction, we calculate the rebate amount you are entitled to. This becomes payable to you as a refundable tax offset when we assess your tax return. The tax offset is added together with any other tax offsets that you receive and will appear as a credit in the myTax estimate and on your notice of assessment.\n- If you claimed too much rebate as a premium reduction, we recover the amount as a tax liability. This liability will be listed in the myTax estimate and on your notice of assessment as an Excess private health insurance reduction or refund.\n### Your private health insurance statement\nIt is optional for health insurers to provide you with a private health insurance statement. A statement may only be provided if you request one from your registered health insurer.\nWe aim to pre-fill your tax return by 20 July with private health insurance policies provided to us. You can check our website, at Health fund data , to confirm if your health fund has sent us your information.\nTo add policies not pre-filled, or to check pre-filled policies, you need to refer to your statement information. To obtain your statement information, go to your health insurer's website for details on viewing your statement information online, or to request a printed statement.\nUnderstanding the details on your statement includes information explaining what each label on your statement means.\n### Dependent person\nIf you don't have your own policy, you may be covered as a dependent person on your family policy if you were under 32 years old or have a disability.\nA dependent person includes a dependent child who is aged under 18 and does not have a partner.\nFor this section, the definition of a dependent person is affected by the rules of your health fund.\nIf you are unsure about whether this applies to you, check your family private health insurance policy details or contact your insurer.\nDependent persons are not eligible to claim a private health insurance rebate and don't get their own statement.\nHowever, as a dependent person covered on a private health insurance policy, you need to complete this section so we can verify your insurance coverage. This will ensure you are not charged the Medicare levy surcharge (if your income is above the threshold).\n## Completing this section\nIf you:\n- are an overseas visitor, information and instructions on how to complete the Medicare levy surcharge and this section can be found at Overseas visitors\n- have paid for a dependent-person only policy, more information is available at Claiming for dependent-person-only policies .\nWe pre-fill your tax return with private health insurance policies provided to us. Check them and add any additional policies you held, or policy details, that have not pre-filled.\nWe may have pre-filled the tax claim code for you based on your last year's tax return.\nWhen checking or adding policies, use your statement information (or family statement information, if covered as a dependent person). If you don't have your statement information, see Your private health insurance statement .\nIn most cases, there will be 2 rows of information on your private health insurance statement. One row relates to premiums you paid and rebates you received before 1 April, and the other row relates to premiums you paid and rebates you received on or after 1 April.\nAt Personalise return , you don't need to make a selection to show private health insurance. It will always be displayed at Prepare return.\nAt Prepare return , select 'Add/Edit' at the Medicare and private health insurance banner.\nAt the Private health insurance heading:\n- For each of your private health insurance policies that are pre-filled, go to step 2 not pre-filled, go to step 5.\n- Is there a 'Record complete' indicator at the pre-filled policy details? Yes – go to step 3. No – go to step 4.\n- Check each pre-filled policy line panel, including the Tax claim code , and correct if necessary. Don’t combine the policy lines . If unsure of your tax claim code, visit Working out your tax claim code . Go to step 9.\n- Select the Tax claim code that applies to you in each policy line panel. If you are unsure of your tax claim code, visit Working out your tax claim code . Check each pre-filled policy line panel and correct if necessary. Don't combine the policy lines. Go to step 9.\n- For each private health insurance policy that has not been pre-filled, select Add and enter information into the corresponding fields Select your Health insurer ID External Link Enter your Membership number .\n- From your private health insurance statement information, for each policy line set up a policy line panel. Enter each policy line separately, as they appear on your private health insurance statement. Don’t combine the policy lines . If you need to enter more policy line panels in myTax, select Add policy line . If you have any policy line panels that you don’t need in myTax, select Delete to remove.\n- In each policy line panel, select the Tax claim code that applies to you. If unsure of your tax claim code, visit Working out your tax claim code . If you select Tax claim code A , B or C , go to step 8. If you select Tax claim code E or F , go to step 12.\n- In each policy line panel enter Your premiums eligible for Australian Government rebate (shown at J in your statement information). Don't show a percentage. enter Your Australian Government rebate received (shown at K in your statement information). Don't show a percentage. select the Benefit code (shown at L in your statement information). Note: Your statement information should include the name and an identifier that corresponds with these parts of the policy line panel (for example, L for Benefit code ).\n- In the policy line panel, is Tax claim code C selected? Yes – go to step 10. No – go to step 12.\n- Did you indicate (in Spouse details) that you had a spouse on 30 June 2024? Yes – go to step 11. No – go to step 12.\n- Answer the question Do you want to claim your spouse's share? To claim your spouse's share, you must meet all the following criteria you were both covered under the same policy you were both covered for the same period you were together on 30 June 2024 your spouse must agree that you will claim.\nIf you answer Yes , for each of your policy line panels myTax will show your spouse's share in a corresponding read-only panel with Tax claim code D. Answer No if you are claiming for a dependent-person-only policy or you are claiming only your share of the rebate.\n- Select Save .\n- Are all your private health insurance policy details included? Yes – go to step 14. No – go to step 1.\n- Select Save and continue when you have completed the Medicare and private health insurance section.\n### Claiming for dependent-person-only policies\nIf you have paid for a dependent-person-only policy, you may be eligible to claim a private health insurance rebate for it.\nIf the parents of the dependent (or dependents) are:\n- together – then one of the parents may claim the rebate. This applies regardless of which parent paid the policy\n- no longer together – then the payer of the policy must claim the rebate, as long as the payer is not a dependent. The payer of the policy does not need to be a parent of the dependent.\n### Working out your tax claim code\nStep 1 – Were you covered as a dependent person on a private health insurance policy?\nDependent person code Select the code letter that describes your circumstances\nCircumstances | Code\nYes – you were covered as a dependent person on a private health insurance policy. | Tax claim code F Go to step 3\nNo – you were not covered as a dependent person on a private health insurance policy. | Go to step 2\nStep 2 – On 30 June 2024 , were you:\n- Single – go to Single tax claim codes\n- Married or de facto (including if your spouse died during 2023–24 and you did not have another spouse before 30 June 2024) – go to Married or de facto tax claim codes\nDependants | Code\nYou have no dependants. Note: If you had dependants in your previous tax return but don't have them anymore, you need to change the Number of dependent children in the Income tests section. Tax claim code A will then be available for selection. | Tax claim code A Go to step 3\nYou have a dependent person (they can be your child or a sibling dependent on you for economic support), or You paid for a dependent-person-only policy. | Tax claim code B Go to step 3\nCircumstances | Code\nYou want to claim your share of the rebate for the policy. You are a parent claiming for a dependent-person-only policy. | Tax claim code C Go to step 3\nYou want to claim both your share and your spouse's share of the rebate for the policy. To do this, you must meet all the following criteria: both were covered under the same policy both were covered for the same period be together on 30 June 2024 your spouse must agree that you will claim. Note: You confirm that you are claiming your spouse's share of the rebate at step 11 of Completing this section . This will automatically complete your spouse's share with tax claim code D . | Tax claim code C Go to step 3\nYour spouse is claiming your share of the rebate for the policy. | Tax claim code E Go to step 3\nStep 3 – You have worked out your tax claim code, return to Completing this section .\n## Overseas visitors\nIf you are an overseas visitor, how you complete Medicare levy surcharge and Private health insurance in myTax depends on your circumstances, such as if you:\n- have an overseas health insurer\n- have a complying health insurance policy\n- are not eligible for Medicare\n- have overseas student or overseas visitor health cover\n### If you have an overseas health insurer\nIf your private health insurance provider is an overseas provider that is not registered in Australia, you:\n- will not be eligible for any rebate on your policy\n- may need to pay the Medicare levy surcharge if you don't meet the conditions for a Medicare levy exemption.\nWhen completing myTax, you should:\nAt Medicare levy surcharge\n- Answer No to the question Were you and all your dependants covered by an appropriate level of private patient hospital cover from 1 July 2023 to 30 June 2024?\n- Indicate the Number of days you don’t have to pay the surcharge . In some instances, myTax may determine for you that you don't have to pay the Medicare levy surcharge. Otherwise, see Medicare levy surcharge to determine what to enter into Number of days you don’t have to pay the surcharge .\nAt Private health insurance\n- Not show any Private health insurance policies .\n### If you have a complying health insurance policy\nYou will need to determine if you are eligible for Medicare, if you are not eligible see If you are not eligible for Medicare .\nIf you are eligible for Medicare, you can ask for a private health insurance statement from your insurance provider if you:\n- have an Australian-registered complying health insurance policy\n- are a private health insurance incentive beneficiary (PHIIB).\nWhen completing myTax, if you and all your dependants were covered under a complying health insurance policy for the full year with the appropriate level of private patient hospital cover, you should:\nAt Medicare levy surcharge\n- Answer Yes to the question Were you and all your dependants covered by an appropriate level of private patient hospital cover from 1 July 2023 to 30 June 2024?\nAt Private health insurance\n- Show your Private health insurance policies . For more information, see Completing this section .\n### If you are not eligible for Medicare\nIf you are an overseas visitor who is not eligible for Medicare, you are not entitled to any private health insurance rebate.\nHowever, you can still purchase a complying health insurance policy with an Australian-registered health insurer. You will need to confirm the details of your private health insurance statement information. Your statement information will include the amount of premiums paid (at label J ), while the rebate received at label K will be zero ($0).\nIf the complying health insurance policy provides you and all your dependants with the appropriate level of private patient hospital cover, you will be eligible to claim an exemption from the Medicare levy surcharge.\nWhen completing myTax, you should:\nAt Medicare levy surcharge\n- Answer No to the question Were you and all your dependants covered by an appropriate level of private patient hospital cover from 1 July 2023 to 30 June 2024?\n- Indicate the Number of days you don’t have to pay the surcharge . In some instances, myTax may determine for you that you don’t have to pay the Medicare levy surcharge. If not, and you and all your dependants, including your spouse, were covered under the appropriate level of private patient hospital cover for the full year, enter 366 into Number of days you don’t have to pay the surcharge . Otherwise, see Medicare levy surcharge to determine what to enter into Number of days you don’t have to pay the surcharge .\nAt Private health insurance\n- Not show any Private health insurance policies .\n### Overseas student or overseas visitor health cover\nIf you are an overseas visitor, you can purchase Overseas student health cover External Link (OSHC) or Overseas visitors health cover External Link (OVHC) from an Australian-registered health insurer. These are not complying health insurance policies, and you will not be eligible for the private health insurance rebate.\nWhen completing myTax as an overseas visitor with OSHC or OVHC, you should:\nAt Medicare levy surcharge\n- Answer No to the question Were you and all your dependants covered by an appropriate level of private patient hospital cover from 1 July 2023 to 30 June 2024?\n- Indicate the Number of days you don’t have to pay the surcharge . In some instances, myTax may determine for you that you don’t have to pay the Medicare levy surcharge. Otherwise, see Medicare levy surcharge to determine what to enter into Number of days you don’t have to pay the surcharge .\nAt Private health insurance\n- Not show any Private health insurance policies .",
+  "child_links": [],
+  "word_count": 2749,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

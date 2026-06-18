@@ -1,0 +1,92 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2022/tax-return/losses-question-l1/taxable-income-or-loss-2022",
+  "title": "Taxable income or loss 2022",
+  "description": "Complete this question to declare your total taxable income or loss.",
+  "nat_number": "",
+  "quick_code": "67741",
+  "date_updated": "2022-05-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, income, taxable income, loss, taxable loss, instruction, tax return, 2022, paper tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about your total taxable income or loss. How you complete it will depend on whether you completed F or Z at item L1 Tax losses of earlier income years on page 4 of your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Have you completed F or Z at item L1?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to No prior year losses ."
+        ],
+        [
+          "Yes",
+          "Go to Deducting your prior year losses ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "No prior year losses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount you have shown at Subtotal on page 4 of your tax return to Taxable income or loss ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at Taxable income or loss is less than zero, print L in the Loss box at the right of the amount. Keep a record of this amount to work out your tax losses of earlier income years for next year."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have now completed this section. Go to T1 Seniors and pensioners (includes self-funded retirees) 2022 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Deducting your prior year losses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the amounts at F and Z at item L1 and take the total away from the amount you have written at Subtotal . Write the answer at Taxable income or loss on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot have a loss at Taxable income or loss if you had amounts at F or Z . This is because F and Z are losses of earlier income years that you are able to deduct from your 2021–22 net income."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tax tips"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at Taxable income or loss on your tax return is a loss (if you printed L in the Loss box) then this may not be the amount you show as losses carried forward from earlier income years at item L1 on next year's tax return. Adjustments will have to be made to take into account any exempt income, deductions for gifts or donations (item D9 ) or personal superannuation contributions (item D12 on the supplementary section of your tax return). For more information, contact us ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question T1 Seniors and pensioners (includes self-funded retirees) 2022 .",
+        "Return to main menu Individual tax return instructions 2022 .",
+        "Go back to question L1 Tax losses of earlier income years 2022 ."
+      ]
+    }
+  ],
+  "content_text": "This question is about your total taxable income or loss. How you complete it will depend on whether you completed F or Z at item L1 Tax losses of earlier income years on page 4 of your tax return.\nHave you completed F or Z at item L1?\nNo | Go to No prior year losses .\nYes | Go to Deducting your prior year losses .\n## No prior year losses\nTransfer the amount you have shown at Subtotal on page 4 of your tax return to Taxable income or loss .\nIf the amount at Taxable income or loss is less than zero, print L in the Loss box at the right of the amount. Keep a record of this amount to work out your tax losses of earlier income years for next year.\nYou have now completed this section. Go to T1 Seniors and pensioners (includes self-funded retirees) 2022 .\n## Deducting your prior year losses\nAdd up the amounts at F and Z at item L1 and take the total away from the amount you have written at Subtotal . Write the answer at Taxable income or loss on your tax return.\nYou cannot have a loss at Taxable income or loss if you had amounts at F or Z . This is because F and Z are losses of earlier income years that you are able to deduct from your 2021–22 net income.\n## Tax tips\nIf the amount at Taxable income or loss on your tax return is a loss (if you printed L in the Loss box) then this may not be the amount you show as losses carried forward from earlier income years at item L1 on next year's tax return. Adjustments will have to be made to take into account any exempt income, deductions for gifts or donations (item D9 ) or personal superannuation contributions (item D12 on the supplementary section of your tax return). For more information, contact us .\n## Where to go next\n- Go to question T1 Seniors and pensioners (includes self-funded retirees) 2022 .\n- Return to main menu Individual tax return instructions 2022 .\n- Go back to question L1 Tax losses of earlier income years 2022 .",
+  "child_links": [],
+  "word_count": 373,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

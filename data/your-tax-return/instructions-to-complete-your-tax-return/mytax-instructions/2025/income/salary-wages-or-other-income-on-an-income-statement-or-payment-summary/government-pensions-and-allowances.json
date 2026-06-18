@@ -1,0 +1,208 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2025/income/salary-wages-or-other-income-on-an-income-statement-or-payment-summary/government-pensions-and-allowances",
+  "title": "myTax 2025 Australian Government pensions and allowances",
+  "description": "How to report pensions and allowances from the Australian Government when lodging your tax return using myTax.",
+  "nat_number": "",
+  "quick_code": "104160",
+  "date_updated": "2025-06-01T22:01:00Z",
+  "first_published": true,
+  "keywords": "government pensions, government allowances, income, myTax, online tax return",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following payments are declared at this section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Age Pension",
+        "Carer Payment (in some circumstances, the carer payment isn't taxable and shouldn't be included at this section. Visit Amounts that you do not pay tax on to learn more)",
+        "Disability Support Pension – if you're age-pension age",
+        "Education Entry Payment",
+        "Parenting Payment (single)",
+        "age service pension",
+        "income support supplement",
+        "Veteran Payment",
+        "invalidity service pension – if you're age-pension age",
+        "partner service pension (in some circumstances, the partner service pension isn't taxable and shouldn't be included at this section. Visit Amounts that you do not pay tax on to learn more)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't include any Australian Government pensions that aren't taxable. For a list of the most common types of exempt Australian Government pensions, allowances and payments, see Amounts that you do not pay tax on ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may need to show the amounts that aren't taxable at Tax-free government pensions or benefits ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll need either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your PAYG payment summary – individual non-business",
+        "a letter from the agency that paid your pension, allowance or payment stating the amount you received."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you can’t find or don't have this information, contact the agency that paid you."
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your tax return with Australian Government pension or allowance information provided to us. Check them and add any other Australian Government pensions or allowances you received that haven't pre-filled."
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your tax return to show Australian Government pensions and allowances, at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You received salary, wages or other income on an income statement/payment summary, Australian Government payments, or First home super saver (FHSS) scheme payment",
+        "Australian Government payments such as JobSeeker, Youth Allowance, Austudy, pensions etc."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your Australian Government pensions and allowances, at Prepare return select 'Add/Edit' at the Income statements and payment summaries banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Australian Government payments such as pensions and carer payments banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each Australian Government pension or allowance that hasn't pre-filled in your tax return, select Add and enter information into the corresponding fields.",
+        "Select Save .",
+        "Select Save and continue when you have completed the Income statements and payment summaries section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be entitled to a tax offset on this income. You will need to complete Seniors and pensioners (includes self-funded retirees) in the Offsets section."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't delete any pre-filled Australian Government payment records that include an alert stating ' The ATO has confidence in this data, as supplied by the reporting agency’ . Visit What if you don’t agree with the pre-filled information? to learn more."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "What if you don't agree with the pre-filled information?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have checked the pre-filled information against your own records and it doesn't match, you can edit the pre-filled information in myTax."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do this, it's important to resolve any discrepancies with the third-party provider before you lodge. They may need to send new or amended information to us to ensure our records are accurate."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Changing pre-filled Australian Government payment records"
+    },
+    {
+      "type": "paragraph",
+      "text": "What you can do with a pre-filled Australian Government payment record will depend on whether it has an alert."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Step 1: Expand the record"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Step 2: Check for alerts"
+    },
+    {
+      "type": "paragraph",
+      "text": "Does the pre-filled Australian Government payment record show an alert stating ' The ATO has confidence in this data, as supplied by the reporting agency '?"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If Yes - go to step 3.",
+        "If No - go to step 4."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Step 3: Adjusting an Australian Government payment record with an alert"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't delete the pre-filled Australian Government payment record if it includes an alert stating ' The ATO has confidence in this data, as supplied by the reporting agency '. However, you may adjust these records."
+    },
+    {
+      "type": "paragraph",
+      "text": "To adjust the pre-filled Australian Government payment record with an alert:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Select Adjust .",
+        "A message will display that says ‘This pre-fill data has been provided by the agency that made the payment. If you are confident this data is incorrect you can adjust your tax record. Adjustments need to be correct to avoid amendments that could result in tax bills and penalties'. To continue, select Adjust .",
+        "In the Australian Government payment record, indicate a Reason for adjustment . If the Reason for adjustment you select is 'Other', you will need to enter your reason at Other reason (up to 100 characters).",
+        "Adjust any information in the corresponding fields and select Save .",
+        "Go to step 5."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Step 4: Edit or delete an Australian Government payment record without an alert"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can edit or delete the record if the pre-filled Australian Government payment record doesn't include an alert stating ' The ATO has confidence in this data, as supplied by the reporting agency '."
+    },
+    {
+      "type": "paragraph",
+      "text": "To edit or delete the pre-filled Australian Government payment record without an alert:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Expand the record.",
+        "Either edit any information in the corresponding fields and select Save delete an entire record by selecting Delete .",
+        "Go to step 5."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Step 5: Save your record"
+    }
+  ],
+  "content_text": "## Things to know\nThe following payments are declared at this section:\n- Age Pension\n- Carer Payment (in some circumstances, the carer payment isn't taxable and shouldn't be included at this section. Visit Amounts that you do not pay tax on to learn more)\n- Disability Support Pension – if you're age-pension age\n- Education Entry Payment\n- Parenting Payment (single)\n- age service pension\n- income support supplement\n- Veteran Payment\n- invalidity service pension – if you're age-pension age\n- partner service pension (in some circumstances, the partner service pension isn't taxable and shouldn't be included at this section. Visit Amounts that you do not pay tax on to learn more).\nDon't include any Australian Government pensions that aren't taxable. For a list of the most common types of exempt Australian Government pensions, allowances and payments, see Amounts that you do not pay tax on .\nYou may need to show the amounts that aren't taxable at Tax-free government pensions or benefits .\n## Completing this section\nYou'll need either:\n- your PAYG payment summary – individual non-business\n- a letter from the agency that paid your pension, allowance or payment stating the amount you received.\nIf you can’t find or don't have this information, contact the agency that paid you.\nWe pre-fill your tax return with Australian Government pension or allowance information provided to us. Check them and add any other Australian Government pensions or allowances you received that haven't pre-filled.\nTo personalise your tax return to show Australian Government pensions and allowances, at Personalise return select:\n- You received salary, wages or other income on an income statement/payment summary, Australian Government payments, or First home super saver (FHSS) scheme payment\n- Australian Government payments such as JobSeeker, Youth Allowance, Austudy, pensions etc.\nTo show your Australian Government pensions and allowances, at Prepare return select 'Add/Edit' at the Income statements and payment summaries banner.\nAt the Australian Government payments such as pensions and carer payments banner:\n- For each Australian Government pension or allowance that hasn't pre-filled in your tax return, select Add and enter information into the corresponding fields.\n- Select Save .\n- Select Save and continue when you have completed the Income statements and payment summaries section.\nYou may be entitled to a tax offset on this income. You will need to complete Seniors and pensioners (includes self-funded retirees) in the Offsets section.\nYou can't delete any pre-filled Australian Government payment records that include an alert stating ' The ATO has confidence in this data, as supplied by the reporting agency’ . Visit What if you don’t agree with the pre-filled information? to learn more.\n### What if you don't agree with the pre-filled information?\nIf you have checked the pre-filled information against your own records and it doesn't match, you can edit the pre-filled information in myTax.\nIf you do this, it's important to resolve any discrepancies with the third-party provider before you lodge. They may need to send new or amended information to us to ensure our records are accurate.\n#### Changing pre-filled Australian Government payment records\nWhat you can do with a pre-filled Australian Government payment record will depend on whether it has an alert.\n##### Step 1: Expand the record\n##### Step 2: Check for alerts\nDoes the pre-filled Australian Government payment record show an alert stating ' The ATO has confidence in this data, as supplied by the reporting agency '?\n- If Yes - go to step 3.\n- If No - go to step 4.\n##### Step 3: Adjusting an Australian Government payment record with an alert\nYou can't delete the pre-filled Australian Government payment record if it includes an alert stating ' The ATO has confidence in this data, as supplied by the reporting agency '. However, you may adjust these records.\nTo adjust the pre-filled Australian Government payment record with an alert:\n- Select Adjust .\n- A message will display that says ‘This pre-fill data has been provided by the agency that made the payment. If you are confident this data is incorrect you can adjust your tax record. Adjustments need to be correct to avoid amendments that could result in tax bills and penalties'. To continue, select Adjust .\n- In the Australian Government payment record, indicate a Reason for adjustment . If the Reason for adjustment you select is 'Other', you will need to enter your reason at Other reason (up to 100 characters).\n- Adjust any information in the corresponding fields and select Save .\n- Go to step 5.\n##### Step 4: Edit or delete an Australian Government payment record without an alert\nYou can edit or delete the record if the pre-filled Australian Government payment record doesn't include an alert stating ' The ATO has confidence in this data, as supplied by the reporting agency '.\nTo edit or delete the pre-filled Australian Government payment record without an alert:\n- Expand the record.\n- Either edit any information in the corresponding fields and select Save delete an entire record by selecting Delete .\n- Go to step 5.\n##### Step 5: Save your record",
+  "child_links": [],
+  "word_count": 856,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,138 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2017/income/salary-wages-allowances-tips-bonuses-etc-including-lump-sums/employment-termination-payments",
+  "title": "Employment termination payments",
+  "description": "How to report employment termination payments when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "50988",
+  "date_updated": "2023-03-06T13:00:00Z",
+  "first_published": "",
+  "keywords": "myTax, e-tax, ETP, termination, employment termination payment, eligible termination payment, income, online tax return, etax",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pre-filled tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with payment summary information provided to us. Check for Australian employment termination payments (ETP) you received that are not pre-filled and ensure you add them."
+    },
+    {
+      "type": "paragraph",
+      "text": "An ETP is a payment you received because your employment was terminated. These payments appear on a PAYG payment summary – employment termination payment ."
+    },
+    {
+      "type": "paragraph",
+      "text": "This section also includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "death benefit ETPs",
+        "foreign ETPs",
+        "late termination payments"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show the following payments anywhere on your tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "foreign termination payments",
+        "ETPs you received as the trustee of a deceased estate; these payments must be shown on the trust tax return of the deceased estate",
+        "departing Australia superannuation payments."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your PAYG payment summary – employment termination payment ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not have all your payment summaries, contact your employer or payer. If you are unsuccessful in obtaining any of these, see Lost or missing PAYG withholding payment summary ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have received a foreign ETP, your foreign employer may not have issued you with a PAYG payment summary - employment termination payment ."
+    },
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with payment summary information provided to us. Check for ETPs you received that are not pre-filled and ensure you add them."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each payment summary that has not been pre-filled in your tax return, or each foreign ETP, select Add .",
+        "Answer the question Is this an Australian ETP?",
+        "Enter information from your PAYG payment summary – employment termination payment into the corresponding fields. If you indicated this is not an Australian ETP, you will need to select Country employed in . This foreign ETP will not be included in the myTax calculation of taxable income and the myTax estimate will not match the assessment issued by us.",
+        "Select the Employment termination payment code . If your PAYG payment summary – employment termination payment does not have a code, contact the employer or payer. If you are unable to contact the employer or payer, select the code that best describes your payment from the following list:"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "ETP code descriptions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Code",
+          "Description"
+        ],
+        [
+          "R",
+          "if you received your ETP because of early retirement scheme genuine redundancy invalidity compensation for personal injury unfair dismissal harassment discrimination"
+        ],
+        [
+          "O",
+          "if your ETP is not described by R , for example, you received it because of golden handshake gratuity payment in lieu of notice payment for unused sick leave payment for unused rostered days off"
+        ],
+        [
+          "S",
+          "if you received a code R ETP in 2016–17 and you had received another ETP (code R or code O ), or a transitional termination payment, in an earlier income year for the same termination of employment"
+        ],
+        [
+          "P",
+          "if you received a code O ETP in 2016–17 and you had received another ETP (code R or code O ), or a transitional termination payment, in an earlier income year for the same termination of employment"
+        ],
+        [
+          "D",
+          "if you received a death benefit ETP and you were a death benefits dependant"
+        ],
+        [
+          "B",
+          "if you received a death benefit ETP in 2016–17 and you were not a death benefits dependant, and you had received another death benefit ETP in an earlier income year for the same termination of employment"
+        ],
+        [
+          "N",
+          "if you received a death benefit ETP and you were not a death benefits dependant, and code B does not apply."
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Select Save .",
+        "Select Save and continue ."
+      ]
+    }
+  ],
+  "content_text": "## Pre-filled tax return\nWe have pre-filled your tax return with payment summary information provided to us. Check for Australian employment termination payments (ETP) you received that are not pre-filled and ensure you add them.\nAn ETP is a payment you received because your employment was terminated. These payments appear on a PAYG payment summary – employment termination payment .\nThis section also includes:\n- death benefit ETPs\n- foreign ETPs\n- late termination payments\nDo not show the following payments anywhere on your tax return:\n- foreign termination payments\n- ETPs you received as the trustee of a deceased estate; these payments must be shown on the trust tax return of the deceased estate\n- departing Australia superannuation payments.\n## Completing this section\nYou will need your PAYG payment summary – employment termination payment .\nIf you do not have all your payment summaries, contact your employer or payer. If you are unsuccessful in obtaining any of these, see Lost or missing PAYG withholding payment summary .\nIf you have received a foreign ETP, your foreign employer may not have issued you with a PAYG payment summary - employment termination payment .\nWe have pre-filled your tax return with payment summary information provided to us. Check for ETPs you received that are not pre-filled and ensure you add them.\n- For each payment summary that has not been pre-filled in your tax return, or each foreign ETP, select Add .\n- Answer the question Is this an Australian ETP?\n- Enter information from your PAYG payment summary – employment termination payment into the corresponding fields. If you indicated this is not an Australian ETP, you will need to select Country employed in . This foreign ETP will not be included in the myTax calculation of taxable income and the myTax estimate will not match the assessment issued by us.\n- Select the Employment termination payment code . If your PAYG payment summary – employment termination payment does not have a code, contact the employer or payer. If you are unable to contact the employer or payer, select the code that best describes your payment from the following list:\n### ETP code descriptions\nCode | Description\nR | if you received your ETP because of early retirement scheme genuine redundancy invalidity compensation for personal injury unfair dismissal harassment discrimination\nO | if your ETP is not described by R , for example, you received it because of golden handshake gratuity payment in lieu of notice payment for unused sick leave payment for unused rostered days off\nS | if you received a code R ETP in 2016–17 and you had received another ETP (code R or code O ), or a transitional termination payment, in an earlier income year for the same termination of employment\nP | if you received a code O ETP in 2016–17 and you had received another ETP (code R or code O ), or a transitional termination payment, in an earlier income year for the same termination of employment\nD | if you received a death benefit ETP and you were a death benefits dependant\nB | if you received a death benefit ETP in 2016–17 and you were not a death benefits dependant, and you had received another death benefit ETP in an earlier income year for the same termination of employment\nN | if you received a death benefit ETP and you were not a death benefits dependant, and code B does not apply.\n- Select Save .\n- Select Save and continue .",
+  "child_links": [],
+  "word_count": 591,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

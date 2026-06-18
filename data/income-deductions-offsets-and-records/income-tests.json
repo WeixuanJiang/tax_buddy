@@ -1,0 +1,206 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/income-tests",
+  "title": "Income tests",
+  "description": "What income is used to work out your eligibility for some tax offsets and benefits.",
+  "nat_number": "",
+  "quick_code": "72207",
+  "date_updated": "2026-06-07T14:00:00Z",
+  "first_published": "",
+  "keywords": "income tests, income testing, spouse income, spouse, family income, offsets, income for surcharge purposes, adjusted taxable income, rebate income, super income, tax offsets",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Income tests and your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "We use items from your tax return when applying income tests."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensure that you complete all items that apply to you in the income tests section of your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a spouse, you should also include your spouse's income in the Spouse details section of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When income tests apply"
+    },
+    {
+      "type": "paragraph",
+      "text": "We use income tests to work out whether tax offsets and other items apply to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tax offsets include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "invalid and invalid carer tax offset",
+        "seniors and pensioners tax offset",
+        "Medicare levy surcharge (lump sum payment in arrears) tax offset",
+        "spouse super contributions tax offset",
+        "private health insurance tax offset."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Other items include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "private health insurance liability",
+        "Medicare levy surcharge threshold calculation",
+        "government super co-contribution",
+        "a deduction for your personal super contributions",
+        "a deduction for your business losses (non-commercial losses)",
+        "income tax concessions available to participants in certain employee share schemes",
+        "study and training support loan repayments."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We use the family income threshold to assess most offsets, benefits and obligations."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Adjusted taxable income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your adjusted taxable income (ATI) affects your entitlement to any dependant tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the calculator to work out your ATI."
+    },
+    {
+      "type": "paragraph",
+      "text": "To manually work out your ATI, add the following amounts together and subtract any child support you pay:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "taxable income (your assessable income minus deductions), disregarding any assessable first home super saver (FHSS) released amount",
+        "adjusted fringe benefits total, which is the sum of reportable fringe benefits amounts received from employers exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986, multiplied by 0.53 reportable fringe benefits amounts from employers not exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986",
+        "target foreign income (includes any income earned from overseas that is not already included in your taxable income or received in the form of a fringe benefit)",
+        "total net investment loss (includes both net financial investment loss and net rental property loss)",
+        "tax-free government pensions or benefits (includes certain disability pensions, carer payments and defence pensions)",
+        "reportable super contributions (includes both reportable employer super contributions and deductible personal super contributions)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rebate income"
+    },
+    {
+      "type": "paragraph",
+      "text": "We work out what we call 'rebate income' to determine whether you are entitled to the seniors and pensioners tax offset (SAPTO)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to work it out yourself, use the calculator."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your rebate income is the total of your taxable income (disregarding your assessable First home super saver released amount), plus the following amounts if they apply to you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "reportable super contributions (includes both reportable employer super contributions and deductible personal super contributions)",
+        "total net investment loss (includes both net financial investment loss and net rental property loss)",
+        "adjusted fringe benefits total, which is the sum of reportable fringe benefits amounts received from employers exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986, multiplied by 0.53 reportable fringe benefits amounts from employers not exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Income for Medicare levy surcharge purposes"
+    },
+    {
+      "type": "paragraph",
+      "text": "We use your income for Medicare levy surcharge (MLS) purposes to work out if you have to pay the MLS and the rate you will pay."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the calculator to work out your income for MLS purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alternatively, you can manually calculate your income for MLS purposes ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Study and training support loan repayment income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Study and training support loan repayment income includes your:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "taxable income (your assessable income minus deductions), disregarding any assessable First home super saver released amount",
+        "total net investment loss (includes both net financial investment loss and net rental property loss)",
+        "reportable fringe benefits amount, as reported on your income statement or payment summary",
+        "exempt foreign employment income which is the income exempt under sections 23AF or 23AG less expenses incurred in deriving that income.",
+        "reportable super contributions (includes both reportable employer super contributions and deductible personal super contributions)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This applies to the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Higher Education Loan Program (HELP)",
+        "Student Start-up Loan (SSL)",
+        "ABSTUDY Student Start-up Loan (ABSTUDY SSL)",
+        "VET Student Loan (VSL)",
+        "Australian Apprenticeship Support Loan (AASL)",
+        "Student Financial Supplement Scheme (SFSS)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Super income tests"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reportable employer super contributions are included in the income tests for the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "spouse super contributions tax offset",
+        "government super co-contribution",
+        "deduction for personal super contributions."
+      ]
+    }
+  ],
+  "content_text": "## Income tests and your tax return\nWe use items from your tax return when applying income tests.\nEnsure that you complete all items that apply to you in the income tests section of your tax return.\nIf you have a spouse, you should also include your spouse's income in the Spouse details section of your tax return.\n## When income tests apply\nWe use income tests to work out whether tax offsets and other items apply to you.\nTax offsets include:\n- invalid and invalid carer tax offset\n- seniors and pensioners tax offset\n- Medicare levy surcharge (lump sum payment in arrears) tax offset\n- spouse super contributions tax offset\n- private health insurance tax offset.\nOther items include:\n- private health insurance liability\n- Medicare levy surcharge threshold calculation\n- government super co-contribution\n- a deduction for your personal super contributions\n- a deduction for your business losses (non-commercial losses)\n- income tax concessions available to participants in certain employee share schemes\n- study and training support loan repayments.\nWe use the family income threshold to assess most offsets, benefits and obligations.\n## Adjusted taxable income\nYour adjusted taxable income (ATI) affects your entitlement to any dependant tax offset.\nUse the calculator to work out your ATI.\nTo manually work out your ATI, add the following amounts together and subtract any child support you pay:\n- taxable income (your assessable income minus deductions), disregarding any assessable first home super saver (FHSS) released amount\n- adjusted fringe benefits total, which is the sum of reportable fringe benefits amounts received from employers exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986, multiplied by 0.53 reportable fringe benefits amounts from employers not exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986\n- target foreign income (includes any income earned from overseas that is not already included in your taxable income or received in the form of a fringe benefit)\n- total net investment loss (includes both net financial investment loss and net rental property loss)\n- tax-free government pensions or benefits (includes certain disability pensions, carer payments and defence pensions)\n- reportable super contributions (includes both reportable employer super contributions and deductible personal super contributions).\n## Rebate income\nWe work out what we call 'rebate income' to determine whether you are entitled to the seniors and pensioners tax offset (SAPTO).\nIf you want to work it out yourself, use the calculator.\nYour rebate income is the total of your taxable income (disregarding your assessable First home super saver released amount), plus the following amounts if they apply to you:\n- reportable super contributions (includes both reportable employer super contributions and deductible personal super contributions)\n- total net investment loss (includes both net financial investment loss and net rental property loss)\n- adjusted fringe benefits total, which is the sum of reportable fringe benefits amounts received from employers exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986, multiplied by 0.53 reportable fringe benefits amounts from employers not exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986.\n## Income for Medicare levy surcharge purposes\nWe use your income for Medicare levy surcharge (MLS) purposes to work out if you have to pay the MLS and the rate you will pay.\nUse the calculator to work out your income for MLS purposes.\nAlternatively, you can manually calculate your income for MLS purposes .\n## Study and training support loan repayment income\nStudy and training support loan repayment income includes your:\n- taxable income (your assessable income minus deductions), disregarding any assessable First home super saver released amount\n- total net investment loss (includes both net financial investment loss and net rental property loss)\n- reportable fringe benefits amount, as reported on your income statement or payment summary\n- exempt foreign employment income which is the income exempt under sections 23AF or 23AG less expenses incurred in deriving that income.\n- reportable super contributions (includes both reportable employer super contributions and deductible personal super contributions).\nThis applies to the:\n- Higher Education Loan Program (HELP)\n- Student Start-up Loan (SSL)\n- ABSTUDY Student Start-up Loan (ABSTUDY SSL)\n- VET Student Loan (VSL)\n- Australian Apprenticeship Support Loan (AASL)\n- Student Financial Supplement Scheme (SFSS).\n## Super income tests\nReportable employer super contributions are included in the income tests for the following:\n- spouse super contributions tax offset\n- government super co-contribution\n- deduction for personal super contributions.",
+  "child_links": [],
+  "word_count": 761,
+  "source_title": "Income tests | Australian Taxation Office",
+  "source_description": "What income is used to work out your eligibility for some tax offsets and benefits.",
+  "category": "income-deductions-offsets-and-records"
+}

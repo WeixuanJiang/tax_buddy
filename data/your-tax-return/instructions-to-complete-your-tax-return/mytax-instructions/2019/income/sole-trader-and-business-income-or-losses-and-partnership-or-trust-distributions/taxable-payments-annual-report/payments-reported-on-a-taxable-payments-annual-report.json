@@ -1,0 +1,59 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/income/sole-trader-and-business-income-or-losses-and-partnership-or-trust-distributions/taxable-payments-annual-report/payments-reported-on-a-taxable-payments-annual-report",
+  "title": "Payments reported on a Taxable payments annual report",
+  "description": "Find out what payments to include in your tax return.",
+  "nat_number": "",
+  "quick_code": "80255",
+  "date_updated": "2019-06-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Payments you received for services you provided are income."
+    },
+    {
+      "type": "paragraph",
+      "text": "Amounts you invoiced during the financial year but had not received payment for by the end of the financial year do not appear in this information. Where you account for your income on accruals basis , you must include the invoiced amounts in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where you provided the payer with a 'Statement by a supplier' form, you must still include the amount paid in your tax return if it is income."
+    },
+    {
+      "type": "paragraph",
+      "text": "For each pre-filled payment, indicate the Type of income that best describes the nature of the income. Choose from:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Personal services income (PSI)",
+        "Business income",
+        "Other income"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "myTax will show the payment at your selected section, to assist you as you enter relevant information at that section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further information that may assist your choice:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If you received income mainly for your personal efforts or skills, special personal services income rules may apply. Use our tool to work out if those rules apply to you as this will affect how you complete your tax return.",
+        "If your TPAR payment includes tax withheld, select Business income or Personal services income (PSI) to allow you to claim the tax withheld amount."
+      ]
+    }
+  ],
+  "content_text": "Payments you received for services you provided are income.\nAmounts you invoiced during the financial year but had not received payment for by the end of the financial year do not appear in this information. Where you account for your income on accruals basis , you must include the invoiced amounts in your tax return.\nWhere you provided the payer with a 'Statement by a supplier' form, you must still include the amount paid in your tax return if it is income.\nFor each pre-filled payment, indicate the Type of income that best describes the nature of the income. Choose from:\n- Personal services income (PSI)\n- Business income\n- Other income\nmyTax will show the payment at your selected section, to assist you as you enter relevant information at that section.\nFurther information that may assist your choice:\n- If you received income mainly for your personal efforts or skills, special personal services income rules may apply. Use our tool to work out if those rules apply to you as this will affect how you complete your tax return.\n- If your TPAR payment includes tax withheld, select Business income or Personal services income (PSI) to allow you to claim the tax withheld amount.",
+  "child_links": [],
+  "word_count": 205,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

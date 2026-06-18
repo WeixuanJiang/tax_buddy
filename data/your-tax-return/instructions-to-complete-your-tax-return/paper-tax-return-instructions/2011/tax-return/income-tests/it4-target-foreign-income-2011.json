@@ -1,0 +1,114 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2011/tax-return/income-tests/it4-target-foreign-income-2011",
+  "title": "About question IT4",
+  "description": "Complete question IT4 to include target foreign income you received.",
+  "nat_number": "976",
+  "quick_code": "25497",
+  "date_updated": "2011-06-28T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, income test, target foreign income, foreign income, income",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about target foreign income."
+    },
+    {
+      "type": "paragraph",
+      "text": "Target foreign income is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "any income earned, derived or received from sources outside Australia",
+        "a periodical payment by way of gifts or allowances from a source outside Australia",
+        "a periodical benefit by way of gifts or allowances from a source outside Australia provided that the amount has not been",
+        "included in your taxable income, or received in the form of a fringe benefit."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Types of foreign income you need to show at this item include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "regular receipts of money and gifts from relatives living overseas which are exempt from Australian tax",
+        "income from foreign business interests and investments, which are exempt from Australian tax, including income received by migrants with business interests in their country of origin",
+        "foreign source income received while you were a temporary resident that is exempt from Australian tax",
+        "the amount of exempt foreign employment income you have shown at N item 20 ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information income tests and target foreign income, go to www.ato.gov.au/incometests . If you are still not sure whether any foreign income you have received is target foreign income, phone 13 28 61 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you receive any target foreign income?"
+        ],
+        [
+          "No",
+          "go to question IT5 Net financial investment loss , or return to main menu Tax return for individuals instructions ."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need details of any target foreign income that you received in 2010-11 plus the details of any exempt foreign employment income you included at N item 20 ."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "Show all foreign income in Australian dollars. For information on foreign exchange rates enter 'foreign exchange rates' in the 'Search for' box at the top of the page. For information on how to convert your foreign income, phone 13 28 61 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the target foreign income you earned, derived or received during 2010-11. The amount you have shown at N item 20 forms part of your target foreign income."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the result at V item IT4 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question IT5 Net financial investment loss return to main menu Tax return for individuals instructions , or go back to IT3 Tax-free government pensions ."
+        ]
+      ]
+    }
+  ],
+  "content_text": "This question is about target foreign income.\nTarget foreign income is:\n- any income earned, derived or received from sources outside Australia\n- a periodical payment by way of gifts or allowances from a source outside Australia\n- a periodical benefit by way of gifts or allowances from a source outside Australia provided that the amount has not been\n- included in your taxable income, or received in the form of a fringe benefit.\nTypes of foreign income you need to show at this item include:\n- regular receipts of money and gifts from relatives living overseas which are exempt from Australian tax\n- income from foreign business interests and investments, which are exempt from Australian tax, including income received by migrants with business interests in their country of origin\n- foreign source income received while you were a temporary resident that is exempt from Australian tax\n- the amount of exempt foreign employment income you have shown at N item 20 .\nFor more information income tests and target foreign income, go to www.ato.gov.au/incometests . If you are still not sure whether any foreign income you have received is target foreign income, phone 13 28 61 .\nDid you receive any target foreign income?\nNo | go to question IT5 Net financial investment loss , or return to main menu Tax return for individuals instructions .\nYes | Read below.\n# Answering this question\nYou will need details of any target foreign income that you received in 2010-11 plus the details of any exempt foreign employment income you included at N item 20 .\n# Completing your tax return\nShow all foreign income in Australian dollars. For information on foreign exchange rates enter 'foreign exchange rates' in the 'Search for' box at the top of the page. For information on how to convert your foreign income, phone 13 28 61 .\n### Step 1\nAdd up all the target foreign income you earned, derived or received during 2010-11. The amount you have shown at N item 20 forms part of your target foreign income.\n### Step 2\nWrite the result at V item IT4 .\nWhere to go next go to question IT5 Net financial investment loss return to main menu Tax return for individuals instructions , or go back to IT3 Tax-free government pensions .",
+  "child_links": [],
+  "word_count": 387,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

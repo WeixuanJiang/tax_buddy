@@ -1,0 +1,83 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2016/tax-offsets/other-tax-offsets/other-non-refundable-tax-offsets",
+  "title": "Other non-refundable tax offsets",
+  "description": "How to determine your entitlement to other refundable tax offsets in myTax.",
+  "nat_number": "",
+  "quick_code": "48456",
+  "date_updated": "2016-05-26T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Other non-refundable tax offsets that you may be able to claim are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "interest from the infrastructure borrowings scheme",
+        "income received for work or services performed in the Joint Petroleum Development Area (JPDA) of the Timor Sea."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interest from the infrastructure borrowings scheme"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be able to claim a tax offset if you elected to have interest derived from your investment in infrastructure borrowings included as part of your assessable income."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work out the amount of interest you received from infrastructure borrowings."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Multiply the amount from step 1 by the corporate tax rate percentage that applies to the entity in question. In most cases the corporate tax rate percentage will be 30%. However, if the entity you derived interest from is a small business entity, that is, an entity with an aggregate annual turnover of less than $2 million, the corporate tax rate percentage will be 28.5%. If you are unsure of the corporate tax rate percentage of the entity you derived interest from, contact the entity."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the tax offset for the interest you received."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Income received for work or services performed in the Joint Petroleum Development Area (JPDA) of the Timor Sea"
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out how to deal with your JPDA income, see Timor Sea Treaty - Joint Petroleum Development Area instructions ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Enter any tax offset amount related to your JPDA income at the Payment summaries section, under Foreign employment income in the Other non-refundable tax offset field.",
+        "Enter any tax offset amount under the infrastructure borrowing scheme at the Offsets section.",
+        "Select the claim type: if you are only claiming a JPDA tax offset, myTax will automatically use H if you are only claiming an offset under the infrastructure borrowing scheme, select I if you claiming both tax offsets choose the claim type that applies to the larger amount.",
+        "Select Save and continue when you have completed the Offsets section."
+      ]
+    }
+  ],
+  "content_text": "Other non-refundable tax offsets that you may be able to claim are:\n- interest from the infrastructure borrowings scheme\n- income received for work or services performed in the Joint Petroleum Development Area (JPDA) of the Timor Sea.\n## Interest from the infrastructure borrowings scheme\nYou may be able to claim a tax offset if you elected to have interest derived from your investment in infrastructure borrowings included as part of your assessable income.\nStep 1\nWork out the amount of interest you received from infrastructure borrowings.\nStep 2\nMultiply the amount from step 1 by the corporate tax rate percentage that applies to the entity in question. In most cases the corporate tax rate percentage will be 30%. However, if the entity you derived interest from is a small business entity, that is, an entity with an aggregate annual turnover of less than $2 million, the corporate tax rate percentage will be 28.5%. If you are unsure of the corporate tax rate percentage of the entity you derived interest from, contact the entity.\nThis is the tax offset for the interest you received.\n## Income received for work or services performed in the Joint Petroleum Development Area (JPDA) of the Timor Sea\nTo work out how to deal with your JPDA income, see Timor Sea Treaty - Joint Petroleum Development Area instructions .\n## Completing this section\n- Enter any tax offset amount related to your JPDA income at the Payment summaries section, under Foreign employment income in the Other non-refundable tax offset field.\n- Enter any tax offset amount under the infrastructure borrowing scheme at the Offsets section.\n- Select the claim type: if you are only claiming a JPDA tax offset, myTax will automatically use H if you are only claiming an offset under the infrastructure borrowing scheme, select I if you claiming both tax offsets choose the claim type that applies to the larger amount.\n- Select Save and continue when you have completed the Offsets section.",
+  "child_links": [],
+  "word_count": 331,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

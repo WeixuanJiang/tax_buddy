@@ -1,0 +1,157 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2014/medicare-and-private-health-insurance/medicare-levy-surcharge",
+  "title": "Medicare levy surcharge",
+  "description": "How to complete the Medicare levy surcharge section when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "38862",
+  "date_updated": "2014-06-26T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Depending on your income for Medicare levy surcharge (MLS) purposes, the MLS rate is 1%, 1.25% or 1.5% of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your taxable income",
+        "your total reportable fringe benefits, and",
+        "any amount on which family trust distribution tax has been paid."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You may have to pay the MLS if you or your dependants (including your spouse, even if they had their own income) did not have an appropriate level of private patient hospital cover for the whole of 2013–14 and your income for MLS purposes was above a certain amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your health insurer must give you a statement showing the number of days that you and all your dependants had appropriate cover in 2013–14. If you do not have this statement, or are not sure if you had an appropriate level of private patient hospital cover, contact your health insurer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dependants"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your dependants (regardless of their income) are your:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "spouse, even if they worked during 2013–14 or had their own income",
+        "children under 21 years old",
+        "children 21 to 24 years old who are full-time students."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your dependants must have been Australian residents for tax purposes in 2013–14 and you must have contributed to their maintenance ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you and all your dependants were not covered by an ‘appropriate level of private patient hospital cover’ for the whole of 2013–14, then read on."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Medicare levy surcharge exemptions"
+    },
+    {
+      "type": "paragraph",
+      "text": "You are exempt from MLS for the whole of 2013–14 if you fit into one of the categories in table 1 that qualify you for exemption."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Table 1 Exemption categories"
+        ],
+        [
+          "You and all your dependants were in a Medicare levy exemption category for the whole of 2013–14."
+        ],
+        [
+          "You were single for the whole of 2013–14, and: for the whole of 2013–14 you did not have a dependent child, and your income for MLS purposes was $88,000 or less ."
+        ],
+        [
+          "You were single for the whole of 2013–14, and: you had a dependent child for all of 2013–2014, and your income for MLS purposes was $176,000 or less (plus $1,500 for each dependent child after the first)."
+        ],
+        [
+          "You were single for part of 2013–14, and: for the whole of 2013–14 you did not have a dependent child your spouse did not die during the year, and your income for MLS purposes was $88,000 or less ."
+        ],
+        [
+          "You had a spouse (with or without dependent children) for the whole of 2013–14, and your combined income for MLS purposes was: $176,000 or less (plus $1,500 for each dependent child after the first), or greater than $176 ,000 (plus $1,500 for each dependent child after the first) but your own income for MLS purposes was $20,542 or less. If you had a spouse on 1 July 2013, your spouse died during 2013–14 and you did not have another spouse before the end of the year, assume that you had a spouse for the whole of 2013–14 when you work out your MLS income."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You must read question M2 if you did not fit into any of the categories in table 1 above and:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were single for part of the year",
+        "you were widowed during the year",
+        "you became or ceased to be a sole parent",
+        "you or any of your dependants were covered for only part of the year, or",
+        "you are an overseas visitor with health cover."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. If you and all your dependants had an appropriate level of private patient hospital cover for the whole of 2013–14, select yes and go to Private health insurance policy details."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you or any of your dependants did not have private patient hospital cover or only had cover for part of the year, select no ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Go to step 2."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. If you were in an exemption category (see table 1 above) for the whole of 2013–14, you do not have to pay the surcharge. Go to Private health insurance policy details."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were not in an exemption category, read on."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Enter the number of days for which you do not have to pay MLS ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not have to pay MLS for any days during the period 1 July 2013 to 30 June 2014, enter 365 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have to pay MLS for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the whole period 1 July 2013 to 30 June 2014, enter 0",
+        "part of the period 1 July 2013 to 30 June 2014, enter the number of days for which you do not have to pay MLS. Read question M2 to help you calculate this number."
+      ]
+    }
+  ],
+  "content_text": "Depending on your income for Medicare levy surcharge (MLS) purposes, the MLS rate is 1%, 1.25% or 1.5% of:\n- your taxable income\n- your total reportable fringe benefits, and\n- any amount on which family trust distribution tax has been paid.\nYou may have to pay the MLS if you or your dependants (including your spouse, even if they had their own income) did not have an appropriate level of private patient hospital cover for the whole of 2013–14 and your income for MLS purposes was above a certain amount.\nYour health insurer must give you a statement showing the number of days that you and all your dependants had appropriate cover in 2013–14. If you do not have this statement, or are not sure if you had an appropriate level of private patient hospital cover, contact your health insurer.\n## Dependants\nYour dependants (regardless of their income) are your:\n- spouse, even if they worked during 2013–14 or had their own income\n- children under 21 years old\n- children 21 to 24 years old who are full-time students.\nYour dependants must have been Australian residents for tax purposes in 2013–14 and you must have contributed to their maintenance .\nIf you and all your dependants were not covered by an ‘appropriate level of private patient hospital cover’ for the whole of 2013–14, then read on.\n## Medicare levy surcharge exemptions\nYou are exempt from MLS for the whole of 2013–14 if you fit into one of the categories in table 1 that qualify you for exemption.\nTable 1 Exemption categories\nYou and all your dependants were in a Medicare levy exemption category for the whole of 2013–14.\nYou were single for the whole of 2013–14, and: for the whole of 2013–14 you did not have a dependent child, and your income for MLS purposes was $88,000 or less .\nYou were single for the whole of 2013–14, and: you had a dependent child for all of 2013–2014, and your income for MLS purposes was $176,000 or less (plus $1,500 for each dependent child after the first).\nYou were single for part of 2013–14, and: for the whole of 2013–14 you did not have a dependent child your spouse did not die during the year, and your income for MLS purposes was $88,000 or less .\nYou had a spouse (with or without dependent children) for the whole of 2013–14, and your combined income for MLS purposes was: $176,000 or less (plus $1,500 for each dependent child after the first), or greater than $176 ,000 (plus $1,500 for each dependent child after the first) but your own income for MLS purposes was $20,542 or less. If you had a spouse on 1 July 2013, your spouse died during 2013–14 and you did not have another spouse before the end of the year, assume that you had a spouse for the whole of 2013–14 when you work out your MLS income.\nYou must read question M2 if you did not fit into any of the categories in table 1 above and:\n- you were single for part of the year\n- you were widowed during the year\n- you became or ceased to be a sole parent\n- you or any of your dependants were covered for only part of the year, or\n- you are an overseas visitor with health cover.\n## Completing your tax return\n1. If you and all your dependants had an appropriate level of private patient hospital cover for the whole of 2013–14, select yes and go to Private health insurance policy details.\nIf you or any of your dependants did not have private patient hospital cover or only had cover for part of the year, select no .\nGo to step 2.\n2. If you were in an exemption category (see table 1 above) for the whole of 2013–14, you do not have to pay the surcharge. Go to Private health insurance policy details.\nIf you were not in an exemption category, read on.\n3. Enter the number of days for which you do not have to pay MLS .\nIf you do not have to pay MLS for any days during the period 1 July 2013 to 30 June 2014, enter 365 .\nIf you have to pay MLS for:\n- the whole period 1 July 2013 to 30 June 2014, enter 0\n- part of the period 1 July 2013 to 30 June 2014, enter the number of days for which you do not have to pay MLS. Read question M2 to help you calculate this number.",
+  "child_links": [],
+  "word_count": 766,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

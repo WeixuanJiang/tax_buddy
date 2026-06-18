@@ -1,0 +1,300 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/capital-gains-tax/foreign-residents-and-capital-gains-tax/foreign-resident-capital-gains-withholding/vendor-declarations",
+  "title": "Vendor declarations",
+  "description": "Find out when providing a vendor declaration results in a purchase not being subject to FRCGW.",
+  "nat_number": "",
+  "quick_code": "103609",
+  "date_updated": "2024-12-19T13:00:00Z",
+  "first_published": true,
+  "keywords": "FRCGW, vendor declaration, IARPI, IARP, IARP interest, indirect Australian real property interest",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "About vendor declarations"
+    },
+    {
+      "type": "paragraph",
+      "text": "When selling assets other than taxable Australian real property, the vendor may provide the purchaser with a vendor declaration to specify foreign resident capital gains withholding (FRCGW) isn’t required."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the asset is taxable Australian real property, Australian residents for tax purposes will need to get a clearance certificate from the ATO to avoid FRCGW from applying."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are 2 types of vendor declarations:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "residency declaration",
+        "not an indirect Australian real property (IARP) interest declaration."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Australian resident vendors can avoid the requirement of the purchaser to withhold 15% for assets other than taxable Australian real property by providing the purchaser with a vendor declaration to specify withholding isn't required on the acquisition of the asset."
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign resident vendors may provide a declaration that a membership interest is not an IARP interest and therefore not subject to withholding."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Indirect Australian real property (IARP) Interests"
+    },
+    {
+      "type": "paragraph",
+      "text": "A membership interest is shares and units in a company or trust, including options or rights to acquire the shares or units."
+    },
+    {
+      "type": "paragraph",
+      "text": "The membership interest is an IARP interest if it satisfies 2 tests:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "non-portfolio interest test",
+        "principal asset test ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vendors"
+    },
+    {
+      "type": "paragraph",
+      "text": "The vendor is the entity that is the legal owner of the asset, even where the asset is held on behalf of another entity. For example, the trustee or custodian who holds the legal title on behalf of beneficiaries."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vendor residency declaration"
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the asset is not taxable Australian real property, and the purchaser believes the vendor may be a foreign resident, they can request the vendor provide a declaration confirming their Australian tax residency."
+    },
+    {
+      "type": "paragraph",
+      "text": "They may also request the vendor to provide a declaration if the knowledge condition is met."
+    },
+    {
+      "type": "paragraph",
+      "text": "When a vendor provides a declaration stating they are an Australian tax resident, the purchaser won’t treat them as a foreign resident."
+    },
+    {
+      "type": "paragraph",
+      "text": "The vendor may voluntarily provide a declaration to the purchaser without being asked."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Purchaser can rely on the declaration"
+    },
+    {
+      "type": "paragraph",
+      "text": "The purchaser can rely on a residency declaration supplied by the vendor when acquiring assets that aren’t Australian real property."
+    },
+    {
+      "type": "paragraph",
+      "text": "When a purchaser receives a vendor declaration, they won’t withhold any amounts unless they know the declaration is false."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Knowledge condition"
+    },
+    {
+      "type": "paragraph",
+      "text": "The knowledge condition is relevant to purchases of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "IARP interests (other than company title interests)",
+        "options and rights to acquire indirect Australian real property interests."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The knowledge condition is satisfied when the purchaser either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "knows or has reasonable grounds to believe the vendor is a foreign resident",
+        "doesn’t reasonably believe the vendor is an Australian resident and either has a record about the acquisition indicating the vendor has an address outside Australia is authorised to provide a financial benefit (for example, make a payment) to a place outside Australia (whether to the vendor or to anybody else)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Evidence for the knowledge condition"
+    },
+    {
+      "type": "paragraph",
+      "text": "When applying the knowledge condition, a purchaser must rely on information they’re aware of, or have access to, when making the decision – for example, a share registry of the entity."
+    },
+    {
+      "type": "paragraph",
+      "text": "The purchaser can rely on the share registry no earlier than the date of the offer acceptance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Purchasers who aren’t comfortable determining whether the knowledge condition is satisfied may seek a vendor declaration to confirm the vendor isn’t a foreign resident."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a vendor fails to provide the declaration, the purchaser may take this as confirmation that the vendor is a foreign resident."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Non-IARP interest declaration"
+    },
+    {
+      "type": "paragraph",
+      "text": "A vendor may provide the purchaser with a declaration confirming either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the membership interests they are disposing of are not IARP interests",
+        "the option to purchase membership interests they are disposing of are not IARP interests."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Purchaser can rely on the declaration"
+    },
+    {
+      "type": "paragraph",
+      "text": "Where a valid non-IARP interest declaration is provided, there won’t be an obligation for the purchaser to withhold. A declaration may be relied on unless the purchaser knows the declaration is false."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When to provide a declaration"
+    },
+    {
+      "type": "paragraph",
+      "text": "The vendor must provide the declaration to the purchaser before the settlement date. If the vendor does not provide the purchaser the declaration in time the purchaser will need to withhold 15% from the purchase price."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Valid declarations"
+    },
+    {
+      "type": "paragraph",
+      "text": "A vendor’s declaration is only valid:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "for 6 months from the date it's signed by the vendor",
+        "for the listed vendor and specified period on the declaration",
+        "if the name of the vendor on the declaration matches the name of the owner of the asset (unless proof of name change is provided)",
+        "where the settlement date falls within the specified period the declaration covers."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the declaration doesn't meet the above conditions, the declaration is not valid and the purchaser is required to withhold 15% of the purchase price."
+    },
+    {
+      "type": "paragraph",
+      "text": "The specified period may start retrospectively but can't exceed 6 months from the date the declaration is signed by the vendor."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's the vendor’s responsibility to provide the purchaser with a declaration and ensure the settlement date is within the 6-month validity period of the declaration."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to make a declaration"
+    },
+    {
+      "type": "paragraph",
+      "text": "The declaration must be made in writing."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is no approved form that can be completed by the vendor for a declaration. However, you may use download the Foreign resident capital gains withholding – vendor declaration (PDF, 222KB) This link will download a file template."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "False vendor declarations"
+    },
+    {
+      "type": "paragraph",
+      "text": "A purchaser can rely on the declaration unless they know it to be false when they are given the declaration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Purchasers are treated as knowing a vendor declaration is false where they have specific knowledge of this fact. A purchaser will have this knowledge when they are a party to the fraud committed by the vendor, or when they have other information that indicates the declaration is false."
+    },
+    {
+      "type": "paragraph",
+      "text": "The fact the purchaser may have reasonable grounds to doubt the accuracy of the declaration doesn't, of itself, and without further information, mean the purchaser knows the declaration is false."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Penalties"
+    },
+    {
+      "type": "paragraph",
+      "text": "A vendor that makes a false or misleading declaration may be subject to paying a penalty. The amount of the penalty varies depending on the severity of the offence."
+    },
+    {
+      "type": "paragraph",
+      "text": "The penalty is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "120 penalty units where the vendor has knowingly made a false or misleading declaration",
+        "80 penalty units where the vendor has recklessly made a false or misleading declaration",
+        "40 penalty units where the declaration is false or misleading as a result of the vendor failing to take reasonable care."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Multiple vendors"
+    },
+    {
+      "type": "paragraph",
+      "text": "A declaration is only valid for the vendor listed on the declaration."
+    },
+    {
+      "type": "paragraph",
+      "text": "If an asset is acquired from multiple vendors, each vendor needs to provide the purchaser with their own declaration, to avoid the withholding obligation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where some of the vendors have not provided a declaration (or clearance certificate), withholding will apply to those vendors at the proportion of their ownership in the asset."
+    }
+  ],
+  "content_text": "## About vendor declarations\nWhen selling assets other than taxable Australian real property, the vendor may provide the purchaser with a vendor declaration to specify foreign resident capital gains withholding (FRCGW) isn’t required.\nWhere the asset is taxable Australian real property, Australian residents for tax purposes will need to get a clearance certificate from the ATO to avoid FRCGW from applying.\nThere are 2 types of vendor declarations:\n- residency declaration\n- not an indirect Australian real property (IARP) interest declaration.\nAustralian resident vendors can avoid the requirement of the purchaser to withhold 15% for assets other than taxable Australian real property by providing the purchaser with a vendor declaration to specify withholding isn't required on the acquisition of the asset.\nForeign resident vendors may provide a declaration that a membership interest is not an IARP interest and therefore not subject to withholding.\n## Indirect Australian real property (IARP) Interests\nA membership interest is shares and units in a company or trust, including options or rights to acquire the shares or units.\nThe membership interest is an IARP interest if it satisfies 2 tests:\n- non-portfolio interest test\n- principal asset test .\n## Vendors\nThe vendor is the entity that is the legal owner of the asset, even where the asset is held on behalf of another entity. For example, the trustee or custodian who holds the legal title on behalf of beneficiaries.\n## Vendor residency declaration\nWhere the asset is not taxable Australian real property, and the purchaser believes the vendor may be a foreign resident, they can request the vendor provide a declaration confirming their Australian tax residency.\nThey may also request the vendor to provide a declaration if the knowledge condition is met.\nWhen a vendor provides a declaration stating they are an Australian tax resident, the purchaser won’t treat them as a foreign resident.\nThe vendor may voluntarily provide a declaration to the purchaser without being asked.\n### Purchaser can rely on the declaration\nThe purchaser can rely on a residency declaration supplied by the vendor when acquiring assets that aren’t Australian real property.\nWhen a purchaser receives a vendor declaration, they won’t withhold any amounts unless they know the declaration is false.\n### Knowledge condition\nThe knowledge condition is relevant to purchases of:\n- IARP interests (other than company title interests)\n- options and rights to acquire indirect Australian real property interests.\nThe knowledge condition is satisfied when the purchaser either:\n- knows or has reasonable grounds to believe the vendor is a foreign resident\n- doesn’t reasonably believe the vendor is an Australian resident and either has a record about the acquisition indicating the vendor has an address outside Australia is authorised to provide a financial benefit (for example, make a payment) to a place outside Australia (whether to the vendor or to anybody else).\n### Evidence for the knowledge condition\nWhen applying the knowledge condition, a purchaser must rely on information they’re aware of, or have access to, when making the decision – for example, a share registry of the entity.\nThe purchaser can rely on the share registry no earlier than the date of the offer acceptance.\nPurchasers who aren’t comfortable determining whether the knowledge condition is satisfied may seek a vendor declaration to confirm the vendor isn’t a foreign resident.\nIf a vendor fails to provide the declaration, the purchaser may take this as confirmation that the vendor is a foreign resident.\n## Non-IARP interest declaration\nA vendor may provide the purchaser with a declaration confirming either:\n- the membership interests they are disposing of are not IARP interests\n- the option to purchase membership interests they are disposing of are not IARP interests.\n### Purchaser can rely on the declaration\nWhere a valid non-IARP interest declaration is provided, there won’t be an obligation for the purchaser to withhold. A declaration may be relied on unless the purchaser knows the declaration is false.\n## When to provide a declaration\nThe vendor must provide the declaration to the purchaser before the settlement date. If the vendor does not provide the purchaser the declaration in time the purchaser will need to withhold 15% from the purchase price.\n## Valid declarations\nA vendor’s declaration is only valid:\n- for 6 months from the date it's signed by the vendor\n- for the listed vendor and specified period on the declaration\n- if the name of the vendor on the declaration matches the name of the owner of the asset (unless proof of name change is provided)\n- where the settlement date falls within the specified period the declaration covers.\nIf the declaration doesn't meet the above conditions, the declaration is not valid and the purchaser is required to withhold 15% of the purchase price.\nThe specified period may start retrospectively but can't exceed 6 months from the date the declaration is signed by the vendor.\nIt's the vendor’s responsibility to provide the purchaser with a declaration and ensure the settlement date is within the 6-month validity period of the declaration.\n## How to make a declaration\nThe declaration must be made in writing.\nThere is no approved form that can be completed by the vendor for a declaration. However, you may use download the Foreign resident capital gains withholding – vendor declaration (PDF, 222KB) This link will download a file template.\n### False vendor declarations\nA purchaser can rely on the declaration unless they know it to be false when they are given the declaration.\nPurchasers are treated as knowing a vendor declaration is false where they have specific knowledge of this fact. A purchaser will have this knowledge when they are a party to the fraud committed by the vendor, or when they have other information that indicates the declaration is false.\nThe fact the purchaser may have reasonable grounds to doubt the accuracy of the declaration doesn't, of itself, and without further information, mean the purchaser knows the declaration is false.\n### Penalties\nA vendor that makes a false or misleading declaration may be subject to paying a penalty. The amount of the penalty varies depending on the severity of the offence.\nThe penalty is:\n- 120 penalty units where the vendor has knowingly made a false or misleading declaration\n- 80 penalty units where the vendor has recklessly made a false or misleading declaration\n- 40 penalty units where the declaration is false or misleading as a result of the vendor failing to take reasonable care.\n## Multiple vendors\nA declaration is only valid for the vendor listed on the declaration.\nIf an asset is acquired from multiple vendors, each vendor needs to provide the purchaser with their own declaration, to avoid the withholding obligation.\nWhere some of the vendors have not provided a declaration (or clearance certificate), withholding will apply to those vendors at the proportion of their ownership in the asset.",
+  "child_links": [],
+  "word_count": 1143,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

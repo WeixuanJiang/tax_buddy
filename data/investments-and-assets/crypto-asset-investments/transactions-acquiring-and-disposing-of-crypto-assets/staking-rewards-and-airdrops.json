@@ -1,0 +1,207 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/crypto-asset-investments/transactions-acquiring-and-disposing-of-crypto-assets/staking-rewards-and-airdrops",
+  "title": "Staking rewards and airdrops",
+  "description": "How tax applies to crypto rewards and new tokens from staking crypto assets.",
+  "nat_number": "",
+  "quick_code": "69950",
+  "date_updated": "2025-06-22T14:00:00Z",
+  "first_published": "",
+  "keywords": "ato crypto staking, crypto staking ato, ato staking rewards, staking rewards, airdrops, allocation drops, initial tokens, crypto staking reward, airdrops, tax on airdrops, tax treatment crypto rewards, tax treatment airdrops, staking, airdrop",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Staking and the role of forgers"
+    },
+    {
+      "type": "paragraph",
+      "text": "Staking involves locking your existing crypto asset tokens to validate transactions on the blockchain and create new blocks. The users who create new blocks in this system are known as forgers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Proof of stake is a consensus mechanism, where forgers hold units of a crypto asset to validate transactions (like a miner on a proof of work blockchain) and create new blocks. When a transaction is verified on the network as valid there is a consensus."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: staking existing crypto assets"
+    },
+    {
+      "type": "paragraph",
+      "text": "Anastasia holds 50,000 Coin A tokens, which she stakes to a Coin A pool as a premium staker."
+    },
+    {
+      "type": "paragraph",
+      "text": "Anastasia receives additional Coin A tokens when her pool participates in consensus. Anastasia also receives a small payment of Coin A tokens from the node leader for supporting their node."
+    },
+    {
+      "type": "paragraph",
+      "text": "The money value of the additional Coin A tokens that Anastasia receives is included in her ordinary assessable income at the time she receives the tokens."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cost base of Anastasia’s additional Coin A tokens is their market value at the time she receives them."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Staking rewards and income tax treatment"
+    },
+    {
+      "type": "paragraph",
+      "text": "As a forger who creates a new block, you'll usually receive a reward in the form of additional tokens from holding the original tokens. The money value of additional tokens is ordinary income at the time you receive the tokens. You need to declare the income in your tax return as other income ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other consensus mechanisms that reward existing token holders for their role in maintaining the network have the same tax outcome. This includes rewards you receive through:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "proof of authority and proof of credit mechanisms by validators",
+        "agent nodes and guardian nodes",
+        "premium stakers and other entities performing comparable roles."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You also receive ordinary income equal to the money value of the tokens if you receive as a reward for either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "participating in 'proxy staking'",
+        "voting your tokens in a consensus mechanism."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You also need to declare this income in your tax return as other income ."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you dispose of crypto assets you earn through staking, you will need to work out if you make a capital gain or loss ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Airdrops and income tax treatment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Airdrops are a marketing tool that distribute crypto assets through a group of people to build their use and popularity. Some projects 'airdrop' new tokens to existing token holders as a way of increasing the supply of tokens."
+    },
+    {
+      "type": "paragraph",
+      "text": "The money value of an established token you receive by airdrop is ordinary income at the time you receive it. You need to declare this in your tax return as other income ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: airdrop tokens and market value"
+    },
+    {
+      "type": "paragraph",
+      "text": "Merindah has held Coin A tokens since December 2024, entitling her to receive monthly BTT airdrops from February 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "The money value of the Coin B tokens that Merindah receives for holding her Coin A tokens is ordinary assessable income."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cost base of Coin B tokens that Merindah receives by airdrop is their market value at the time she receives them."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Initial allocation airdrops"
+    },
+    {
+      "type": "paragraph",
+      "text": "A crypto project may make an initial airdrop of tokens that is the very first distribution of its tokens. These tokens are the initial allocation, if there has been no trading in the project's tokens prior to the airdrop."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you receive tokens distributed in an initial airdrop you do not derive ordinary income or make a capital gain at the time you receive them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the project issues these tokens for free (without any payment made for the tokens), they have a cost base of zero ($0). These tokens don't have a market value at the time of the initial airdrop because they have not previously been traded."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where these tokens are not free, that is you have made a payment in return for receiving the token, the cost base of the tokens will be amount that you pay to acquire them."
+    },
+    {
+      "type": "paragraph",
+      "text": "A CGT event happens when you dispose of the tokens. If you hold your tokens for 12 months or more, you may be entitled to the CGT discount."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: capital gain and CGT discount on initial airdrop token"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cswap launched its own native protocol token, CX, through a community airdrop."
+    },
+    {
+      "type": "paragraph",
+      "text": "Josh is an eligible account holder of the Cswap protocol and received an initial allocation of 800 CX tokens on 16 September 2023."
+    },
+    {
+      "type": "paragraph",
+      "text": "Josh does not derive ordinary income or make a capital gain as a result of the receipt of the 800 CX."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 25 May 2025, Josh sold the 800 CX for $4,000. Because the cost base of the CX tokens was zero, Josh makes a total capital gain of $4,000 in the 2024–25 income year from the sale of the CX."
+    },
+    {
+      "type": "paragraph",
+      "text": "Josh is also eligible to reduce his total capital gain using the CGT discount, as he held his CX for more than 12 months."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example: capital gain on an initial airdrop token that requires payment TXP launched its own native protocol token, HXP, through an initial airdrop. TXP distributed the new HXP to participants who paid an amount for the new token. Calista pays $1 for each token and receives an initial allocation of 1,000 HXP tokens. Calista does not derive ordinary income or make a capital gain as a result of receiving the 1,000 HXP. Calista later sells the 1,000 HXP for $4,000. Because the cost base of the CX was $1,000, Calista makes a capital gain of $3,000 from the sale of the HXP. End of example Authorised by the Australian Government, Canberra."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: capital gain on an initial airdrop token that requires payment"
+    },
+    {
+      "type": "paragraph",
+      "text": "TXP launched its own native protocol token, HXP, through an initial airdrop."
+    },
+    {
+      "type": "paragraph",
+      "text": "TXP distributed the new HXP to participants who paid an amount for the new token."
+    },
+    {
+      "type": "paragraph",
+      "text": "Calista pays $1 for each token and receives an initial allocation of 1,000 HXP tokens."
+    },
+    {
+      "type": "paragraph",
+      "text": "Calista does not derive ordinary income or make a capital gain as a result of receiving the 1,000 HXP."
+    },
+    {
+      "type": "paragraph",
+      "text": "Calista later sells the 1,000 HXP for $4,000. Because the cost base of the CX was $1,000, Calista makes a capital gain of $3,000 from the sale of the HXP."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorised by the Australian Government, Canberra."
+    }
+  ],
+  "content_text": "## Staking and the role of forgers\nStaking involves locking your existing crypto asset tokens to validate transactions on the blockchain and create new blocks. The users who create new blocks in this system are known as forgers.\nProof of stake is a consensus mechanism, where forgers hold units of a crypto asset to validate transactions (like a miner on a proof of work blockchain) and create new blocks. When a transaction is verified on the network as valid there is a consensus.\n### Example: staking existing crypto assets\nAnastasia holds 50,000 Coin A tokens, which she stakes to a Coin A pool as a premium staker.\nAnastasia receives additional Coin A tokens when her pool participates in consensus. Anastasia also receives a small payment of Coin A tokens from the node leader for supporting their node.\nThe money value of the additional Coin A tokens that Anastasia receives is included in her ordinary assessable income at the time she receives the tokens.\nThe cost base of Anastasia’s additional Coin A tokens is their market value at the time she receives them.\n## Staking rewards and income tax treatment\nAs a forger who creates a new block, you'll usually receive a reward in the form of additional tokens from holding the original tokens. The money value of additional tokens is ordinary income at the time you receive the tokens. You need to declare the income in your tax return as other income .\nOther consensus mechanisms that reward existing token holders for their role in maintaining the network have the same tax outcome. This includes rewards you receive through:\n- proof of authority and proof of credit mechanisms by validators\n- agent nodes and guardian nodes\n- premium stakers and other entities performing comparable roles.\nYou also receive ordinary income equal to the money value of the tokens if you receive as a reward for either:\n- participating in 'proxy staking'\n- voting your tokens in a consensus mechanism.\nYou also need to declare this income in your tax return as other income .\nWhen you dispose of crypto assets you earn through staking, you will need to work out if you make a capital gain or loss .\n## Airdrops and income tax treatment\nAirdrops are a marketing tool that distribute crypto assets through a group of people to build their use and popularity. Some projects 'airdrop' new tokens to existing token holders as a way of increasing the supply of tokens.\nThe money value of an established token you receive by airdrop is ordinary income at the time you receive it. You need to declare this in your tax return as other income .\n### Example: airdrop tokens and market value\nMerindah has held Coin A tokens since December 2024, entitling her to receive monthly BTT airdrops from February 2025.\nThe money value of the Coin B tokens that Merindah receives for holding her Coin A tokens is ordinary assessable income.\nThe cost base of Coin B tokens that Merindah receives by airdrop is their market value at the time she receives them.\n## Initial allocation airdrops\nA crypto project may make an initial airdrop of tokens that is the very first distribution of its tokens. These tokens are the initial allocation, if there has been no trading in the project's tokens prior to the airdrop.\nIf you receive tokens distributed in an initial airdrop you do not derive ordinary income or make a capital gain at the time you receive them.\nWhere the project issues these tokens for free (without any payment made for the tokens), they have a cost base of zero ($0). These tokens don't have a market value at the time of the initial airdrop because they have not previously been traded.\nWhere these tokens are not free, that is you have made a payment in return for receiving the token, the cost base of the tokens will be amount that you pay to acquire them.\nA CGT event happens when you dispose of the tokens. If you hold your tokens for 12 months or more, you may be entitled to the CGT discount.\n### Example: capital gain and CGT discount on initial airdrop token\nCswap launched its own native protocol token, CX, through a community airdrop.\nJosh is an eligible account holder of the Cswap protocol and received an initial allocation of 800 CX tokens on 16 September 2023.\nJosh does not derive ordinary income or make a capital gain as a result of the receipt of the 800 CX.\nOn 25 May 2025, Josh sold the 800 CX for $4,000. Because the cost base of the CX tokens was zero, Josh makes a total capital gain of $4,000 in the 2024–25 income year from the sale of the CX.\nJosh is also eligible to reduce his total capital gain using the CGT discount, as he held his CX for more than 12 months.\nExample: capital gain on an initial airdrop token that requires payment TXP launched its own native protocol token, HXP, through an initial airdrop. TXP distributed the new HXP to participants who paid an amount for the new token. Calista pays $1 for each token and receives an initial allocation of 1,000 HXP tokens. Calista does not derive ordinary income or make a capital gain as a result of receiving the 1,000 HXP. Calista later sells the 1,000 HXP for $4,000. Because the cost base of the CX was $1,000, Calista makes a capital gain of $3,000 from the sale of the HXP. End of example Authorised by the Australian Government, Canberra.\n### Example: capital gain on an initial airdrop token that requires payment\nTXP launched its own native protocol token, HXP, through an initial airdrop.\nTXP distributed the new HXP to participants who paid an amount for the new token.\nCalista pays $1 for each token and receives an initial allocation of 1,000 HXP tokens.\nCalista does not derive ordinary income or make a capital gain as a result of receiving the 1,000 HXP.\nCalista later sells the 1,000 HXP for $4,000. Because the cost base of the CX was $1,000, Calista makes a capital gain of $3,000 from the sale of the HXP.\nAuthorised by the Australian Government, Canberra.",
+  "child_links": [],
+  "word_count": 1041,
+  "source_title": "Staking rewards and airdrops | Australian Taxation Office",
+  "source_description": "How tax applies to crypto rewards and new tokens from staking crypto assets.",
+  "category": "investments-and-assets"
+}

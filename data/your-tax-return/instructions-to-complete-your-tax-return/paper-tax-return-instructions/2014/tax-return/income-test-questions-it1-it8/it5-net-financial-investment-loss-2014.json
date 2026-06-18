@@ -1,0 +1,250 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2014/tax-return/income-test-questions-it1-it8/it5-net-financial-investment-loss-2014",
+  "title": "IT5 Net financial investment loss 2014",
+  "description": "Complete question IT5 to include a net loss from any financial investments you owned.",
+  "nat_number": "71050",
+  "quick_code": "40156",
+  "date_updated": "2014-06-04T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, TaxPack, income test, loss, investment loss, net financial",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about the net loss, if any, from any financial investments you owned."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Did you receive income from, or claim deductions for, shares or investments in managed investment schemes?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Did you receive income from, or claim deductions for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "shares in a company",
+        "an investment in a managed investment scheme, including a forestry managed investment scheme",
+        "rights or options for shares or managed investment schemes",
+        "distributions from a partnership that included income or losses from an investment listed above",
+        "any investment that is of a similar nature to those listed above?"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Write 0 at X item IT5 , then go to question IT6 Net rental property loss , or return to main menu Individual tax return instructions ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The loss you show at this item is the amount by which your deductions relating to your financial investments exceed your income from those investments."
+    },
+    {
+      "type": "paragraph",
+      "text": "When calculating your net financial investment loss, do not include interest from your everyday transaction accounts."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Managed investment schemes"
+    },
+    {
+      "type": "paragraph",
+      "text": "The investment manager will be able to tell you whether your investment is a managed investment scheme. Managed schemes include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "cash management trusts",
+        "property trusts",
+        "Australian equity (share) trusts",
+        "agricultural schemes (which include horticultural, aquaculture and commercial horse breeding schemes)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Investments that are not managed investment schemes include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "regulated superannuation funds",
+        "approved deposit funds",
+        "debentures issued by a body corporate",
+        "franchises",
+        "schemes operated by an Australian bank in the ordinary course of banking business (such as term deposits)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Deductions you can claim for an investment include expenses you pay to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "borrow money to purchase an investment",
+        "manage your investments",
+        "obtain advice about changes in the mix of your investments."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete worksheet 1 below."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a partner in one or more partnerships, add up your share of all net financial investment income and deduct your share of all net losses from the partnerships' financial investments. The statement of distribution from each partnership should show these amounts. Write the total at (q)."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 1"
+        ],
+        [
+          "Financial investment income Dividends from Australian shares from item 11 :"
+        ],
+        [
+          "Unfranked amount",
+          "$",
+          "(a)"
+        ],
+        [
+          "Franked amount",
+          "$",
+          "(b)"
+        ],
+        [
+          "Franking credit",
+          "$",
+          "(c)"
+        ],
+        [
+          "Managed investment scheme income from U item 13",
+          "$",
+          "(d)"
+        ],
+        [
+          "Share of franked distributions and franking credits from managed investment scheme from C item 13",
+          "$",
+          "(e)"
+        ],
+        [
+          "Dividend income or managed investment scheme income from foreign companies from M item 20",
+          "$",
+          "(f)"
+        ],
+        [
+          "Australian franking credits from a New Zealand franking company from F item 20",
+          "$",
+          "(g)"
+        ],
+        [
+          "Forestry managed investment scheme income from A item 23",
+          "$",
+          "(h)"
+        ],
+        [
+          "Any other assessable income from a financial investment",
+          "",
+          "(i)"
+        ],
+        [
+          "Add all amounts from (a) to (i).",
+          "$",
+          "(j)"
+        ],
+        [
+          "Financial investment deductions"
+        ],
+        [
+          "Dividend deductions from Australian shares from item D8",
+          "$",
+          "(k)"
+        ],
+        [
+          "Managed investment scheme deductions included in Y item 13 and H item D8",
+          "$",
+          "(l)"
+        ],
+        [
+          "Forestry managed investment scheme deductions from F item D14",
+          "$",
+          "(m)"
+        ],
+        [
+          "Any other deductions attributable to a financial investment",
+          "$",
+          "(n)"
+        ],
+        [
+          "Add all amounts from (k) to (n).",
+          "$",
+          "(o)"
+        ],
+        [
+          "Take (o) away from (j). Show a loss as a negative.",
+          "$",
+          "(p)"
+        ],
+        [
+          "Total partnerships investment net income or loss. Show a loss as a negative.",
+          "$",
+          "(q)"
+        ],
+        [
+          "Add (p) and (q).",
+          "$",
+          "(r)"
+        ],
+        [
+          "If the amount at (r) is negative, write this amount at X item IT5 . Otherwise write 0 at X ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question IT6 Net rental property loss .",
+        "Return to main menu Individual tax return instructions .",
+        "Go back to question IT4 Target foreign income ."
+      ]
+    }
+  ],
+  "content_text": "This question is about the net loss, if any, from any financial investments you owned.\n## Did you receive income from, or claim deductions for, shares or investments in managed investment schemes?\n## Did you receive income from, or claim deductions for:\n- shares in a company\n- an investment in a managed investment scheme, including a forestry managed investment scheme\n- rights or options for shares or managed investment schemes\n- distributions from a partnership that included income or losses from an investment listed above\n- any investment that is of a similar nature to those listed above?\nNo | Write 0 at X item IT5 , then go to question IT6 Net rental property loss , or return to main menu Individual tax return instructions .\nYes | Read on.\nThe loss you show at this item is the amount by which your deductions relating to your financial investments exceed your income from those investments.\nWhen calculating your net financial investment loss, do not include interest from your everyday transaction accounts.\n### Managed investment schemes\nThe investment manager will be able to tell you whether your investment is a managed investment scheme. Managed schemes include:\n- cash management trusts\n- property trusts\n- Australian equity (share) trusts\n- agricultural schemes (which include horticultural, aquaculture and commercial horse breeding schemes).\nInvestments that are not managed investment schemes include:\n- regulated superannuation funds\n- approved deposit funds\n- debentures issued by a body corporate\n- franchises\n- schemes operated by an Australian bank in the ordinary course of banking business (such as term deposits).\n### Deductions\nDeductions you can claim for an investment include expenses you pay to:\n- borrow money to purchase an investment\n- manage your investments\n- obtain advice about changes in the mix of your investments.\n## Completing your tax return\nComplete worksheet 1 below.\nIf you are a partner in one or more partnerships, add up your share of all net financial investment income and deduct your share of all net losses from the partnerships' financial investments. The statement of distribution from each partnership should show these amounts. Write the total at (q).\nWorksheet 1\nFinancial investment income Dividends from Australian shares from item 11 :\nUnfranked amount | $ | (a)\nFranked amount | $ | (b)\nFranking credit | $ | (c)\nManaged investment scheme income from U item 13 | $ | (d)\nShare of franked distributions and franking credits from managed investment scheme from C item 13 | $ | (e)\nDividend income or managed investment scheme income from foreign companies from M item 20 | $ | (f)\nAustralian franking credits from a New Zealand franking company from F item 20 | $ | (g)\nForestry managed investment scheme income from A item 23 | $ | (h)\nAny other assessable income from a financial investment |  | (i)\nAdd all amounts from (a) to (i). | $ | (j)\nFinancial investment deductions\nDividend deductions from Australian shares from item D8 | $ | (k)\nManaged investment scheme deductions included in Y item 13 and H item D8 | $ | (l)\nForestry managed investment scheme deductions from F item D14 | $ | (m)\nAny other deductions attributable to a financial investment | $ | (n)\nAdd all amounts from (k) to (n). | $ | (o)\nTake (o) away from (j). Show a loss as a negative. | $ | (p)\nTotal partnerships investment net income or loss. Show a loss as a negative. | $ | (q)\nAdd (p) and (q). | $ | (r)\nIf the amount at (r) is negative, write this amount at X item IT5 . Otherwise write 0 at X .\n### Where to go next\n- Go to question IT6 Net rental property loss .\n- Return to main menu Individual tax return instructions .\n- Go back to question IT4 Target foreign income .",
+  "child_links": [],
+  "word_count": 654,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

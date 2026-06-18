@@ -1,0 +1,466 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2016/supplementary-tax-return/income-questions-13-24/15-net-income-or-loss-from-business-2016",
+  "title": "15 Net income or loss from business 2016",
+  "description": "Complete question 15 to report income you derive or losses you incur from any business.",
+  "nat_number": "",
+  "quick_code": "48696",
+  "date_updated": "2016-05-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, supplement, income, net income, loss, income from business, loss from business",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Did you derive income or incur a loss from any business?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to question 16 Deferred non-commercial business losses , or return to main menu Individual tax return instructions 2016 ."
+        ],
+        [
+          "Yes",
+          "You cannot lodge a paper return. You must lodge your tax return using myTax or a registered tax agent."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This question covers:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "income from being a sole trader",
+        "income or a loss from a primary production business",
+        "income under a pay as you go (PAYG) voluntary agreement",
+        "income from which an amount was withheld because you did not quote your Australian business number (ABN)",
+        "income you derived as a foreign resident from which an amount was withheld because it was subject to foreign resident withholding",
+        "income of an independent contractor working under a labour hire arrangement",
+        "income from the following specified payments payment for tutorial services provided for the Indigenous Tutorial Assistance Scheme of the Department of the Prime Minister and Cabinet payment for translation and interpretation services provided for the Translating and Interpreting Service National of the Department of Home Affairs income as a performing artist in a promotional activity",
+        "any other business income",
+        "the small business income tax offset. See Part D ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A specified payment is a payment specified in tax law for PAYG withholding purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show at this item:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "personal services income included at item 14 Personal services income (PSI) 2016",
+        "foreign source business income included at item 20 Foreign source income ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before you complete this item, see Business and professional items 2016 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must show your net income or loss (that is, gross business income less business deductions) at item 15 , B for primary production and C for non-primary production."
+    },
+    {
+      "type": "paragraph",
+      "text": "You carry on a primary production business if you carry on a business in any of the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "cultivating or propagating plants, fungi or their products or parts (including seeds, spores, bulbs and similar things) in any physical environment",
+        "maintaining animals for the purpose of selling them or their bodily produce (including natural increase)",
+        "manufacturing dairy produce from raw material you produced",
+        "conducting operations relating directly to taking or catching fish, turtles, dugong, bêche-de-mer, crustaceans or aquatic molluscs",
+        "conducting operations relating directly to taking or culturing pearls or pearl shell",
+        "planting or tending trees in a plantation or forest that are intended to be felled",
+        "felling trees in a plantation or forest",
+        "transporting trees, or parts of trees, that you felled in a plantation or forest to the place where they are first to be milled or processed, or from which they are to be transported to the place where they are first to be milled or processed."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If you are a primary producer, see Information for primary producers 2016"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you may need"
+    },
+    {
+      "type": "paragraph",
+      "text": "These publications may help you to correctly complete this item:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Taxation Ruling TR 92/18 Income tax: bad debts",
+        "Taxation Ruling TR 93/30 Income tax: deductions for home office expenses",
+        "Taxation Ruling TR 96/7 Income tax: record keeping - section 262A - general principles",
+        "Taxation Ruling TR 96/11 Income tax: record keeping - taxi industry - guidelines for recording taxi takings",
+        "Taxation Ruling TR 97/11 Income tax: am I carrying on a business of primary production?",
+        "Taxation Ruling TR 97/23 Income tax: deductions for repairs",
+        "Taxation Ruling TR 2005/9 Income tax: record keeping - electronic records",
+        "Guide to depreciating assets 2016 (NAT 1996)",
+        "Small business entity concessions ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this item"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Business and professional items schedule for individuals 2016 and Individual PAYG payment summary schedule 2016"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete the Business and professional items section."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received business income from which tax was withheld, complete the Individual PAYG payment summary schedule 2016 (NAT 3647)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Did you derive income or incur a loss from a primary production business?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to part C ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer your net income or loss from a primary production business shown at Y item P8 in the Business and professional items section to B item 15. Do not show cents."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you made a loss, print L in the LOSS box at the right of B item 15 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you made a loss in 2015-16 from one or more business activities, check that you have completed items P3 and P9 in the Business and professional items section."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part C"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Did you derive income or incur a loss from any non-primary production business?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to part D ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer your net income or loss from a non-primary production business shown at Z item P8 in the Business and professional items section to C item 15. Do not show cents."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you made a loss, print L in the LOSS box at the right of C ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you made a loss in 2015-16 from one or more business activities, check that you have completed items P3 and P9 in the Business and professional items section."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you carried on a business as an author of a literary, dramatic, musical or artistic work or as an inventor, performing artist, production associate or active sportsperson, you must also write the amount of income from these business activities at Z item 24 Other income 2016 . You will not be taxed twice on this income."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part D"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Did you have an amount of net small business income from P8 worksheet 7?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to Part E."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount of Net small business income you worked out at P8 worksheet 7 and show this amount at A item 15 Net small business income."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part E"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "In your calculation of total business income in the Business and professional items section, did you include income from which an amount of tax was withheld at the INCOME items B, C, D, E, F, N or O item P8?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to Check that you have..."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1 Did you have any amounts of tax withheld under a pay as you go (PAYG) voluntary agreement?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to Step 2 ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the amounts on your Individual PAYG payment summary schedule 2016 shown in the Tax withheld boxes where you have printed V in the Type box. These amounts must correspond with the payments shown at E and F item P8 in the Business and professional items section. Show this total at D item 15. Do not show cents."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2 Did you have any amounts of tax withheld because you did not quote your Australian business number (ABN)?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to Step 3 ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the amounts on your Individual PAYG payment summary schedule 2016 shown in the Tax withheld boxes where you have printed N in the Type box. These amounts must correspond with the payments shown at C and D item P8 in the Business and professional items section. Show this total at W item 15 . Show cents."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3 Did you, a foreign resident, have any amounts of tax withheld because your income was subject to foreign resident withholding?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to Step 4 ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the amounts on your Individual PAYG payment summary schedule 2016 shown in the Tax withheld boxes where you have printed F in the Type box. These amounts must correspond with the payments shown at B item P8 in the Business and professional items section. Show this amount at E item 15 . Show cents."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 4 Did you have any amounts of tax withheld because you received income:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "working under a labour hire arrangement, or",
+        "from a specified payment?"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to Check that you have..."
+        ],
+        [
+          "Yes",
+          "Read on"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the amounts on your Individual PAYG payment summary schedule 2016 shown in the Tax withheld boxes where you have printed S in the Type box. These amounts must correspond with the payments shown at N and O item P8 in the Business and professional items section. Show this amount at F item 15 . Do not show cents."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Check that you have..."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "read Business and professional items 2016",
+        "completed the Business and professional items section",
+        "transferred the amounts from Y and Z item P8 in the Business and professional items section to B and C item 15 respectively on your tax return (if these amounts are losses then check that you have printed L in the Loss boxes at the right of B and C ).",
+        "completed A item 15 if you are a small business entity."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received business income from which tax was withheld also check that you have:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "completed the Individual PAYG payment summary schedule 2016 and attached it to page 3 of your tax return",
+        "written amounts at D , W , E and F item 15 , if required."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "16 Deferred non-commercial business losses 2016",
+        "Individual tax return instructions 2016",
+        "14 Personal services income (PSI) 2016"
+      ]
+    }
+  ],
+  "content_text": "## Did you derive income or incur a loss from any business?\nNo | Go to question 16 Deferred non-commercial business losses , or return to main menu Individual tax return instructions 2016 .\nYes | You cannot lodge a paper return. You must lodge your tax return using myTax or a registered tax agent.\nThis question covers:\n- income from being a sole trader\n- income or a loss from a primary production business\n- income under a pay as you go (PAYG) voluntary agreement\n- income from which an amount was withheld because you did not quote your Australian business number (ABN)\n- income you derived as a foreign resident from which an amount was withheld because it was subject to foreign resident withholding\n- income of an independent contractor working under a labour hire arrangement\n- income from the following specified payments payment for tutorial services provided for the Indigenous Tutorial Assistance Scheme of the Department of the Prime Minister and Cabinet payment for translation and interpretation services provided for the Translating and Interpreting Service National of the Department of Home Affairs income as a performing artist in a promotional activity\n- any other business income\n- the small business income tax offset. See Part D .\nA specified payment is a payment specified in tax law for PAYG withholding purposes.\nDo not show at this item:\n- personal services income included at item 14 Personal services income (PSI) 2016\n- foreign source business income included at item 20 Foreign source income .\n## You need to know\nBefore you complete this item, see Business and professional items 2016 .\nYou must show your net income or loss (that is, gross business income less business deductions) at item 15 , B for primary production and C for non-primary production.\nYou carry on a primary production business if you carry on a business in any of the following:\n- cultivating or propagating plants, fungi or their products or parts (including seeds, spores, bulbs and similar things) in any physical environment\n- maintaining animals for the purpose of selling them or their bodily produce (including natural increase)\n- manufacturing dairy produce from raw material you produced\n- conducting operations relating directly to taking or catching fish, turtles, dugong, bêche-de-mer, crustaceans or aquatic molluscs\n- conducting operations relating directly to taking or culturing pearls or pearl shell\n- planting or tending trees in a plantation or forest that are intended to be felled\n- felling trees in a plantation or forest\n- transporting trees, or parts of trees, that you felled in a plantation or forest to the place where they are first to be milled or processed, or from which they are to be transported to the place where they are first to be milled or processed.\nSee also:\n- If you are a primary producer, see Information for primary producers 2016\n## What you may need\nThese publications may help you to correctly complete this item:\n- Taxation Ruling TR 92/18 Income tax: bad debts\n- Taxation Ruling TR 93/30 Income tax: deductions for home office expenses\n- Taxation Ruling TR 96/7 Income tax: record keeping - section 262A - general principles\n- Taxation Ruling TR 96/11 Income tax: record keeping - taxi industry - guidelines for recording taxi takings\n- Taxation Ruling TR 97/11 Income tax: am I carrying on a business of primary production?\n- Taxation Ruling TR 97/23 Income tax: deductions for repairs\n- Taxation Ruling TR 2005/9 Income tax: record keeping - electronic records\n- Guide to depreciating assets 2016 (NAT 1996)\n- Small business entity concessions .\n## Completing this item\n### Part A\n#### Business and professional items schedule for individuals 2016 and Individual PAYG payment summary schedule 2016\n#### Step 1\nComplete the Business and professional items section.\n#### Step 2\nIf you received business income from which tax was withheld, complete the Individual PAYG payment summary schedule 2016 (NAT 3647).\n### Part B\n#### Did you derive income or incur a loss from a primary production business?\nNo | Go to part C .\nYes | Read on.\n#### Step 1\nTransfer your net income or loss from a primary production business shown at Y item P8 in the Business and professional items section to B item 15. Do not show cents.\n#### Step 2\nIf you made a loss, print L in the LOSS box at the right of B item 15 .\n#### Step 3\nIf you made a loss in 2015-16 from one or more business activities, check that you have completed items P3 and P9 in the Business and professional items section.\n### Part C\n#### Did you derive income or incur a loss from any non-primary production business?\nNo | Go to part D .\nYes | Read on.\n#### Step 1\nTransfer your net income or loss from a non-primary production business shown at Z item P8 in the Business and professional items section to C item 15. Do not show cents.\n#### Step 2\nIf you made a loss, print L in the LOSS box at the right of C .\n#### Step 3\nIf you made a loss in 2015-16 from one or more business activities, check that you have completed items P3 and P9 in the Business and professional items section.\nIf you carried on a business as an author of a literary, dramatic, musical or artistic work or as an inventor, performing artist, production associate or active sportsperson, you must also write the amount of income from these business activities at Z item 24 Other income 2016 . You will not be taxed twice on this income.\n### Part D\n#### Did you have an amount of net small business income from P8 worksheet 7?\nNo | Go to Part E.\nYes | Read on.\n#### Step 1\nTransfer the amount of Net small business income you worked out at P8 worksheet 7 and show this amount at A item 15 Net small business income.\n### Part E\n#### In your calculation of total business income in the Business and professional items section, did you include income from which an amount of tax was withheld at the INCOME items B, C, D, E, F, N or O item P8?\nNo | Go to Check that you have...\nYes | Read on.\n#### Step 1 Did you have any amounts of tax withheld under a pay as you go (PAYG) voluntary agreement?\nNo | Go to Step 2 .\nYes | Read on.\nAdd up all the amounts on your Individual PAYG payment summary schedule 2016 shown in the Tax withheld boxes where you have printed V in the Type box. These amounts must correspond with the payments shown at E and F item P8 in the Business and professional items section. Show this total at D item 15. Do not show cents.\n#### Step 2 Did you have any amounts of tax withheld because you did not quote your Australian business number (ABN)?\nNo | Go to Step 3 .\nYes | Read on.\nAdd up all the amounts on your Individual PAYG payment summary schedule 2016 shown in the Tax withheld boxes where you have printed N in the Type box. These amounts must correspond with the payments shown at C and D item P8 in the Business and professional items section. Show this total at W item 15 . Show cents.\n#### Step 3 Did you, a foreign resident, have any amounts of tax withheld because your income was subject to foreign resident withholding?\nNo | Go to Step 4 .\nYes | Read on.\nAdd up all the amounts on your Individual PAYG payment summary schedule 2016 shown in the Tax withheld boxes where you have printed F in the Type box. These amounts must correspond with the payments shown at B item P8 in the Business and professional items section. Show this amount at E item 15 . Show cents.\n#### Step 4 Did you have any amounts of tax withheld because you received income:\n- working under a labour hire arrangement, or\n- from a specified payment?\nNo | Go to Check that you have...\nYes | Read on\nAdd up all the amounts on your Individual PAYG payment summary schedule 2016 shown in the Tax withheld boxes where you have printed S in the Type box. These amounts must correspond with the payments shown at N and O item P8 in the Business and professional items section. Show this amount at F item 15 . Do not show cents.\n## Check that you have...\n- read Business and professional items 2016\n- completed the Business and professional items section\n- transferred the amounts from Y and Z item P8 in the Business and professional items section to B and C item 15 respectively on your tax return (if these amounts are losses then check that you have printed L in the Loss boxes at the right of B and C ).\n- completed A item 15 if you are a small business entity.\nIf you received business income from which tax was withheld also check that you have:\n- completed the Individual PAYG payment summary schedule 2016 and attached it to page 3 of your tax return\n- written amounts at D , W , E and F item 15 , if required.\n## Where to go next\n- 16 Deferred non-commercial business losses 2016\n- Individual tax return instructions 2016\n- 14 Personal services income (PSI) 2016",
+  "child_links": [],
+  "word_count": 1594,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

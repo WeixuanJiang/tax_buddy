@@ -1,0 +1,199 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/setting-up-an-smsf/appoint-your-smsf-trustees",
+  "title": "Appoint your SMSF trustees",
+  "description": "Understand and comply with responsibilities when appointing trustees or directors of a corporate trustee.",
+  "nat_number": "73604",
+  "quick_code": "23314",
+  "date_updated": "2025-05-22T14:00:00Z",
+  "first_published": "",
+  "keywords": "smsf, self-managed, self manage, super, superannuation, fund, appoint, trustee, director, eligible, register, disqualified, person, disqualified trustee, register of disqualified trustees, disqualified people, checklist, Legal personal representatives, declaration",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eligibility of trustees and directors"
+    },
+    {
+      "type": "paragraph",
+      "text": "All members of your self-managed super fund (SMSF) must be individual trustees or directors of the corporate trustee. When selecting fund trustees, you need to make sure they're eligible."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Who can be a trustee"
+    },
+    {
+      "type": "paragraph",
+      "text": "Members are eligible to be a trustee if they're:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "at least 18 years old",
+        "not under a legal disability such as mental incapacity",
+        "not a disqualified person . A disqualified person includes a person who has been convicted of dishonest offences, is bankrupt or insolvent, or may be a future risk to retirement savings."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "It is an offence to knowingly act as a trustee while being a disqualified person. A legal personal representative (LPR) cannot act as trustee on behalf of a disqualified person either."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may have to appoint an LPR to be the trustee or director where a member:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "is over the age of 18 with a legal disability",
+        "is under the age of 18",
+        "requires a person to hold enduring power of attorney to act on their behalf (see SMSF Ruling SMSFR 2010/2 )",
+        "is deceased, until the death benefit becomes payable."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Members under the age of 18 can also have their parent appointed as a trustee or director on their behalf."
+    },
+    {
+      "type": "paragraph",
+      "text": "If prospective trustees have any outstanding tax or superannuation affairs, such as any unlodged tax returns or unpaid tax debts, this could prevent their SMSF registration from proceeding."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Determine if you're a disqualified person"
+    },
+    {
+      "type": "paragraph",
+      "text": "You are a disqualified person if you answer 'yes' to any of the following questions:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Have you ever been convicted of a dishonest offence in Australia or overseas? Offences of dishonest conduct can include fraud, theft, and illegal activity or dealings. These convictions are for offences that occurred at any time, including convictions that have been ‘spent’ and those that the court has not recorded, due to age or first offender.",
+        "Have you ever been issued with a civil penalty order? Civil penalty orders are imposed when an individual contravenes a civil penalty provision. This can be an order to pay a fine or serve jail time.",
+        "Are you currently bankrupt or insolvent under administration? You cannot be a trustee of an SMSF while you are an undischarged bankrupt. You cannot remain a trustee if you become bankrupt or insolvent after you are appointed.",
+        "Have you been previously disqualified by the ATO, Australian Securities & Investments Commission (ASIC) or Australian Prudential Regulation Authority (APRA)? The ATO can disqualify trustees of an SMSF. This is permanent and is not just specific to the SMSF they were a trustee of at the time. To find out if someone has previously been disqualified, check our disqualified trustees register Opens in a new window . The register commenced in 2012 and is updated quarterly. ASIC can disqualify: directors of companies individuals who practised in Australian financial services or credit industries. The Federal Court can make an order to disqualify a trustee of an APRA fund. This is permanent and disqualifies you from operating an SMSF."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Applying to waive disqualified status"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can apply for a waiver of disqualified status if the offence leading to the disqualification was not an offence involving serious dishonest conduct. This means that the penalty imposed for the offence was not either a:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "term of imprisonment for more than 2 years",
+        "fine of more than 120 penalty units."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The application must be in writing and include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "details of the offence",
+        "court documents about the offence",
+        "consent for us to inquire about the offence to any law enforcement agencies or courts that we think are relevant."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The application should be made within 14 days of the conviction. We may accept applications after this time if you explain the circumstances of your late application."
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot become a trustee until we notify you of our acceptance to waive the disqualified status."
+    },
+    {
+      "type": "paragraph",
+      "text": "Send your signed application and supporting documents to:"
+    },
+    {
+      "type": "paragraph",
+      "text": "AUSTRALIAN TAXATION OFFICE PO BOX 3100 PENRITH NSW 2740"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Check the company can act as a corporate trustee"
+    },
+    {
+      "type": "paragraph",
+      "text": "A company cannot act as a corporate trustee of an SMSF if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the company is aware or has reason to suspect that a director of the company is a disqualified person",
+        "an administrator has been appointed in respect of the company",
+        "a receiver has been appointed in respect of property beneficially owned by the company",
+        "a provisional liquidator or restructuring practitioner has been appointed in respect of the company",
+        "action has started to wind up the company",
+        "the company has been deregistered by ASIC."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Trustee and director consent"
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether you're an individual trustee or director of a corporate trustee, you are responsible for running the fund and making decisions that affect the retirement interests of each fund member."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before you consent to being a trustee ensure you understand your obligations as an SMSF trustee under the law. You need to have the knowledge, time and skills to manage your fund successfully. We recommend you complete a free online trustee training course ."
+    },
+    {
+      "type": "paragraph",
+      "text": "All trustees or directors must formally consent in writing to being appointed. This can be recorded in meeting minutes and must be kept on file for the life of the SMSF and for 10 years after the SMSF winds up."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Trustee declaration"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Trustee declaration must be signed:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "by trustees and directors of a corporate trustee or a legal personal representative of an SMSF, to declare they understand their obligations and responsibilities",
+        "within 21 days of appointment."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You must keep your completed declaration while you remain a trustee of the fund, or for 10 years (whichever is longer). You don't need to send it to us unless we ask for it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Media: SMSF - Trustee declaration https://tv.ato.gov.au/ato-tv/media?v=bd1bdiubfi93w5 External Link ( Duration: 2:23)"
+    }
+  ],
+  "content_text": "## Eligibility of trustees and directors\nAll members of your self-managed super fund (SMSF) must be individual trustees or directors of the corporate trustee. When selecting fund trustees, you need to make sure they're eligible.\n### Who can be a trustee\nMembers are eligible to be a trustee if they're:\n- at least 18 years old\n- not under a legal disability such as mental incapacity\n- not a disqualified person . A disqualified person includes a person who has been convicted of dishonest offences, is bankrupt or insolvent, or may be a future risk to retirement savings.\nIt is an offence to knowingly act as a trustee while being a disqualified person. A legal personal representative (LPR) cannot act as trustee on behalf of a disqualified person either.\nYou may have to appoint an LPR to be the trustee or director where a member:\n- is over the age of 18 with a legal disability\n- is under the age of 18\n- requires a person to hold enduring power of attorney to act on their behalf (see SMSF Ruling SMSFR 2010/2 )\n- is deceased, until the death benefit becomes payable.\nMembers under the age of 18 can also have their parent appointed as a trustee or director on their behalf.\nIf prospective trustees have any outstanding tax or superannuation affairs, such as any unlodged tax returns or unpaid tax debts, this could prevent their SMSF registration from proceeding.\n### Determine if you're a disqualified person\nYou are a disqualified person if you answer 'yes' to any of the following questions:\n- Have you ever been convicted of a dishonest offence in Australia or overseas? Offences of dishonest conduct can include fraud, theft, and illegal activity or dealings. These convictions are for offences that occurred at any time, including convictions that have been ‘spent’ and those that the court has not recorded, due to age or first offender.\n- Have you ever been issued with a civil penalty order? Civil penalty orders are imposed when an individual contravenes a civil penalty provision. This can be an order to pay a fine or serve jail time.\n- Are you currently bankrupt or insolvent under administration? You cannot be a trustee of an SMSF while you are an undischarged bankrupt. You cannot remain a trustee if you become bankrupt or insolvent after you are appointed.\n- Have you been previously disqualified by the ATO, Australian Securities & Investments Commission (ASIC) or Australian Prudential Regulation Authority (APRA)? The ATO can disqualify trustees of an SMSF. This is permanent and is not just specific to the SMSF they were a trustee of at the time. To find out if someone has previously been disqualified, check our disqualified trustees register Opens in a new window . The register commenced in 2012 and is updated quarterly. ASIC can disqualify: directors of companies individuals who practised in Australian financial services or credit industries. The Federal Court can make an order to disqualify a trustee of an APRA fund. This is permanent and disqualifies you from operating an SMSF.\n#### Applying to waive disqualified status\nYou can apply for a waiver of disqualified status if the offence leading to the disqualification was not an offence involving serious dishonest conduct. This means that the penalty imposed for the offence was not either a:\n- term of imprisonment for more than 2 years\n- fine of more than 120 penalty units.\nThe application must be in writing and include:\n- details of the offence\n- court documents about the offence\n- consent for us to inquire about the offence to any law enforcement agencies or courts that we think are relevant.\nThe application should be made within 14 days of the conviction. We may accept applications after this time if you explain the circumstances of your late application.\nYou cannot become a trustee until we notify you of our acceptance to waive the disqualified status.\nSend your signed application and supporting documents to:\nAUSTRALIAN TAXATION OFFICE PO BOX 3100 PENRITH NSW 2740\n### Check the company can act as a corporate trustee\nA company cannot act as a corporate trustee of an SMSF if:\n- the company is aware or has reason to suspect that a director of the company is a disqualified person\n- an administrator has been appointed in respect of the company\n- a receiver has been appointed in respect of property beneficially owned by the company\n- a provisional liquidator or restructuring practitioner has been appointed in respect of the company\n- action has started to wind up the company\n- the company has been deregistered by ASIC.\n## Trustee and director consent\nWhether you're an individual trustee or director of a corporate trustee, you are responsible for running the fund and making decisions that affect the retirement interests of each fund member.\nBefore you consent to being a trustee ensure you understand your obligations as an SMSF trustee under the law. You need to have the knowledge, time and skills to manage your fund successfully. We recommend you complete a free online trustee training course .\nAll trustees or directors must formally consent in writing to being appointed. This can be recorded in meeting minutes and must be kept on file for the life of the SMSF and for 10 years after the SMSF winds up.\n### Trustee declaration\nThe Trustee declaration must be signed:\n- by trustees and directors of a corporate trustee or a legal personal representative of an SMSF, to declare they understand their obligations and responsibilities\n- within 21 days of appointment.\nYou must keep your completed declaration while you remain a trustee of the fund, or for 10 years (whichever is longer). You don't need to send it to us unless we ask for it.\nMedia: SMSF - Trustee declaration https://tv.ato.gov.au/ato-tv/media?v=bd1bdiubfi93w5 External Link ( Duration: 2:23)",
+  "child_links": [],
+  "word_count": 978,
+  "source_title": "Appoint your SMSF trustees | Australian Taxation Office",
+  "source_description": "Understand and comply with responsibilities when appointing trustees or directors of a corporate trustee.",
+  "category": "super-for-individuals-and-families"
+}

@@ -1,0 +1,179 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2024/adjustments/government-super-contributions",
+  "title": "myTax 2024 Government super contributions",
+  "description": "How to complete the Government super contributions section when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "101637",
+  "date_updated": "2024-06-03T03:57:00Z",
+  "first_published": true,
+  "keywords": "2024, myTax, e-tax, online tax return, government super",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete this section to ensure we correctly calculate any entitlement you may have to Government super contributions."
+    },
+    {
+      "type": "paragraph",
+      "text": "In some circumstances, the Government makes additional contributions to your super, these include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "super co-contributions",
+        "low income super tax offset"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Super co-contributions"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a low income earner and make personal (after-tax) super contributions to your super fund, the Government also makes a co-contribution to your super. The government can co-contribute up to a maximum amount of $500 to help boost your retirement savings."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Eligibility for super co-contributions"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be eligible for a super co-contribution if all of the following apply:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you made an eligible personal super contribution to a complying super fund or retirement savings account. This does not include super amounts which you are claiming as a deduction an eligible downsizer contribution",
+        "you did not exceed your non-concessional contribution cap",
+        "your total superannuation balance at 30 June 2023 was less than $1,700,000",
+        "you were under 71 years old on 30 June 2024",
+        "your total income for 2023–24 was less than $58,445",
+        "your employment and business income (including business income from a partnership) makes up 10% or more of your total income",
+        "you did not hold a temporary visa at any time during 2023–24 (unless you are a New Zealand citizen, or it was a prescribed visa)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Total income for the purposes of super co-contribution is the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "sum of your assessable income, reportable fringe benefits total, and total reportable employer super contributions (RESC)",
+        "less, any assessable First home super saver (FHSS) released amount and any allowable business deductions."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Assessable income is your income before taking deductions into account."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your total RESC is reduced (but not below zero) by any excess concessional contributions included in your assessable income."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Low income super tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a low income you may be entitled to a low income super tax offset (LISTO) payment of up to $500 to your super fund."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Eligibility for low income super tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be eligible for a low income super tax offset if all of the following apply to you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your adjusted taxable income was less than or equal to $37,000",
+        "concessional contributions were made to your complying super fund which include a deduction for personal super contributions by your employer to your super fund, including contributions under a salary sacrifice agreement, or other concessional contributions to your super fund",
+        "your employment and business income (including business income from a partnership) made up 10% or more of your total income",
+        "you did not hold a temporary visa at any time during 2023–24 (unless you are a New Zealand citizen or it was a prescribed visa)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Total income for the purposes of the low income super tax offset is the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "sum of your assessable income, reportable fringe benefits total, and total reportable employer super contributions (RESC)",
+        "less, any assessable FHSS released amount."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Assessable income is your income before taking deductions into account."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your total RESC is reduced (but not below zero) by any excess concessional contributions included in your assessable income."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before completing this section, you should include all your income and deductions in your return."
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your return to show Government super contributions, at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You are claiming tax offsets or adjustments",
+        "Government super contributions"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your Government super contributions, at Prepare return select 'Add/Edit' at the Adjustments banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Government super contributions heading:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "If you are eligible for these contributions, you must use the Work it out button to calculate the amounts to be included in your tax return. These amounts are used to ensure you receive the correct amount of Government super contributions. If you are not sure whether you are eligible, you should use the Work it out button.",
+        "Select Save and continue when you have completed the Adjustments section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: If you change any income or deductions in your return, select the Work it out button again to update these amounts."
+    }
+  ],
+  "content_text": "## Things to know\nComplete this section to ensure we correctly calculate any entitlement you may have to Government super contributions.\nIn some circumstances, the Government makes additional contributions to your super, these include:\n- super co-contributions\n- low income super tax offset\n### Super co-contributions\nIf you are a low income earner and make personal (after-tax) super contributions to your super fund, the Government also makes a co-contribution to your super. The government can co-contribute up to a maximum amount of $500 to help boost your retirement savings.\n#### Eligibility for super co-contributions\nYou may be eligible for a super co-contribution if all of the following apply:\n- you made an eligible personal super contribution to a complying super fund or retirement savings account. This does not include super amounts which you are claiming as a deduction an eligible downsizer contribution\n- you did not exceed your non-concessional contribution cap\n- your total superannuation balance at 30 June 2023 was less than $1,700,000\n- you were under 71 years old on 30 June 2024\n- your total income for 2023–24 was less than $58,445\n- your employment and business income (including business income from a partnership) makes up 10% or more of your total income\n- you did not hold a temporary visa at any time during 2023–24 (unless you are a New Zealand citizen, or it was a prescribed visa).\nTotal income for the purposes of super co-contribution is the:\n- sum of your assessable income, reportable fringe benefits total, and total reportable employer super contributions (RESC)\n- less, any assessable First home super saver (FHSS) released amount and any allowable business deductions.\nAssessable income is your income before taking deductions into account.\nYour total RESC is reduced (but not below zero) by any excess concessional contributions included in your assessable income.\n### Low income super tax offset\nIf you have a low income you may be entitled to a low income super tax offset (LISTO) payment of up to $500 to your super fund.\n#### Eligibility for low income super tax offset\nYou may be eligible for a low income super tax offset if all of the following apply to you:\n- your adjusted taxable income was less than or equal to $37,000\n- concessional contributions were made to your complying super fund which include a deduction for personal super contributions by your employer to your super fund, including contributions under a salary sacrifice agreement, or other concessional contributions to your super fund\n- your employment and business income (including business income from a partnership) made up 10% or more of your total income\n- you did not hold a temporary visa at any time during 2023–24 (unless you are a New Zealand citizen or it was a prescribed visa).\nTotal income for the purposes of the low income super tax offset is the:\n- sum of your assessable income, reportable fringe benefits total, and total reportable employer super contributions (RESC)\n- less, any assessable FHSS released amount.\nAssessable income is your income before taking deductions into account.\nYour total RESC is reduced (but not below zero) by any excess concessional contributions included in your assessable income.\n## Completing this section\nBefore completing this section, you should include all your income and deductions in your return.\nTo personalise your return to show Government super contributions, at Personalise return select:\n- You are claiming tax offsets or adjustments\n- Government super contributions\nTo show your Government super contributions, at Prepare return select 'Add/Edit' at the Adjustments banner.\nAt the Government super contributions heading:\n- If you are eligible for these contributions, you must use the Work it out button to calculate the amounts to be included in your tax return. These amounts are used to ensure you receive the correct amount of Government super contributions. If you are not sure whether you are eligible, you should use the Work it out button.\n- Select Save and continue when you have completed the Adjustments section.\nNote: If you change any income or deductions in your return, select the Work it out button again to update these amounts.",
+  "child_links": [],
+  "word_count": 688,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

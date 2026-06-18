@@ -1,0 +1,165 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/crypto-asset-investments/crypto-chain-splits",
+  "title": "Crypto chain splits",
+  "description": "How to treat a new crypto asset you receive as a result of a chain split.",
+  "nat_number": "",
+  "quick_code": "69953",
+  "date_updated": "2025-06-22T14:00:00Z",
+  "first_published": "",
+  "keywords": "blockchain and crypto, crypto chain split, chain split, new crypto chain",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Blockchain"
+    },
+    {
+      "type": "paragraph",
+      "text": "A blockchain is a record of all transactions, made up of blocks, of a particular crypto asset."
+    },
+    {
+      "type": "paragraph",
+      "text": "At regular intervals a new block is added to the chain. There may be a chain split of the blockchain where there are competing versions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Chain splits"
+    },
+    {
+      "type": "paragraph",
+      "text": "A chain split occurs when there are two or more competing versions of a blockchain. These competing versions share the same history up to the point where their core rules diverge."
+    },
+    {
+      "type": "paragraph",
+      "text": "As an investor, if you receive a new crypto asset as the result of a chain split (such as Bitcoin Cash being received by Bitcoin holders), the value of the new crypto asset is not treated as either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "ordinary income",
+        "a capital gain at the time you receive it."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "However, you will need to work out your capital gain or capital loss when you dispose of the new crypto asset you receive as a result of a chain split. The cost base of a crypto asset you receive as a result of a chain split is zero ($0)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be entitled to the CGT discount if you hold the new crypto asset for 12 months or more before disposing of it."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you acquire the new crypto asset in carrying on a business , it may be treated differently for tax purposes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: chain split and sale of new crypto asset"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alex held 10 Bitcoin as an investment on 1 August 2017, when Bitcoin Cash split from Bitcoin."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a result of the chain split, Alex received 10 Bitcoin Cash, in addition to the 10 Bitcoin previously held. There were no immediate tax consequences for him."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 2 March 2025, Alex sells 2 Bitcoin Cash for $1,000. Because the cost base of the Bitcoin Cash is zero, he makes a total discount capital gain of $1,000 in the 2024–25 income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "As Alex had held the Bitcoin cash for more than 12 months and assuming he doesn’t have any other capital gain or losses, he reports the capital gain after discount of $500 in his tax return for 2024–25. He will pay tax on the capital gain at his marginal income tax rate."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Work out which is the new crypto asset"
+    },
+    {
+      "type": "paragraph",
+      "text": "When a chain split occurs, you need to work out which asset is the new crypto asset. To do this you need to examine the rights and relationships of the crypto assets you now hold."
+    },
+    {
+      "type": "paragraph",
+      "text": "If one crypto asset has the same rights and relationships as your original crypto asset, it is a continuation of the original asset. Therefore, the other crypto asset you hold because of the chain split will be a new asset."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: protocol change"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bree holds 60 Ethereum as an investment. On 20 July 2016 the Ethereum is subject to a chain split."
+    },
+    {
+      "type": "paragraph",
+      "text": "Following the chain split, Bree holds 60 Ethereum and 60 Ethereum Classic. The chain split occurs because of a protocol change, which makes the holding rights invalid for 12 million pre-split Ethereum."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ethereum Classic rejects the protocol change and continues to recognise all of the holding rights before the chain split. Therefore, Ethereum Classic exists on the original blockchain, continuing as the original asset."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Ethereum that Bree receives as a result of the chain split is her new asset. The acquisition date of Bree's post-split Ethereum is 20 July 2016."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "No original crypto asset after split"
+    },
+    {
+      "type": "paragraph",
+      "text": "The original crypto asset may no longer exist if none of the crypto assets you hold after the chain split have the same rights or relationships as the original."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where this is the case a C2 CGT event happens to the original asset. Therefore, each crypto asset you hold is a new asset with an acquisition date of the date of the chain split with a cost base of zero ($0)."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: no continuing rights or relationships"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ming held 10 Bitcoin Cash as an investment just before a chain split on 15 November 2018."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ming had acquired the Bitcoin Cash on 6 April 2018 with a cost base of $8,300."
+    },
+    {
+      "type": "paragraph",
+      "text": "Following the chain split, Ming held 10 Bitcoin Cash ABC and 10 Bitcoin Cash SV. Both projects had a change to the core consensus rules of the original Bitcoin Cash protocol."
+    },
+    {
+      "type": "paragraph",
+      "text": "Neither project exists on the original blockchain. Miners using the pre-split software would not find blocks on either the ABC or SV chains. Neither of the post-split assets is the continuation of the original asset."
+    },
+    {
+      "type": "paragraph",
+      "text": "The community abandoned the original asset at the time of the chain split."
+    },
+    {
+      "type": "paragraph",
+      "text": "A C2 CGT event happens to Ming’s original Bitcoin Cash when the chain split occurred on 15 November 2018. Ming calculates a capital loss of $8,300, which is equal to the cost base of his original asset."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ming’s new 10 Bitcoin Cash ABC and 10 Bitcoin Cash SV both have an acquisition date of 15 November 2018 and a cost base of zero."
+    }
+  ],
+  "content_text": "## Blockchain\nA blockchain is a record of all transactions, made up of blocks, of a particular crypto asset.\nAt regular intervals a new block is added to the chain. There may be a chain split of the blockchain where there are competing versions.\n## Chain splits\nA chain split occurs when there are two or more competing versions of a blockchain. These competing versions share the same history up to the point where their core rules diverge.\nAs an investor, if you receive a new crypto asset as the result of a chain split (such as Bitcoin Cash being received by Bitcoin holders), the value of the new crypto asset is not treated as either:\n- ordinary income\n- a capital gain at the time you receive it.\nHowever, you will need to work out your capital gain or capital loss when you dispose of the new crypto asset you receive as a result of a chain split. The cost base of a crypto asset you receive as a result of a chain split is zero ($0).\nYou may be entitled to the CGT discount if you hold the new crypto asset for 12 months or more before disposing of it.\nIf you acquire the new crypto asset in carrying on a business , it may be treated differently for tax purposes.\n### Example: chain split and sale of new crypto asset\nAlex held 10 Bitcoin as an investment on 1 August 2017, when Bitcoin Cash split from Bitcoin.\nAs a result of the chain split, Alex received 10 Bitcoin Cash, in addition to the 10 Bitcoin previously held. There were no immediate tax consequences for him.\nOn 2 March 2025, Alex sells 2 Bitcoin Cash for $1,000. Because the cost base of the Bitcoin Cash is zero, he makes a total discount capital gain of $1,000 in the 2024–25 income year.\nAs Alex had held the Bitcoin cash for more than 12 months and assuming he doesn’t have any other capital gain or losses, he reports the capital gain after discount of $500 in his tax return for 2024–25. He will pay tax on the capital gain at his marginal income tax rate.\n### Work out which is the new crypto asset\nWhen a chain split occurs, you need to work out which asset is the new crypto asset. To do this you need to examine the rights and relationships of the crypto assets you now hold.\nIf one crypto asset has the same rights and relationships as your original crypto asset, it is a continuation of the original asset. Therefore, the other crypto asset you hold because of the chain split will be a new asset.\n#### Example: protocol change\nBree holds 60 Ethereum as an investment. On 20 July 2016 the Ethereum is subject to a chain split.\nFollowing the chain split, Bree holds 60 Ethereum and 60 Ethereum Classic. The chain split occurs because of a protocol change, which makes the holding rights invalid for 12 million pre-split Ethereum.\nEthereum Classic rejects the protocol change and continues to recognise all of the holding rights before the chain split. Therefore, Ethereum Classic exists on the original blockchain, continuing as the original asset.\nThe Ethereum that Bree receives as a result of the chain split is her new asset. The acquisition date of Bree's post-split Ethereum is 20 July 2016.\n### No original crypto asset after split\nThe original crypto asset may no longer exist if none of the crypto assets you hold after the chain split have the same rights or relationships as the original.\nWhere this is the case a C2 CGT event happens to the original asset. Therefore, each crypto asset you hold is a new asset with an acquisition date of the date of the chain split with a cost base of zero ($0).\n#### Example: no continuing rights or relationships\nMing held 10 Bitcoin Cash as an investment just before a chain split on 15 November 2018.\nMing had acquired the Bitcoin Cash on 6 April 2018 with a cost base of $8,300.\nFollowing the chain split, Ming held 10 Bitcoin Cash ABC and 10 Bitcoin Cash SV. Both projects had a change to the core consensus rules of the original Bitcoin Cash protocol.\nNeither project exists on the original blockchain. Miners using the pre-split software would not find blocks on either the ABC or SV chains. Neither of the post-split assets is the continuation of the original asset.\nThe community abandoned the original asset at the time of the chain split.\nA C2 CGT event happens to Ming’s original Bitcoin Cash when the chain split occurred on 15 November 2018. Ming calculates a capital loss of $8,300, which is equal to the cost base of his original asset.\nMing’s new 10 Bitcoin Cash ABC and 10 Bitcoin Cash SV both have an acquisition date of 15 November 2018 and a cost base of zero.",
+  "child_links": [],
+  "word_count": 823,
+  "source_title": "Crypto chain splits | Australian Taxation Office",
+  "source_description": "How to treat a new crypto asset you receive as a result of a chain split.",
+  "category": "investments-and-assets"
+}

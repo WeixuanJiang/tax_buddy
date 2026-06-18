@@ -1,0 +1,65 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2013/supporting-information/special-circumstances-and-glossary-2013/non-resident-withholding-tax/dividends",
+  "title": "Dividends",
+  "description": "",
+  "nat_number": "",
+  "quick_code": "80763",
+  "date_updated": "2013-05-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Do not include at item 11 any dividend income paid or credited to you during the period you were a foreign resident, if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the dividend was fully franked, or",
+        "the dividend was not fully franked, but either",
+        "the dividend statement shows the unfranked amount to be conduit foreign income, or withholding tax was (or should have been) withheld from the unfranked amount."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to provide details of any dividend:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "that was paid or credited to you during any period you were a foreign resident, and",
+        "that was not fully franked and was not declared to be conduit foreign income, and",
+        "on which you have not paid withholding tax."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "On a separate piece of paper:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "print SCHEDULE OF ADDITIONAL INFORMATION - ITEM 11",
+        "print your name, address and tax file number",
+        "provide details of the dividend."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Attach your schedule to page 3 of your tax return. Print X in the Yes box at Taxpayer's declaration question 2a on page 10 of your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "We will work out the amount of withholding tax you have to pay on the dividends, and advise you of the amount."
+    }
+  ],
+  "content_text": "Do not include at item 11 any dividend income paid or credited to you during the period you were a foreign resident, if:\n- the dividend was fully franked, or\n- the dividend was not fully franked, but either\n- the dividend statement shows the unfranked amount to be conduit foreign income, or withholding tax was (or should have been) withheld from the unfranked amount.\nYou need to provide details of any dividend:\n- that was paid or credited to you during any period you were a foreign resident, and\n- that was not fully franked and was not declared to be conduit foreign income, and\n- on which you have not paid withholding tax.\nOn a separate piece of paper:\n- print SCHEDULE OF ADDITIONAL INFORMATION - ITEM 11\n- print your name, address and tax file number\n- provide details of the dividend.\nAttach your schedule to page 3 of your tax return. Print X in the Yes box at Taxpayer's declaration question 2a on page 10 of your tax return.\nWe will work out the amount of withholding tax you have to pay on the dividends, and advise you of the amount.",
+  "child_links": [],
+  "word_count": 195,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

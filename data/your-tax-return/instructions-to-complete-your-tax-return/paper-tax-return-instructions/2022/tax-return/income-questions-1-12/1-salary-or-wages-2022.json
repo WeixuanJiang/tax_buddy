@@ -1,0 +1,213 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2022/tax-return/income-questions-1-12/1-salary-or-wages-2022",
+  "title": "1 Salary or wages 2022",
+  "description": "Complete question 1 to declare income from salary or wages from which tax was withheld.",
+  "nat_number": "",
+  "quick_code": "67676",
+  "date_updated": "2022-05-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, salary, wages, tax withheld, income, tax return, question 1, commissions, parental leave, 2022, income earned, salary or wages, paper tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about income from salary or wages from which tax was withheld. Income from salary or wages includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "salary and wages",
+        "commissions",
+        "bonuses",
+        "income from part-time or casual work",
+        "parental leave pay",
+        "dad-and-partner pay",
+        "amounts shown on an income statement or payment summary for lost salary or wages paid under an income protection policy a sickness or accident insurance policy a workers compensation scheme",
+        "amounts shown on an income statement or payment summary for special payments resulting from COVID-19 (such as a stand-down payment or COVID-19 payment, but not an eligible termination payment)",
+        "foreign employment. If you are an Australian Government agency employee (and not a member of a disciplined force), include here income earned from delivering Australian official development assistance. For more information, see Exempt foreign employment income ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you earn income from salary or wages shown on an income statement, PAYG payment summary – individual non-business or PAYG payment summary – foreign employment?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to question 2 Allowances, earnings, tips, directors fees etc 2022 , or return to main menu Individual tax return instructions 2022 ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your income statement or PAYG payment summary – individual non-business shows any allowances, include them at item 2 Allowances, earnings, tips, directors fees etc."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your income statement, PAYG payment summary – individual non-business, PAYG payment summary – foreign employment, or a comparable statement such as a letter or signed statement, from each employer or payer, showing the following details:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "gross income (shown as 'Gross payments' on your income statement or payment summary)",
+        "payment type indicator (if you are a working holiday maker )",
+        "total tax withheld",
+        "foreign tax paid, if applicable, and",
+        "the employer's or payer's Australian business number (ABN) or withholding payer number (WPN)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not have all your payment summaries or comparable statements, contact your employer or payer for a copy or comparable statement. If you are unsuccessful in obtaining any of these, see Income statement not finalised or missing payment summary . If you can't access your income statement through myGov or contact us ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purposes of this question, 'payment summary' includes comparable statements. Do not combine amounts from different payment summaries unless instructed at step 3 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print the occupation from which you earned most of your income from salary or wages under Your main salary and wage occupation at item 1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Be as specific as possible when you describe how you earned your salary and wages, for example, 'insurance clerk' rather than 'clerk', 'facilities manager' rather than 'manager', 'bar attendant' rather than 'student'. For public servants, provide work type, for example, 'call centre operator'."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have more than five income statements and payment summaries, go to step 3 . Otherwise, read on."
+    },
+    {
+      "type": "paragraph",
+      "text": "For each income statement and payment summary, write at item 1 :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the payer's Australian business number (ABN) or withholding payer number",
+        "the 'Total Australian tax withheld' amounts under Tax withheld",
+        "the gross payment amounts under Income ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your income statement or payment summary includes Gross payment type H , print H in the payment type box. Gross payment type H applies to income you earned while on a 417 or 462 working holiday visa. If this applies to you, then you must complete item A4 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have finished this question. Go to question 2 Allowances, earnings, tips, directors fees etc 2022 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gross payment type H , referred to below, applies to income you earned while on a 417 or 462 working holiday visa."
+    },
+    {
+      "type": "paragraph",
+      "text": "From your income statement and PAYG payment summary – individual non-business (with no Gross payment type H ):"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "add up the total tax withheld, write the total under Tax withheld at the left of C",
+        "add up the gross payment amounts, write the total under Income at C",
+        "write the Australian business number (ABN) if you have only one income statement or payment summary of this type",
+        "leave the ABN blank if you have more than one income statement or payment summary of this type."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "From your income statement and PAYG payment summary – individual non-business with Gross payment type H :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "add up the total tax withheld, write the total under Tax withheld at the left of D",
+        "add up the gross payment amounts, write the total under Income at D",
+        "write H in the payment type box",
+        "write the ABN if you have only one income statement or payment summary of this type",
+        "leave the ABN blank if you have more than one income statement or payment summary of this type",
+        "complete item A4 ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "From your income statement and PAYG payment summary – foreign employment :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "add up the total tax withheld, write the total under Tax withheld at the left of E",
+        "add up the gross payment amounts, write the total under Income at E",
+        "write the ABN if you have only one income statement or payment summary of this type",
+        "leave the ABN blank if you have more than one income statement or payment summary of this type."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You have now finished this question; go to question 2 Allowances, earnings, tips, directors fees etc 2022 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Helpful hints"
+    },
+    {
+      "type": "paragraph",
+      "text": "Make sure you keep all your records for five years from the date you lodge your tax return. A shorter record-keeping period may apply in some situations. There is more information on record keeping and written evidence in Keeping tax records for specific expenses ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question 2 Allowances, earnings, tips, directors fees etc 2022 .",
+        "Return to main menu Individual tax return instructions 2022 ."
+      ]
+    }
+  ],
+  "content_text": "This question is about income from salary or wages from which tax was withheld. Income from salary or wages includes:\n- salary and wages\n- commissions\n- bonuses\n- income from part-time or casual work\n- parental leave pay\n- dad-and-partner pay\n- amounts shown on an income statement or payment summary for lost salary or wages paid under an income protection policy a sickness or accident insurance policy a workers compensation scheme\n- amounts shown on an income statement or payment summary for special payments resulting from COVID-19 (such as a stand-down payment or COVID-19 payment, but not an eligible termination payment)\n- foreign employment. If you are an Australian Government agency employee (and not a member of a disciplined force), include here income earned from delivering Australian official development assistance. For more information, see Exempt foreign employment income .\nDid you earn income from salary or wages shown on an income statement, PAYG payment summary – individual non-business or PAYG payment summary – foreign employment?\nNo | Go to question 2 Allowances, earnings, tips, directors fees etc 2022 , or return to main menu Individual tax return instructions 2022 .\nYes | Read on.\nIf your income statement or PAYG payment summary – individual non-business shows any allowances, include them at item 2 Allowances, earnings, tips, directors fees etc.\n## Answering this question\nYou will need your income statement, PAYG payment summary – individual non-business, PAYG payment summary – foreign employment, or a comparable statement such as a letter or signed statement, from each employer or payer, showing the following details:\n- gross income (shown as 'Gross payments' on your income statement or payment summary)\n- payment type indicator (if you are a working holiday maker )\n- total tax withheld\n- foreign tax paid, if applicable, and\n- the employer's or payer's Australian business number (ABN) or withholding payer number (WPN).\nIf you do not have all your payment summaries or comparable statements, contact your employer or payer for a copy or comparable statement. If you are unsuccessful in obtaining any of these, see Income statement not finalised or missing payment summary . If you can't access your income statement through myGov or contact us .\n## Completing your tax return\nFor the purposes of this question, 'payment summary' includes comparable statements. Do not combine amounts from different payment summaries unless instructed at step 3 .\n### Step 1\nPrint the occupation from which you earned most of your income from salary or wages under Your main salary and wage occupation at item 1 .\nBe as specific as possible when you describe how you earned your salary and wages, for example, 'insurance clerk' rather than 'clerk', 'facilities manager' rather than 'manager', 'bar attendant' rather than 'student'. For public servants, provide work type, for example, 'call centre operator'.\n### Step 2\nIf you have more than five income statements and payment summaries, go to step 3 . Otherwise, read on.\nFor each income statement and payment summary, write at item 1 :\n- the payer's Australian business number (ABN) or withholding payer number\n- the 'Total Australian tax withheld' amounts under Tax withheld\n- the gross payment amounts under Income .\nIf your income statement or payment summary includes Gross payment type H , print H in the payment type box. Gross payment type H applies to income you earned while on a 417 or 462 working holiday visa. If this applies to you, then you must complete item A4 .\nYou have finished this question. Go to question 2 Allowances, earnings, tips, directors fees etc 2022 .\n### Step 3\nGross payment type H , referred to below, applies to income you earned while on a 417 or 462 working holiday visa.\nFrom your income statement and PAYG payment summary – individual non-business (with no Gross payment type H ):\n- add up the total tax withheld, write the total under Tax withheld at the left of C\n- add up the gross payment amounts, write the total under Income at C\n- write the Australian business number (ABN) if you have only one income statement or payment summary of this type\n- leave the ABN blank if you have more than one income statement or payment summary of this type.\nFrom your income statement and PAYG payment summary – individual non-business with Gross payment type H :\n- add up the total tax withheld, write the total under Tax withheld at the left of D\n- add up the gross payment amounts, write the total under Income at D\n- write H in the payment type box\n- write the ABN if you have only one income statement or payment summary of this type\n- leave the ABN blank if you have more than one income statement or payment summary of this type\n- complete item A4 .\nFrom your income statement and PAYG payment summary – foreign employment :\n- add up the total tax withheld, write the total under Tax withheld at the left of E\n- add up the gross payment amounts, write the total under Income at E\n- write the ABN if you have only one income statement or payment summary of this type\n- leave the ABN blank if you have more than one income statement or payment summary of this type.\nYou have now finished this question; go to question 2 Allowances, earnings, tips, directors fees etc 2022 .\n## Helpful hints\nMake sure you keep all your records for five years from the date you lodge your tax return. A shorter record-keeping period may apply in some situations. There is more information on record keeping and written evidence in Keeping tax records for specific expenses .\n## Where to go next\n- Go to question 2 Allowances, earnings, tips, directors fees etc 2022 .\n- Return to main menu Individual tax return instructions 2022 .",
+  "child_links": [],
+  "word_count": 988,
+  "source_title": "1 Salary or wages 2022 | Australian Taxation Office",
+  "source_description": "Complete question 1 to declare income from salary or wages from which tax was withheld.",
+  "category": "your-tax-return"
+}

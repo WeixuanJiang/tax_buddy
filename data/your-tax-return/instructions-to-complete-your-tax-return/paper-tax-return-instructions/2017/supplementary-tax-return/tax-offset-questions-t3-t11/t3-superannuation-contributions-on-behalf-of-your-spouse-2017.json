@@ -1,0 +1,269 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2017/supplementary-tax-return/tax-offset-questions-t3-t11/t3-superannuation-contributions-on-behalf-of-your-spouse-2017",
+  "title": "T3 Superannuation contributions on behalf of your spouse 2017",
+  "description": "Complete question T3 if you made contributions to a complying superannuation fund or RSA on behalf of your spouse.",
+  "nat_number": "",
+  "quick_code": "51162",
+  "date_updated": "2017-05-24T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, tax offset, spouse, superannuation, superannuation contributions",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Did you make contributions to a complying superannuation fund or a retirement savings account (RSA) on behalf of your spouse (married or de facto) who is earning a low income or not working?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to question T4 Zone or overseas forces 2017 , or return to main menu Individual tax return instructions 2017 ."
+        ],
+        [
+          "Yes",
+          "You may be eligible for a tax offset. Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "An RSA is a special account offered by banks, building societies, credit unions, life insurance companies and prescribed financial institutions. It is used for retirement savings and is similar to a superannuation fund."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will be entitled to a tax offset of up to $540 per year if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the sum of your spouse's assessable income, total reportable fringe benefits amounts and reportable employer superannuation contributions was less than $13,800",
+        "the contributions were not deductible to you",
+        "the contributions were made to a superannuation fund that was a complying superannuation fund for the income year in which you made the contribution",
+        "both you and your spouse were Australian residents when the contributions were made, and",
+        "when making the contributions you and your spouse were not living separately and apart on a permanent basis."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A spouse can be of any sex and can include de facto relationships (see the definition of spouse in Special circumstances and glossary 2017 )."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had more than one spouse during the income year and you satisfy the conditions for the tax offset for more than one spouse, the tax offset is the lesser of the sum of the tax offset entitlements for each spouse, or $540."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purposes of this question, your spouse's assessable income is the amount your spouse wrote at TOTAL INCOME OR LOSS on page 3 of their tax return, unless:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "they had a distribution from a partnership or trust",
+        "they had income or losses from rent or business (including personal services income)",
+        "they had a capital gain or foreign source income",
+        "they made a deposit into a Farm Management Deposit Scheme Account, or",
+        "they claimed a deductible amount for a foreign pension or annuity at item D11 on their tax return (supplementary section)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If any of these apply phone 13 10 20 for help to work out your spouse's assessable income before completing this item."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your spouse's reportable fringe benefits amounts and reportable employer superannuation contributions are shown on their payment summaries."
+    },
+    {
+      "type": "paragraph",
+      "text": "The tax offset is calculated as 18% of the lesser of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$3,000, reduced by $1 for every $1 that the sum of your spouse's assessable income, total reportable fringe benefits amounts and reportable employer superannuation contributions for the year was more than $10,800",
+        "the total of your contributions for your spouse for the year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The tax offset for eligible spouse contributions cannot be claimed for superannuation contributions that you made to satisfy a family law obligation to split contributions with your spouse."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this item"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total of your contributions at Contributions paid item T3 on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the sum of your spouse's assessable income, total reportable fringe benefits amounts and reportable employer superannuation contributions was $10,800 or less, use worksheet 1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the sum of your spouse's assessable income, total reportable fringe benefits amounts and reportable employer superannuation contributions was more than $10,800 but less than $13,800, use worksheet 2 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "Maximum spouse contributions eligible for the tax offset",
+          "$3,000"
+        ],
+        [
+          "b",
+          "Amount of contributions paid",
+          "$"
+        ],
+        [
+          "c",
+          "Write the lesser of row a or b .",
+          "$"
+        ],
+        [
+          "d",
+          "Multiply row c by 18 and divide by 100.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "Maximum spouse contributions eligible for the tax offset",
+          "$3,000"
+        ],
+        [
+          "b",
+          "The sum of your spouse's assessable income, total reportable fringe benefits amounts and reportable employer superannuation contributions",
+          "$"
+        ],
+        [
+          "c",
+          "Base amount",
+          "$10,800"
+        ],
+        [
+          "d",
+          "Take row c away from row b .",
+          "$"
+        ],
+        [
+          "e",
+          "Take row d away from row a .",
+          "$"
+        ],
+        [
+          "f",
+          "Amount of contributions paid",
+          "$"
+        ],
+        [
+          "g",
+          "Write the lesser of row e or row f .",
+          "$"
+        ],
+        [
+          "h",
+          "Multiply row g by 18 and divide by 100.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "The tax offset is the amount shown at row d on worksheet 1 or row h on worksheet 2 . Write this amount at A item T3 . Do not show cents."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had more than one spouse during the year, complete steps 1 to 3 for each spouse. Your tax offset is the lesser of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the sum of the tax offset you are entitled to for each spouse, or",
+        "$540."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Write this amount at A item T3 . Do not show cents."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Make sure you complete Spouse details - married or de facto on pages 8–9 of your tax return. Include your spouse's taxable income at O , your spouse's total reportable fringe benefits amounts at R or S and your spouse's reportable employer superannuation contributions at A ."
+    },
+    {
+      "type": "paragraph",
+      "text": "See the definition of spouse in Special circumstances and glossary 2017 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your entitlement to this tax offset you would have used your spouse's assessable income, reportable fringe benefits amounts and reportable employer superannuation contributions. However, because we use taxable income to calculate many other entitlements, we ask you to record your spouse's taxable income (not assessable income) at Spouse details - married or de facto ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question T4 Zone or overseas forces 2017",
+        "Return to main menu Individual tax return instructions 2017",
+        "Go back to Total supplement deductions 2017"
+      ]
+    }
+  ],
+  "content_text": "Did you make contributions to a complying superannuation fund or a retirement savings account (RSA) on behalf of your spouse (married or de facto) who is earning a low income or not working?\nNo | Go to question T4 Zone or overseas forces 2017 , or return to main menu Individual tax return instructions 2017 .\nYes | You may be eligible for a tax offset. Read on.\nAn RSA is a special account offered by banks, building societies, credit unions, life insurance companies and prescribed financial institutions. It is used for retirement savings and is similar to a superannuation fund.\n## You need to know\nYou will be entitled to a tax offset of up to $540 per year if:\n- the sum of your spouse's assessable income, total reportable fringe benefits amounts and reportable employer superannuation contributions was less than $13,800\n- the contributions were not deductible to you\n- the contributions were made to a superannuation fund that was a complying superannuation fund for the income year in which you made the contribution\n- both you and your spouse were Australian residents when the contributions were made, and\n- when making the contributions you and your spouse were not living separately and apart on a permanent basis.\nA spouse can be of any sex and can include de facto relationships (see the definition of spouse in Special circumstances and glossary 2017 ).\nIf you had more than one spouse during the income year and you satisfy the conditions for the tax offset for more than one spouse, the tax offset is the lesser of the sum of the tax offset entitlements for each spouse, or $540.\nFor the purposes of this question, your spouse's assessable income is the amount your spouse wrote at TOTAL INCOME OR LOSS on page 3 of their tax return, unless:\n- they had a distribution from a partnership or trust\n- they had income or losses from rent or business (including personal services income)\n- they had a capital gain or foreign source income\n- they made a deposit into a Farm Management Deposit Scheme Account, or\n- they claimed a deductible amount for a foreign pension or annuity at item D11 on their tax return (supplementary section).\nIf any of these apply phone 13 10 20 for help to work out your spouse's assessable income before completing this item.\nYour spouse's reportable fringe benefits amounts and reportable employer superannuation contributions are shown on their payment summaries.\nThe tax offset is calculated as 18% of the lesser of:\n- $3,000, reduced by $1 for every $1 that the sum of your spouse's assessable income, total reportable fringe benefits amounts and reportable employer superannuation contributions for the year was more than $10,800\n- the total of your contributions for your spouse for the year.\nThe tax offset for eligible spouse contributions cannot be claimed for superannuation contributions that you made to satisfy a family law obligation to split contributions with your spouse.\n## Completing this item\n### Step 1\nWrite the total of your contributions at Contributions paid item T3 on your tax return.\n### Step 2\nIf the sum of your spouse's assessable income, total reportable fringe benefits amounts and reportable employer superannuation contributions was $10,800 or less, use worksheet 1 .\nIf the sum of your spouse's assessable income, total reportable fringe benefits amounts and reportable employer superannuation contributions was more than $10,800 but less than $13,800, use worksheet 2 .\nRow | Calculation | Amount\na | Maximum spouse contributions eligible for the tax offset | $3,000\nb | Amount of contributions paid | $\nc | Write the lesser of row a or b . | $\nd | Multiply row c by 18 and divide by 100. | $\nRow | Calculation | Amount\na | Maximum spouse contributions eligible for the tax offset | $3,000\nb | The sum of your spouse's assessable income, total reportable fringe benefits amounts and reportable employer superannuation contributions | $\nc | Base amount | $10,800\nd | Take row c away from row b . | $\ne | Take row d away from row a . | $\nf | Amount of contributions paid | $\ng | Write the lesser of row e or row f . | $\nh | Multiply row g by 18 and divide by 100. | $\n### Step 3\nThe tax offset is the amount shown at row d on worksheet 1 or row h on worksheet 2 . Write this amount at A item T3 . Do not show cents.\nIf you had more than one spouse during the year, complete steps 1 to 3 for each spouse. Your tax offset is the lesser of:\n- the sum of the tax offset you are entitled to for each spouse, or\n- $540.\nWrite this amount at A item T3 . Do not show cents.\n### Step 4\nMake sure you complete Spouse details - married or de facto on pages 8–9 of your tax return. Include your spouse's taxable income at O , your spouse's total reportable fringe benefits amounts at R or S and your spouse's reportable employer superannuation contributions at A .\nSee the definition of spouse in Special circumstances and glossary 2017 .\nTo work out your entitlement to this tax offset you would have used your spouse's assessable income, reportable fringe benefits amounts and reportable employer superannuation contributions. However, because we use taxable income to calculate many other entitlements, we ask you to record your spouse's taxable income (not assessable income) at Spouse details - married or de facto .\n## Where to go next\n- Go to question T4 Zone or overseas forces 2017\n- Return to main menu Individual tax return instructions 2017\n- Go back to Total supplement deductions 2017",
+  "child_links": [],
+  "word_count": 976,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

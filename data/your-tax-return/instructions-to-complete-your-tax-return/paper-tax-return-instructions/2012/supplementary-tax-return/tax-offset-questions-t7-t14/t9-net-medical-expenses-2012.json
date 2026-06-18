@@ -1,0 +1,269 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2012/supplementary-tax-return/tax-offset-questions-t7-t14/t9-net-medical-expenses-2012",
+  "title": "T9 - 20% tax offset on net medical expenses over the threshold amount 2012",
+  "description": "Complete question T9 if you want to claim a tax offset for net medical expenses over the threshold amount.",
+  "nat_number": "71051",
+  "quick_code": "25748",
+  "date_updated": "2012-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, medical expenses, 20% medical expenses tax offset, medical expenses rebate",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Did you have net medical expenses over $2,060 in 2011-12?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Medical expenses do not include contributions to a private health insurer, travel or accommodation expenses associated with medical treatment, or inoculations for overseas travel."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to question T10 - Dependent relative , or return to main menu Individual tax return instructions"
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Net medical expenses are the medical expenses you have paid less any refunds of these expenses which you or any other person has received, or are entitled to receive, from Medicare or a private health insurer."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim a tax offset of 20% (that is, 20 cents in the dollar) of your net medical expenses over $2,060. There is no upper limit on the amount you can claim."
+    },
+    {
+      "type": "paragraph",
+      "text": "When calculating your medical expenses you can only include an amount paid for your dependants who were Australian residents for tax purposes ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The medical expenses must be for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you",
+        "your spouse, regardless of their income (see the definition of spouse in Special circumstances and glossary )",
+        "your children who were under 21 years old (including your adopted children, stepchildren, ex-nuptial children and children of your spouse) regardless of their income",
+        "any other child under 21 years old whom you maintained, who was not a student and whose adjusted taxable income (ATI)* for the period you maintained them was less than",
+        "for the first child under 21 years old the total of $282 plus $28.92 for each week you maintained them, or $1,786 if you maintained them for the whole year for any other child under 21 years old the total of $282 plus $21.70 for each week you maintained them, or $1,410 if you maintained them for the whole year",
+        "a student under 25 years old whom you maintained and whose ATI* was less than",
+        "the total of $282 plus $28.92 for each week you maintained them, or $1,786 if you maintained them for the whole year",
+        "a child-housekeeper, but only if you can claim a tax offset for them at item T1 on your tax return",
+        "an invalid relative, parent or spouse's parent, but only if you can claim a dependant tax offset at item T10 ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "*For the definition of ATI and how it is calculated, see Adjusted taxable income (ATI) for you and your dependants ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You and your dependants must be Australian residents for tax purposes, but you can include medical expenses paid while travelling overseas."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can include medical expenses relating to an illness or operation paid to legally qualified doctors, nurses or chemists and public or private hospitals. However, expenses for some cosmetic operations are excluded."
+    },
+    {
+      "type": "paragraph",
+      "text": "To find out which operations, dental services and treatments are cosmetic and whether you can include your payments for them, see Net medical expenses: claims for cosmetic surgery or phone 13 28 61 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medical expenses include payments:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "to dentists, orthodontists or registered dental mechanics",
+        "to opticians or optometrists, including for the cost of prescription spectacles or contact lenses",
+        "to a carer who looks after a person who is blind or permanently confined to a bed or wheelchair",
+        "for therapeutic treatment under the direction of a doctor",
+        "for medical aids prescribed by a doctor",
+        "for artificial limbs or eyes and hearing aids",
+        "for maintaining a properly trained dog for guiding or assisting people with a disability (but not for social therapy)",
+        "for laser eye surgery, and",
+        "for treatment under an in-vitro fertilisation program."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Expenses which do not qualify as medical expenses include payments made for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "cosmetic operations for which a Medicare benefit is not payable",
+        "dental services or treatments that are solely cosmetic",
+        "therapeutic treatment where the patient is not formally referred by a doctor (a mere suggestion or recommendation by a doctor to the patient is not enough for the treatment to qualify; the patient must be referred to a particular person for specific treatment)",
+        "chemist-type items, such as tablets for pain relief, purchased in retail outlets or health food stores",
+        "inoculations for overseas travel",
+        "non-prescribed vitamins or health foods",
+        "travel or accommodation expenses associated with medical treatment",
+        "contributions to a private health insurer",
+        "purchases from a chemist that are not related to an illness or operation",
+        "life insurance medical examinations",
+        "ambulance charges and subscriptions, and",
+        "funeral expenses."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Residential aged care expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can include payments made to nursing homes or hostels (not retirement homes) for an approved care recipient's permanent or respite care if the payments were:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "made to an approved care provider and",
+        "for personal or nursing care, not just for accommodation."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "An approved care recipient's residential aged care payments usually include an amount for personal or nursing care if the recipient has an aged care assessment team (ACAT) assessment that they require either low or high-level care."
+    },
+    {
+      "type": "paragraph",
+      "text": "Residential aged care payments can be for:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "daily fees",
+        "income tested daily fees",
+        "extra service fees, and",
+        "accommodation charges, periodic payments of accommodation bonds or amounts drawn from accommodation bonds paid as a lump sum."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The following are expenses which cannot be included:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "lump sum payments of accommodation bonds",
+        "interest derived by care providers from the investment of accommodation bonds (because these are not payments for residential aged care)",
+        "payments for people who were residents of a hostel before 1 October 1997 and who did not have a personal care subsidy or a respite care subsidy paid on their behalf at the personal care subsidy rate by the Commonwealth (unless they have subsequently been reassessed as requiring care at levels 1 to 7 or received an ACAT assessment showing that they require either low or high level care)",
+        "payments for people who have either been assessed as requiring level 8 care or who have not received an ACAT assessment showing that they require either low or high level care."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you may need"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Details of medical expenses you paid",
+        "Details of refunds of these expenses which you or any other person has received, or are entitled to receive, from Medicare or a private health insurer."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To help you work out what medical expenses you paid in 2011-12, you can ask for an itemised statement from:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Medicare",
+        "your private health insurer",
+        "chemists where you had prescriptions filled."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Some of the items shown on these statements may not qualify as medical expenses for the purpose of claiming the tax offset. You will need to exclude these items when calculating your allowable medical expenses."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this item"
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your tax offset, you can use the net medical expenses tax offset calculator or use the worksheet below."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet"
+        ],
+        [
+          "Add up all your allowable medical expenses.",
+          "$",
+          "(a)"
+        ],
+        [
+          "Add up all the refunds of these expenses which you or any other person has received or are entitled to receive.",
+          "$",
+          "(b)"
+        ],
+        [
+          "Take (b) away from (a). This is your net medical expenses amount.",
+          "$",
+          "(c)"
+        ],
+        [
+          "Take $2,060 away from (c).",
+          "$",
+          "(d)"
+        ],
+        [
+          "If the amount at (d) is $0 or less, you cannot claim a tax offset."
+        ],
+        [
+          "Divide (d) by 5 (to get 20%). The amount at (e) is your medical expenses tax offset.",
+          "$",
+          "(e)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the amount of your medical expenses tax offset at X item T9 on page 16 of your tax return. Do not show cents."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question T10 - Dependent relative return to main menu Individual tax return instructions go back to T8 - Zone or overseas forces"
+        ]
+      ]
+    }
+  ],
+  "content_text": "## Did you have net medical expenses over $2,060 in 2011-12?\nMedical expenses do not include contributions to a private health insurer, travel or accommodation expenses associated with medical treatment, or inoculations for overseas travel.\nNO | Go to question T10 - Dependent relative , or return to main menu Individual tax return instructions\nYES | Read below.\n## You need to know\nNet medical expenses are the medical expenses you have paid less any refunds of these expenses which you or any other person has received, or are entitled to receive, from Medicare or a private health insurer.\nYou can claim a tax offset of 20% (that is, 20 cents in the dollar) of your net medical expenses over $2,060. There is no upper limit on the amount you can claim.\nWhen calculating your medical expenses you can only include an amount paid for your dependants who were Australian residents for tax purposes .\nThe medical expenses must be for:\n- you\n- your spouse, regardless of their income (see the definition of spouse in Special circumstances and glossary )\n- your children who were under 21 years old (including your adopted children, stepchildren, ex-nuptial children and children of your spouse) regardless of their income\n- any other child under 21 years old whom you maintained, who was not a student and whose adjusted taxable income (ATI)* for the period you maintained them was less than\n- for the first child under 21 years old the total of $282 plus $28.92 for each week you maintained them, or $1,786 if you maintained them for the whole year for any other child under 21 years old the total of $282 plus $21.70 for each week you maintained them, or $1,410 if you maintained them for the whole year\n- a student under 25 years old whom you maintained and whose ATI* was less than\n- the total of $282 plus $28.92 for each week you maintained them, or $1,786 if you maintained them for the whole year\n- a child-housekeeper, but only if you can claim a tax offset for them at item T1 on your tax return\n- an invalid relative, parent or spouse's parent, but only if you can claim a dependant tax offset at item T10 .\n*For the definition of ATI and how it is calculated, see Adjusted taxable income (ATI) for you and your dependants .\nYou and your dependants must be Australian residents for tax purposes, but you can include medical expenses paid while travelling overseas.\nYou can include medical expenses relating to an illness or operation paid to legally qualified doctors, nurses or chemists and public or private hospitals. However, expenses for some cosmetic operations are excluded.\nTo find out which operations, dental services and treatments are cosmetic and whether you can include your payments for them, see Net medical expenses: claims for cosmetic surgery or phone 13 28 61 .\nMedical expenses include payments:\n- to dentists, orthodontists or registered dental mechanics\n- to opticians or optometrists, including for the cost of prescription spectacles or contact lenses\n- to a carer who looks after a person who is blind or permanently confined to a bed or wheelchair\n- for therapeutic treatment under the direction of a doctor\n- for medical aids prescribed by a doctor\n- for artificial limbs or eyes and hearing aids\n- for maintaining a properly trained dog for guiding or assisting people with a disability (but not for social therapy)\n- for laser eye surgery, and\n- for treatment under an in-vitro fertilisation program.\nExpenses which do not qualify as medical expenses include payments made for:\n- cosmetic operations for which a Medicare benefit is not payable\n- dental services or treatments that are solely cosmetic\n- therapeutic treatment where the patient is not formally referred by a doctor (a mere suggestion or recommendation by a doctor to the patient is not enough for the treatment to qualify; the patient must be referred to a particular person for specific treatment)\n- chemist-type items, such as tablets for pain relief, purchased in retail outlets or health food stores\n- inoculations for overseas travel\n- non-prescribed vitamins or health foods\n- travel or accommodation expenses associated with medical treatment\n- contributions to a private health insurer\n- purchases from a chemist that are not related to an illness or operation\n- life insurance medical examinations\n- ambulance charges and subscriptions, and\n- funeral expenses.\n### Residential aged care expenses\nYou can include payments made to nursing homes or hostels (not retirement homes) for an approved care recipient's permanent or respite care if the payments were:\n- made to an approved care provider and\n- for personal or nursing care, not just for accommodation.\nAn approved care recipient's residential aged care payments usually include an amount for personal or nursing care if the recipient has an aged care assessment team (ACAT) assessment that they require either low or high-level care.\nResidential aged care payments can be for:\n- daily fees\n- income tested daily fees\n- extra service fees, and\n- accommodation charges, periodic payments of accommodation bonds or amounts drawn from accommodation bonds paid as a lump sum.\nThe following are expenses which cannot be included:\n- lump sum payments of accommodation bonds\n- interest derived by care providers from the investment of accommodation bonds (because these are not payments for residential aged care)\n- payments for people who were residents of a hostel before 1 October 1997 and who did not have a personal care subsidy or a respite care subsidy paid on their behalf at the personal care subsidy rate by the Commonwealth (unless they have subsequently been reassessed as requiring care at levels 1 to 7 or received an ACAT assessment showing that they require either low or high level care)\n- payments for people who have either been assessed as requiring level 8 care or who have not received an ACAT assessment showing that they require either low or high level care.\n## What you may need\n- Details of medical expenses you paid\n- Details of refunds of these expenses which you or any other person has received, or are entitled to receive, from Medicare or a private health insurer.\nTo help you work out what medical expenses you paid in 2011-12, you can ask for an itemised statement from:\n- Medicare\n- your private health insurer\n- chemists where you had prescriptions filled.\nSome of the items shown on these statements may not qualify as medical expenses for the purpose of claiming the tax offset. You will need to exclude these items when calculating your allowable medical expenses.\n## Completing this item\nTo work out your tax offset, you can use the net medical expenses tax offset calculator or use the worksheet below.\nWorksheet\nAdd up all your allowable medical expenses. | $ | (a)\nAdd up all the refunds of these expenses which you or any other person has received or are entitled to receive. | $ | (b)\nTake (b) away from (a). This is your net medical expenses amount. | $ | (c)\nTake $2,060 away from (c). | $ | (d)\nIf the amount at (d) is $0 or less, you cannot claim a tax offset.\nDivide (d) by 5 (to get 20%). The amount at (e) is your medical expenses tax offset. | $ | (e)\nWrite the amount of your medical expenses tax offset at X item T9 on page 16 of your tax return. Do not show cents.\nWhere to go next go to question T10 - Dependent relative return to main menu Individual tax return instructions go back to T8 - Zone or overseas forces",
+  "child_links": [],
+  "word_count": 1289,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,222 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/paying-the-ato/help-with-paying/payment-plans/managing-your-payment-plan",
+  "title": "Managing your payment plan",
+  "description": "How to change how you pay, modify instalments or check the status of your payment plan.",
+  "nat_number": "",
+  "quick_code": "106183",
+  "date_updated": "2026-02-24T03:28:50Z",
+  "first_published": true,
+  "keywords": "pay tax, bill, debt, hardship, interest, interest-free payments, late payment, make a payment, payment arrangement, payment plans, payments, tax debts, tax obligations, interest-free, help with paying, secured payment plan, securities, payment plan, help with paying, payment plan requirements, can&#39;t pay",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Changing how you pay and modify instalments"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can change how you pay and modify instalments for your payment plan . By using online services or contacting us, you can:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "change an instalment from direct debit to a different payment method (including linking from one credit or debit card to another card)",
+        "update your card information",
+        "modify an instalment due date or amount",
+        "cancel an instalment."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you make any changes, you will need to do this at least:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "one business day before the instalment date, if the payment method is direct debit via debit or credit card",
+        "3 business days before the instalment date, if the payment method is direct debit via your bank accounts."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't modify instalments in a payment plan online, if the current plan extends for longer than 24 months or if the changes will extend the plan by longer than 24 months."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Accessing your payment plan in online services"
+    },
+    {
+      "type": "paragraph",
+      "text": "Individuals and sole traders can use ATO online services . From the menu:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "select Tax",
+        "select Payments",
+        "select Payment plans ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Businesses can use Online services for business External Link . From the menu:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "select Accounts and payments",
+        "select Payment plans ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Updating cards in online services"
+    },
+    {
+      "type": "paragraph",
+      "text": "To add a new card:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Select Update for the relevant plan.",
+        "Choose I want to use a new card .",
+        "Complete card and contact details, select Next .",
+        "If required, you can modify instalments, select Next .",
+        "Summary of plan will be displayed for your review – select Submit ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To update a card:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Select Update for the relevant plan.",
+        "Check the card is selected that you want updated.",
+        "Select Yes to update this card .",
+        "Complete required card updates, select Next .",
+        "If required, you can modify instalments, select Next .",
+        "Summary of plan will be displayed for your review – select Submit ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Modify or cancel an instalment due date or amount"
+    },
+    {
+      "type": "paragraph",
+      "text": "To modify or cancel your instalment due date or amount:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Select Update for the relevant plan.",
+        "Select the chevron (downwards arrow) to modify the instalment details as required. Select Cancel Instalment if you want to remove an instalment (amounts can't be below $1).",
+        "Select Save to keep changes select or Cancel to discard them. You must select Save or Cancel or an error will occur.",
+        "Select Save again. This will initiate the Calculate button.",
+        "Select Calculate to preview how your changes affect the payment plan.",
+        "Review the preview to see your updated instalment details.",
+        "Select Submit to apply all changes to your payment plan."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Checking the status of your payment plan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Individuals and sole traders can view the status of their payment plan in ATO online services External Link . Log in, then from the menu select Tax , then Payment , then Payment plans ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Businesses can check their payment plan status in Online services for business External Link . Log in, then from the menu select Accounts and payments ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more detail about the status of each payment plan, select the help icon."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Active"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your payment plan has a status of active, it means that your instalments are on track and no further action is required."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Arrears"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you missed a scheduled instalment or haven’t paid another tax obligation by the due date, your payment plan may remain active but could move into an arrears status."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may receive an arrears letter from us informing you that your accounts are in arrears. This gives you an opportunity to bring your payment plan back on track before your payment plan defaults. The letter will outline:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the minimum amount you need to pay now",
+        "any further actions you need to take to prevent your payment plan from defaulting."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're a myGov user, we'll send this letter to your myGov Inbox first. If you've set up your preference to send correspondence to your tax agent, we'll send the letter to them."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Default"
+    },
+    {
+      "type": "paragraph",
+      "text": "A default occurs when your payment plan is no longer active because you haven't met its conditions. This could include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "not acting on an arrears letter",
+        "missing an agreed instalment by the due date",
+        "not paying an additional tax obligation on time."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your payment plan defaults, the whole overdue balance becomes immediately payable and we may take firmer action ."
+    },
+    {
+      "type": "paragraph",
+      "text": "To prevent a default, it’s important to respond early to arrears letter and stay up to date with any future payments or obligations."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your payment plan has defaulted, contact us to discuss what options might be available to you. This may include re-negotiating a payment plan."
+    }
+  ],
+  "content_text": "## Changing how you pay and modify instalments\nYou can change how you pay and modify instalments for your payment plan . By using online services or contacting us, you can:\n- change an instalment from direct debit to a different payment method (including linking from one credit or debit card to another card)\n- update your card information\n- modify an instalment due date or amount\n- cancel an instalment.\nIf you make any changes, you will need to do this at least:\n- one business day before the instalment date, if the payment method is direct debit via debit or credit card\n- 3 business days before the instalment date, if the payment method is direct debit via your bank accounts.\nYou can't modify instalments in a payment plan online, if the current plan extends for longer than 24 months or if the changes will extend the plan by longer than 24 months.\n### Accessing your payment plan in online services\nIndividuals and sole traders can use ATO online services . From the menu:\n- select Tax\n- select Payments\n- select Payment plans .\nBusinesses can use Online services for business External Link . From the menu:\n- select Accounts and payments\n- select Payment plans .\n#### Updating cards in online services\nTo add a new card:\n- Select Update for the relevant plan.\n- Choose I want to use a new card .\n- Complete card and contact details, select Next .\n- If required, you can modify instalments, select Next .\n- Summary of plan will be displayed for your review – select Submit .\nTo update a card:\n- Select Update for the relevant plan.\n- Check the card is selected that you want updated.\n- Select Yes to update this card .\n- Complete required card updates, select Next .\n- If required, you can modify instalments, select Next .\n- Summary of plan will be displayed for your review – select Submit .\n#### Modify or cancel an instalment due date or amount\nTo modify or cancel your instalment due date or amount:\n- Select Update for the relevant plan.\n- Select the chevron (downwards arrow) to modify the instalment details as required. Select Cancel Instalment if you want to remove an instalment (amounts can't be below $1).\n- Select Save to keep changes select or Cancel to discard them. You must select Save or Cancel or an error will occur.\n- Select Save again. This will initiate the Calculate button.\n- Select Calculate to preview how your changes affect the payment plan.\n- Review the preview to see your updated instalment details.\n- Select Submit to apply all changes to your payment plan.\n## Checking the status of your payment plan\nIndividuals and sole traders can view the status of their payment plan in ATO online services External Link . Log in, then from the menu select Tax , then Payment , then Payment plans .\nBusinesses can check their payment plan status in Online services for business External Link . Log in, then from the menu select Accounts and payments .\nFor more detail about the status of each payment plan, select the help icon.\n### Active\nIf your payment plan has a status of active, it means that your instalments are on track and no further action is required.\n### Arrears\nIf you missed a scheduled instalment or haven’t paid another tax obligation by the due date, your payment plan may remain active but could move into an arrears status.\nYou may receive an arrears letter from us informing you that your accounts are in arrears. This gives you an opportunity to bring your payment plan back on track before your payment plan defaults. The letter will outline:\n- the minimum amount you need to pay now\n- any further actions you need to take to prevent your payment plan from defaulting.\nIf you're a myGov user, we'll send this letter to your myGov Inbox first. If you've set up your preference to send correspondence to your tax agent, we'll send the letter to them.\n### Default\nA default occurs when your payment plan is no longer active because you haven't met its conditions. This could include:\n- not acting on an arrears letter\n- missing an agreed instalment by the due date\n- not paying an additional tax obligation on time.\nIf your payment plan defaults, the whole overdue balance becomes immediately payable and we may take firmer action .\nTo prevent a default, it’s important to respond early to arrears letter and stay up to date with any future payments or obligations.\nIf your payment plan has defaulted, contact us to discuss what options might be available to you. This may include re-negotiating a payment plan.",
+  "child_links": [],
+  "word_count": 800,
+  "source_title": "",
+  "source_description": "",
+  "category": "paying-the-ato"
+}

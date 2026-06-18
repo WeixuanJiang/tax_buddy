@@ -1,0 +1,154 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/data-matching-letters/types-of-letters/sale-of-property",
+  "title": "Sale of property",
+  "description": "What to do when you get a letter from us about reviewing your property sales and correcting mistakes on your BAS.",
+  "nat_number": "",
+  "quick_code": "64572",
+  "date_updated": "2026-06-04T14:00:00Z",
+  "first_published": "",
+  "keywords": "data matching, property, property data matching, gst at settlement, sale of property, property sale",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why we may send you a letter"
+    },
+    {
+      "type": "paragraph",
+      "text": "We compare the GST amounts reported on your business activity statements (BAS) with information we hold about your property transactions, including GST withheld and paid to us by purchasers at settlement (GST property credit)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If it looks like the GST amounts reported at labels 1A or 1B don't align with this information for the relevant period, we may send you a letter asking you to review your information."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "GST and property on how GST apply to property sales and transactions",
+        "GST at settlement – a guide for suppliers and their representatives to help you when supplying new residential premises or potential residential land."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you need to do"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our letter will include a schedule of your BAS lodgment where our records indicate the GST amounts reported at labels 1A or 1B (or both) don’t match information we hold about your property transactions (including the GST property credits)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to review this schedule and compare the information with your records. This includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "ensuring the properties listed on the letter were sold by you (the correct entity)",
+        "checking that the properties did settle in the periods shown by the letter",
+        "checking your BAS to make sure you reported the correct amounts in the period that settlement occurred label 1A ( GST on sales) – report the actual GST on sales, account for the margin scheme if applicable label 1B ( GST on purchases) – report the GST credits (including adjustments) you are eligible to claim on your BAS. Do not include the GST property credit on label 1B (this is the amount withheld at settlement and paid to us by purchasers). GST property credits are applied to your activity statement net amount once your BAS is lodged. We will refund surplus credits from the activity statement account to you, subject to normal GST refund processes."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If something in the schedule doesn’t look right, for example, a GST credit from a property sale has been applied to the wrong account or entity, you can request the ATO transfer it to the correct account by submitting a GST property withholding transfer request ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The most common reasons for this request include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "incorrect entity allocation – if you are part of a GST group, trust or partnership and the credit was allocated to an incorrect ABN. Check which entity made the sale and review the BAS reporting for that entity",
+        "multiple suppliers – if there are several sellers (for example, in a partnership or joint venture) and the credit was not split correctly among them or was assigned to the wrong partner",
+        "if the GST property credit has been applied to an incorrect GST branch",
+        "incorrect settlement date if the sale has been reported in the wrong BAS period, review the settlement date and ensure the sale is reported in the BAS period in which settlement occurred where a company has been wound up, contact the ATO for further assistance."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need to amend your BAS, you can correct your reporting by revising your BAS in ATO online services (your tax or BAS agent can also revise it on your behalf). For more information, see Revising an earlier business activity statement , or phone us on 13 28 66 (Fast Key Code 3 4 )."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see GST at settlement – a guide for suppliers and their representatives including how to submit a GST withholding transfer request, or phone us on 13 28 66 (Fast Key Code 3 4 )."
+    },
+    {
+      "type": "paragraph",
+      "text": "After completing your review, if the reported GST amounts on your BAS are correct, you don’t need to do anything more"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If we need more information"
+    },
+    {
+      "type": "paragraph",
+      "text": "We may still follow up our letter to ask you to provide supporting documents, including:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a contract of sale",
+        "working papers showing how you calculated your property sales and the GST amounts reported at label 1A GST property credit at label 1B."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You don’t need to provide these documents unless we request them."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Further information"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "GST and property",
+        "GST at settlement",
+        "GST at settlement – a guide for suppliers and their representatives"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Law companion ruling"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Law Companion Ruling LCR 2018/4 Purchaser's obligation to pay an amount for GST on taxable supplies of certain real property –– this describes how we apply the law"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Legislation"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Treasury Laws Amendment (2018 Measures No. 1) Bill 2018"
+      ]
+    }
+  ],
+  "content_text": "## Why we may send you a letter\nWe compare the GST amounts reported on your business activity statements (BAS) with information we hold about your property transactions, including GST withheld and paid to us by purchasers at settlement (GST property credit).\nIf it looks like the GST amounts reported at labels 1A or 1B don't align with this information for the relevant period, we may send you a letter asking you to review your information.\nFor more information, see:\n- GST and property on how GST apply to property sales and transactions\n- GST at settlement – a guide for suppliers and their representatives to help you when supplying new residential premises or potential residential land.\n## What you need to do\nOur letter will include a schedule of your BAS lodgment where our records indicate the GST amounts reported at labels 1A or 1B (or both) don’t match information we hold about your property transactions (including the GST property credits).\nYou need to review this schedule and compare the information with your records. This includes:\n- ensuring the properties listed on the letter were sold by you (the correct entity)\n- checking that the properties did settle in the periods shown by the letter\n- checking your BAS to make sure you reported the correct amounts in the period that settlement occurred label 1A ( GST on sales) – report the actual GST on sales, account for the margin scheme if applicable label 1B ( GST on purchases) – report the GST credits (including adjustments) you are eligible to claim on your BAS. Do not include the GST property credit on label 1B (this is the amount withheld at settlement and paid to us by purchasers). GST property credits are applied to your activity statement net amount once your BAS is lodged. We will refund surplus credits from the activity statement account to you, subject to normal GST refund processes.\nIf something in the schedule doesn’t look right, for example, a GST credit from a property sale has been applied to the wrong account or entity, you can request the ATO transfer it to the correct account by submitting a GST property withholding transfer request .\nThe most common reasons for this request include:\n- incorrect entity allocation – if you are part of a GST group, trust or partnership and the credit was allocated to an incorrect ABN. Check which entity made the sale and review the BAS reporting for that entity\n- multiple suppliers – if there are several sellers (for example, in a partnership or joint venture) and the credit was not split correctly among them or was assigned to the wrong partner\n- if the GST property credit has been applied to an incorrect GST branch\n- incorrect settlement date if the sale has been reported in the wrong BAS period, review the settlement date and ensure the sale is reported in the BAS period in which settlement occurred where a company has been wound up, contact the ATO for further assistance.\nIf you need to amend your BAS, you can correct your reporting by revising your BAS in ATO online services (your tax or BAS agent can also revise it on your behalf). For more information, see Revising an earlier business activity statement , or phone us on 13 28 66 (Fast Key Code 3 4 ).\nFor more information, see GST at settlement – a guide for suppliers and their representatives including how to submit a GST withholding transfer request, or phone us on 13 28 66 (Fast Key Code 3 4 ).\nAfter completing your review, if the reported GST amounts on your BAS are correct, you don’t need to do anything more\n### If we need more information\nWe may still follow up our letter to ask you to provide supporting documents, including:\n- a contract of sale\n- working papers showing how you calculated your property sales and the GST amounts reported at label 1A GST property credit at label 1B.\nYou don’t need to provide these documents unless we request them.\n### Further information\n- GST and property\n- GST at settlement\n- GST at settlement – a guide for suppliers and their representatives\n### Law companion ruling\n- Law Companion Ruling LCR 2018/4 Purchaser's obligation to pay an amount for GST on taxable supplies of certain real property –– this describes how we apply the law\n### Legislation\n- Treasury Laws Amendment (2018 Measures No. 1) Bill 2018",
+  "child_links": [],
+  "word_count": 751,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

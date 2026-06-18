@@ -1,0 +1,843 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2023/supplementary-tax-return/income-questions-13-24/18-capital-gains-2023",
+  "title": "18 Capital gains 2023",
+  "description": "Complete question 18 to report capital gains tax events, capital gains (income) and capital losses.",
+  "nat_number": "",
+  "quick_code": "71995",
+  "date_updated": "2023-05-24T14:00:00Z",
+  "first_published": "",
+  "keywords": "Capital gains tax (CGT), TaxPack, supplement, capital gains 2023, CGT, income, paper form, paper return and paper lodgement, 2023",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things you need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show at this question a 'listed investment company capital gain amount' included in a dividend paid by a listed investment company. See question D8 Dividend deductions 2023 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may have made a capital gain, or capital loss, if a capital gains tax (CGT) event happened in 2022–23. For most CGT events, you make a:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "capital gain if the amount of money and property you received, or were entitled to receive, from the CGT event was more than the cost base of your asset; you may then have to pay tax on your capital gain",
+        "capital loss if the amount of money and property you received, or were entitled to receive, from the CGT event was less than the reduced cost base of your asset."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a Norfolk Island resident , CGT may apply to assets acquired after 23 October 2015. CGT remains payable on Australian mainland assets."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Keeping records from the start"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must keep records of every act, transaction, event or circumstance that may be relevant to working out your capital gain or capital loss, regardless of whether the CGT event has already happened, is about to happen or may happen in the future."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must keep these records for 5 years from the time when no CGT event or further CGT event can happen. The records for these CGT events may be relevant to working out whether you have made a capital gain or capital loss from the CGT event."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is a wide range of CGT events. The most common CGT event happens when you sell or give away a CGT asset, such as:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "real estate, including your family home, holiday home, investment property, hobby farm or vacant block of land",
+        "shares",
+        "units in a unit trust or managed investment fund",
+        "forestry managed investment scheme interests (as a subsequent participant)",
+        "crypto assets",
+        "collectables, for example, jewellery",
+        "personal use assets."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Other CGT events happen, such as:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an asset you owned was lost or destroyed",
+        "you received an amount for entering into an agreement, for example, you agreed not to work in a particular industry for a set period of time",
+        "you entered into a conservation covenant over land that you owned",
+        "you received a non-assessable payment from a trust or company."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You may also have made a capital gain if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were a beneficiary of, or had money invested in, a trust (including a managed investment fund), and",
+        "the trust made a capital gain."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are not sure whether a CGT event happened in 2022–23, see Appendix 1: Summary of CGT events in Guide to capital gains tax 2023 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't deduct a capital loss from your assessable income , but in most cases it can be used to reduce a capital gain you made in 2022–23. If you made no capital gain in 2022–23, defer the capital loss till you make a capital gain. See the note at step 3 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, you disregard a capital gain or capital loss on:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "disposal of your main residence, if you were an Australian resident for tax purposes when you signed the sale contract",
+        "assets you acquired before 20 September 1985",
+        "cars, motorcycles and similar vehicles",
+        "personal use assets such as boats, furniture, electrical goods and household items used or kept mainly for personal use or enjoyment which you acquired for $10,000 or less. If you acquired, it for more than $10,000, you disregard only capital losses for $10,000 or less, you disregard both capital gains and capital losses",
+        "collectables – for example, an antique or jewellery, which you acquired for $500 or less",
+        "compensation you received for personal injury",
+        "the exchange of shares or units you owned in a company or trust under a takeover, if certain conditions were met",
+        "shares in a company, or interests in a trust, where there was a demerger and certain conditions were met",
+        "disposal of shares in a pooled development fund",
+        "shares in a qualifying early stage innovation company (ESIC) held for less than 10 years and, in the case of capital gains, the shares were also held for at least 12 months; see Tax incentives for early stage investors",
+        "disposal of certain investments by a venture capital limited partnership an early stage venture capital limited partnership an Australian venture capital fund of funds",
+        "disposal of an asset to which the small business 15-year exemption applies",
+        "transfer of an asset where the Small business restructure roll-over is available (gains or losses are deferred until the asset is disposed of)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a foreign resident beneficiary of a trust , and if 'managed-investment trust withholding tax' is payable on an amount that you received from that trust (other than in the capacity of a trustee), do not include any part of that amount in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you have a capital gains tax event in 2022–23?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Print X in the No box at question 18 – label G if you did not have a capital gain or your capital gains and losses were deferred. Go to step 4 ."
+        ],
+        [
+          "Yes",
+          "Print X in the Yes box at question 18 – label G if you had a capital gain or a capital loss that was not deferred. Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you dispose of shares, stapled securities or rights acquired under an employee share scheme?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of the capital gain may be reduced if you acquired the shares, stapled securities or rights under an employee share scheme ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you receive, or were you entitled to receive, a share of the income of a trust or managed fund?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Managed funds (unit trusts) include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "property trusts",
+        "share trusts",
+        "equity trusts",
+        "growth trusts",
+        "imputation trusts",
+        "balanced trusts."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Other trusts include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "discretionary trusts",
+        "family trusts",
+        "hybrid trusts",
+        "business trusts."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Distributions from trusts and managed funds can include 2 components that have CGT consequences:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "distributions of trust income where the trust's net income for tax purposes includes a net capital gain",
+        "distributions of non-assessable amounts."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to know whether your distribution includes these 2 amounts. To find out, check the statement (distribution statement, year-end or annual statement) from the trust. The statement should also show which method the trust used to calculate the capital gains included in the trust's net capital gain. There are 3 methods of calculating capital gains:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "indexation",
+        "discount",
+        "'other'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You must use the same method as the trust to calculate your own net capital gain."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trustees and fund managers may use different terms to describe the calculation methods they have used and they may refer to capital gains calculated using the indexation and 'other' methods as 'non-discount gains'. If you are in doubt, check with your trust or fund manager."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your distribution statement may include amounts called:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "NCMI capital gains",
+        "Excluded from NCMI capital gains."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Include both these amounts in the calculation of the net capital gain at question 18 – label A ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you make a capital gain or capital loss on your shares?"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may make a capital gain or capital loss by selling or giving away your shares, including by selling them to the company under a share buy-back arrangement. Even if you did not pay for your shares, for example, you received them under a demutualisation, you may make a capital gain or capital loss when you sell or give them away."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you used dividends to acquire additional shares in a company – for example, through a dividend reinvestment plan, the additional shares are subject to CGT if you sell them or give them away."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are other ways of making a capital gain or capital loss on shares, such as:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If you held shares in a company and during 2022–23 a liquidator or administrator declared the shares worthless, you may claim a capital loss equal to the reduced cost base of the shares (otherwise you may have to wait until the company is dissolved to claim the capital loss).",
+        "If you received a return of capital amount (a non-assessable payment) you may have to reduce the cost base and reduced cost base of your shares. If the amount of the non-assessable payment is more than the cost base of the shares, the difference is a capital gain."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you make a capital gain or a capital loss on crypto assets?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A CGT event occurs when you dispose of your crypto assets . You may make a capital gain or a capital loss if one of the following occurs:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you sell, trade, exchange or swap your crypto assets",
+        "you use it to obtain goods or services",
+        "you acquired crypto assets as an investment and have disposed of it."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your disposal of the crypto asset is part of a business you carry on, or part of a commercial transaction that you enter into with an intention of making a profit or gain, the profits you make on the disposal will generally be assessable as ordinary income and not as a capital gain."
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you sell a property you inherited?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Capital gains tax applies when you dispose of a CGT asset that you inherited. However, if you inherited real estate, you may not have to pay CGT if you sold it within 2 years of the person's death; for example, if the property was the deceased person's main residence just before they died and they were not:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "renting out any of the property",
+        "using any of the property for business purposes",
+        "a foreign resident."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you inherit an Australian residential property from a deceased person who had been a foreign resident for 6 years or less at the time of their death, the main residence exemption that the deceased accrued for the dwelling is available to you as the beneficiary. The main residence exemption means you may not pay CGT on any capital gain made after you sell or dispose of the property, depending on the use of the property by both you and the deceased."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you inherit an Australian residential property from a deceased person who had been a foreign resident for more than 6 years at the time of their death, any main residence exemption that the deceased person may have accrued for that dwelling is not available to you. This means you may have to pay CGT when you sell or dispose of the property."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you inherit an Australian residential property and you have been a foreign resident for more than 6 years when you sell or dispose of the property, you can't claim the main residence exemption for your ownership period."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Your home may be subject to capital gains tax"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the 'main residence exemption', you generally do not have to pay CGT on the disposal of your main residence if you are an Australian resident for tax purposes at the time of the disposal. However, you may have to pay tax on some of your capital gain if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the property was not your main residence for the whole period you owned it",
+        "you used the property, or part of it, to produce assessable income (for example, you rented it out)",
+        "the land area was greater than 2 hectares."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The creation, variation or termination of a granny flat arrangement from 1 July 2021 should not affect the main residence exemption."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Asset transfer on marriage or relationship breakdown"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you transferred an asset to your spouse as a result of a marriage or relationship breakdown, in certain cases, there are no immediate CGT consequences. In these cases, there is automatic rollover (you cannot choose whether or not it applies)."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, the person who received the asset (the transferee spouse) will usually make a capital gain or capital loss when they dispose of the asset. If you were the transferee spouse and rollover applies, you may need to get cost base information from your former spouse or their tax adviser."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your spouse includes another person who:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were in a relationship with that was registered under a prescribed state or territory law",
+        "although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Tax incentives for investments in affordable housing"
+    },
+    {
+      "type": "paragraph",
+      "text": "On 12 December 2019, the law was amended to allow an additional affordable housing capital gains discount of up to 10% to Australian resident individuals who provide affordable rental housing to people earning low to moderate income. To qualify for this additional discount, you must have provided qualifying affordable rental housing through a registered community housing provider:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "on or after 1 January 2018 for a period, or periods, totalling at least 3 years (1,095 days), which may be aggregate usage over different periods",
+        "either directly, or through an interposed entity from a trust or managed investment trust. The interposed entity or trust may be a trust or partnership, other than a public unit trust or superannuation fund."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The number of days you may have provided affordable housing before 1 January 2018 will not be counted."
+    },
+    {
+      "type": "paragraph",
+      "text": "This law change is relevant for CGT events occurring on or after 30 December 2020 as this is the first date that you may be able to satisfy the 3-year period to qualify for the additional discount."
+    },
+    {
+      "type": "paragraph",
+      "text": "The overall effect of this additional affordable housing capital gains discount is that the total capital gains discount is now increased from a maximum of 50% to a maximum of 60% for some qualifying investors."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you invested directly in affordable housing, you should have received an annual affordable housing certificate from your community housing provider showing the number of days your investment property was used to provide affordable housing. If you invested in affordable housing through a trust or managed investment trust, you may need to contact the trustee to get the number of affordable housing days in order to work out your additional affordable housing capital gains discount percentage."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Granny flat arrangements"
+    },
+    {
+      "type": "paragraph",
+      "text": "From 1 July 2021 no CGT event arises to eligible individuals on certain granny flat arrangements if the arrangement satisfies the requirements of the provisions. A granny flat arrangement is a written agreement that gives an eligible person the right to occupy a property for life."
+    },
+    {
+      "type": "paragraph",
+      "text": "The CGT exemption will apply to the creation, variation or termination of a granny flat arrangement."
+    },
+    {
+      "type": "paragraph",
+      "text": "An arrangement is a granny flat arrangement if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the owner or owners of the property are individuals",
+        "one or more eligible people have an eligible granny flat interest in the property",
+        "the owners and the people with the granny flat interest enter into a written and binding granny flat arrangement . This arrangement must not be commercial in nature ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A granny flat interest is where an individual has a right to occupy a property for life under a granny flat arrangement. A granny flat interest can be held in any type of property, provided it is a dwelling. This includes the owner's main residence or a separate property. It is not restricted to what is commonly referred to as a 'granny flat'. The interest may be in part or all of the property."
+    },
+    {
+      "type": "paragraph",
+      "text": "A granny flat arrangement can be entered into between the property owner or owners and any eligible party (meaning family or friends). At the time the eligible party entered into the arrangement they must either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "have reached pension age External Link",
+        "require assistance for day-to-day activities because of a disability."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Foreign residents"
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign residents who are individuals are subject to CGT on:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "direct interests in real estate located in Australia",
+        "an interest in an entity where they and their associates hold 10% or more of the entity and the value of their interest is principally attributable to Australian real estate",
+        "an asset they have used in carrying on a business through a permanent establishment in Australia",
+        "an option or right to acquire one of the above."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were a foreign resident at the time you disposed of your property in Australia, you are not entitled to the CGT main residence exemption (regardless of the period the property was your main residence in Australia and the 6-year absence rule)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you acquired the property at or after 7:30 pm (AEST) on 9 May 2017, you are entitled to the CGT main residence exemption if certain life events occur within a continuous period of 6 years of you becoming a foreign resident for tax purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Main residence exemption for foreign residents ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Foreign resident capital gains withholding (FRCGW)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the FRCGW rules, foreign residents that dispose of certain Australian assets may have an amount withheld from the sale proceeds they receive."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, Australian resident vendors could have amounts withheld from their sale proceeds if they:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "dispose of Australian real property with a market value of $750,000 or more, without providing the purchaser with an ATO-issued clearance certificate, or",
+        "dispose of an indirect Australian real property interest without providing the purchaser with a valid vendor declaration (resident)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have had amounts withheld from you during the year, you are entitled to claim a credit for those amounts paid to the Commissioner by the withholder."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Temporary residents"
+    },
+    {
+      "type": "paragraph",
+      "text": "Temporary residents are subject to CGT in the same way as foreign residents."
+    },
+    {
+      "type": "paragraph",
+      "text": "See, Tax-free income for temporary residents in Amounts that you do not pay tax on 2023 for the definition of a temporary resident and details of the exemption."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are special rules for shares and rights acquired under an employee share scheme."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you need to answer this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "To answer this question, you will need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Details of the amount of any unapplied net capital losses from earlier years (this is the amount at label V at the capital gains question in your last year's tax return).",
+        "Documents showing the date you acquired any asset to which a CGT event happened, the date of the CGT event, and the date and amounts of any expenditure you incurred that form part of the cost base and reduced cost base of the asset or are taken into account in working out your capital gain or capital loss.",
+        "Year-end, annual or distribution statements from trusts with net capital gains from which you received or were entitled to receive distributions of income distributions of non-assessable amounts."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You may also need one or more of the following publications to complete this question. They explain the 3 methods available to calculate a capital gain."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Capital gains tax explains what a capital gain is, how it applies, what assets are included and the exceptions and exemptions.",
+        "Guide to capital gains tax 2023 explains how CGT works and will help you to calculate your net capital gain or net capital loss. It covers CGT issues such as the sale of a rental property, vacant land, a holiday home, collectables (for example, jewellery), personal use assets (for example, a boat you use for recreation), and real estate, shares and units you inherited or got from the breakdown of your marriage or relationship.",
+        "Small business CGT concessions explains what concessions are available to small businesses.",
+        "Personal investors guide to capital gains tax 2023 is shorter and simpler than Guide to capital gains tax 2023 . It covers the sale, gift or other disposal of shares and units distribution of capital gains from managed funds non-assessable payments from companies and managed funds."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The personal investors guide to capital gains tax does not cover other CGT events, nor the CGT consequences for bonus shares, shares acquired under an employee share scheme, bonus units, rights and options, and shares and units where a takeover or demerger has occurred; for those see Guide to capital gains tax 2023 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your supplementary tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete this question, follow the steps below."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Read the publication that is relevant to your circumstances and work out:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the amount of your capital gain or capital loss for each CGT event that happened",
+        "the amount of your capital gains from a trust (including a managed fund) for 2022–23."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all your capital gains for 2022–23 (except those that are disregarded) to work out your total current year capital gains."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not apply capital losses, any CGT discounts or the small business concessions (other than the 15-year exemption) to these capital gains."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write this amount at question 18 – label H ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work out your net capital gain or net capital loss. This is the amount remaining after applying to your 2022–23 capital gains whichever of the following items are relevant to you (in the order listed):"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "2022–23 capital losses",
+        "unapplied net capital losses from earlier years",
+        "any CGT discounts (including any additional affordable housing discount)",
+        "the small business 50% active asset reduction",
+        "the small business retirement exemption or rollover."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have capital losses to apply, you will find it to your advantage to apply them first to capital gains that do not qualify for the CGT discount."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are an individual (including a beneficiary of a trust) and you have a discount capital gain, then you may not be entitled to the maximum CGT discount percentage of 50%, if you are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a foreign or temporary resident",
+        "an Australian resident with a period of non-residency after 8 May 2012"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see CGT discount for foreign residents ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the total amount remaining is positive or zero, write it at question 18 – label A ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a negative amount, do not put anything at label A . You have net capital losses to carry forward to later income years. Write the amount at question 18 – label V ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can only use capital losses from collectables to reduce capital gains from collectables. You must disregard capital losses from personal use assets."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Have you applied any exemption, rollover or additional discount?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to step 5 ."
+        ],
+        [
+          "Yes",
+          "Print X in the Yes box at question 18 – label M . Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Using the table below, choose the exemption, rollover or additional discount code that best describes your circumstances. If more than one code applies, choose the code that applies to the largest amount of capital gain."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Code",
+          "CGT exemption or roll-over"
+        ],
+        [
+          "A",
+          "Small business active asset reduction (Subdivision 152-C)"
+        ],
+        [
+          "B",
+          "Small business retirement exemption (Subdivision 152-D)"
+        ],
+        [
+          "C",
+          "Small business rollover (Subdivision 152-E)"
+        ],
+        [
+          "D",
+          "Small business 15-year exemption (Subdivision 152-B)"
+        ],
+        [
+          "E",
+          "Foreign resident CGT exemption (Division 855)"
+        ],
+        [
+          "F",
+          "Scrip for scrip rollover (Subdivision 124-M)"
+        ],
+        [
+          "I",
+          "Main residence exemption (Subdivision 118-B)"
+        ],
+        [
+          "J",
+          "Capital gains disregarded as a result of the sale of a pre-CGT asset"
+        ],
+        [
+          "K",
+          "Disposal or creation of assets in a wholly-owned company (Division 122)"
+        ],
+        [
+          "L",
+          "Replacement asset rollovers (Division 124)"
+        ],
+        [
+          "M",
+          "Exchange of shares or units (Subdivision 124-E)"
+        ],
+        [
+          "N",
+          "Exchange of rights or options (Subdivision 124-F)"
+        ],
+        [
+          "O",
+          "Exchange of shares in one company for shares in another company (Division 615)"
+        ],
+        [
+          "P",
+          "Exchange of units in a unit trust for shares in a company (Division 615)"
+        ],
+        [
+          "R",
+          "Demerger rollover (Subdivision 125-B)"
+        ],
+        [
+          "S",
+          "Same asset rollovers (Division 126)"
+        ],
+        [
+          "T",
+          "Small business restructure rollover (Subdivision 328-G)"
+        ],
+        [
+          "U",
+          "Early stage investor (Subdivision 360-A)"
+        ],
+        [
+          "V",
+          "Venture capital investment (Subdivision 118-F)"
+        ],
+        [
+          "W",
+          "Affordable housing discount"
+        ],
+        [
+          "X",
+          "Other exemptions and rollovers"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the code in the CODE box at question 18 – label M ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use code T if you have either received or disposed of an asset under the small business restructure rollover provisions."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you have any unapplied net capital losses from earlier years?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to step 6 ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use the net capital losses you have from earlier years, and that you have not yet used, to reduce a capital gain in later years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the amount of your net capital losses at question 18 – label V in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If foreign tax was paid on a foreign gain of a capital nature, read Part H in question 20 Foreign source income and foreign assets or property 2023 to work out the amount of foreign income tax offset you can claim. Show the foreign income tax offset at question 20 – label O ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Are you claiming a credit for amounts withheld under the foreign resident capital gains withholding rules?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to Keeping records from the start ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the amount of credit you are claiming at question 18 – label X ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question 19 Foreign entities 2023 .",
+        "Return to main menu Individual tax return instructions 2023 .",
+        "Go back to question 17 Net farm management deposits or repayments 2023 ."
+      ]
+    }
+  ],
+  "content_text": "## Things you need to know\nDo not show at this question a 'listed investment company capital gain amount' included in a dividend paid by a listed investment company. See question D8 Dividend deductions 2023 .\nYou may have made a capital gain, or capital loss, if a capital gains tax (CGT) event happened in 2022–23. For most CGT events, you make a:\n- capital gain if the amount of money and property you received, or were entitled to receive, from the CGT event was more than the cost base of your asset; you may then have to pay tax on your capital gain\n- capital loss if the amount of money and property you received, or were entitled to receive, from the CGT event was less than the reduced cost base of your asset.\nIf you are a Norfolk Island resident , CGT may apply to assets acquired after 23 October 2015. CGT remains payable on Australian mainland assets.\n### Keeping records from the start\nYou must keep records of every act, transaction, event or circumstance that may be relevant to working out your capital gain or capital loss, regardless of whether the CGT event has already happened, is about to happen or may happen in the future.\nYou must keep these records for 5 years from the time when no CGT event or further CGT event can happen. The records for these CGT events may be relevant to working out whether you have made a capital gain or capital loss from the CGT event.\nThere is a wide range of CGT events. The most common CGT event happens when you sell or give away a CGT asset, such as:\n- real estate, including your family home, holiday home, investment property, hobby farm or vacant block of land\n- shares\n- units in a unit trust or managed investment fund\n- forestry managed investment scheme interests (as a subsequent participant)\n- crypto assets\n- collectables, for example, jewellery\n- personal use assets.\nOther CGT events happen, such as:\n- an asset you owned was lost or destroyed\n- you received an amount for entering into an agreement, for example, you agreed not to work in a particular industry for a set period of time\n- you entered into a conservation covenant over land that you owned\n- you received a non-assessable payment from a trust or company.\nYou may also have made a capital gain if:\n- you were a beneficiary of, or had money invested in, a trust (including a managed investment fund), and\n- the trust made a capital gain.\nIf you are not sure whether a CGT event happened in 2022–23, see Appendix 1: Summary of CGT events in Guide to capital gains tax 2023 .\nYou can't deduct a capital loss from your assessable income , but in most cases it can be used to reduce a capital gain you made in 2022–23. If you made no capital gain in 2022–23, defer the capital loss till you make a capital gain. See the note at step 3 .\nGenerally, you disregard a capital gain or capital loss on:\n- disposal of your main residence, if you were an Australian resident for tax purposes when you signed the sale contract\n- assets you acquired before 20 September 1985\n- cars, motorcycles and similar vehicles\n- personal use assets such as boats, furniture, electrical goods and household items used or kept mainly for personal use or enjoyment which you acquired for $10,000 or less. If you acquired, it for more than $10,000, you disregard only capital losses for $10,000 or less, you disregard both capital gains and capital losses\n- collectables – for example, an antique or jewellery, which you acquired for $500 or less\n- compensation you received for personal injury\n- the exchange of shares or units you owned in a company or trust under a takeover, if certain conditions were met\n- shares in a company, or interests in a trust, where there was a demerger and certain conditions were met\n- disposal of shares in a pooled development fund\n- shares in a qualifying early stage innovation company (ESIC) held for less than 10 years and, in the case of capital gains, the shares were also held for at least 12 months; see Tax incentives for early stage investors\n- disposal of certain investments by a venture capital limited partnership an early stage venture capital limited partnership an Australian venture capital fund of funds\n- disposal of an asset to which the small business 15-year exemption applies\n- transfer of an asset where the Small business restructure roll-over is available (gains or losses are deferred until the asset is disposed of).\nIf you are a foreign resident beneficiary of a trust , and if 'managed-investment trust withholding tax' is payable on an amount that you received from that trust (other than in the capacity of a trustee), do not include any part of that amount in your tax return.\nDid you have a capital gains tax event in 2022–23?\nNo | Print X in the No box at question 18 – label G if you did not have a capital gain or your capital gains and losses were deferred. Go to step 4 .\nYes | Print X in the Yes box at question 18 – label G if you had a capital gain or a capital loss that was not deferred. Read on.\nDid you dispose of shares, stapled securities or rights acquired under an employee share scheme?\nThe amount of the capital gain may be reduced if you acquired the shares, stapled securities or rights under an employee share scheme .\nDid you receive, or were you entitled to receive, a share of the income of a trust or managed fund?\nManaged funds (unit trusts) include:\n- property trusts\n- share trusts\n- equity trusts\n- growth trusts\n- imputation trusts\n- balanced trusts.\nOther trusts include:\n- discretionary trusts\n- family trusts\n- hybrid trusts\n- business trusts.\nDistributions from trusts and managed funds can include 2 components that have CGT consequences:\n- distributions of trust income where the trust's net income for tax purposes includes a net capital gain\n- distributions of non-assessable amounts.\nYou need to know whether your distribution includes these 2 amounts. To find out, check the statement (distribution statement, year-end or annual statement) from the trust. The statement should also show which method the trust used to calculate the capital gains included in the trust's net capital gain. There are 3 methods of calculating capital gains:\n- indexation\n- discount\n- 'other'.\nYou must use the same method as the trust to calculate your own net capital gain.\nTrustees and fund managers may use different terms to describe the calculation methods they have used and they may refer to capital gains calculated using the indexation and 'other' methods as 'non-discount gains'. If you are in doubt, check with your trust or fund manager.\nYour distribution statement may include amounts called:\n- NCMI capital gains\n- Excluded from NCMI capital gains.\nInclude both these amounts in the calculation of the net capital gain at question 18 – label A .\nDid you make a capital gain or capital loss on your shares?\nYou may make a capital gain or capital loss by selling or giving away your shares, including by selling them to the company under a share buy-back arrangement. Even if you did not pay for your shares, for example, you received them under a demutualisation, you may make a capital gain or capital loss when you sell or give them away.\nIf you used dividends to acquire additional shares in a company – for example, through a dividend reinvestment plan, the additional shares are subject to CGT if you sell them or give them away.\nThere are other ways of making a capital gain or capital loss on shares, such as:\n- If you held shares in a company and during 2022–23 a liquidator or administrator declared the shares worthless, you may claim a capital loss equal to the reduced cost base of the shares (otherwise you may have to wait until the company is dissolved to claim the capital loss).\n- If you received a return of capital amount (a non-assessable payment) you may have to reduce the cost base and reduced cost base of your shares. If the amount of the non-assessable payment is more than the cost base of the shares, the difference is a capital gain.\nDid you make a capital gain or a capital loss on crypto assets?\nA CGT event occurs when you dispose of your crypto assets . You may make a capital gain or a capital loss if one of the following occurs:\n- you sell, trade, exchange or swap your crypto assets\n- you use it to obtain goods or services\n- you acquired crypto assets as an investment and have disposed of it.\nIf your disposal of the crypto asset is part of a business you carry on, or part of a commercial transaction that you enter into with an intention of making a profit or gain, the profits you make on the disposal will generally be assessable as ordinary income and not as a capital gain.\nDid you sell a property you inherited?\nCapital gains tax applies when you dispose of a CGT asset that you inherited. However, if you inherited real estate, you may not have to pay CGT if you sold it within 2 years of the person's death; for example, if the property was the deceased person's main residence just before they died and they were not:\n- renting out any of the property\n- using any of the property for business purposes\n- a foreign resident.\nIf you inherit an Australian residential property from a deceased person who had been a foreign resident for 6 years or less at the time of their death, the main residence exemption that the deceased accrued for the dwelling is available to you as the beneficiary. The main residence exemption means you may not pay CGT on any capital gain made after you sell or dispose of the property, depending on the use of the property by both you and the deceased.\nIf you inherit an Australian residential property from a deceased person who had been a foreign resident for more than 6 years at the time of their death, any main residence exemption that the deceased person may have accrued for that dwelling is not available to you. This means you may have to pay CGT when you sell or dispose of the property.\nIf you inherit an Australian residential property and you have been a foreign resident for more than 6 years when you sell or dispose of the property, you can't claim the main residence exemption for your ownership period.\n### Your home may be subject to capital gains tax\nUnder the 'main residence exemption', you generally do not have to pay CGT on the disposal of your main residence if you are an Australian resident for tax purposes at the time of the disposal. However, you may have to pay tax on some of your capital gain if:\n- the property was not your main residence for the whole period you owned it\n- you used the property, or part of it, to produce assessable income (for example, you rented it out)\n- the land area was greater than 2 hectares.\nThe creation, variation or termination of a granny flat arrangement from 1 July 2021 should not affect the main residence exemption.\n### Asset transfer on marriage or relationship breakdown\nIf you transferred an asset to your spouse as a result of a marriage or relationship breakdown, in certain cases, there are no immediate CGT consequences. In these cases, there is automatic rollover (you cannot choose whether or not it applies).\nHowever, the person who received the asset (the transferee spouse) will usually make a capital gain or capital loss when they dispose of the asset. If you were the transferee spouse and rollover applies, you may need to get cost base information from your former spouse or their tax adviser.\nYour spouse includes another person who:\n- you were in a relationship with that was registered under a prescribed state or territory law\n- although not legally married to you, lived with you on a genuine domestic basis in a relationship as a couple.\n### Tax incentives for investments in affordable housing\nOn 12 December 2019, the law was amended to allow an additional affordable housing capital gains discount of up to 10% to Australian resident individuals who provide affordable rental housing to people earning low to moderate income. To qualify for this additional discount, you must have provided qualifying affordable rental housing through a registered community housing provider:\n- on or after 1 January 2018 for a period, or periods, totalling at least 3 years (1,095 days), which may be aggregate usage over different periods\n- either directly, or through an interposed entity from a trust or managed investment trust. The interposed entity or trust may be a trust or partnership, other than a public unit trust or superannuation fund.\nThe number of days you may have provided affordable housing before 1 January 2018 will not be counted.\nThis law change is relevant for CGT events occurring on or after 30 December 2020 as this is the first date that you may be able to satisfy the 3-year period to qualify for the additional discount.\nThe overall effect of this additional affordable housing capital gains discount is that the total capital gains discount is now increased from a maximum of 50% to a maximum of 60% for some qualifying investors.\nIf you invested directly in affordable housing, you should have received an annual affordable housing certificate from your community housing provider showing the number of days your investment property was used to provide affordable housing. If you invested in affordable housing through a trust or managed investment trust, you may need to contact the trustee to get the number of affordable housing days in order to work out your additional affordable housing capital gains discount percentage.\n### Granny flat arrangements\nFrom 1 July 2021 no CGT event arises to eligible individuals on certain granny flat arrangements if the arrangement satisfies the requirements of the provisions. A granny flat arrangement is a written agreement that gives an eligible person the right to occupy a property for life.\nThe CGT exemption will apply to the creation, variation or termination of a granny flat arrangement.\nAn arrangement is a granny flat arrangement if:\n- the owner or owners of the property are individuals\n- one or more eligible people have an eligible granny flat interest in the property\n- the owners and the people with the granny flat interest enter into a written and binding granny flat arrangement . This arrangement must not be commercial in nature .\nA granny flat interest is where an individual has a right to occupy a property for life under a granny flat arrangement. A granny flat interest can be held in any type of property, provided it is a dwelling. This includes the owner's main residence or a separate property. It is not restricted to what is commonly referred to as a 'granny flat'. The interest may be in part or all of the property.\nA granny flat arrangement can be entered into between the property owner or owners and any eligible party (meaning family or friends). At the time the eligible party entered into the arrangement they must either:\n- have reached pension age External Link\n- require assistance for day-to-day activities because of a disability.\n### Foreign residents\nForeign residents who are individuals are subject to CGT on:\n- direct interests in real estate located in Australia\n- an interest in an entity where they and their associates hold 10% or more of the entity and the value of their interest is principally attributable to Australian real estate\n- an asset they have used in carrying on a business through a permanent establishment in Australia\n- an option or right to acquire one of the above.\nIf you were a foreign resident at the time you disposed of your property in Australia, you are not entitled to the CGT main residence exemption (regardless of the period the property was your main residence in Australia and the 6-year absence rule).\nIf you acquired the property at or after 7:30 pm (AEST) on 9 May 2017, you are entitled to the CGT main residence exemption if certain life events occur within a continuous period of 6 years of you becoming a foreign resident for tax purposes.\nFor more information, see Main residence exemption for foreign residents .\n### Foreign resident capital gains withholding (FRCGW)\nUnder the FRCGW rules, foreign residents that dispose of certain Australian assets may have an amount withheld from the sale proceeds they receive.\nSimilarly, Australian resident vendors could have amounts withheld from their sale proceeds if they:\n- dispose of Australian real property with a market value of $750,000 or more, without providing the purchaser with an ATO-issued clearance certificate, or\n- dispose of an indirect Australian real property interest without providing the purchaser with a valid vendor declaration (resident).\nIf you have had amounts withheld from you during the year, you are entitled to claim a credit for those amounts paid to the Commissioner by the withholder.\n### Temporary residents\nTemporary residents are subject to CGT in the same way as foreign residents.\nSee, Tax-free income for temporary residents in Amounts that you do not pay tax on 2023 for the definition of a temporary resident and details of the exemption.\nThere are special rules for shares and rights acquired under an employee share scheme.\n## What you need to answer this question\nTo answer this question, you will need:\n- Details of the amount of any unapplied net capital losses from earlier years (this is the amount at label V at the capital gains question in your last year's tax return).\n- Documents showing the date you acquired any asset to which a CGT event happened, the date of the CGT event, and the date and amounts of any expenditure you incurred that form part of the cost base and reduced cost base of the asset or are taken into account in working out your capital gain or capital loss.\n- Year-end, annual or distribution statements from trusts with net capital gains from which you received or were entitled to receive distributions of income distributions of non-assessable amounts.\nYou may also need one or more of the following publications to complete this question. They explain the 3 methods available to calculate a capital gain.\n- Capital gains tax explains what a capital gain is, how it applies, what assets are included and the exceptions and exemptions.\n- Guide to capital gains tax 2023 explains how CGT works and will help you to calculate your net capital gain or net capital loss. It covers CGT issues such as the sale of a rental property, vacant land, a holiday home, collectables (for example, jewellery), personal use assets (for example, a boat you use for recreation), and real estate, shares and units you inherited or got from the breakdown of your marriage or relationship.\n- Small business CGT concessions explains what concessions are available to small businesses.\n- Personal investors guide to capital gains tax 2023 is shorter and simpler than Guide to capital gains tax 2023 . It covers the sale, gift or other disposal of shares and units distribution of capital gains from managed funds non-assessable payments from companies and managed funds.\nThe personal investors guide to capital gains tax does not cover other CGT events, nor the CGT consequences for bonus shares, shares acquired under an employee share scheme, bonus units, rights and options, and shares and units where a takeover or demerger has occurred; for those see Guide to capital gains tax 2023 .\n## Completing your supplementary tax return\nTo complete this question, follow the steps below.\n### Step 1\nRead the publication that is relevant to your circumstances and work out:\n- the amount of your capital gain or capital loss for each CGT event that happened\n- the amount of your capital gains from a trust (including a managed fund) for 2022–23.\n### Step 2\nAdd up all your capital gains for 2022–23 (except those that are disregarded) to work out your total current year capital gains.\nDo not apply capital losses, any CGT discounts or the small business concessions (other than the 15-year exemption) to these capital gains.\nWrite this amount at question 18 – label H .\n### Step 3\nWork out your net capital gain or net capital loss. This is the amount remaining after applying to your 2022–23 capital gains whichever of the following items are relevant to you (in the order listed):\n- 2022–23 capital losses\n- unapplied net capital losses from earlier years\n- any CGT discounts (including any additional affordable housing discount)\n- the small business 50% active asset reduction\n- the small business retirement exemption or rollover.\nIf you have capital losses to apply, you will find it to your advantage to apply them first to capital gains that do not qualify for the CGT discount.\nIf you are an individual (including a beneficiary of a trust) and you have a discount capital gain, then you may not be entitled to the maximum CGT discount percentage of 50%, if you are:\n- a foreign or temporary resident\n- an Australian resident with a period of non-residency after 8 May 2012\nFor more information, see CGT discount for foreign residents .\nIf the total amount remaining is positive or zero, write it at question 18 – label A .\nIf you have a negative amount, do not put anything at label A . You have net capital losses to carry forward to later income years. Write the amount at question 18 – label V .\nYou can only use capital losses from collectables to reduce capital gains from collectables. You must disregard capital losses from personal use assets.\n### Step 4\nHave you applied any exemption, rollover or additional discount?\nNo | Go to step 5 .\nYes | Print X in the Yes box at question 18 – label M . Read on.\nUsing the table below, choose the exemption, rollover or additional discount code that best describes your circumstances. If more than one code applies, choose the code that applies to the largest amount of capital gain.\nCode | CGT exemption or roll-over\nA | Small business active asset reduction (Subdivision 152-C)\nB | Small business retirement exemption (Subdivision 152-D)\nC | Small business rollover (Subdivision 152-E)\nD | Small business 15-year exemption (Subdivision 152-B)\nE | Foreign resident CGT exemption (Division 855)\nF | Scrip for scrip rollover (Subdivision 124-M)\nI | Main residence exemption (Subdivision 118-B)\nJ | Capital gains disregarded as a result of the sale of a pre-CGT asset\nK | Disposal or creation of assets in a wholly-owned company (Division 122)\nL | Replacement asset rollovers (Division 124)\nM | Exchange of shares or units (Subdivision 124-E)\nN | Exchange of rights or options (Subdivision 124-F)\nO | Exchange of shares in one company for shares in another company (Division 615)\nP | Exchange of units in a unit trust for shares in a company (Division 615)\nR | Demerger rollover (Subdivision 125-B)\nS | Same asset rollovers (Division 126)\nT | Small business restructure rollover (Subdivision 328-G)\nU | Early stage investor (Subdivision 360-A)\nV | Venture capital investment (Subdivision 118-F)\nW | Affordable housing discount\nX | Other exemptions and rollovers\nWrite the code in the CODE box at question 18 – label M .\nUse code T if you have either received or disposed of an asset under the small business restructure rollover provisions.\n### Step 5\nDid you have any unapplied net capital losses from earlier years?\nNo | Go to step 6 .\nYes | Read on.\nYou can use the net capital losses you have from earlier years, and that you have not yet used, to reduce a capital gain in later years.\nWrite the amount of your net capital losses at question 18 – label V in your tax return.\nIf foreign tax was paid on a foreign gain of a capital nature, read Part H in question 20 Foreign source income and foreign assets or property 2023 to work out the amount of foreign income tax offset you can claim. Show the foreign income tax offset at question 20 – label O .\n### Step 6\nAre you claiming a credit for amounts withheld under the foreign resident capital gains withholding rules?\nNo | Go to Keeping records from the start .\nYes | Read on.\nWrite the amount of credit you are claiming at question 18 – label X .\n## Where to go next\n- Go to question 19 Foreign entities 2023 .\n- Return to main menu Individual tax return instructions 2023 .\n- Go back to question 17 Net farm management deposits or repayments 2023 .",
+  "child_links": [],
+  "word_count": 4229,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

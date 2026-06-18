@@ -1,0 +1,33 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/check-the-progress-of-your-tax-return",
+  "title": "Check the progress of your tax return",
+  "description": "Check the progress of your tax return using our self-help services. Most returns lodged online process within 2 weeks.",
+  "nat_number": "9173",
+  "quick_code": "32085",
+  "date_updated": "2026-06-14T14:00:00Z",
+  "first_published": "",
+  "keywords": "tax return status, check tax return, POR, track progress of tax return, tax return processing, check the progress",
+  "content_blocks": [],
+  "content_text": "",
+  "child_links": [
+    {
+      "title": "How to track the progress of your tax return",
+      "description": "The quickest and easiest way to check the progress of your tax return is by using our self-help services.",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/check-the-progress-of-your-tax-return/how-to-track-the-progress-of-your-tax-return"
+    },
+    {
+      "title": "Status of your tax return",
+      "description": "Find out what the status of your tax return means and reasons it may be delayed.",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/check-the-progress-of-your-tax-return/status-of-your-tax-return"
+    },
+    {
+      "title": "Missing tax return refunds",
+      "description": "Options available if you can't find a tax refund you're expecting through electronic funds transfer (EFT).",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/check-the-progress-of-your-tax-return/missing-tax-return-refunds"
+    }
+  ],
+  "word_count": 0,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

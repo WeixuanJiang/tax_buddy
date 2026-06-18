@@ -1,0 +1,407 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2020/income/foreign-income/other-foreign-income",
+  "title": "myTax 2020 Other foreign income",
+  "description": "How to report attributed personal services income when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "62390",
+  "date_updated": "2020-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "2020, myTax, e-tax, online tax return, other income, other foreign income, foreign, income, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Complete this section if you have any other foreign income that you have not been able to show anywhere on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Other foreign income includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "foreign rental income",
+        "foreign superannuation lump sums",
+        "other foreign source income , including interest, royalties or dividends income from carrying on a business wholly or partly overseas any other foreign income."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Australian resident"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received income from overseas, you must show your assessable foreign income here, even if tax was taken out of the income in the foreign country."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can 'receive income' even if it is held overseas for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a lump sum payment from a foreign superannuation fund, phone 13 10 20 . Some of these payments are taxable and some are exempt from Australian tax."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must show the following amounts at this section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an assessable dividend (or non-share dividend) from a New Zealand franking company and any attached Australian franking credits",
+        "a supplementary dividend from a New Zealand franking company",
+        "an assessable distribution from a trust or partnership (or share of a partnership loss) that includes Australian franking credits attached to a dividend (or non-share dividend) from a New Zealand franking company."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A dividend from a New Zealand franking company may also carry New Zealand imputation credits. An Australian resident can't claim any New Zealand imputation credits on an Australian tax return ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't show at this section a capital gain or capital loss from a foreign source. Capital gains or losses deals with these amounts."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Hybrid mismatch rules"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you incurred expenses which are deductible to you in deriving assessable foreign source income, you may need to consider whether the hybrid mismatch rules apply to you. See hybrid mismatch rules to work out whether an otherwise deductible expense amount is not allowable as a deduction under these rules."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need distribution advices from companies, partnerships and trusts and details of expenses you incurred in earning your foreign income."
+    },
+    {
+      "type": "paragraph",
+      "text": "All foreign income, deductions and foreign tax paid must be converted to Australian dollars before you complete this section. You can use the Foreign income conversion calculator This link opens in a new window ."
+    },
+    {
+      "type": "paragraph",
+      "text": "We have shown:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "information provided to us from a foreign tax authority that you may have received interest or dividends from a foreign financial investment",
+        "Australian franking credits from a New Zealand company from a partnership distribution."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your return to show other foreign income, at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You had foreign income",
+        "Other foreign income"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your other foreign income, at Prepare return select 'Add/Edit' at the Foreign income, assets and entities banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Other foreign income banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each other foreign income source, select Add .",
+        "Indicate the other foreign income Type and enter information into the corresponding fields. At Gross income : include any assessable foreign income (including foreign tax on that income) that you have not already shown on your tax return. Foreign tax includes any New Zealand non-resident withholding tax. At Deductible expenses : include any deductible expenses that you incurred in earning your other foreign income, excluding any debt deductions such as interest and borrowing costs. For more information, see Debt deductions . The Depreciation and capital allowances tool can help you to work out any decline in value. It can also work out any deductible balancing adjustment when you stop holding a depreciating asset. Access this tool in the Deductions section. Fields from this tool can't be adjusted in myTax. To make any adjustments, or to add new assets to the tool, select 'Use the depreciation and capital allowances tool' link.",
+        "Select Save .",
+        "If you haven't already done so, answer the question During the year did you have an interest - direct or indirect - in overseas assets worth AUD$50,000 or more?",
+        "Select Save and continue when you have completed the Foreign income, assets and entities section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At any time during 2019–20, did you own or have an interest in assets located outside Australia that had a total value of AUS$50,000 or more?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Assets include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "real estate",
+        "shares in companies and other entities",
+        "interests in partnerships or trusts",
+        "businesses",
+        "debentures",
+        "bonds",
+        "money and funds held in accounts or by other parties",
+        "loans to other parties and deposits",
+        "intangible property such as: trademarks copyrights patents debtors 'equitable chooses in action'",
+        "any interest whether: legal or beneficial held directly or indirectly through one or more interposed entities."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If all the assets you held overseas are covered at Foreign entities your answer to this question is No . Otherwise read on."
+    },
+    {
+      "type": "paragraph",
+      "text": "Determine the value of all your overseas assets, whether tangible or intangible, and whether or not you received any income from those assets during 2019–20. Use:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the historical cost or market value, whichever is greater",
+        "the exchange rate at 30 June 2020 to convert the value of the assets to Australian dollars or, if you disposed of the assets during the year, the exchange rate at the time of disposal."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer Yes if the value of your overseas assets was AUD$50,000 or more."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Other foreign income types"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Foreign rental income"
+    },
+    {
+      "type": "paragraph",
+      "text": "When calculating your rental income, ensure you add back any foreign tax that was taken out."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you enter the deductible expenses that you incurred in earning your foreign rental income, exclude any debt deductions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Debt deductions, such as interest and borrowing costs, are not deductible for the purposes of this calculation unless they are related to income earned through a permanent establishment in an overseas country. If you incurred debt deductions in earning your foreign rental income and the deductions are not attributable to an overseas permanent establishment, see Other deductions ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Foreign superannuation lump sums"
+    },
+    {
+      "type": "paragraph",
+      "text": "This relates to you if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "received a lump sum payment from a foreign superannuation fund, or",
+        "transferred a lump sum from a foreign superannuation fund to an Australian superannuation fund."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This does not apply to transfers of lump sums from one foreign superannuation fund to another foreign superannuation fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "A lump sum payment from a foreign superannuation fund may be tax-free if you receive it within six months:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "after you become an Australian resident, or",
+        "after you terminate your foreign employment."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To determine whether the lump sum payment you received is tax-free, see Super lump sums from a foreign super fund ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your lump sum payment is tax-free, do not show it anywhere on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your lump sum payment is not tax-free, then you need to show on your tax return the amount of the lump sum that relates to your applicable fund earnings. In general terms, applicable fund earnings are the earnings on your foreign super interest which have accrued while you were an Australian resident."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, you do not need to show your applicable fund earnings on your tax return if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "all of your lump sum is paid into an Australian complying superannuation fund",
+        "after the lump sum is paid, you no longer have an interest in the foreign superannuation fund, and",
+        "you make a choice to have your entire applicable fund earnings included in the assessable income of your Australian superannuation fund. Your choice must be in writing and provided to your superannuation fund."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you make a choice to have only part of your applicable fund earnings included in the assessable income of your Australian superannuation fund, you need to include the remainder on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on the tax treatment of foreign fund transfers, see:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Tax treatment of transfers from foreign super funds",
+        "Super contributions – too much can mean extra tax"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, phone 13 10 20 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Other foreign source income"
+    },
+    {
+      "type": "paragraph",
+      "text": "This relates to you if you received any other foreign source income, including:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "interest, royalties or dividends",
+        "income from carrying on a business wholly or partly overseas",
+        "any other foreign income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Include at this section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "dividends you received from a New Zealand franking company (including non-share dividends)",
+        "supplementary dividends you received from a New Zealand franking company",
+        "dividend (or non-share dividend) income from a New Zealand franking company that you received or became entitled to during 2019–20 through a partnership or a trust",
+        "a payment from a foreign source on termination of your foreign employment, which is not an employment termination payment or a foreign termination payment, and is not shown on an income statement, PAYG payment summary – individual non-business or PAYG payment summary – foreign employment."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have any Australian franking credits from a New Zealand franking company that you received directly or indirectly through a trust or partnership, see Working out your Australian franking credits from a New Zealand franking company ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have paid foreign tax on an attribution account payment (usually a dividend distribution) you received that was paid out of previously attributed income and that payment is non-assessable non-exempt income (tax-free income), you do not include this income anywhere on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If any part of your amount at this section relates to a business activity that has made a loss, and the activity was not also carried on in Australia, see Loss details . If the business activity was carried on partly overseas and partly in Australia, phone 13 28 66 for assistance."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Debt deductions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Debt deductions, such as interest and borrowing costs, are not deductible for the purposes of this calculation unless they are related to income earned through a permanent establishment in an overseas country. If you incurred debt deductions in earning your foreign income and the deductions are not attributable to an overseas permanent establishment, see Other deductions ."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Working out your Australian franking credits from a New Zealand franking company"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include amounts of Australian franking credits from a New Zealand franking company that you are entitled to, whether:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "directly by way of franked dividends or franked non-share dividends paid to you by the company, or",
+        "indirectly through a trust or partnership."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "New Zealand imputation credits",
+        "Australian franking credits you received from an Australian company. Show these amounts at either Dividends , Partnerships or Trusts .",
+        "Australian franking credits that you are not entitled to (for example, because the dividend, non-share dividend, or income from the trust or partnership is exempt, or because you fail the holding period rule or trigger the related payments rule)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "See also:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You and your shares"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of Australian franking credits you would otherwise be entitled to is reduced if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you received a dividend (or non-share dividend) from a New Zealand franking company with Australian franking credits attached",
+        "you received a supplementary dividend from the New Zealand franking company (either directly, or indirectly through a partnership or trust) that was paid in connection with the franked dividend, and",
+        "you are entitled to a foreign income tax offset because of the inclusion of the franked dividend in your assessable income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of the reduction is the amount of the supplementary dividend (or your share of the supplementary dividend if you received it indirectly through a trust or partnership)."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Small business income tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "If any amount included is net income from a small business entity, you may be entitled to the small business income tax offset. For more information, see Small business income tax offset ."
+    }
+  ],
+  "content_text": "Complete this section if you have any other foreign income that you have not been able to show anywhere on your tax return.\n## Things to know\nOther foreign income includes:\n- foreign rental income\n- foreign superannuation lump sums\n- other foreign source income , including interest, royalties or dividends income from carrying on a business wholly or partly overseas any other foreign income.\n### Australian resident\nIf you received income from overseas, you must show your assessable foreign income here, even if tax was taken out of the income in the foreign country.\nYou can 'receive income' even if it is held overseas for you.\nIf you received a lump sum payment from a foreign superannuation fund, phone 13 10 20 . Some of these payments are taxable and some are exempt from Australian tax.\nYou must show the following amounts at this section:\n- an assessable dividend (or non-share dividend) from a New Zealand franking company and any attached Australian franking credits\n- a supplementary dividend from a New Zealand franking company\n- an assessable distribution from a trust or partnership (or share of a partnership loss) that includes Australian franking credits attached to a dividend (or non-share dividend) from a New Zealand franking company.\nA dividend from a New Zealand franking company may also carry New Zealand imputation credits. An Australian resident can't claim any New Zealand imputation credits on an Australian tax return .\nDon't show at this section a capital gain or capital loss from a foreign source. Capital gains or losses deals with these amounts.\n### Hybrid mismatch rules\nIf you incurred expenses which are deductible to you in deriving assessable foreign source income, you may need to consider whether the hybrid mismatch rules apply to you. See hybrid mismatch rules to work out whether an otherwise deductible expense amount is not allowable as a deduction under these rules.\n## Completing this section\nYou will need distribution advices from companies, partnerships and trusts and details of expenses you incurred in earning your foreign income.\nAll foreign income, deductions and foreign tax paid must be converted to Australian dollars before you complete this section. You can use the Foreign income conversion calculator This link opens in a new window .\nWe have shown:\n- information provided to us from a foreign tax authority that you may have received interest or dividends from a foreign financial investment\n- Australian franking credits from a New Zealand company from a partnership distribution.\nTo personalise your return to show other foreign income, at Personalise return select:\n- You had foreign income\n- Other foreign income\nTo show your other foreign income, at Prepare return select 'Add/Edit' at the Foreign income, assets and entities banner.\nAt the Other foreign income banner:\n- For each other foreign income source, select Add .\n- Indicate the other foreign income Type and enter information into the corresponding fields. At Gross income : include any assessable foreign income (including foreign tax on that income) that you have not already shown on your tax return. Foreign tax includes any New Zealand non-resident withholding tax. At Deductible expenses : include any deductible expenses that you incurred in earning your other foreign income, excluding any debt deductions such as interest and borrowing costs. For more information, see Debt deductions . The Depreciation and capital allowances tool can help you to work out any decline in value. It can also work out any deductible balancing adjustment when you stop holding a depreciating asset. Access this tool in the Deductions section. Fields from this tool can't be adjusted in myTax. To make any adjustments, or to add new assets to the tool, select 'Use the depreciation and capital allowances tool' link.\n- Select Save .\n- If you haven't already done so, answer the question During the year did you have an interest - direct or indirect - in overseas assets worth AUD$50,000 or more?\n- Select Save and continue when you have completed the Foreign income, assets and entities section.\nAt any time during 2019–20, did you own or have an interest in assets located outside Australia that had a total value of AUS$50,000 or more?\nAssets include:\n- real estate\n- shares in companies and other entities\n- interests in partnerships or trusts\n- businesses\n- debentures\n- bonds\n- money and funds held in accounts or by other parties\n- loans to other parties and deposits\n- intangible property such as: trademarks copyrights patents debtors 'equitable chooses in action'\n- any interest whether: legal or beneficial held directly or indirectly through one or more interposed entities.\nIf all the assets you held overseas are covered at Foreign entities your answer to this question is No . Otherwise read on.\nDetermine the value of all your overseas assets, whether tangible or intangible, and whether or not you received any income from those assets during 2019–20. Use:\n- the historical cost or market value, whichever is greater\n- the exchange rate at 30 June 2020 to convert the value of the assets to Australian dollars or, if you disposed of the assets during the year, the exchange rate at the time of disposal.\nAnswer Yes if the value of your overseas assets was AUD$50,000 or more.\n### Other foreign income types\n#### Foreign rental income\nWhen calculating your rental income, ensure you add back any foreign tax that was taken out.\nWhen you enter the deductible expenses that you incurred in earning your foreign rental income, exclude any debt deductions.\nDebt deductions, such as interest and borrowing costs, are not deductible for the purposes of this calculation unless they are related to income earned through a permanent establishment in an overseas country. If you incurred debt deductions in earning your foreign rental income and the deductions are not attributable to an overseas permanent establishment, see Other deductions .\n#### Foreign superannuation lump sums\nThis relates to you if you:\n- received a lump sum payment from a foreign superannuation fund, or\n- transferred a lump sum from a foreign superannuation fund to an Australian superannuation fund.\nThis does not apply to transfers of lump sums from one foreign superannuation fund to another foreign superannuation fund.\nA lump sum payment from a foreign superannuation fund may be tax-free if you receive it within six months:\n- after you become an Australian resident, or\n- after you terminate your foreign employment.\nTo determine whether the lump sum payment you received is tax-free, see Super lump sums from a foreign super fund .\nIf your lump sum payment is tax-free, do not show it anywhere on your tax return.\nIf your lump sum payment is not tax-free, then you need to show on your tax return the amount of the lump sum that relates to your applicable fund earnings. In general terms, applicable fund earnings are the earnings on your foreign super interest which have accrued while you were an Australian resident.\nHowever, you do not need to show your applicable fund earnings on your tax return if:\n- all of your lump sum is paid into an Australian complying superannuation fund\n- after the lump sum is paid, you no longer have an interest in the foreign superannuation fund, and\n- you make a choice to have your entire applicable fund earnings included in the assessable income of your Australian superannuation fund. Your choice must be in writing and provided to your superannuation fund.\nIf you make a choice to have only part of your applicable fund earnings included in the assessable income of your Australian superannuation fund, you need to include the remainder on your tax return.\nFor more information on the tax treatment of foreign fund transfers, see:\n- Tax treatment of transfers from foreign super funds\n- Super contributions – too much can mean extra tax\nFor more information, phone 13 10 20 .\n#### Other foreign source income\nThis relates to you if you received any other foreign source income, including:\n- interest, royalties or dividends\n- income from carrying on a business wholly or partly overseas\n- any other foreign income.\nInclude at this section:\n- dividends you received from a New Zealand franking company (including non-share dividends)\n- supplementary dividends you received from a New Zealand franking company\n- dividend (or non-share dividend) income from a New Zealand franking company that you received or became entitled to during 2019–20 through a partnership or a trust\n- a payment from a foreign source on termination of your foreign employment, which is not an employment termination payment or a foreign termination payment, and is not shown on an income statement, PAYG payment summary – individual non-business or PAYG payment summary – foreign employment.\nIf you have any Australian franking credits from a New Zealand franking company that you received directly or indirectly through a trust or partnership, see Working out your Australian franking credits from a New Zealand franking company .\nIf you have paid foreign tax on an attribution account payment (usually a dividend distribution) you received that was paid out of previously attributed income and that payment is non-assessable non-exempt income (tax-free income), you do not include this income anywhere on your tax return.\nIf any part of your amount at this section relates to a business activity that has made a loss, and the activity was not also carried on in Australia, see Loss details . If the business activity was carried on partly overseas and partly in Australia, phone 13 28 66 for assistance.\n##### Debt deductions\nDebt deductions, such as interest and borrowing costs, are not deductible for the purposes of this calculation unless they are related to income earned through a permanent establishment in an overseas country. If you incurred debt deductions in earning your foreign income and the deductions are not attributable to an overseas permanent establishment, see Other deductions .\n##### Working out your Australian franking credits from a New Zealand franking company\nInclude amounts of Australian franking credits from a New Zealand franking company that you are entitled to, whether:\n- directly by way of franked dividends or franked non-share dividends paid to you by the company, or\n- indirectly through a trust or partnership.\nDo not include:\n- New Zealand imputation credits\n- Australian franking credits you received from an Australian company. Show these amounts at either Dividends , Partnerships or Trusts .\n- Australian franking credits that you are not entitled to (for example, because the dividend, non-share dividend, or income from the trust or partnership is exempt, or because you fail the holding period rule or trigger the related payments rule).\nSee also:\n- You and your shares\nThe amount of Australian franking credits you would otherwise be entitled to is reduced if:\n- you received a dividend (or non-share dividend) from a New Zealand franking company with Australian franking credits attached\n- you received a supplementary dividend from the New Zealand franking company (either directly, or indirectly through a partnership or trust) that was paid in connection with the franked dividend, and\n- you are entitled to a foreign income tax offset because of the inclusion of the franked dividend in your assessable income.\nThe amount of the reduction is the amount of the supplementary dividend (or your share of the supplementary dividend if you received it indirectly through a trust or partnership).\n##### Small business income tax offset\nIf any amount included is net income from a small business entity, you may be entitled to the small business income tax offset. For more information, see Small business income tax offset .",
+  "child_links": [],
+  "word_count": 1940,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

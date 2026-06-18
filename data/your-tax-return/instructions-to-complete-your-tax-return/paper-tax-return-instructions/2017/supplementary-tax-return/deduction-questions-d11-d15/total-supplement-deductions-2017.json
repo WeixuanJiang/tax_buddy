@@ -1,0 +1,85 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2017/supplementary-tax-return/deduction-questions-d11-d15/total-supplement-deductions-2017",
+  "title": "Total supplement deductions 2017",
+  "description": "Complete the total supplement deductions section of your supplementary tax return.",
+  "nat_number": "",
+  "quick_code": "51161",
+  "date_updated": "2017-05-24T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, TaxPack supplement, deductions, supplement deductions",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Did you claim any deductions at items D11 to D15?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to step 4."
+        ],
+        [
+          "Yes",
+          "Go to step 1."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the deduction amounts in the right-hand column of items D11 to D15 on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total from step 1 at Total supplement deductions on page 15 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount you wrote at Total supplement deductions to D on page 4 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Go to Total deductions 2017 ; then work through the Losses section ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question T2 Australian superannuation income stream 2017",
+        "Return to main menu Individual tax return instructions 2017",
+        "Go back to question D15 Other deductions - not claimable at items D1 to D14 or elsewhere on your tax return 2017"
+      ]
+    }
+  ],
+  "content_text": "Did you claim any deductions at items D11 to D15?\nNo | Go to step 4.\nYes | Go to step 1.\n## Step 1\nAdd up all the deduction amounts in the right-hand column of items D11 to D15 on your tax return.\n## Step 2\nWrite the total from step 1 at Total supplement deductions on page 15 of your tax return.\n## Step 3\nTransfer the amount you wrote at Total supplement deductions to D on page 4 of your tax return.\n## Step 4\nGo to Total deductions 2017 ; then work through the Losses section .\n## Where to go next\n- Go to question T2 Australian superannuation income stream 2017\n- Return to main menu Individual tax return instructions 2017\n- Go back to question D15 Other deductions - not claimable at items D1 to D14 or elsewhere on your tax return 2017",
+  "child_links": [],
+  "word_count": 149,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

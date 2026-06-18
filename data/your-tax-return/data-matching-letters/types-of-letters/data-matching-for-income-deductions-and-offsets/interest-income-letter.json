@@ -1,0 +1,276 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/data-matching-letters/types-of-letters/data-matching-for-income-deductions-and-offsets/interest-income-letter",
+  "title": "Interest income letter",
+  "description": "What to do if you get a data matching letter from us about your interest income.",
+  "nat_number": "",
+  "quick_code": "41709",
+  "date_updated": "2024-01-07T14:00:00Z",
+  "first_published": "",
+  "keywords": "data matching, data-matching, discrepancy, letter, schedule, types, declare income, interest income, tax return",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Receiving your letter"
+    },
+    {
+      "type": "paragraph",
+      "text": "We may send you a letter about interest income you declared in your tax return if it doesn't match the interest amount a financial institution reports it paid to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "The letter will include an interest income summary that compares the details you declared in your tax return with the information your financial institution reported to us."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a myGov account linked to us , we’ll send the letter to your myGov Inbox titled Have you included all information in your income tax return?."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don’t have a myGov account, we’ll send the letter to the most recent postal address we have for you."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to do"
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to review the interest income summary and compare the information with your records (including any accounts you closed during the year). You can then determine if you agree or disagree with this information."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may also need to contact your financial institution if the details on the summary don't seem correct."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensure you've declared your interest income correctly for the type of account you hold:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Individuals accounts – if you've earned interest from an account that's only in your name, you must declare it.",
+        "Accounts held for a child – the interest must be declared by the person who owns or uses the funds in the account.",
+        "Accounts held in trust – the interest must be declared by the person who has beneficial ownership of the funds (that is, the person who benefits from the funds or has the power to influence transaction decisions).",
+        "Joint accounts We assume each account holder has an equal beneficial ownership of the funds, so the interest earned or paid is apportioned equally between all account holders, as examples 50% each for 2 account holders 25% each for 4 account holders). If the actual beneficial ownership of the account is not in equal shares, you'll need to provide supporting documents that demonstrate your share."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on joint accounts, including children's savings accounts , see TD 2017/11 Income tax: who should be assessed to interest on bank accounts?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a question, phone us on 1300 768 912 and select option 3 between 8:00 am and 6:00 pm, Monday to Friday:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "quoting the reference number found at the top right of your letter",
+        "using the words 'data matching'."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Interest income summary – sample"
+    },
+    {
+      "type": "paragraph",
+      "text": "Below is a sample interest summary. Keep in mind it will have the relevant information from your tax return compared with information we hold and may not look exactly the same. Use the definitions to help you understand your schedule."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Sample: Interest income summary for the year ended 30 June <CCYY>"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Amount",
+          "Interest income",
+          "Tax withheld"
+        ],
+        [
+          "Amount reported to us by a third party",
+          "$1,722",
+          "$0"
+        ],
+        [
+          "Amount included in your return",
+          "$1,230",
+          "$0"
+        ],
+        [
+          "Difference",
+          "$492",
+          "$0"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Source of income",
+          "Payer ABN / Account number",
+          "Income",
+          "Tax withheld"
+        ],
+        [
+          "Big Bank",
+          "54532458463/J",
+          "$953",
+          "$0.00"
+        ],
+        [
+          "ABC Finance",
+          "3541586/I",
+          "$492",
+          "$0.00"
+        ],
+        [
+          "Northwest Banking Corporation",
+          "935415658/I",
+          "$277",
+          "$0.00"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The /I at the end of the account number represents an individual account.",
+        "The /J at the end of the account number represents a joint account and this is your share of the interest."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Schedule definitions"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following definitions will help you understand your schedule:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Account number – the account number for each source of interest reported to us.",
+        "Amount reported to us by a third party – the total amount of interest income and tax withheld, as reported to us by financial institutions.",
+        "Amount included in your return – the total amount of interest income and tax withheld you declared in your tax return.",
+        "Difference – the difference between the interest you declared on your tax return and the interest amounts reported to us by financial institutions.",
+        "Income – the interest amount reported to us.",
+        "Payer ABN – the Australian business number of the financial institution that reported to us.",
+        "Source of income – a list of each source of interest paid to you, as reported to us by financial institutions.",
+        "Tax withheld – the amount of tax withheld reported to us."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you agree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you agree with our information, you don’t need to do anything. We’ll send you an amended notice of assessment 28 days after the date shown on your letter. If you have a myGov account linked to ATO online services, we'll send your amended notice to your myGov inbox."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you disagree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with the details reported, you need to let us know before the due date noted on your letter. You can contact us by:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "mail to Australian Taxation Office PO Box 3543 ALBURY NSW 2640",
+        "phoning 1300 768 912 and selecting option 3 between 8:00 am and 6:00 pm, Monday to Friday",
+        "emailing us at datamatchingteam@ato.gov.au"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The internet is not a secure environment and we don't control the path of inbound and outbound emails. If you choose to email us, we can't guarantee the privacy of your personal information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "quote the reference number found at the top right of your letter",
+        "use the words 'data matching'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Once we've assessed your response, you'll receive an amended notice of assessment. The case officer reviewing your supporting documents may contact you if we need additional information."
+    },
+    {
+      "type": "paragraph",
+      "text": "If we don't receive a response from you within 28 days of your letter's date of issue, we’ll automatically amend your tax return using the information we have. You'll then receive an amended notice of assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Supporting documents"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with information in our letter about your interest income, we may ask you to provide these supporting documents:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "bank statements covering the whole financial year",
+        "your end-of-financial-year statement notice",
+        "trust documents",
+        "a letter from your financial institution confirming the total interest paid in the financial year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For joint accounts, we may ask you to provide supporting documents that show:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the source of the funds (for example, bank deposit records)",
+        "the portion and nature of the contributions",
+        "who used the funds and interest."
+      ]
+    }
+  ],
+  "content_text": "## Receiving your letter\nWe may send you a letter about interest income you declared in your tax return if it doesn't match the interest amount a financial institution reports it paid to you.\nThe letter will include an interest income summary that compares the details you declared in your tax return with the information your financial institution reported to us.\nIf you have a myGov account linked to us , we’ll send the letter to your myGov Inbox titled Have you included all information in your income tax return?.\nIf you don’t have a myGov account, we’ll send the letter to the most recent postal address we have for you.\n## What to do\nYou need to review the interest income summary and compare the information with your records (including any accounts you closed during the year). You can then determine if you agree or disagree with this information.\nYou may also need to contact your financial institution if the details on the summary don't seem correct.\nEnsure you've declared your interest income correctly for the type of account you hold:\n- Individuals accounts – if you've earned interest from an account that's only in your name, you must declare it.\n- Accounts held for a child – the interest must be declared by the person who owns or uses the funds in the account.\n- Accounts held in trust – the interest must be declared by the person who has beneficial ownership of the funds (that is, the person who benefits from the funds or has the power to influence transaction decisions).\n- Joint accounts We assume each account holder has an equal beneficial ownership of the funds, so the interest earned or paid is apportioned equally between all account holders, as examples 50% each for 2 account holders 25% each for 4 account holders). If the actual beneficial ownership of the account is not in equal shares, you'll need to provide supporting documents that demonstrate your share.\nFor more information on joint accounts, including children's savings accounts , see TD 2017/11 Income tax: who should be assessed to interest on bank accounts?\nIf you have a question, phone us on 1300 768 912 and select option 3 between 8:00 am and 6:00 pm, Monday to Friday:\n- quoting the reference number found at the top right of your letter\n- using the words 'data matching'.\n### Interest income summary – sample\nBelow is a sample interest summary. Keep in mind it will have the relevant information from your tax return compared with information we hold and may not look exactly the same. Use the definitions to help you understand your schedule.\n#### Sample: Interest income summary for the year ended 30 June <CCYY>\nAmount | Interest income | Tax withheld\nAmount reported to us by a third party | $1,722 | $0\nAmount included in your return | $1,230 | $0\nDifference | $492 | $0\nSource of income | Payer ABN / Account number | Income | Tax withheld\nBig Bank | 54532458463/J | $953 | $0.00\nABC Finance | 3541586/I | $492 | $0.00\nNorthwest Banking Corporation | 935415658/I | $277 | $0.00\nNote:\n- The /I at the end of the account number represents an individual account.\n- The /J at the end of the account number represents a joint account and this is your share of the interest.\n### Schedule definitions\nThe following definitions will help you understand your schedule:\n- Account number – the account number for each source of interest reported to us.\n- Amount reported to us by a third party – the total amount of interest income and tax withheld, as reported to us by financial institutions.\n- Amount included in your return – the total amount of interest income and tax withheld you declared in your tax return.\n- Difference – the difference between the interest you declared on your tax return and the interest amounts reported to us by financial institutions.\n- Income – the interest amount reported to us.\n- Payer ABN – the Australian business number of the financial institution that reported to us.\n- Source of income – a list of each source of interest paid to you, as reported to us by financial institutions.\n- Tax withheld – the amount of tax withheld reported to us.\n### If you agree\nIf you agree with our information, you don’t need to do anything. We’ll send you an amended notice of assessment 28 days after the date shown on your letter. If you have a myGov account linked to ATO online services, we'll send your amended notice to your myGov inbox.\nOnce you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date.\n### If you disagree\nIf you disagree with the details reported, you need to let us know before the due date noted on your letter. You can contact us by:\n- mail to Australian Taxation Office PO Box 3543 ALBURY NSW 2640\n- phoning 1300 768 912 and selecting option 3 between 8:00 am and 6:00 pm, Monday to Friday\n- emailing us at datamatchingteam@ato.gov.au\nThe internet is not a secure environment and we don't control the path of inbound and outbound emails. If you choose to email us, we can't guarantee the privacy of your personal information.\nRemember to:\n- quote the reference number found at the top right of your letter\n- use the words 'data matching'.\nOnce we've assessed your response, you'll receive an amended notice of assessment. The case officer reviewing your supporting documents may contact you if we need additional information.\nIf we don't receive a response from you within 28 days of your letter's date of issue, we’ll automatically amend your tax return using the information we have. You'll then receive an amended notice of assessment.\nOnce you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date.\n### Supporting documents\nIf you disagree with information in our letter about your interest income, we may ask you to provide these supporting documents:\n- bank statements covering the whole financial year\n- your end-of-financial-year statement notice\n- trust documents\n- a letter from your financial institution confirming the total interest paid in the financial year.\nFor joint accounts, we may ask you to provide supporting documents that show:\n- the source of the funds (for example, bank deposit records)\n- the portion and nature of the contributions\n- who used the funds and interest.",
+  "child_links": [],
+  "word_count": 1095,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

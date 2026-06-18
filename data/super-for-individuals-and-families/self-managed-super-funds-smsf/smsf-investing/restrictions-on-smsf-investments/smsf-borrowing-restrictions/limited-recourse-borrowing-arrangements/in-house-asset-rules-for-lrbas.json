@@ -1,0 +1,79 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-investing/restrictions-on-smsf-investments/smsf-borrowing-restrictions/limited-recourse-borrowing-arrangements/in-house-asset-rules-for-lrbas",
+  "title": "In-house asset rules for LRBAs",
+  "description": "Certain exceptions apply to the in-house asset rules for LRBAs, as the holding trust is a related party.",
+  "nat_number": "",
+  "quick_code": "103939",
+  "date_updated": "2025-04-02T03:57:00Z",
+  "first_published": true,
+  "keywords": "in-house asset rules LRBA, limited recourse borrowing arrangement in-house asset rules",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Exception while borrowing is in place"
+    },
+    {
+      "type": "paragraph",
+      "text": "The interest of the self-managed super fund (SMSF) in the holding trust represents an investment in that trust for the purposes of the in-house asset rules. However, the in-house asset rules have an exception to ensure that the SMSF's investment in the holding trust is not an in-house asset. This is provided all the following conditions are met:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The holding trust is part of an arrangement that meets all the requirements of superannuation law in connection with a borrowing by the SMSF.",
+        "The only property of the trust under the arrangement is the acquirable asset.",
+        "The asset held by the holding trust would not be an in-house asset of the SMSF if the SMSF owned the asset directly."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Exception before and after borrowing"
+    },
+    {
+      "type": "paragraph",
+      "text": "There is a legislative instrument that provides an exception to the definition of an ‘in-house asset’ at the beginning of an LRBA where a borrowing has not yet begun and the holding trust does not yet hold the acquirable asset, provided it is reasonable to expect that the borrowing will occur and the related trust will hold the acquirable asset."
+    },
+    {
+      "type": "paragraph",
+      "text": "For further information about this legislative instrument, see SPR 2014/1 - Explanatory statement Superannuation Industry (Supervision) Act 1993 (Limited Recourse Borrowing Arrangements – In-house Asset Exclusion) Determination 2014 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "In-house assets and related party leases"
+    },
+    {
+      "type": "paragraph",
+      "text": "When property held by the holding trust is leased to a related party of the SMSF, the SMSF's interest in the holding trust is an in-house asset. An exception applies if the leased asset would not be an in-house asset of the SMSF if it were owned by the SMSF directly, such as business real property."
+    },
+    {
+      "type": "paragraph",
+      "text": "For real property that is being leased by the holding trust while the borrowing is paid off, the existence of the lease would not prevent the fund from being subject to an in-house asset exemption."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Additional guidance in the Legal database"
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on in-house asset rules and LRBAs, see:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Self Managed Superannuation Funds Ruling SMSFR 2009/4 Self-Managed Superannuation Funds: the meaning of 'asset', 'loan', 'investment in', 'lease' and 'lease arrangement' in the definition of an 'in-house asset' in the Superannuation Industry (Supervision) Act 1993",
+        "Self Managed Superannuation Funds Ruling SMSFR 2009/1 Self-Managed Superannuation Funds: business real property for the purposes of the Superannuation Industry (Supervision) Act 1993."
+      ]
+    }
+  ],
+  "content_text": "## Exception while borrowing is in place\nThe interest of the self-managed super fund (SMSF) in the holding trust represents an investment in that trust for the purposes of the in-house asset rules. However, the in-house asset rules have an exception to ensure that the SMSF's investment in the holding trust is not an in-house asset. This is provided all the following conditions are met:\n- The holding trust is part of an arrangement that meets all the requirements of superannuation law in connection with a borrowing by the SMSF.\n- The only property of the trust under the arrangement is the acquirable asset.\n- The asset held by the holding trust would not be an in-house asset of the SMSF if the SMSF owned the asset directly.\n## Exception before and after borrowing\nThere is a legislative instrument that provides an exception to the definition of an ‘in-house asset’ at the beginning of an LRBA where a borrowing has not yet begun and the holding trust does not yet hold the acquirable asset, provided it is reasonable to expect that the borrowing will occur and the related trust will hold the acquirable asset.\nFor further information about this legislative instrument, see SPR 2014/1 - Explanatory statement Superannuation Industry (Supervision) Act 1993 (Limited Recourse Borrowing Arrangements – In-house Asset Exclusion) Determination 2014 .\n## In-house assets and related party leases\nWhen property held by the holding trust is leased to a related party of the SMSF, the SMSF's interest in the holding trust is an in-house asset. An exception applies if the leased asset would not be an in-house asset of the SMSF if it were owned by the SMSF directly, such as business real property.\nFor real property that is being leased by the holding trust while the borrowing is paid off, the existence of the lease would not prevent the fund from being subject to an in-house asset exemption.\n## Additional guidance in the Legal database\nFor more information on in-house asset rules and LRBAs, see:\n- Self Managed Superannuation Funds Ruling SMSFR 2009/4 Self-Managed Superannuation Funds: the meaning of 'asset', 'loan', 'investment in', 'lease' and 'lease arrangement' in the definition of an 'in-house asset' in the Superannuation Industry (Supervision) Act 1993\n- Self Managed Superannuation Funds Ruling SMSFR 2009/1 Self-Managed Superannuation Funds: business real property for the purposes of the Superannuation Industry (Supervision) Act 1993.",
+  "child_links": [],
+  "word_count": 398,
+  "source_title": "",
+  "source_description": "",
+  "category": "super-for-individuals-and-families"
+}

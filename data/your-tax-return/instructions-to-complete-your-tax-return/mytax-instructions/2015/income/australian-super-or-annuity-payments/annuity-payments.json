@@ -1,0 +1,63 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2015/income/australian-super-or-annuity-payments/annuity-payments",
+  "title": "Australian annuity payment",
+  "description": "How to report payments from Australian annuities when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "44958",
+  "date_updated": "2015-06-18T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with payment summary information provided to us. Check for Australian annuity payments you received that are not pre-filled and ensure you add them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Australian annuities (also called non-superannuation annuities) are paid to you by Australian life insurance companies and friendly societies."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your PAYG payment summary – individual non-business which shows the amount of your annuity and its undeducted purchase price (UPP)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Select from the drop-down menu ‘Australian annuity payment’."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Using your payment summary enter the following information:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "payer's name",
+        "payer's Australian business number (ABN)",
+        "tax withheld",
+        "gross amount of annuity",
+        "deductible amount of UPP (if any). We will work out the assessable amount by subtracting the deductible amount of your UPP from the gross amount."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Click on ‘Save’."
+    }
+  ],
+  "content_text": "We have pre-filled your tax return with payment summary information provided to us. Check for Australian annuity payments you received that are not pre-filled and ensure you add them.\nAustralian annuities (also called non-superannuation annuities) are paid to you by Australian life insurance companies and friendly societies.\n## Answering this question\nYou will need your PAYG payment summary – individual non-business which shows the amount of your annuity and its undeducted purchase price (UPP).\n## Completing your tax return\n1. Select from the drop-down menu ‘Australian annuity payment’.\n2. Using your payment summary enter the following information:\n- payer's name\n- payer's Australian business number (ABN)\n- tax withheld\n- gross amount of annuity\n- deductible amount of UPP (if any). We will work out the assessable amount by subtracting the deductible amount of your UPP from the gross amount.\n3. Click on ‘Save’.",
+  "child_links": [],
+  "word_count": 144,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

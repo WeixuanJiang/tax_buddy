@@ -1,0 +1,301 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2020/deductions/other-deductions/low-value-pool",
+  "title": "myTax 2020 Low-value pool deduction",
+  "description": "How to claim deductions for low-cost and low-value assets in your return using myTax.",
+  "nat_number": "",
+  "quick_code": "62378",
+  "date_updated": "2020-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "2020, low value, myTax, e-tax, online services",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Complete this section to claim a deduction for the decline in value of low-cost and low-value assets that you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "used in the course of producing income you show on your tax return, and",
+        "allocated to what is called a low-value pool ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Low-cost assets are depreciating assets that cost less than $1,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "Low-value assets are depreciating assets that:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "are not low-cost assets",
+        "on 1 July 2019, had an opening adjustable value of less than $1,000 under the diminishing value method."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can have only one low-value pool."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you choose to allocate a low-cost asset to the low-value pool, you must allocate to the pool all other low-cost assets you start to hold in that year and in future years. Once allocated, those assets must remain in the pool."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, you can decide whether to allocate low-value assets to the low-value pool on an asset-by-asset basis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Assets you can allocate to a low-value pool include assets you use:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "in your work as an employee, or",
+        "to gain rental income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you claim the deduction at this section, do not claim it as a work-related expense or rental expense."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following can't be included in a low-value pool:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "assets you have previously claimed deductions for using the prime cost method",
+        "assets that cost $300 or less for which you can claim an immediate deduction",
+        "assets for which you deduct amounts under the simplified depreciation rules for small business entities.",
+        "horticultural plants",
+        "an asset that is primarily for use in your employment, if your employer provided it, paid for it or reimbursed you for any of its cost, and the benefit was exempt from fringe benefits tax. Assets excluded in these circumstances could include: a portable electronic device (a laptop, portable printer, personal digital assistant, calculator, mobile phones or a portable GPS navigation receiver) computer software protective clothing a briefcase a tool of trade."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When you allocate an asset to a low-value pool, you must make a reasonable estimate of the percentage you will use the asset to produce your assessable income over its effective life (for a low-cost asset) or remaining effective life (for a low-value asset). This estimate is your taxable use percentage for the asset."
+    },
+    {
+      "type": "paragraph",
+      "text": "You work out your low-value pool deduction using a diminishing value rate. A rate of 37.5% is generally applied to the pool balance. However, a rate of 18.75% (that is, half the normal pool rate) is applied to the taxable use percentage of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the cost of each low-cost asset you allocated to the pool in 2019–20",
+        "any additional capital costs (such as improvements) you incurred in 2019–20 for assets you allocated to the pool in an earlier income year and for low-value assets you allocated to the pool in 2019–20."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Guide to depreciating assets ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Do not show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show the following at this section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "assets for which you deduct amounts under the simplified depreciation rules for small business entities, go to Business income or losses",
+        "your low-value pool if it contains assets only used in business and not for any other income producing purpose, go to Business income or losses ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your return to show your low-value pool deduction, at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You had deductions you want to claim",
+        "Other deductions"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your low-value pool deduction, at Prepare return select 'Add/Edit' at the Deduction banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "Within the Low-value pool deduction banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Work out your total low-value pool deduction using the Depreciation and capital allowances tool or Worksheet 1 . The Depreciation and capital allowances tool can help you to work out any low-value pool deduction. Access this tool when you add your low-value pool deduction. Fields from this tool can't be adjusted in myTax. To make any adjustments or to add new assets to the tool, select the 'Use the depreciation and capital allowances tool' link. If you used the Depreciation and capital allowances tool and saved to myTax, go to step 4.",
+        "If you used Worksheet 1: enter the amount at row i from Worksheet 1 into the Total decline in value deduction field use Worksheet 2 to work out the closing balance.",
+        "Select Save .",
+        "Select Save and continue when you have completed the Deductions section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep a record of your 2019–20 closing balance for your 2020–21 tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Working out your deduction and the pool closing balance"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Low-value pool deduction",
+          "Amount"
+        ],
+        [
+          "a",
+          "The closing balance of the pool for 2018–19. If you did not have a low-value pool in 2018–19, show 0 .",
+          "$"
+        ],
+        [
+          "b",
+          "For each low-value asset allocated to the pool in 2019–20, multiply its opening adjustable value (on 1 July 2019) by your taxable use percentage for the asset. Add up the amounts and show the total.",
+          "$"
+        ],
+        [
+          "c",
+          "Add rows a and b .",
+          "$"
+        ],
+        [
+          "d",
+          "Multiply row c by 0.375.",
+          "$"
+        ],
+        [
+          "e",
+          "For each low-cost asset allocated to the pool in 2019–20, multiply its cost (including additional capital costs incurred in 2019–20, such as improvements) by your taxable use percentage for the asset. Add up the amounts and show the total.",
+          "$"
+        ],
+        [
+          "f",
+          "For each asset allocated to the pool in a prior income year, and low-value asset allocated to the pool in 2019–20 for which you incurred additional capital costs (such as improvements) in 2019–20, multiply the costs by your taxable use percentage for the asset. Add up the amounts and show the total.",
+          "$"
+        ],
+        [
+          "g",
+          "Add rows e and f .",
+          "$"
+        ],
+        [
+          "h",
+          "Multiply row g by 0.1875.",
+          "$"
+        ],
+        [
+          "i",
+          "Add rows d and h .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at row i is the total low-value pool deduction."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Closing balance for 2019–20",
+          "Amount"
+        ],
+        [
+          "j",
+          "Transfer amount from row a in worksheet 1.",
+          "$"
+        ],
+        [
+          "k",
+          "Transfer amount from row b in worksheet 1.",
+          "$"
+        ],
+        [
+          "l",
+          "Transfer amount from row e in worksheet 1.",
+          "$"
+        ],
+        [
+          "m",
+          "Transfer amount from row f in worksheet 1.",
+          "$"
+        ],
+        [
+          "n",
+          "Add rows j , k , l and m .",
+          "$"
+        ],
+        [
+          "o",
+          "Transfer amount from row i in worksheet 1.",
+          "$"
+        ],
+        [
+          "p",
+          "Take row o away from row n .",
+          "$"
+        ],
+        [
+          "q",
+          "For each pool asset subject to a balancing adjustment event in 2019–20, multiply its termination value by your taxable use percentage for the asset. Add up the amounts and show the total.",
+          "$"
+        ],
+        [
+          "r",
+          "Take row q away from row p . This is your closing pool balance for 2019–20.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some common events, such as the sale or disposal of an asset in the low-value pool, or the asset's loss or destruction, result in a 'balancing adjustment event'."
+    },
+    {
+      "type": "paragraph",
+      "text": "If there has been a balancing adjustment event for an asset in the pool, you must reduce the closing pool balance. To do this, you multiply the asset's termination value (generally any proceeds, including any insurance payout, from the event) by your taxable use percentage for the asset. Your closing pool balance is reduced by the amount that results from this calculation. There is space for you to include this amount in Worksheet 2. If this amount is more than the closing pool balance, you reduce the closing pool balance to nil and include the excess amount at Any other income ."
+    }
+  ],
+  "content_text": "Complete this section to claim a deduction for the decline in value of low-cost and low-value assets that you:\n- used in the course of producing income you show on your tax return, and\n- allocated to what is called a low-value pool .\n## Things to know\nLow-cost assets are depreciating assets that cost less than $1,000.\nLow-value assets are depreciating assets that:\n- are not low-cost assets\n- on 1 July 2019, had an opening adjustable value of less than $1,000 under the diminishing value method.\nYou can have only one low-value pool.\nOnce you choose to allocate a low-cost asset to the low-value pool, you must allocate to the pool all other low-cost assets you start to hold in that year and in future years. Once allocated, those assets must remain in the pool.\nHowever, you can decide whether to allocate low-value assets to the low-value pool on an asset-by-asset basis.\nAssets you can allocate to a low-value pool include assets you use:\n- in your work as an employee, or\n- to gain rental income.\nIf you claim the deduction at this section, do not claim it as a work-related expense or rental expense.\nThe following can't be included in a low-value pool:\n- assets you have previously claimed deductions for using the prime cost method\n- assets that cost $300 or less for which you can claim an immediate deduction\n- assets for which you deduct amounts under the simplified depreciation rules for small business entities.\n- horticultural plants\n- an asset that is primarily for use in your employment, if your employer provided it, paid for it or reimbursed you for any of its cost, and the benefit was exempt from fringe benefits tax. Assets excluded in these circumstances could include: a portable electronic device (a laptop, portable printer, personal digital assistant, calculator, mobile phones or a portable GPS navigation receiver) computer software protective clothing a briefcase a tool of trade.\nWhen you allocate an asset to a low-value pool, you must make a reasonable estimate of the percentage you will use the asset to produce your assessable income over its effective life (for a low-cost asset) or remaining effective life (for a low-value asset). This estimate is your taxable use percentage for the asset.\nYou work out your low-value pool deduction using a diminishing value rate. A rate of 37.5% is generally applied to the pool balance. However, a rate of 18.75% (that is, half the normal pool rate) is applied to the taxable use percentage of:\n- the cost of each low-cost asset you allocated to the pool in 2019–20\n- any additional capital costs (such as improvements) you incurred in 2019–20 for assets you allocated to the pool in an earlier income year and for low-value assets you allocated to the pool in 2019–20.\nFor more information, see Guide to depreciating assets .\n### Do not show at this section\nDo not show the following at this section:\n- assets for which you deduct amounts under the simplified depreciation rules for small business entities, go to Business income or losses\n- your low-value pool if it contains assets only used in business and not for any other income producing purpose, go to Business income or losses .\n## Completing this section\nTo personalise your return to show your low-value pool deduction, at Personalise return select:\n- You had deductions you want to claim\n- Other deductions\nTo show your low-value pool deduction, at Prepare return select 'Add/Edit' at the Deduction banner.\nWithin the Low-value pool deduction banner:\n- Work out your total low-value pool deduction using the Depreciation and capital allowances tool or Worksheet 1 . The Depreciation and capital allowances tool can help you to work out any low-value pool deduction. Access this tool when you add your low-value pool deduction. Fields from this tool can't be adjusted in myTax. To make any adjustments or to add new assets to the tool, select the 'Use the depreciation and capital allowances tool' link. If you used the Depreciation and capital allowances tool and saved to myTax, go to step 4.\n- If you used Worksheet 1: enter the amount at row i from Worksheet 1 into the Total decline in value deduction field use Worksheet 2 to work out the closing balance.\n- Select Save .\n- Select Save and continue when you have completed the Deductions section.\nKeep a record of your 2019–20 closing balance for your 2020–21 tax return.\n### Working out your deduction and the pool closing balance\nRow | Low-value pool deduction | Amount\na | The closing balance of the pool for 2018–19. If you did not have a low-value pool in 2018–19, show 0 . | $\nb | For each low-value asset allocated to the pool in 2019–20, multiply its opening adjustable value (on 1 July 2019) by your taxable use percentage for the asset. Add up the amounts and show the total. | $\nc | Add rows a and b . | $\nd | Multiply row c by 0.375. | $\ne | For each low-cost asset allocated to the pool in 2019–20, multiply its cost (including additional capital costs incurred in 2019–20, such as improvements) by your taxable use percentage for the asset. Add up the amounts and show the total. | $\nf | For each asset allocated to the pool in a prior income year, and low-value asset allocated to the pool in 2019–20 for which you incurred additional capital costs (such as improvements) in 2019–20, multiply the costs by your taxable use percentage for the asset. Add up the amounts and show the total. | $\ng | Add rows e and f . | $\nh | Multiply row g by 0.1875. | $\ni | Add rows d and h . | $\nThe amount at row i is the total low-value pool deduction.\nRow | Closing balance for 2019–20 | Amount\nj | Transfer amount from row a in worksheet 1. | $\nk | Transfer amount from row b in worksheet 1. | $\nl | Transfer amount from row e in worksheet 1. | $\nm | Transfer amount from row f in worksheet 1. | $\nn | Add rows j , k , l and m . | $\no | Transfer amount from row i in worksheet 1. | $\np | Take row o away from row n . | $\nq | For each pool asset subject to a balancing adjustment event in 2019–20, multiply its termination value by your taxable use percentage for the asset. Add up the amounts and show the total. | $\nr | Take row q away from row p . This is your closing pool balance for 2019–20. | $\nNote:\nSome common events, such as the sale or disposal of an asset in the low-value pool, or the asset's loss or destruction, result in a 'balancing adjustment event'.\nIf there has been a balancing adjustment event for an asset in the pool, you must reduce the closing pool balance. To do this, you multiply the asset's termination value (generally any proceeds, including any insurance payout, from the event) by your taxable use percentage for the asset. Your closing pool balance is reduced by the amount that results from this calculation. There is space for you to include this amount in Worksheet 2. If this amount is more than the closing pool balance, you reduce the closing pool balance to nil and include the excess amount at Any other income .",
+  "child_links": [],
+  "word_count": 1270,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

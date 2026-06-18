@@ -1,0 +1,109 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/income/salary-wages-allowances-tips-bonuses-etc-including-lump-sums/attributed-personal-services-income",
+  "title": "myTax 2018 Attributed personal services income",
+  "description": "How to report attributed personal services income when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "55386",
+  "date_updated": "2018-06-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "2018, Personal services income, PSI, attributed personal services income, myTax, e-tax, online tax return, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "You must complete this section if you provided personal services and you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "received a PAYG payment summary - business and personal services income showing an X against 'Personal services attributed income', or",
+        "had personal services income attributed to you."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Personal services income is income that is mainly a reward for your personal efforts or skills and is generally paid either to you or to a personal services entity (a company, partnership or trust)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your personal services income is paid to a personal services entity, the income (less certain deductions relating to gaining or producing that income) is attributed to you unless:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the personal services entity gained the income in the course of conducting a personal services business, or",
+        "the income was promptly paid to you by the entity as salary."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Do not show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received personal services income as a sole trader, do not complete this section. You must show this income at Personal services income in the Business/sole trader, partnership and trust income (including loss details) section. If you can't see this section, go to the Personalise return screen and select the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "'You were a sole trader or had business income or losses, partnerships or trust distributions (not from a managed fund)' 'Business/Sole trader income or loss' 'Personal services income'."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your PAYG payment summary - business and personal services income showing the amount of personal services income attributed to you and the total amount of tax paid or withheld",
+        "details of any other personal services income attributed to you."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not have all of your documents, contact the person who paid you."
+    },
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with payment summary information provided to us. Check for attributed personal services income you received that is not pre-filled and ensure you add it."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each payment summary that has not been pre-filled in your tax return, select Add and enter information into the corresponding fields.",
+        "Select Save .",
+        "Select Save and continue ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tax tips"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the personal services entity has a net loss relating to your personal services income, then no amount is attributed to you. To claim a deduction for the loss, see Other deductions ."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is an explanation of the rules relating to the attribution of personal services income in Taxation Ruling TR 2003/6 Income tax: attribution of personal services income ."
+    }
+  ],
+  "content_text": "You must complete this section if you provided personal services and you:\n- received a PAYG payment summary - business and personal services income showing an X against 'Personal services attributed income', or\n- had personal services income attributed to you.\nPersonal services income is income that is mainly a reward for your personal efforts or skills and is generally paid either to you or to a personal services entity (a company, partnership or trust).\nIf your personal services income is paid to a personal services entity, the income (less certain deductions relating to gaining or producing that income) is attributed to you unless:\n- the personal services entity gained the income in the course of conducting a personal services business, or\n- the income was promptly paid to you by the entity as salary.\n## Do not show at this section\nIf you received personal services income as a sole trader, do not complete this section. You must show this income at Personal services income in the Business/sole trader, partnership and trust income (including loss details) section. If you can't see this section, go to the Personalise return screen and select the following:\n- 'You were a sole trader or had business income or losses, partnerships or trust distributions (not from a managed fund)' 'Business/Sole trader income or loss' 'Personal services income'.\n## Completing this section\nYou will need:\n- your PAYG payment summary - business and personal services income showing the amount of personal services income attributed to you and the total amount of tax paid or withheld\n- details of any other personal services income attributed to you.\nIf you do not have all of your documents, contact the person who paid you.\nWe have pre-filled your tax return with payment summary information provided to us. Check for attributed personal services income you received that is not pre-filled and ensure you add it.\n- For each payment summary that has not been pre-filled in your tax return, select Add and enter information into the corresponding fields.\n- Select Save .\n- Select Save and continue .\n## Tax tips\nIf the personal services entity has a net loss relating to your personal services income, then no amount is attributed to you. To claim a deduction for the loss, see Other deductions .\nThere is an explanation of the rules relating to the attribution of personal services income in Taxation Ruling TR 2003/6 Income tax: attribution of personal services income .",
+  "child_links": [],
+  "word_count": 413,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

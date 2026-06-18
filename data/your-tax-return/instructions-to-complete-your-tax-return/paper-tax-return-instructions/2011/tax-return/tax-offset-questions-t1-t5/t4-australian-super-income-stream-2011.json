@@ -1,0 +1,128 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2011/tax-return/tax-offset-questions-t1-t5/t4-australian-super-income-stream-2011",
+  "title": "About question T4",
+  "description": "Complete this question to help you work out if you're eligible for this tax offset and the amount you can claim.",
+  "nat_number": "976",
+  "quick_code": "25481",
+  "date_updated": "2011-06-28T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, superannuation, superannuation income, income stream",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "If you have shown income from an Australian superannuation income stream at item 7 on your tax return, you may be entitled to a tax offset equal to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "15% of the taxed element, or",
+        "10% of the untaxed element of your superannuation income stream benefit."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The tax offset amount will be shown on your PAYG payment summary - superannuation income stream ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You are not entitled to a tax offset for the taxed element of any superannuation income stream you received before you turned 55 years old unless the superannuation income stream was either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a disability superannuation benefit, or",
+        "a death benefit income stream."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You are not entitled to a tax offset for the untaxed element of any superannuation income stream received before you turned 60 years old unless the superannuation income stream is a death benefit income stream and the deceased died after they turned 60 years old"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you receive an Australian superannuation income stream shown on a PAYG payment summary - superannuation income stream?"
+        ],
+        [
+          "No",
+          "go to question T5 Private health insurance , or return to main menu Tax return for individuals instructions ."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your PAYG payment summary - superannuation income stream which should show the amount of the tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contact your payer if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "did not receive a payment summary or you lost your payment summary",
+        "think you qualify for this tax offset and the payment summary does not show it",
+        "disagree with the amount shown on your payment summary."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the tax offsets that are either shown on a superannuation income stream payment summary or worked out by you."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total at S item T4 ."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "More information"
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on how this tax offset is worked out, see Special circumstances and glossary ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question T5 Private health insurance return to main menu Tax return for individuals instructions , or go back to question T3 Pensioner ."
+        ]
+      ]
+    }
+  ],
+  "content_text": "If you have shown income from an Australian superannuation income stream at item 7 on your tax return, you may be entitled to a tax offset equal to:\n- 15% of the taxed element, or\n- 10% of the untaxed element of your superannuation income stream benefit.\nThe tax offset amount will be shown on your PAYG payment summary - superannuation income stream .\nYou are not entitled to a tax offset for the taxed element of any superannuation income stream you received before you turned 55 years old unless the superannuation income stream was either:\n- a disability superannuation benefit, or\n- a death benefit income stream.\nYou are not entitled to a tax offset for the untaxed element of any superannuation income stream received before you turned 60 years old unless the superannuation income stream is a death benefit income stream and the deceased died after they turned 60 years old\nDid you receive an Australian superannuation income stream shown on a PAYG payment summary - superannuation income stream?\nNo | go to question T5 Private health insurance , or return to main menu Tax return for individuals instructions .\nYes | Read below.\n## Answering this question\nYou will need your PAYG payment summary - superannuation income stream which should show the amount of the tax offset.\nContact your payer if you:\n- did not receive a payment summary or you lost your payment summary\n- think you qualify for this tax offset and the payment summary does not show it\n- disagree with the amount shown on your payment summary.\n# Completing your tax return\n### Step 1\nAdd up the tax offsets that are either shown on a superannuation income stream payment summary or worked out by you.\n### Step 2\nWrite the total at S item T4 .\n# More information\nFor more information on how this tax offset is worked out, see Special circumstances and glossary .\nWhere to go next go to question T5 Private health insurance return to main menu Tax return for individuals instructions , or go back to question T3 Pensioner .",
+  "child_links": [],
+  "word_count": 353,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

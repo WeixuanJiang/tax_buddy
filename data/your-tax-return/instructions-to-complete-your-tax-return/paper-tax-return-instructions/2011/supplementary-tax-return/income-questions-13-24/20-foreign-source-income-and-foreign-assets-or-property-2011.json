@@ -1,0 +1,1073 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2011/supplementary-tax-return/income-questions-13-24/20-foreign-source-income-and-foreign-assets-or-property-2011",
+  "title": "About question 20",
+  "description": "Complete question 20 to report foreign source income and foreign assets or property.",
+  "nat_number": "2677",
+  "quick_code": "25509",
+  "date_updated": "2011-06-28T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, supplement, foreign income, foreign source income, foreign assets, foreign property, income, foreign",
+  "content_blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you: receive income from foreign employment receive a foreign pension or annuity receive a lump sum payment from a foreign superannuation fund transfer money from a foreign superannuation fund to an Australian superannuation fund receive any other foreign source income including interest, dividends, royalties or rent at any time during 2010-11, own or have an interest in assets located outside Australia that had a total value of A$50,000 or more? You can 'receive income' even if it is held overseas for you. You need to complete this item to claim a foreign income tax offset (formerly known as foreign tax credits) for foreign tax you have paid. See part H below."
+        ],
+        [
+          "No",
+          "go to question 21 - Rent , or return to main menu Tax return for individuals instructions ."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show at this item:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a capital gain or capital loss from a foreign source; question 18 - Capital gains deals with these amounts (the amount of any foreign income tax offset you calculate under part H may include amounts of foreign tax paid in respect of a capital gain from a foreign source)",
+        "a lump sum payment of your foreign pension that relates to an earlier year; read Lump sum payments in arrears at question 24 - Other income (if your arrears amount is exempt from tax see part B)",
+        "payments you received on termination of your employment in a foreign country where the payments were exempt from income tax under the law of the foreign country and you received the payments within 12 months of the termination; question 4 - Employment termination payments deals with these amounts",
+        "employee share scheme interests that you received at a discount and that relate to your foreign employment; question 12 - Employee share schemes deals with these amounts. The amount of any foreign income tax offset you calculate under part H may include amounts of foreign tax paid in respect of employee share scheme discounts."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "In general, if you need more information on the topics below, go to www.ato.gov.au or phone 13 28 61 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "All foreign income, deductions and foreign tax paid must be translated (converted) to Australian dollars before you complete this item. For information on foreign exchange rates go to www.ato.gov.au and enter 'foreign exchange rates' in the 'Search for' box at the top of the page. For information on how to convert your foreign income, phone 13 28 61 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Australian resident"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received income from overseas, you must show your assessable foreign income here, even if tax was taken out in the country from which the income came. Foreign income that is exempt from Australian tax may still be taken into account to work out the amount of tax you have to pay on your other income."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a lump sum payment from a foreign superannuation fund, phone 13 10 20 . Some of these payments are taxable and some are exempt from Australian tax."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must show the following amounts at this item:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an assessable dividend (or non-share dividend) from a New Zealand company and any attached Australian franking credits",
+        "a supplementary dividend from a New Zealand company",
+        "an assessable distribution from a trust or partnership (or share of a partnership loss) that includes Australian franking credits attached to a dividend (or non-share dividend) from a New Zealand company."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A dividend from a New Zealand company may also carry New Zealand imputation credits. An Australian resident cannot claim any New Zealand imputation credits on an Australian tax return ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see parts E and G of this question."
+    },
+    {
+      "type": "paragraph",
+      "text": "Temporary resident"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were a temporary resident, the only foreign income you will need to show at this item is income that you earned from foreign employment while a temporary resident. Read below and part A of this question to determine how much of this foreign employment income you should report. Refer to Tax-free income for temporary residents in Amounts that you do not pay tax on for the definition of a temporary resident and details of the exemption."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you may need"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Payslips, foreign tax assessments, PAYG payment summary - foreign employment",
+        "Company, partnership and trust distribution advices",
+        "Details of any expenses you incurred in earning your foreign income",
+        "You and your shares 2011 (NAT 2632)",
+        "Guide to foreign income tax offset rules (NAT 72923)",
+        "Taxation Ruling TR 96/15 - Income tax: foreign tax credit system: issues relating to the practical application of section 23AG"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "PAYG payment summary - foreign employment"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have foreign employment income shown on a PAYG payment summary - foreign employment , read on. Otherwise go to pa rt A below."
+    },
+    {
+      "type": "paragraph",
+      "text": "Make sure you have included on your tax return the income shown on your PAYG payment summary - foreign employment . These amounts should be included at items 1 , 3 or 24 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add all the 'Gross payments' from each PAYG payment summary - foreign employment ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add all the deductible expenses you incurred in earning your foreign employment income from step 1. You would have included these deductible expenses at items D1 to D5 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take the total deductible expenses from step 2 away from the total gross payments from step 1 and write the answer at U item 20 . If the answer is negative, print L in the Loss box at the right of U item 20 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received no other foreign income, go to part H below. Otherwise, read below."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "P art A"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you receive income from foreign employment that was not shown on a PAYG payment summary - foreign employment ?"
+        ],
+        [
+          "No",
+          "Go to part B below."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign employment income is income you earned working overseas as an employee, such as salary, wages, commissions, bonuses or allowances. Do not include foreign employment income shown on a PAYG payment summary - foreign employment ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Find out whether any of your foreign employment income is exempt from Australian tax because of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a privileges and immunities agreement or a law covering persons connected with international organisations",
+        "specific exemptions for the pay and allowances of members of the Australian Defence Force, related to qualifying service in a declared operational area."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your employer should be able to tell you whether either of these applies. If you need further help, phone 13 28 61 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If all your foreign employment income is exempt for either of these reasons, do not include this income anywhere on your tax return. Go to part B. Otherwise, go to step 2."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your foreign employment income that is not exempt under step 1 may still be exempt from tax. Work through the rest of the steps to find out whether it is exempt from tax. Even if it is exempt, we still take it into account to work out the tax on your other assessable income."
+    },
+    {
+      "type": "paragraph",
+      "text": "Income from self-employment and contracts is generally not exempt from tax. Include it in other foreign source income at part E."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you have foreign service that was directly attributable to: your deployment outside Australia as a member of a defence force or a police force by the Australian Government, a state or territory government, or an authority of such a government, or the activities of your employer in operating a public fund that is an international affairs deductible gift recipient, or the activities of your employer, provided that your employer is a prescribed institution located or pursuing objectives outside of Australia, or the delivery of Australian official development assistance by your employer? Were you engaged in foreign service in connection with an Austrade approved project?"
+        ],
+        [
+          "No to both questions",
+          "Go to step 5."
+        ],
+        [
+          "Yes to either question",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you: pay, or are you liable to pay, foreign income tax on your foreign employment income, or receive income from foreign service where that income would not have been exempt in the foreign service country but for the operation of a tax treaty between Australia and that country?"
+        ],
+        [
+          "No",
+          "Go to step 4."
+        ],
+        [
+          "Yes",
+          "Go to step 5."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work out the period that you were continuously engaged in service in the foreign country."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were absent from the foreign country at any time during this period, read the fact sheet Exempt foreign employment income to find out whether we consider you to have been continuously engaged in service in the foreign country. If you were working on a project approved by Austrade, read the fact sheet Foreign income while working on an approved overseas project ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your period of continuous service in a foreign country was 90 days or less, your foreign employment income is not exempt from tax. If it was 91 days or more, your foreign employment income will generally be exempt from tax. If you are not sure, phone 13 28 61 . If your foreign employment income is not exempt from tax, go to step 5. Otherwise, read on."
+    },
+    {
+      "type": "paragraph",
+      "text": "If any of your foreign employment income is exempt from tax, write the total that is exempt from tax less any expenses that are not capital in nature that you incurred in earning that exempt income at N item 20 . If the amount was a loss, write 0 . You cannot claim a foreign income tax offset on this income."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Foreign employment income paid in arrears"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your foreign employment income that is exempt from tax includes an amount paid in arrears and you are liable for the Medicare levy surcharge (see item M2 - Medicare levy surcharge ) you need to provide the following additional information. On a separate sheet of paper:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "print SCHEDULE OF ADDITIONAL INFORMATION - ITEM 20 on top of the page",
+        "print your name, address and tax file number",
+        "show the amount of the payment in arrears for each income year involved",
+        "attach your schedule to page 3 of your tax return, and print X in the Yes box at Taxpayer's declaration item 2a on page 12 of your tax return."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you did not need to lodge a tax return for the two most recent years that the payment related to, you will need to follow the instructions in the last paragraph under the heading Lump sum payments in arrears at question 24 - Other income ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If all your foreign employment income is exempt go to part B. Otherwise, read on."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all your gross foreign employment income amounts before any foreign tax was taken out. (Do not include any exempt income or foreign employment income shown on a PAYG payment summary - foreign employment ). Write the total at (a) in worksheet 1 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the deductible expenses that you incurred in earning the foreign employment income from step 5, and write the total at (b) in worksheet 1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The types of expenses you may be able to deduct against your foreign employment income are explained at questions D1 to D5 , but do not claim these expenses at D1 to D5 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Debt deductions, such as interest and borrowing costs, are not deductible for the purpose of this calculation. If you incurred debt deductions in earning your foreign employment income, see question D15."
+    },
+    {
+      "type": "paragraph",
+      "text": "Take the amount at (b) away from the amount at (a). Write the answer at (c) in worksheet 1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If (b) is greater then (a), the amount at (c) will be a loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lachlan was employed overseas from 15 October 2010 until 23 April 2011. He did not receive a PAYG payment summary - foreign employment and the income was not exempt income. Lachlan received A$11,250 for his foreign employment after he paid A$3,750 in foreign tax. He also incurred deductible work-related expenses of A$500. Lachlan adds the A$3,750 in foreign tax to the A$11,250 he received to work out his assessable foreign employment income which is A$15,000. He deducts his A$500 work-related expenses, and his net foreign employment income is A$14,500. Lachlan writes $15,000 at (a) in worksheet 1 , $500 at (b) and $14,500 at (c)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at (c) in worksheet 1 to T item 20 . If you made a loss, print L in the Loss box at the right of T item 20 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received no other foreign income, go to part F below. Otherwise read on."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part B"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you receive a foreign pension or annuity?"
+        ],
+        [
+          "No",
+          "Go to part C below."
+        ],
+        [
+          "Yes",
+          "Read below, and if you need help phone 13 28 61 ."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Most foreign pensions and annuities are taxable in Australia, even if tax was withheld from your payment by the country from which the payment came. Examples of foreign pensions and annuities that fall into this category are age and superannuation pensions paid from Austria, Germany, Italy, the Netherlands and the United Kingdom."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may claim a foreign income tax offset at this item if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the country from which your foreign pension or annuity came withheld tax from your payment",
+        "you were not entitled to seek a refund of the foreign tax from that country (see part H below), and",
+        "the foreign pension or annuity is also taxable in Australia."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A refund may result from the terms of an agreement between Australia and that country to prevent double taxation."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your foreign pension or annuity is paid from a country with which Australia has a tax treaty, you may be able to make arrangements to not have tax withheld from future payments from that country."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under our tax treaties foreign tax authorities tell us about income paid to (and the tax withheld from) Australian taxpayers. We use that information to check tax returns. Make sure you show your foreign income fully and correctly on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, if your foreign pension or annuity (including any lump sum payment of your foreign pension or annuity in arrears) is not taxable in Australia, do not show it anywhere on your tax return. Go to part C below."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your foreign pension or annuity is taxable, read below."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had foreign tax taken from any of your foreign pensions or annuities, add the amount of foreign tax to the amount of foreign pension or annuity you received."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sort your foreign pensions and annuities into those with an undeducted purchase price (UPP) and those without a UPP."
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all foreign pensions and annuities (including any amounts you calculated at step 1) without a UPP. Write the total amount at (d) in worksheet 1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all foreign pensions and annuities (including any amounts you calculated at step 1) with a UPP. Write the total amount at (g) in worksheet 1 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up your deductible expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Debt deductions, such as interest and borrowing costs, are not deductible for the purpose of this calculation. If you incurred debt deductions in earning your foreign pension or annuity, see item D15 - Other deductions ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your foreign pension or annuity has a deductible amount of a UPP, you claim a deduction for this amount at item D11 - Deductible amount of undeducted purchase price of a foreign pension or annuity . Do not include the amount in your deductible expenses at this step."
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up any deductible expenses that you incurred in relation to your foreign pensions or annuities without a UPP. Write the total at (e) in worksheet 1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up any deductible expenses that you incurred in relation to your foreign pensions or annuities with a UPP. Write the total at (h) in worksheet 1 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take the amount at (e) away from the amount at (d) in worksheet 1 and write the answer at (f). If (e) is greater then (d), the amount at (f) will be a loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "Take the amount at (h) away from the amount at (g) in worksheet 1 and write the answer at (j). If (h) is greater then (g), the amount at (j) will be a loss."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at (f) in worksheet 1 to L item 20 . If you made a loss, print L in the Loss box at the right of L item 20 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at (j) in worksheet 1 to D item 20 . If you made a loss, print L in the Loss box at the right of D item 20 . Do not include as a loss any amount by which the UPP exceeds the amount of your foreign pension or annuity (including the amount of foreign tax you added back to your foreign pension or annuity at step 1)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received no other foreign income, go to part F below. Otherwise, read below."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part C"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you receive any foreign rental income?"
+        ],
+        [
+          "No",
+          "Go to part D below."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Make sure when calculating your total rental income to add back any foreign tax that was taken out. Write your total rental income at (k) in worksheet 1 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the deductible expenses that you incurred in relation to your foreign rental income. Write this amount at (l) in worksheet 1 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take the amount at (l) away from the amount at (k) in worksheet 1 and write the answer at (m). If (l) is greater than (k), the amount at (m) will be a loss."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at (m) in worksheet 1 to R item 20 . If you made a loss, print L in the Loss box at the right of R item 20 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received no other foreign income, go to part F below. Otherwise, read on."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part D"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Foreign superannuation lump sums"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you: receive a lump sum payment from a foreign superannuation fund, or transfer a lump sum from a foreign superannuation fund to an Australian superannuation fund?"
+        ],
+        [
+          "No",
+          "Go to part E below."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This part does not apply to transfers of lump sums from one foreign superannuation fund to another foreign superannuation fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "A lump sum payment from a foreign superannuation fund may be tax-free if you received it within six months:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "after you become an Australian resident, or",
+        "after you terminate your foreign employment."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To determine whether the lump sum payment you received is tax-free see Super lump sums from a foreign super fund ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your lump sum payment is tax free, do not show it anywhere on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your lump sum payment is not tax-free, then you need to show on your tax return the amount of the lump sum that relates to your applicable fund earnings. In general terms, applicable fund earnings are the earnings on your foreign super interest which have accrued while you were a resident of Australia."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, you do not need to show your applicable fund earnings on your tax return if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "all of your lump sum is paid into an Australian complying superannuation fund, and",
+        "after the lump sum is paid, you no longer have an interest in the foreign superannuation fund, and",
+        "you make a choice to have your applicable fund earnings included in the assessable income of your Australian superannuation fund. Your choice must be in writing and provided to your superannuation fund."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on the tax treatment of foreign fund transfers, see Tax treatment of transfers from foreign super funds , Super lump sums from a foreign super fund and Super contributions - too much super can mean extra tax ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, phone 13 10 20 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Determine the amount (if any) of your applicable fund earnings from each fund you need to include in your assessable income. Add up your applicable fund earnings amounts and write the total at (q) in worksheet 1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received other foreign income, go to part E below. Otherwise:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "transfer the amount at (q) in worksheet 1 to M item 20",
+        "go to part F below"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part E"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you receive any other foreign source income, including: interest, royalties or dividends income from carrying on a business wholly or partly overseas any other foreign income? Include at this item dividends you received from a New Zealand company (including non-share dividends). Include at this item any supplementary dividends you received from a New Zealand company. Also include any dividend (or non-share dividend) income from a New Zealand company that you received or became entitled to during 2010-11 through a partnership or a trust. Do not include any Australian franking credits from a New Zealand company that you received directly, or indirectly through a trust or partnership. Show these amounts at part G. If you have paid foreign tax on an attribution account payment (usually a dividend distribution) you received that was paid out of previously attributed income and that payment is non-assessable non-exempt income, (tax-free income) you do not include this income anywhere on your tax return."
+        ],
+        [
+          "No",
+          "Go to part F below."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a payment from a foreign source on termination of your foreign employment, and it is not an employment termination payment or a foreign termination payment (both defined in question 4 - Employment termination payments (ETPs) ), and the payment was not shown on a PAYG payment summary - individual non-business or PAYG payment summary - foreign employment , include the payment at this item."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had foreign tax (including New Zealand non-resident withholding tax) taken away from this income, add it to the amount you received."
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all of the assessable foreign income (including foreign tax on that income) that you have not already shown on your tax return. Write the total at (r) on worksheet 1 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the deductible expenses that you incurred in earning the foreign income you showed at step 1. Write the total at (s) in worksheet 1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Debt deductions, such as interest and borrowing costs, are not deductible for the purposes of this calculation unless they are related to income earned through a permanent establishment in an overseas country. If you incurred debt deductions in earning your foreign income and the deductions are not attributable to an overseas permanent establishment, see question D15 - Other deductions ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take the amount at (s) away from the amount at (r) in worksheet 1 and write the answer at (t). If (s) is greater then (r), the amount at (t) will be a loss."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the amounts at (q) and (t) in worksheet 1 . Write this total at M item 20 . If the total is a loss, print L in the Loss box at the right of M item 20 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If any part of the amount at (t) relates to a business activity that has made a loss, and the activity was not also carried on in Australia, read Business and professional items 2011 (NAT 2543) and complete P3 and P9. If the business activity was carried on partly overseas and partly in Australia, phone 13 28 66 for assistance."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part F"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Working out your assessable foreign source income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up the amounts at (a), (d), (g), (k), (q) and (r) in worksheet 1 . The total is your assessable foreign source income. Write this amount at E item 20 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Make sure the amount you have shown at E does not include any exempt foreign income or income shown on a PAYG payment summary - foreign employment ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have Australian franking credits from New Zealand companies, go to part G below. If you are entitled to a foreign income tax offset, go to part H."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otherwise, go to part I below."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 1: Other foreign income"
+        ],
+        [
+          "Type of foreign income",
+          "Assessable amount",
+          "Deductible expenses",
+          "Taxable amount"
+        ],
+        [
+          "Part A",
+          "Employment income not shown on a PAYG payment summary - foreign employment",
+          "(a)",
+          "(b)",
+          "(c)"
+        ],
+        [
+          "Part B",
+          "Pension or annuity income without a UPP",
+          "(d)",
+          "(e)",
+          "(f)"
+        ],
+        [
+          "Pension or annuity income with a UPP",
+          "(g)",
+          "(h)",
+          "(j)"
+        ],
+        [
+          "Part C",
+          "Rental income",
+          "(k)",
+          "(l)",
+          "(m)"
+        ],
+        [
+          "Part D",
+          "Superannuation lump sums",
+          "(q)",
+          "",
+          ""
+        ],
+        [
+          "Part E",
+          "Other income",
+          "(r)",
+          "(s)",
+          "(t)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part G"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Working out your Australian franking credits from a New Zealand company"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all amounts of Australian franking credits from a New Zealand company that you are entitled to, whether:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "directly by way of franked dividends or franked non-share dividends paid to you by the company, or",
+        "indirectly through a trust or partnership."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "New Zealand imputation credits",
+        "Australian franking credits you received from an Australian company (show these amounts at either item 11 Dividends or item 13 Partnerships and trusts)",
+        "Australian franking credits that you are not entitled to (for example, because the dividend, non-share dividend, or income from the trust or partnership is exempt, or because you fail the holding period rule or trigger the related payments rule)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see You and your shares 2011 (NAT 2632)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of Australian franking credits you would otherwise be entitled to is reduced if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you received a dividend (or non-share dividend) from a New Zealand company with Australian franking credits attached, and",
+        "you received a supplementary dividend from the New Zealand company (either directly, or indirectly through a partnership or trust) that was paid in connection with the franked dividend, and",
+        "you are entitled to a foreign income tax offset because of the inclusion of the franked dividend in your assessable income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of the reduction is the amount of the supplementary dividend (or your share of the supplementary dividend if you received it indirectly through a trust or partnership)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the amount you worked out at step 1 at F item 20 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part H"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Working out your foreign income tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "Read Guide to foreign income tax offset rules (NAT 72923) to work out your foreign income tax offset if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you have 'pre-commencement excess foreign income tax' (these are certain unused excess foreign tax credits that existed when the foreign income tax offset rules came into effect on 1 July 2008), or",
+        "you have paid foreign tax on an attribution account payment you received (usually a dividend distribution) that was paid out of previously attributed income and that payment is non-assessable and non-exempt income, or",
+        "the amount of foreign tax you have paid relates to an amount that differs from the amount included in your assessable income. For example, where you have both capital losses and foreign capital gains, the net capital gain included in your assessable income will be less than the foreign capital gain on which you paid foreign tax."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to complete part H if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you acquired employee share scheme interests at a discount in relation to your foreign employment, and",
+        "you paid tax on the discounts in the foreign country."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When completing the steps below you must include the foreign tax paid in relation to the employee share scheme discounts that relate to your foreign employment."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Have you shown exempt foreign employment income at N item 20?"
+        ],
+        [
+          "No",
+          "Go to step 1 below."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You will not be able to work out your foreign income tax offset. We will work it out for you. Provide the following information. On a separate sheet of paper:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "print SCHEDULE OF ADDITIONAL INFORMATION - ITEM 20 on the top",
+        "print your name, address and tax file number",
+        "print each type and amount of foreign income, any foreign tax you paid on that foreign income and any pre-commencement excess foreign income tax amounts."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Attach your schedule to page 3 of your tax return and print X in the YES box at Taxpayer's declaration question 2a on page 12 of your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Go to part I below."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did the total amount of foreign tax you paid during 2010-11 exceed $1,000?"
+        ],
+        [
+          "No",
+          "Write the combined total of foreign tax paid and any available 'pre-commencement excess foreign income tax' at O item 20 . Show cents. This amount cannot be greater than $1,000. Go to part I below."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the total amount of foreign tax you paid during 2010-11 is greater than $1,000 you need to work out the full amount of foreign income tax offset that you are entitled to claim. Read Guide to foreign income tax offset rules to work out the total foreign income tax offset you can claim."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alternatively, you can simply claim a tax offset of $1,000. However, if you claim only $1,000 this year, you will not be able to claim the rest of this year's foreign tax in a future income year."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Have you limited your tax offset claim to $1,000 of the foreign tax paid?"
+        ],
+        [
+          "Yes",
+          "Write $1,000 at O item 20 . Go to part I below."
+        ],
+        [
+          "No",
+          "Read Guide to foreign income tax offset rules . Work out the total foreign income tax offset you can claim. Write the amount at O item 20 . Show cents. Go to part I below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Part I"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "At any time during 2010-11, did you own or have an interest in assets located outside Australia that had a total value of A$50,000 or more? Assets include real estate, shares in companies and other entities, interests in partnerships or trusts, businesses, debentures, bonds, money and funds held in accounts or by other parties, loans to other parties and deposits. They also include intangible property such as trademarks, copyrights, patents, debtors or 'equitable choses in action'. Your assets include any interest, whether legal or beneficial, and whether held directly or indirectly through one or more interposed entities. If all the assets you held overseas are covered under question 19 , your answer to this question is No ."
+        ],
+        [
+          "No",
+          "Print X in the NO box at P item 20 ."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Determine the value of all your overseas assets, whether tangible or intangible, and whether or not you received any income from those assets during 2010-11. Use:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the historical cost or market value, whichever is greater",
+        "the exchange rate at 30 June 2011 to convert the value of the assets to Australian dollars or, if you disposed of the assets during the year, the exchange rate at the time of disposal."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Print X in the Yes box at P item 20 if the value of your overseas assets was A$50,000 or more. Otherwise print X in the No box."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Check that you have . . ."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "written on your tax return as applicable",
+        "your assessable foreign source income your other net foreign employment income your net foreign pension or annuity incomes, without and with UPP your net foreign rent your other net foreign source income your Australian franking credits from a New Zealand company your net foreign employment income shown on PAYG payment summaries - foreign employment your foreign employment income that is exempt from tax your foreign income tax offset your answer to the question about the value of your overseas assets",
+        "attached to page 3 of your tax return your Schedule of additional information - Item 20 , if you need to send us one",
+        "completed P3 and P9 of the Business and professional items schedule for individuals 2011 if your business activity made a loss",
+        "kept your records with your other documents."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question 21 - Rent return to main menu Tax return for individuals instructions go back to question 19 - Foreign entities ."
+        ]
+      ]
+    }
+  ],
+  "content_text": "Did you: receive income from foreign employment receive a foreign pension or annuity receive a lump sum payment from a foreign superannuation fund transfer money from a foreign superannuation fund to an Australian superannuation fund receive any other foreign source income including interest, dividends, royalties or rent at any time during 2010-11, own or have an interest in assets located outside Australia that had a total value of A$50,000 or more? You can 'receive income' even if it is held overseas for you. You need to complete this item to claim a foreign income tax offset (formerly known as foreign tax credits) for foreign tax you have paid. See part H below.\nNo | go to question 21 - Rent , or return to main menu Tax return for individuals instructions .\nYes | Read below.\nDo not show at this item:\n- a capital gain or capital loss from a foreign source; question 18 - Capital gains deals with these amounts (the amount of any foreign income tax offset you calculate under part H may include amounts of foreign tax paid in respect of a capital gain from a foreign source)\n- a lump sum payment of your foreign pension that relates to an earlier year; read Lump sum payments in arrears at question 24 - Other income (if your arrears amount is exempt from tax see part B)\n- payments you received on termination of your employment in a foreign country where the payments were exempt from income tax under the law of the foreign country and you received the payments within 12 months of the termination; question 4 - Employment termination payments deals with these amounts\n- employee share scheme interests that you received at a discount and that relate to your foreign employment; question 12 - Employee share schemes deals with these amounts. The amount of any foreign income tax offset you calculate under part H may include amounts of foreign tax paid in respect of employee share scheme discounts.\n## You need to know\nIn general, if you need more information on the topics below, go to www.ato.gov.au or phone 13 28 61 .\nAll foreign income, deductions and foreign tax paid must be translated (converted) to Australian dollars before you complete this item. For information on foreign exchange rates go to www.ato.gov.au and enter 'foreign exchange rates' in the 'Search for' box at the top of the page. For information on how to convert your foreign income, phone 13 28 61 .\nAustralian resident\nIf you received income from overseas, you must show your assessable foreign income here, even if tax was taken out in the country from which the income came. Foreign income that is exempt from Australian tax may still be taken into account to work out the amount of tax you have to pay on your other income.\nIf you received a lump sum payment from a foreign superannuation fund, phone 13 10 20 . Some of these payments are taxable and some are exempt from Australian tax.\nYou must show the following amounts at this item:\n- an assessable dividend (or non-share dividend) from a New Zealand company and any attached Australian franking credits\n- a supplementary dividend from a New Zealand company\n- an assessable distribution from a trust or partnership (or share of a partnership loss) that includes Australian franking credits attached to a dividend (or non-share dividend) from a New Zealand company.\nA dividend from a New Zealand company may also carry New Zealand imputation credits. An Australian resident cannot claim any New Zealand imputation credits on an Australian tax return .\nFor more information, see parts E and G of this question.\nTemporary resident\nIf you were a temporary resident, the only foreign income you will need to show at this item is income that you earned from foreign employment while a temporary resident. Read below and part A of this question to determine how much of this foreign employment income you should report. Refer to Tax-free income for temporary residents in Amounts that you do not pay tax on for the definition of a temporary resident and details of the exemption.\n## What you may need\n- Payslips, foreign tax assessments, PAYG payment summary - foreign employment\n- Company, partnership and trust distribution advices\n- Details of any expenses you incurred in earning your foreign income\n- You and your shares 2011 (NAT 2632)\n- Guide to foreign income tax offset rules (NAT 72923)\n- Taxation Ruling TR 96/15 - Income tax: foreign tax credit system: issues relating to the practical application of section 23AG\n## Completing your tax return\n### PAYG payment summary - foreign employment\nIf you have foreign employment income shown on a PAYG payment summary - foreign employment , read on. Otherwise go to pa rt A below.\nMake sure you have included on your tax return the income shown on your PAYG payment summary - foreign employment . These amounts should be included at items 1 , 3 or 24 .\n### Step 1\nAdd all the 'Gross payments' from each PAYG payment summary - foreign employment .\n### Step 2\nAdd all the deductible expenses you incurred in earning your foreign employment income from step 1. You would have included these deductible expenses at items D1 to D5 .\n### Step 3\nTake the total deductible expenses from step 2 away from the total gross payments from step 1 and write the answer at U item 20 . If the answer is negative, print L in the Loss box at the right of U item 20 .\nIf you received no other foreign income, go to part H below. Otherwise, read below.\n## P art A\nDid you receive income from foreign employment that was not shown on a PAYG payment summary - foreign employment ?\nNo | Go to part B below.\nYes | Read below.\nForeign employment income is income you earned working overseas as an employee, such as salary, wages, commissions, bonuses or allowances. Do not include foreign employment income shown on a PAYG payment summary - foreign employment .\n### Step 1\nFind out whether any of your foreign employment income is exempt from Australian tax because of:\n- a privileges and immunities agreement or a law covering persons connected with international organisations\n- specific exemptions for the pay and allowances of members of the Australian Defence Force, related to qualifying service in a declared operational area.\nYour employer should be able to tell you whether either of these applies. If you need further help, phone 13 28 61 .\nIf all your foreign employment income is exempt for either of these reasons, do not include this income anywhere on your tax return. Go to part B. Otherwise, go to step 2.\n### Step 2\nYour foreign employment income that is not exempt under step 1 may still be exempt from tax. Work through the rest of the steps to find out whether it is exempt from tax. Even if it is exempt, we still take it into account to work out the tax on your other assessable income.\nIncome from self-employment and contracts is generally not exempt from tax. Include it in other foreign source income at part E.\n### Step 3\nDid you have foreign service that was directly attributable to: your deployment outside Australia as a member of a defence force or a police force by the Australian Government, a state or territory government, or an authority of such a government, or the activities of your employer in operating a public fund that is an international affairs deductible gift recipient, or the activities of your employer, provided that your employer is a prescribed institution located or pursuing objectives outside of Australia, or the delivery of Australian official development assistance by your employer? Were you engaged in foreign service in connection with an Austrade approved project?\nNo to both questions | Go to step 5.\nYes to either question | Read on.\nDid you: pay, or are you liable to pay, foreign income tax on your foreign employment income, or receive income from foreign service where that income would not have been exempt in the foreign service country but for the operation of a tax treaty between Australia and that country?\nNo | Go to step 4.\nYes | Go to step 5.\n### Step 4\nWork out the period that you were continuously engaged in service in the foreign country.\nIf you were absent from the foreign country at any time during this period, read the fact sheet Exempt foreign employment income to find out whether we consider you to have been continuously engaged in service in the foreign country. If you were working on a project approved by Austrade, read the fact sheet Foreign income while working on an approved overseas project .\nIf your period of continuous service in a foreign country was 90 days or less, your foreign employment income is not exempt from tax. If it was 91 days or more, your foreign employment income will generally be exempt from tax. If you are not sure, phone 13 28 61 . If your foreign employment income is not exempt from tax, go to step 5. Otherwise, read on.\nIf any of your foreign employment income is exempt from tax, write the total that is exempt from tax less any expenses that are not capital in nature that you incurred in earning that exempt income at N item 20 . If the amount was a loss, write 0 . You cannot claim a foreign income tax offset on this income.\n### Foreign employment income paid in arrears\nIf your foreign employment income that is exempt from tax includes an amount paid in arrears and you are liable for the Medicare levy surcharge (see item M2 - Medicare levy surcharge ) you need to provide the following additional information. On a separate sheet of paper:\n- print SCHEDULE OF ADDITIONAL INFORMATION - ITEM 20 on top of the page\n- print your name, address and tax file number\n- show the amount of the payment in arrears for each income year involved\n- attach your schedule to page 3 of your tax return, and print X in the Yes box at Taxpayer's declaration item 2a on page 12 of your tax return.\nIf you did not need to lodge a tax return for the two most recent years that the payment related to, you will need to follow the instructions in the last paragraph under the heading Lump sum payments in arrears at question 24 - Other income .\nIf all your foreign employment income is exempt go to part B. Otherwise, read on.\n### Step 5\nAdd up all your gross foreign employment income amounts before any foreign tax was taken out. (Do not include any exempt income or foreign employment income shown on a PAYG payment summary - foreign employment ). Write the total at (a) in worksheet 1 .\n### Step 6\nAdd up all the deductible expenses that you incurred in earning the foreign employment income from step 5, and write the total at (b) in worksheet 1 .\nThe types of expenses you may be able to deduct against your foreign employment income are explained at questions D1 to D5 , but do not claim these expenses at D1 to D5 .\nDebt deductions, such as interest and borrowing costs, are not deductible for the purpose of this calculation. If you incurred debt deductions in earning your foreign employment income, see question D15.\nTake the amount at (b) away from the amount at (a). Write the answer at (c) in worksheet 1 .\nIf (b) is greater then (a), the amount at (c) will be a loss.\nExample 1\nLachlan was employed overseas from 15 October 2010 until 23 April 2011. He did not receive a PAYG payment summary - foreign employment and the income was not exempt income. Lachlan received A$11,250 for his foreign employment after he paid A$3,750 in foreign tax. He also incurred deductible work-related expenses of A$500. Lachlan adds the A$3,750 in foreign tax to the A$11,250 he received to work out his assessable foreign employment income which is A$15,000. He deducts his A$500 work-related expenses, and his net foreign employment income is A$14,500. Lachlan writes $15,000 at (a) in worksheet 1 , $500 at (b) and $14,500 at (c).\n### Step 7\nTransfer the amount at (c) in worksheet 1 to T item 20 . If you made a loss, print L in the Loss box at the right of T item 20 .\nIf you received no other foreign income, go to part F below. Otherwise read on.\n## Part B\nDid you receive a foreign pension or annuity?\nNo | Go to part C below.\nYes | Read below, and if you need help phone 13 28 61 .\nMost foreign pensions and annuities are taxable in Australia, even if tax was withheld from your payment by the country from which the payment came. Examples of foreign pensions and annuities that fall into this category are age and superannuation pensions paid from Austria, Germany, Italy, the Netherlands and the United Kingdom.\nYou may claim a foreign income tax offset at this item if:\n- the country from which your foreign pension or annuity came withheld tax from your payment\n- you were not entitled to seek a refund of the foreign tax from that country (see part H below), and\n- the foreign pension or annuity is also taxable in Australia.\nA refund may result from the terms of an agreement between Australia and that country to prevent double taxation.\nIf your foreign pension or annuity is paid from a country with which Australia has a tax treaty, you may be able to make arrangements to not have tax withheld from future payments from that country.\nUnder our tax treaties foreign tax authorities tell us about income paid to (and the tax withheld from) Australian taxpayers. We use that information to check tax returns. Make sure you show your foreign income fully and correctly on your tax return.\nHowever, if your foreign pension or annuity (including any lump sum payment of your foreign pension or annuity in arrears) is not taxable in Australia, do not show it anywhere on your tax return. Go to part C below.\nIf your foreign pension or annuity is taxable, read below.\n### Step 1\nIf you had foreign tax taken from any of your foreign pensions or annuities, add the amount of foreign tax to the amount of foreign pension or annuity you received.\n### Step 2\nSort your foreign pensions and annuities into those with an undeducted purchase price (UPP) and those without a UPP.\nAdd up all foreign pensions and annuities (including any amounts you calculated at step 1) without a UPP. Write the total amount at (d) in worksheet 1 .\nAdd up all foreign pensions and annuities (including any amounts you calculated at step 1) with a UPP. Write the total amount at (g) in worksheet 1 .\n### Step 3\nAdd up your deductible expenses\nDebt deductions, such as interest and borrowing costs, are not deductible for the purpose of this calculation. If you incurred debt deductions in earning your foreign pension or annuity, see item D15 - Other deductions .\nIf your foreign pension or annuity has a deductible amount of a UPP, you claim a deduction for this amount at item D11 - Deductible amount of undeducted purchase price of a foreign pension or annuity . Do not include the amount in your deductible expenses at this step.\nAdd up any deductible expenses that you incurred in relation to your foreign pensions or annuities without a UPP. Write the total at (e) in worksheet 1 .\nAdd up any deductible expenses that you incurred in relation to your foreign pensions or annuities with a UPP. Write the total at (h) in worksheet 1 .\n### Step 4\nTake the amount at (e) away from the amount at (d) in worksheet 1 and write the answer at (f). If (e) is greater then (d), the amount at (f) will be a loss.\nTake the amount at (h) away from the amount at (g) in worksheet 1 and write the answer at (j). If (h) is greater then (g), the amount at (j) will be a loss.\n### Step 5\nTransfer the amount at (f) in worksheet 1 to L item 20 . If you made a loss, print L in the Loss box at the right of L item 20 .\nTransfer the amount at (j) in worksheet 1 to D item 20 . If you made a loss, print L in the Loss box at the right of D item 20 . Do not include as a loss any amount by which the UPP exceeds the amount of your foreign pension or annuity (including the amount of foreign tax you added back to your foreign pension or annuity at step 1).\nIf you received no other foreign income, go to part F below. Otherwise, read below.\n## Part C\nDid you receive any foreign rental income?\nNo | Go to part D below.\nYes | Read below.\n### Step 1\nMake sure when calculating your total rental income to add back any foreign tax that was taken out. Write your total rental income at (k) in worksheet 1 .\n### Step 2\nAdd up all the deductible expenses that you incurred in relation to your foreign rental income. Write this amount at (l) in worksheet 1 .\n### Step 3\nTake the amount at (l) away from the amount at (k) in worksheet 1 and write the answer at (m). If (l) is greater than (k), the amount at (m) will be a loss.\n### Step 4\nTransfer the amount at (m) in worksheet 1 to R item 20 . If you made a loss, print L in the Loss box at the right of R item 20 .\nIf you received no other foreign income, go to part F below. Otherwise, read on.\n## Part D\n### Foreign superannuation lump sums\nDid you: receive a lump sum payment from a foreign superannuation fund, or transfer a lump sum from a foreign superannuation fund to an Australian superannuation fund?\nNo | Go to part E below.\nYes | Read below.\nThis part does not apply to transfers of lump sums from one foreign superannuation fund to another foreign superannuation fund.\nA lump sum payment from a foreign superannuation fund may be tax-free if you received it within six months:\n- after you become an Australian resident, or\n- after you terminate your foreign employment.\nTo determine whether the lump sum payment you received is tax-free see Super lump sums from a foreign super fund .\nIf your lump sum payment is tax free, do not show it anywhere on your tax return.\nIf your lump sum payment is not tax-free, then you need to show on your tax return the amount of the lump sum that relates to your applicable fund earnings. In general terms, applicable fund earnings are the earnings on your foreign super interest which have accrued while you were a resident of Australia.\nHowever, you do not need to show your applicable fund earnings on your tax return if:\n- all of your lump sum is paid into an Australian complying superannuation fund, and\n- after the lump sum is paid, you no longer have an interest in the foreign superannuation fund, and\n- you make a choice to have your applicable fund earnings included in the assessable income of your Australian superannuation fund. Your choice must be in writing and provided to your superannuation fund.\nFor more information on the tax treatment of foreign fund transfers, see Tax treatment of transfers from foreign super funds , Super lump sums from a foreign super fund and Super contributions - too much super can mean extra tax .\nFor more information, phone 13 10 20 .\nDetermine the amount (if any) of your applicable fund earnings from each fund you need to include in your assessable income. Add up your applicable fund earnings amounts and write the total at (q) in worksheet 1 .\nIf you received other foreign income, go to part E below. Otherwise:\n- transfer the amount at (q) in worksheet 1 to M item 20\n- go to part F below\n## Part E\nDid you receive any other foreign source income, including: interest, royalties or dividends income from carrying on a business wholly or partly overseas any other foreign income? Include at this item dividends you received from a New Zealand company (including non-share dividends). Include at this item any supplementary dividends you received from a New Zealand company. Also include any dividend (or non-share dividend) income from a New Zealand company that you received or became entitled to during 2010-11 through a partnership or a trust. Do not include any Australian franking credits from a New Zealand company that you received directly, or indirectly through a trust or partnership. Show these amounts at part G. If you have paid foreign tax on an attribution account payment (usually a dividend distribution) you received that was paid out of previously attributed income and that payment is non-assessable non-exempt income, (tax-free income) you do not include this income anywhere on your tax return.\nNo | Go to part F below.\nYes | Read below.\nIf you received a payment from a foreign source on termination of your foreign employment, and it is not an employment termination payment or a foreign termination payment (both defined in question 4 - Employment termination payments (ETPs) ), and the payment was not shown on a PAYG payment summary - individual non-business or PAYG payment summary - foreign employment , include the payment at this item.\n### Step 1\nIf you had foreign tax (including New Zealand non-resident withholding tax) taken away from this income, add it to the amount you received.\nAdd up all of the assessable foreign income (including foreign tax on that income) that you have not already shown on your tax return. Write the total at (r) on worksheet 1 .\n### Step 2\nAdd up all the deductible expenses that you incurred in earning the foreign income you showed at step 1. Write the total at (s) in worksheet 1 .\nDebt deductions, such as interest and borrowing costs, are not deductible for the purposes of this calculation unless they are related to income earned through a permanent establishment in an overseas country. If you incurred debt deductions in earning your foreign income and the deductions are not attributable to an overseas permanent establishment, see question D15 - Other deductions .\n### Step 3\nTake the amount at (s) away from the amount at (r) in worksheet 1 and write the answer at (t). If (s) is greater then (r), the amount at (t) will be a loss.\n### Step 4\nAdd up the amounts at (q) and (t) in worksheet 1 . Write this total at M item 20 . If the total is a loss, print L in the Loss box at the right of M item 20 .\nIf any part of the amount at (t) relates to a business activity that has made a loss, and the activity was not also carried on in Australia, read Business and professional items 2011 (NAT 2543) and complete P3 and P9. If the business activity was carried on partly overseas and partly in Australia, phone 13 28 66 for assistance.\n## Part F\n### Working out your assessable foreign source income\nAdd up the amounts at (a), (d), (g), (k), (q) and (r) in worksheet 1 . The total is your assessable foreign source income. Write this amount at E item 20 .\nMake sure the amount you have shown at E does not include any exempt foreign income or income shown on a PAYG payment summary - foreign employment .\nIf you have Australian franking credits from New Zealand companies, go to part G below. If you are entitled to a foreign income tax offset, go to part H.\nOtherwise, go to part I below.\nWorksheet 1: Other foreign income\nType of foreign income | Assessable amount | Deductible expenses | Taxable amount\nPart A | Employment income not shown on a PAYG payment summary - foreign employment | (a) | (b) | (c)\nPart B | Pension or annuity income without a UPP | (d) | (e) | (f)\nPension or annuity income with a UPP | (g) | (h) | (j)\nPart C | Rental income | (k) | (l) | (m)\nPart D | Superannuation lump sums | (q) |  | \nPart E | Other income | (r) | (s) | (t)\n## Part G\n### Working out your Australian franking credits from a New Zealand company\n### Step 1\nAdd up all amounts of Australian franking credits from a New Zealand company that you are entitled to, whether:\n- directly by way of franked dividends or franked non-share dividends paid to you by the company, or\n- indirectly through a trust or partnership.\nDo not include:\n- New Zealand imputation credits\n- Australian franking credits you received from an Australian company (show these amounts at either item 11 Dividends or item 13 Partnerships and trusts)\n- Australian franking credits that you are not entitled to (for example, because the dividend, non-share dividend, or income from the trust or partnership is exempt, or because you fail the holding period rule or trigger the related payments rule).\nFor more information, see You and your shares 2011 (NAT 2632).\nThe amount of Australian franking credits you would otherwise be entitled to is reduced if:\n- you received a dividend (or non-share dividend) from a New Zealand company with Australian franking credits attached, and\n- you received a supplementary dividend from the New Zealand company (either directly, or indirectly through a partnership or trust) that was paid in connection with the franked dividend, and\n- you are entitled to a foreign income tax offset because of the inclusion of the franked dividend in your assessable income.\nThe amount of the reduction is the amount of the supplementary dividend (or your share of the supplementary dividend if you received it indirectly through a trust or partnership).\n### Step 2\nWrite the amount you worked out at step 1 at F item 20 .\n## Part H\n### Working out your foreign income tax offset\nRead Guide to foreign income tax offset rules (NAT 72923) to work out your foreign income tax offset if:\n- you have 'pre-commencement excess foreign income tax' (these are certain unused excess foreign tax credits that existed when the foreign income tax offset rules came into effect on 1 July 2008), or\n- you have paid foreign tax on an attribution account payment you received (usually a dividend distribution) that was paid out of previously attributed income and that payment is non-assessable and non-exempt income, or\n- the amount of foreign tax you have paid relates to an amount that differs from the amount included in your assessable income. For example, where you have both capital losses and foreign capital gains, the net capital gain included in your assessable income will be less than the foreign capital gain on which you paid foreign tax.\nYou need to complete part H if:\n- you acquired employee share scheme interests at a discount in relation to your foreign employment, and\n- you paid tax on the discounts in the foreign country.\nWhen completing the steps below you must include the foreign tax paid in relation to the employee share scheme discounts that relate to your foreign employment.\nHave you shown exempt foreign employment income at N item 20?\nNo | Go to step 1 below.\nYes | Read below.\nYou will not be able to work out your foreign income tax offset. We will work it out for you. Provide the following information. On a separate sheet of paper:\n- print SCHEDULE OF ADDITIONAL INFORMATION - ITEM 20 on the top\n- print your name, address and tax file number\n- print each type and amount of foreign income, any foreign tax you paid on that foreign income and any pre-commencement excess foreign income tax amounts.\nAttach your schedule to page 3 of your tax return and print X in the YES box at Taxpayer's declaration question 2a on page 12 of your tax return.\nGo to part I below.\n### Step 1\nDid the total amount of foreign tax you paid during 2010-11 exceed $1,000?\nNo | Write the combined total of foreign tax paid and any available 'pre-commencement excess foreign income tax' at O item 20 . Show cents. This amount cannot be greater than $1,000. Go to part I below.\nYes | Read below.\n### Step 2\nIf the total amount of foreign tax you paid during 2010-11 is greater than $1,000 you need to work out the full amount of foreign income tax offset that you are entitled to claim. Read Guide to foreign income tax offset rules to work out the total foreign income tax offset you can claim.\nAlternatively, you can simply claim a tax offset of $1,000. However, if you claim only $1,000 this year, you will not be able to claim the rest of this year's foreign tax in a future income year.\nHave you limited your tax offset claim to $1,000 of the foreign tax paid?\nYes | Write $1,000 at O item 20 . Go to part I below.\nNo | Read Guide to foreign income tax offset rules . Work out the total foreign income tax offset you can claim. Write the amount at O item 20 . Show cents. Go to part I below.\n## Part I\nAt any time during 2010-11, did you own or have an interest in assets located outside Australia that had a total value of A$50,000 or more? Assets include real estate, shares in companies and other entities, interests in partnerships or trusts, businesses, debentures, bonds, money and funds held in accounts or by other parties, loans to other parties and deposits. They also include intangible property such as trademarks, copyrights, patents, debtors or 'equitable choses in action'. Your assets include any interest, whether legal or beneficial, and whether held directly or indirectly through one or more interposed entities. If all the assets you held overseas are covered under question 19 , your answer to this question is No .\nNo | Print X in the NO box at P item 20 .\nYes | Read below.\nDetermine the value of all your overseas assets, whether tangible or intangible, and whether or not you received any income from those assets during 2010-11. Use:\n- the historical cost or market value, whichever is greater\n- the exchange rate at 30 June 2011 to convert the value of the assets to Australian dollars or, if you disposed of the assets during the year, the exchange rate at the time of disposal.\nPrint X in the Yes box at P item 20 if the value of your overseas assets was A$50,000 or more. Otherwise print X in the No box.\n## Check that you have . . .\n- written on your tax return as applicable\n- your assessable foreign source income your other net foreign employment income your net foreign pension or annuity incomes, without and with UPP your net foreign rent your other net foreign source income your Australian franking credits from a New Zealand company your net foreign employment income shown on PAYG payment summaries - foreign employment your foreign employment income that is exempt from tax your foreign income tax offset your answer to the question about the value of your overseas assets\n- attached to page 3 of your tax return your Schedule of additional information - Item 20 , if you need to send us one\n- completed P3 and P9 of the Business and professional items schedule for individuals 2011 if your business activity made a loss\n- kept your records with your other documents.\nWhere to go next go to question 21 - Rent return to main menu Tax return for individuals instructions go back to question 19 - Foreign entities .",
+  "child_links": [],
+  "word_count": 5427,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

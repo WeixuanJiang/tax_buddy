@@ -1,0 +1,111 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2012/tax-return/adjustment-questions-a1-a3/a2-part-year-tax-free-threshold-2012",
+  "title": "A2 - Part-year tax-free threshold 2012",
+  "description": "Complete question A2 if you were not an Australian resident for the whole financial year.",
+  "nat_number": "71050",
+  "quick_code": "25715",
+  "date_updated": "2012-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, part-year threshold, tax-free threshold, tax-free",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "If you were not an Australian resident for the whole 2011-12 year, we use the information you show at this item on your tax return to work out your tax-free threshold."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are not sure whether you are an Australian resident, read Are you a resident?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "In 2011-12 did you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "become an Australian resident, or",
+        "stop being an Australian resident?"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to A3 - Super co-contribution ."
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you became an Australian resident in 2011-12"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the date you became an Australian resident for tax purposes in the Date box at item A2 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the number of months that you were an Australian resident in 2011-12 (counting the first month during which you became a resident) at N item A2 . For example, if you became a resident in November 2011 and remained a resident for the rest of the income year, you would write 8 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you stopped being an Australian resident in 2011-12"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the date you stopped being an Australian resident for tax purposes in the Date box at item A2 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the number of months from 1 July 2011 to when you stopped being an Australian resident (counting the month in which you stopped being a resident) at N item A2 . For example, if you stopped being a resident in September 2011, you would write 3 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question A3 - Super co-contribution return to main menu Individual tax return instructions , or go back to question A1 - Under 18 ."
+        ]
+      ]
+    }
+  ],
+  "content_text": "If you were not an Australian resident for the whole 2011-12 year, we use the information you show at this item on your tax return to work out your tax-free threshold.\nIf you are not sure whether you are an Australian resident, read Are you a resident?\n## In 2011-12 did you:\n- become an Australian resident, or\n- stop being an Australian resident?\nNO | Go to A3 - Super co-contribution .\nYES | Read below.\n## Completing your tax return\n### If you became an Australian resident in 2011-12\n#### Step 1\nWrite the date you became an Australian resident for tax purposes in the Date box at item A2 .\n#### Step 2\nWrite the number of months that you were an Australian resident in 2011-12 (counting the first month during which you became a resident) at N item A2 . For example, if you became a resident in November 2011 and remained a resident for the rest of the income year, you would write 8 .\n### If you stopped being an Australian resident in 2011-12\n#### Step 1\nWrite the date you stopped being an Australian resident for tax purposes in the Date box at item A2 .\n#### Step 2\nWrite the number of months from 1 July 2011 to when you stopped being an Australian resident (counting the month in which you stopped being a resident) at N item A2 . For example, if you stopped being a resident in September 2011, you would write 3 .\nWhere to go next go to question A3 - Super co-contribution return to main menu Individual tax return instructions , or go back to question A1 - Under 18 .",
+  "child_links": [],
+  "word_count": 284,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

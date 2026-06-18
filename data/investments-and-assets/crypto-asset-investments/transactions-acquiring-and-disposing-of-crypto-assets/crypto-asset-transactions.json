@@ -1,0 +1,75 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/crypto-asset-investments/transactions-acquiring-and-disposing-of-crypto-assets/crypto-asset-transactions",
+  "title": "Crypto asset transactions",
+  "description": "Most activities involving crypto assets count as transactions and can trigger a CGT event.",
+  "nat_number": "",
+  "quick_code": "69948",
+  "date_updated": "2025-06-22T14:00:00Z",
+  "first_published": "",
+  "keywords": "crypto transaction tax, transactions with crypto, tax on crypto asset transactions, acquiring crypto, disposing of crypto, tax when disposing crypto, tax on selling crypto",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Transactions amounting to a CGT event"
+    },
+    {
+      "type": "paragraph",
+      "text": "A CGT event happens when you dispose of your crypto asset."
+    },
+    {
+      "type": "paragraph",
+      "text": "If there is a CGT event, you may make either a capital gain or capital loss on the disposal of the crypto asset. If you make a capital gain, you may pay tax on it."
+    },
+    {
+      "type": "paragraph",
+      "text": "A transaction involving a disposal takes place when you do any of the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "sell a crypto asset",
+        "gift a crypto asset",
+        "trade, exchange or swap a crypto asset for another crypto asset",
+        "convert a crypto asset to Australian or foreign currency (otherwise known as 'fiat currency')",
+        "buy goods or services with a crypto asset."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Other rules may apply depending on how you're using crypto assets for business transactions ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Our crypto asset data-matching program matches what you report in your tax return with data on crypto asset transactions and accounts from designated service providers. This helps us identify the buyers and sellers of crypto assets and quantify transactions."
+    },
+    {
+      "type": "paragraph",
+      "text": "For a summary fact sheet about crypto assets, go to the ATO Publication Ordering Service to download Tax and crypto asset investments External Link ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Valuing crypto assets in Australian dollars"
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to know the value of your crypto asset to determine if you make a capital gain or capital loss on the CGT event happening."
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out the value of your crypto assets when you acquire or dispose of them you will need to convert their value to Australian dollars. From 1 January 2020, the ATO has used the exchange rates from the Reserve Bank of Australia. If you need daily foreign exchange rates, refer to Reserve Bank of Australia – Exchange rates External Link . If you use a foreign exchange rate for currency not listed, you may use any reasonable externally sourced exchange rate for that currency. For more information go to Foreign exchange rates ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to keep crypto asset transaction records . You can then work out your CGT using our online calculator and record keeping tool."
+    }
+  ],
+  "content_text": "## Transactions amounting to a CGT event\nA CGT event happens when you dispose of your crypto asset.\nIf there is a CGT event, you may make either a capital gain or capital loss on the disposal of the crypto asset. If you make a capital gain, you may pay tax on it.\nA transaction involving a disposal takes place when you do any of the following:\n- sell a crypto asset\n- gift a crypto asset\n- trade, exchange or swap a crypto asset for another crypto asset\n- convert a crypto asset to Australian or foreign currency (otherwise known as 'fiat currency')\n- buy goods or services with a crypto asset.\nOther rules may apply depending on how you're using crypto assets for business transactions .\nOur crypto asset data-matching program matches what you report in your tax return with data on crypto asset transactions and accounts from designated service providers. This helps us identify the buyers and sellers of crypto assets and quantify transactions.\nFor a summary fact sheet about crypto assets, go to the ATO Publication Ordering Service to download Tax and crypto asset investments External Link .\n## Valuing crypto assets in Australian dollars\nYou need to know the value of your crypto asset to determine if you make a capital gain or capital loss on the CGT event happening.\nTo work out the value of your crypto assets when you acquire or dispose of them you will need to convert their value to Australian dollars. From 1 January 2020, the ATO has used the exchange rates from the Reserve Bank of Australia. If you need daily foreign exchange rates, refer to Reserve Bank of Australia – Exchange rates External Link . If you use a foreign exchange rate for currency not listed, you may use any reasonable externally sourced exchange rate for that currency. For more information go to Foreign exchange rates .\nYou will need to keep crypto asset transaction records . You can then work out your CGT using our online calculator and record keeping tool.",
+  "child_links": [],
+  "word_count": 344,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

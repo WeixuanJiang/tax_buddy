@@ -1,0 +1,80 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2012/supplementary-tax-return/deduction-questions-d11-d15/total-supplement-deductions-2012",
+  "title": "Total supplement deductions 2012",
+  "description": "Complete the total supplement deductions section of your supplementary tax return.",
+  "nat_number": "71051",
+  "quick_code": "25745",
+  "date_updated": "2012-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, TaxPack supplement, deductions, supplement deductions",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Did you claim any deductions at items D11 to D15?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to step 4."
+        ],
+        [
+          "YES",
+          "Go to step 1."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all the deduction amounts in the right-hand column of items D11 to D15 on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the amount from step 1 at TOTAL SUPPLEMENT DEDUCTIONS on page 15 of your tax return. Do not show cents."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount you wrote at TOTAL SUPPLEMENT DEDUCTIONS to D on page 4 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Go to Total deductions ; then work through the Losses section ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question T7 - Superannuation contributions on behalf of your spouse return to main menu Individual tax return instructions go back to question D15 - Other deductions"
+        ]
+      ]
+    }
+  ],
+  "content_text": "## Did you claim any deductions at items D11 to D15?\nNO | Go to step 4.\nYES | Go to step 1.\n## Step 1\nAdd up all the deduction amounts in the right-hand column of items D11 to D15 on your tax return.\n## Step 2\nWrite the amount from step 1 at TOTAL SUPPLEMENT DEDUCTIONS on page 15 of your tax return. Do not show cents.\n## Step 3\nTransfer the amount you wrote at TOTAL SUPPLEMENT DEDUCTIONS to D on page 4 of your tax return.\n## Step 4\nGo to Total deductions ; then work through the Losses section .\nWhere to go next go to question T7 - Superannuation contributions on behalf of your spouse return to main menu Individual tax return instructions go back to question D15 - Other deductions",
+  "child_links": [],
+  "word_count": 137,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

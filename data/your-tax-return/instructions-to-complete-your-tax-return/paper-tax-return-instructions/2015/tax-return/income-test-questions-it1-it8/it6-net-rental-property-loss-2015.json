@@ -1,0 +1,149 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2015/tax-return/income-test-questions-it1-it8/it6-net-rental-property-loss-2015",
+  "title": "IT6 Net rental property loss 2015",
+  "description": "Complete question IT6 to include the net loss from any rental property you owned.",
+  "nat_number": "",
+  "quick_code": "44230",
+  "date_updated": "2015-05-28T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, TaxPack, income test, net rental loss, rental property, loss",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about the net loss, if any, from any rental property you owned."
+    },
+    {
+      "type": "paragraph",
+      "text": "This question is not about capital gains or capital losses from your rental properties."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Did you earn rental income, claim rental deductions or receive a partnership distribution that included rental income or losses?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Write 0 at Y item IT6 , then go to question IT7 Child support you paid , or return to main menu Individual tax return instructions ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "We will calculate the amount of your net rental property loss for you using the information you provide in your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete worksheet 1 to work out your net rental property loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any loss amounts in worksheet 1 must be shown as negative amounts (including any totals)."
+    },
+    {
+      "type": "paragraph",
+      "text": "At (c) write your share of net rental property income or loss from the partnership tax return statement of distribution."
+    },
+    {
+      "type": "paragraph",
+      "text": "At (d) write the net income or loss from carrying on a rental property business which you take into account in working out the amount at Z item P8 of the Business and professional items schedule for individuals 2015 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "At (f) write the total of the low-value pool deductions relating to your rental properties that you included at item D6 ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 1 Net rental property loss"
+        ],
+        [
+          "Net foreign rent (from R item 20 )",
+          "$",
+          "(a)"
+        ],
+        [
+          "Net rent (from item 21 )",
+          "$",
+          "(b)"
+        ],
+        [
+          "Share of net rental property income or loss",
+          "$",
+          "(c)"
+        ],
+        [
+          "Net income or loss from rental property business",
+          "$",
+          "(d)"
+        ],
+        [
+          "Add (a), (b), (c) and (d).",
+          "$",
+          "(e)"
+        ],
+        [
+          "Total of the low-value pool deductions",
+          "$",
+          "(f)"
+        ],
+        [
+          "Take away (f) from (e).",
+          "$",
+          "(g)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at (g) in worksheet 1 is negative, (that is, a loss), write that amount at Y item IT6 . Otherwise write 0 at Y ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question IT7 Child support you paid .",
+        "Return to main menu Individual tax return instructions .",
+        "Go back to question IT5 Net financial investment loss ."
+      ]
+    }
+  ],
+  "content_text": "This question is about the net loss, if any, from any rental property you owned.\nThis question is not about capital gains or capital losses from your rental properties.\n## Did you earn rental income, claim rental deductions or receive a partnership distribution that included rental income or losses?\nNo | Write 0 at Y item IT6 , then go to question IT7 Child support you paid , or return to main menu Individual tax return instructions .\nYes | Read on.\n## Answering this question\nWe will calculate the amount of your net rental property loss for you using the information you provide in your tax return.\n## Completing your tax return\n### Step 1\nComplete worksheet 1 to work out your net rental property loss.\nAny loss amounts in worksheet 1 must be shown as negative amounts (including any totals).\nAt (c) write your share of net rental property income or loss from the partnership tax return statement of distribution.\nAt (d) write the net income or loss from carrying on a rental property business which you take into account in working out the amount at Z item P8 of the Business and professional items schedule for individuals 2015 .\nAt (f) write the total of the low-value pool deductions relating to your rental properties that you included at item D6 .\nWorksheet 1 Net rental property loss\nNet foreign rent (from R item 20 ) | $ | (a)\nNet rent (from item 21 ) | $ | (b)\nShare of net rental property income or loss | $ | (c)\nNet income or loss from rental property business | $ | (d)\nAdd (a), (b), (c) and (d). | $ | (e)\nTotal of the low-value pool deductions | $ | (f)\nTake away (f) from (e). | $ | (g)\n### Step 2\nIf the amount at (g) in worksheet 1 is negative, (that is, a loss), write that amount at Y item IT6 . Otherwise write 0 at Y .\n### Where to go next\n- Go to question IT7 Child support you paid .\n- Return to main menu Individual tax return instructions .\n- Go back to question IT5 Net financial investment loss .",
+  "child_links": [],
+  "word_count": 372,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

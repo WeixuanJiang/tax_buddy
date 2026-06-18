@@ -1,0 +1,215 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/capital-gains-tax/inherited-assets-and-capital-gains-tax/cost-base-of-inherited-assets",
+  "title": "Cost base of inherited assets",
+  "description": "How to work out the cost of an inherited asset when you calculate CGT.",
+  "nat_number": "",
+  "quick_code": "66053",
+  "date_updated": "2025-06-22T14:00:00Z",
+  "first_published": "",
+  "keywords": "inherited asset cost base, inherited property cost base, calculate cost base inherited asset, inherited asset",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Asset acquired by deceased before 20 September 1985"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the deceased acquired the asset before 20 September 1985, it was a pre-CGT asset while they owned it. The first element of your cost base is the market value of the asset on the day the deceased died."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the deceased made a major improvement to the asset on or after 20 September 1985, the improvement is not treated as a separate asset. You are taken to have acquired a single asset."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cost base of this single asset is the total of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the cost base of the major improvement on the day the person died",
+        "the market value of the pre-CGT asset, excluding the improvement, on the day the deceased died."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Asset acquired by deceased after 20 September 1985"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the deceased acquired the asset on or after 20 September 1985, the first element of your cost base is generally what the deceased’s cost base for the asset was on the day they died."
+    },
+    {
+      "type": "paragraph",
+      "text": "The first element of your cost base is the market value of the asset on the day the deceased died if the asset either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "is a property that passed to you after 20 August 1996 (but not as a joint tenant ), and just before the deceased died it was their main residence and was not being used to produce income",
+        "passed to you as the trustee of a special disability trust."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Expenses the beneficiary includes in the cost base"
+    },
+    {
+      "type": "paragraph",
+      "text": "As a beneficiary, you can include in your cost base (and reduced cost base) any expenditure a legal personal representative (LPR) would have included in their cost base if they had sold the asset instead of distributing it to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "You include the expenditure on the date the LPR incurred it."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: transfer of an asset from executor (LPR) to beneficiary"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maria died on 13 October 2024 leaving 2 assets:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a parcel of 2,000 shares",
+        "a vacant block of land."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The executor of the estate:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "disregarded any capital gain or loss on the transfer of the assets",
+        "sold the shares to pay Maria's outstanding debts",
+        "transferred the land to Maria's beneficiary, Antonio, and paid the conveyancing fee of $5,000 upon payment of all debts and tax."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The shares were not transferred to a beneficiary. Therefore, the executor must include any capital gain or loss on this disposal in the tax return for Maria's deceased estate."
+    },
+    {
+      "type": "paragraph",
+      "text": "The land was transferred to a beneficiary. Any capital gain or loss on this transfer is disregarded by the LPR."
+    },
+    {
+      "type": "paragraph",
+      "text": "The first element of Antonio's cost base is Maria's cost base on the date of her death. Antonio can include the $5,000 the executor spent on the conveyancing in his cost base."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Legal costs incurred by a legal personal representative"
+    },
+    {
+      "type": "paragraph",
+      "text": "As the LPR, in some circumstances, legal costs you incur may form part of the cost base of the estate's assets."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if a LPR incurs costs to confirm the validity of the deceased's will or defend a claim for control of the estate, these costs form part of the cost base of the estate's assets."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: legal costs incurred to prove the validity of a will"
+    },
+    {
+      "type": "paragraph",
+      "text": "Annie is the executor (LPR) of a deceased estate."
+    },
+    {
+      "type": "paragraph",
+      "text": "The deceased had more than one will prepared prior to their death:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The final will left the estate’s assets to Max.",
+        "Prior wills had left the estate’s assets to family members."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The family members challenged the validity of the deceased’s will in Court. As a result, Annie incurred legal costs on behalf of the deceased estate to defend this action."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Court held that the final will was valid and granted probate."
+    },
+    {
+      "type": "paragraph",
+      "text": "The legal costs that Annie incurred to confirm the validity of the will and obtain probate were incurred to preserve or defend the rights over the estate’s assets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Annie can't claim a deduction for these costs in her capacity as LPR as they are capital in nature. She can, however, include these legal costs in the cost base of the estate’s assets."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, not all costs incurred by a LPR having a connection to estate assets will form part of the cost base of the estate's assets."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: legal costs incurred prior to the deceased’s death"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cassie is the executor (LPR) of a deceased estate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shortly prior to and in anticipation of the deceased’s death, Cassie acted as the solicitor for the deceased."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cassie prepared an agreement for the transfer of interests in an asset of the deceased."
+    },
+    {
+      "type": "paragraph",
+      "text": "These actions were undertaken by Cassie prior to the deceased’s death and the commencing of Cassie’s duties as the LPR of the estate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any charges for Cassie’s solicitor services prior to the deceased’s death can't be included in the cost base of the estate’s assets. Cassie’s solicitor charges for the administration of the estate once she commences duties as the LPR can be included in the cost base of the estate assets."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Indexing the cost base of an inherited asset"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the deceased died before 21 September 1999, you have the option of indexing the cost base when you dispose of the asset. Alternatively, you can claim the CGT discount. Usually, the discount will give you a better result."
+    },
+    {
+      "type": "paragraph",
+      "text": "With indexation, you calculate your capital gain by using the first element of the asset's cost base indexed for inflation up until 21 September 1999. You don't apply the discount."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the deceased died on or after 21 September 1999, you can't use indexation. If the deceased's cost base includes indexation, you must recalculate the first element of your cost base to exclude it."
+    }
+  ],
+  "content_text": "## Asset acquired by deceased before 20 September 1985\nIf the deceased acquired the asset before 20 September 1985, it was a pre-CGT asset while they owned it. The first element of your cost base is the market value of the asset on the day the deceased died.\nIf the deceased made a major improvement to the asset on or after 20 September 1985, the improvement is not treated as a separate asset. You are taken to have acquired a single asset.\nThe cost base of this single asset is the total of:\n- the cost base of the major improvement on the day the person died\n- the market value of the pre-CGT asset, excluding the improvement, on the day the deceased died.\n## Asset acquired by deceased after 20 September 1985\nIf the deceased acquired the asset on or after 20 September 1985, the first element of your cost base is generally what the deceased’s cost base for the asset was on the day they died.\nThe first element of your cost base is the market value of the asset on the day the deceased died if the asset either:\n- is a property that passed to you after 20 August 1996 (but not as a joint tenant ), and just before the deceased died it was their main residence and was not being used to produce income\n- passed to you as the trustee of a special disability trust.\n## Expenses the beneficiary includes in the cost base\nAs a beneficiary, you can include in your cost base (and reduced cost base) any expenditure a legal personal representative (LPR) would have included in their cost base if they had sold the asset instead of distributing it to you.\nYou include the expenditure on the date the LPR incurred it.\n### Example: transfer of an asset from executor (LPR) to beneficiary\nMaria died on 13 October 2024 leaving 2 assets:\n- a parcel of 2,000 shares\n- a vacant block of land.\nThe executor of the estate:\n- disregarded any capital gain or loss on the transfer of the assets\n- sold the shares to pay Maria's outstanding debts\n- transferred the land to Maria's beneficiary, Antonio, and paid the conveyancing fee of $5,000 upon payment of all debts and tax.\nThe shares were not transferred to a beneficiary. Therefore, the executor must include any capital gain or loss on this disposal in the tax return for Maria's deceased estate.\nThe land was transferred to a beneficiary. Any capital gain or loss on this transfer is disregarded by the LPR.\nThe first element of Antonio's cost base is Maria's cost base on the date of her death. Antonio can include the $5,000 the executor spent on the conveyancing in his cost base.\n## Legal costs incurred by a legal personal representative\nAs the LPR, in some circumstances, legal costs you incur may form part of the cost base of the estate's assets.\nFor example, if a LPR incurs costs to confirm the validity of the deceased's will or defend a claim for control of the estate, these costs form part of the cost base of the estate's assets.\n### Example: legal costs incurred to prove the validity of a will\nAnnie is the executor (LPR) of a deceased estate.\nThe deceased had more than one will prepared prior to their death:\n- The final will left the estate’s assets to Max.\n- Prior wills had left the estate’s assets to family members.\nThe family members challenged the validity of the deceased’s will in Court. As a result, Annie incurred legal costs on behalf of the deceased estate to defend this action.\nThe Court held that the final will was valid and granted probate.\nThe legal costs that Annie incurred to confirm the validity of the will and obtain probate were incurred to preserve or defend the rights over the estate’s assets.\nAnnie can't claim a deduction for these costs in her capacity as LPR as they are capital in nature. She can, however, include these legal costs in the cost base of the estate’s assets.\nHowever, not all costs incurred by a LPR having a connection to estate assets will form part of the cost base of the estate's assets.\n### Example: legal costs incurred prior to the deceased’s death\nCassie is the executor (LPR) of a deceased estate.\nShortly prior to and in anticipation of the deceased’s death, Cassie acted as the solicitor for the deceased.\nCassie prepared an agreement for the transfer of interests in an asset of the deceased.\nThese actions were undertaken by Cassie prior to the deceased’s death and the commencing of Cassie’s duties as the LPR of the estate.\nAny charges for Cassie’s solicitor services prior to the deceased’s death can't be included in the cost base of the estate’s assets. Cassie’s solicitor charges for the administration of the estate once she commences duties as the LPR can be included in the cost base of the estate assets.\n## Indexing the cost base of an inherited asset\nIf the deceased died before 21 September 1999, you have the option of indexing the cost base when you dispose of the asset. Alternatively, you can claim the CGT discount. Usually, the discount will give you a better result.\nWith indexation, you calculate your capital gain by using the first element of the asset's cost base indexed for inflation up until 21 September 1999. You don't apply the discount.\nIf the deceased died on or after 21 September 1999, you can't use indexation. If the deceased's cost base includes indexation, you must recalculate the first element of your cost base to exclude it.",
+  "child_links": [],
+  "word_count": 948,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

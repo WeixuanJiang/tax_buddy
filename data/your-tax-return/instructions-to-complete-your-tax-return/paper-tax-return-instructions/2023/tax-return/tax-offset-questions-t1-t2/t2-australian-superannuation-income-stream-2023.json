@@ -1,0 +1,240 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2023/tax-return/tax-offset-questions-t1-t2/t2-australian-superannuation-income-stream-2023",
+  "title": "T2 Australian superannuation income stream 2023",
+  "description": "Complete this question to help you work out if you're eligible for this tax offset and the amount you can claim.",
+  "nat_number": "",
+  "quick_code": "72224",
+  "date_updated": "2023-05-24T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, superannuation, superannuation income, income stream, tax return, 2023, paper form, paper return, paper lodgement, T2",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things you need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received an Australia superannuation income stream, you may be eligible to claim a tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you show an amount at question 7 – label M Assessable amount from capped defined benefit income stream , you are not entitled to a tax offset on the untaxed element of the amount shown at question 7 – label M . However, you may be entitled to a tax offset on another amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you receive an Australian superannuation income stream shown on a PAYG payment summary – superannuation income stream?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to Where to go next ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete this question, follow the steps below."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Were you both:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "under 60 years old at any time in 2022–23",
+        "not receiving a death benefit income stream where the deceased was 60 years old or older at the time of death?"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "Add up the tax offsets shown on your payment summaries. Add the result to any other amount at row g in worksheet 1 . Read on."
+        ],
+        [
+          "No",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Were you both:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "under 60 years old at any time in 2022–23",
+        "receiving a death benefit income stream where the deceased was 60 years old or older at the time of death?"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "Add up the tax offsets, shown on your payment summaries, that do not relate to a capped defined benefit income stream that is a death benefit income stream where the deceased was 60 years old or older. Add the result to any other amount at row g in worksheet 1 . Read on."
+        ],
+        [
+          "No",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2022–23, did you receive a capped defined benefit income stream with an untaxed element when:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you were 60 years old or older, or",
+        "you were under 60 years old and you were receiving a death benefit income stream where the deceased was 60 years old or older at the time of death?"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "The tax offset amount you need is not shown on your PAYG payment summary – superannuation income stream . To work it out, go to Calculate the untaxed element ."
+        ],
+        [
+          "No",
+          "Add together amounts at row g in worksheet 1 and transfer to question T2 – label S ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Calculate the untaxed element"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the Defined benefit income cap tool to calculate the untaxed element of your capped defined benefit income stream."
+    },
+    {
+      "type": "paragraph",
+      "text": "To manually calculate the untaxed element of your capped defined benefit income stream, complete worksheet 1 below."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need the following amounts to complete worksheet 1:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "from question 7 , your defined benefit income cap",
+        "from your PAYG payment summary – superannuation income stream the sum of your taxed element and tax-free components you received when you were 60 years old or older, or under 60 years old and the income stream was a death benefit income stream where the deceased was 60 years old or older (These amounts are to include lump sum in arrears). the sum of your untaxed element, including lump sum in arrears, you received when you were 60 years old or older, or under 60 years old and the income stream was a death benefit income stream where the deceased was 60 years old or older."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "Defined benefit income cap (from question 7 )",
+          "$"
+        ],
+        [
+          "b",
+          "Your total taxed element and tax-free components",
+          "$"
+        ],
+        [
+          "c",
+          "If row b is greater than row a then you are not entitled to an offset on your untaxed element. Write 0 at row f and then go to row g . Where row b is less than row a then subtract row b from row a .",
+          "$"
+        ],
+        [
+          "d",
+          "Your total untaxed element",
+          "$"
+        ],
+        [
+          "e",
+          "Write the lesser of row c and row d .",
+          "$"
+        ],
+        [
+          "f",
+          "Multiply row e by 10%.",
+          "$"
+        ],
+        [
+          "g",
+          "Add together any amount from steps 1 and 2.",
+          "$"
+        ],
+        [
+          "h",
+          "Add together row f and row g . This is your tax offset.",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at row h to question T2 – label S ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to Tax offsets in the supplementary tax return 2023 .",
+        "Return to main menu Individual tax return instructions 2023 .",
+        "Go back to question T1 Seniors and pensioners tax offset 2023 ."
+      ]
+    }
+  ],
+  "content_text": "## Things you need to know\nIf you received an Australia superannuation income stream, you may be eligible to claim a tax offset.\nIf you show an amount at question 7 – label M Assessable amount from capped defined benefit income stream , you are not entitled to a tax offset on the untaxed element of the amount shown at question 7 – label M . However, you may be entitled to a tax offset on another amount.\nDid you receive an Australian superannuation income stream shown on a PAYG payment summary – superannuation income stream?\nNo | Go to Where to go next .\nYes | Read on.\n## Completing your tax return\nTo complete this question, follow the steps below.\n### Step 1\nWere you both:\n- under 60 years old at any time in 2022–23\n- not receiving a death benefit income stream where the deceased was 60 years old or older at the time of death?\nYes | Add up the tax offsets shown on your payment summaries. Add the result to any other amount at row g in worksheet 1 . Read on.\nNo | Read on.\n### Step 2\nWere you both:\n- under 60 years old at any time in 2022–23\n- receiving a death benefit income stream where the deceased was 60 years old or older at the time of death?\nYes | Add up the tax offsets, shown on your payment summaries, that do not relate to a capped defined benefit income stream that is a death benefit income stream where the deceased was 60 years old or older. Add the result to any other amount at row g in worksheet 1 . Read on.\nNo | Read on.\n### Step 3\nIn 2022–23, did you receive a capped defined benefit income stream with an untaxed element when:\n- you were 60 years old or older, or\n- you were under 60 years old and you were receiving a death benefit income stream where the deceased was 60 years old or older at the time of death?\nYes | The tax offset amount you need is not shown on your PAYG payment summary – superannuation income stream . To work it out, go to Calculate the untaxed element .\nNo | Add together amounts at row g in worksheet 1 and transfer to question T2 – label S .\n#### Calculate the untaxed element\nUse the Defined benefit income cap tool to calculate the untaxed element of your capped defined benefit income stream.\nTo manually calculate the untaxed element of your capped defined benefit income stream, complete worksheet 1 below.\nYou need the following amounts to complete worksheet 1:\n- from question 7 , your defined benefit income cap\n- from your PAYG payment summary – superannuation income stream the sum of your taxed element and tax-free components you received when you were 60 years old or older, or under 60 years old and the income stream was a death benefit income stream where the deceased was 60 years old or older (These amounts are to include lump sum in arrears). the sum of your untaxed element, including lump sum in arrears, you received when you were 60 years old or older, or under 60 years old and the income stream was a death benefit income stream where the deceased was 60 years old or older.\nRow | Calculation | Amount\na | Defined benefit income cap (from question 7 ) | $\nb | Your total taxed element and tax-free components | $\nc | If row b is greater than row a then you are not entitled to an offset on your untaxed element. Write 0 at row f and then go to row g . Where row b is less than row a then subtract row b from row a . | $\nd | Your total untaxed element | $\ne | Write the lesser of row c and row d . | $\nf | Multiply row e by 10%. | $\ng | Add together any amount from steps 1 and 2. | $\nh | Add together row f and row g . This is your tax offset. | $\nTransfer the amount at row h to question T2 – label S .\n## Where to go next\n- Go to Tax offsets in the supplementary tax return 2023 .\n- Return to main menu Individual tax return instructions 2023 .\n- Go back to question T1 Seniors and pensioners tax offset 2023 .",
+  "child_links": [],
+  "word_count": 760,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

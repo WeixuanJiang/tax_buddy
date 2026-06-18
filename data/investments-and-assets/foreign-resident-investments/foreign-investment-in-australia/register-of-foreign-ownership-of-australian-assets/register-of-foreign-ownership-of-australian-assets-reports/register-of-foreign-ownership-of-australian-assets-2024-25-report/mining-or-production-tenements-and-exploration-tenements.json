@@ -1,0 +1,503 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/foreign-resident-investments/foreign-investment-in-australia/register-of-foreign-ownership-of-australian-assets/register-of-foreign-ownership-of-australian-assets-reports/register-of-foreign-ownership-of-australian-assets-2024-25-report/mining-or-production-tenements-and-exploration-tenements",
+  "title": "Mining or production tenements and exploration tenements",
+  "description": "Data on foreign ownership of mining or production tenements and exploration tenements as at 30 June 2025.",
+  "nat_number": "",
+  "quick_code": "106047",
+  "date_updated": "2026-03-04T13:00:00Z",
+  "first_published": "",
+  "keywords": "foreign ownership report, foreign owner, Register of Foreign Ownership of Australian Assets, foreign investment, the Register, the Register report, residential land, water interests, business interests, mining or production tenements and exploration tenements, commercial land, agricultural land",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to interpret this data"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following information outlines foreign ownership of mining or production tenements and exploration tenements at 30 June 2025, as taken from the Register of Foreign Ownership of Australian Assets (the Register)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Foreign Acquisitions and Takeovers Act 1975 (FATA) defines foreign persons (which include temporary residents and entities with foreign ownership of 20% or more) and details registration requirements for those who acquire interests in specified Australian assets."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Register is a live dataset of self-registrations of foreign-owned assets. The Register data related to mining or production tenements and exploration tenements is not a full stocktake of foreign ownership in Australian mining or production tenements and exploration tenements."
+    },
+    {
+      "type": "paragraph",
+      "text": "From 1 July 2023, foreign persons who acquire an interest in a mining or production tenement or exploration tenement may have to register the interest on the Register."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aggregated data is available on data.gov.au External Link ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Registrations of interests in mining or production tenements and exploration tenements includes those:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "which were acquired between 1 July 2023 and 30 June 2025, and",
+        "where the interest continued to be held by the foreign person at 30 June 2025."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Information contained in the Register is protected and subject to the provisions of Division 355 of Schedule 1 of the Taxation Administration Act 1953 and Division 3 of Part 7 of the FATA. As such, the complete Register is not made publicly available, and this report presents aggregated information providing a view of all registrations at a point in time. Consistent with Australia’s foreign investment framework, the details of specific registrations or investors are not made publicly available, and information which could identify, or be used to identify, an individual or entity is excluded from this report."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additionally, persons who acquired a legal interest in a mining or production tenement or exploration tenement and subsequently became foreign persons after 1 July 2023 may also be required to register. The FATA defines a mining or production tenement as an interest in a right to recover minerals, oil or gas, and includes an interest in:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a right that preserves that right, or",
+        "a lease under which a lessee has such a right."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "An exploration tenement is defined in the FATA as an interest in a right to recover minerals, oil or gas for the purposes of prospecting or exploring for minerals, oil or gas, and includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a right that preserves that right, or",
+        "a lease under which a lessee has such a right."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Most types of foreign-owned legal interests in a mining or production tenement are registrable, regardless of monetary value. Registerable interests include freehold, leasehold, financial or mortgage interests and some royalty arrangements."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additionally, foreign government investors that acquire equitable interests in mining or production tenements must also register their interest."
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, legal interests in exploration tenements are registrable if the interest is held by a foreign government investor or relates to national security land."
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign persons must register their mining or production tenement or exploration tenement interest within 30 days of either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "acquiring the mining or production tenement or exploration tenement interest, or",
+        "becoming a foreign person while holding the mining or production tenement or exploration tenement interest."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "There is no national data source to benchmark the percentage of foreign ownership of mining or production tenements and exploration tenements."
+    },
+    {
+      "type": "paragraph",
+      "text": "The statistics on Australian mining or production tenements and exploration tenements are presented in each table by reference to either the number of register notices received or the number of discrete tenements to which register notices relate."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Total registered interests"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1 shows the number of registered interests in mining or production tenements and exploration tenements by state or territory. This includes as a mining licence holder, leasehold interest, financial interest, mortgage interest or royalty arrangement."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "State or territory",
+          "Mining or production (no.)",
+          "Exploration (no.)",
+          "Total"
+        ],
+        [
+          "NSW/ACT",
+          "91",
+          "35",
+          "126"
+        ],
+        [
+          "NT",
+          "<=5",
+          "<=5",
+          "<=5"
+        ],
+        [
+          "Qld",
+          "107",
+          "20",
+          "127"
+        ],
+        [
+          "SA",
+          "<=5",
+          "<=5",
+          "<=5"
+        ],
+        [
+          "Tas",
+          "<=5",
+          "<=5",
+          "<=5"
+        ],
+        [
+          "Vic",
+          "<=5",
+          "<=5",
+          "<=5"
+        ],
+        [
+          "WA",
+          "448",
+          "145",
+          "593"
+        ],
+        [
+          "Total",
+          "657",
+          "201",
+          "858"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "There may be instances where multiple interests in mining or production tenements and exploration tenements are registered on the same tenement.",
+        "Due to the limited number of registrations in some states, some details have been withheld to maintain investor privacy and are denoted by <=5."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 1 breaks down the 858 registered interests in mining or production tenements and exploration tenements shown in Table 1 into the interest types held."
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 1: Registered interests – Type"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tenements with one or more registered interests"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2 shows the number of mining or production tenements and exploration tenements in each state or territory with one or more registered interests."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "State or territory",
+          "Mining or production (no.)",
+          "Exploration (no.)",
+          "Total"
+        ],
+        [
+          "NSW/ACT",
+          "89",
+          "35",
+          "124"
+        ],
+        [
+          "NT",
+          "<=5",
+          "<=5",
+          "<=5"
+        ],
+        [
+          "Qld",
+          "95",
+          "20",
+          "115"
+        ],
+        [
+          "SA",
+          "<=5",
+          "<=5",
+          "<=5"
+        ],
+        [
+          "Tas",
+          "<=5",
+          "<=5",
+          "<=5"
+        ],
+        [
+          "Vic",
+          "<=5",
+          "<=5",
+          "<=5"
+        ],
+        [
+          "WA",
+          "308",
+          "118",
+          "426"
+        ],
+        [
+          "Total",
+          "503",
+          "174",
+          "677"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "This table accounts for the number of tenements with a registered interest. Where the same tenement has multiple owners or multiple registered interests, including as a mining licence holder, leasehold interest, financial interest, mortgage interest or a royalty arrangement, the tenement is only counted once. This accounts for the higher total figure in Table 1 as compared to the totals in Table 2.",
+        "Due to the limited number of registrations in some states, some details have been withheld to maintain investor privacy and are denoted by<=5."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tenements by industry sector"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 3 shows the industry sector breakdown of registered mining or production tenements and exploration tenements categorised by Australian and New Zealand Standard Industrial Classification (ANZSIC) class. All ANZSIC classes in Table 3 are within ANZSIC Division B (Mining)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Registrants provide the appropriate ANZSIC details as part of the registration process. ANZSIC is a standard classification developed by the Australian Bureau of Statistics (ABS) for the analysis of industry statistics in Australia and New Zealand. A list of ANZSIC codes is detailed in the Business industry codes fact sheet (PDF, 929KB) This link will download a file ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Registered interests in mining or production tenements and exploration tenements at 30 June 2025 include a total of 17 ANZSIC classes."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Industry sector",
+          "ANZSIC class",
+          "Tenements with one or more registered interests (no.)",
+          "Portion of total registered tenements (%)"
+        ],
+        [
+          "Bauxite mining",
+          "0802",
+          "31",
+          "4.6"
+        ],
+        [
+          "Coal mining",
+          "0600",
+          "128",
+          "18.9"
+        ],
+        [
+          "Gold ore mining",
+          "0804",
+          "162",
+          "23.9"
+        ],
+        [
+          "Gravel and sand quarrying",
+          "0911",
+          "20",
+          "3.0"
+        ],
+        [
+          "Iron ore mining",
+          "0801",
+          "17",
+          "2.5"
+        ],
+        [
+          "Mineral exploration",
+          "1012",
+          "156",
+          "23.0"
+        ],
+        [
+          "Oil and gas extraction",
+          "0700",
+          "37",
+          "5.5"
+        ],
+        [
+          "Other construction material mining",
+          "0919",
+          "23",
+          "3.4"
+        ],
+        [
+          "Other non-metallic mineral mining and quarrying",
+          "0990",
+          "58",
+          "8.6"
+        ],
+        [
+          "Other",
+          "-",
+          "45",
+          "6.6"
+        ],
+        [
+          "Total",
+          "-",
+          "677",
+          "100.0"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Definitions of and facts about minerals mined in Australia are available on the Geoscience Australia website External Link .",
+        "Due to the limited number of registrations, some industry sector details have been amalgamated and shown as the ‘Other’ category to maintain investor privacy. These industry sectors include copper ore mining, mineral sand mining, other metal ore mining, other mining support services and petroleum exploration."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Foreign and Australian share of registered interests"
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 2 shows the percentage of the foreign share and the Australian share of registered interests in mining or production tenements and exploration tenements."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tenements may have multiple interests registered, including as a:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "mining licence holder",
+        "leasehold interest",
+        "financial interest",
+        "mortgage interest, or",
+        "royalty arrangement."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "As the Register records foreign person entities that have a foreign ownership share of 20% or more, there may be more than one nationality and some level of Australian ownership in the tenement. At 30 June 2025, of the 858 interests registered, 11.7% is indirectly held by Australian investors who have shares in entities considered foreign persons."
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 2: Foreign and Australian share of registered interests"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Top 10 sources of foreign investment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 4 shows the top 10 source countries of registrations of mining or production tenements and exploration tenements."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Country",
+          "Registered interests (no.)"
+        ],
+        [
+          "United States of America",
+          "184"
+        ],
+        [
+          "People's Republic of China",
+          "161"
+        ],
+        [
+          "United Kingdom",
+          "129"
+        ],
+        [
+          "Japan",
+          "100"
+        ],
+        [
+          "Guernsey",
+          "75"
+        ],
+        [
+          "British Virgin Islands",
+          "62"
+        ],
+        [
+          "France",
+          "37"
+        ],
+        [
+          "Malaysia",
+          "31"
+        ],
+        [
+          "Switzerland",
+          "29"
+        ],
+        [
+          "South Africa",
+          "28"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At 30 June 2025, foreign persons from a total of 24 countries, excluding Australia, held an interest in mining or production tenements and exploration tenements."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are limitations to using the top sources of foreign investment data to determine the ultimate sources of investment into Australia:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The source country is obtained from the registrant at the time of registration and maintained by the foreign person.",
+        "Mining or production tenements and exploration tenements may be registered more than once due to the type of interest held by the foreign person.",
+        "An interest may be held by a foreign person which has more than one shareholder, from more than one country.",
+        "Where the registered owner is a company or trust, the nationality of the person (or persons) who appear to control the entity is used to attribute the source country, rather than the country of incorporation. Where the person who controls the entity is identified as an Australian citizen who is not ordinarily resident in Australia (and hence a foreign person), the source country is attributed to the country in which they are ordinarily resident.",
+        "Where shares or interests are widely held for companies or trusts, depending on information available the interest in the asset is attributed to a source country based on the location of: the directors the fund manager, or the country where the entity (or trustee) is headquartered or publicly listed. The source country statistical data may therefore include the presence of jurisdictions used by investment funds and their managers.",
+        "The country of control is assessed using data resources within: the ATO, and agencies such as the Department of Home Affairs and the Australian Securities & Investments Commission (ASIC)."
+      ]
+    }
+  ],
+  "content_text": "## How to interpret this data\nThe following information outlines foreign ownership of mining or production tenements and exploration tenements at 30 June 2025, as taken from the Register of Foreign Ownership of Australian Assets (the Register).\nThe Foreign Acquisitions and Takeovers Act 1975 (FATA) defines foreign persons (which include temporary residents and entities with foreign ownership of 20% or more) and details registration requirements for those who acquire interests in specified Australian assets.\nThe Register is a live dataset of self-registrations of foreign-owned assets. The Register data related to mining or production tenements and exploration tenements is not a full stocktake of foreign ownership in Australian mining or production tenements and exploration tenements.\nFrom 1 July 2023, foreign persons who acquire an interest in a mining or production tenement or exploration tenement may have to register the interest on the Register.\nAggregated data is available on data.gov.au External Link .\nRegistrations of interests in mining or production tenements and exploration tenements includes those:\n- which were acquired between 1 July 2023 and 30 June 2025, and\n- where the interest continued to be held by the foreign person at 30 June 2025.\nInformation contained in the Register is protected and subject to the provisions of Division 355 of Schedule 1 of the Taxation Administration Act 1953 and Division 3 of Part 7 of the FATA. As such, the complete Register is not made publicly available, and this report presents aggregated information providing a view of all registrations at a point in time. Consistent with Australia’s foreign investment framework, the details of specific registrations or investors are not made publicly available, and information which could identify, or be used to identify, an individual or entity is excluded from this report.\nAdditionally, persons who acquired a legal interest in a mining or production tenement or exploration tenement and subsequently became foreign persons after 1 July 2023 may also be required to register. The FATA defines a mining or production tenement as an interest in a right to recover minerals, oil or gas, and includes an interest in:\n- a right that preserves that right, or\n- a lease under which a lessee has such a right.\nAn exploration tenement is defined in the FATA as an interest in a right to recover minerals, oil or gas for the purposes of prospecting or exploring for minerals, oil or gas, and includes:\n- a right that preserves that right, or\n- a lease under which a lessee has such a right.\nMost types of foreign-owned legal interests in a mining or production tenement are registrable, regardless of monetary value. Registerable interests include freehold, leasehold, financial or mortgage interests and some royalty arrangements.\nAdditionally, foreign government investors that acquire equitable interests in mining or production tenements must also register their interest.\nGenerally, legal interests in exploration tenements are registrable if the interest is held by a foreign government investor or relates to national security land.\nForeign persons must register their mining or production tenement or exploration tenement interest within 30 days of either:\n- acquiring the mining or production tenement or exploration tenement interest, or\n- becoming a foreign person while holding the mining or production tenement or exploration tenement interest.\nThere is no national data source to benchmark the percentage of foreign ownership of mining or production tenements and exploration tenements.\nThe statistics on Australian mining or production tenements and exploration tenements are presented in each table by reference to either the number of register notices received or the number of discrete tenements to which register notices relate.\n## Total registered interests\nTable 1 shows the number of registered interests in mining or production tenements and exploration tenements by state or territory. This includes as a mining licence holder, leasehold interest, financial interest, mortgage interest or royalty arrangement.\nState or territory | Mining or production (no.) | Exploration (no.) | Total\nNSW/ACT | 91 | 35 | 126\nNT | <=5 | <=5 | <=5\nQld | 107 | 20 | 127\nSA | <=5 | <=5 | <=5\nTas | <=5 | <=5 | <=5\nVic | <=5 | <=5 | <=5\nWA | 448 | 145 | 593\nTotal | 657 | 201 | 858\nNotes:\n- There may be instances where multiple interests in mining or production tenements and exploration tenements are registered on the same tenement.\n- Due to the limited number of registrations in some states, some details have been withheld to maintain investor privacy and are denoted by <=5.\nFigure 1 breaks down the 858 registered interests in mining or production tenements and exploration tenements shown in Table 1 into the interest types held.\nFigure 1: Registered interests – Type\n## Tenements with one or more registered interests\nTable 2 shows the number of mining or production tenements and exploration tenements in each state or territory with one or more registered interests.\nState or territory | Mining or production (no.) | Exploration (no.) | Total\nNSW/ACT | 89 | 35 | 124\nNT | <=5 | <=5 | <=5\nQld | 95 | 20 | 115\nSA | <=5 | <=5 | <=5\nTas | <=5 | <=5 | <=5\nVic | <=5 | <=5 | <=5\nWA | 308 | 118 | 426\nTotal | 503 | 174 | 677\nNotes:\n- This table accounts for the number of tenements with a registered interest. Where the same tenement has multiple owners or multiple registered interests, including as a mining licence holder, leasehold interest, financial interest, mortgage interest or a royalty arrangement, the tenement is only counted once. This accounts for the higher total figure in Table 1 as compared to the totals in Table 2.\n- Due to the limited number of registrations in some states, some details have been withheld to maintain investor privacy and are denoted by<=5.\n## Tenements by industry sector\nTable 3 shows the industry sector breakdown of registered mining or production tenements and exploration tenements categorised by Australian and New Zealand Standard Industrial Classification (ANZSIC) class. All ANZSIC classes in Table 3 are within ANZSIC Division B (Mining).\nRegistrants provide the appropriate ANZSIC details as part of the registration process. ANZSIC is a standard classification developed by the Australian Bureau of Statistics (ABS) for the analysis of industry statistics in Australia and New Zealand. A list of ANZSIC codes is detailed in the Business industry codes fact sheet (PDF, 929KB) This link will download a file .\nRegistered interests in mining or production tenements and exploration tenements at 30 June 2025 include a total of 17 ANZSIC classes.\nIndustry sector | ANZSIC class | Tenements with one or more registered interests (no.) | Portion of total registered tenements (%)\nBauxite mining | 0802 | 31 | 4.6\nCoal mining | 0600 | 128 | 18.9\nGold ore mining | 0804 | 162 | 23.9\nGravel and sand quarrying | 0911 | 20 | 3.0\nIron ore mining | 0801 | 17 | 2.5\nMineral exploration | 1012 | 156 | 23.0\nOil and gas extraction | 0700 | 37 | 5.5\nOther construction material mining | 0919 | 23 | 3.4\nOther non-metallic mineral mining and quarrying | 0990 | 58 | 8.6\nOther | - | 45 | 6.6\nTotal | - | 677 | 100.0\nNotes:\n- Definitions of and facts about minerals mined in Australia are available on the Geoscience Australia website External Link .\n- Due to the limited number of registrations, some industry sector details have been amalgamated and shown as the ‘Other’ category to maintain investor privacy. These industry sectors include copper ore mining, mineral sand mining, other metal ore mining, other mining support services and petroleum exploration.\n## Foreign and Australian share of registered interests\nFigure 2 shows the percentage of the foreign share and the Australian share of registered interests in mining or production tenements and exploration tenements.\nTenements may have multiple interests registered, including as a:\n- mining licence holder\n- leasehold interest\n- financial interest\n- mortgage interest, or\n- royalty arrangement.\nAs the Register records foreign person entities that have a foreign ownership share of 20% or more, there may be more than one nationality and some level of Australian ownership in the tenement. At 30 June 2025, of the 858 interests registered, 11.7% is indirectly held by Australian investors who have shares in entities considered foreign persons.\nFigure 2: Foreign and Australian share of registered interests\n## Top 10 sources of foreign investment\nTable 4 shows the top 10 source countries of registrations of mining or production tenements and exploration tenements.\nCountry | Registered interests (no.)\nUnited States of America | 184\nPeople's Republic of China | 161\nUnited Kingdom | 129\nJapan | 100\nGuernsey | 75\nBritish Virgin Islands | 62\nFrance | 37\nMalaysia | 31\nSwitzerland | 29\nSouth Africa | 28\nAt 30 June 2025, foreign persons from a total of 24 countries, excluding Australia, held an interest in mining or production tenements and exploration tenements.\nNotes:\nThere are limitations to using the top sources of foreign investment data to determine the ultimate sources of investment into Australia:\n- The source country is obtained from the registrant at the time of registration and maintained by the foreign person.\n- Mining or production tenements and exploration tenements may be registered more than once due to the type of interest held by the foreign person.\n- An interest may be held by a foreign person which has more than one shareholder, from more than one country.\n- Where the registered owner is a company or trust, the nationality of the person (or persons) who appear to control the entity is used to attribute the source country, rather than the country of incorporation. Where the person who controls the entity is identified as an Australian citizen who is not ordinarily resident in Australia (and hence a foreign person), the source country is attributed to the country in which they are ordinarily resident.\n- Where shares or interests are widely held for companies or trusts, depending on information available the interest in the asset is attributed to a source country based on the location of: the directors the fund manager, or the country where the entity (or trustee) is headquartered or publicly listed. The source country statistical data may therefore include the presence of jurisdictions used by investment funds and their managers.\n- The country of control is assessed using data resources within: the ATO, and agencies such as the Department of Home Affairs and the Australian Securities & Investments Commission (ASIC).",
+  "child_links": [],
+  "word_count": 1764,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

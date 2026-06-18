@@ -1,0 +1,380 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/data-matching-letters/types-of-letters/data-matching-for-medicare-and-private-health-insurance/private-health-insurance-rebate-letter",
+  "title": "Private health insurance rebate letter",
+  "description": "What to do if you get a data matching letter from us about your private health insurance rebate (PHIR).",
+  "nat_number": "",
+  "quick_code": "41725",
+  "date_updated": "2024-01-16T14:00:00Z",
+  "first_published": "",
+  "keywords": "data matching, data-matching, discrepancy, letter, schedule, types, declare income, private health, insuurance, cover, hospital, tax return",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Receiving your letter"
+    },
+    {
+      "type": "paragraph",
+      "text": "We may send you a letter about your private health insurance rebate (PHIR), if we receive information from your health fund that suggests you aren't entitled to the level of private health insurance rebate you claimed in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "The letter will include a schedule that compares the details you declared in your tax return with the information the health fund reports. It will also include a reason for the proposed adjustment to your PHIR details."
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll send the letter to the most recent postal address we have for you."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to do"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are 2 types of PHIR letters and each requires a different action:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Your private health insurance rebate",
+        "Your private health insurance rebate may be incorrect ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For both letters, you need to review the PHIR schedule and compare the information with your records. You can then determine if you agree or disagree."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Letter 1: Your private health insurance rebate"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are 2 different PHIR schedules that may be on your PHIR letter titled Your private health insurance rebate . These depend on the reason for proposed adjustment. Below are the 2 samples of PHIR schedules. Keep in mind that the schedule in your letter will have your own details and may not look exactly like this."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the definitions to help you understand your schedule."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Sample 1: PHIR schedule for the year ended 30 June <CCYY>"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "B – Health insurer ID",
+          "C – Membership number",
+          "J – Your share of premiums paid in the financial year",
+          "K – Your share of Australian Government rebate received",
+          "L – Benefit code",
+          "Tax claim code"
+        ],
+        [
+          "ABC",
+          "G12345",
+          "$1,313",
+          "$381",
+          "30",
+          "A"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "B – Health insurer ID",
+          "C – Membership number",
+          "J – Your share of premiums paid in the financial year",
+          "K – Your share of Australian Government rebate received",
+          "L – Benefit code",
+          "Tax claim code as determined by the ATO"
+        ],
+        [
+          "ABC",
+          "G12345",
+          "$1,422",
+          "$395",
+          "31",
+          "A"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll give one or more of the following reasons for the proposed adjustment to your PHIR details:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Incorrect tax claim code reported – this code affects the amount of PHIR you are entitled to receive",
+        "Automatic transfer of liability – liability owed by your spouse transferred to you because they either didn't lodge a tax return told us they aren't required to lodge a tax return",
+        "Reporting error – you may have duplicated or incorrectly reported your share of premiums paid or your share of Australian government rebate received."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Sample 2: PHIR schedule for the year ended 30 June <CCYY>"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "PHIR details",
+          "Item"
+        ],
+        [
+          "The amount of family income you reported in your tax return",
+          "$185,000"
+        ],
+        [
+          "Your rebate tier based on the family income you reported in your tax return",
+          "Tier 1"
+        ],
+        [
+          "Your rebate tier we have determined based on our records",
+          "Tier 3"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The reason for this adjustment is because you have under reported your family income for surcharge purposes. Your income for surcharge purposes is combined with your spouse's income for surcharge purposes and determines the level of rebate you are entitled to receive."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "If you agree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you agree with our information, you don’t need to do anything. We’ll send you an amended notice of assessment 28 days after the date shown on your letter. If you have a myGov account linked to us , we'll send your amended notice to your myGov inbox."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "If you disagree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with the details reported, you need to let us know before the due date noted in your letter. You can contact us by:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "mail to Australian Taxation Office PO BOX 3543 Albury NSW 2640",
+        "phoning us on 1300 768 912 and selecting option 3 between 8:00 am and 5:00 pm, Monday to Friday",
+        "emailing us at datamatchingteam@ato.gov.au"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The internet isn't a secure environment and we don't control the path of inbound and outbound emails. If you choose to email us, we can't guarantee the privacy of your personal information."
+    },
+    {
+      "type": "paragraph",
+      "text": "The case officer reviewing your supporting documents may contact you if we need additional information. If you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "can prove your claim, you'll receive a letter advising the decision",
+        "can't prove your claim, you'll receive an amended notice of assessment."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If we don't receive a response from you within 28 days of your letter's date of issue, we’ll automatically amend your tax return using the information we have. You'll then receive an amended notice of assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a myGov account linked to us , we'll send your amended notice to your myGov inbox."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Supporting documents"
+    },
+    {
+      "type": "paragraph",
+      "text": "We may ask you to provide your private health insurance statement for the period of review, showing:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the amount of premiums you paid",
+        "any premium reductions you received."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Letter 2: Your private health insurance rebate may be incorrect"
+    },
+    {
+      "type": "paragraph",
+      "text": "Below is a sample PHIR schedule for the PHIR letter titled Your private health insurance rebate may be incorrect . Keep in mind that your schedule will have your own details and may not look exactly like this one."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the definitions to help you understand your schedule."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Sample: PHIR schedule for the year ended 30 June <CCYY>"
+    },
+    {
+      "type": "paragraph",
+      "text": "What you reported in your tax return"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "B – Health insurer ID",
+          "C – Membership number",
+          "J – Your share of premiums paid in the financial year",
+          "K – Your share of Australian Government rebate received",
+          "L – Benefit code",
+          "Tax claim code"
+        ],
+        [
+          "ABC",
+          "G12345",
+          "$1,313",
+          "$381",
+          "30",
+          "A"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Proposed changes to your tax return based on private health insurance information"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "B – Health insurer ID",
+          "C – Membership number",
+          "J – Your share of premiums paid in the financial year",
+          "K – Your share of Australian Government rebate received",
+          "L – Benefit code",
+          "Tax claim code as determined by the ATO"
+        ],
+        [
+          "ABC",
+          "G12345",
+          "$1,422",
+          "$395",
+          "31",
+          "A"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll provide one of the following reasons for the proposed adjustment to your PHIR details:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Automatic transfer of liability – liability owed by your spouse transferred to you because they either did not lodge a tax return or told us they are not required to lodge a tax return.",
+        "Unable to match private health insurance policy details – we haven't been able to determine you had an appropriate level of private patient hospital cover and therefore may not be eligible to claim the rebate."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "If you agree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you agree with our information, you must amend your tax return as soon as possible so the information is the same as the data we hold. If you don't amend your tax return, you may be selected for an audit in the future."
+    },
+    {
+      "type": "paragraph",
+      "text": "To lodge your amendment, you can choose from the following options depending on your circumstances:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Lodge your amendment online – you can submit an amendment to your tax return using our online services, which takes about 20 days to process.",
+        "Lodge your amendment with a registered tax agent – if you use a registered tax agent, you can ask them to complete an amendment to your tax return on your behalf. They are the only people who can charge a fee.",
+        "Lodge a paper amendment form – you can use the paper amendment form to lodge your amendment by mail, which takes up to 50 business days to process.",
+        "Send a letter – you can write us a letter, which takes up to 50 business days to process."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "If you disagree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with the details reported, you need to let us know. You can phone us on 1300 768 912 between 8:00 am and 5:00 pm, Monday to Friday and select option 3 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "quote the reference number found at the top right of your letter",
+        "use the words 'data matching'."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Schedule definitions"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following definitions will help you understand your schedule:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Benefit code – these codes relate to the level of rebate you are entitled to, based on age.",
+        "Family income for surcharge purposes – the total of your income and your spouse's income using the same criteria as Income for surcharge purposes .",
+        "Income for surcharge purposes – this is the total of your taxable income, including the net amount on which family trust distribution tax has been paid, (excluding any assessable First home super saver released amount) your reportable fringe benefits (as reported on your income statement or payment summary) your total net investment losses (which is the sum of your net financial investment losses and net rental property losses) your reportable super contributions (which is the sum of your reportable employer superannuation contributions and your deductible personal superannuation contributions). minus, if you were aged from your preservation age to under 60 years old, any taxed element of a super lump sum (other than a death benefit) that you received that does not exceed your low–rate cap.",
+        "Private health insurance fund information – provides details of your private health insurance policy, as provided to us by your private health insurer. It includes the name of your fund, the type of cover and the period of cover during the financial year.",
+        "Private health insurance policy details – your private health insurance policy details, as provided to us from your private health fund (including the name of the fund, the amount of premiums you paid, and your share of Australian Government rebate received).",
+        "Rebate Tier – based on your income you will fall into a PHIR threshold also known as tiers. As PHIR is income tested, different thresholds/ tiers apply depending on your family income for surcharge purposes. The PHIR amount depends on which rebate tier you fall within.",
+        "Status – your situation (that is, couple, single or family).",
+        "Tax claim code – this is the code that best matches your situation (for example, if you are in a relationship and if you have dependants).",
+        "Your share of Australian Government rebate received – the amount the Australian Government has paid towards your private health insurance.",
+        "Your share of premiums paid in the financial year – the amount of premiums you paid during the financial year eligible for the rebate (this figure is split between each adult covered by the policy)."
+      ]
+    }
+  ],
+  "content_text": "## Receiving your letter\nWe may send you a letter about your private health insurance rebate (PHIR), if we receive information from your health fund that suggests you aren't entitled to the level of private health insurance rebate you claimed in your tax return.\nThe letter will include a schedule that compares the details you declared in your tax return with the information the health fund reports. It will also include a reason for the proposed adjustment to your PHIR details.\nWe'll send the letter to the most recent postal address we have for you.\n## What to do\nThere are 2 types of PHIR letters and each requires a different action:\n- Your private health insurance rebate\n- Your private health insurance rebate may be incorrect .\nFor both letters, you need to review the PHIR schedule and compare the information with your records. You can then determine if you agree or disagree.\n### Letter 1: Your private health insurance rebate\nThere are 2 different PHIR schedules that may be on your PHIR letter titled Your private health insurance rebate . These depend on the reason for proposed adjustment. Below are the 2 samples of PHIR schedules. Keep in mind that the schedule in your letter will have your own details and may not look exactly like this.\nUse the definitions to help you understand your schedule.\n#### Sample 1: PHIR schedule for the year ended 30 June <CCYY>\nB – Health insurer ID | C – Membership number | J – Your share of premiums paid in the financial year | K – Your share of Australian Government rebate received | L – Benefit code | Tax claim code\nABC | G12345 | $1,313 | $381 | 30 | A\nB – Health insurer ID | C – Membership number | J – Your share of premiums paid in the financial year | K – Your share of Australian Government rebate received | L – Benefit code | Tax claim code as determined by the ATO\nABC | G12345 | $1,422 | $395 | 31 | A\nWe'll give one or more of the following reasons for the proposed adjustment to your PHIR details:\n- Incorrect tax claim code reported – this code affects the amount of PHIR you are entitled to receive\n- Automatic transfer of liability – liability owed by your spouse transferred to you because they either didn't lodge a tax return told us they aren't required to lodge a tax return\n- Reporting error – you may have duplicated or incorrectly reported your share of premiums paid or your share of Australian government rebate received.\n#### Sample 2: PHIR schedule for the year ended 30 June <CCYY>\nPHIR details | Item\nThe amount of family income you reported in your tax return | $185,000\nYour rebate tier based on the family income you reported in your tax return | Tier 1\nYour rebate tier we have determined based on our records | Tier 3\nThe reason for this adjustment is because you have under reported your family income for surcharge purposes. Your income for surcharge purposes is combined with your spouse's income for surcharge purposes and determines the level of rebate you are entitled to receive.\n#### If you agree\nIf you agree with our information, you don’t need to do anything. We’ll send you an amended notice of assessment 28 days after the date shown on your letter. If you have a myGov account linked to us , we'll send your amended notice to your myGov inbox.\nOnce you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date.\n#### If you disagree\nIf you disagree with the details reported, you need to let us know before the due date noted in your letter. You can contact us by:\n- mail to Australian Taxation Office PO BOX 3543 Albury NSW 2640\n- phoning us on 1300 768 912 and selecting option 3 between 8:00 am and 5:00 pm, Monday to Friday\n- emailing us at datamatchingteam@ato.gov.au\nThe internet isn't a secure environment and we don't control the path of inbound and outbound emails. If you choose to email us, we can't guarantee the privacy of your personal information.\nThe case officer reviewing your supporting documents may contact you if we need additional information. If you:\n- can prove your claim, you'll receive a letter advising the decision\n- can't prove your claim, you'll receive an amended notice of assessment.\nIf we don't receive a response from you within 28 days of your letter's date of issue, we’ll automatically amend your tax return using the information we have. You'll then receive an amended notice of assessment.\nIf you have a myGov account linked to us , we'll send your amended notice to your myGov inbox.\n#### Supporting documents\nWe may ask you to provide your private health insurance statement for the period of review, showing:\n- the amount of premiums you paid\n- any premium reductions you received.\n### Letter 2: Your private health insurance rebate may be incorrect\nBelow is a sample PHIR schedule for the PHIR letter titled Your private health insurance rebate may be incorrect . Keep in mind that your schedule will have your own details and may not look exactly like this one.\nUse the definitions to help you understand your schedule.\n#### Sample: PHIR schedule for the year ended 30 June <CCYY>\nWhat you reported in your tax return\nB – Health insurer ID | C – Membership number | J – Your share of premiums paid in the financial year | K – Your share of Australian Government rebate received | L – Benefit code | Tax claim code\nABC | G12345 | $1,313 | $381 | 30 | A\nProposed changes to your tax return based on private health insurance information\nB – Health insurer ID | C – Membership number | J – Your share of premiums paid in the financial year | K – Your share of Australian Government rebate received | L – Benefit code | Tax claim code as determined by the ATO\nABC | G12345 | $1,422 | $395 | 31 | A\nWe'll provide one of the following reasons for the proposed adjustment to your PHIR details:\n- Automatic transfer of liability – liability owed by your spouse transferred to you because they either did not lodge a tax return or told us they are not required to lodge a tax return.\n- Unable to match private health insurance policy details – we haven't been able to determine you had an appropriate level of private patient hospital cover and therefore may not be eligible to claim the rebate.\n#### If you agree\nIf you agree with our information, you must amend your tax return as soon as possible so the information is the same as the data we hold. If you don't amend your tax return, you may be selected for an audit in the future.\nTo lodge your amendment, you can choose from the following options depending on your circumstances:\n- Lodge your amendment online – you can submit an amendment to your tax return using our online services, which takes about 20 days to process.\n- Lodge your amendment with a registered tax agent – if you use a registered tax agent, you can ask them to complete an amendment to your tax return on your behalf. They are the only people who can charge a fee.\n- Lodge a paper amendment form – you can use the paper amendment form to lodge your amendment by mail, which takes up to 50 business days to process.\n- Send a letter – you can write us a letter, which takes up to 50 business days to process.\n#### If you disagree\nIf you disagree with the details reported, you need to let us know. You can phone us on 1300 768 912 between 8:00 am and 5:00 pm, Monday to Friday and select option 3 .\nRemember to:\n- quote the reference number found at the top right of your letter\n- use the words 'data matching'.\n### Schedule definitions\nThe following definitions will help you understand your schedule:\n- Benefit code – these codes relate to the level of rebate you are entitled to, based on age.\n- Family income for surcharge purposes – the total of your income and your spouse's income using the same criteria as Income for surcharge purposes .\n- Income for surcharge purposes – this is the total of your taxable income, including the net amount on which family trust distribution tax has been paid, (excluding any assessable First home super saver released amount) your reportable fringe benefits (as reported on your income statement or payment summary) your total net investment losses (which is the sum of your net financial investment losses and net rental property losses) your reportable super contributions (which is the sum of your reportable employer superannuation contributions and your deductible personal superannuation contributions). minus, if you were aged from your preservation age to under 60 years old, any taxed element of a super lump sum (other than a death benefit) that you received that does not exceed your low–rate cap.\n- Private health insurance fund information – provides details of your private health insurance policy, as provided to us by your private health insurer. It includes the name of your fund, the type of cover and the period of cover during the financial year.\n- Private health insurance policy details – your private health insurance policy details, as provided to us from your private health fund (including the name of the fund, the amount of premiums you paid, and your share of Australian Government rebate received).\n- Rebate Tier – based on your income you will fall into a PHIR threshold also known as tiers. As PHIR is income tested, different thresholds/ tiers apply depending on your family income for surcharge purposes. The PHIR amount depends on which rebate tier you fall within.\n- Status – your situation (that is, couple, single or family).\n- Tax claim code – this is the code that best matches your situation (for example, if you are in a relationship and if you have dependants).\n- Your share of Australian Government rebate received – the amount the Australian Government has paid towards your private health insurance.\n- Your share of premiums paid in the financial year – the amount of premiums you paid during the financial year eligible for the rebate (this figure is split between each adult covered by the policy).",
+  "child_links": [],
+  "word_count": 1778,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

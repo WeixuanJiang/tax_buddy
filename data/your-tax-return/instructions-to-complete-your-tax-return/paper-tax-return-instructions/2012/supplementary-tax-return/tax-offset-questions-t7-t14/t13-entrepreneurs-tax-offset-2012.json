@@ -1,0 +1,715 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2012/supplementary-tax-return/tax-offset-questions-t7-t14/t13-entrepreneurs-tax-offset-2012",
+  "title": "T13 - Entrepreneurs tax offset 2012",
+  "description": "Provides information to help you determine your entitlement to an entrepreneurs tax offset.",
+  "nat_number": "71051",
+  "quick_code": "25752",
+  "date_updated": "2012-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, supplement, entrepreneurs, tax offset",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Were you a sole trader with an aggregated turnover of less than $75,000 or did you receive business income from a partnership or trust with an aggregated turnover of less than $75,000?"
+    },
+    {
+      "type": "paragraph",
+      "text": "See Definitions for an explanation of the terms used at this question."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to question T14 - Other tax offsets , or return to main menu Individual tax return instructions"
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "The entrepreneurs tax offset (ETO) is a tax offset equal to 25% of the income tax liability attributable to the net small business income of a small business entity with an aggregated turnover of $50,000 or less. This tax offset starts to phase out when the small business entity's aggregated turnover exceeds $50,000 and ceases when the aggregated turnover reaches $75,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "We will automatically calculate your ETO from the information you provide at this item and at other items on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be eligible to receive the ETO if you are:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a sole trader and the aggregated turnover for all your sole trader businesses is less than $75,000",
+        "a partner in a small business partnership which had an aggregated turnover of less than $75,000",
+        "a beneficiary of a small business trust which had an aggregated turnover of less than $75,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be eligible for more than one tax offset. For example, if you were a sole trader carrying on a business and you were also a partner in a separate business partnership, you may be entitled to a tax offset for your income as a sole trader and also for your share of the net small business income from the partnership. You need to work out your sole trader aggregated turnover separately from the aggregated turnover of the partnership."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your ETO entitlement is reduced if your income for ETO purposes for the year exceeds the following income threshold."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where you are a sole trader, or receive income from partnership activities or a trust, your ETO entitlement reduces when the income for ETO purposes exceeds:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$70,000 if you were single with no qualifying dependant, or",
+        "$120,000 if you had",
+        "a qualifying dependant on any day during 2011-12, or a spouse on 30 June 2012. (If you had a spouse on 30 June 2012, you must include their details at Spouse details - married or de facto on pages 9-10 of your tax return.)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your income for ETO purposes is above the relevant income threshold, then your tax offset (worked out after applying the aggregated turnover test) is reduced by 20c for every $1 over that threshold."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ETO can only reduce your tax payable. You cannot:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "get a refund of this tax offset",
+        "defer all or part of this tax offset to reduce your tax payable in a later income year",
+        "transfer this tax offset to another taxpayer to reduce their tax payable."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Defini tions"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Small business entity"
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, a sole trader, partnership or trust is a small business entity for 2011-12 if they carried on a business in 2011-12 and its aggregated turnover:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "was less than $2 million in 2010-11 or",
+        "was estimated as at the beginning of 2011-12 to be less than $2 million for 2011-12 (but not if the entity carried on a business in 2009-10 and 2010-11 and its aggregated turnover for each of those income years was $2 million or more) or",
+        "was actually less than $2 million for 2011-12 when worked out as at the end of 2011-12."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you started a business part way through 2011-12, your current year estimate must be made as at the day you started the business."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Aggregated turnover"
+    },
+    {
+      "type": "paragraph",
+      "text": "Broadly, your aggregated turnover for the income year is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your annual turnover for the income year"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "plus"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the annual turnover of any entity connected or affiliated with you at any time during the income year"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "less"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "income derived from dealings between you and any entity connected or affiliated with you."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "There are aggregation rules to assist you to determine who is connected or affiliated with an entity for the purpose of calculating the aggregated turnover."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Annual turnover"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your annual turnover for the income year is the total ordinary income that you derived in the ordinary course of carrying on a business but it does not include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "goods and services tax (GST) charged on a transaction",
+        "your ordinary income from the sale of retail fuel."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If an entity operated a business for only part of the year, it must calculate a reasonable estimate of what its annual turnover would have been for the full year."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Affiliated"
+    },
+    {
+      "type": "paragraph",
+      "text": "An affiliated entity is an individual or company that acts, or could reasonably be expected to act, in accordance with your directions or wishes, or as agreed between you and them in relation to the affairs of the business of that individual or company."
+    },
+    {
+      "type": "paragraph",
+      "text": "An affiliated entity does not include an individual or company you merely have business dealings with."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Connected"
+    },
+    {
+      "type": "paragraph",
+      "text": "An entity is connected with another entity where:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "either entity 'controls' the other or",
+        "both are 'controlled' by the same third entity."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The control can be either direct or indirect."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Small business entity turnover"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your small business entity turnover for 2011-12 is the total ordinary income you derived in the ordinary course of carrying on a business."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you operated a business for only part of 2011-12, you include only your actual turnover amount. Do not use an estimated amount of a full-year turnover."
+    },
+    {
+      "type": "paragraph",
+      "text": "In working out ordinary income of a business:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "include",
+        "sales of trading stock fees for services provided interest from business bank accounts amounts received to replace something that would have had the character of business income",
+        "do not include",
+        "GST that has been charged on a transaction proceeds from the sale of business capital assets insurance proceeds for the loss or destruction of a business asset amounts received from repayments of farm management deposits."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The rules that apply for working out aggregated turnover and small business entity turnover are not the same."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can calculate your small business entity turnover by making the following adjustments to your aggregated turnover amount:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If you have included another entity's turnover in your aggregated turnover amount, you will need to",
+        "subtract that entity's turnover, and add back any income you derived from your affiliates or connected entities.",
+        "If you have retail fuel sales, you must add them back."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Net small business income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your net small business income is your small business entity turnover less the deductions that directly relate to that turnover. We use your net small business income to work out the amount of your ETO."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount of net small business income is zero or less, you are not eligible for the ETO."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following are some examples of amounts which do not directly relate to small business entity turnover, so they cannot be used to reduce small business entity turnover:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "tax losses from prior years",
+        "personal superannuation contributions",
+        "gifts or donations",
+        "costs of managing your or the entity's tax affairs",
+        "deferred non-commercial losses."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your or the entity's small business pool includes assets which are used partly for business and partly for other income-producing activities, then the pool deduction will need to be apportioned on a reasonable basis."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Qualifying dependant"
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purpose of determining your income test threshold, a qualifying dependant is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your child under 21 years old (regardless of their income and whether or not they were an Australian resident)",
+        "a resident of Australia whom you maintained during 2011-12 who is",
+        "any other child under 21 years old who was not a student and whose ATI was less than the total of $282 plus $28.92 for each week you maintained them, or $1,786 if you maintained them for the whole year a student under 25 years old who is studying full time at school, college or university whose ATI was less than the total of $282 plus $28.92 for each week you maintained them, or $1,786 if you maintained them for the whole year your spouse, but only if you can claim a tax offset for them at item T1 or T10 on your tax return, or could have claimed a tax offset for them at item T1 or T10 had your ATI not exceeded $150,000 a child-housekeeper, but only if you can claim a tax offset for them at item T1 on your tax return, or could have claimed a tax offset for them at item T1 had your ATI or the combined ATI of you and your spouse not exceeded $150,000 your or your spouse's invalid relative or parent, but only if you can claim a tax offset for them at item T10 on your tax return, or could have claimed a tax offset for them at item T10 had your ATI or the combined ATI of you and your spouse not exceeded $150,000"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A child includes your natural child, an ex-nuptial child, your adopted child or a child of your spouse (step-child)."
+    },
+    {
+      "type": "paragraph",
+      "text": "An invalid relative is your or your spouse's child, brother or sister 16 years old or older who:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "receives an Australian Government disability support pension, or",
+        "has a certificate from a Commonwealth-approved doctor certifying a continuing inability to work."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Maintaining a dependant"
+    },
+    {
+      "type": "paragraph",
+      "text": "You maintained a dependant if any of the following applied:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you and your dependant lived in the same house",
+        "you gave your dependant food, clothing and lodging",
+        "you helped them to pay for their living, medical and educational costs."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We consider you to have maintained a dependant even if the two of you were temporarily separated, for example, due to holidays or overseas travel."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you may need"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Details of all the business income earned during the year",
+        "Details of the deductions that you can claim which directly relate to the business income earned during the year",
+        "Details of all business income earned during the year by entities you were connected with or which were your affiliates",
+        "A statement or advice from the partnership or trust showing the following details",
+        "the partnership's or trust's aggregated turnover your share of the partnership's or trust's net small business income",
+        "Details of your spouse's income"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Are you eligible for more than one ETO?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "YES",
+          "Go to step 7 ."
+        ],
+        [
+          "NO",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Did you carry on a business as a sole trader and was your aggregated turnover less than $75,000? (If you carried on more than one business activity, your aggregated turnover must include all your sole trader activities.)"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to step 5 ."
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use worksheet 1 below to calculate your net small business income as a sole trader. If you carried on more than one business as a sole trader, add together the value of the business income earned from each business when calculating your small business entity turnover and your net small business income as a sole trader."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 1"
+        ],
+        [
+          "Your total small business entity turnover",
+          "$",
+          "(a)"
+        ],
+        [
+          "Allowable deductions that directly relate to the small business entity turnover",
+          "$",
+          "(b)"
+        ],
+        [
+          "Take (b) away from (a).",
+          "$",
+          "(c)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at (c) is your net small business income."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Is the amount at (c) in worksheet 1 greater than zero?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "You are not eligible to claim the ETO. Go to question T14 - Other tax offsets ."
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to complete item T13 :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "write the amount of your aggregated turnover at K",
+        "write the amount of your net small business income at N",
+        "print S in the CODE box at the right of N ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Go to step 8 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "S tep 5"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Did you receive a share of the net small business income of a partnership with an aggregated turnover of less than $75,000?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to step 6 ."
+        ],
+        [
+          "YES",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete item T13 :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "write the amount of the partnership's aggregated turnover at K",
+        "write the amount of your share of the net small business income at N (do not reduce this amount by any deductions that you are entitled to claim for income tax purposes)",
+        "print P in the CODE box at the right of N ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Go to step 8 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ste p 6"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Did you receive a distribution of net small business income from a trust with an aggregated turnover of less than $75,000?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "You are not eligible to claim the ETO. Go to question T14 - Other tax offsets ."
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete item T13 :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "write the amount of the trust's aggregated turnover at K",
+        "write the amount of your distribution of net small business income from the trust at N (do not reduce your distribution by any deductions that you are entitled to claim for income tax purposes)",
+        "print T in the CODE box at the right of N ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Go to step 8 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "St ep 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to provide additional information. On a separate sheet of paper:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "print SCHEDULE OF ADDITIONAL INFORMATION - ITEM T13",
+        "print your name and tax file number",
+        "for each partnership or trust for which you are eligible for an ETO",
+        "print the name of the partnership or trust print CODE = and print the code letter P for partnership or T for trust print K = and write the amount of the entity's aggregated turnover print N = and write the amount of your distribution from the partnership or trust (do not reduce your distribution amount by any deductions that you are entitled to claim for income tax purposes)",
+        "if you are also eligible for an ETO as a sole trader and your aggregated turnover was less than $75,000, then work through step 3 and if the amount at (c) in worksheet 1 is greater than zero then",
+        "print CODE = S print K = and write the amount of your total aggregated turnover print N = and write the amount from (c) in worksheet 1 (do not reduce this amount by any deductions that you are entitled to claim for income tax purposes)",
+        "print MARITAL STATUS on your SCHEDULE OF ADDITIONAL INFORMATION - ITEM T13 and print either M, S or F (see steps 9 and 10)",
+        "attach your schedule to page 3 of your tax return",
+        "print X in the YES box at Taxpayer's declaration question 2a on page 12 of your tax return."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "St ep 8"
+    },
+    {
+      "type": "paragraph",
+      "text": "To allow us to correctly calculate your ETO you will need to complete the following items in the Income tests section on page 8 of your tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "W item IT1 if you received any reportable fringe benefits",
+        "T item IT2 if you had a reportable employer superannuation contribution",
+        "X item IT5 if you had a net financial investment loss",
+        "Y item IT6 if you had a net rental property loss."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 9"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Did you have a spouse on 30 June 2012?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "Go to step 10 ."
+        ],
+        [
+          "YES",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to complete the following items in the Spouse details - married or de facto section on pages 9-10 of your tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "O even if your spouse had no taxable income",
+        "S if your spouse received reportable fringe benefits",
+        "A if your spouse had reportable superannuation contributions",
+        "D if your spouse had a net investment loss (this is the total of your spouse's net financial investment loss and net rental property loss)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At item T13 , print M in the MARITAL STATUS box at O ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have finished this question. Go to Check that you have…"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "St ep 10"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Did you have a qualifying dependant on any day during 2011-12 ?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "NO",
+          "At item T13, print S in the MARITAL STATUS box at O ."
+        ],
+        [
+          "YES",
+          "At item T13, print F in the MARITAL STATUS box at O ."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You have finished this question."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Che ck that you have ..."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "attached to page 3 of your tax return your SCHEDULE OF ADDITIONAL INFORMATION - ITEM T13, if you need to include one",
+        "completed a Business and professional items schedule for individuals 2012 (NAT 2816) if you are claiming an ETO for your activities as a sole trader."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question T14 - Other tax offsets . return to main menu Individual tax return instructions go back to T12 - Net income from working - supplementary section"
+        ]
+      ]
+    }
+  ],
+  "content_text": "## Were you a sole trader with an aggregated turnover of less than $75,000 or did you receive business income from a partnership or trust with an aggregated turnover of less than $75,000?\nSee Definitions for an explanation of the terms used at this question.\nNO | Go to question T14 - Other tax offsets , or return to main menu Individual tax return instructions\nYES | Read below.\n## You need to know\nThe entrepreneurs tax offset (ETO) is a tax offset equal to 25% of the income tax liability attributable to the net small business income of a small business entity with an aggregated turnover of $50,000 or less. This tax offset starts to phase out when the small business entity's aggregated turnover exceeds $50,000 and ceases when the aggregated turnover reaches $75,000.\nWe will automatically calculate your ETO from the information you provide at this item and at other items on your tax return.\nYou may be eligible to receive the ETO if you are:\n- a sole trader and the aggregated turnover for all your sole trader businesses is less than $75,000\n- a partner in a small business partnership which had an aggregated turnover of less than $75,000\n- a beneficiary of a small business trust which had an aggregated turnover of less than $75,000.\nYou may be eligible for more than one tax offset. For example, if you were a sole trader carrying on a business and you were also a partner in a separate business partnership, you may be entitled to a tax offset for your income as a sole trader and also for your share of the net small business income from the partnership. You need to work out your sole trader aggregated turnover separately from the aggregated turnover of the partnership.\nYour ETO entitlement is reduced if your income for ETO purposes for the year exceeds the following income threshold.\nWhere you are a sole trader, or receive income from partnership activities or a trust, your ETO entitlement reduces when the income for ETO purposes exceeds:\n- $70,000 if you were single with no qualifying dependant, or\n- $120,000 if you had\n- a qualifying dependant on any day during 2011-12, or a spouse on 30 June 2012. (If you had a spouse on 30 June 2012, you must include their details at Spouse details - married or de facto on pages 9-10 of your tax return.)\nIf your income for ETO purposes is above the relevant income threshold, then your tax offset (worked out after applying the aggregated turnover test) is reduced by 20c for every $1 over that threshold.\nThe ETO can only reduce your tax payable. You cannot:\n- get a refund of this tax offset\n- defer all or part of this tax offset to reduce your tax payable in a later income year\n- transfer this tax offset to another taxpayer to reduce their tax payable.\n### Defini tions\n#### Small business entity\nGenerally, a sole trader, partnership or trust is a small business entity for 2011-12 if they carried on a business in 2011-12 and its aggregated turnover:\n- was less than $2 million in 2010-11 or\n- was estimated as at the beginning of 2011-12 to be less than $2 million for 2011-12 (but not if the entity carried on a business in 2009-10 and 2010-11 and its aggregated turnover for each of those income years was $2 million or more) or\n- was actually less than $2 million for 2011-12 when worked out as at the end of 2011-12.\nIf you started a business part way through 2011-12, your current year estimate must be made as at the day you started the business.\n#### Aggregated turnover\nBroadly, your aggregated turnover for the income year is:\n- your annual turnover for the income year\nplus\n- the annual turnover of any entity connected or affiliated with you at any time during the income year\nless\n- income derived from dealings between you and any entity connected or affiliated with you.\nThere are aggregation rules to assist you to determine who is connected or affiliated with an entity for the purpose of calculating the aggregated turnover.\n#### Annual turnover\nYour annual turnover for the income year is the total ordinary income that you derived in the ordinary course of carrying on a business but it does not include:\n- goods and services tax (GST) charged on a transaction\n- your ordinary income from the sale of retail fuel.\nIf an entity operated a business for only part of the year, it must calculate a reasonable estimate of what its annual turnover would have been for the full year.\n#### Affiliated\nAn affiliated entity is an individual or company that acts, or could reasonably be expected to act, in accordance with your directions or wishes, or as agreed between you and them in relation to the affairs of the business of that individual or company.\nAn affiliated entity does not include an individual or company you merely have business dealings with.\n#### Connected\nAn entity is connected with another entity where:\n- either entity 'controls' the other or\n- both are 'controlled' by the same third entity.\nThe control can be either direct or indirect.\n#### Small business entity turnover\nYour small business entity turnover for 2011-12 is the total ordinary income you derived in the ordinary course of carrying on a business.\nIf you operated a business for only part of 2011-12, you include only your actual turnover amount. Do not use an estimated amount of a full-year turnover.\nIn working out ordinary income of a business:\n- include\n- sales of trading stock fees for services provided interest from business bank accounts amounts received to replace something that would have had the character of business income\n- do not include\n- GST that has been charged on a transaction proceeds from the sale of business capital assets insurance proceeds for the loss or destruction of a business asset amounts received from repayments of farm management deposits.\nThe rules that apply for working out aggregated turnover and small business entity turnover are not the same.\nYou can calculate your small business entity turnover by making the following adjustments to your aggregated turnover amount:\n- If you have included another entity's turnover in your aggregated turnover amount, you will need to\n- subtract that entity's turnover, and add back any income you derived from your affiliates or connected entities.\n- If you have retail fuel sales, you must add them back.\n#### Net small business income\nYour net small business income is your small business entity turnover less the deductions that directly relate to that turnover. We use your net small business income to work out the amount of your ETO.\nIf the amount of net small business income is zero or less, you are not eligible for the ETO.\nThe following are some examples of amounts which do not directly relate to small business entity turnover, so they cannot be used to reduce small business entity turnover:\n- tax losses from prior years\n- personal superannuation contributions\n- gifts or donations\n- costs of managing your or the entity's tax affairs\n- deferred non-commercial losses.\nIf your or the entity's small business pool includes assets which are used partly for business and partly for other income-producing activities, then the pool deduction will need to be apportioned on a reasonable basis.\n#### Qualifying dependant\nFor the purpose of determining your income test threshold, a qualifying dependant is:\n- your child under 21 years old (regardless of their income and whether or not they were an Australian resident)\n- a resident of Australia whom you maintained during 2011-12 who is\n- any other child under 21 years old who was not a student and whose ATI was less than the total of $282 plus $28.92 for each week you maintained them, or $1,786 if you maintained them for the whole year a student under 25 years old who is studying full time at school, college or university whose ATI was less than the total of $282 plus $28.92 for each week you maintained them, or $1,786 if you maintained them for the whole year your spouse, but only if you can claim a tax offset for them at item T1 or T10 on your tax return, or could have claimed a tax offset for them at item T1 or T10 had your ATI not exceeded $150,000 a child-housekeeper, but only if you can claim a tax offset for them at item T1 on your tax return, or could have claimed a tax offset for them at item T1 had your ATI or the combined ATI of you and your spouse not exceeded $150,000 your or your spouse's invalid relative or parent, but only if you can claim a tax offset for them at item T10 on your tax return, or could have claimed a tax offset for them at item T10 had your ATI or the combined ATI of you and your spouse not exceeded $150,000\nA child includes your natural child, an ex-nuptial child, your adopted child or a child of your spouse (step-child).\nAn invalid relative is your or your spouse's child, brother or sister 16 years old or older who:\n- receives an Australian Government disability support pension, or\n- has a certificate from a Commonwealth-approved doctor certifying a continuing inability to work.\n##### Maintaining a dependant\nYou maintained a dependant if any of the following applied:\n- you and your dependant lived in the same house\n- you gave your dependant food, clothing and lodging\n- you helped them to pay for their living, medical and educational costs.\nWe consider you to have maintained a dependant even if the two of you were temporarily separated, for example, due to holidays or overseas travel.\n## What you may need\n- Details of all the business income earned during the year\n- Details of the deductions that you can claim which directly relate to the business income earned during the year\n- Details of all business income earned during the year by entities you were connected with or which were your affiliates\n- A statement or advice from the partnership or trust showing the following details\n- the partnership's or trust's aggregated turnover your share of the partnership's or trust's net small business income\n- Details of your spouse's income\n### Step 1\n#### Are you eligible for more than one ETO?\nYES | Go to step 7 .\nNO | Read below.\n### Step 2\n#### Did you carry on a business as a sole trader and was your aggregated turnover less than $75,000? (If you carried on more than one business activity, your aggregated turnover must include all your sole trader activities.)\nNO | Go to step 5 .\nYES | Read below.\n### Step 3\nUse worksheet 1 below to calculate your net small business income as a sole trader. If you carried on more than one business as a sole trader, add together the value of the business income earned from each business when calculating your small business entity turnover and your net small business income as a sole trader.\nWorksheet 1\nYour total small business entity turnover | $ | (a)\nAllowable deductions that directly relate to the small business entity turnover | $ | (b)\nTake (b) away from (a). | $ | (c)\nThe amount at (c) is your net small business income.\n### Step 4\n#### Is the amount at (c) in worksheet 1 greater than zero?\nNO | You are not eligible to claim the ETO. Go to question T14 - Other tax offsets .\nYES | Read below.\nYou need to complete item T13 :\n- write the amount of your aggregated turnover at K\n- write the amount of your net small business income at N\n- print S in the CODE box at the right of N .\nGo to step 8 .\n### S tep 5\n#### Did you receive a share of the net small business income of a partnership with an aggregated turnover of less than $75,000?\nNO | Go to step 6 .\nYES | Read on.\nTo complete item T13 :\n- write the amount of the partnership's aggregated turnover at K\n- write the amount of your share of the net small business income at N (do not reduce this amount by any deductions that you are entitled to claim for income tax purposes)\n- print P in the CODE box at the right of N .\nGo to step 8 .\n### Ste p 6\n#### Did you receive a distribution of net small business income from a trust with an aggregated turnover of less than $75,000?\nNO | You are not eligible to claim the ETO. Go to question T14 - Other tax offsets .\nYES | Read below.\nTo complete item T13 :\n- write the amount of the trust's aggregated turnover at K\n- write the amount of your distribution of net small business income from the trust at N (do not reduce your distribution by any deductions that you are entitled to claim for income tax purposes)\n- print T in the CODE box at the right of N .\nGo to step 8 .\n### St ep 7\nYou need to provide additional information. On a separate sheet of paper:\n- print SCHEDULE OF ADDITIONAL INFORMATION - ITEM T13\n- print your name and tax file number\n- for each partnership or trust for which you are eligible for an ETO\n- print the name of the partnership or trust print CODE = and print the code letter P for partnership or T for trust print K = and write the amount of the entity's aggregated turnover print N = and write the amount of your distribution from the partnership or trust (do not reduce your distribution amount by any deductions that you are entitled to claim for income tax purposes)\n- if you are also eligible for an ETO as a sole trader and your aggregated turnover was less than $75,000, then work through step 3 and if the amount at (c) in worksheet 1 is greater than zero then\n- print CODE = S print K = and write the amount of your total aggregated turnover print N = and write the amount from (c) in worksheet 1 (do not reduce this amount by any deductions that you are entitled to claim for income tax purposes)\n- print MARITAL STATUS on your SCHEDULE OF ADDITIONAL INFORMATION - ITEM T13 and print either M, S or F (see steps 9 and 10)\n- attach your schedule to page 3 of your tax return\n- print X in the YES box at Taxpayer's declaration question 2a on page 12 of your tax return.\n### St ep 8\nTo allow us to correctly calculate your ETO you will need to complete the following items in the Income tests section on page 8 of your tax return:\n- W item IT1 if you received any reportable fringe benefits\n- T item IT2 if you had a reportable employer superannuation contribution\n- X item IT5 if you had a net financial investment loss\n- Y item IT6 if you had a net rental property loss.\n### Step 9\n#### Did you have a spouse on 30 June 2012?\nNO | Go to step 10 .\nYES | Read below.\nYou need to complete the following items in the Spouse details - married or de facto section on pages 9-10 of your tax return:\n- O even if your spouse had no taxable income\n- S if your spouse received reportable fringe benefits\n- A if your spouse had reportable superannuation contributions\n- D if your spouse had a net investment loss (this is the total of your spouse's net financial investment loss and net rental property loss).\nAt item T13 , print M in the MARITAL STATUS box at O .\nYou have finished this question. Go to Check that you have…\n### St ep 10\n#### Did you have a qualifying dependant on any day during 2011-12 ?\nNO | At item T13, print S in the MARITAL STATUS box at O .\nYES | At item T13, print F in the MARITAL STATUS box at O .\nYou have finished this question.\n## Che ck that you have ...\n- attached to page 3 of your tax return your SCHEDULE OF ADDITIONAL INFORMATION - ITEM T13, if you need to include one\n- completed a Business and professional items schedule for individuals 2012 (NAT 2816) if you are claiming an ETO for your activities as a sole trader.\nWhere to go next go to question T14 - Other tax offsets . return to main menu Individual tax return instructions go back to T12 - Net income from working - supplementary section",
+  "child_links": [],
+  "word_count": 2839,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

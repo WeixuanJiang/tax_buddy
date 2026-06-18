@@ -1,0 +1,83 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2011/supporting-information/education-tax-refund-what-you-need-to-know/how-much-you-can-claim/shared-care-of-child-or-agreed-percentage",
+  "title": "Shared care of child or agreed percentage",
+  "description": "",
+  "nat_number": "",
+  "quick_code": "80901",
+  "date_updated": "2019-02-07T13:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Label",
+          "Step",
+          "Directions"
+        ],
+        [
+          "A",
+          "1",
+          "Work out your total eligible education expenses"
+        ],
+        [
+          "B",
+          "2",
+          "Multiply A by your agreed percentage"
+        ],
+        [
+          "C",
+          "3",
+          "Calculate the maximum tax offset amount for this child"
+        ],
+        [
+          "D",
+          "4",
+          "How many days in the year were your eligible?"
+        ],
+        [
+          "E",
+          "5",
+          "Multiply D by your shared care and agreed percentage"
+        ],
+        [
+          "F",
+          "6",
+          "Work out the maximum tax offset amount for this child ( C × E ) divided by 365 - round to two decimal places Repeat Steps 3 to 6 for each child"
+        ],
+        [
+          "G",
+          "7",
+          "Add the amounts from F for each child"
+        ],
+        [
+          "H",
+          "8",
+          "Include excess eligible expenses carried forward from the previous year"
+        ],
+        [
+          "I",
+          "9",
+          "Add B and H"
+        ],
+        [
+          "J",
+          "10",
+          "Multiply your expenses from I by 50%"
+        ],
+        [
+          "K",
+          "11",
+          "Use the lower of G or J Write the amount at K on your tax claim"
+        ]
+      ]
+    }
+  ],
+  "content_text": "Label | Step | Directions\nA | 1 | Work out your total eligible education expenses\nB | 2 | Multiply A by your agreed percentage\nC | 3 | Calculate the maximum tax offset amount for this child\nD | 4 | How many days in the year were your eligible?\nE | 5 | Multiply D by your shared care and agreed percentage\nF | 6 | Work out the maximum tax offset amount for this child ( C × E ) divided by 365 - round to two decimal places Repeat Steps 3 to 6 for each child\nG | 7 | Add the amounts from F for each child\nH | 8 | Include excess eligible expenses carried forward from the previous year\nI | 9 | Add B and H\nJ | 10 | Multiply your expenses from I by 50%\nK | 11 | Use the lower of G or J Write the amount at K on your tax claim",
+  "child_links": [],
+  "word_count": 166,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

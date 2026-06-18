@@ -1,0 +1,305 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2024/supporting-information/adjusted-taxable-income-for-you-and-your-dependants-2024",
+  "title": "Adjusted taxable income for you and your dependants 2024",
+  "description": "Work out your adjusted taxable income (ATI) and if you're eligible for certain tax offsets.",
+  "nat_number": "",
+  "quick_code": "101471",
+  "date_updated": "2024-05-29T00:30:00Z",
+  "first_published": true,
+  "keywords": "Individual tax return instructions, ATI, adjusted taxable income, income, tax return, adjusted tax, 2024, tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What is adjusted taxable income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your ATI is the sum of the following amounts:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "taxable income (excluding any assessable First home super saver released amount)",
+        "adjusted fringe benefits total, which is the sum of reportable fringe benefits amounts received from employers exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986 multiplied by 0.53, and reportable fringe benefits amounts from employers not exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986",
+        "reportable employer superannuation contributions",
+        "deductible personal superannuation contributions",
+        "certain tax-free government pensions or benefits received by the person",
+        "target foreign income (income and certain other amounts from sources outside Australia not included in your taxable income or received as a fringe benefit)",
+        "net financial investment loss (the amount by which the person's deductions attributable to financial investments exceeded their total financial investment income)",
+        "net rental property loss (the amount by which the person's deductions attributable to rental property exceeded their rental property income)",
+        "less – any child support payments the person provided to another person."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We use ATI to work out if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you can include a base amount in the zone or overseas forces tax offset (question T4 )",
+        "you can claim the invalid and invalid carer tax offset (question T5 )",
+        "your child is considered a dependant for Medicare levy purposes (question M1 )",
+        "you are entitled to government super contributions (question A3 )."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to claim a tax offset at questions T4 or T5 and you have dependants, you will need your and your dependants' ATI for the relevant period to work out:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "whether you are eligible for a tax offset",
+        "the amount of any tax offset you are entitled to."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For the meaning of dependant and maintaining a dependant, see Tax time definitions ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Calculate your ATI"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use either our Income tests calculator or Worksheet 1a and Worksheet 1b . If you use the calculator and have to either work out a dependant's ATI for part of the year or a deceased's ATI, you need to read the instructions below."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Working out the ATI of a person for the whole year"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are working out the ATI of a person for the whole year, you can get the amounts for worksheet 1b from the person's tax return. Table 1 shows you where the relevant amounts are on the tax return."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "For Worksheet 1b",
+          "The amount comes from"
+        ],
+        [
+          "a",
+          "Taxable income or loss on page 4 in the tax return (excluding any assessable First home super saver released amount)"
+        ],
+        [
+          "b",
+          "The sum of: question IT1 Total reportable fringe benefits amounts – label N in the tax return, multiplied by 0.53 and rounded down to the nearest dollar, and question IT1 Total reportable fringe benefits amounts – label W in the tax return"
+        ],
+        [
+          "c",
+          "question IT2 Reportable employer superannuation contributions – label T in the tax return"
+        ],
+        [
+          "d",
+          "question D12 Personal superannuation contributions – label H in the supplementary tax return"
+        ],
+        [
+          "e",
+          "question IT3 Tax-free government pensions – label U in the tax return"
+        ],
+        [
+          "f",
+          "question IT4 Target foreign income – label V in the tax return"
+        ],
+        [
+          "g",
+          "question IT5 Net financial investment loss – label X in the tax return"
+        ],
+        [
+          "h",
+          "question IT6 Net rental property loss – label Y in the tax return"
+        ],
+        [
+          "j",
+          "question IT7 Child support you paid – label Z in the tax return"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Working out a dependant's ATI for part of the year"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are working out a dependant's ATI for part of the year, you cannot use the figures from their tax return. Instead, you must work out the amounts for the relevant period and complete the calculator or worksheet using these figures. The instructions at each offset question will tell you what to do."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing a tax return for a deceased person"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are completing a tax return for a deceased person, or your spouse died during the year and you need to know their ATI for the whole of 2023–24, their ATI is the amount in the calculator or at row k below:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "divided by the number of days the person was alive in 2023–24, and",
+        "multiplied by 366."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the deceased person's ATI for the whole of 2023–24."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Working out a person's ATI for the relevant period"
+    },
+    {
+      "type": "paragraph",
+      "text": "Determine the period for which you need to work out the person's ATI (start date and end date)."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "You",
+          "Dependant 1",
+          "Dependant 2",
+          "Dependant 3"
+        ],
+        [
+          "The start date to work out the person's ATI",
+          "1/7/2023",
+          "",
+          "",
+          ""
+        ],
+        [
+          "The end date to work out the person's ATI",
+          "30/6/2024",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "You",
+          "Dependant 1",
+          "Dependant 2",
+          "Dependant 3"
+        ],
+        [
+          "a",
+          "The person's taxable income for the period (excluding any assessable First home super saver released amount) If taxable income is a loss, write 0 (zero)",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "b",
+          "The person's adjusted fringe benefits total for the period",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "c",
+          "The person's reportable employer superannuation contributions for the period",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "d",
+          "The person's deductible personal superannuation contributions for the period",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "e",
+          "The person's tax-free government pensions or benefits for the period",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "f",
+          "The person's target foreign income for the period",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "g",
+          "The person's net financial investment loss for the period",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "h",
+          "The person's net rental property loss for the period",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "i",
+          "Add all the amounts from rows a to h",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "j",
+          "Child support the person provided to a third party for the period",
+          "$",
+          "$",
+          "$",
+          "$"
+        ],
+        [
+          "k",
+          "Subtract row j from row i . This is the person's ATI for the period.",
+          "$",
+          "$",
+          "$",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Return to main menu Individual tax return instructions 2024 ."
+    }
+  ],
+  "content_text": "## What is adjusted taxable income\nYour ATI is the sum of the following amounts:\n- taxable income (excluding any assessable First home super saver released amount)\n- adjusted fringe benefits total, which is the sum of reportable fringe benefits amounts received from employers exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986 multiplied by 0.53, and reportable fringe benefits amounts from employers not exempt from fringe benefits tax under section 57A of the Fringe Benefits Tax Assessment Act 1986\n- reportable employer superannuation contributions\n- deductible personal superannuation contributions\n- certain tax-free government pensions or benefits received by the person\n- target foreign income (income and certain other amounts from sources outside Australia not included in your taxable income or received as a fringe benefit)\n- net financial investment loss (the amount by which the person's deductions attributable to financial investments exceeded their total financial investment income)\n- net rental property loss (the amount by which the person's deductions attributable to rental property exceeded their rental property income)\n- less – any child support payments the person provided to another person.\nWe use ATI to work out if:\n- you can include a base amount in the zone or overseas forces tax offset (question T4 )\n- you can claim the invalid and invalid carer tax offset (question T5 )\n- your child is considered a dependant for Medicare levy purposes (question M1 )\n- you are entitled to government super contributions (question A3 ).\nIf you want to claim a tax offset at questions T4 or T5 and you have dependants, you will need your and your dependants' ATI for the relevant period to work out:\n- whether you are eligible for a tax offset\n- the amount of any tax offset you are entitled to.\nFor the meaning of dependant and maintaining a dependant, see Tax time definitions .\n## Calculate your ATI\nYou can use either our Income tests calculator or Worksheet 1a and Worksheet 1b . If you use the calculator and have to either work out a dependant's ATI for part of the year or a deceased's ATI, you need to read the instructions below.\n### Working out the ATI of a person for the whole year\nIf you are working out the ATI of a person for the whole year, you can get the amounts for worksheet 1b from the person's tax return. Table 1 shows you where the relevant amounts are on the tax return.\nFor Worksheet 1b | The amount comes from\na | Taxable income or loss on page 4 in the tax return (excluding any assessable First home super saver released amount)\nb | The sum of: question IT1 Total reportable fringe benefits amounts – label N in the tax return, multiplied by 0.53 and rounded down to the nearest dollar, and question IT1 Total reportable fringe benefits amounts – label W in the tax return\nc | question IT2 Reportable employer superannuation contributions – label T in the tax return\nd | question D12 Personal superannuation contributions – label H in the supplementary tax return\ne | question IT3 Tax-free government pensions – label U in the tax return\nf | question IT4 Target foreign income – label V in the tax return\ng | question IT5 Net financial investment loss – label X in the tax return\nh | question IT6 Net rental property loss – label Y in the tax return\nj | question IT7 Child support you paid – label Z in the tax return\n### Working out a dependant's ATI for part of the year\nIf you are working out a dependant's ATI for part of the year, you cannot use the figures from their tax return. Instead, you must work out the amounts for the relevant period and complete the calculator or worksheet using these figures. The instructions at each offset question will tell you what to do.\n### Completing a tax return for a deceased person\nIf you are completing a tax return for a deceased person, or your spouse died during the year and you need to know their ATI for the whole of 2023–24, their ATI is the amount in the calculator or at row k below:\n- divided by the number of days the person was alive in 2023–24, and\n- multiplied by 366.\nThis is the deceased person's ATI for the whole of 2023–24.\n### Working out a person's ATI for the relevant period\nDetermine the period for which you need to work out the person's ATI (start date and end date).\n | You | Dependant 1 | Dependant 2 | Dependant 3\nThe start date to work out the person's ATI | 1/7/2023 |  |  | \nThe end date to work out the person's ATI | 30/6/2024 |  |  | \nRow | Calculation | You | Dependant 1 | Dependant 2 | Dependant 3\na | The person's taxable income for the period (excluding any assessable First home super saver released amount) If taxable income is a loss, write 0 (zero) | $ | $ | $ | $\nb | The person's adjusted fringe benefits total for the period | $ | $ | $ | $\nc | The person's reportable employer superannuation contributions for the period | $ | $ | $ | $\nd | The person's deductible personal superannuation contributions for the period | $ | $ | $ | $\ne | The person's tax-free government pensions or benefits for the period | $ | $ | $ | $\nf | The person's target foreign income for the period | $ | $ | $ | $\ng | The person's net financial investment loss for the period | $ | $ | $ | $\nh | The person's net rental property loss for the period | $ | $ | $ | $\ni | Add all the amounts from rows a to h | $ | $ | $ | $\nj | Child support the person provided to a third party for the period | $ | $ | $ | $\nk | Subtract row j from row i . This is the person's ATI for the period. | $ | $ | $ | $\nReturn to main menu Individual tax return instructions 2024 .",
+  "child_links": [],
+  "word_count": 1068,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,50 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/tax-offsets/beneficiary-tax-offset",
+  "title": "Beneficiary tax offset",
+  "description": "Check if you can get a tax offset when you receive certain Australian Government payments or allowances.",
+  "nat_number": "",
+  "quick_code": "72199",
+  "date_updated": "2026-06-07T14:00:00Z",
+  "first_published": "",
+  "keywords": "beneficiary tax offset, beneficiary tax offsets, government allowance beneficiary, beneficiary offset, ato beneficiary tax offset, government allowances offset, what is beneficiary tax offset, what is a government allowance",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "You must be receiving certain Australian Government payments and allowances and pay tax to receive the beneficiary tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will pay no tax for the year if you both:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "get a qualifying tax-free government pension or benefit",
+        "have no other taxable income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have other income, you may still need to pay some tax. Then you may be able to receive the beneficiary tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "We will automatically calculate the tax offset when we process your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use the calculator to work out if you are eligible for the offset and the amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are eligible for both offsets, you will receive the one with the highest amount."
+    }
+  ],
+  "content_text": "You must be receiving certain Australian Government payments and allowances and pay tax to receive the beneficiary tax offset.\nYou will pay no tax for the year if you both:\n- get a qualifying tax-free government pension or benefit\n- have no other taxable income.\nIf you have other income, you may still need to pay some tax. Then you may be able to receive the beneficiary tax offset.\nWe will automatically calculate the tax offset when we process your tax return.\nYou can use the calculator to work out if you are eligible for the offset and the amount.\nIf you are eligible for both offsets, you will receive the one with the highest amount.",
+  "child_links": [],
+  "word_count": 116,
+  "source_title": "",
+  "source_description": "",
+  "category": "income-deductions-offsets-and-records"
+}

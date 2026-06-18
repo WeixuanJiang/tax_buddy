@@ -1,0 +1,392 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/capital-gains-tax/shares-and-similar-investments/trust-non-assessable-payments-cgt-event-e4",
+  "title": "Trust non-assessable payments (CGT event E4)",
+  "description": "Unit trusts often make non-assessable payments to unit holder.",
+  "nat_number": "",
+  "quick_code": "52215",
+  "date_updated": "2023-06-29T14:00:00Z",
+  "first_published": "",
+  "keywords": "cgt, trusts, non-assessable payments, unit holders, unit trusts, E4, capital gains, CGT event, trust payments, E10,",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "When trusts make non-assessable payments to beneficiaries, CGT event E4 may occur."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Non-assessable payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "Non-assessable payments may be made over a number of years. In this case, you will make a capital gain in the year in which the cumulative total of the non-assessable payments over all years exceeds the cost base of your units or interests."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't make a capital loss from a non-assessable payment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Non-assessable payments may be shown on your statement from the trustee as:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "tax-free amounts",
+        "CGT-concession amounts",
+        "tax-exempted amounts",
+        "tax-deferred amounts."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You may need to adjust the cost base and reduced cost base of your units depending on the kind of non-assessable payment you received."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your statement of distribution or advice should show amounts and other information relevant to your cost base or reduced cost base."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your unit or interest is in an attribution managed investment trust (AMIT), CGT event E4 doesn't apply, but CGT event E10 may apply."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Types of amounts"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tax-free amounts relate to certain tax concessions received by the fund which enable it to pay greater distributions to its unit holders. If your statement shows any tax-free amounts, you adjust the reduced cost base (but not the cost base) of your units by these amounts. Payments of amounts associated with building allowances that were made before 1 July 2001 were treated as tax-free amounts."
+    },
+    {
+      "type": "paragraph",
+      "text": "CGT-concession amounts relate to the CGT discount component of any actual distribution. Such amounts don't affect your cost base and reduced cost base if they were received after 30 June 2001. A CGT-concession amount received before 1 July 2001 is taken off the cost base and reduced cost base."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tax-exempted amounts are generally:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "exempt income of the fund",
+        "amounts on which the fund has already paid tax",
+        "income you had to repay to the fund."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Such amounts don't affect your cost base and reduced cost base."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tax-deferred amounts are other non-assessable amounts, including indexation received by the fund on its capital gains and accounting differences in income. You adjust the cost base and reduced cost base of your units by these amounts. Payments associated with building allowances made on or after 1 July 2001 are treated as tax-deferred amounts."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the tax-deferred amount is greater than the cost base of your units or trust interest, you include the excess as a capital gain. You can use the indexation method if you bought your units or trust interest before 11:45 am (by legal time in the ACT) on 21 September 1999. However, if you do so, you can't use the discount method to work out your capital gain when you later sell the units or trust interest."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cost base adjustments"
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, you make any adjustment to the cost base and reduced cost base of your unit or trust interest at the end of the income year. However, if some other CGT event happens to the unit or trust interest during the year (for example, you sell your units), you must adjust the cost base and reduced cost base just before the time of that CGT event. The amount of the adjustment is based on the amount of non-assessable payments to you up to the date of sale. You use the adjusted cost base and reduced cost base to work out your capital gain or loss ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example: Mario has received a non-assessable amount"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mario owns units in OZ Investments Fund (a managed fund that is not an AMIT), which distributed income to him for the 2022–23 income year. The fund gave him a statement showing his distribution meant that his share of the trust’s net capital gain included:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$100 calculated using the discount method (grossed-up amount $200)",
+        "$75 calculated using the indexation method",
+        "$28 calculated using the 'other' method."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "These capital gains add up to $203."
+    },
+    {
+      "type": "paragraph",
+      "text": "The statement shows Mario’s distribution did not include a tax-free amount, but it did include a $105 tax-deferred amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "From his records, Mario knows that the cost base and reduced cost base of his units are $1,200 and $1,050 respectively."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mario has no other capital gains or capital losses for the 2022–23 income year and no unapplied net capital losses from earlier years."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following steps show how Mario works out the amounts to write on his tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "As Mario has a share of a capital gain which the fund reduced using the CGT discount of 50% (so that his share was $100), he includes the grossed-up amount of his share ($200) in his total current year capital gains."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mario adds the grossed-up amount to his share of the trust’s capital gains calculated using the indexation method and 'other' method to work out his total current year capital gains:"
+    },
+    {
+      "type": "paragraph",
+      "text": "$200 + $75 + $28 = $303"
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "As Mario has no other capital gains or losses, and he must use the discount method for the capital gains calculated using the discount method from the trust, his net capital gain is equal to his share of the trust’s net capital gain for tax purposes ($203)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mario completes item 18 in his tax return (paper tax return, supplementary section) as follows:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "label G (Did you have a capital gains tax event during the year?): indicate yes",
+        "label M (Have you applied an exemption or rollover?): indicate no and leave the code blank",
+        "label A (Net capital gain): enter 203",
+        "label H (Total current year capital gains): enter 303",
+        "label V (Net capital losses carried forward to later income years): leave blank",
+        "label X (Credit for foreign resident capital gains withholding amounts): leave blank."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Records Mario needs to keep"
+    },
+    {
+      "type": "paragraph",
+      "text": "The tax-deferred amount Mario received is not included in his income or his capital gains, but it affects the cost base and reduced cost base of his units in OZ Investments Fund for future income years."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Cost base",
+          "$1,200"
+        ],
+        [
+          "less tax-deferred amount",
+          "$105"
+        ],
+        [
+          "New cost base",
+          "$1,095"
+        ],
+        [
+          "Reduced cost base",
+          "$1,050"
+        ],
+        [
+          "less tax-deferred amount",
+          "$105"
+        ],
+        [
+          "New reduced cost base",
+          "$945"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Example: Ilena’s capital loss is greater than her non-discounted capital gain"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ilena invested in XYZ Managed Fund (a managed fund that is not an AMIT). The fund made a distribution to Ilena for the year ending 30 June 2023 and gave her a statement that shows her distribution meant that her share of the trust’s net capital gain included:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$65 discounted capital gain",
+        "$90 non-discounted capital gain."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The statement shows Ilena’s distribution also included:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$30 tax-deferred amount",
+        "$35 tax-free amount."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ilena has no other capital gains, but made a capital loss of $100 on some shares she sold during the year. Ilena has no unapplied net capital losses from earlier years."
+    },
+    {
+      "type": "paragraph",
+      "text": "From her records, Ilena knows the cost base and reduced cost base of her units are $5,000 and $4,700 respectively."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ilena has to treat the capital gain component of her share of the fund’s net income for tax purposes as if she made the capital gain. To complete her tax return, Ilena must identify this capital gain component and work out her net capital gain."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following steps show how Ilena works out the amount to write at H item 18 on her tax return (paper tax return, supplementary section)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "As Ilena has a share of a capital gain which the fund reduced by the CGT discount of 50% (her discounted share being $65), she must gross up her share of this capital gain. She does this by multiplying the amount of her share of the discounted capital gain by two:"
+    },
+    {
+      "type": "paragraph",
+      "text": "$65 × 2 = $130"
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ilena adds her share of the trust’s grossed-up and non-discounted capital gains to work out her total current year capital gains:"
+    },
+    {
+      "type": "paragraph",
+      "text": "$130 + $90 = $220"
+    },
+    {
+      "type": "paragraph",
+      "text": "She writes her total current year capital gains ($220) at H item 18 on her tax return (supplementary section)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "After Ilena has grossed-up her share of the fund’s discounted capital gain, she subtracts her capital losses from her capital gains."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ilena can choose which capital gains she first subtracts the capital losses from. In her case, she gets the better result if she:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "subtracts as much as possible of her capital losses (which were $100) from her non-discounted capital gains ($90): $90 − $90 = $0 (non-discounted capital gains)",
+        "subtracts her remaining capital losses after step 1 ($10) from her discounted capital gains ($130): $130 − $10 = $120 (discounted capital gains)",
+        "applies the CGT discount to her remaining discounted capital gains: ($120 × 50%) = $60 (discounted capital gains)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Finally, Ilena adds up the capital gains remaining to arrive at her net capital gain:"
+    },
+    {
+      "type": "paragraph",
+      "text": "$0 (non-discounted) + $60 (discounted) = $60 net capital gain."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ilena completes item 18 on her tax return (paper tax return, supplementary section) as follows:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "label G (Did you have a capital gains tax event during the year?): indicate yes",
+        "label M (Have you applied an exemption or rollover?): indicate no and leave the code blank. The trust applied the exemption or rollover and will need to report that on its trust return.",
+        "label A (Net capital gain): enter 60",
+        "label H (Total current year capital gains): enter 220",
+        "label V (Net capital losses carried forward to later income years): leave blank",
+        "label X (Credit for foreign resident capital gains withholding amounts): leave blank."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Records Ilena needs to keep"
+    },
+    {
+      "type": "paragraph",
+      "text": "The tax-deferred and tax-free amounts Ilena received are not included in her income or her capital gain, but the tax-deferred amount affects the cost base and reduced cost base of her units in XYZ Managed Fund for future income years. The tax-free amount affects her reduced cost base."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ilena reduces the cost base and reduced cost base of her units as follows:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Cost base",
+          "$5,000"
+        ],
+        [
+          "less tax-deferred amount",
+          "$30"
+        ],
+        [
+          "New cost base",
+          "$4,970"
+        ],
+        [
+          "Reduced cost base",
+          "$4,700"
+        ],
+        [
+          "less (tax-deferred amount + tax-free amount) ($30 + $35)",
+          "$65"
+        ],
+        [
+          "New reduced cost base",
+          "$4,635"
+        ]
+      ]
+    }
+  ],
+  "content_text": "When trusts make non-assessable payments to beneficiaries, CGT event E4 may occur.\n## Non-assessable payments\nNon-assessable payments may be made over a number of years. In this case, you will make a capital gain in the year in which the cumulative total of the non-assessable payments over all years exceeds the cost base of your units or interests.\nYou can't make a capital loss from a non-assessable payment.\nNon-assessable payments may be shown on your statement from the trustee as:\n- tax-free amounts\n- CGT-concession amounts\n- tax-exempted amounts\n- tax-deferred amounts.\nYou may need to adjust the cost base and reduced cost base of your units depending on the kind of non-assessable payment you received.\nYour statement of distribution or advice should show amounts and other information relevant to your cost base or reduced cost base.\nIf your unit or interest is in an attribution managed investment trust (AMIT), CGT event E4 doesn't apply, but CGT event E10 may apply.\n## Types of amounts\nTax-free amounts relate to certain tax concessions received by the fund which enable it to pay greater distributions to its unit holders. If your statement shows any tax-free amounts, you adjust the reduced cost base (but not the cost base) of your units by these amounts. Payments of amounts associated with building allowances that were made before 1 July 2001 were treated as tax-free amounts.\nCGT-concession amounts relate to the CGT discount component of any actual distribution. Such amounts don't affect your cost base and reduced cost base if they were received after 30 June 2001. A CGT-concession amount received before 1 July 2001 is taken off the cost base and reduced cost base.\nTax-exempted amounts are generally:\n- exempt income of the fund\n- amounts on which the fund has already paid tax\n- income you had to repay to the fund.\nSuch amounts don't affect your cost base and reduced cost base.\nTax-deferred amounts are other non-assessable amounts, including indexation received by the fund on its capital gains and accounting differences in income. You adjust the cost base and reduced cost base of your units by these amounts. Payments associated with building allowances made on or after 1 July 2001 are treated as tax-deferred amounts.\nIf the tax-deferred amount is greater than the cost base of your units or trust interest, you include the excess as a capital gain. You can use the indexation method if you bought your units or trust interest before 11:45 am (by legal time in the ACT) on 21 September 1999. However, if you do so, you can't use the discount method to work out your capital gain when you later sell the units or trust interest.\n## Cost base adjustments\nGenerally, you make any adjustment to the cost base and reduced cost base of your unit or trust interest at the end of the income year. However, if some other CGT event happens to the unit or trust interest during the year (for example, you sell your units), you must adjust the cost base and reduced cost base just before the time of that CGT event. The amount of the adjustment is based on the amount of non-assessable payments to you up to the date of sale. You use the adjusted cost base and reduced cost base to work out your capital gain or loss .\nExample: Mario has received a non-assessable amount\nMario owns units in OZ Investments Fund (a managed fund that is not an AMIT), which distributed income to him for the 2022–23 income year. The fund gave him a statement showing his distribution meant that his share of the trust’s net capital gain included:\n- $100 calculated using the discount method (grossed-up amount $200)\n- $75 calculated using the indexation method\n- $28 calculated using the 'other' method.\nThese capital gains add up to $203.\nThe statement shows Mario’s distribution did not include a tax-free amount, but it did include a $105 tax-deferred amount.\nFrom his records, Mario knows that the cost base and reduced cost base of his units are $1,200 and $1,050 respectively.\nMario has no other capital gains or capital losses for the 2022–23 income year and no unapplied net capital losses from earlier years.\nThe following steps show how Mario works out the amounts to write on his tax return.\nStep 1\nAs Mario has a share of a capital gain which the fund reduced using the CGT discount of 50% (so that his share was $100), he includes the grossed-up amount of his share ($200) in his total current year capital gains.\nStep 2\nMario adds the grossed-up amount to his share of the trust’s capital gains calculated using the indexation method and 'other' method to work out his total current year capital gains:\n$200 + $75 + $28 = $303\nStep 3\nAs Mario has no other capital gains or losses, and he must use the discount method for the capital gains calculated using the discount method from the trust, his net capital gain is equal to his share of the trust’s net capital gain for tax purposes ($203).\nStep 4\nMario completes item 18 in his tax return (paper tax return, supplementary section) as follows:\n- label G (Did you have a capital gains tax event during the year?): indicate yes\n- label M (Have you applied an exemption or rollover?): indicate no and leave the code blank\n- label A (Net capital gain): enter 203\n- label H (Total current year capital gains): enter 303\n- label V (Net capital losses carried forward to later income years): leave blank\n- label X (Credit for foreign resident capital gains withholding amounts): leave blank.\nRecords Mario needs to keep\nThe tax-deferred amount Mario received is not included in his income or his capital gains, but it affects the cost base and reduced cost base of his units in OZ Investments Fund for future income years.\nCost base | $1,200\nless tax-deferred amount | $105\nNew cost base | $1,095\nReduced cost base | $1,050\nless tax-deferred amount | $105\nNew reduced cost base | $945\nExample: Ilena’s capital loss is greater than her non-discounted capital gain\nIlena invested in XYZ Managed Fund (a managed fund that is not an AMIT). The fund made a distribution to Ilena for the year ending 30 June 2023 and gave her a statement that shows her distribution meant that her share of the trust’s net capital gain included:\n- $65 discounted capital gain\n- $90 non-discounted capital gain.\nThe statement shows Ilena’s distribution also included:\n- $30 tax-deferred amount\n- $35 tax-free amount.\nIlena has no other capital gains, but made a capital loss of $100 on some shares she sold during the year. Ilena has no unapplied net capital losses from earlier years.\nFrom her records, Ilena knows the cost base and reduced cost base of her units are $5,000 and $4,700 respectively.\nIlena has to treat the capital gain component of her share of the fund’s net income for tax purposes as if she made the capital gain. To complete her tax return, Ilena must identify this capital gain component and work out her net capital gain.\nThe following steps show how Ilena works out the amount to write at H item 18 on her tax return (paper tax return, supplementary section).\nStep 1\nAs Ilena has a share of a capital gain which the fund reduced by the CGT discount of 50% (her discounted share being $65), she must gross up her share of this capital gain. She does this by multiplying the amount of her share of the discounted capital gain by two:\n$65 × 2 = $130\nStep 2\nIlena adds her share of the trust’s grossed-up and non-discounted capital gains to work out her total current year capital gains:\n$130 + $90 = $220\nShe writes her total current year capital gains ($220) at H item 18 on her tax return (supplementary section).\nStep 3\nAfter Ilena has grossed-up her share of the fund’s discounted capital gain, she subtracts her capital losses from her capital gains.\nIlena can choose which capital gains she first subtracts the capital losses from. In her case, she gets the better result if she:\n- subtracts as much as possible of her capital losses (which were $100) from her non-discounted capital gains ($90): $90 − $90 = $0 (non-discounted capital gains)\n- subtracts her remaining capital losses after step 1 ($10) from her discounted capital gains ($130): $130 − $10 = $120 (discounted capital gains)\n- applies the CGT discount to her remaining discounted capital gains: ($120 × 50%) = $60 (discounted capital gains)\nStep 4\nFinally, Ilena adds up the capital gains remaining to arrive at her net capital gain:\n$0 (non-discounted) + $60 (discounted) = $60 net capital gain.\nIlena completes item 18 on her tax return (paper tax return, supplementary section) as follows:\n- label G (Did you have a capital gains tax event during the year?): indicate yes\n- label M (Have you applied an exemption or rollover?): indicate no and leave the code blank. The trust applied the exemption or rollover and will need to report that on its trust return.\n- label A (Net capital gain): enter 60\n- label H (Total current year capital gains): enter 220\n- label V (Net capital losses carried forward to later income years): leave blank\n- label X (Credit for foreign resident capital gains withholding amounts): leave blank.\nRecords Ilena needs to keep\nThe tax-deferred and tax-free amounts Ilena received are not included in her income or her capital gain, but the tax-deferred amount affects the cost base and reduced cost base of her units in XYZ Managed Fund for future income years. The tax-free amount affects her reduced cost base.\nIlena reduces the cost base and reduced cost base of her units as follows:\nCost base | $5,000\nless tax-deferred amount | $30\nNew cost base | $4,970\nReduced cost base | $4,700\nless (tax-deferred amount + tax-free amount) ($30 + $35) | $65\nNew reduced cost base | $4,635",
+  "child_links": [],
+  "word_count": 1684,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

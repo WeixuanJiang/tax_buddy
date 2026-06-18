@@ -1,0 +1,109 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/supporting-documents-for-my-tax/including-trust-amounts-in-the-cgt-calculator-as-a-cgt-event",
+  "title": "Including trust amounts in the CGT calculator as a CGT event",
+  "description": "How to show capital gains from trusts in the CGT record keeping tool.",
+  "nat_number": "",
+  "quick_code": "102467",
+  "date_updated": "2026-05-13T14:00:00Z",
+  "first_published": "",
+  "keywords": "myTax trust distributions, myTax CGT calculator, record keeping CGT myTax",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "Where you have capital gains from trust distributions in the Managed fund and trust distributions section, we show these in the Capital gains tax (CGT) record keeping tool."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your capital gains from trust distributions includes an amount at CGT small business concessions applied , you can't use the CGT record keeping tool. You need to calculate CGT yourself (for all your capital gains or losses)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otherwise, follow these steps for each trust distribution record."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For a trust distribution record displaying as 'Info only data', note the value displayed as: Total current year capital gain Discounts applied",
+        "Using the information from Step 1, calculate the following values: Discount gains (before any discount is applied) – multiply the Discounts applied by 2. This determines your total discountable capital gain. If the Discounts applied is $0.00, also use $0.00 for Discount gains (before any discount is applied). Indexed or other gains – Total current year capital gain less 'Discount gains (before any discount is applied)'. This determines your total indexable or other capital gain.",
+        "Is the Discount gains (before any discount is applied) amount from Step 2a greater than the Total current year capital gain on the trust distribution record? No – go to Step 4 Yes – A discount applied above 50% of the total current year capital gain must only be for CGT events related to providing qualifying affordable rental housing through a registered community housing provider. You should contact the trustee to confirm your capital gains amounts.",
+        "Is the Discount gains (before any discount is applied) amount from Step 2a equal to the Total current year capital gain on the trust distribution record? No – go to Step 5 Yes – the trust distribution only includes a 'discount gain'. Go to Step 6 .",
+        "Is the Discounts applied equal to $0.00 on the trust distribution record? No – the trust distribution includes both a 'discount gain' and 'index or other gain'. For any 'discount gain' portion of your capital gain (from Step 2a ), go to Step 6 . For any 'index or other gain' portion of your trust capital gain (from Step 2b ), go to Step 7 . Yes – the trust distribution only includes an 'index or other gain'. Go to Step 7 .",
+        "Add an asset in the CGT record keeping tool for the trust distribution discount gain .",
+        "Add an asset in the CGT record keeping tool for the trust distribution index or other gain .",
+        "Select Calculate when you have added all assets in the CGT record keeping tool.",
+        "Select Save to myTa x when you have finished with the CGT record keeping tool."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contact the trustee"
+    },
+    {
+      "type": "paragraph",
+      "text": "Contact the trustee if the amount worked out at Step 2a – Discount gains (before any discount is applied) – is greater than the Total current year capital gain on the trust distribution record. Confirm the capital gains amounts from the statement of distribution or advice you received from the trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the capital gains amounts are incorrect, return to myTax and correct the Trust distribution record. Once updated, return to Capital gains or losses. Follow the instructions at Completing this section to enter your capital gains from trust distributions in the CGT record keeping tool."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the capital gains amounts are correct, you can't use the CGT record keeping tool. You need to calculate CGT yourself (for all your capital gains or losses)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Discount gain"
+    },
+    {
+      "type": "paragraph",
+      "text": "For an asset where the trust distribution record has a 'discount gain', follow the steps below. At 'Asset type', we recommend you select 'Managed fund distributions'. All other 'Asset type' options require you to enter acquisition and disposal dates and you may not receive that level of detail from the statement of distribution or advice you received from the trust."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "At Asset type , select 'Managed fund distributions'",
+        "Enter a Description",
+        "Select the Managed fund distribution year",
+        "At Have you calculated a discount, an indexed or other gain or a loss? , select 'Discount gain'",
+        "At Discount gains, enter the amount from Step 2a",
+        "Select Save CGT event ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Index or other gain"
+    },
+    {
+      "type": "paragraph",
+      "text": "For an asset where the trust distribution record has an 'indexed or other gain', follow the steps below. At 'Asset type', we recommend you select 'Managed fund distributions'. All other 'Asset type' options require you to enter acquisition and disposal dates and you may not receive that level of detail from the statement of distribution or advice you received from the trust."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "At Asset type , select 'Managed fund distributions'",
+        "Enter a Description",
+        "Select the Managed fund distribution year",
+        "At Have you calculated a discount, an indexed or other gain or a loss? , select 'Indexed or other gain'",
+        "At Indexed or other gains , enter the amount you calculated at Step 2b",
+        "Select Save CGT event ."
+      ]
+    }
+  ],
+  "content_text": "## Completing this section\nWhere you have capital gains from trust distributions in the Managed fund and trust distributions section, we show these in the Capital gains tax (CGT) record keeping tool.\nIf your capital gains from trust distributions includes an amount at CGT small business concessions applied , you can't use the CGT record keeping tool. You need to calculate CGT yourself (for all your capital gains or losses).\nOtherwise, follow these steps for each trust distribution record.\n- For a trust distribution record displaying as 'Info only data', note the value displayed as: Total current year capital gain Discounts applied\n- Using the information from Step 1, calculate the following values: Discount gains (before any discount is applied) – multiply the Discounts applied by 2. This determines your total discountable capital gain. If the Discounts applied is $0.00, also use $0.00 for Discount gains (before any discount is applied). Indexed or other gains – Total current year capital gain less 'Discount gains (before any discount is applied)'. This determines your total indexable or other capital gain.\n- Is the Discount gains (before any discount is applied) amount from Step 2a greater than the Total current year capital gain on the trust distribution record? No – go to Step 4 Yes – A discount applied above 50% of the total current year capital gain must only be for CGT events related to providing qualifying affordable rental housing through a registered community housing provider. You should contact the trustee to confirm your capital gains amounts.\n- Is the Discount gains (before any discount is applied) amount from Step 2a equal to the Total current year capital gain on the trust distribution record? No – go to Step 5 Yes – the trust distribution only includes a 'discount gain'. Go to Step 6 .\n- Is the Discounts applied equal to $0.00 on the trust distribution record? No – the trust distribution includes both a 'discount gain' and 'index or other gain'. For any 'discount gain' portion of your capital gain (from Step 2a ), go to Step 6 . For any 'index or other gain' portion of your trust capital gain (from Step 2b ), go to Step 7 . Yes – the trust distribution only includes an 'index or other gain'. Go to Step 7 .\n- Add an asset in the CGT record keeping tool for the trust distribution discount gain .\n- Add an asset in the CGT record keeping tool for the trust distribution index or other gain .\n- Select Calculate when you have added all assets in the CGT record keeping tool.\n- Select Save to myTa x when you have finished with the CGT record keeping tool.\n### Contact the trustee\nContact the trustee if the amount worked out at Step 2a – Discount gains (before any discount is applied) – is greater than the Total current year capital gain on the trust distribution record. Confirm the capital gains amounts from the statement of distribution or advice you received from the trust.\nIf the capital gains amounts are incorrect, return to myTax and correct the Trust distribution record. Once updated, return to Capital gains or losses. Follow the instructions at Completing this section to enter your capital gains from trust distributions in the CGT record keeping tool.\nIf the capital gains amounts are correct, you can't use the CGT record keeping tool. You need to calculate CGT yourself (for all your capital gains or losses).\n## Discount gain\nFor an asset where the trust distribution record has a 'discount gain', follow the steps below. At 'Asset type', we recommend you select 'Managed fund distributions'. All other 'Asset type' options require you to enter acquisition and disposal dates and you may not receive that level of detail from the statement of distribution or advice you received from the trust.\n- At Asset type , select 'Managed fund distributions'\n- Enter a Description\n- Select the Managed fund distribution year\n- At Have you calculated a discount, an indexed or other gain or a loss? , select 'Discount gain'\n- At Discount gains, enter the amount from Step 2a\n- Select Save CGT event .\n## Index or other gain\nFor an asset where the trust distribution record has an 'indexed or other gain', follow the steps below. At 'Asset type', we recommend you select 'Managed fund distributions'. All other 'Asset type' options require you to enter acquisition and disposal dates and you may not receive that level of detail from the statement of distribution or advice you received from the trust.\n- At Asset type , select 'Managed fund distributions'\n- Enter a Description\n- Select the Managed fund distribution year\n- At Have you calculated a discount, an indexed or other gain or a loss? , select 'Indexed or other gain'\n- At Indexed or other gains , enter the amount you calculated at Step 2b\n- Select Save CGT event .",
+  "child_links": [],
+  "word_count": 829,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,83 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2016/income/australian-super-or-annuity-payments/super-lump-sum",
+  "title": "Australian superannuation lump sum payments",
+  "description": "How to report super lump sum payments in your return using myTax.",
+  "nat_number": "",
+  "quick_code": "48403",
+  "date_updated": "2016-05-26T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with payment summary information provided to us. Check for Australian superannuation lump sum payments you received that are not pre-filled and ensure you add them."
+    },
+    {
+      "type": "paragraph",
+      "text": "This section is about Australian superannuation lump sum payments or superannuation death benefit payments you received, including those paid by:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "superannuation funds",
+        "approved deposit funds",
+        "retirement savings account providers",
+        "life insurance companies."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "It is also about any:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "amounts we paid to you in respect of the superannuation guarantee charge or the superannuation holding accounts special account",
+        "payments you received from the unclaimed money registers."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show on your tax return any:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "death benefit lump sum payments you received as a dependant of the deceased (see the definition of death benefit dependant )",
+        "taxed element of a superannuation lump sum payment you received on or after your 60th birthday, unless it is a death benefit superannuation lump sum payment paid to you as a non-dependant",
+        "amounts paid to you because you have a terminal medical condition",
+        "departing Australia superannuation payments",
+        "superannuation lump sum payment received as the trustee of a deceased estate",
+        "amounts released under a 'release authority' issued to you because of an excess contributions tax assessment."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your PAYG payment summary – superannuation lump sum . If you have not received it, contact your payer."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each payment summary that has not been pre-filled in your tax return, select Add and enter information into the corresponding fields. If your payment summary shows a tax-free component, this amount will not be included in your taxable income.",
+        "For each payment summary, answer the question Is this a death benefit?",
+        "Select Save .",
+        "Select Save and continue ."
+      ]
+    }
+  ],
+  "content_text": "We have pre-filled your tax return with payment summary information provided to us. Check for Australian superannuation lump sum payments you received that are not pre-filled and ensure you add them.\nThis section is about Australian superannuation lump sum payments or superannuation death benefit payments you received, including those paid by:\n- superannuation funds\n- approved deposit funds\n- retirement savings account providers\n- life insurance companies.\nIt is also about any:\n- amounts we paid to you in respect of the superannuation guarantee charge or the superannuation holding accounts special account\n- payments you received from the unclaimed money registers.\nDo not show on your tax return any:\n- death benefit lump sum payments you received as a dependant of the deceased (see the definition of death benefit dependant )\n- taxed element of a superannuation lump sum payment you received on or after your 60th birthday, unless it is a death benefit superannuation lump sum payment paid to you as a non-dependant\n- amounts paid to you because you have a terminal medical condition\n- departing Australia superannuation payments\n- superannuation lump sum payment received as the trustee of a deceased estate\n- amounts released under a 'release authority' issued to you because of an excess contributions tax assessment.\n## Completing this section\nYou will need your PAYG payment summary – superannuation lump sum . If you have not received it, contact your payer.\n- For each payment summary that has not been pre-filled in your tax return, select Add and enter information into the corresponding fields. If your payment summary shows a tax-free component, this amount will not be included in your taxable income.\n- For each payment summary, answer the question Is this a death benefit?\n- Select Save .\n- Select Save and continue .",
+  "child_links": [],
+  "word_count": 300,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

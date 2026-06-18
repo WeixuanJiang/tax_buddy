@@ -1,0 +1,296 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2020/income/sole-trader-and-business-income-or-losses-and-partnership-or-trust-distributions/loss-details",
+  "title": "myTax 2020 Loss details",
+  "description": "How to report deferred non-commercial business losses when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "62367",
+  "date_updated": "2020-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "2020, deferred, business losses, myTax, e-tax, online tax return, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Complete this section if you have a loss:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "from a business activity you carried on either as a sole trader or in partnership (including a loss after deducting your partner expenses)",
+        "at Distribution from partnerships or Distribution from partnerships less foreign income",
+        "at Net personal services income",
+        "for the Net primary production or Net non-primary production sections at Business income or losses",
+        "from a foreign business shown at Other foreign income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you carry on an activity that is partly in Australia and partly overseas, you must consider whether you have an overall loss from the activity before completing this section."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Non-commercial business losses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the rules for non-commercial business losses, you can use a 2019–20 loss from a business activity you conduct either as a sole trader or in partnership to calculate your 2019–20 taxable income only if it meets one of these conditions:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "an exception applies",
+        "you meet the income requirement and one of the four tests is satisfied",
+        "the Commissioner has exercised his discretion or ruled that it will be exercised, to allow you to claim the loss."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't claim losses arising from activities you conduct that are a private recreational pursuit or hobby, or if there is no likelihood of profit."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rules for non-commercial business losses apply to both foreign and Australian business activities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep records of each of the net losses deferred for your separate business activities."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Deferring your loss"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are unable to claim your loss in 2019–20 because of these rules, you must defer the loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "This deferred loss is not disallowed. Instead, you take it into account for the next income year in which you carry on this business activity or one of a similar kind."
+    },
+    {
+      "type": "paragraph",
+      "text": "The deferred loss is a deduction when calculating any net profit or loss from the activity in that future year. Your deferred loss deduction may be reduced if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you earn net exempt income in the future year, or",
+        "you become bankrupt or are released from any debts by the operation of an Act relating to bankruptcy."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether any overall loss can be taken into account when you calculate taxable income for that future year depends on the application of the deferral rules for non-commercial business losses in that year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are unable to claim your loss against other income in 2019–20 because of these rules, you must complete this section . myTax will automatically show the amount as a deferred non-commercial loss. This amount can't be used to reduce your 2019–20 taxable income."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Any written advice from the ATO that the Commissioner will exercise his discretion to allow you to deduct your loss from your business activity carried on either as a sole trader or in partnership with others.",
+        "If you are a partner in a partnership, you will need the following details for each business activity that you, as a partner, were involved in the amount of assessable income earned by the partnership for the activity the share of partnership's assessable income, real property and certain other assets, attributable to partners who are not individuals your share of income or loss from the partnership for the activity.",
+        "You may need to see Partnerships which has information on the special rules that determine whether a business activity you carry on in partnership with others satisfies any one of the four tests."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The loss detail section will be automatically displayed if, at Personalise return , you have selected:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You were a sole trader or had business income or losses, partnership or trust distributions (not from a managed fund), and either of Business/Sole trader income or loss, and either of Personal services income Business income or loss Partnerships"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Or"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You had foreign income Other foreign income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your loss details, at Prepare return :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If, at Personalise return, you only selected You had foreign income' and 'Other foreign income', select 'Add/Edit' at the Loss details banner",
+        "Otherwise, select 'Add/Edit' at the Business/sole trader, partnership and trust income (including loss details) banner."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Loss details banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each business activity from which you made a loss, select Add and enter information into the corresponding fields. If you are having difficulty finding a Description of activity description, see Having difficulty finding a Description of activity? If you have a loss from a passive investment (for example from a rental property) at Distribution from partnerships less foreign income , see Investment losses . If you are unsure if a business activity has an overall loss, see Work out whether you have a loss for the business activity .",
+        "For Type of loss , select the most appropriate number code from the following list: 0: Passive investment – partnership – you do not need to defer losses from passive investments. For more information, see Investment losses . 1: Assessable income is at least $20,000 – your assessable income from the business activity for 2019–20 was at least $20,000 and you met the income requirement. 2: Business activity has produced a profit 3 out the past 5 years – the business activity produced a profit for tax purposes in three out of the past five years (2015–16 to 2019–20) and you met the income requirement. 3: The value of real property is at least $500,000 – the value of real property assets or interests in real property (excluding any private dwelling) used on a continuing basis in carrying on the business activity was at least $500,000 and you met the income requirement. 4: Other assets used on a continuing basis is at least $100,000 – the value of certain other assets (except cars, motor cycles or similar vehicles) used on a continuing basis in carrying on the business activity was at least $100,000 and you met the income requirement. 5: Commissioner's discretion – the ATO has written to advise you that the Commissioner will exercise his discretion to allow you to claim a loss for that business activity for 2019–20. This is where the Commissioner has issued a product ruling or a private ruling allowing losses to be claimed from an activity you participated in. Some business activities may be covered by a product ruling or private ruling that does not relate to 2019–20. Use loss code 5 only if you have advice in writing that the Commissioner will exercise his discretion for 2019–20. If you have applied for a private ruling for the Commissioner to exercise his discretion for 2019–20, but have not yet received the ruling, use loss code 8 unless another code applies. 6: Loss from professional arts and unrelated income is $40,000 – the loss was from a business activity you operated that was a professional arts business and your assessable income (excluding any net capital gain) from unrelated sources was less than $40,000. A professional arts business is a business you carry on as an author of a literary, dramatic, musical or artistic work, as a performing artist, or as a production associate. 7: The loss is from primary production – the loss is from a business activity you operated that is a primary production business, and your assessable income (excluding any net capital gain) from unrelated sources was less than $40,000. 8: None of the codes apply – loss deferred – the above loss codes don’t apply. You must defer your loss.",
+        "Enter the net loss details into the corresponding fields: If the Type of loss is 8: None of the codes apply – loss deferred enter your net loss from the business activity in the following fields Primary production – your share of total deferred non-commercial loss Non-primary production – your share of total deferred non-commercial loss . If the Type of loss is not 8: None of the codes apply – loss deferred enter your net loss from the business activity in the following fields Primary production – your share of total loss Non-primary production – your share of total loss .",
+        "Enter the amount of deferred non-commercial business loss from a prior year for the business activity at Amount of deferred loss from prior year included in the above amount(s ).",
+        "If the Type of Loss is 8: None of the codes apply – loss deferred you must enter amounts in these three fields Deferred loss amount from carrying on a business of investing Deferred loss amount from carrying on a rental property business Remaining deferred loss amount. These amounts must add up to your net loss from this business activity. Enter zero if there is no amount to be shown.",
+        "Select Save .",
+        "Select Save and continue when you have completed the Loss details or Business/sole trader, partnership and trust income (including loss details) section."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Having difficulty finding a Description of activity?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are, we recommend you take the following steps:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Enter your activity into the Business industry code search tool This link opens in a new window",
+        "From the search tool results, click on the link for the most appropriate description for your activity.",
+        "From here, you will see a number and a description (for example 69320 Accounting Services ). Enter this description at Description of activity in myTax."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Investment losses"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your only loss is from a passive investment (for example from a rental property) at Distribution from partnerships less foreign income , complete a Loss details worksheet and show:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Description of activity enter 'Residential property operators'",
+        "Type of loss select '0: Passive investment - partnership'",
+        "Primary production - your share of total loss enter '0'",
+        "Non-primary production - your share of total loss enter '0'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Continue to step 4 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a loss from a business activity and a loss from a passive investment (for example from a rental property) at Distribution from partnerships less foreign income , then you are not required to report the loss from a passive investment. You need to complete a Loss details worksheet for each other business activity loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are unsure if a business activity has an overall loss see Work out whether you have a loss for the business activity , or continue to step 2 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Work out whether you have a loss for the business activity"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete the worksheet for each business activity to determine whether you have a loss for that activity."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation element",
+          "$"
+        ],
+        [
+          "a",
+          "Income from the activity shown at other sections: gross interest dividends (unfranked, franked and franking credit amounts) farm management repayments net capital gain other foreign source income.",
+          ""
+        ],
+        [
+          "b",
+          "Loss from the activity shown at: primary production and non-primary production distribution from partnerships net personal services income net primary production and net non-primary production business income or losses. (Include the loss here as a positive amount)",
+          ""
+        ],
+        [
+          "c",
+          "Partner deductions attributable to the activity (including landcare operations).",
+          ""
+        ],
+        [
+          "d",
+          "Loss from the activity at other foreign income (include the loss here as a positive amount).",
+          ""
+        ],
+        [
+          "e",
+          "Add b , c and d .",
+          ""
+        ],
+        [
+          "f",
+          "Subtract e from a .",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the result at f is negative this activity has an overall loss and you must complete a Loss details worksheet. Continue to step 2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the result at f is zero or positive this activity does not have a loss for this business activity. If you have more than one business activity loss, complete a Loss details worksheet for each other activity. If you do not have a loss from another business activity show:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Description of activity enter the relevant description",
+        "Type of loss select 5: Commissioner's discretion",
+        "Reference select AN: NCL ruling code - Authorisation number for private ruling",
+        "Number enter '200926'.",
+        "Primary production - your share of total loss enter '0'",
+        "Non-primary production - your share of total loss enter '0'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Continue to step 4 ."
+    }
+  ],
+  "content_text": "Complete this section if you have a loss:\n- from a business activity you carried on either as a sole trader or in partnership (including a loss after deducting your partner expenses)\n- at Distribution from partnerships or Distribution from partnerships less foreign income\n- at Net personal services income\n- for the Net primary production or Net non-primary production sections at Business income or losses\n- from a foreign business shown at Other foreign income.\nIf you carry on an activity that is partly in Australia and partly overseas, you must consider whether you have an overall loss from the activity before completing this section.\n## Things to know\n### Non-commercial business losses\nUnder the rules for non-commercial business losses, you can use a 2019–20 loss from a business activity you conduct either as a sole trader or in partnership to calculate your 2019–20 taxable income only if it meets one of these conditions:\n- an exception applies\n- you meet the income requirement and one of the four tests is satisfied\n- the Commissioner has exercised his discretion or ruled that it will be exercised, to allow you to claim the loss.\nYou can't claim losses arising from activities you conduct that are a private recreational pursuit or hobby, or if there is no likelihood of profit.\nThe rules for non-commercial business losses apply to both foreign and Australian business activities.\nKeep records of each of the net losses deferred for your separate business activities.\n### Deferring your loss\nIf you are unable to claim your loss in 2019–20 because of these rules, you must defer the loss.\nThis deferred loss is not disallowed. Instead, you take it into account for the next income year in which you carry on this business activity or one of a similar kind.\nThe deferred loss is a deduction when calculating any net profit or loss from the activity in that future year. Your deferred loss deduction may be reduced if:\n- you earn net exempt income in the future year, or\n- you become bankrupt or are released from any debts by the operation of an Act relating to bankruptcy.\nWhether any overall loss can be taken into account when you calculate taxable income for that future year depends on the application of the deferral rules for non-commercial business losses in that year.\nIf you are unable to claim your loss against other income in 2019–20 because of these rules, you must complete this section . myTax will automatically show the amount as a deferred non-commercial loss. This amount can't be used to reduce your 2019–20 taxable income.\n## Completing this section\nYou may need:\n- Any written advice from the ATO that the Commissioner will exercise his discretion to allow you to deduct your loss from your business activity carried on either as a sole trader or in partnership with others.\n- If you are a partner in a partnership, you will need the following details for each business activity that you, as a partner, were involved in the amount of assessable income earned by the partnership for the activity the share of partnership's assessable income, real property and certain other assets, attributable to partners who are not individuals your share of income or loss from the partnership for the activity.\n- You may need to see Partnerships which has information on the special rules that determine whether a business activity you carry on in partnership with others satisfies any one of the four tests.\nThe loss detail section will be automatically displayed if, at Personalise return , you have selected:\n- You were a sole trader or had business income or losses, partnership or trust distributions (not from a managed fund), and either of Business/Sole trader income or loss, and either of Personal services income Business income or loss Partnerships\nOr\n- You had foreign income Other foreign income.\nTo show your loss details, at Prepare return :\n- If, at Personalise return, you only selected You had foreign income' and 'Other foreign income', select 'Add/Edit' at the Loss details banner\n- Otherwise, select 'Add/Edit' at the Business/sole trader, partnership and trust income (including loss details) banner.\nAt the Loss details banner:\n- For each business activity from which you made a loss, select Add and enter information into the corresponding fields. If you are having difficulty finding a Description of activity description, see Having difficulty finding a Description of activity? If you have a loss from a passive investment (for example from a rental property) at Distribution from partnerships less foreign income , see Investment losses . If you are unsure if a business activity has an overall loss, see Work out whether you have a loss for the business activity .\n- For Type of loss , select the most appropriate number code from the following list: 0: Passive investment – partnership – you do not need to defer losses from passive investments. For more information, see Investment losses . 1: Assessable income is at least $20,000 – your assessable income from the business activity for 2019–20 was at least $20,000 and you met the income requirement. 2: Business activity has produced a profit 3 out the past 5 years – the business activity produced a profit for tax purposes in three out of the past five years (2015–16 to 2019–20) and you met the income requirement. 3: The value of real property is at least $500,000 – the value of real property assets or interests in real property (excluding any private dwelling) used on a continuing basis in carrying on the business activity was at least $500,000 and you met the income requirement. 4: Other assets used on a continuing basis is at least $100,000 – the value of certain other assets (except cars, motor cycles or similar vehicles) used on a continuing basis in carrying on the business activity was at least $100,000 and you met the income requirement. 5: Commissioner's discretion – the ATO has written to advise you that the Commissioner will exercise his discretion to allow you to claim a loss for that business activity for 2019–20. This is where the Commissioner has issued a product ruling or a private ruling allowing losses to be claimed from an activity you participated in. Some business activities may be covered by a product ruling or private ruling that does not relate to 2019–20. Use loss code 5 only if you have advice in writing that the Commissioner will exercise his discretion for 2019–20. If you have applied for a private ruling for the Commissioner to exercise his discretion for 2019–20, but have not yet received the ruling, use loss code 8 unless another code applies. 6: Loss from professional arts and unrelated income is $40,000 – the loss was from a business activity you operated that was a professional arts business and your assessable income (excluding any net capital gain) from unrelated sources was less than $40,000. A professional arts business is a business you carry on as an author of a literary, dramatic, musical or artistic work, as a performing artist, or as a production associate. 7: The loss is from primary production – the loss is from a business activity you operated that is a primary production business, and your assessable income (excluding any net capital gain) from unrelated sources was less than $40,000. 8: None of the codes apply – loss deferred – the above loss codes don’t apply. You must defer your loss.\n- Enter the net loss details into the corresponding fields: If the Type of loss is 8: None of the codes apply – loss deferred enter your net loss from the business activity in the following fields Primary production – your share of total deferred non-commercial loss Non-primary production – your share of total deferred non-commercial loss . If the Type of loss is not 8: None of the codes apply – loss deferred enter your net loss from the business activity in the following fields Primary production – your share of total loss Non-primary production – your share of total loss .\n- Enter the amount of deferred non-commercial business loss from a prior year for the business activity at Amount of deferred loss from prior year included in the above amount(s ).\n- If the Type of Loss is 8: None of the codes apply – loss deferred you must enter amounts in these three fields Deferred loss amount from carrying on a business of investing Deferred loss amount from carrying on a rental property business Remaining deferred loss amount. These amounts must add up to your net loss from this business activity. Enter zero if there is no amount to be shown.\n- Select Save .\n- Select Save and continue when you have completed the Loss details or Business/sole trader, partnership and trust income (including loss details) section.\n### Having difficulty finding a Description of activity?\nIf you are, we recommend you take the following steps:\n- Enter your activity into the Business industry code search tool This link opens in a new window\n- From the search tool results, click on the link for the most appropriate description for your activity.\n- From here, you will see a number and a description (for example 69320 Accounting Services ). Enter this description at Description of activity in myTax.\n### Investment losses\nIf your only loss is from a passive investment (for example from a rental property) at Distribution from partnerships less foreign income , complete a Loss details worksheet and show:\n- Description of activity enter 'Residential property operators'\n- Type of loss select '0: Passive investment - partnership'\n- Primary production - your share of total loss enter '0'\n- Non-primary production - your share of total loss enter '0'.\nContinue to step 4 .\nIf you have a loss from a business activity and a loss from a passive investment (for example from a rental property) at Distribution from partnerships less foreign income , then you are not required to report the loss from a passive investment. You need to complete a Loss details worksheet for each other business activity loss.\nIf you are unsure if a business activity has an overall loss see Work out whether you have a loss for the business activity , or continue to step 2 .\n### Work out whether you have a loss for the business activity\nComplete the worksheet for each business activity to determine whether you have a loss for that activity.\nRow | Calculation element | $\na | Income from the activity shown at other sections: gross interest dividends (unfranked, franked and franking credit amounts) farm management repayments net capital gain other foreign source income. | \nb | Loss from the activity shown at: primary production and non-primary production distribution from partnerships net personal services income net primary production and net non-primary production business income or losses. (Include the loss here as a positive amount) | \nc | Partner deductions attributable to the activity (including landcare operations). | \nd | Loss from the activity at other foreign income (include the loss here as a positive amount). | \ne | Add b , c and d . | \nf | Subtract e from a . | \nIf the result at f is negative this activity has an overall loss and you must complete a Loss details worksheet. Continue to step 2 .\nIf the result at f is zero or positive this activity does not have a loss for this business activity. If you have more than one business activity loss, complete a Loss details worksheet for each other activity. If you do not have a loss from another business activity show:\n- Description of activity enter the relevant description\n- Type of loss select 5: Commissioner's discretion\n- Reference select AN: NCL ruling code - Authorisation number for private ruling\n- Number enter '200926'.\n- Primary production - your share of total loss enter '0'\n- Non-primary production - your share of total loss enter '0'.\nContinue to step 4 .",
+  "child_links": [],
+  "word_count": 2021,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

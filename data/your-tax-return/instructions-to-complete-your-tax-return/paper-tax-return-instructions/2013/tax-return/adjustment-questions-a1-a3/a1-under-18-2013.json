@@ -1,0 +1,198 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2013/tax-return/adjustment-questions-a1-a3/a1-under-18-2013",
+  "title": "A1 - Under 18 2013",
+  "description": "Complete question A1 if you were under 18 years old on 30 June 2013.",
+  "nat_number": "71050",
+  "quick_code": "32406",
+  "date_updated": "2013-05-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, TaxPack",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "If you were under 18 years old on 30 June 2013, you must complete this item or you may be taxed at a higher rate than necessary."
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot use the low-income tax offset to reduce tax payable on unearned income such as trust distributions, dividends, interest and rent."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, if you are in any of the categories below, the low-income tax offset can be used to reduce the tax payable on the income listed at step 2."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Were you under 18 years old on 30 June 2013?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to question A2 Part-year tax-free threshold ."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete this item on your tax return you must determine whether one of the following categories applied to you on 30 June 2013."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You were",
+        "working full time or had worked full time for three months or more in 2012-13 (ignoring full-time work that was followed by full-time study), and intending to work full time for most or all of 2013-14 and not study full time in 2013-14.",
+        "You were entitled to a disability support pension or someone was entitled to a carer allowance to care for you.",
+        "You were permanently blind.",
+        "You were disabled and were likely to suffer from that disability permanently or for an extended period.",
+        "You were entitled to a double orphan pension, and you received little or no financial support from your relatives.",
+        "You were unable to work full time because of a permanent mental or physical disability, and you received little or no financial support from your relatives.",
+        "You were the main beneficiary of a special disability trust."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you were in any of the above categories on 30 June 2013, all your income will be taxed at normal rates. Write 0 at J item A1 . Then print the code letter A in the TYPE box at the right of J . You have now finished this question. Go to A2 Part-year tax-free threshold ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otherwise, read on."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up any of the following income amounts which you have shown on your tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "employment income",
+        "taxable pensions or payments from Centrelink or the Department of Veterans' Affairs",
+        "a compensation, superannuation or pension fund benefit",
+        "income from a deceased person's estate",
+        "income from property transferred to you as a result of another's death or family breakdown, or to satisfy a claim for damages for an injury you suffered",
+        "income from your own business",
+        "income from a partnership in which you were an active partner",
+        "net capital gains from the disposal of any of the property or investments referred to above",
+        "income from investment of amounts referred to above."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add up all your deductions that relate to the income from step 2 (see Claiming deductions ). Take away the total of those deductions from the total income you worked out at step 2."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the amount from step 3 at J item A1 . This amount is taxed at normal rates. If you do not have any of the income listed at step 2 or the amount from step 3 is nil or less, write 0 at J item A1 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print the code letter M in the TYPE box at the right of J item A1 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you receive any primary production income?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to question A2 Part-year tax-free threshold"
+        ],
+        [
+          "Yes",
+          "Read below"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount from step 4 included income from primary production you will need to provide additional information."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "On a separate sheet of paper print",
+        "SCHEDULE OF ADDITIONAL INFORMATION - Item A1 your name, address, tax file number 'Excepted primary production income' and write the amount of primary production income that is included in the total from step 4. 'Eligible primary production income' and write the amount of any primary production income that you have not included at item A1 .",
+        "Attach your schedule to page 3 of your tax return.",
+        "Print X in the Yes box at Taxpayer's declaration question 2a on page 12 of your tax return."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Tax tips"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a distribution from a trust, read question 13 Partnerships and trusts ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question A2 Part-year tax-free threshold .",
+        "Return to main menu Individual tax return instructions ."
+      ]
+    }
+  ],
+  "content_text": "If you were under 18 years old on 30 June 2013, you must complete this item or you may be taxed at a higher rate than necessary.\nYou cannot use the low-income tax offset to reduce tax payable on unearned income such as trust distributions, dividends, interest and rent.\nHowever, if you are in any of the categories below, the low-income tax offset can be used to reduce the tax payable on the income listed at step 2.\n## Were you under 18 years old on 30 June 2013?\nNo | Go to question A2 Part-year tax-free threshold .\nYes | Read below.\n## Answering this question\nTo complete this item on your tax return you must determine whether one of the following categories applied to you on 30 June 2013.\n- You were\n- working full time or had worked full time for three months or more in 2012-13 (ignoring full-time work that was followed by full-time study), and intending to work full time for most or all of 2013-14 and not study full time in 2013-14.\n- You were entitled to a disability support pension or someone was entitled to a carer allowance to care for you.\n- You were permanently blind.\n- You were disabled and were likely to suffer from that disability permanently or for an extended period.\n- You were entitled to a double orphan pension, and you received little or no financial support from your relatives.\n- You were unable to work full time because of a permanent mental or physical disability, and you received little or no financial support from your relatives.\n- You were the main beneficiary of a special disability trust.\n## Completing your tax return\n### Step 1\nIf you were in any of the above categories on 30 June 2013, all your income will be taxed at normal rates. Write 0 at J item A1 . Then print the code letter A in the TYPE box at the right of J . You have now finished this question. Go to A2 Part-year tax-free threshold .\nOtherwise, read on.\n### Step 2\nAdd up any of the following income amounts which you have shown on your tax return:\n- employment income\n- taxable pensions or payments from Centrelink or the Department of Veterans' Affairs\n- a compensation, superannuation or pension fund benefit\n- income from a deceased person's estate\n- income from property transferred to you as a result of another's death or family breakdown, or to satisfy a claim for damages for an injury you suffered\n- income from your own business\n- income from a partnership in which you were an active partner\n- net capital gains from the disposal of any of the property or investments referred to above\n- income from investment of amounts referred to above.\n### Step 3\nAdd up all your deductions that relate to the income from step 2 (see Claiming deductions ). Take away the total of those deductions from the total income you worked out at step 2.\n### Step 4\nWrite the amount from step 3 at J item A1 . This amount is taxed at normal rates. If you do not have any of the income listed at step 2 or the amount from step 3 is nil or less, write 0 at J item A1 .\n### Step 5\nPrint the code letter M in the TYPE box at the right of J item A1 .\n### Step 6\nDid you receive any primary production income?\nNo | Go to question A2 Part-year tax-free threshold\nYes | Read below\nIf the amount from step 4 included income from primary production you will need to provide additional information.\n- On a separate sheet of paper print\n- SCHEDULE OF ADDITIONAL INFORMATION - Item A1 your name, address, tax file number 'Excepted primary production income' and write the amount of primary production income that is included in the total from step 4. 'Eligible primary production income' and write the amount of any primary production income that you have not included at item A1 .\n- Attach your schedule to page 3 of your tax return.\n- Print X in the Yes box at Taxpayer's declaration question 2a on page 12 of your tax return.\n### Tax tips\nIf you received a distribution from a trust, read question 13 Partnerships and trusts .\n#### Where to go next\n- Go to question A2 Part-year tax-free threshold .\n- Return to main menu Individual tax return instructions .",
+  "child_links": [],
+  "word_count": 757,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

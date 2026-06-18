@@ -1,0 +1,47 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/how-to-lodge-your-tax-return/lodge-your-tax-return-online-with-mytax/pre-fill-availability/government-agency-data",
+  "title": "Government agency data",
+  "description": "Check whether data is available from government agencies.",
+  "nat_number": "",
+  "quick_code": "72689",
+  "date_updated": "2025-07-06T14:00:00Z",
+  "first_published": "",
+  "keywords": "government pre-fill, prefill government data, government data prefill, government prefill availability",
+  "content_blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Data available",
+          "Agency name"
+        ],
+        [
+          "Available",
+          "Services Australia (Centrelink)"
+        ],
+        [
+          "Available",
+          "Department of Employment and Workplace Relations"
+        ],
+        [
+          "Available",
+          "Department of Veterans' Affairs"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to check and manually enter some natural disaster payments in your tax return. To find out if you need to report these payments, see Tax and super support in difficult times ."
+    },
+    {
+      "type": "paragraph",
+      "text": "To check the pre-fill availability of other data, go to Pre-fill availability ."
+    }
+  ],
+  "content_text": "Data available | Agency name\nAvailable | Services Australia (Centrelink)\nAvailable | Department of Employment and Workplace Relations\nAvailable | Department of Veterans' Affairs\nYou will need to check and manually enter some natural disaster payments in your tax return. To find out if you need to report these payments, see Tax and super support in difficult times .\nTo check the pre-fill availability of other data, go to Pre-fill availability .",
+  "child_links": [],
+  "word_count": 72,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

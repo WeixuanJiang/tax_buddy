@@ -1,0 +1,73 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/income/sole-trader-and-business-income-or-losses-and-partnership-or-trust-distributions/business-and-professional-items",
+  "title": "myTax 2019 Business and professional items",
+  "description": "How to complete the business and professional items section of your return using myTax.",
+  "nat_number": "",
+  "quick_code": "59110",
+  "date_updated": "2019-06-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "2019, personal services income, PSI, business and professional item, myTax, e-tax, online tax return, etax, business income",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This section must be completed if either of the following selections were made at Personalise return :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Personal services income",
+        "Business income or loss ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your tax return with information from the Personal services income tool This link opens in a new window ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need details of your main business activity, including your Australian business number."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Answer the question Did you receive any personal services income? For more information, see Personal services income . If Yes , go to step 2. Otherwise go to step 3.",
+        "If you received personal service income, answer the remaining questions about your personal services income. For more information, see Personal services income conditions .",
+        "Complete the remaining fields and questions in this section. For further details, including if you are having difficulty finding a Main business or professional activity description, see Completing your business details ."
+      ]
+    }
+  ],
+  "content_text": "This section must be completed if either of the following selections were made at Personalise return :\n- Personal services income\n- Business income or loss .\n## Completing this section\nWe pre-fill your tax return with information from the Personal services income tool This link opens in a new window .\nYou need details of your main business activity, including your Australian business number.\n- Answer the question Did you receive any personal services income? For more information, see Personal services income . If Yes , go to step 2. Otherwise go to step 3.\n- If you received personal service income, answer the remaining questions about your personal services income. For more information, see Personal services income conditions .\n- Complete the remaining fields and questions in this section. For further details, including if you are having difficulty finding a Main business or professional activity description, see Completing your business details .",
+  "child_links": [
+    {
+      "title": "Personal services income (PSI)",
+      "description": "",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/income/sole-trader-and-business-income-or-losses-and-partnership-or-trust-distributions/business-and-professional-items/personal-services-income-psi"
+    },
+    {
+      "title": "Personal services income conditions",
+      "description": "",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/income/sole-trader-and-business-income-or-losses-and-partnership-or-trust-distributions/business-and-professional-items/personal-services-income-conditions"
+    },
+    {
+      "title": "Completing your business details",
+      "description": "",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/income/sole-trader-and-business-income-or-losses-and-partnership-or-trust-distributions/business-and-professional-items/completing-your-business-details"
+    },
+    {
+      "title": "More information",
+      "description": "",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/income/sole-trader-and-business-income-or-losses-and-partnership-or-trust-distributions/business-and-professional-items/more-information"
+    }
+  ],
+  "word_count": 154,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

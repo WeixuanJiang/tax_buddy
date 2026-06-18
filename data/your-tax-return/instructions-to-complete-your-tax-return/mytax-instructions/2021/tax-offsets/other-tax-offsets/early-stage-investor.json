@@ -1,0 +1,337 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2021/tax-offsets/other-tax-offsets/early-stage-investor",
+  "title": "myTax 2021 Early stage investor",
+  "description": "How to claim the early stage investor tax offset when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "65193",
+  "date_updated": "2021-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "2021, myTax, e-tax, early stage investor, tax offset, online tax return, etax, carried forward from previous year",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Complete this section to claim the early stage investor tax offset if one or both of the following apply:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you are entitled to the early stage investor tax offset in 2020–21",
+        "you have an amount of unused early stage investor tax offset carried forward from a previous year."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "To qualify for this tax offset there are requirements that need to be satisfied by:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you as the investor, and",
+        "the early stage innovation company."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on the early stage investor tax offset and the requirements to qualify for it, see Qualifying for the tax incentives ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The maximum offset (including current year and carried forward prior year amounts) that you, and your affiliates combined, can claim in 2020–21 is $200,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a partner in a partnership or a beneficiary of a trust which has invested in an early stage innovation company during 2020–21, you may be entitled to an early stage investor tax offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "This tax offset is non-refundable, however you can carry it forward if it is not fully utilised in 2020–21. Any amount of unused tax offset able to be carried forward will be shown on your notice of assessment for the year ended 30 June 2021."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may need:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Your notice of assessment or amended notice of assessment for the year ended 30 June 2020 that should show if you have any unused early stage investor tax offset that is carried forward to 2020–21.",
+        "Written notification from a partnership or trustee of a trust to allow you to work out your share of the early stage investor tax offset, if you are a partner in a partnership or a beneficiary of a trust which has invested in an early stage innovation company during 2020–21. If a written notification has not been provided, contact the partnership or the trustee."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your tax return with your Tax offset carried forward from previous year amount, if applicable."
+    },
+    {
+      "type": "paragraph",
+      "text": "We have shown any current year early stage investor tax offset you have shown in the Managed funds section."
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your return to show early stage investor tax offset, at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You are claiming tax offsets, adjustments or a credit for early payment.",
+        "Other tax offsets."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show early stage investor tax offset, at Prepare return select 'Add/Edit' at the Offsets banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use the following steps to work out your tax offset and show it at the Early stage investor heading:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Do you have any early stage investor tax offset carried forward from previous year? No – go to step 2. Yes – go to Working out your tax offset carried forward from previous year .",
+        "In 2020–21: have you paid for eligible shares in an early stage innovation companies , or do you have entitlements to any early stage investor tax offsets as a beneficiary of a trust or a partner in a partnership that has invested in an early stage innovation company? No – go to step 3. Yes – go to Working out your current year tax offset",
+        "Work through Worksheet 1 below to determine the amounts to show in myTax.",
+        "Enter the amount from row b in Worksheet 1 at Tax offset carried forward from previous year .",
+        "Are any of your affiliates entitled to the early stage investor tax offset (whether for investments they made in 2020–21 or carried forward from 2019–20)? No – Enter the amount from row e in Worksheet 1 at Current year tax offset . Yes – The amount at row e in Worksheet 1 may need to be further reduced if any of your affiliates are entitled to the early stage investor tax offset (whether for investments they made in 2020–21 or carried forward from 2019–20). The maximum offset (including current year and carried forward prior year amounts) that you, and your affiliates combined, can claim in 2020–21 is $200,000. Enter the outcome at Current year tax offset .",
+        "Select Save and continue when you have completed the Offsets section."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Description",
+          "Amount"
+        ],
+        [
+          "A",
+          "Maximum early stage investor tax offset amount",
+          "$200,000"
+        ],
+        [
+          "B",
+          "Row i from Worksheet 2",
+          "$"
+        ],
+        [
+          "C",
+          "Subtract row b from row a",
+          "$"
+        ],
+        [
+          "D",
+          "Row m from Worksheet 3",
+          "$"
+        ],
+        [
+          "E",
+          "If row c is greater than row d , show row d Otherwise show row c",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Working out your tax offset carried forward from previous year"
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Show the amount of any unused early stage investor tax offset carried forward from a previous year at row f in Worksheet 2 below."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you have any unused net exempt income?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unused net exempt income is any net exempt income left after deducting any tax losses of earlier income years from that year's net exempt income."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Amounts that you do not pay tax on ."
+    },
+    {
+      "type": "paragraph",
+      "text": "No – go to step 4 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes – show the amount of unused net exempt income at row g in Worksheet 2 . Go to step 3 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "The unused early stage investor tax offset carried forward from a previous year is reduced by 30 cents for every dollar of unused net exempt income, provided you had taxable income for that year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Multiply the unused net exempt income by 30%. Show that amount at row h in Worksheet 2 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: If you have unused net exempt income and are unsure how to calculate the early stage investor tax offset carried forward from a previous year, contact the ATO for more information by:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "phoning 13 28 61",
+        "using 'Live chat', available within myTax by selecting the 'Live chat' button."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Subtract row h from row f ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Return to step 2 in Completing this section ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Description",
+          "Amount"
+        ],
+        [
+          "F",
+          "Unused early stage investor tax offset carried forward from a previous year",
+          "$"
+        ],
+        [
+          "G",
+          "Unused net exempt income",
+          "$"
+        ],
+        [
+          "H",
+          "Multiply row g by 30%",
+          "$"
+        ],
+        [
+          "I",
+          "Subtract row h from row f Show this amount at row b of Worksheet 1",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Working out your current year tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Show the total amount you paid for eligible shares in all early stage innovation companies in 2020–21 at row j in Worksheet 3 below."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't meet the requirements of the 'sophisticated investor' test for at least one of your 2020–21 investments in an early stage innovation company, your step 1 amount must not exceed $50,000. If your step 1 amount exceeds $50,000 you can't claim this offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Multiply the amount from step 1 by 20%. Show that amount at row k in Worksheet 3 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Show your entitlements to any early stage investor tax offsets as a beneficiary of a trust or a partner in a partnership that has invested in an early stage innovation company during 2020–21 at row l in Worksheet 3 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't include amounts you have already shown at the Managed funds section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add row k and row l ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Return to step 3 in Completing this section ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Description",
+          "Amount"
+        ],
+        [
+          "J",
+          "Total amount you paid for eligible shares in early stage innovation companies in 2020–21",
+          "$"
+        ],
+        [
+          "K",
+          "Multiply row j by 20%",
+          "$"
+        ],
+        [
+          "L",
+          "Entitlements to any early stage investor tax offsets as a beneficiary of a trust or a partner in a partnership that has invested in an early stage innovation company during 2020–21",
+          "$"
+        ],
+        [
+          "M",
+          "Add row k and row l Show this amount at row d of Worksheet 1",
+          "$"
+        ]
+      ]
+    }
+  ],
+  "content_text": "Complete this section to claim the early stage investor tax offset if one or both of the following apply:\n- you are entitled to the early stage investor tax offset in 2020–21\n- you have an amount of unused early stage investor tax offset carried forward from a previous year.\n## Things to know\nTo qualify for this tax offset there are requirements that need to be satisfied by:\n- you as the investor, and\n- the early stage innovation company.\nFor more information on the early stage investor tax offset and the requirements to qualify for it, see Qualifying for the tax incentives .\nThe maximum offset (including current year and carried forward prior year amounts) that you, and your affiliates combined, can claim in 2020–21 is $200,000.\nIf you are a partner in a partnership or a beneficiary of a trust which has invested in an early stage innovation company during 2020–21, you may be entitled to an early stage investor tax offset.\nThis tax offset is non-refundable, however you can carry it forward if it is not fully utilised in 2020–21. Any amount of unused tax offset able to be carried forward will be shown on your notice of assessment for the year ended 30 June 2021.\n## Completing this section\nYou may need:\n- Your notice of assessment or amended notice of assessment for the year ended 30 June 2020 that should show if you have any unused early stage investor tax offset that is carried forward to 2020–21.\n- Written notification from a partnership or trustee of a trust to allow you to work out your share of the early stage investor tax offset, if you are a partner in a partnership or a beneficiary of a trust which has invested in an early stage innovation company during 2020–21. If a written notification has not been provided, contact the partnership or the trustee.\nWe pre-fill your tax return with your Tax offset carried forward from previous year amount, if applicable.\nWe have shown any current year early stage investor tax offset you have shown in the Managed funds section.\nTo personalise your return to show early stage investor tax offset, at Personalise return select:\n- You are claiming tax offsets, adjustments or a credit for early payment.\n- Other tax offsets.\nTo show early stage investor tax offset, at Prepare return select 'Add/Edit' at the Offsets banner.\nUse the following steps to work out your tax offset and show it at the Early stage investor heading:\n- Do you have any early stage investor tax offset carried forward from previous year? No – go to step 2. Yes – go to Working out your tax offset carried forward from previous year .\n- In 2020–21: have you paid for eligible shares in an early stage innovation companies , or do you have entitlements to any early stage investor tax offsets as a beneficiary of a trust or a partner in a partnership that has invested in an early stage innovation company? No – go to step 3. Yes – go to Working out your current year tax offset\n- Work through Worksheet 1 below to determine the amounts to show in myTax.\n- Enter the amount from row b in Worksheet 1 at Tax offset carried forward from previous year .\n- Are any of your affiliates entitled to the early stage investor tax offset (whether for investments they made in 2020–21 or carried forward from 2019–20)? No – Enter the amount from row e in Worksheet 1 at Current year tax offset . Yes – The amount at row e in Worksheet 1 may need to be further reduced if any of your affiliates are entitled to the early stage investor tax offset (whether for investments they made in 2020–21 or carried forward from 2019–20). The maximum offset (including current year and carried forward prior year amounts) that you, and your affiliates combined, can claim in 2020–21 is $200,000. Enter the outcome at Current year tax offset .\n- Select Save and continue when you have completed the Offsets section.\nRow | Description | Amount\nA | Maximum early stage investor tax offset amount | $200,000\nB | Row i from Worksheet 2 | $\nC | Subtract row b from row a | $\nD | Row m from Worksheet 3 | $\nE | If row c is greater than row d , show row d Otherwise show row c | $\n### Working out your tax offset carried forward from previous year\nStep 1\nShow the amount of any unused early stage investor tax offset carried forward from a previous year at row f in Worksheet 2 below.\nStep 2\nDo you have any unused net exempt income?\nUnused net exempt income is any net exempt income left after deducting any tax losses of earlier income years from that year's net exempt income.\nFor more information, see Amounts that you do not pay tax on .\nNo – go to step 4 .\nYes – show the amount of unused net exempt income at row g in Worksheet 2 . Go to step 3 .\nStep 3\nThe unused early stage investor tax offset carried forward from a previous year is reduced by 30 cents for every dollar of unused net exempt income, provided you had taxable income for that year.\nMultiply the unused net exempt income by 30%. Show that amount at row h in Worksheet 2 .\nNote: If you have unused net exempt income and are unsure how to calculate the early stage investor tax offset carried forward from a previous year, contact the ATO for more information by:\n- phoning 13 28 61\n- using 'Live chat', available within myTax by selecting the 'Live chat' button.\nStep 4\nSubtract row h from row f .\nReturn to step 2 in Completing this section .\nRow | Description | Amount\nF | Unused early stage investor tax offset carried forward from a previous year | $\nG | Unused net exempt income | $\nH | Multiply row g by 30% | $\nI | Subtract row h from row f Show this amount at row b of Worksheet 1 | $\n### Working out your current year tax offset\nStep 1\nShow the total amount you paid for eligible shares in all early stage innovation companies in 2020–21 at row j in Worksheet 3 below.\nIf you don't meet the requirements of the 'sophisticated investor' test for at least one of your 2020–21 investments in an early stage innovation company, your step 1 amount must not exceed $50,000. If your step 1 amount exceeds $50,000 you can't claim this offset.\nStep 2\nMultiply the amount from step 1 by 20%. Show that amount at row k in Worksheet 3 .\nStep 3\nShow your entitlements to any early stage investor tax offsets as a beneficiary of a trust or a partner in a partnership that has invested in an early stage innovation company during 2020–21 at row l in Worksheet 3 .\nDon't include amounts you have already shown at the Managed funds section.\nStep 4\nAdd row k and row l .\nReturn to step 3 in Completing this section .\nRow | Description | Amount\nJ | Total amount you paid for eligible shares in early stage innovation companies in 2020–21 | $\nK | Multiply row j by 20% | $\nL | Entitlements to any early stage investor tax offsets as a beneficiary of a trust or a partner in a partnership that has invested in an early stage innovation company during 2020–21 | $\nM | Add row k and row l Show this amount at row d of Worksheet 1 | $",
+  "child_links": [],
+  "word_count": 1301,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,95 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2017/other-mytax-instructions-including-spouse-details-and-income-tests/spouse-details",
+  "title": "myTax 2017 Spouse details",
+  "description": "How to complete the spouse details section of your return using myTax.",
+  "nat_number": "",
+  "quick_code": "51032",
+  "date_updated": "2024-03-04T14:00:00Z",
+  "first_published": "",
+  "keywords": "myTax, e-tax, online tax return, spouse, spouse details, married, de facto, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with spouse details from your 2015–16 tax return (if you had a spouse on 30 June 2016). Check spouse details and update, if necessary."
+    },
+    {
+      "type": "paragraph",
+      "text": "You must complete this section if you had a spouse during 2016–17."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Spouse details - married or de facto ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need details of your spouse's income. These can be obtained from:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your spouse",
+        "your spouse’s tax return, if your spouse needed to complete it",
+        "your spouse’s PAYG payment summary – individual non-business",
+        "if your spouse had child support obligations, the details of the amount of child support they paid (your spouse can get this information from the Department of Human Services)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Including your spouse's income is important as it is used to work out whether:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you are entitled to a rebate for your private health insurance",
+        "you are entitled to the seniors and pensioners tax offset",
+        "you are entitled to a Medicare levy reduction",
+        "you must pay Medicare levy surcharge."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Seek the information required at this item from your spouse, whether they need to lodge or not. If you cannot find out any of the amounts required, you can make a reasonable estimate."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will not be penalised for an incorrect estimate if you acted reasonably and in good faith."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had more than one spouse during 2016–17, complete this section with the details for your last spouse in 2016–17."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Enter your spouse's personal details into the corresponding fields.",
+        "Enter your spouse's income details into the corresponding fields. If the amount is zero, enter 0 . If you were unable to obtain the information about your spouse's income, provide the best estimate possible. For Your spouse's reportable superannuation contributions , this is the sum of amounts shown on their tax return at Reportable employer superannuation contributions (in the Income tests section) and Personal super contributions (in the Deductions section). For Your spouse's net losses from financial investments and rental property , this is the sum of amounts shown on their tax return at Net financial investment loss and Net rental property loss , in the Income tests section.",
+        "Select Save and continue ."
+      ]
+    }
+  ],
+  "content_text": "We have pre-filled your tax return with spouse details from your 2015–16 tax return (if you had a spouse on 30 June 2016). Check spouse details and update, if necessary.\nYou must complete this section if you had a spouse during 2016–17.\nFor more information, see Spouse details - married or de facto .\n## Completing this section\nYou will need details of your spouse's income. These can be obtained from:\n- your spouse\n- your spouse’s tax return, if your spouse needed to complete it\n- your spouse’s PAYG payment summary – individual non-business\n- if your spouse had child support obligations, the details of the amount of child support they paid (your spouse can get this information from the Department of Human Services).\nIncluding your spouse's income is important as it is used to work out whether:\n- you are entitled to a rebate for your private health insurance\n- you are entitled to the seniors and pensioners tax offset\n- you are entitled to a Medicare levy reduction\n- you must pay Medicare levy surcharge.\nSeek the information required at this item from your spouse, whether they need to lodge or not. If you cannot find out any of the amounts required, you can make a reasonable estimate.\nYou will not be penalised for an incorrect estimate if you acted reasonably and in good faith.\nIf you had more than one spouse during 2016–17, complete this section with the details for your last spouse in 2016–17.\n- Enter your spouse's personal details into the corresponding fields.\n- Enter your spouse's income details into the corresponding fields. If the amount is zero, enter 0 . If you were unable to obtain the information about your spouse's income, provide the best estimate possible. For Your spouse's reportable superannuation contributions , this is the sum of amounts shown on their tax return at Reportable employer superannuation contributions (in the Income tests section) and Personal super contributions (in the Deductions section). For Your spouse's net losses from financial investments and rental property , this is the sum of amounts shown on their tax return at Net financial investment loss and Net rental property loss , in the Income tests section.\n- Select Save and continue .",
+  "child_links": [
+    {
+      "title": "Spouse's exempt pension income",
+      "description": "What to enter in the Your spouse's exempt pension income section.",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2017/other-mytax-instructions-including-spouse-details-and-income-tests/spouse-details/spouses-exempt-pension-income"
+    },
+    {
+      "title": "Other specified exempt payments your spouse received",
+      "description": "What to enter in the Other specified exempt payments your spouse received field.",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2017/other-mytax-instructions-including-spouse-details-and-income-tests/spouse-details/other-specified-exempt-payments-your-spouse-received"
+    }
+  ],
+  "word_count": 375,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

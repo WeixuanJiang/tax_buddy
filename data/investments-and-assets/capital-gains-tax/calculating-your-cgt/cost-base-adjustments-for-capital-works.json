@@ -1,0 +1,121 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/capital-gains-tax/calculating-your-cgt/cost-base-adjustments-for-capital-works",
+  "title": "Cost base adjustments for capital works",
+  "description": "Capital works deductions can't be included in the cost base or reduced cost base of an asset.",
+  "nat_number": "",
+  "quick_code": "66023",
+  "date_updated": "2025-06-22T14:00:00Z",
+  "first_published": "",
+  "keywords": "cost base adjustment, capital works, CGT adjustments",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Capital works expenses you can claim as deductions against income can't be included in either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the cost base of an asset (including a structure or other capital improvement treated as a separate asset for capital gains tax purposes )",
+        "the reduced cost base of an asset."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "There are 2 exceptions to this rule:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You acquired the asset at or before 7:30 pm (ACT time) on 13 May 1997 and incurred the capital works expense by 30 June 1999 – see the Guide to capital gains tax for more information about this situation.",
+        "You were unable to claim a deduction because you didn't know the full amount or exact nature of the construction expense – you can include the expense in your cost base or reduced cost base."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Example: adjusting cost for capital works"
+    },
+    {
+      "type": "paragraph",
+      "text": "Brett purchased a residential rental property on 1 July 2005 for $150,000."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "As part of the purchase he had non-deductible expenses of $20,000 for pest and building inspections, stamp duty and solicitor’s fees.",
+        "Over the next few years, Brett incurred deductible expenses of $33,000 for interest on money borrowed, council rates and deductible (non-capital) repairs.",
+        "In 2024 Brett decided to sell the property. Prior to the sale he spent $30,000 on major structural repairs to increase the value of the property. The repairs were completed on 1 October 2024.",
+        "On 1 February 2025 he sold the property. The real estate agent’s fees and solicitor’s fees for the sale of the property totalled $12,500."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The purchasing expenses of $20,000 and sale expenses of $12,500 are capital costs and not deductible. These are added to the cost base of the property."
+    },
+    {
+      "type": "paragraph",
+      "text": "The deductible expenses of $33,000 are not added to the cost base because Brett is able to claim deductions for them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Brett can claim a capital works deduction for the major structural repairs:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "at the depreciation rate for capital works of 2.5% per year",
+        "for the period between completing the capital works and selling the property (124 days)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Therefore, Brett's deduction for the major structural repairs is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "$30,000 × 2.5% × (124 days ÷ 365 days) = $254"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When working out his cost base, Brett reduces the capital costs element by the amount that he was able to claim as a deduction:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Purchase price of property",
+          "$150,000"
+        ],
+        [
+          "Purchase-related costs",
+          "$20,000"
+        ],
+        [
+          "Capital costs (major structural repairs): $30,000 less capital works deduction ($254)",
+          "$29,746"
+        ],
+        [
+          "Sale-related costs",
+          "$12,500"
+        ],
+        [
+          "Cost base",
+          "$212,246"
+        ]
+      ]
+    }
+  ],
+  "content_text": "Capital works expenses you can claim as deductions against income can't be included in either:\n- the cost base of an asset (including a structure or other capital improvement treated as a separate asset for capital gains tax purposes )\n- the reduced cost base of an asset.\nThere are 2 exceptions to this rule:\n- You acquired the asset at or before 7:30 pm (ACT time) on 13 May 1997 and incurred the capital works expense by 30 June 1999 – see the Guide to capital gains tax for more information about this situation.\n- You were unable to claim a deduction because you didn't know the full amount or exact nature of the construction expense – you can include the expense in your cost base or reduced cost base.\n## Example: adjusting cost for capital works\nBrett purchased a residential rental property on 1 July 2005 for $150,000.\n- As part of the purchase he had non-deductible expenses of $20,000 for pest and building inspections, stamp duty and solicitor’s fees.\n- Over the next few years, Brett incurred deductible expenses of $33,000 for interest on money borrowed, council rates and deductible (non-capital) repairs.\n- In 2024 Brett decided to sell the property. Prior to the sale he spent $30,000 on major structural repairs to increase the value of the property. The repairs were completed on 1 October 2024.\n- On 1 February 2025 he sold the property. The real estate agent’s fees and solicitor’s fees for the sale of the property totalled $12,500.\nThe purchasing expenses of $20,000 and sale expenses of $12,500 are capital costs and not deductible. These are added to the cost base of the property.\nThe deductible expenses of $33,000 are not added to the cost base because Brett is able to claim deductions for them.\nBrett can claim a capital works deduction for the major structural repairs:\n- at the depreciation rate for capital works of 2.5% per year\n- for the period between completing the capital works and selling the property (124 days).\nTherefore, Brett's deduction for the major structural repairs is:\n- $30,000 × 2.5% × (124 days ÷ 365 days) = $254\nWhen working out his cost base, Brett reduces the capital costs element by the amount that he was able to claim as a deduction:\nPurchase price of property | $150,000\nPurchase-related costs | $20,000\nCapital costs (major structural repairs): $30,000 less capital works deduction ($254) | $29,746\nSale-related costs | $12,500\nCost base | $212,246",
+  "child_links": [],
+  "word_count": 417,
+  "source_title": "Cost base adjustments for capital works | Australian Taxa...",
+  "source_description": "Capital works deductions can't be included in the cost base or reduced cost base of an asset.",
+  "category": "investments-and-assets"
+}

@@ -1,0 +1,117 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2020/income/foreign-income/foreign-entities",
+  "title": "myTax 2020 Foreign entities",
+  "description": "How to complete the business section of your return using myTax.",
+  "nat_number": "",
+  "quick_code": "61948",
+  "date_updated": "2020-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "2020, Foreign entity, myTax, e-tax, online tax return, foreign entities, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Complete this section if you are an Australian resident for tax purposes who:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "had either a direct or an indirect interest in a controlled foreign company (CFC), or",
+        "at any time, directly or indirectly transferred or caused the transfer of property (including money) or services to a non-resident trust."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a temporary resident don't show your foreign investment income at this section. See Tax-free income for temporary residents for the definition of a temporary resident and details of the exemption."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Controlled foreign company (CFC) income"
+    },
+    {
+      "type": "paragraph",
+      "text": "The CFC measures may apply to income and gains of foreign companies in which you alone, or with associates, had either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "direct or indirect controlling interest totalling 10% or more in a foreign company",
+        "effective control of a foreign company."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Foreign income return form guide – chapter 1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Income from transfer of property (including money) or services to a non-resident trust estate"
+    },
+    {
+      "type": "paragraph",
+      "text": "The transferor trust measures may apply if, at any time, you directly or indirectly transferred or caused the transfer of property (including money) or services to a non-resident trust. A trust is a non-resident trust if, at any time during the income year:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "no trustee of the trust estate was an Australian resident, and",
+        "the trust estate's central management and control was not in Australia."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Foreign income return form guide – chapter 2"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your return to show foreign entities, at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You had foreign income.",
+        "Foreign entities."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your foreign entities details, at Prepare return select 'Add/Edit' at the Foreign income, assets and entities banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Foreign entities banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Enter your attributed foreign income from any CFC at Controlled foreign company (CFC) income .",
+        "Enter your attributed foreign income from transferor trusts at Income from transfer of property (including money) or services to a non-resident trust estate .",
+        "If you enter an amount at Income from transfer of property (including money) or services to a non-resident trust estate , you need to enter the Name of non-resident trust Name of trustee or trustees .",
+        "Select Save .",
+        "Select Save and continue when you have completed the Foreign income, assets and entities section."
+      ]
+    }
+  ],
+  "content_text": "Complete this section if you are an Australian resident for tax purposes who:\n- had either a direct or an indirect interest in a controlled foreign company (CFC), or\n- at any time, directly or indirectly transferred or caused the transfer of property (including money) or services to a non-resident trust.\nIf you are a temporary resident don't show your foreign investment income at this section. See Tax-free income for temporary residents for the definition of a temporary resident and details of the exemption.\n## Things to know\n### Controlled foreign company (CFC) income\nThe CFC measures may apply to income and gains of foreign companies in which you alone, or with associates, had either:\n- direct or indirect controlling interest totalling 10% or more in a foreign company\n- effective control of a foreign company.\nFor more information, see Foreign income return form guide – chapter 1\n### Income from transfer of property (including money) or services to a non-resident trust estate\nThe transferor trust measures may apply if, at any time, you directly or indirectly transferred or caused the transfer of property (including money) or services to a non-resident trust. A trust is a non-resident trust if, at any time during the income year:\n- no trustee of the trust estate was an Australian resident, and\n- the trust estate's central management and control was not in Australia.\nFor more information, see Foreign income return form guide – chapter 2\n## Completing this section\nTo personalise your return to show foreign entities, at Personalise return select:\n- You had foreign income.\n- Foreign entities.\nTo show your foreign entities details, at Prepare return select 'Add/Edit' at the Foreign income, assets and entities banner.\nAt the Foreign entities banner:\n- Enter your attributed foreign income from any CFC at Controlled foreign company (CFC) income .\n- Enter your attributed foreign income from transferor trusts at Income from transfer of property (including money) or services to a non-resident trust estate .\n- If you enter an amount at Income from transfer of property (including money) or services to a non-resident trust estate , you need to enter the Name of non-resident trust Name of trustee or trustees .\n- Select Save .\n- Select Save and continue when you have completed the Foreign income, assets and entities section.",
+  "child_links": [],
+  "word_count": 388,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

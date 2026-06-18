@@ -1,0 +1,290 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/capital-gains-tax/inherited-assets-and-capital-gains-tax/calculating-a-partial-exemption-for-inherited-property",
+  "title": "Calculating a partial exemption for inherited property",
+  "description": "Calculate the exemption amount, work out main residence status, and what to do if the property was inherited previously.",
+  "nat_number": "",
+  "quick_code": "66055",
+  "date_updated": "2025-06-22T14:00:00Z",
+  "first_published": "",
+  "keywords": "inherited dwelling partial cgt exemption, partial main residence exemption",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to calculate CGT with a partial exemption"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not qualify for a full exemption from capital gains tax (CGT) for an inherited property, you may be entitled to a partial exemption."
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out the taxable portion of your capital gain or loss:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 1: Calculate your capital gain or loss from selling or disposing of the property."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 2: Multiply the amount at step 1 by the number of non-main residence days ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 3: Divide the amount at step 2 by the total days ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Non-main residence days"
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, non-main residence days is the total of:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "The number of days, from when the deceased died until settlement of the sale of the property, that it was not the main residence of one of the following: you, as a beneficiary, if you disposed of the property as a beneficiary a person who was the spouse of the deceased (except if they were permanently separated) an individual who had a right to occupy the property under the deceased's will.",
+        "The number of days during the deceased's ownership of the property that it was not their main residence."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "However, you do not include item 2 (the number of non-main residence days during the deceased's ownership) if either of the following happened:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the deceased acquired the property before 20 September 1985",
+        "the property passed to you after 20 August 1996, and just before the deceased died, the property was the deceased's main residence was not being used to produce income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A further adjustment may be required if the property was a main residence but part of it was rented out or used as a place of business."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use the days calculator to work out the number of days between dates."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Total days"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the deceased acquired the property:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "before 20 September 1985, 'total days' is the number of days from their death until you disposed of the property",
+        "on or after 20 September 1985, 'total days' is the number of days from when the deceased acquired the property until you disposed of it."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you dispose of the property within 2 years of the deceased's death, you can ignore the main residence days and total days during your period of ownership."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Example: calculating CGT with a partial exemption"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vicki bought a house under a contract that settled on 12 February 1997."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Vicki used the house solely as a rental property.",
+        "When Vicki died on 17 November 2000, the house was inherited by her beneficiary, Lesley.",
+        "Lesley lived in the house as her main residence throughout the time she owned it.",
+        "Lesley sold the property under a contract that settled on 27 November 2024. She made a capital gain of $400,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Lesley cannot claim a full exemption from CGT because Vicki did not use the property as her main residence. However, Lesley is entitled to an exemption for the time she used the house as her main residence."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Vicki owned the house as a rental property for 1,375 days.",
+        "Lesley lived in the house for 8,777 days."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This is a total of 10,152 days."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lesley works out the taxable portion of her capital gain as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Capital gain × (non-main residence days ÷ total days) = capital gain or loss"
+    },
+    {
+      "type": "paragraph",
+      "text": "$400,000 × (1,375 ÷ 10,152) = $54,176"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lesley can use the CGT discount to calculate her capital gain, because she held the property for at least 12 months."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Continuing main residence status"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the deceased was not living in the property at the time of their death, they (or their trustee) may have chosen to continue treating it as their main residence ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may need to contact the trustee or the deceased's tax adviser to find out if this choice was made."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the choice was made, the property can be treated as the deceased's main residence from the time they stopped living in it:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "for an indefinite period, if the property was not used to produce income after the deceased stopped living in it",
+        "until their death or up to 6 years after they stopped living in it (whichever happens first), if the property was used to produce income after they stopped living in it."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: continuing main residence status"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aldo bought a house in 1997 and lived in it. He:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "moved into a nursing home in 2020 and left the house vacant",
+        "chose to treat the house as his main residence after he stopped living in it",
+        "died in 2025."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The house passed to Aldo's beneficiary, Con, who used it as a rental property."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the house was treated as Aldo's main residence immediately before his death and was not being used to produce income at that time, Con can obtain a full exemption from CGT for the period Aldo owned it."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If Con sells it more than 2 years after Aldo's death, the capital gain for the period from Aldo's death until Con sells the house is taxable.",
+        "If Con sells the house within 2 years of Aldo's death, he can ignore the non-main residence days and total days between Aldo's death and him selling it. This would give him a full exemption.",
+        "If Aldo had rented out the house after he stopped living in it, the house would still be treated as his main residence until his death. This is because he would have rented it out for less than 6 years. Therefore, Con would still get an exemption for the period Aldo owned the house."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Inheriting a previously inherited property"
+    },
+    {
+      "type": "paragraph",
+      "text": "The formula for calculating the partial main residence exemption is adjusted if the deceased also acquired the property on or after 20 September 1985 as a beneficiary (or trustee) of a deceased estate."
+    },
+    {
+      "type": "paragraph",
+      "text": "The main residence exemption is calculated according to the number of days the property was the main residence of you and the previous beneficiaries."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: inheriting a property that was previously inherited"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahmed acquired a property after 20 September 1985 and owned it for 3,700 days."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The property was his main residence throughout the time he owned it.",
+        "Ahmed left the property to his son, Fayez."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Fayez owned the property for 2,600 days."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "It was not his main residence at any time during this period.",
+        "When he died, Fayez left the property to Mardianah."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mardianah owned the property for 750 days."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "It was not her main residence at any time during that period.",
+        "Mardianah sold the property and made a capital gain of $400,000."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The taxable proportion of Mardianah's capital gain is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the number of days that the property was not a main residence",
+        "divided by the total number of days from when Ahmed first acquired the dwelling until Mardianah sold it."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mandianah works out her capital gain as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "$400,000 × ([2,600 + 750] ÷ [2,600 + 750 + 3,700]) = $190,071"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because the combined period that Ahmed, Fayez and Mardianah owned the property was more than 12 months, Mardianah can reduce her capital gain by the 50% discount (after deducting any capital losses)."
+    }
+  ],
+  "content_text": "## How to calculate CGT with a partial exemption\nIf you do not qualify for a full exemption from capital gains tax (CGT) for an inherited property, you may be entitled to a partial exemption.\nTo work out the taxable portion of your capital gain or loss:\nStep 1: Calculate your capital gain or loss from selling or disposing of the property.\nStep 2: Multiply the amount at step 1 by the number of non-main residence days .\nStep 3: Divide the amount at step 2 by the total days .\n### Non-main residence days\nGenerally, non-main residence days is the total of:\n- The number of days, from when the deceased died until settlement of the sale of the property, that it was not the main residence of one of the following: you, as a beneficiary, if you disposed of the property as a beneficiary a person who was the spouse of the deceased (except if they were permanently separated) an individual who had a right to occupy the property under the deceased's will.\n- The number of days during the deceased's ownership of the property that it was not their main residence.\nHowever, you do not include item 2 (the number of non-main residence days during the deceased's ownership) if either of the following happened:\n- the deceased acquired the property before 20 September 1985\n- the property passed to you after 20 August 1996, and just before the deceased died, the property was the deceased's main residence was not being used to produce income.\nA further adjustment may be required if the property was a main residence but part of it was rented out or used as a place of business.\nYou can use the days calculator to work out the number of days between dates.\n### Total days\nIf the deceased acquired the property:\n- before 20 September 1985, 'total days' is the number of days from their death until you disposed of the property\n- on or after 20 September 1985, 'total days' is the number of days from when the deceased acquired the property until you disposed of it.\nIf you dispose of the property within 2 years of the deceased's death, you can ignore the main residence days and total days during your period of ownership.\n#### Example: calculating CGT with a partial exemption\nVicki bought a house under a contract that settled on 12 February 1997.\n- Vicki used the house solely as a rental property.\n- When Vicki died on 17 November 2000, the house was inherited by her beneficiary, Lesley.\n- Lesley lived in the house as her main residence throughout the time she owned it.\n- Lesley sold the property under a contract that settled on 27 November 2024. She made a capital gain of $400,000.\nLesley cannot claim a full exemption from CGT because Vicki did not use the property as her main residence. However, Lesley is entitled to an exemption for the time she used the house as her main residence.\n- Vicki owned the house as a rental property for 1,375 days.\n- Lesley lived in the house for 8,777 days.\nThis is a total of 10,152 days.\nLesley works out the taxable portion of her capital gain as follows:\nCapital gain × (non-main residence days ÷ total days) = capital gain or loss\n$400,000 × (1,375 ÷ 10,152) = $54,176\nLesley can use the CGT discount to calculate her capital gain, because she held the property for at least 12 months.\n## Continuing main residence status\nIf the deceased was not living in the property at the time of their death, they (or their trustee) may have chosen to continue treating it as their main residence .\nYou may need to contact the trustee or the deceased's tax adviser to find out if this choice was made.\nIf the choice was made, the property can be treated as the deceased's main residence from the time they stopped living in it:\n- for an indefinite period, if the property was not used to produce income after the deceased stopped living in it\n- until their death or up to 6 years after they stopped living in it (whichever happens first), if the property was used to produce income after they stopped living in it.\n### Example: continuing main residence status\nAldo bought a house in 1997 and lived in it. He:\n- moved into a nursing home in 2020 and left the house vacant\n- chose to treat the house as his main residence after he stopped living in it\n- died in 2025.\nThe house passed to Aldo's beneficiary, Con, who used it as a rental property.\nAs the house was treated as Aldo's main residence immediately before his death and was not being used to produce income at that time, Con can obtain a full exemption from CGT for the period Aldo owned it.\n- If Con sells it more than 2 years after Aldo's death, the capital gain for the period from Aldo's death until Con sells the house is taxable.\n- If Con sells the house within 2 years of Aldo's death, he can ignore the non-main residence days and total days between Aldo's death and him selling it. This would give him a full exemption.\n- If Aldo had rented out the house after he stopped living in it, the house would still be treated as his main residence until his death. This is because he would have rented it out for less than 6 years. Therefore, Con would still get an exemption for the period Aldo owned the house.\n## Inheriting a previously inherited property\nThe formula for calculating the partial main residence exemption is adjusted if the deceased also acquired the property on or after 20 September 1985 as a beneficiary (or trustee) of a deceased estate.\nThe main residence exemption is calculated according to the number of days the property was the main residence of you and the previous beneficiaries.\n### Example: inheriting a property that was previously inherited\nAhmed acquired a property after 20 September 1985 and owned it for 3,700 days.\n- The property was his main residence throughout the time he owned it.\n- Ahmed left the property to his son, Fayez.\nFayez owned the property for 2,600 days.\n- It was not his main residence at any time during this period.\n- When he died, Fayez left the property to Mardianah.\nMardianah owned the property for 750 days.\n- It was not her main residence at any time during that period.\n- Mardianah sold the property and made a capital gain of $400,000.\nThe taxable proportion of Mardianah's capital gain is:\n- the number of days that the property was not a main residence\n- divided by the total number of days from when Ahmed first acquired the dwelling until Mardianah sold it.\nMandianah works out her capital gain as follows:\n$400,000 × ([2,600 + 750] ÷ [2,600 + 750 + 3,700]) = $190,071\nBecause the combined period that Ahmed, Fayez and Mardianah owned the property was more than 12 months, Mardianah can reduce her capital gain by the 50% discount (after deducting any capital losses).",
+  "child_links": [],
+  "word_count": 1202,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

@@ -1,0 +1,508 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/super/withdrawing-and-using-your-super/retirement-withdrawal-lump-sum-or-income-stream/excess-transfer-balance",
+  "title": "Excess transfer balance",
+  "description": "What you need to do if the amount you've transferred into retirement phase exceeds your transfer balance cap.",
+  "nat_number": "",
+  "quick_code": "54355",
+  "date_updated": "2025-02-06T13:00:00Z",
+  "first_published": "",
+  "keywords": "Transfer balance cap excess transfer balance, Transfer balance cap, excess transfer balance, etb determination, excess transfer balance determination, commutation authority, commuting, transfer balance account, excess earnings, excess tax",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What is an excess transfer balance?"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the amount you transfer into retirement phase exceeds your personal transfer balance cap , you will generally have an excess transfer balance."
+    },
+    {
+      "type": "paragraph",
+      "text": "An excess transfer balance can arise when you receive:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "one or more retirement phase account-based income streams",
+        "a combination of one or more retirement phase account-based income streams and capped defined benefit income streams."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your excess transfer balance is the sum of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the amount that exceeds your personal transfer balance cap",
+        "the notional earnings on the excess amount."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have an excess transfer balance, you will need to both:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "remove the excess by commuting it",
+        "pay excess transfer balance tax."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We may also send you an excess transfer balance determination , which will set out the amount you need to commute."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can view your transfer balance account and transfer balance cap on ATO online services ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "What you can do"
+    },
+    {
+      "type": "paragraph",
+      "text": "Taking extra pension payments (or a larger pension payment) doesn't create a debit in your transfer balance account and won't rectify your excess."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to commute the excess transfer balance amount from retirement phase as soon as possible to limit the amount of excess transfer balance tax you will need to pay."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can commute your excess amount as soon as you are aware you're in excess, even if we haven't sent you an excess transfer balance determination. If you do this, you will need to calculate the earnings on the excess amount yourself. The sooner you do this the less excess transfer balance tax."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you have removed the excess transfer balance, we will send you a notice of assessment showing the amount of excess transfer balance tax you need to pay."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Excess transfer balance determination"
+    },
+    {
+      "type": "paragraph",
+      "text": "We will send you an excess transfer balance determination to advise you of your excess transfer balance and the amount you need to commute from your retirement phase income stream."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your determination will detail:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your excess transfer balance amount at the end of a particular day",
+        "the due date you need to commute the amount by",
+        "the excess period",
+        "your personal transfer balance cap."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your determination will also include a default commutation notice. This notice outlines which super fund and income stream account we will send a commutation authority to if you don't commute or make an election by the due date on your determination."
+    },
+    {
+      "type": "paragraph",
+      "text": "A capped defined benefit income stream, such as a lifetime pension, counts towards your excess transfer balance, but is not included in the default commutation notice because such streams generally can't be commuted."
+    },
+    {
+      "type": "paragraph",
+      "text": "After the excess is removed, we will send you an excess transfer balance tax assessment showing the excess transfer balance tax you need to pay."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Example: consequences of excess transfer balance"
+    },
+    {
+      "type": "paragraph",
+      "text": "On 1 July 2018, Bec started a superannuation income stream of $1 million from the superannuation fund her employer contributed to (Master Superannuation Fund). On 1 October 2018, Bec also started a $1 million superannuation income stream in her SMSF, Bec’s Super Fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 1 July 2018, Bec’s transfer balance account was $1 million. On 1 October 2018, Bec’s transfer balance account was credited with a further $1 million bringing her transfer balance account to $2 million. This means that Bec had exceeded her personal transfer balance cap of $1.6 million by $400,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bec's SMSF reported the second superannuation income stream to us on 28 January 2019."
+    },
+    {
+      "type": "paragraph",
+      "text": "On 30 January 2019, the ATO issued an excess transfer balance determination to Bec setting out her excess transfer balance amount (which will be made up of the $400,000 plus earnings that accrued from 1 October 2018 to when we made the determination)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Included with the determination was a default commutation authority notice which lets Bec know that, if she doesn't commute the full amount voluntarily or make an election by the due date on the determination, the ATO would issue a commutation authority to Master Superannuation Fund requiring the trustee to commute the excess transfer balance amount from her superannuation income stream."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Excess transfer balance earnings"
+    },
+    {
+      "type": "paragraph",
+      "text": "The earnings on your excess transfer balance are 'excess transfer balance earnings'. They are notional earnings calculated using a legal formula. A notional amount is used because it is difficult to determine actual earnings on a specific portion of the overall assets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Excess transfer balance earnings compound daily. Each day the earnings are calculated and credited to your transfer balance account. This increases the amount that excess transfer balance earnings are calculated on for the following day. This process continues until we issue an excess transfer balance determination, or you stop having an excess transfer balance, whichever is earlier."
+    },
+    {
+      "type": "paragraph",
+      "text": "The daily rate for excess transfer balance earnings is worked out as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "90-day bank accepted bill yield + seven percentage points ÷ number of days in the calendar year."
+    },
+    {
+      "type": "paragraph",
+      "text": "This rate is based on the general interest charge ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The 90-day bank accepted bill yield is a benchmark indicator published by the Reserve Bank of Australia."
+    },
+    {
+      "type": "paragraph",
+      "text": "We will advise you of the amount credited to your excess transfer balance account when we issue an excess transfer balance determination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Excess transfer balance earnings will continue to accrue until your transfer balance account is equal to or less than your personal transfer balance cap and you will pay excess transfer balance tax on those earnings."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to do when you receive a determination"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can review all the events and reporting that have been taken into consideration in determining if you have exceeded your personal transfer balance cap through ATO online services ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you think your determination is based on incorrect reporting to us by your super fund, you should contact them. We have no discretion to disregard your excess or adjust the information reported to us by your super fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need more time to understand your situation or for your super fund to correct any reporting, you must contact us to seek an extension of time . You should do this before the due date on your determination."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't act by the due date on your determination or your extended due date, we will send a commutation authority to the super fund specified in your determination."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Commuting an excess amount"
+    },
+    {
+      "type": "paragraph",
+      "text": "To commute the excess transfer balance, you should contact your super fund and ask them to commute the excess amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unless you are commuting a death benefit income stream, the excess amount can be transferred into an accumulation account or withdrawn from super as a lump sum."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are commuting a death benefit income stream, the excess amount must be withdrawn from super in the form of a lump sum as soon as practicable. When you receive a superannuation death benefit as a lump sum, it:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "must be taken out of the superannuation system",
+        "can't be left in an accumulation phase account."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to ensure the commutation:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "is made by the due date set out on your determination",
+        "is for the full amount set out on your determination, including any cents."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your super fund requires you to commute an amount in whole dollars and the amount you need to commute is comprised of dollars and cents, round up to ensure you have commuted enough to remove your excess."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't commute the full amount by the due date, we will send a commutation authority to your super fund, even if the remaining amount is very small. Excess transfer balance tax will continue to accrue until you cease to have an excess transfer balance account."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you can't commute the full amount set out in your determination, you will need to commute as much as possible and close the account."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you no longer have retirement phase super income streams other than capped defined benefit income streams, we will issue you with a notice of non-commutable excess transfer balance, which will mean you are no longer in excess. We will also send you an excess transfer balance tax assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your super fund will tell us when an amount has been commuted from your account. This ensures your transfer balance account is debited for any commutations and we can determine whether you still have an excess transfer balance."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you commute an income stream after the due date on your determination and haven't sought an extension of time, we may issue a commutation authority to your super fund to have the excess transfer balance amount removed from retirement phase. There is a risk that the amount could be commuted twice."
+    },
+    {
+      "type": "paragraph",
+      "text": "You don't need to advise us of any commutations. However, if your super fund can't report the debit to your account for any reason, you will need to provide us with a statement in writing that includes the member's:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "full name",
+        "residential address",
+        "date of birth",
+        "contact number",
+        "account number with the amount commuted and the date commuted",
+        "the super fund's name and ABN."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your written statement must be signed and include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the signatory's full name (this could be you as member or a person authorised by the member)",
+        "a contact number",
+        "a statement declaring that the information provided is true and correct."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Making a commutation authority election"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't want to request a commutation from your fund or if you want to choose another income stream to remove the excess from, you can make an election by the due date on your determination."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do make an election, you must ensure that the total amount you elect equals the excess transfer balance amount. Once you have made an election it is irrevocable."
+    },
+    {
+      "type": "paragraph",
+      "text": "We're unable to send a commutation authority to your super fund until after the due date on your determination."
+    },
+    {
+      "type": "paragraph",
+      "text": "The longer you remain in excess the more excess transfer balance tax you will pay."
+    },
+    {
+      "type": "paragraph",
+      "text": "You don't need to make an election if you either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "have requested a commutation from your fund",
+        "want us to send a commutation to your default fund."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To make an excess transfer balance election:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Online sign in to myGov External Link select Australian Taxation Office select Super, then Manage, then Transfer balance election If you don't have a myGov account, create one and link it to the ATO",
+        "On paper, see Excess transfer balance election form instructions ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Extension of time"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need more time to respond to your determination you can phone us before the due date on 13 10 20 and request an extension of time. You will need to explain the cause for the delay."
+    },
+    {
+      "type": "paragraph",
+      "text": "The longer you are in excess the more excess transfer balance tax you will pay. This is because your excess transfer balance earnings continue to accrue until you are no longer in excess."
+    },
+    {
+      "type": "paragraph",
+      "text": "We can't give you an extension of time if we have already sent a commutation authority to your super fund."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Commutation authority"
+    },
+    {
+      "type": "paragraph",
+      "text": "We will issue a commutation authority to your super fund if your excess transfer balance has not been commuted in full by the due date on your determination. If you've made an election, the commutation authority will be issued to the super fund you chose."
+    },
+    {
+      "type": "paragraph",
+      "text": "The commutation authority will detail the amount that your super fund must commute from a specific income stream. Your super fund must action the commutation authority and tell us what action they have taken within 60 days."
+    },
+    {
+      "type": "paragraph",
+      "text": "While we may be able to adjust or revoke a commutation authority if we receive late reporting from your super fund we have limited ability to do so."
+    },
+    {
+      "type": "paragraph",
+      "text": "We can't take any action if your super fund has already complied with the commutation authority. Your super fund should make reasonable efforts to contact you and discuss your options, such as retaining the commuted amount in an accumulation account or taking it out of the super system."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your super fund is unable to contact you, they should commute the amount in a way they judge to be in your best interests. The super fund must act to reduce the excess within 60 days of the commutation authority being issued."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your super fund must notify you when they either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "commute an amount from your super income stream in response to a commutation authority",
+        "can't action the commutation authority because the super income stream specified is a capped defined benefit income stream."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can't:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "object to the commutation authority that we send to your super fund",
+        "direct your super fund not to comply with the commutation authority."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a SMSF, see Commutation authorities for SMSFs ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Excess transfer balance tax"
+    },
+    {
+      "type": "paragraph",
+      "text": "You're liable to pay excess transfer balance tax if you had an excess transfer balance, even if we don't send you a determination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Excess transfer balance tax is generally calculated on your excess transfer balance earnings for the period from when you start to have an excess transfer balance account to when your transfer balance account is no longer in excess."
+    },
+    {
+      "type": "paragraph",
+      "text": "The earnings that attract excess transfer balance tax include earnings that accrue after we have issued your determination (even though those earnings don't need to be commuted from your super fund). The earlier you commute your excess the less excess transfer balance tax you'll have to pay."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Excess transfer balance tax assessment"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're liable for excess transfer balance tax, we will issue you with an excess transfer balance tax assessment. Excess transfer balance tax is due and payable 21 days after the assessment is issued to you. Interest will accrue if any amount remains unpaid after the due date."
+    },
+    {
+      "type": "paragraph",
+      "text": "The tax rate is 15% for the first time you have an excess transfer balance, increasing to 30% if you have an excess transfer balance again."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to do if you disagree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have any concerns you can contact us on 13 10 20 for an explanation."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you believe our calculation is incorrect because your super fund has reported an incorrect amount to us, you will need to ask them to re-report. If this occurs, you may need to contact us and request an extension of time to allow your super fund to lodge amended reporting before the due date on your determination."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your super fund tells you that they have reported information to us that we've not taken into consideration when calculating your transfer balance, you should ask your super fund to contact us."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with our calculation, you can lodge an objection ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may object to your determination under Part IVC of the Taxation Administration Act 1953 as a determination is a taxation decision for Part IVC purposes. However, the default commutation notice that accompanies your determination is not part of the taxation decision and doesn't carry any objection rights."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may also object to your excess transfer balance tax assessment under Part IVC. However, if you've already objected to your excess transfer balance determination you cannot object to your excess transfer balance tax assessment on the same grounds, or on grounds that could have been grounds for your objection to the determination."
+    },
+    {
+      "type": "paragraph",
+      "text": "We don't have any discretion and therefore can't take special circumstances into account when considering your objection."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Correcting reporting errors"
+    },
+    {
+      "type": "paragraph",
+      "text": "We recognise that information reported to us may sometimes be incorrect. The following table outlines some errors and the action necessary to rectify them."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Situation",
+          "Action required"
+        ],
+        [
+          "The information reported to us by your super fund is incorrect",
+          "Your super fund needs to cancel the incorrect TBAR and re-report the correct information as soon as possible. You may need to request an extension of time before the due date to allow for the new information to be processed We'll issue a revoked or amended determination once we've received and processed the new information"
+        ],
+        [
+          "The information reported to us by your super fund is incomplete. For example: you were in excess at 1 July 2017 and your SMSF hasn't reported any subsequent commutations that reduced or rectified the excess during the determination period you were in excess at 1 July 2017 and started an additional retirement-phase income stream, which increased the amount you are in excess by during the determination period you have rolled over your super interest from a SMSF to an APRA fund, but your SMSF hasn't reported the initial pension or the debit when the pension was commuted before it was rolled over",
+          "Your super fund will need to lodge TBARs providing the correct information for all events that occurred between the day that you went into excess and the day we made the determination. You may need to request an extension of time before the due date to allow for the new information to be processed. We'll issue a revoked or amended determination once we've received and processed the new information"
+        ],
+        [
+          "We haven't taken your structured settlement contribution into consideration",
+          "If the structured settlement contribution was made to your super fund before 1 July 2007, you will need to advise us of this using a Transfer balance event notification form . If the structured settlement contribution was made between 1 July 2007 and 30 June 2017, your super fund should already have reported this to us on their member contribution statement. Your super fund will need to check that they reported the contribution to us as a structured settlement contribution and they may need to contact us to check their reporting. If the structured settlement contribution was made to the super fund on or after 1 July 2017, the super fund will need to report this to us on a TBAR. You may need to request an extension of time prior to the due date to allow for the new information to be processed We'll issue a revoked or amended determination once we've received and processed the new information"
+        ]
+      ]
+    }
+  ],
+  "content_text": "## What is an excess transfer balance?\nWhen the amount you transfer into retirement phase exceeds your personal transfer balance cap , you will generally have an excess transfer balance.\nAn excess transfer balance can arise when you receive:\n- one or more retirement phase account-based income streams\n- a combination of one or more retirement phase account-based income streams and capped defined benefit income streams.\nYour excess transfer balance is the sum of:\n- the amount that exceeds your personal transfer balance cap\n- the notional earnings on the excess amount.\nIf you have an excess transfer balance, you will need to both:\n- remove the excess by commuting it\n- pay excess transfer balance tax.\nWe may also send you an excess transfer balance determination , which will set out the amount you need to commute.\nYou can view your transfer balance account and transfer balance cap on ATO online services .\n### What you can do\nTaking extra pension payments (or a larger pension payment) doesn't create a debit in your transfer balance account and won't rectify your excess.\nYou need to commute the excess transfer balance amount from retirement phase as soon as possible to limit the amount of excess transfer balance tax you will need to pay.\nYou can commute your excess amount as soon as you are aware you're in excess, even if we haven't sent you an excess transfer balance determination. If you do this, you will need to calculate the earnings on the excess amount yourself. The sooner you do this the less excess transfer balance tax.\nOnce you have removed the excess transfer balance, we will send you a notice of assessment showing the amount of excess transfer balance tax you need to pay.\n#### Excess transfer balance determination\nWe will send you an excess transfer balance determination to advise you of your excess transfer balance and the amount you need to commute from your retirement phase income stream.\nYour determination will detail:\n- your excess transfer balance amount at the end of a particular day\n- the due date you need to commute the amount by\n- the excess period\n- your personal transfer balance cap.\nYour determination will also include a default commutation notice. This notice outlines which super fund and income stream account we will send a commutation authority to if you don't commute or make an election by the due date on your determination.\nA capped defined benefit income stream, such as a lifetime pension, counts towards your excess transfer balance, but is not included in the default commutation notice because such streams generally can't be commuted.\nAfter the excess is removed, we will send you an excess transfer balance tax assessment showing the excess transfer balance tax you need to pay.\n##### Example: consequences of excess transfer balance\nOn 1 July 2018, Bec started a superannuation income stream of $1 million from the superannuation fund her employer contributed to (Master Superannuation Fund). On 1 October 2018, Bec also started a $1 million superannuation income stream in her SMSF, Bec’s Super Fund.\nOn 1 July 2018, Bec’s transfer balance account was $1 million. On 1 October 2018, Bec’s transfer balance account was credited with a further $1 million bringing her transfer balance account to $2 million. This means that Bec had exceeded her personal transfer balance cap of $1.6 million by $400,000.\nBec's SMSF reported the second superannuation income stream to us on 28 January 2019.\nOn 30 January 2019, the ATO issued an excess transfer balance determination to Bec setting out her excess transfer balance amount (which will be made up of the $400,000 plus earnings that accrued from 1 October 2018 to when we made the determination).\nIncluded with the determination was a default commutation authority notice which lets Bec know that, if she doesn't commute the full amount voluntarily or make an election by the due date on the determination, the ATO would issue a commutation authority to Master Superannuation Fund requiring the trustee to commute the excess transfer balance amount from her superannuation income stream.\n### Excess transfer balance earnings\nThe earnings on your excess transfer balance are 'excess transfer balance earnings'. They are notional earnings calculated using a legal formula. A notional amount is used because it is difficult to determine actual earnings on a specific portion of the overall assets.\nExcess transfer balance earnings compound daily. Each day the earnings are calculated and credited to your transfer balance account. This increases the amount that excess transfer balance earnings are calculated on for the following day. This process continues until we issue an excess transfer balance determination, or you stop having an excess transfer balance, whichever is earlier.\nThe daily rate for excess transfer balance earnings is worked out as follows:\n90-day bank accepted bill yield + seven percentage points ÷ number of days in the calendar year.\nThis rate is based on the general interest charge .\nThe 90-day bank accepted bill yield is a benchmark indicator published by the Reserve Bank of Australia.\nWe will advise you of the amount credited to your excess transfer balance account when we issue an excess transfer balance determination.\nExcess transfer balance earnings will continue to accrue until your transfer balance account is equal to or less than your personal transfer balance cap and you will pay excess transfer balance tax on those earnings.\n## What to do when you receive a determination\nYou can review all the events and reporting that have been taken into consideration in determining if you have exceeded your personal transfer balance cap through ATO online services .\nIf you think your determination is based on incorrect reporting to us by your super fund, you should contact them. We have no discretion to disregard your excess or adjust the information reported to us by your super fund.\nIf you need more time to understand your situation or for your super fund to correct any reporting, you must contact us to seek an extension of time . You should do this before the due date on your determination.\nIf you don't act by the due date on your determination or your extended due date, we will send a commutation authority to the super fund specified in your determination.\n### Commuting an excess amount\nTo commute the excess transfer balance, you should contact your super fund and ask them to commute the excess amount.\nUnless you are commuting a death benefit income stream, the excess amount can be transferred into an accumulation account or withdrawn from super as a lump sum.\nIf you are commuting a death benefit income stream, the excess amount must be withdrawn from super in the form of a lump sum as soon as practicable. When you receive a superannuation death benefit as a lump sum, it:\n- must be taken out of the superannuation system\n- can't be left in an accumulation phase account.\nYou need to ensure the commutation:\n- is made by the due date set out on your determination\n- is for the full amount set out on your determination, including any cents.\nIf your super fund requires you to commute an amount in whole dollars and the amount you need to commute is comprised of dollars and cents, round up to ensure you have commuted enough to remove your excess.\nIf you don't commute the full amount by the due date, we will send a commutation authority to your super fund, even if the remaining amount is very small. Excess transfer balance tax will continue to accrue until you cease to have an excess transfer balance account.\nIf you can't commute the full amount set out in your determination, you will need to commute as much as possible and close the account.\nIf you no longer have retirement phase super income streams other than capped defined benefit income streams, we will issue you with a notice of non-commutable excess transfer balance, which will mean you are no longer in excess. We will also send you an excess transfer balance tax assessment.\nYour super fund will tell us when an amount has been commuted from your account. This ensures your transfer balance account is debited for any commutations and we can determine whether you still have an excess transfer balance.\nIf you commute an income stream after the due date on your determination and haven't sought an extension of time, we may issue a commutation authority to your super fund to have the excess transfer balance amount removed from retirement phase. There is a risk that the amount could be commuted twice.\nYou don't need to advise us of any commutations. However, if your super fund can't report the debit to your account for any reason, you will need to provide us with a statement in writing that includes the member's:\n- full name\n- residential address\n- date of birth\n- contact number\n- account number with the amount commuted and the date commuted\n- the super fund's name and ABN.\nYour written statement must be signed and include:\n- the signatory's full name (this could be you as member or a person authorised by the member)\n- a contact number\n- a statement declaring that the information provided is true and correct.\n### Making a commutation authority election\nIf you don't want to request a commutation from your fund or if you want to choose another income stream to remove the excess from, you can make an election by the due date on your determination.\nIf you do make an election, you must ensure that the total amount you elect equals the excess transfer balance amount. Once you have made an election it is irrevocable.\nWe're unable to send a commutation authority to your super fund until after the due date on your determination.\nThe longer you remain in excess the more excess transfer balance tax you will pay.\nYou don't need to make an election if you either:\n- have requested a commutation from your fund\n- want us to send a commutation to your default fund.\nTo make an excess transfer balance election:\n- Online sign in to myGov External Link select Australian Taxation Office select Super, then Manage, then Transfer balance election If you don't have a myGov account, create one and link it to the ATO\n- On paper, see Excess transfer balance election form instructions .\n### Extension of time\nIf you need more time to respond to your determination you can phone us before the due date on 13 10 20 and request an extension of time. You will need to explain the cause for the delay.\nThe longer you are in excess the more excess transfer balance tax you will pay. This is because your excess transfer balance earnings continue to accrue until you are no longer in excess.\nWe can't give you an extension of time if we have already sent a commutation authority to your super fund.\n### Commutation authority\nWe will issue a commutation authority to your super fund if your excess transfer balance has not been commuted in full by the due date on your determination. If you've made an election, the commutation authority will be issued to the super fund you chose.\nThe commutation authority will detail the amount that your super fund must commute from a specific income stream. Your super fund must action the commutation authority and tell us what action they have taken within 60 days.\nWhile we may be able to adjust or revoke a commutation authority if we receive late reporting from your super fund we have limited ability to do so.\nWe can't take any action if your super fund has already complied with the commutation authority. Your super fund should make reasonable efforts to contact you and discuss your options, such as retaining the commuted amount in an accumulation account or taking it out of the super system.\nIf your super fund is unable to contact you, they should commute the amount in a way they judge to be in your best interests. The super fund must act to reduce the excess within 60 days of the commutation authority being issued.\nYour super fund must notify you when they either:\n- commute an amount from your super income stream in response to a commutation authority\n- can't action the commutation authority because the super income stream specified is a capped defined benefit income stream.\nYou can't:\n- object to the commutation authority that we send to your super fund\n- direct your super fund not to comply with the commutation authority.\nIf you have a SMSF, see Commutation authorities for SMSFs .\n## Excess transfer balance tax\nYou're liable to pay excess transfer balance tax if you had an excess transfer balance, even if we don't send you a determination.\nExcess transfer balance tax is generally calculated on your excess transfer balance earnings for the period from when you start to have an excess transfer balance account to when your transfer balance account is no longer in excess.\nThe earnings that attract excess transfer balance tax include earnings that accrue after we have issued your determination (even though those earnings don't need to be commuted from your super fund). The earlier you commute your excess the less excess transfer balance tax you'll have to pay.\n### Excess transfer balance tax assessment\nIf you're liable for excess transfer balance tax, we will issue you with an excess transfer balance tax assessment. Excess transfer balance tax is due and payable 21 days after the assessment is issued to you. Interest will accrue if any amount remains unpaid after the due date.\nThe tax rate is 15% for the first time you have an excess transfer balance, increasing to 30% if you have an excess transfer balance again.\n## What to do if you disagree\nIf you have any concerns you can contact us on 13 10 20 for an explanation.\nIf you believe our calculation is incorrect because your super fund has reported an incorrect amount to us, you will need to ask them to re-report. If this occurs, you may need to contact us and request an extension of time to allow your super fund to lodge amended reporting before the due date on your determination.\nIf your super fund tells you that they have reported information to us that we've not taken into consideration when calculating your transfer balance, you should ask your super fund to contact us.\nIf you disagree with our calculation, you can lodge an objection .\nYou may object to your determination under Part IVC of the Taxation Administration Act 1953 as a determination is a taxation decision for Part IVC purposes. However, the default commutation notice that accompanies your determination is not part of the taxation decision and doesn't carry any objection rights.\nYou may also object to your excess transfer balance tax assessment under Part IVC. However, if you've already objected to your excess transfer balance determination you cannot object to your excess transfer balance tax assessment on the same grounds, or on grounds that could have been grounds for your objection to the determination.\nWe don't have any discretion and therefore can't take special circumstances into account when considering your objection.\n## Correcting reporting errors\nWe recognise that information reported to us may sometimes be incorrect. The following table outlines some errors and the action necessary to rectify them.\nSituation | Action required\nThe information reported to us by your super fund is incorrect | Your super fund needs to cancel the incorrect TBAR and re-report the correct information as soon as possible. You may need to request an extension of time before the due date to allow for the new information to be processed We'll issue a revoked or amended determination once we've received and processed the new information\nThe information reported to us by your super fund is incomplete. For example: you were in excess at 1 July 2017 and your SMSF hasn't reported any subsequent commutations that reduced or rectified the excess during the determination period you were in excess at 1 July 2017 and started an additional retirement-phase income stream, which increased the amount you are in excess by during the determination period you have rolled over your super interest from a SMSF to an APRA fund, but your SMSF hasn't reported the initial pension or the debit when the pension was commuted before it was rolled over | Your super fund will need to lodge TBARs providing the correct information for all events that occurred between the day that you went into excess and the day we made the determination. You may need to request an extension of time before the due date to allow for the new information to be processed. We'll issue a revoked or amended determination once we've received and processed the new information\nWe haven't taken your structured settlement contribution into consideration | If the structured settlement contribution was made to your super fund before 1 July 2007, you will need to advise us of this using a Transfer balance event notification form . If the structured settlement contribution was made between 1 July 2007 and 30 June 2017, your super fund should already have reported this to us on their member contribution statement. Your super fund will need to check that they reported the contribution to us as a structured settlement contribution and they may need to contact us to check their reporting. If the structured settlement contribution was made to the super fund on or after 1 July 2017, the super fund will need to report this to us on a TBAR. You may need to request an extension of time prior to the due date to allow for the new information to be processed We'll issue a revoked or amended determination once we've received and processed the new information",
+  "child_links": [],
+  "word_count": 2996,
+  "source_title": "",
+  "source_description": "",
+  "category": "super-for-individuals-and-families"
+}

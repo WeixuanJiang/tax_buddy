@@ -1,0 +1,416 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-contributions-and-rollovers/responding-to-release-authorities-issued-to-smsfs",
+  "title": "Responding to release authorities issued to SMSFs",
+  "description": "What a release authority is and how your SMSF needs to respond.",
+  "nat_number": "",
+  "quick_code": "72513",
+  "date_updated": "2025-04-01T13:00:00Z",
+  "first_published": "",
+  "keywords": "SMSF release authority, responding to release authority, SMSF RA, received SMSF release authority",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What is a release authority?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A release authority is a document we give to a superannuation fund to authorise the release of a member's super."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may receive a release authority if a member has requested to have some of their super released early from their SMSF where the member has:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "excess concessional contributions",
+        "excess non-concessional contributions",
+        "excess non-concessional contributions tax",
+        "Division 293 due and payable",
+        "Division 293 deferred debt account",
+        "requested release under the First Home Super Saver (FHSS) scheme."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When an SMSF receives a valid release authority, it is authorised to release the amount from the member’s super account based on the instructions of the specific release authority ."
+    },
+    {
+      "type": "paragraph",
+      "text": "A contravention will occur if you release this money before your member lodges an election form and your SMSF receives a release authority."
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on the type of release authority, this amount is either paid:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "to us, and we then pay it to the member",
+        "directly to the member."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The release authority includes a release authority statement and instructions for completing it. As trustee, you must provide this information to us to confirm that you have released the member's money in accordance with the release authority."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Penalties for not meeting release authority obligations"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may incur a non-compliance penalty up to a maximum of 20 penalty units if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "do not pay the required amount to us within 10 business days of receiving a valid release authority",
+        "do not return the release authority statement (RAS) to us within 10 business days and",
+        "release an amount that is not the lowest amount of the amount stated in the release authority maximum available release amounts for the super interest held by the super fund."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Notification of a release authority"
+    },
+    {
+      "type": "paragraph",
+      "text": "How you receive release authorities will depend on whether your SMSF has an electronic service address (ESA)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your SMSF:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "has an ESA, we will send the release authority to your ESA and your fund will receive a notification either from your SMSF messaging provider or your fund administrator",
+        "does not have an ESA, we will send a release authority letter and a release authority statement form, which as trustee you will need to complete."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The due date of the release authority will depend on the type of release authority ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Responding to a release authority"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before responding to a release authority, see tax treatment of release authorities ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1: Send us the release authority statement"
+    },
+    {
+      "type": "paragraph",
+      "text": "How you respond to a release authority will depend on how we issued it to you. If the release authority was issued:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "to your ESA, you must send us the release authority statement (RAS) through your software, SMSF messaging provider or fund administrator",
+        "by paper, you must action the release authority and return the paper RAS to us."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your RAS should advise:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the amount to be released to us",
+        "for partial releases, whether any super benefits remain in the account",
+        "where the amount released is less than the authority, why the full amount could not be released."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "After you action a release authority and send a RAS using your software, you will either be:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "provided with a payment reference number (PRN) by your software, SMSF administrator or messaging provider",
+        "advised to generate your own PRN."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to include this PRN when paying the release amount. Make sure it matches the one provided in the data message."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a paper release authority, your PRN will be included on the payment slip of the form."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are unable to action the release authority, send us either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a release authority error message through your ESA, or",
+        "the completed paper RAS."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2: Make the payment"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need to electronically pay the lesser of either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the amount stated in the release authority",
+        "the total amount of the super that could be paid at that time."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The release authority you receive will include the bank account you need to make the payment to."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember to include the PRN when making the payment. If you receive multiple release authorities, do not send one bulk payment. The amount you advise is being paid in the RAS must match the amount paid and the corresponding PRN."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Types of release authorities"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are several types of release authorities that we might send you, including:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "excess concessional contributions",
+        "excess non-concessional contributions",
+        "excess non-concessional contributions tax",
+        "Division 293 tax – due and payable",
+        "Division 293 tax – deferred debt",
+        "First Home Super Saver scheme ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Excess concessional contributions release authority"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your SMSF will receive an excess concessional contributions release authority when a member:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "exceeds their concessional contributions cap in 2013–14 and later financial years, and",
+        "elects to release up to 85% of the excess concessional contributions."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The full amount of excess contributions will be included in your member's assessable income. It will be assessed at the individual's marginal rate of tax and a 15% tax offset will be applied."
+    },
+    {
+      "type": "paragraph",
+      "text": "Amounts of excess concessional contributions that are not released will be treated as non-concessional contributions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The released amount must be paid directly to us and is to be treated as a non-assessable, non-exempt benefit payment to your member."
+    },
+    {
+      "type": "paragraph",
+      "text": "When your fund releases an amount to us, we will:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "offset the balance against any outstanding tax or other Australian Government debts",
+        "pay the remaining amount to your member."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Excess non-concessional contributions release authority"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your SMSF will receive an excess non-concessional contributions release authority when a member exceeds their non-concessional contributions cap and has:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "elected to release the excess non-concessional contributions and 85% of associated earnings from that fund, or",
+        "not made such an election after 60 days and we initiate the process on their behalf."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The released amount must be paid directly to us and is to be treated as a non-assessable, non-exempt benefit payment to your member."
+    },
+    {
+      "type": "paragraph",
+      "text": "When your fund releases the amount to us, it will be offset against any outstanding tax or other Australian Government debts before any remaining balance is refunded to your member."
+    },
+    {
+      "type": "paragraph",
+      "text": "You don’t need to amend the contributions report you provided for this member in your SMSF annual return for 2017–18 and earlier financial years. Releasing this benefit doesn’t change the contributions that led to the excess."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Excess non-concessional contributions tax release authority"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your SMSF will receive this release authority if your member elects to have their excess non-concessional contributions assessed as excess non-concessional contributions tax in order to pay their tax liability."
+    },
+    {
+      "type": "paragraph",
+      "text": "When your fund releases an amount to us, we will:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "offset the balance against any outstanding tax or other Australian Government debts",
+        "pay the remaining amount to your member."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Division 293 tax – due and payable release authority"
+    },
+    {
+      "type": "paragraph",
+      "text": "When an individual has a Division 293 tax due and payable debt associated with contributions made to accumulation super accounts, the debt must be paid within 21 days of receiving the notice of assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "The individual can elect to release an amount from their fund within 60 days of the issue date to pay the debt. We will issue a release authority to their nominated fund. If your SMSF receives a release authority, you must pay us directly."
+    },
+    {
+      "type": "paragraph",
+      "text": "When your fund releases an amount to us, we:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "offset the balance against any outstanding tax or other Australian Government debts",
+        "pay the remaining amount to the member."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Division 293 tax – deferred debt account release authority"
+    },
+    {
+      "type": "paragraph",
+      "text": "When an individual has a Division 293 tax debt associated with contributions made to a defined benefit account, the debt is deferred until they take their end benefit from their defined benefit account. It can be pre-paid by the individual before that time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once the individual has requested their end benefit we will issue a debt account discharge liability. The individual can elect to release an amount from their fund within 120 days of the issue date to pay the debt. A release authority for payment of the debt account discharge liability can only be provided and actioned by the fund that the individual has the defined benefit account with. A defined benefit fund may comply with this version of the release authority. The super fund must pay us directly."
+    },
+    {
+      "type": "paragraph",
+      "text": "When your fund releases an amount to us, we will allocate the amount to your member's deferred debt account held by us."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "First Home Super Saver scheme release authority"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your SMSF will receive a First Home Super Saver (FHSS) scheme release authority when one of your members successfully requests us to issue one under the scheme."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount released by your fund must be paid directly to us."
+    },
+    {
+      "type": "paragraph",
+      "text": "When your fund releases an amount to us, we:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "withhold the appropriate amount of tax",
+        "may offset the balance against any outstanding tax or other Australian Government debts",
+        "pay any remaining amount to your member."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tax treatment of release authorities"
+    },
+    {
+      "type": "paragraph",
+      "text": "The payment of a release authority is a super benefit. The amount paid is to be treated as a non-assessable, non-exempt benefit payment to your member."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your SMSF is not required to work out any tax-free or taxable components when the benefit is paid."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cashing order for benefits paid to meet a release authority is:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "unrestricted non-preserved benefits",
+        "restricted non-preserved benefits",
+        "preserved benefits."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information about these types of benefits, see Paying SMSF benefits ."
+    }
+  ],
+  "content_text": "## What is a release authority?\nA release authority is a document we give to a superannuation fund to authorise the release of a member's super.\nYou may receive a release authority if a member has requested to have some of their super released early from their SMSF where the member has:\n- excess concessional contributions\n- excess non-concessional contributions\n- excess non-concessional contributions tax\n- Division 293 due and payable\n- Division 293 deferred debt account\n- requested release under the First Home Super Saver (FHSS) scheme.\nWhen an SMSF receives a valid release authority, it is authorised to release the amount from the member’s super account based on the instructions of the specific release authority .\nA contravention will occur if you release this money before your member lodges an election form and your SMSF receives a release authority.\nDepending on the type of release authority, this amount is either paid:\n- to us, and we then pay it to the member\n- directly to the member.\nThe release authority includes a release authority statement and instructions for completing it. As trustee, you must provide this information to us to confirm that you have released the member's money in accordance with the release authority.\n## Penalties for not meeting release authority obligations\nYou may incur a non-compliance penalty up to a maximum of 20 penalty units if you:\n- do not pay the required amount to us within 10 business days of receiving a valid release authority\n- do not return the release authority statement (RAS) to us within 10 business days and\n- release an amount that is not the lowest amount of the amount stated in the release authority maximum available release amounts for the super interest held by the super fund.\n## Notification of a release authority\nHow you receive release authorities will depend on whether your SMSF has an electronic service address (ESA).\nIf your SMSF:\n- has an ESA, we will send the release authority to your ESA and your fund will receive a notification either from your SMSF messaging provider or your fund administrator\n- does not have an ESA, we will send a release authority letter and a release authority statement form, which as trustee you will need to complete.\nThe due date of the release authority will depend on the type of release authority .\n## Responding to a release authority\nBefore responding to a release authority, see tax treatment of release authorities .\n### Step 1: Send us the release authority statement\nHow you respond to a release authority will depend on how we issued it to you. If the release authority was issued:\n- to your ESA, you must send us the release authority statement (RAS) through your software, SMSF messaging provider or fund administrator\n- by paper, you must action the release authority and return the paper RAS to us.\nYour RAS should advise:\n- the amount to be released to us\n- for partial releases, whether any super benefits remain in the account\n- where the amount released is less than the authority, why the full amount could not be released.\nAfter you action a release authority and send a RAS using your software, you will either be:\n- provided with a payment reference number (PRN) by your software, SMSF administrator or messaging provider\n- advised to generate your own PRN.\nYou will need to include this PRN when paying the release amount. Make sure it matches the one provided in the data message.\nIf you received a paper release authority, your PRN will be included on the payment slip of the form.\nIf you are unable to action the release authority, send us either:\n- a release authority error message through your ESA, or\n- the completed paper RAS.\n### Step 2: Make the payment\nYou will need to electronically pay the lesser of either:\n- the amount stated in the release authority\n- the total amount of the super that could be paid at that time.\nThe release authority you receive will include the bank account you need to make the payment to.\nRemember to include the PRN when making the payment. If you receive multiple release authorities, do not send one bulk payment. The amount you advise is being paid in the RAS must match the amount paid and the corresponding PRN.\n## Types of release authorities\nThere are several types of release authorities that we might send you, including:\n- excess concessional contributions\n- excess non-concessional contributions\n- excess non-concessional contributions tax\n- Division 293 tax – due and payable\n- Division 293 tax – deferred debt\n- First Home Super Saver scheme .\n### Excess concessional contributions release authority\nYour SMSF will receive an excess concessional contributions release authority when a member:\n- exceeds their concessional contributions cap in 2013–14 and later financial years, and\n- elects to release up to 85% of the excess concessional contributions.\nThe full amount of excess contributions will be included in your member's assessable income. It will be assessed at the individual's marginal rate of tax and a 15% tax offset will be applied.\nAmounts of excess concessional contributions that are not released will be treated as non-concessional contributions.\nThe released amount must be paid directly to us and is to be treated as a non-assessable, non-exempt benefit payment to your member.\nWhen your fund releases an amount to us, we will:\n- offset the balance against any outstanding tax or other Australian Government debts\n- pay the remaining amount to your member.\n### Excess non-concessional contributions release authority\nYour SMSF will receive an excess non-concessional contributions release authority when a member exceeds their non-concessional contributions cap and has:\n- elected to release the excess non-concessional contributions and 85% of associated earnings from that fund, or\n- not made such an election after 60 days and we initiate the process on their behalf.\nThe released amount must be paid directly to us and is to be treated as a non-assessable, non-exempt benefit payment to your member.\nWhen your fund releases the amount to us, it will be offset against any outstanding tax or other Australian Government debts before any remaining balance is refunded to your member.\nYou don’t need to amend the contributions report you provided for this member in your SMSF annual return for 2017–18 and earlier financial years. Releasing this benefit doesn’t change the contributions that led to the excess.\n### Excess non-concessional contributions tax release authority\nYour SMSF will receive this release authority if your member elects to have their excess non-concessional contributions assessed as excess non-concessional contributions tax in order to pay their tax liability.\nWhen your fund releases an amount to us, we will:\n- offset the balance against any outstanding tax or other Australian Government debts\n- pay the remaining amount to your member.\n### Division 293 tax – due and payable release authority\nWhen an individual has a Division 293 tax due and payable debt associated with contributions made to accumulation super accounts, the debt must be paid within 21 days of receiving the notice of assessment.\nThe individual can elect to release an amount from their fund within 60 days of the issue date to pay the debt. We will issue a release authority to their nominated fund. If your SMSF receives a release authority, you must pay us directly.\nWhen your fund releases an amount to us, we:\n- offset the balance against any outstanding tax or other Australian Government debts\n- pay the remaining amount to the member.\n### Division 293 tax – deferred debt account release authority\nWhen an individual has a Division 293 tax debt associated with contributions made to a defined benefit account, the debt is deferred until they take their end benefit from their defined benefit account. It can be pre-paid by the individual before that time.\nOnce the individual has requested their end benefit we will issue a debt account discharge liability. The individual can elect to release an amount from their fund within 120 days of the issue date to pay the debt. A release authority for payment of the debt account discharge liability can only be provided and actioned by the fund that the individual has the defined benefit account with. A defined benefit fund may comply with this version of the release authority. The super fund must pay us directly.\nWhen your fund releases an amount to us, we will allocate the amount to your member's deferred debt account held by us.\n### First Home Super Saver scheme release authority\nYour SMSF will receive a First Home Super Saver (FHSS) scheme release authority when one of your members successfully requests us to issue one under the scheme.\nThe amount released by your fund must be paid directly to us.\nWhen your fund releases an amount to us, we:\n- withhold the appropriate amount of tax\n- may offset the balance against any outstanding tax or other Australian Government debts\n- pay any remaining amount to your member.\n## Tax treatment of release authorities\nThe payment of a release authority is a super benefit. The amount paid is to be treated as a non-assessable, non-exempt benefit payment to your member.\nYour SMSF is not required to work out any tax-free or taxable components when the benefit is paid.\nThe cashing order for benefits paid to meet a release authority is:\n- unrestricted non-preserved benefits\n- restricted non-preserved benefits\n- preserved benefits.\nFor more information about these types of benefits, see Paying SMSF benefits .",
+  "child_links": [],
+  "word_count": 1596,
+  "source_title": "",
+  "source_description": "",
+  "category": "super-for-individuals-and-families"
+}

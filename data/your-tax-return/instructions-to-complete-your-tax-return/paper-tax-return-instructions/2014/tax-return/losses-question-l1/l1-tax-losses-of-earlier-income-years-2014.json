@@ -1,0 +1,539 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2014/tax-return/losses-question-l1/l1-tax-losses-of-earlier-income-years-2014",
+  "title": "L1 Tax losses of earlier income years 2014",
+  "description": "Complete question L1 if you have a tax loss from an earlier year that you may be able to claim a deduction this year.",
+  "nat_number": "71050",
+  "quick_code": "40111",
+  "date_updated": "2014-06-30T14:00:00Z",
+  "first_published": "",
+  "keywords": "Losses, TaxPack, TaxPack, total losses, earlier income years, loss, losses,",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about tax losses from earlier income years for which you may be able to claim a deduction in 2013–14."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Did you have any of these losses?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to Taxable income or loss , or return to main menu Individual tax return instructions ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show at this item:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "capital losses; go to question 18 Capital gains",
+        "expenses and losses in relation to earning foreign source income; go to question 20 Foreign source income and foreign assets or property",
+        "deferred non-commercial business losses from a prior year for partnership activities; go to question 13 Partnerships and trusts for sole trader activities; go to question P8 in Business and professional items 2014 (NAT 2543)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete this item if you have a tax loss from an earlier income year which you have not claimed as a deduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may have a tax loss at item L1 this year which you may be able to claim as a deduction. You have to complete this item whether or not you are able to claim a deduction for the loss this year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you became bankrupt before 1 July 2013, or were released from debts under an arrangement entered into under the bankruptcy laws before 1 July 2013, you generally cannot claim a deduction for tax losses incurred before you became bankrupt or were released from the debts."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have tax losses from more than one earlier income year you should generally deduct the earliest losses first."
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete this item on your tax return you will need records of your tax losses from earlier income years."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of tax losses from earlier years that you write at Q and R item L1 is the amount of tax losses you carried forward from 2012–13 less the amount of your net exempt income for 2013–14."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to separate your losses into primary production losses and non-primary production losses. Primary production activities are described in Information for primary producers 2014 (NAT 1712)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A - Losses carried forward from earlier income years"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use worksheet 1 to work out what to write at Q and R item L1 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write at (a) in worksheet 1 the total amount of tax losses you have available from earlier years. Do not include non-primary production losses from 1988–89 or earlier years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Separate the amount at (a) into your losses from primary production and from non-primary production. Write the amounts at (b) and (c) respectively."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write at (d) the total of your exempt income for 2013–14, if any (see Amounts that you do not pay tax on to find out what amounts are exempt income)."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write at (e) the total expenses (other than capital expenses) incurred in earning your exempt income. This amount should also include any foreign tax payable on your exempt income."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take (e) away from (d) and write the answer at (f). If (e) is more than (d), write 0 at (f)."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "If (f) is more than (a), you do not have any losses you can claim at this item. Leave item L1 blank and go to Taxable income or loss . Otherwise, take (f) away from (a) and write the answer at (g)."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 6"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If you have an amount at (b) but not at (c), take (f) away from (b) and write the answer at (h).",
+        "If you have an amount at (c) but not at (b), take (f) away from (c) and write the answer at (i).",
+        "If you have amounts at both (b) and (c), you choose how much of (f) to take from each of (b) and (c)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot have a negative amount at (h) or (i), and the total of (h) and (i) must equal (g)."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 1"
+        ],
+        [
+          "",
+          "Total losses",
+          "Primary production losses",
+          "Non-primary production losses",
+          ""
+        ],
+        [
+          "Total tax losses from earlier years",
+          "$",
+          "",
+          "",
+          "(a)"
+        ],
+        [
+          "Primary production losses from earlier years",
+          "",
+          "$",
+          "",
+          "(b)"
+        ],
+        [
+          "Non-primary production losses from earlier years",
+          "",
+          "",
+          "$",
+          "(c)"
+        ],
+        [
+          "Exempt income for 2013–14",
+          "$",
+          "",
+          "",
+          "(d)"
+        ],
+        [
+          "Expenses relating to your exempt income",
+          "$",
+          "",
+          "",
+          "(e)"
+        ],
+        [
+          "Net exempt income for this year Take (e) away from (d).",
+          "$",
+          "",
+          "",
+          "(f)"
+        ],
+        [
+          "Total prior year losses available for use this year Take (f) away from (a).",
+          "$",
+          "",
+          "",
+          "(g)"
+        ],
+        [
+          "Primary production losses available for use Take (f) away from (b).",
+          "",
+          "$",
+          "",
+          "(h)"
+        ],
+        [
+          "Non-primary production losses available for use Take (f) away from (c).",
+          "",
+          "",
+          "$",
+          "(i)"
+        ],
+        [
+          "You cannot have a negative amount at (h) or (i). The total of (h) and (i) must equal (g)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at (h) to Q item L1 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 8"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at (i) to R item L1 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 9"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at SUBTOTAL on page 4 of your tax return is a loss, go to step 19 . Otherwise, read on."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B - Losses claimed in this income year"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following steps will help you work out what to write at F and Z at item L1 if the amount at SUBTOTAL is not a loss."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 10"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at SUBTOTAL is more than or equal to the amount at (g) in worksheet 1, go to step 17 . Otherwise, read on."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 11"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at SUBTOTAL is more than or equal to the amount at Q item L1 , go to step 14 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otherwise, transfer the amount at SUBTOTAL to F item L1 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 12"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take the amount at F away from the amount at Q item L1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The answer is the amount of primary production losses you carry forward to 2014–15. Keep a record of it for next year."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 13"
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at R item L1 is the amount of non-primary production losses you carry forward to 2014–15. Keep a record of it for next year."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have now finished this question. Go to Taxable income or loss ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 14"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at Q item L1 to F item L1 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 15"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take the amount at F item L1 away from the amount at SUBTOTAL . Write the answer at Z item L1 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 16"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take the amount at Z item L1 away from the amount at R item L1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The answer is the amount of non-primary production losses you carry forward to 2014–15. Keep a record of it for next year."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have no primary production losses to carry forward to 2014–15."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have finished this question. Go to Taxable income or loss ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 17"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount you wrote at Q item L1 to F item L1 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 18"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount you wrote at R item L1 to Z item L1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have no primary production losses or non-primary production losses to carry forward to 2014–15. You have finished this question. Go to Taxable income or loss ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part C - If the amount at SUBTOTAL is a loss"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 19"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount you wrote at SUBTOTAL is a loss leave F and Z at item L1 blank."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 20"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use worksheet 2 to work out the primary production losses you carry forward to 2014–15 and the non-primary production losses you carry forward to 2014–15."
+    },
+    {
+      "type": "paragraph",
+      "text": "Make sure you show any losses as negative amounts in worksheet 2 . Amounts you write at (t), (u), (v) and (w) may be losses. If so, show them as negative amounts."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Worksheet 2"
+        ],
+        [
+          "Amount from SUBTOTAL This amount is a loss, show it as a negative amount.",
+          "-$",
+          "(p)"
+        ],
+        [
+          "Amount from item D9 on page 4 of your tax return",
+          "$",
+          "(q)"
+        ],
+        [
+          "Amount from item D12 on page 15 of your tax return",
+          "$",
+          "(r)"
+        ],
+        [
+          "Add (q) and (r).",
+          "$",
+          "(s)"
+        ],
+        [
+          "Add (s) which is either zero or positive to (p) which is negative. If (t) is positive, go to step 23.",
+          "$",
+          "(t)"
+        ],
+        [
+          "Amount from Net primary production distribution item 13 on page 13 your tax return",
+          "$",
+          "(u)"
+        ],
+        [
+          "Amount from B item 15 on page 14 of your tax return",
+          "$",
+          "(v)"
+        ],
+        [
+          "Add (u) and (v).",
+          "$",
+          "(w)"
+        ],
+        [
+          "If (w) is a loss and is the same or a greater loss than (t), write the amount from (t) at (x). If (w) is a loss and is a smaller loss than (t), write the amount from (w) at (x). Otherwise, write 0 at (x).",
+          "$",
+          "(x)"
+        ],
+        [
+          "If (w) is a loss and is the same or a greater loss than (t) write 0 at (y). If (w) is a loss and is a smaller loss than (t), take (w) away from (t) and write the answer at (y). If (w) is not a loss, write the amount from (t) at (y).",
+          "$",
+          "(y)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 21"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at (x) is zero, then the amount at Q item L1 is the amount of primary production losses you carry forward to 2014–15. Keep a record of it for next year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at (x) is not zero, then add the amount at (x) to the amount at Q item L1 . When adding these two amounts ignore the fact that they are both negative amounts. The answer is the amount of primary production losses you carry forward to 2014–15. Keep a record of it for next year."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 22"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at (y) is zero, then the amount at R item L1 is the amount of non-primary production losses you carry forward to 2014–15. Keep a record of it for next year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at (y) is not zero, then add the amount at (y) to the amount at R item L1 . When adding these two amounts ignore the fact that they are both negative amounts. The answer is the amount of non-primary production losses you carry forward to 2014–15. Keep a record of it for next year."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have finished this question. Go to Taxable income or loss ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 23"
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at Q is your primary production losses you carry forward to 2014–15."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at R is your non-primary production losses you carry forward to 2014–15."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep a record of them for next year."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to Taxable income or loss .",
+        "Return to main menu Individual tax return instructions .",
+        "Go back to Subtotal ."
+      ]
+    }
+  ],
+  "content_text": "This question is about tax losses from earlier income years for which you may be able to claim a deduction in 2013–14.\n## Did you have any of these losses?\nNo | Go to Taxable income or loss , or return to main menu Individual tax return instructions .\nYes | Read on.\nDo not show at this item:\n- capital losses; go to question 18 Capital gains\n- expenses and losses in relation to earning foreign source income; go to question 20 Foreign source income and foreign assets or property\n- deferred non-commercial business losses from a prior year for partnership activities; go to question 13 Partnerships and trusts for sole trader activities; go to question P8 in Business and professional items 2014 (NAT 2543).\n## Answering this question\nComplete this item if you have a tax loss from an earlier income year which you have not claimed as a deduction\nYou may have a tax loss at item L1 this year which you may be able to claim as a deduction. You have to complete this item whether or not you are able to claim a deduction for the loss this year.\nIf you became bankrupt before 1 July 2013, or were released from debts under an arrangement entered into under the bankruptcy laws before 1 July 2013, you generally cannot claim a deduction for tax losses incurred before you became bankrupt or were released from the debts.\nIf you have tax losses from more than one earlier income year you should generally deduct the earliest losses first.\nTo complete this item on your tax return you will need records of your tax losses from earlier income years.\n## Completing your tax return\nThe amount of tax losses from earlier years that you write at Q and R item L1 is the amount of tax losses you carried forward from 2012–13 less the amount of your net exempt income for 2013–14.\nYou need to separate your losses into primary production losses and non-primary production losses. Primary production activities are described in Information for primary producers 2014 (NAT 1712).\n### Part A - Losses carried forward from earlier income years\nUse worksheet 1 to work out what to write at Q and R item L1 .\n#### Step 1\nWrite at (a) in worksheet 1 the total amount of tax losses you have available from earlier years. Do not include non-primary production losses from 1988–89 or earlier years.\nSeparate the amount at (a) into your losses from primary production and from non-primary production. Write the amounts at (b) and (c) respectively.\n#### Step 2\nWrite at (d) the total of your exempt income for 2013–14, if any (see Amounts that you do not pay tax on to find out what amounts are exempt income).\n#### Step 3\nWrite at (e) the total expenses (other than capital expenses) incurred in earning your exempt income. This amount should also include any foreign tax payable on your exempt income.\n#### Step 4\nTake (e) away from (d) and write the answer at (f). If (e) is more than (d), write 0 at (f).\n#### Step 5\nIf (f) is more than (a), you do not have any losses you can claim at this item. Leave item L1 blank and go to Taxable income or loss . Otherwise, take (f) away from (a) and write the answer at (g).\n#### Step 6\n- If you have an amount at (b) but not at (c), take (f) away from (b) and write the answer at (h).\n- If you have an amount at (c) but not at (b), take (f) away from (c) and write the answer at (i).\n- If you have amounts at both (b) and (c), you choose how much of (f) to take from each of (b) and (c).\nYou cannot have a negative amount at (h) or (i), and the total of (h) and (i) must equal (g).\nWorksheet 1\n | Total losses | Primary production losses | Non-primary production losses | \nTotal tax losses from earlier years | $ |  |  | (a)\nPrimary production losses from earlier years |  | $ |  | (b)\nNon-primary production losses from earlier years |  |  | $ | (c)\nExempt income for 2013–14 | $ |  |  | (d)\nExpenses relating to your exempt income | $ |  |  | (e)\nNet exempt income for this year Take (e) away from (d). | $ |  |  | (f)\nTotal prior year losses available for use this year Take (f) away from (a). | $ |  |  | (g)\nPrimary production losses available for use Take (f) away from (b). |  | $ |  | (h)\nNon-primary production losses available for use Take (f) away from (c). |  |  | $ | (i)\nYou cannot have a negative amount at (h) or (i). The total of (h) and (i) must equal (g).\n#### Step 7\nTransfer the amount at (h) to Q item L1 .\n#### Step 8\nTransfer the amount at (i) to R item L1 .\n#### Step 9\nIf the amount at SUBTOTAL on page 4 of your tax return is a loss, go to step 19 . Otherwise, read on.\n### Part B - Losses claimed in this income year\nThe following steps will help you work out what to write at F and Z at item L1 if the amount at SUBTOTAL is not a loss.\n#### Step 10\nIf the amount at SUBTOTAL is more than or equal to the amount at (g) in worksheet 1, go to step 17 . Otherwise, read on.\n#### Step 11\nIf the amount at SUBTOTAL is more than or equal to the amount at Q item L1 , go to step 14 .\nOtherwise, transfer the amount at SUBTOTAL to F item L1 .\n#### Step 12\nTake the amount at F away from the amount at Q item L1 .\nThe answer is the amount of primary production losses you carry forward to 2014–15. Keep a record of it for next year.\n#### Step 13\nThe amount at R item L1 is the amount of non-primary production losses you carry forward to 2014–15. Keep a record of it for next year.\nYou have now finished this question. Go to Taxable income or loss .\n#### Step 14\nTransfer the amount at Q item L1 to F item L1 .\n#### Step 15\nTake the amount at F item L1 away from the amount at SUBTOTAL . Write the answer at Z item L1 .\n#### Step 16\nTake the amount at Z item L1 away from the amount at R item L1 .\nThe answer is the amount of non-primary production losses you carry forward to 2014–15. Keep a record of it for next year.\nYou have no primary production losses to carry forward to 2014–15.\nYou have finished this question. Go to Taxable income or loss .\n#### Step 17\nTransfer the amount you wrote at Q item L1 to F item L1 .\n#### Step 18\nTransfer the amount you wrote at R item L1 to Z item L1 .\nYou have no primary production losses or non-primary production losses to carry forward to 2014–15. You have finished this question. Go to Taxable income or loss .\n### Part C - If the amount at SUBTOTAL is a loss\n#### Step 19\nIf the amount you wrote at SUBTOTAL is a loss leave F and Z at item L1 blank.\n#### Step 20\nUse worksheet 2 to work out the primary production losses you carry forward to 2014–15 and the non-primary production losses you carry forward to 2014–15.\nMake sure you show any losses as negative amounts in worksheet 2 . Amounts you write at (t), (u), (v) and (w) may be losses. If so, show them as negative amounts.\nWorksheet 2\nAmount from SUBTOTAL This amount is a loss, show it as a negative amount. | -$ | (p)\nAmount from item D9 on page 4 of your tax return | $ | (q)\nAmount from item D12 on page 15 of your tax return | $ | (r)\nAdd (q) and (r). | $ | (s)\nAdd (s) which is either zero or positive to (p) which is negative. If (t) is positive, go to step 23. | $ | (t)\nAmount from Net primary production distribution item 13 on page 13 your tax return | $ | (u)\nAmount from B item 15 on page 14 of your tax return | $ | (v)\nAdd (u) and (v). | $ | (w)\nIf (w) is a loss and is the same or a greater loss than (t), write the amount from (t) at (x). If (w) is a loss and is a smaller loss than (t), write the amount from (w) at (x). Otherwise, write 0 at (x). | $ | (x)\nIf (w) is a loss and is the same or a greater loss than (t) write 0 at (y). If (w) is a loss and is a smaller loss than (t), take (w) away from (t) and write the answer at (y). If (w) is not a loss, write the amount from (t) at (y). | $ | (y)\n#### Step 21\nIf the amount at (x) is zero, then the amount at Q item L1 is the amount of primary production losses you carry forward to 2014–15. Keep a record of it for next year.\nIf the amount at (x) is not zero, then add the amount at (x) to the amount at Q item L1 . When adding these two amounts ignore the fact that they are both negative amounts. The answer is the amount of primary production losses you carry forward to 2014–15. Keep a record of it for next year.\n#### Step 22\nIf the amount at (y) is zero, then the amount at R item L1 is the amount of non-primary production losses you carry forward to 2014–15. Keep a record of it for next year.\nIf the amount at (y) is not zero, then add the amount at (y) to the amount at R item L1 . When adding these two amounts ignore the fact that they are both negative amounts. The answer is the amount of non-primary production losses you carry forward to 2014–15. Keep a record of it for next year.\nYou have finished this question. Go to Taxable income or loss .\n#### Step 23\nThe amount at Q is your primary production losses you carry forward to 2014–15.\nThe amount at R is your non-primary production losses you carry forward to 2014–15.\nKeep a record of them for next year.\n#### Where to go next\n- Go to Taxable income or loss .\n- Return to main menu Individual tax return instructions .\n- Go back to Subtotal .",
+  "child_links": [],
+  "word_count": 1819,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

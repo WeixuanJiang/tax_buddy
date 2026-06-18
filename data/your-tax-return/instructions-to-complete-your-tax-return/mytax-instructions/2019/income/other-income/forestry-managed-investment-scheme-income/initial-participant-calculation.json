@@ -1,0 +1,102 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/income/other-income/forestry-managed-investment-scheme-income/initial-participant-calculation",
+  "title": "Initial participant calculation",
+  "description": "How to calculate income from a forestry managed investment scheme - initial participant.",
+  "nat_number": "",
+  "quick_code": "80261",
+  "date_updated": "2019-06-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Did you receive thinning proceeds from your forestry interest?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "No − Go to step 2."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes − Include the actual amount you received at row d in Worksheet 2 . Go to step 2."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Did you receive sale and harvest receipts from a forestry interest you no longer hold?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "No − Go to step 3."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes − Include the market value of the forestry interest at the time of the CGT event at row e in Worksheet 2 if the following applies:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a CGT event happened and you no longer held your forestry interest as a result of the CGT event (for example, because you had sold the interest to another person, or you had received harvest proceeds), and",
+        "you claimed a deduction, or can claim a deduction, or would be entitled to claim a deduction by for a CGT event happening within four years after the end of the income year in which you first pay an amount under the FMIS."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "No − Go to step 4."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes − Include the amount by which the market value of your forestry interest was reduced at row f in Worksheet 2 if the following applies:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a CGT event happened and you still held your forestry interest (for example, because you have sold part of your interest or there was a partial harvest), and",
+        "you claimed a deduction, or can claim a deduction, or would be entitled to claim a deduction but for a CGT event happening within four years after the end of the income year in which you first pay an amount under the FMIS."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Description",
+          "Amount"
+        ],
+        [
+          "d",
+          "Thinning proceeds (from Step 1)",
+          "$"
+        ],
+        [
+          "e",
+          "Sale and harvest receipts from a forestry interest you no longer hold (from Step 2)",
+          "$"
+        ],
+        [
+          "f",
+          "Sale and harvest receipts from a forestry interest you still held (from Step 3)",
+          "$"
+        ],
+        [
+          "g",
+          "Add row d and row e and row f",
+          "$"
+        ]
+      ]
+    }
+  ],
+  "content_text": "- Did you receive thinning proceeds from your forestry interest?\nNo − Go to step 2.\nYes − Include the actual amount you received at row d in Worksheet 2 . Go to step 2.\n- Did you receive sale and harvest receipts from a forestry interest you no longer hold?\nNo − Go to step 3.\nYes − Include the market value of the forestry interest at the time of the CGT event at row e in Worksheet 2 if the following applies:\n- a CGT event happened and you no longer held your forestry interest as a result of the CGT event (for example, because you had sold the interest to another person, or you had received harvest proceeds), and\n- you claimed a deduction, or can claim a deduction, or would be entitled to claim a deduction by for a CGT event happening within four years after the end of the income year in which you first pay an amount under the FMIS.\nNo − Go to step 4.\nYes − Include the amount by which the market value of your forestry interest was reduced at row f in Worksheet 2 if the following applies:\n- a CGT event happened and you still held your forestry interest (for example, because you have sold part of your interest or there was a partial harvest), and\n- you claimed a deduction, or can claim a deduction, or would be entitled to claim a deduction but for a CGT event happening within four years after the end of the income year in which you first pay an amount under the FMIS.\nRow | Description | Amount\nd | Thinning proceeds (from Step 1) | $\ne | Sale and harvest receipts from a forestry interest you no longer hold (from Step 2) | $\nf | Sale and harvest receipts from a forestry interest you still held (from Step 3) | $\ng | Add row d and row e and row f | $",
+  "child_links": [],
+  "word_count": 335,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

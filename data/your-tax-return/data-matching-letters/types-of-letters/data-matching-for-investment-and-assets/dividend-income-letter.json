@@ -1,0 +1,245 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/data-matching-letters/types-of-letters/data-matching-for-investment-and-assets/dividend-income-letter",
+  "title": "Dividend income letter",
+  "description": "What to do if you get a data matching letter about dividend income.",
+  "nat_number": "",
+  "quick_code": "41705",
+  "date_updated": "2024-01-07T14:00:00Z",
+  "first_published": "",
+  "keywords": "data matching, data-matching, discrepancy, letter, schedule, types, declare income",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Receiving your letter"
+    },
+    {
+      "type": "paragraph",
+      "text": "We may send you a letter about dividend income you declared in your tax return if it doesn't match the dividend amount a company reports it paid to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "The letter will include a dividend income summary that compares the details you declared in your tax return with the information the company reported to us."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a myGov account linked to us , we’ll send the letter to your myGov Inbox titled Have you included all information in your income tax return? ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don’t have a myGov account, we’ll send the letter to the most recent postal address we have for you."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to do"
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to review the income summary and compare the information with your records. You can then determine if you agree or disagree with the amended details."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have a question, phone us on 1300 768 912 and select option 3 between 8:00 am and 6:00 pm, Monday to Friday:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "quoting the reference number found at the top right of your letter",
+        "using the words 'data matching'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you report your dividend income in another entity's tax return (for example, a partnership, trust, company or superannuation fund), you need to advise us of the tax file number (TFN) and dividend amounts shown on that tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "You should ask the company to record that TFN on its register. This will help match the dividends to the correct tax return in future."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Dividend income summary – sample"
+    },
+    {
+      "type": "paragraph",
+      "text": "Below is a sample dividend income summary. Keep in mind your summary will show the relevant information from your tax return compared with information we hold and may not look exactly like this one. Use the definitions to help you understand your summary."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Sample: Dividend income summary for the year ended 30 June <CCYY>"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Dividends",
+          "Amount",
+          "Credit/offset",
+          "Amount"
+        ],
+        [
+          "Amount reported to us by a third party",
+          "$3,654",
+          "Credit reported",
+          "$592"
+        ],
+        [
+          "Amount included in your return",
+          "$1,000",
+          "Credit declared",
+          "$892"
+        ],
+        [
+          "Difference",
+          "$2,654",
+          "-",
+          "$300"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Source of income",
+          "Account number",
+          "Income",
+          "Credit"
+        ],
+        [
+          "Investment Company Pty Ltd",
+          "9999999",
+          "$2,654",
+          "$317"
+        ],
+        [
+          "Top Trading Pty Ltd",
+          "88888",
+          "$1,000",
+          "$275"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The /I at the end of the account number represents an individual account.",
+        "The /J at the end of the account number represents a joint account, and this is your share."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Summary definitions"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following definitions will help you understand your schedule:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Amount included in your return – the dividend income and credit reported that you declared in your tax return.",
+        "Amount reported to us by a third party – the total of dividend amounts reported to us, as detailed in the 'source of income section' of the summary.",
+        "Credit – the franking credit amount reported to us.",
+        "Credit declared – the credit amount you declared in your tax return.",
+        "Credit reported – the credit amount reported to us by companies. This is also called a franking credit.",
+        "Difference – the difference between what is reported to us by the third-party payer and what you declared in your tax return.",
+        "Income – the dividend amount reported to us.",
+        "Source of income – a list of each source of dividend income, as reported to us."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you agree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you agree with our information, you don’t need to do anything. We’ll send you an amended notice of assessment 28 days after the date shown on your letter. If you have a myGov account linked to ATO online services, we’ll send your amended notice to your myGov inbox."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "If you disagree"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with the details reported, you need to let us know before the due date noted in your letter. You can contact us by either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "mail to Australian Taxation Office PO Box 3543 ALBURY NSW 2640",
+        "phoning 1300 768 912 and selecting option 3 between 8:00 am and 6:00 pm, Monday to Friday",
+        "emailing us at datamatchingteam@ato.gov.au"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The internet isn't a secure environment and we don't control the path of inbound and outbound emails. If you choose to email us, we can't guarantee the privacy of your personal information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "quote the reference number found at the top right of your letter",
+        "use the words 'data matching'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Once we’ve assessed your response, you’ll receive an amended notice of assessment. The case officer reviewing your supporting documents may contact you if we need additional information."
+    },
+    {
+      "type": "paragraph",
+      "text": "If we don't receive a response from you within 28 days of your letter's date of issue, we’ll automatically amend your tax return using the information we have. You’ll then receive an amended notice of assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Supporting documents"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you disagree with information in our letter about your dividend income, we may ask you to provide these supporting documents:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "dividend statements",
+        "statements showing the income has been declared in an associated tax return – for example, a partnership, trust, company or superannuation fund tax return."
+      ]
+    }
+  ],
+  "content_text": "## Receiving your letter\nWe may send you a letter about dividend income you declared in your tax return if it doesn't match the dividend amount a company reports it paid to you.\nThe letter will include a dividend income summary that compares the details you declared in your tax return with the information the company reported to us.\nIf you have a myGov account linked to us , we’ll send the letter to your myGov Inbox titled Have you included all information in your income tax return? .\nIf you don’t have a myGov account, we’ll send the letter to the most recent postal address we have for you.\n## What to do\nYou need to review the income summary and compare the information with your records. You can then determine if you agree or disagree with the amended details.\nIf you have a question, phone us on 1300 768 912 and select option 3 between 8:00 am and 6:00 pm, Monday to Friday:\n- quoting the reference number found at the top right of your letter\n- using the words 'data matching'.\nIf you report your dividend income in another entity's tax return (for example, a partnership, trust, company or superannuation fund), you need to advise us of the tax file number (TFN) and dividend amounts shown on that tax return.\nYou should ask the company to record that TFN on its register. This will help match the dividends to the correct tax return in future.\n### Dividend income summary – sample\nBelow is a sample dividend income summary. Keep in mind your summary will show the relevant information from your tax return compared with information we hold and may not look exactly like this one. Use the definitions to help you understand your summary.\n#### Sample: Dividend income summary for the year ended 30 June <CCYY>\nDividends | Amount | Credit/offset | Amount\nAmount reported to us by a third party | $3,654 | Credit reported | $592\nAmount included in your return | $1,000 | Credit declared | $892\nDifference | $2,654 | - | $300\nSource of income | Account number | Income | Credit\nInvestment Company Pty Ltd | 9999999 | $2,654 | $317\nTop Trading Pty Ltd | 88888 | $1,000 | $275\nNote:\n- The /I at the end of the account number represents an individual account.\n- The /J at the end of the account number represents a joint account, and this is your share.\n#### Summary definitions\nThe following definitions will help you understand your schedule:\n- Amount included in your return – the dividend income and credit reported that you declared in your tax return.\n- Amount reported to us by a third party – the total of dividend amounts reported to us, as detailed in the 'source of income section' of the summary.\n- Credit – the franking credit amount reported to us.\n- Credit declared – the credit amount you declared in your tax return.\n- Credit reported – the credit amount reported to us by companies. This is also called a franking credit.\n- Difference – the difference between what is reported to us by the third-party payer and what you declared in your tax return.\n- Income – the dividend amount reported to us.\n- Source of income – a list of each source of dividend income, as reported to us.\n### If you agree\nIf you agree with our information, you don’t need to do anything. We’ll send you an amended notice of assessment 28 days after the date shown on your letter. If you have a myGov account linked to ATO online services, we’ll send your amended notice to your myGov inbox.\nOnce you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date.\n### If you disagree\nIf you disagree with the details reported, you need to let us know before the due date noted in your letter. You can contact us by either:\n- mail to Australian Taxation Office PO Box 3543 ALBURY NSW 2640\n- phoning 1300 768 912 and selecting option 3 between 8:00 am and 6:00 pm, Monday to Friday\n- emailing us at datamatchingteam@ato.gov.au\nThe internet isn't a secure environment and we don't control the path of inbound and outbound emails. If you choose to email us, we can't guarantee the privacy of your personal information.\nRemember to:\n- quote the reference number found at the top right of your letter\n- use the words 'data matching'.\nOnce we’ve assessed your response, you’ll receive an amended notice of assessment. The case officer reviewing your supporting documents may contact you if we need additional information.\nIf we don't receive a response from you within 28 days of your letter's date of issue, we’ll automatically amend your tax return using the information we have. You’ll then receive an amended notice of assessment.\nOnce you receive your amended notice of assessment, you'll need to pay any amounts you owe us by the due date.\n### Supporting documents\nIf you disagree with information in our letter about your dividend income, we may ask you to provide these supporting documents:\n- dividend statements\n- statements showing the income has been declared in an associated tax return – for example, a partnership, trust, company or superannuation fund tax return.",
+  "child_links": [],
+  "word_count": 895,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

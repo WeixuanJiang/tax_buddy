@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/tax-offsets/other-tax-offsets/foreign-income-tax-offset",
+  "title": "myTax 2018 Foreign income tax offset",
+  "description": "How to claim the foreign income tax offset in your return using myTax.",
+  "nat_number": "",
+  "quick_code": "55648",
+  "date_updated": "2018-06-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "2018, foreign income, tax offset, myTax, e-tax, online tax return, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "You may be entitled to the offset if you paid foreign tax on income included in your assessable income this year or on an attribution account payment you received (usually a dividend distribution) that was paid out of previously attributed income and that payment is non-assessable non-exempt income. This includes where:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you acquired employee share scheme interests at a discount in relation to your foreign employment, and",
+        "you paid tax on the discounts in the foreign country."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The Guide to foreign income tax offset rules explains which foreign taxes count towards the offset. If you received a distribution statement from a managed fund showing that an amount of foreign tax has been paid then you can assume that the foreign tax can count towards the offset."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to read the Guide to foreign income tax offset rules if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you have paid foreign tax on an attribution account payment you received (usually a dividend distribution) that was paid out of previously attributed income and that payment is non-assessable non-exempt income, or",
+        "the amount of foreign tax you have paid relates to an amount that differs from the amount included in your assessable income. For example, where you have both capital losses and foreign capital gains, the net capital gain included in your assessable income will be less than the foreign capital gain on which you paid foreign tax."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "All foreign tax paid must be converted to Australian dollars before you enter your amounts into your tax return. You can use the Foreign income conversion calculator This link opens in a new window ."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "If the total amount of the foreign tax you paid during 2017–18: does not exceed $1,000, the amount of foreign tax you paid is automatically completed at Offset amount in the Offsets section is greater than $1,000, you need to work out and enter the foreign income tax offset amount that you are entitled to claim. To work out the amount see Guide to foreign income tax offset rules . Alternatively, you can simply enter a tax offset amount of $1,000. However, if you claim only $1,000 this year, you will not be able to claim the rest of this year's foreign tax in a future income year.",
+        "Select Save and continue when you have completed the Offsets section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: If you paid foreign tax on exempt foreign employment income and included the amount in your tax return at the Foreign employment section, your foreign income tax offset amount may be different on your notice of assessment. We may calculate your foreign income tax offset amount in this circumstance."
+    }
+  ],
+  "content_text": "You may be entitled to the offset if you paid foreign tax on income included in your assessable income this year or on an attribution account payment you received (usually a dividend distribution) that was paid out of previously attributed income and that payment is non-assessable non-exempt income. This includes where:\n- you acquired employee share scheme interests at a discount in relation to your foreign employment, and\n- you paid tax on the discounts in the foreign country.\nThe Guide to foreign income tax offset rules explains which foreign taxes count towards the offset. If you received a distribution statement from a managed fund showing that an amount of foreign tax has been paid then you can assume that the foreign tax can count towards the offset.\nYou need to read the Guide to foreign income tax offset rules if:\n- you have paid foreign tax on an attribution account payment you received (usually a dividend distribution) that was paid out of previously attributed income and that payment is non-assessable non-exempt income, or\n- the amount of foreign tax you have paid relates to an amount that differs from the amount included in your assessable income. For example, where you have both capital losses and foreign capital gains, the net capital gain included in your assessable income will be less than the foreign capital gain on which you paid foreign tax.\n## Completing this section\nAll foreign tax paid must be converted to Australian dollars before you enter your amounts into your tax return. You can use the Foreign income conversion calculator This link opens in a new window .\n- If the total amount of the foreign tax you paid during 2017–18: does not exceed $1,000, the amount of foreign tax you paid is automatically completed at Offset amount in the Offsets section is greater than $1,000, you need to work out and enter the foreign income tax offset amount that you are entitled to claim. To work out the amount see Guide to foreign income tax offset rules . Alternatively, you can simply enter a tax offset amount of $1,000. However, if you claim only $1,000 this year, you will not be able to claim the rest of this year's foreign tax in a future income year.\n- Select Save and continue when you have completed the Offsets section.\nNote: If you paid foreign tax on exempt foreign employment income and included the amount in your tax return at the Foreign employment section, your foreign income tax offset amount may be different on your notice of assessment. We may calculate your foreign income tax offset amount in this circumstance.",
+  "child_links": [],
+  "word_count": 442,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

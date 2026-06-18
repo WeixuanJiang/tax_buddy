@@ -1,0 +1,636 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/investments-and-assets/foreign-resident-investments/foreign-investment-in-australia/register-of-foreign-ownership-of-australian-assets/register-of-foreign-ownership-of-australian-assets-reports/register-of-foreign-ownership-of-australian-assets-2024-25-report/agricultural-land",
+  "title": "Agricultural land",
+  "description": "Data on foreign ownership of agricultural land as at 30 June 2025.",
+  "nat_number": "",
+  "quick_code": "106044",
+  "date_updated": "2026-03-04T13:00:00Z",
+  "first_published": "",
+  "keywords": "foreign ownership report, foreign owner, Register of Foreign Ownership of Australian Assets, foreign investment, the Register, the Register report, residential land, water interests, business interests, mining or production tenements and exploration tenements, commercial land, agricultural land",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to interpret this data"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following information outlines foreign ownership of agricultural land at 30 June 2025 as taken from the Register of Foreign Ownership of Australian Assets (the Register)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Foreign Acquisitions and Takeovers Act 1975 (FATA) defines foreign persons (which include temporary residents and entities with foreign ownership of 20% or more) and details registration requirements for those who acquire interests in specified Australian assets."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Register is a live dataset of self-registrations of foreign-owned assets, including agricultural land. Registrations of interests in agricultural land include interests registered through a stocktake in 2015, which:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "were converted from the Register of Foreign Ownership of Agricultural Land into the current Register, and",
+        "continued to be held by the foreign person at 30 June 2025."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Information contained in the Register is protected and subject to the provisions of Division 355 of Schedule 1 of the Taxation Administration Act 1953 and Division 3 of Part 7 of the FATA. As such, the complete Register is not made publicly available, and this report presents aggregated information providing a view of all registrations at a point in time. Consistent with Australia’s foreign investment framework, the details of specific registrations or investors are not made publicly available, and information which could identify, or be used to identify, an individual or entity is excluded from this report."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aggregated data, including figures for prior years, is available on data.gov.au External Link ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The definition of agricultural land under the FATA includes ‘land in Australia that is used, or that could reasonably be used, for primary production purposes’ with some minor exemptions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Registrations of agricultural land include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "freehold interests",
+        "leasehold interests, or",
+        "the right to occupy agricultural land under a lease or licence that is likely to exceed 5 years."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A foreign person may acquire the interest alone, as a tenant in common, or as a joint tenant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign persons must register their agricultural land interest within 30 days of either:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "purchasing agricultural land (settlement), or",
+        "becoming a foreign person while holding an interest in agricultural land."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We used the Australian Bureau of Statistics (ABS) 2020–2021 Agricultural Census External Link as the benchmark for calculating the foreign-owned proportion of agricultural land at 30 June 2025. Care should be taken when comparing trends in the percentage of foreign ownership of agricultural land across years."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are 2 measures of agricultural land: the Agricultural Census conducted every 5 years, and the Rural Environment and Agricultural Commodities Survey (REACS) conducted each year between the Agricultural Census."
+    },
+    {
+      "type": "paragraph",
+      "text": "In earlier reports of registrations of foreign ownership of agricultural land, the ATO used the most current measure at the time of publication. However, as part of the ABS’s Agricultural Statistics Modernisation Program, neither the Census nor REACS will be continued, and the ABS has advised the best measure to use for comparison purposes is the 2020–21 Agricultural Census. For more information, see Modernising agricultural statistics: Update on achievements and remaining data gaps External Link on the ABS website External Link ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Statistics on agricultural land in this report are presented by reference to land size. Registrants are required to enter the area of their land holding in metres squared (m 2 ), which is then converted to hectares for reporting purposes. We have converted any land holdings reported in a different unit of measurement into hectares (ha)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Due to the broad definition of agricultural land, it is possible the Register includes land not captured as part of the ABS Agricultural Census. This may have the effect of overstating the total proportion of Australian agricultural land with a level of foreign ownership."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entities whose primary business is forestry are not captured by the ABS Agricultural Census data used for comparative purposes in this report. In states or territories that have a large proportion of forestry, the proportion of agricultural land that has a level of foreign ownership is therefore likely overstated. As of 30 June 2025, land use attributed to forestry on the Register was 1.503 million hectares, representing 0.4% of the 2020–2021 Agricultural Census."
+    },
+    {
+      "type": "paragraph",
+      "text": "Care should be taken when comparing this data with Treasury’s annual and quarterly reports on foreign investment. The reports produced by Treasury contain proposed investment information. Monetary thresholds apply before proposed investment in agricultural land must be notified under the FATA, but all acquisitions of agricultural land must be registered."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Total registered interests"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 1 shows:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "data on registered interests in agricultural land over the 3 years to 30 June 2025, and",
+        "the level of foreign ownership by state and territory at 30 June 2025."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The total area of agricultural land in Australia with a level of foreign ownership increased from 49.120 million hectares at 30 June 2024 to 50.262 million hectares at 30 June 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "Using the ABS 2020–21 Agricultural Census measure of agricultural land in Australia, the overall proportion of agricultural land with a level of foreign ownership was 13.0% at 30 June 2025, compared to 12.7% at 30 June 2024."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "State or territory",
+          "Registered interest in agricultural land at 30 June 2023 ('000 ha)",
+          "Registered interest in agricultural land at 30 June 2024 ('000 ha)",
+          "Registered interest in agricultural land at 30 June 2025 ('000 ha)",
+          "Total agricultural land reported in the 2020–21 Agricultural Census ('000 ha)",
+          "Level of foreign ownership of agricultural land at 30 June 2025 (%)"
+        ],
+        [
+          "NSW/ACT",
+          "2,619",
+          "2,679",
+          "2,658",
+          "53,844",
+          "4.9"
+        ],
+        [
+          "NT",
+          "14,188",
+          "14,639",
+          "14,752",
+          "53,063",
+          "27.8"
+        ],
+        [
+          "Qld",
+          "15,272",
+          "16,029",
+          "17,067",
+          "134,842",
+          "12.7"
+        ],
+        [
+          "SA",
+          "3,163",
+          "3,217",
+          "3,216",
+          "46,181",
+          "7.0"
+        ],
+        [
+          "Tas",
+          "357",
+          "359",
+          "362",
+          "1,503",
+          "24.1"
+        ],
+        [
+          "Vic",
+          "666",
+          "675",
+          "694",
+          "11,391",
+          "6.1"
+        ],
+        [
+          "WA",
+          "11,296",
+          "11,521",
+          "11,513",
+          "86,441",
+          "13.3"
+        ],
+        [
+          "Total",
+          "47,561",
+          "49,120",
+          "50,262",
+          "387,265",
+          "13.0"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Totals may differ from the sum of components due to rounding.",
+        "In Table 1, the area of registered interests in agricultural land by Australian states and territories is compared to the 2020–21 Agricultural Census benchmark to identify the estimated proportion of agricultural land that has a level of foreign ownership. This is shown as the ‘level of foreign ownership %’ and is calculated by deriving the ratio of registered interest in agricultural land at 30 June 2025 to the amount of agricultural land in each state or territory."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Foreign and Australian share of registered interests"
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 1 shows the foreign share and Australian share of registered interests in agricultural land at 30 June each year from 2023 to 2025. As the Register records land held by foreign person entities that have a foreign ownership share of 20% or more, this means there may also be a significant portion of Australian ownership in those same parcels of land."
+    },
+    {
+      "type": "paragraph",
+      "text": "At 30 June 2025, of the 50.262 million hectares of registered interests in Australian agricultural land, 24.7% (12.432 million hectares) was indirectly held by Australian investors who have shares in entities considered foreign persons."
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 1: Foreign and Australian share of registered interests"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Registered interests by land use"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 2 shows the registered interests by land use in each state or territory at 30 June 2025."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "State or territory",
+          "Crops",
+          "Livestock",
+          "Intensive horticulture",
+          "Other farming",
+          "Forestry",
+          "Non-farming",
+          "Un-reported",
+          "Total"
+        ],
+        [
+          "NSW/ACT",
+          "785",
+          "1,543",
+          "83",
+          "76",
+          "91",
+          "70",
+          "9",
+          "2,658"
+        ],
+        [
+          "NT",
+          "398",
+          "14,287",
+          "0",
+          "38",
+          "11",
+          "18",
+          "0",
+          "14,752"
+        ],
+        [
+          "Qld",
+          "1,294",
+          "14,736",
+          "56",
+          "457",
+          "325",
+          "197",
+          "0",
+          "17,067"
+        ],
+        [
+          "SA",
+          "65",
+          "2,942",
+          "10",
+          "8",
+          "153",
+          "34",
+          "4",
+          "3,216"
+        ],
+        [
+          "Tas",
+          "7",
+          "59",
+          "2",
+          "5",
+          "283",
+          "6",
+          "1",
+          "362"
+        ],
+        [
+          "Vic",
+          "117",
+          "64",
+          "23",
+          "28",
+          "442",
+          "17",
+          "3",
+          "694"
+        ],
+        [
+          "WA",
+          "732",
+          "10,112",
+          "9",
+          "46",
+          "198",
+          "417",
+          "0",
+          "11,513"
+        ],
+        [
+          "Total",
+          "3,398",
+          "43,742",
+          "184",
+          "658",
+          "1,503",
+          "760",
+          "16",
+          "50,262"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Totals may differ from the sum of components due to rounding.",
+        "The ABS does not capture entities whose primary business activity is forestry as part of its agricultural surveys or census, however forestry land holdings are captured as part of the Register.",
+        "The non-farming category is an undefined term and requires registrants to determine the land use. Examples where this has been selected include: land zoned for mining or used as a mining buffer land used for telecommunication towers and power transmission lines land used for carbon offsets.",
+        "The registration form includes land use categories of crops, livestock, intensive horticulture, forestry, other farming, and non-farming. Where registrants did not report the land use, this is shown in the ‘Unreported’ category."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Registered interests in freehold and leasehold land"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 3 shows the registered interests in freehold and leasehold agricultural land by state and territory at 30 June 2025. The aggregated ratio of the total for freehold interest was 18.6%, and the aggregated leasehold interest was 81.4%."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "State or territory",
+          "Freehold",
+          "Leasehold",
+          "Total"
+        ],
+        [
+          "NSW/ACT",
+          "2,076",
+          "1,141",
+          "3,217"
+        ],
+        [
+          "NT",
+          "312",
+          "14,440",
+          "14,752"
+        ],
+        [
+          "Qld",
+          "5,114",
+          "13,050",
+          "18,164"
+        ],
+        [
+          "SA",
+          "200",
+          "3,019",
+          "3,218"
+        ],
+        [
+          "Tas",
+          "310",
+          "54",
+          "364"
+        ],
+        [
+          "Vic",
+          "582",
+          "131",
+          "713"
+        ],
+        [
+          "WA",
+          "1,146",
+          "10,858",
+          "12,005"
+        ],
+        [
+          "Total",
+          "9,740",
+          "42,693",
+          "52,434"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Totals may differ from the sum of components due to rounding.",
+        "In some instances, the same property has been separately registered by a foreign person with a freehold interest in the land and by another foreign person with a leasehold interest in the land, as required under the FATA. Land size information from both registrations has been included in Table 3. As a result, the total registered leasehold and freehold interests in land in this table (52.434 million hectares) is greater than the total amount of land held by foreign persons 50.262 million hectares) at 30 June 2025."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Top 20 sources of foreign investment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 4 shows the top 20 source countries of the foreign share of registered freehold and leasehold interests at 30 June 2025. This excludes the Australian share of the registered freehold and leasehold interests."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Table 4, the total foreign share of registered interests by country is compared to the 2020–21 Agricultural Census benchmark of 387.265 million hectares to identify the estimated proportion of agricultural land that can be attributed to each country."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Country",
+          "Foreign share of registered freehold interests (‘000 ha)",
+          "Foreign share of registered leasehold interests (‘000 ha)",
+          "Total foreign share of registered interests (‘000 ha)",
+          "Foreign share of total agricultural land (%)"
+        ],
+        [
+          "United Kingdom",
+          "900",
+          "6,764",
+          "7,664",
+          "2.0"
+        ],
+        [
+          "People's Republic of China",
+          "738",
+          "5,799",
+          "6,537",
+          "1.7"
+        ],
+        [
+          "Canada",
+          "827",
+          "4,101",
+          "4,928",
+          "1.3"
+        ],
+        [
+          "United States of America",
+          "1,253",
+          "1,451",
+          "2,703",
+          "0.7"
+        ],
+        [
+          "Switzerland",
+          "273",
+          "2,057",
+          "2,330",
+          "0.6"
+        ],
+        [
+          "Netherlands",
+          "1,370",
+          "949",
+          "2,319",
+          "0.6"
+        ],
+        [
+          "Germany",
+          "244",
+          "1,929",
+          "2,172",
+          "0.6"
+        ],
+        [
+          "South Africa",
+          "102",
+          "1,760",
+          "1,863",
+          "0.5"
+        ],
+        [
+          "Bahamas",
+          "0",
+          "1,227",
+          "1,227",
+          "0.3"
+        ],
+        [
+          "Monaco",
+          "0",
+          "903",
+          "903",
+          "0.2"
+        ],
+        [
+          "Saudi Arabia",
+          "471",
+          "381",
+          "852",
+          "0.2"
+        ],
+        [
+          "Vietnam",
+          "8",
+          "795",
+          "803",
+          "0.2"
+        ],
+        [
+          "Japan",
+          "201",
+          "509",
+          "710",
+          "0.2"
+        ],
+        [
+          "Qatar",
+          "299",
+          "378",
+          "677",
+          "0.2"
+        ],
+        [
+          "Hong Kong, SAR",
+          "75",
+          "547",
+          "622",
+          "0.2"
+        ],
+        [
+          "Argentina",
+          "162",
+          "447",
+          "609",
+          "0.2"
+        ],
+        [
+          "Philippines",
+          "15",
+          "567",
+          "582",
+          "0.2"
+        ],
+        [
+          "Denmark",
+          "281",
+          "166",
+          "447",
+          "0.1"
+        ],
+        [
+          "Malaysia",
+          "184",
+          "196",
+          "379",
+          "0.1"
+        ],
+        [
+          "New Zealand",
+          "265",
+          "77",
+          "342",
+          "0.1"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At 30 June 2025, foreign persons from a total of 73 countries, excluding Australia, held registered interests in agricultural land."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "There are limitations to using the top sources of foreign investment data to determine the ultimate sources of investment into Australia: The source country is obtained from the registrant at the time of registration and maintained by the foreign person.",
+        "In some instances, the same property has been separately registered by a foreign person with a freehold interest in the land and by a foreign person with a leasehold interest in the land, as required under the FATA. Land size information from both registrations has been included in this table.",
+        "An interest may be held by a foreign person which has more than one shareholder, from more than one country.",
+        "Where there are multiple interest holders from different entities in the same asset, the land size is allocated in accordance with: the percentage interest each entity holds in the asset, and the percentage interest each country holds in the entity.",
+        "Where the registered owner is a company or trust, the nationality of the person (or persons) who appear to control the entity is used to attribute the source country, rather than the country of incorporation. Where the person who controls the entity is identified as an Australian citizen who is not ordinarily resident in Australia (and hence a foreign person), the source country is attributed to the country in which they are ordinarily resident.",
+        "Where shares or interests are widely held for companies or trusts, depending on information available the interest in the asset is attributed to a source country based on the location of: the directors the fund manager, or the country where the entity (or trustee) is headquartered or publicly listed. The source country statistical data may therefore include the presence of jurisdictions used by investment funds and their managers.",
+        "The country of control is assessed using data resources within: the ATO, and agencies such as the Department of Home Affairs and the Australian Securities & Investments Commission (ASIC)."
+      ]
+    }
+  ],
+  "content_text": "## How to interpret this data\nThe following information outlines foreign ownership of agricultural land at 30 June 2025 as taken from the Register of Foreign Ownership of Australian Assets (the Register).\nThe Foreign Acquisitions and Takeovers Act 1975 (FATA) defines foreign persons (which include temporary residents and entities with foreign ownership of 20% or more) and details registration requirements for those who acquire interests in specified Australian assets.\nThe Register is a live dataset of self-registrations of foreign-owned assets, including agricultural land. Registrations of interests in agricultural land include interests registered through a stocktake in 2015, which:\n- were converted from the Register of Foreign Ownership of Agricultural Land into the current Register, and\n- continued to be held by the foreign person at 30 June 2025.\nInformation contained in the Register is protected and subject to the provisions of Division 355 of Schedule 1 of the Taxation Administration Act 1953 and Division 3 of Part 7 of the FATA. As such, the complete Register is not made publicly available, and this report presents aggregated information providing a view of all registrations at a point in time. Consistent with Australia’s foreign investment framework, the details of specific registrations or investors are not made publicly available, and information which could identify, or be used to identify, an individual or entity is excluded from this report.\nAggregated data, including figures for prior years, is available on data.gov.au External Link .\nThe definition of agricultural land under the FATA includes ‘land in Australia that is used, or that could reasonably be used, for primary production purposes’ with some minor exemptions.\nRegistrations of agricultural land include:\n- freehold interests\n- leasehold interests, or\n- the right to occupy agricultural land under a lease or licence that is likely to exceed 5 years.\nA foreign person may acquire the interest alone, as a tenant in common, or as a joint tenant.\nForeign persons must register their agricultural land interest within 30 days of either:\n- purchasing agricultural land (settlement), or\n- becoming a foreign person while holding an interest in agricultural land.\nWe used the Australian Bureau of Statistics (ABS) 2020–2021 Agricultural Census External Link as the benchmark for calculating the foreign-owned proportion of agricultural land at 30 June 2025. Care should be taken when comparing trends in the percentage of foreign ownership of agricultural land across years.\nThere are 2 measures of agricultural land: the Agricultural Census conducted every 5 years, and the Rural Environment and Agricultural Commodities Survey (REACS) conducted each year between the Agricultural Census.\nIn earlier reports of registrations of foreign ownership of agricultural land, the ATO used the most current measure at the time of publication. However, as part of the ABS’s Agricultural Statistics Modernisation Program, neither the Census nor REACS will be continued, and the ABS has advised the best measure to use for comparison purposes is the 2020–21 Agricultural Census. For more information, see Modernising agricultural statistics: Update on achievements and remaining data gaps External Link on the ABS website External Link .\nStatistics on agricultural land in this report are presented by reference to land size. Registrants are required to enter the area of their land holding in metres squared (m 2 ), which is then converted to hectares for reporting purposes. We have converted any land holdings reported in a different unit of measurement into hectares (ha).\nDue to the broad definition of agricultural land, it is possible the Register includes land not captured as part of the ABS Agricultural Census. This may have the effect of overstating the total proportion of Australian agricultural land with a level of foreign ownership.\nEntities whose primary business is forestry are not captured by the ABS Agricultural Census data used for comparative purposes in this report. In states or territories that have a large proportion of forestry, the proportion of agricultural land that has a level of foreign ownership is therefore likely overstated. As of 30 June 2025, land use attributed to forestry on the Register was 1.503 million hectares, representing 0.4% of the 2020–2021 Agricultural Census.\nCare should be taken when comparing this data with Treasury’s annual and quarterly reports on foreign investment. The reports produced by Treasury contain proposed investment information. Monetary thresholds apply before proposed investment in agricultural land must be notified under the FATA, but all acquisitions of agricultural land must be registered.\n## Total registered interests\nTable 1 shows:\n- data on registered interests in agricultural land over the 3 years to 30 June 2025, and\n- the level of foreign ownership by state and territory at 30 June 2025.\nThe total area of agricultural land in Australia with a level of foreign ownership increased from 49.120 million hectares at 30 June 2024 to 50.262 million hectares at 30 June 2025.\nUsing the ABS 2020–21 Agricultural Census measure of agricultural land in Australia, the overall proportion of agricultural land with a level of foreign ownership was 13.0% at 30 June 2025, compared to 12.7% at 30 June 2024.\nState or territory | Registered interest in agricultural land at 30 June 2023 ('000 ha) | Registered interest in agricultural land at 30 June 2024 ('000 ha) | Registered interest in agricultural land at 30 June 2025 ('000 ha) | Total agricultural land reported in the 2020–21 Agricultural Census ('000 ha) | Level of foreign ownership of agricultural land at 30 June 2025 (%)\nNSW/ACT | 2,619 | 2,679 | 2,658 | 53,844 | 4.9\nNT | 14,188 | 14,639 | 14,752 | 53,063 | 27.8\nQld | 15,272 | 16,029 | 17,067 | 134,842 | 12.7\nSA | 3,163 | 3,217 | 3,216 | 46,181 | 7.0\nTas | 357 | 359 | 362 | 1,503 | 24.1\nVic | 666 | 675 | 694 | 11,391 | 6.1\nWA | 11,296 | 11,521 | 11,513 | 86,441 | 13.3\nTotal | 47,561 | 49,120 | 50,262 | 387,265 | 13.0\nNotes:\n- Totals may differ from the sum of components due to rounding.\n- In Table 1, the area of registered interests in agricultural land by Australian states and territories is compared to the 2020–21 Agricultural Census benchmark to identify the estimated proportion of agricultural land that has a level of foreign ownership. This is shown as the ‘level of foreign ownership %’ and is calculated by deriving the ratio of registered interest in agricultural land at 30 June 2025 to the amount of agricultural land in each state or territory.\n## Foreign and Australian share of registered interests\nFigure 1 shows the foreign share and Australian share of registered interests in agricultural land at 30 June each year from 2023 to 2025. As the Register records land held by foreign person entities that have a foreign ownership share of 20% or more, this means there may also be a significant portion of Australian ownership in those same parcels of land.\nAt 30 June 2025, of the 50.262 million hectares of registered interests in Australian agricultural land, 24.7% (12.432 million hectares) was indirectly held by Australian investors who have shares in entities considered foreign persons.\nFigure 1: Foreign and Australian share of registered interests\n## Registered interests by land use\nTable 2 shows the registered interests by land use in each state or territory at 30 June 2025.\nState or territory | Crops | Livestock | Intensive horticulture | Other farming | Forestry | Non-farming | Un-reported | Total\nNSW/ACT | 785 | 1,543 | 83 | 76 | 91 | 70 | 9 | 2,658\nNT | 398 | 14,287 | 0 | 38 | 11 | 18 | 0 | 14,752\nQld | 1,294 | 14,736 | 56 | 457 | 325 | 197 | 0 | 17,067\nSA | 65 | 2,942 | 10 | 8 | 153 | 34 | 4 | 3,216\nTas | 7 | 59 | 2 | 5 | 283 | 6 | 1 | 362\nVic | 117 | 64 | 23 | 28 | 442 | 17 | 3 | 694\nWA | 732 | 10,112 | 9 | 46 | 198 | 417 | 0 | 11,513\nTotal | 3,398 | 43,742 | 184 | 658 | 1,503 | 760 | 16 | 50,262\nNotes:\n- Totals may differ from the sum of components due to rounding.\n- The ABS does not capture entities whose primary business activity is forestry as part of its agricultural surveys or census, however forestry land holdings are captured as part of the Register.\n- The non-farming category is an undefined term and requires registrants to determine the land use. Examples where this has been selected include: land zoned for mining or used as a mining buffer land used for telecommunication towers and power transmission lines land used for carbon offsets.\n- The registration form includes land use categories of crops, livestock, intensive horticulture, forestry, other farming, and non-farming. Where registrants did not report the land use, this is shown in the ‘Unreported’ category.\n## Registered interests in freehold and leasehold land\nTable 3 shows the registered interests in freehold and leasehold agricultural land by state and territory at 30 June 2025. The aggregated ratio of the total for freehold interest was 18.6%, and the aggregated leasehold interest was 81.4%.\nState or territory | Freehold | Leasehold | Total\nNSW/ACT | 2,076 | 1,141 | 3,217\nNT | 312 | 14,440 | 14,752\nQld | 5,114 | 13,050 | 18,164\nSA | 200 | 3,019 | 3,218\nTas | 310 | 54 | 364\nVic | 582 | 131 | 713\nWA | 1,146 | 10,858 | 12,005\nTotal | 9,740 | 42,693 | 52,434\nNotes:\n- Totals may differ from the sum of components due to rounding.\n- In some instances, the same property has been separately registered by a foreign person with a freehold interest in the land and by another foreign person with a leasehold interest in the land, as required under the FATA. Land size information from both registrations has been included in Table 3. As a result, the total registered leasehold and freehold interests in land in this table (52.434 million hectares) is greater than the total amount of land held by foreign persons 50.262 million hectares) at 30 June 2025.\n## Top 20 sources of foreign investment\nTable 4 shows the top 20 source countries of the foreign share of registered freehold and leasehold interests at 30 June 2025. This excludes the Australian share of the registered freehold and leasehold interests.\nIn Table 4, the total foreign share of registered interests by country is compared to the 2020–21 Agricultural Census benchmark of 387.265 million hectares to identify the estimated proportion of agricultural land that can be attributed to each country.\nCountry | Foreign share of registered freehold interests (‘000 ha) | Foreign share of registered leasehold interests (‘000 ha) | Total foreign share of registered interests (‘000 ha) | Foreign share of total agricultural land (%)\nUnited Kingdom | 900 | 6,764 | 7,664 | 2.0\nPeople's Republic of China | 738 | 5,799 | 6,537 | 1.7\nCanada | 827 | 4,101 | 4,928 | 1.3\nUnited States of America | 1,253 | 1,451 | 2,703 | 0.7\nSwitzerland | 273 | 2,057 | 2,330 | 0.6\nNetherlands | 1,370 | 949 | 2,319 | 0.6\nGermany | 244 | 1,929 | 2,172 | 0.6\nSouth Africa | 102 | 1,760 | 1,863 | 0.5\nBahamas | 0 | 1,227 | 1,227 | 0.3\nMonaco | 0 | 903 | 903 | 0.2\nSaudi Arabia | 471 | 381 | 852 | 0.2\nVietnam | 8 | 795 | 803 | 0.2\nJapan | 201 | 509 | 710 | 0.2\nQatar | 299 | 378 | 677 | 0.2\nHong Kong, SAR | 75 | 547 | 622 | 0.2\nArgentina | 162 | 447 | 609 | 0.2\nPhilippines | 15 | 567 | 582 | 0.2\nDenmark | 281 | 166 | 447 | 0.1\nMalaysia | 184 | 196 | 379 | 0.1\nNew Zealand | 265 | 77 | 342 | 0.1\nAt 30 June 2025, foreign persons from a total of 73 countries, excluding Australia, held registered interests in agricultural land.\nNotes:\n- There are limitations to using the top sources of foreign investment data to determine the ultimate sources of investment into Australia: The source country is obtained from the registrant at the time of registration and maintained by the foreign person.\n- In some instances, the same property has been separately registered by a foreign person with a freehold interest in the land and by a foreign person with a leasehold interest in the land, as required under the FATA. Land size information from both registrations has been included in this table.\n- An interest may be held by a foreign person which has more than one shareholder, from more than one country.\n- Where there are multiple interest holders from different entities in the same asset, the land size is allocated in accordance with: the percentage interest each entity holds in the asset, and the percentage interest each country holds in the entity.\n- Where the registered owner is a company or trust, the nationality of the person (or persons) who appear to control the entity is used to attribute the source country, rather than the country of incorporation. Where the person who controls the entity is identified as an Australian citizen who is not ordinarily resident in Australia (and hence a foreign person), the source country is attributed to the country in which they are ordinarily resident.\n- Where shares or interests are widely held for companies or trusts, depending on information available the interest in the asset is attributed to a source country based on the location of: the directors the fund manager, or the country where the entity (or trustee) is headquartered or publicly listed. The source country statistical data may therefore include the presence of jurisdictions used by investment funds and their managers.\n- The country of control is assessed using data resources within: the ATO, and agencies such as the Department of Home Affairs and the Australian Securities & Investments Commission (ASIC).",
+  "child_links": [],
+  "word_count": 2366,
+  "source_title": "",
+  "source_description": "",
+  "category": "investments-and-assets"
+}

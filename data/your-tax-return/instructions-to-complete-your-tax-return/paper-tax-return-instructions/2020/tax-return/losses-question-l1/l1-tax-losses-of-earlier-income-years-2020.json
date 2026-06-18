@@ -1,0 +1,522 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2020/tax-return/losses-question-l1/l1-tax-losses-of-earlier-income-years-2020",
+  "title": "L1 Tax losses of earlier income years 2020",
+  "description": "Complete question L1 if you have a tax loss from an earlier year that you may be able to claim a deduction this year.",
+  "nat_number": "",
+  "quick_code": "61653",
+  "date_updated": "2020-05-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "Losses, TaxPack, total losses, earlier income years, loss, losses, tax return, 2020, paper tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about tax losses from earlier income years for which you may be able to claim a deduction in 2019–20."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you have tax losses from earlier income years?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to Taxable income or loss 2020 , or return to main menu Individual tax return instructions 2020 ."
+        ],
+        [
+          "Yes",
+          "Read on."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show at this item:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "capital losses; go to question 18 Capital gains 2020",
+        "expenses and losses in relation to earning foreign source income; go to question 20 Foreign source income and foreign assets or property 2020",
+        "deferred non-commercial business losses from a prior income year for partnership activities; go to question 13 Partnerships and trusts 2020 for sole trader activities; go to P8 Business income and expenses in Business and professional items 2020 ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete this item if you have a tax loss from an earlier income year which you have not claimed as a deduction."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may have a tax loss at item L1 in 2019–20 which you may be able to claim as a deduction. You have to complete this item whether or not you are able to claim a deduction for the loss in 2019–20."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you became bankrupt before 1 July 2019, or were released from debts under an arrangement entered into under the bankruptcy laws before 1 July 2019, you generally cannot claim a deduction for tax losses incurred before you became bankrupt or were released from the debts."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have tax losses from more than one earlier income year, you should generally deduct the earliest losses first."
+    },
+    {
+      "type": "paragraph",
+      "text": "To complete this item you will need records of your tax losses from earlier income years."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of tax losses from earlier income years that you write at Q and R item L1 is the amount of tax losses you carried forward from 2018–19 less the amount of your net exempt income for 2019–20."
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to separate your losses into primary production losses and non-primary production losses. Primary production activities are described in Information for primary producers 2020 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A – Losses carried forward from earlier income years"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use Worksheet 1 to work out what to write at Q and R item L1 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write at row a in Worksheet 1 the total amount of tax losses you have available from earlier income years. Do not include non-primary production losses from 1988–89 or earlier years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Separate the amount at row a into your losses from primary production and from non-primary production. Write the amounts at rows b and c respectively."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write at row d the total of your exempt income for 2019–20, if any (see Amounts that you do not pay tax on 2020 to find out what amounts are exempt income)."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write at row e the total expenses (other than capital expenses) incurred in earning your exempt income. Include any foreign tax payable on your exempt income."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take row e away from row d and write the answer at row f . If row e is more than row d , write 0 at row f ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "If row f is more than row a , you do not have any losses you can claim at this item. Leave item L1 blank and go to Taxable income or loss 2020 . Otherwise, take row f away from row a and write the answer at row g ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 6"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If you have an amount at row b but not at row c , take row f away from row b and write the answer at row h .",
+        "If you have an amount at row c but not at row b , take row f away from row c and write the answer at row i .",
+        "If you have amounts at both rows b and c , you choose how much of row f to take from each of rows b and c ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot have a negative amount at rows h or i , and the total of rows h and i must equal row g ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "Total tax losses from earlier years",
+          "$"
+        ],
+        [
+          "b",
+          "Primary production losses from earlier years",
+          "$"
+        ],
+        [
+          "c",
+          "Non-primary production losses from earlier years",
+          "$"
+        ],
+        [
+          "d",
+          "Exempt income for 2019–20",
+          "$"
+        ],
+        [
+          "e",
+          "Expenses relating to your 2019–20 exempt income",
+          "$"
+        ],
+        [
+          "f",
+          "Net exempt income for 2019–20. Take row e away from row d .",
+          "$"
+        ],
+        [
+          "g",
+          "Total prior year losses available for use in 2019–20. Take row f away from row a .",
+          "$"
+        ],
+        [
+          "h",
+          "Primary production losses available for use in 2019–20. Take row f away from b .",
+          "$"
+        ],
+        [
+          "i",
+          "Non-primary production losses available for use in 2019–20. Take row f away from row c .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot have a negative amount at rows h or i ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The total of rows h and i must equal row g ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at row h to Q item L1 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 8"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at row i to R item L1 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 9"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at Subtotal on page 4 of your tax return is a loss, go to Step 19 . Otherwise, read on."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B – Losses claimed in 2019–20"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following steps will help you work out what to write at F and Z at item L1 if the amount at Subtotal is not a loss."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 10"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at Subtotal is more than, or equal to, the amount at row g in worksheet 1, go to Step 17 . Otherwise, read on."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 11"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at Subtotal is more than, or equal to, the amount at Q item L1 , go to Step 14 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otherwise, transfer the amount at Subtotal to F item L1 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 12"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take the amount at F away from the amount at Q item L1 . The answer is the amount of primary production losses you carry forward to 2020–21. Keep a record of it for next year."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 13"
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at R item L1 is the amount of non-primary production losses you carry forward to 2020–21. Keep a record of it for next year."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have finished this question. Go to Taxable income or loss 2020 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 14"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount at Q item L1 to F item L1 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 15"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take the amount at F item L1 away from the amount at Subtotal . Write the answer at Z item L1 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 16"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take the amount at Z item L1 away from the amount at R item L1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The answer is the amount of non-primary production losses you carry forward to 2020–21. Keep a record of it for next year."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have no primary production losses to carry forward to 2020–21."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have finished this question. Go to Taxable income or loss 2020 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 17"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount you wrote at Q item L1 to F item L1 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 18"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transfer the amount you wrote at R item L1 to Z item L1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have no primary production losses or non-primary production losses to carry forward to 2020–21."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have finished this question. Go to Taxable income or loss 2020 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part C – If the amount at Subtotal is a loss"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 19"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount you wrote at Subtotal is a loss, leave F and Z at item L1 blank."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 20"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use Worksheet 2 to work out the primary production losses you carry forward to 2020–21 and the non-primary production losses you carry forward to 2020–21."
+    },
+    {
+      "type": "paragraph",
+      "text": "Make sure you show all losses as negative amounts in Worksheet 2 . Amounts you write at rows t , u , v and w may be losses. If so, show them as negative amounts."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "p",
+          "Amount from Subtotal This amount is a loss, show it as a negative amount.",
+          "$"
+        ],
+        [
+          "q",
+          "Amount from item D9 on page 4 of your tax return",
+          "$"
+        ],
+        [
+          "r",
+          "Amount from item D12 on page 15 of your tax return",
+          "$"
+        ],
+        [
+          "s",
+          "Add rows q and r .",
+          "$"
+        ],
+        [
+          "t",
+          "Add row s , which is either zero or positive to row p which is negative. If row t is positive, go to step 23.",
+          "$"
+        ],
+        [
+          "u",
+          "Amount from Net primary production distribution item 13 on page 13 your tax return",
+          "$"
+        ],
+        [
+          "v",
+          "Amount from B item 15 on page 14 of your tax return",
+          "$"
+        ],
+        [
+          "w",
+          "Add rows u and v .",
+          "$"
+        ],
+        [
+          "x",
+          "If row w is a loss and is the same or a greater loss than row t , write the amount from row t . If row w is a loss and is a smaller loss than row t , write the amount from row w . Otherwise, write 0 .",
+          "$"
+        ],
+        [
+          "y",
+          "If row w is a loss and is the same or a greater loss than row t write 0 . If row w is a loss and is a smaller loss than row t , take row w away from t and write the answer. If row w is not a loss, write the amount from row t .",
+          "$"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 21"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at row x is zero, then the amount at Q item L1 is the amount of primary production losses you carry forward to 2020–21. Keep a record of it for next year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at row x is not zero, then add the amount at row x to the amount at Q item L1 . When adding these two amounts ignore the fact that they are both negative amounts. The answer is the amount of primary production losses you carry forward to 2020–21. Keep a record of it for next year."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 22"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at row y is zero, then the amount at R item L1 is the amount of non-primary production losses you carry forward to 2020–21. Keep a record of it for next year."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the amount at row y is not zero, then add the amount at row y to the amount at R item L1 . When adding these two amounts ignore the fact that they are both negative amounts. The answer is the amount of non-primary production losses you carry forward to 2020–21. Keep a record of it for next year."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have finished this question. Go to Taxable income or loss 2020 ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Step 23"
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at Q is your primary production losses you carry forward to 2020–21."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount at R is your non-primary production losses you carry forward to 2020–21."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep a record of them for next year."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to Taxable income or loss 2020 .",
+        "Return to main menu Individual tax return instructions 2020 .",
+        "Go back to Subtotal 2020 ."
+      ]
+    }
+  ],
+  "content_text": "This question is about tax losses from earlier income years for which you may be able to claim a deduction in 2019–20.\nDo you have tax losses from earlier income years?\nNo | Go to Taxable income or loss 2020 , or return to main menu Individual tax return instructions 2020 .\nYes | Read on.\nDo not show at this item:\n- capital losses; go to question 18 Capital gains 2020\n- expenses and losses in relation to earning foreign source income; go to question 20 Foreign source income and foreign assets or property 2020\n- deferred non-commercial business losses from a prior income year for partnership activities; go to question 13 Partnerships and trusts 2020 for sole trader activities; go to P8 Business income and expenses in Business and professional items 2020 .\n## Answering this question\nComplete this item if you have a tax loss from an earlier income year which you have not claimed as a deduction.\nYou may have a tax loss at item L1 in 2019–20 which you may be able to claim as a deduction. You have to complete this item whether or not you are able to claim a deduction for the loss in 2019–20.\nIf you became bankrupt before 1 July 2019, or were released from debts under an arrangement entered into under the bankruptcy laws before 1 July 2019, you generally cannot claim a deduction for tax losses incurred before you became bankrupt or were released from the debts.\nIf you have tax losses from more than one earlier income year, you should generally deduct the earliest losses first.\nTo complete this item you will need records of your tax losses from earlier income years.\n## Completing your tax return\nThe amount of tax losses from earlier income years that you write at Q and R item L1 is the amount of tax losses you carried forward from 2018–19 less the amount of your net exempt income for 2019–20.\nYou need to separate your losses into primary production losses and non-primary production losses. Primary production activities are described in Information for primary producers 2020 .\n### Part A – Losses carried forward from earlier income years\nUse Worksheet 1 to work out what to write at Q and R item L1 .\n#### Step 1\nWrite at row a in Worksheet 1 the total amount of tax losses you have available from earlier income years. Do not include non-primary production losses from 1988–89 or earlier years.\nSeparate the amount at row a into your losses from primary production and from non-primary production. Write the amounts at rows b and c respectively.\n#### Step 2\nWrite at row d the total of your exempt income for 2019–20, if any (see Amounts that you do not pay tax on 2020 to find out what amounts are exempt income).\n#### Step 3\nWrite at row e the total expenses (other than capital expenses) incurred in earning your exempt income. Include any foreign tax payable on your exempt income.\n#### Step 4\nTake row e away from row d and write the answer at row f . If row e is more than row d , write 0 at row f .\n#### Step 5\nIf row f is more than row a , you do not have any losses you can claim at this item. Leave item L1 blank and go to Taxable income or loss 2020 . Otherwise, take row f away from row a and write the answer at row g .\n#### Step 6\n- If you have an amount at row b but not at row c , take row f away from row b and write the answer at row h .\n- If you have an amount at row c but not at row b , take row f away from row c and write the answer at row i .\n- If you have amounts at both rows b and c , you choose how much of row f to take from each of rows b and c .\nYou cannot have a negative amount at rows h or i , and the total of rows h and i must equal row g .\nRow | Calculation | Amount\na | Total tax losses from earlier years | $\nb | Primary production losses from earlier years | $\nc | Non-primary production losses from earlier years | $\nd | Exempt income for 2019–20 | $\ne | Expenses relating to your 2019–20 exempt income | $\nf | Net exempt income for 2019–20. Take row e away from row d . | $\ng | Total prior year losses available for use in 2019–20. Take row f away from row a . | $\nh | Primary production losses available for use in 2019–20. Take row f away from b . | $\ni | Non-primary production losses available for use in 2019–20. Take row f away from row c . | $\nYou cannot have a negative amount at rows h or i .\nThe total of rows h and i must equal row g .\n#### Step 7\nTransfer the amount at row h to Q item L1 .\n#### Step 8\nTransfer the amount at row i to R item L1 .\n#### Step 9\nIf the amount at Subtotal on page 4 of your tax return is a loss, go to Step 19 . Otherwise, read on.\n### Part B – Losses claimed in 2019–20\nThe following steps will help you work out what to write at F and Z at item L1 if the amount at Subtotal is not a loss.\n#### Step 10\nIf the amount at Subtotal is more than, or equal to, the amount at row g in worksheet 1, go to Step 17 . Otherwise, read on.\n#### Step 11\nIf the amount at Subtotal is more than, or equal to, the amount at Q item L1 , go to Step 14 .\nOtherwise, transfer the amount at Subtotal to F item L1 .\n#### Step 12\nTake the amount at F away from the amount at Q item L1 . The answer is the amount of primary production losses you carry forward to 2020–21. Keep a record of it for next year.\n#### Step 13\nThe amount at R item L1 is the amount of non-primary production losses you carry forward to 2020–21. Keep a record of it for next year.\nYou have finished this question. Go to Taxable income or loss 2020 .\n#### Step 14\nTransfer the amount at Q item L1 to F item L1 .\n#### Step 15\nTake the amount at F item L1 away from the amount at Subtotal . Write the answer at Z item L1 .\n#### Step 16\nTake the amount at Z item L1 away from the amount at R item L1 .\nThe answer is the amount of non-primary production losses you carry forward to 2020–21. Keep a record of it for next year.\nYou have no primary production losses to carry forward to 2020–21.\nYou have finished this question. Go to Taxable income or loss 2020 .\n#### Step 17\nTransfer the amount you wrote at Q item L1 to F item L1 .\n#### Step 18\nTransfer the amount you wrote at R item L1 to Z item L1 .\nYou have no primary production losses or non-primary production losses to carry forward to 2020–21.\nYou have finished this question. Go to Taxable income or loss 2020 .\n### Part C – If the amount at Subtotal is a loss\n#### Step 19\nIf the amount you wrote at Subtotal is a loss, leave F and Z at item L1 blank.\n#### Step 20\nUse Worksheet 2 to work out the primary production losses you carry forward to 2020–21 and the non-primary production losses you carry forward to 2020–21.\nMake sure you show all losses as negative amounts in Worksheet 2 . Amounts you write at rows t , u , v and w may be losses. If so, show them as negative amounts.\nRow | Calculation | Amount\np | Amount from Subtotal This amount is a loss, show it as a negative amount. | $\nq | Amount from item D9 on page 4 of your tax return | $\nr | Amount from item D12 on page 15 of your tax return | $\ns | Add rows q and r . | $\nt | Add row s , which is either zero or positive to row p which is negative. If row t is positive, go to step 23. | $\nu | Amount from Net primary production distribution item 13 on page 13 your tax return | $\nv | Amount from B item 15 on page 14 of your tax return | $\nw | Add rows u and v . | $\nx | If row w is a loss and is the same or a greater loss than row t , write the amount from row t . If row w is a loss and is a smaller loss than row t , write the amount from row w . Otherwise, write 0 . | $\ny | If row w is a loss and is the same or a greater loss than row t write 0 . If row w is a loss and is a smaller loss than row t , take row w away from t and write the answer. If row w is not a loss, write the amount from row t . | $\n#### Step 21\nIf the amount at row x is zero, then the amount at Q item L1 is the amount of primary production losses you carry forward to 2020–21. Keep a record of it for next year.\nIf the amount at row x is not zero, then add the amount at row x to the amount at Q item L1 . When adding these two amounts ignore the fact that they are both negative amounts. The answer is the amount of primary production losses you carry forward to 2020–21. Keep a record of it for next year.\n#### Step 22\nIf the amount at row y is zero, then the amount at R item L1 is the amount of non-primary production losses you carry forward to 2020–21. Keep a record of it for next year.\nIf the amount at row y is not zero, then add the amount at row y to the amount at R item L1 . When adding these two amounts ignore the fact that they are both negative amounts. The answer is the amount of non-primary production losses you carry forward to 2020–21. Keep a record of it for next year.\nYou have finished this question. Go to Taxable income or loss 2020 .\n#### Step 23\nThe amount at Q is your primary production losses you carry forward to 2020–21.\nThe amount at R is your non-primary production losses you carry forward to 2020–21.\nKeep a record of them for next year.\n## Where to go next\n- Go to Taxable income or loss 2020 .\n- Return to main menu Individual tax return instructions 2020 .\n- Go back to Subtotal 2020 .",
+  "child_links": [],
+  "word_count": 1897,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

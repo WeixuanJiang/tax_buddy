@@ -1,0 +1,282 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2019/income/salary-wages-allowances-tips-bonuses-etc-including-lump-sums/salary-wages-allowances-tips-bonuses",
+  "title": "myTax 2019 Salary, wages, allowances, tips, bonuses etc.",
+  "description": "How to complete the salary and wages section of your tax return using myTax.",
+  "nat_number": "",
+  "quick_code": "59091",
+  "date_updated": "2019-06-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "2019, salary, wages, salary or wages, allowances, bonuses, payment summary, myTax, e-tax, online tax return, lump sum, etax, lump sum A, lump sum B, lump sum E, group certificate",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This section is where you show employment-related income (such as salary, wages, allowances, tips, bonuses and lump sum payments) and other details from income statements, payment summaries or comparable statements."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Essentials"
+    },
+    {
+      "type": "paragraph",
+      "text": "Include income shown on an income statement/ PAYG payment summary - individual non-business from any of the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "salary or wages",
+        "allowances, earnings, tips, directors fees etc",
+        "employer lump sum A or B payments",
+        "lump sum D payments",
+        "lump sum E payments in arrears",
+        "Community Development Employment Project (CDEP)",
+        "exempt foreign employment income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your income statement/payment summary also shows any of the following, include those details here:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "reportable fringe benefits amount (for more information, see Total reportable fringe benefit amounts )",
+        "reportable employer superannuation contributions (for more information, see Reportable employer superannuation contributions )",
+        "workplace giving (for more information, see Gifts or donations )",
+        "union or professional association fees (for more information, see Other work-related expenses )."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Do not show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "received a PAYG payment summary - foreign employment , show these amounts at Foreign employment income in the Income statements and payment summaries section.",
+        "are an Australian Government agency employee (and not a member of a disciplined force), show income earned from delivering Australian official development assistance (ODA) at Foreign employment income in the Income statements and payment summaries section. You are no longer eligible for an Australian income tax exemption on this income.",
+        "received income for work or services performed in the Joint Petroleum Development Area (JPDA), show this income at Foreign employment income in the Income statements and payment summaries section.",
+        "received a PAYG payment summary - superannuation income stream , show these amounts at Super income stream in the Income statements and payment summaries section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you can't see these sections, use the Personalise return screen to select those sections that apply to you. For further help with personalising your return, see How to personalise your return ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your income statement, PAYG payment summary – individual non-business or a comparable statement such as a letter or signed statement from each employer or payer."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "An income statement provides your end of year income and tax information if your employer advises that you will not be issued with a payment summary. Income statements: can be accessed through your ATO Online account in myGov should be pre-filled in myTax."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Don’t use any income statements that are not 'Tax Ready'. For more information, see income statements ."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "A payment summary may continue to be provided by some employers. If so, and you don't have all your payment summaries or comparable statements, contact your employer or payer for a copy. If you are unsuccessful in obtaining any of these, see Lost or missing PAYG withholding payment summary ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your tax return with income statement/payment summary information provided to us. Check for salary, wages, allowances, tips, bonuses etc. (including lump sum A, B, D or E payments) you received that are not pre-filled and ensure you add them."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Enter the Occupation where you earned most income . If you cannot find your specific occupation, choose the most appropriate one that applies to you. If you received payments for lost salary or wages paid under an income protection policy, a sickness or accident insurance policy, or a workers compensation scheme, enter the occupation that best describes the occupation from which you would have earned most of your payments had you not received them from another source.",
+        "For each income statement/payment summary that has not been pre-filled in your tax return, select Add and enter information into the corresponding fields.",
+        "For each income statement/payment summary that has a Gross payment greater than '0', you must provide the Payer's Australian business number (ABN) or Withholding payer number (WPN). If you don’t know the ABN check with your payer or look-up the ABN External Link .",
+        "For each income statement/payment summary that has a Lump sum A greater than '0', select the Lump sum A type .",
+        "For each income statement/payment summary that has a Lump sum B greater than '0', enter the full amount. myTax will divide the Lump sum B amount by 20 and include that as your income. This is because only 5% is taxable.",
+        "For each income statement/payment summary that has a Lump sum E greater than '0', enter the required additional information (year and amount earned) and select Save . If the payment relates to more than one year, select Add and provide additional details.",
+        "For each income statement/payment summary that has Exempt foreign employment income greater than '0': enter the Foreign tax paid on exempt foreign employment income select the Country employed in answer the question Does the exempt foreign employment income include a payment in arrears? If Yes , enter the Lump sum in arrears in $AUD and the required additional information (year and amount earned), and select Save . If the payment relates to more than one year, select Add and provide additional details.",
+        "Select Save .",
+        "Select Save and continue ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tax tips"
+    },
+    {
+      "type": "paragraph",
+      "text": "Make sure you keep all your records for five years from the date you lodge your tax return. A shorter record-keeping period may apply in some situations. There is more information on record keeping and written evidence in Keeping your tax records ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "are between 18 and 35 years old, and",
+        "indicated that you earned income while you held a Working Holiday visa (subclass 417) or Work and Holiday visa (subclass 462)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "you must ensure Working holiday maker net income in the Adjustments section is also completed."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Types of income"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Salary or wages"
+    },
+    {
+      "type": "paragraph",
+      "text": "This section is about income from salary or wages from which tax was withheld. Income from salary or wages includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "salary and wages",
+        "commissions",
+        "bonuses",
+        "income from part-time or casual work",
+        "parental leave pay",
+        "dad-and-partner pay",
+        "amounts shown on an income statement/payment summary for lost salary or wages paid under an income protection policy a sickness or accident insurance policy a workers compensation scheme."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Allowances, earnings, tips, directors fees etc"
+    },
+    {
+      "type": "paragraph",
+      "text": "This section is about payments of income from working. These include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "allowances",
+        "payments from which tax was not withheld, including salary, wages, commissions, bonuses income earned from part-time and casual jobs income from income protection, sickness and accident insurance policies",
+        "tips, gratuities and payments for your services",
+        "consultation fees",
+        "payments for voluntary services (honoraria)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Allowances include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "car, travel and transport allowances, and reimbursements of car expenses (calculated by reference to the distance travelled by the car, such as 'cents-per-kilometre' allowances)",
+        "award transport payments (paid under an industrial law or award that was in force on 29 October 1986)",
+        "tool, clothing and laundry allowances",
+        "dirt, height, site, first aid and risk allowances",
+        "meal and entertainment allowances."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a travel or an overtime meal allowance paid under an industrial law, award or agreement, do not show it on your tax return if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you spent the whole amount on deductible expenses",
+        "it was not shown on your payment summary, and",
+        "it does not exceed the Commissioner's reasonable allowance amount."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim deductions for expenses that you paid for with that allowance. For more information, see Taxation Determination TD 2018/11 Income tax: what are the reasonable travel and overtime meal allowance expense amounts for the 2018–19 income year?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lump sum payments"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Employer lump sum A or B payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "These are any lump sum payments you received from your employer for unused annual leave or unused long service leave."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Lump sum D payments"
+    },
+    {
+      "type": "paragraph",
+      "text": "These are the tax-free components of a genuine redundancy payment or an early retirement. This tax-free income will not be included in your taxable income."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Lump sum E payments in arrears"
+    },
+    {
+      "type": "paragraph",
+      "text": "These payments relate to an earlier income year or years and should normally be shown at 'E' on your income statement/ PAYG payment summary - individual non-business ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Include at this section any lump sum payments you received in relation to the following:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "back payments of salary or wages that accrued in a period more than 12 months before the date of payment",
+        "salary or wages that accrued during a period of suspension and were paid to you on resuming duty",
+        "back payments of non-superannuation annuities that accrued, in whole or in part, in an earlier year or years of income",
+        "back payments of repatriation and social welfare pensions, allowances or payments, including those paid by foreign governments",
+        "back payments of periodical workers and accident compensation payments but not payments made to the owner of the policy",
+        "back payments of Commonwealth education or training payments."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You may get a tax offset if you received certain lump sum payments in 2018–19. We will calculate the tax offset for you based on the information you provide in your tax return."
+    }
+  ],
+  "content_text": "This section is where you show employment-related income (such as salary, wages, allowances, tips, bonuses and lump sum payments) and other details from income statements, payment summaries or comparable statements.\n## Essentials\nInclude income shown on an income statement/ PAYG payment summary - individual non-business from any of the following:\n- salary or wages\n- allowances, earnings, tips, directors fees etc\n- employer lump sum A or B payments\n- lump sum D payments\n- lump sum E payments in arrears\n- Community Development Employment Project (CDEP)\n- exempt foreign employment income.\nIf your income statement/payment summary also shows any of the following, include those details here:\n- reportable fringe benefits amount (for more information, see Total reportable fringe benefit amounts )\n- reportable employer superannuation contributions (for more information, see Reportable employer superannuation contributions )\n- workplace giving (for more information, see Gifts or donations )\n- union or professional association fees (for more information, see Other work-related expenses ).\n## Do not show at this section\nIf you:\n- received a PAYG payment summary - foreign employment , show these amounts at Foreign employment income in the Income statements and payment summaries section.\n- are an Australian Government agency employee (and not a member of a disciplined force), show income earned from delivering Australian official development assistance (ODA) at Foreign employment income in the Income statements and payment summaries section. You are no longer eligible for an Australian income tax exemption on this income.\n- received income for work or services performed in the Joint Petroleum Development Area (JPDA), show this income at Foreign employment income in the Income statements and payment summaries section.\n- received a PAYG payment summary - superannuation income stream , show these amounts at Super income stream in the Income statements and payment summaries section.\nIf you can't see these sections, use the Personalise return screen to select those sections that apply to you. For further help with personalising your return, see How to personalise your return .\n## Completing this section\nYou will need your income statement, PAYG payment summary – individual non-business or a comparable statement such as a letter or signed statement from each employer or payer.\n- An income statement provides your end of year income and tax information if your employer advises that you will not be issued with a payment summary. Income statements: can be accessed through your ATO Online account in myGov should be pre-filled in myTax.\nDon’t use any income statements that are not 'Tax Ready'. For more information, see income statements .\n- A payment summary may continue to be provided by some employers. If so, and you don't have all your payment summaries or comparable statements, contact your employer or payer for a copy. If you are unsuccessful in obtaining any of these, see Lost or missing PAYG withholding payment summary .\nWe pre-fill your tax return with income statement/payment summary information provided to us. Check for salary, wages, allowances, tips, bonuses etc. (including lump sum A, B, D or E payments) you received that are not pre-filled and ensure you add them.\n- Enter the Occupation where you earned most income . If you cannot find your specific occupation, choose the most appropriate one that applies to you. If you received payments for lost salary or wages paid under an income protection policy, a sickness or accident insurance policy, or a workers compensation scheme, enter the occupation that best describes the occupation from which you would have earned most of your payments had you not received them from another source.\n- For each income statement/payment summary that has not been pre-filled in your tax return, select Add and enter information into the corresponding fields.\n- For each income statement/payment summary that has a Gross payment greater than '0', you must provide the Payer's Australian business number (ABN) or Withholding payer number (WPN). If you don’t know the ABN check with your payer or look-up the ABN External Link .\n- For each income statement/payment summary that has a Lump sum A greater than '0', select the Lump sum A type .\n- For each income statement/payment summary that has a Lump sum B greater than '0', enter the full amount. myTax will divide the Lump sum B amount by 20 and include that as your income. This is because only 5% is taxable.\n- For each income statement/payment summary that has a Lump sum E greater than '0', enter the required additional information (year and amount earned) and select Save . If the payment relates to more than one year, select Add and provide additional details.\n- For each income statement/payment summary that has Exempt foreign employment income greater than '0': enter the Foreign tax paid on exempt foreign employment income select the Country employed in answer the question Does the exempt foreign employment income include a payment in arrears? If Yes , enter the Lump sum in arrears in $AUD and the required additional information (year and amount earned), and select Save . If the payment relates to more than one year, select Add and provide additional details.\n- Select Save .\n- Select Save and continue .\nTax tips\nMake sure you keep all your records for five years from the date you lodge your tax return. A shorter record-keeping period may apply in some situations. There is more information on record keeping and written evidence in Keeping your tax records .\nIf you:\n- are between 18 and 35 years old, and\n- indicated that you earned income while you held a Working Holiday visa (subclass 417) or Work and Holiday visa (subclass 462)\nyou must ensure Working holiday maker net income in the Adjustments section is also completed.\n## Types of income\n### Salary or wages\nThis section is about income from salary or wages from which tax was withheld. Income from salary or wages includes:\n- salary and wages\n- commissions\n- bonuses\n- income from part-time or casual work\n- parental leave pay\n- dad-and-partner pay\n- amounts shown on an income statement/payment summary for lost salary or wages paid under an income protection policy a sickness or accident insurance policy a workers compensation scheme.\n### Allowances, earnings, tips, directors fees etc\nThis section is about payments of income from working. These include:\n- allowances\n- payments from which tax was not withheld, including salary, wages, commissions, bonuses income earned from part-time and casual jobs income from income protection, sickness and accident insurance policies\n- tips, gratuities and payments for your services\n- consultation fees\n- payments for voluntary services (honoraria).\nAllowances include:\n- car, travel and transport allowances, and reimbursements of car expenses (calculated by reference to the distance travelled by the car, such as 'cents-per-kilometre' allowances)\n- award transport payments (paid under an industrial law or award that was in force on 29 October 1986)\n- tool, clothing and laundry allowances\n- dirt, height, site, first aid and risk allowances\n- meal and entertainment allowances.\nIf you received a travel or an overtime meal allowance paid under an industrial law, award or agreement, do not show it on your tax return if:\n- you spent the whole amount on deductible expenses\n- it was not shown on your payment summary, and\n- it does not exceed the Commissioner's reasonable allowance amount.\nYou cannot claim deductions for expenses that you paid for with that allowance. For more information, see Taxation Determination TD 2018/11 Income tax: what are the reasonable travel and overtime meal allowance expense amounts for the 2018–19 income year?\n### Lump sum payments\n#### Employer lump sum A or B payments\nThese are any lump sum payments you received from your employer for unused annual leave or unused long service leave.\n#### Lump sum D payments\nThese are the tax-free components of a genuine redundancy payment or an early retirement. This tax-free income will not be included in your taxable income.\n#### Lump sum E payments in arrears\nThese payments relate to an earlier income year or years and should normally be shown at 'E' on your income statement/ PAYG payment summary - individual non-business .\nInclude at this section any lump sum payments you received in relation to the following:\n- back payments of salary or wages that accrued in a period more than 12 months before the date of payment\n- salary or wages that accrued during a period of suspension and were paid to you on resuming duty\n- back payments of non-superannuation annuities that accrued, in whole or in part, in an earlier year or years of income\n- back payments of repatriation and social welfare pensions, allowances or payments, including those paid by foreign governments\n- back payments of periodical workers and accident compensation payments but not payments made to the owner of the policy\n- back payments of Commonwealth education or training payments.\nYou may get a tax offset if you received certain lump sum payments in 2018–19. We will calculate the tax offset for you based on the information you provide in your tax return.",
+  "child_links": [],
+  "word_count": 1519,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

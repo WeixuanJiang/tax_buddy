@@ -1,0 +1,183 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2016/income/australian-income-or-losses-from-investments-or-property/capital-gains-or-losses",
+  "title": "Capital gains or losses",
+  "description": "How to report your capital gains or losses when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "48405",
+  "date_updated": "2016-08-04T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "You may have made a capital gain or capital loss, if a capital gains tax (CGT) event happened in 2015–16. For most CGT events, you make:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a capital gain if the amount of money and property you received, or were entitled to receive, from the CGT event was more than the cost base of your asset; you may then have to pay tax on your capital gain",
+        "a capital loss if the amount of money and property you received, or were entitled to receive, from the CGT event was less than the reduced cost base of your asset."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Did you have a capital gains tax event in 2015–16?"
+    },
+    {
+      "type": "paragraph",
+      "text": "There is a wide range of CGT events. The most common CGT event happens when you sell or give away a CGT asset, assets such as:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "real estate, including your family home, a holiday home, investment property, hobby farm or vacant block of land",
+        "shares",
+        "units in a unit trust or managed investment fund",
+        "forestry managed investment scheme interests (as a subsequent participant)",
+        "collectables, for example, jewellery",
+        "personal use assets."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You may need one or more of the following publications to complete this section. They explain the three methods available to calculate a capital gain: the indexation method, the discount method and the 'other' method."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Capital gains tax explains what a capital gain is, how it applies, what assets are included and the exceptions and exemptions.",
+        "Guide to capital gains tax explains how CGT works and will help you to calculate your net capital gain or net capital loss. It covers CGT issues such as the sale of a rental property, vacant land, a holiday home, collectables (for example, jewellery), personal use assets (for example, a boat you use for recreation), and real estate, shares and units you inherited or got from the breakdown of your marriage or relationship.",
+        "Personal investors guide to capital gains tax is shorter and simpler than Guide to capital gains tax . It covers the sale, gift or other disposal of shares and units distribution of capital gains from managed funds non-assessable payments from companies and managed funds."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "If you have calculated your capital gain or loss enter your: total current year capital gain net capital gain net capital loss carried forward to later income years, if applicable.",
+        "If you have applied an exemption or rollover select the type code.",
+        "If you have not calculated your capital gain or loss, you can use the CGT tool in the Capital gains or losses section to work out amounts on basic gain or loss events.",
+        "Select Save and continue ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Capital gains and managed funds"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must calculate your capital gain or loss if you have a capital gain in the Managed fund distributions section and you have other capital gain or loss amounts. You will need to apply your capital losses when you calculate your capital gains amounts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your net capital gain from the Capital gains or losses section will be included in your taxable income, and any capital gains amount shown in the Managed fund distributions section will be disregarded."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sean received a managed fund distribution statement showing capital gains amounts. He also had a CGT event as he sold some shares."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the Personalise return screen under You had Australian interest, or other Australian income from investments or property he selected:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Capital gains or losses that are not from a managed fund and",
+        "Managed fund distributions ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "He enters the net capital gain and total current year capital gain in the Managed fund distributions section shown on the distribution statement. He then answers the Capital gains or losses section and calculates his CGT amounts which include amounts from managed funds and the sale of his shares. The net capital gain from the Capital gains or losses section is included in his taxable income and any CGT amount from the Managed fund distributions section is disregarded."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Completing the CGT schedule"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must complete the CGT schedule if your total current year capital gain or loss is more than $10,000. Enter the amounts that are relevant to you. The three amounts above the schedule must equal the corresponding total amounts on the schedule."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Isla sold two rental properties during the year. She calculated the first rental property as a CGT gain of $40,000 (before the discount was applied) and the other property a CGT loss of $10,000. She had no other capital gains or losses (including from managed funds)."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the Personalise return screen under You had Australian interest, or other Australian income from investments or property she selected Capital gains or losses that are not from a managed fund ."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the Prepare return screen at the Capital gains or losses section she enters:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "total current year capital gains of $40,000",
+        "net capital gain of $15,000 ($40,000 total current year gain less $10,000 current year loss = $30,000. After applying 50% discount to the $30,000, the net capital gain is calculated as $15,000)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "She has no net capital loss to carry forward to later income years and she did not claim an exemption or rollover."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the CGT schedule she selects:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Current year capital gains and losses and enters $40,000 at Australian real estate capital gain and $10,000 at Australian real estate capital loss.",
+        "Capital losses applied and enters $10,000 at total current year capital losses applied.",
+        "CGT discount and enters $15,000 total CGT discount applied."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Her total net capital gain shown on the schedule is $15,000 which is the same amount as she entered above the schedule."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information about the CGT schedule see Guide to capital gains tax ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Earnout arrangements"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Guide to capital gains tax also has information on the new look-through CGT treatment for certain Earnout arrangements . Where the guide instructs you to write an amount at 7G on the schedule, enter this in myTax at Amended net capital gain or capital losses carried forward ."
+    }
+  ],
+  "content_text": "You may have made a capital gain or capital loss, if a capital gains tax (CGT) event happened in 2015–16. For most CGT events, you make:\n- a capital gain if the amount of money and property you received, or were entitled to receive, from the CGT event was more than the cost base of your asset; you may then have to pay tax on your capital gain\n- a capital loss if the amount of money and property you received, or were entitled to receive, from the CGT event was less than the reduced cost base of your asset.\n## Did you have a capital gains tax event in 2015–16?\nThere is a wide range of CGT events. The most common CGT event happens when you sell or give away a CGT asset, assets such as:\n- real estate, including your family home, a holiday home, investment property, hobby farm or vacant block of land\n- shares\n- units in a unit trust or managed investment fund\n- forestry managed investment scheme interests (as a subsequent participant)\n- collectables, for example, jewellery\n- personal use assets.\nYou may need one or more of the following publications to complete this section. They explain the three methods available to calculate a capital gain: the indexation method, the discount method and the 'other' method.\n- Capital gains tax explains what a capital gain is, how it applies, what assets are included and the exceptions and exemptions.\n- Guide to capital gains tax explains how CGT works and will help you to calculate your net capital gain or net capital loss. It covers CGT issues such as the sale of a rental property, vacant land, a holiday home, collectables (for example, jewellery), personal use assets (for example, a boat you use for recreation), and real estate, shares and units you inherited or got from the breakdown of your marriage or relationship.\n- Personal investors guide to capital gains tax is shorter and simpler than Guide to capital gains tax . It covers the sale, gift or other disposal of shares and units distribution of capital gains from managed funds non-assessable payments from companies and managed funds.\n## Completing this section\n- If you have calculated your capital gain or loss enter your: total current year capital gain net capital gain net capital loss carried forward to later income years, if applicable.\n- If you have applied an exemption or rollover select the type code.\n- If you have not calculated your capital gain or loss, you can use the CGT tool in the Capital gains or losses section to work out amounts on basic gain or loss events.\n- Select Save and continue .\n### Capital gains and managed funds\nYou must calculate your capital gain or loss if you have a capital gain in the Managed fund distributions section and you have other capital gain or loss amounts. You will need to apply your capital losses when you calculate your capital gains amounts.\nYour net capital gain from the Capital gains or losses section will be included in your taxable income, and any capital gains amount shown in the Managed fund distributions section will be disregarded.\nExample:\nSean received a managed fund distribution statement showing capital gains amounts. He also had a CGT event as he sold some shares.\nOn the Personalise return screen under You had Australian interest, or other Australian income from investments or property he selected:\n- Capital gains or losses that are not from a managed fund and\n- Managed fund distributions .\nHe enters the net capital gain and total current year capital gain in the Managed fund distributions section shown on the distribution statement. He then answers the Capital gains or losses section and calculates his CGT amounts which include amounts from managed funds and the sale of his shares. The net capital gain from the Capital gains or losses section is included in his taxable income and any CGT amount from the Managed fund distributions section is disregarded.\n### Completing the CGT schedule\nYou must complete the CGT schedule if your total current year capital gain or loss is more than $10,000. Enter the amounts that are relevant to you. The three amounts above the schedule must equal the corresponding total amounts on the schedule.\nExample:\nIsla sold two rental properties during the year. She calculated the first rental property as a CGT gain of $40,000 (before the discount was applied) and the other property a CGT loss of $10,000. She had no other capital gains or losses (including from managed funds).\nOn the Personalise return screen under You had Australian interest, or other Australian income from investments or property she selected Capital gains or losses that are not from a managed fund .\nOn the Prepare return screen at the Capital gains or losses section she enters:\n- total current year capital gains of $40,000\n- net capital gain of $15,000 ($40,000 total current year gain less $10,000 current year loss = $30,000. After applying 50% discount to the $30,000, the net capital gain is calculated as $15,000).\nShe has no net capital loss to carry forward to later income years and she did not claim an exemption or rollover.\nIn the CGT schedule she selects:\n- Current year capital gains and losses and enters $40,000 at Australian real estate capital gain and $10,000 at Australian real estate capital loss.\n- Capital losses applied and enters $10,000 at total current year capital losses applied.\n- CGT discount and enters $15,000 total CGT discount applied.\nHer total net capital gain shown on the schedule is $15,000 which is the same amount as she entered above the schedule.\nFor more information about the CGT schedule see Guide to capital gains tax .\n#### Earnout arrangements\nThe Guide to capital gains tax also has information on the new look-through CGT treatment for certain Earnout arrangements . Where the guide instructs you to write an amount at 7G on the schedule, enter this in myTax at Amended net capital gain or capital losses carried forward .",
+  "child_links": [],
+  "word_count": 1018,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

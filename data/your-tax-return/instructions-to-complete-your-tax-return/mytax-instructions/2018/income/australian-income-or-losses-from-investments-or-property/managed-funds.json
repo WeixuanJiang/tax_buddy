@@ -1,0 +1,66 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/income/australian-income-or-losses-from-investments-or-property/managed-funds",
+  "title": "myTax 2018 Managed funds",
+  "description": "How to complete the managed funds section in your return using myTax.",
+  "nat_number": "",
+  "quick_code": "55655",
+  "date_updated": "2018-06-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "2018, managed funds, fund, trust, distributions, myTax, e-tax, online tax return, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Complete this section if your only source of income from trusts, capital gains or foreign income is from managed funds."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have received a statement from one or more managed funds, for example, a property trust, share trust, equity trust, growth trust, imputation trust or balanced trust, that shows income, deductions or credits that would normally appear at various sections of your tax return, you can choose to complete this section instead of entering the details from the statements at each of those sections."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your statement from the managed fund."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your statement may indicate where you need to show the amounts on your tax return. If you think that any detail is wrong or is missing from the statement, contact the fund manager."
+    },
+    {
+      "type": "paragraph",
+      "text": "We have pre-filled your tax return with information provided to us by managed investment funds and trusts. Check for any managed funds distributions you received that are not pre-filled and ensure you add them."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each managed fund that has not been pre-filled, select Add and enter information into the corresponding fields. Joint accounts If you had a joint account, show the number of account holders and the total amounts. MyTax will divide the amounts equally between the number of account holders. You may alter your share of the amounts. If you do, keep a record of how you worked out your share.",
+        "For each managed fund statement that has a 13S. Total credit for tax paid by trustee greater than '0': select the Reason the trustee paid tax enter the Share of income .",
+        "Select Save .",
+        "Select Save and continue ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If your only capital gains are from a managed fund and, at the Managed funds section, your share of the current year capital gains is more than $10,000, myTax will prompt you to complete the Capital gains or losses section. myTax will complete Total current year capital gains and Net capital gain in the Capital gains or losses section from information shown in the Managed funds section. You will need to complete the Capital gains tax schedule.",
+        "If you have capital gains from a managed fund and a separate capital gains tax event during the year, when completing the Capital gains or losses section: the capital gains amounts shown in the Managed fund section will be automatically carried over for your review, and you will need to ensure that all your capital gains, including those from managed funds, are included in what you show at Total current year capital gains and Net capital gain .",
+        "If you have capital gains from a managed fund, no other capital gains tax event during the year but have a carried forward capital loss from a prior year: you should also select the Capital gains or losses that are not from a managed fund checkbox at Personalise return, the capital gains amounts shown in the Managed fund section will be automatically carried over for your review, and you will need to ensure that you capital gains from managed funds are included in what you show at Total current year capital gains and Net capital gain ."
+      ]
+    }
+  ],
+  "content_text": "Complete this section if your only source of income from trusts, capital gains or foreign income is from managed funds.\nIf you have received a statement from one or more managed funds, for example, a property trust, share trust, equity trust, growth trust, imputation trust or balanced trust, that shows income, deductions or credits that would normally appear at various sections of your tax return, you can choose to complete this section instead of entering the details from the statements at each of those sections.\n## Completing this section\nYou will need your statement from the managed fund.\nYour statement may indicate where you need to show the amounts on your tax return. If you think that any detail is wrong or is missing from the statement, contact the fund manager.\nWe have pre-filled your tax return with information provided to us by managed investment funds and trusts. Check for any managed funds distributions you received that are not pre-filled and ensure you add them.\n- For each managed fund that has not been pre-filled, select Add and enter information into the corresponding fields. Joint accounts If you had a joint account, show the number of account holders and the total amounts. MyTax will divide the amounts equally between the number of account holders. You may alter your share of the amounts. If you do, keep a record of how you worked out your share.\n- For each managed fund statement that has a 13S. Total credit for tax paid by trustee greater than '0': select the Reason the trustee paid tax enter the Share of income .\n- Select Save .\n- Select Save and continue .\nNotes:\n- If your only capital gains are from a managed fund and, at the Managed funds section, your share of the current year capital gains is more than $10,000, myTax will prompt you to complete the Capital gains or losses section. myTax will complete Total current year capital gains and Net capital gain in the Capital gains or losses section from information shown in the Managed funds section. You will need to complete the Capital gains tax schedule.\n- If you have capital gains from a managed fund and a separate capital gains tax event during the year, when completing the Capital gains or losses section: the capital gains amounts shown in the Managed fund section will be automatically carried over for your review, and you will need to ensure that all your capital gains, including those from managed funds, are included in what you show at Total current year capital gains and Net capital gain .\n- If you have capital gains from a managed fund, no other capital gains tax event during the year but have a carried forward capital loss from a prior year: you should also select the Capital gains or losses that are not from a managed fund checkbox at Personalise return, the capital gains amounts shown in the Managed fund section will be automatically carried over for your review, and you will need to ensure that you capital gains from managed funds are included in what you show at Total current year capital gains and Net capital gain .",
+  "child_links": [],
+  "word_count": 534,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

@@ -1,0 +1,119 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/other-mytax-instructions-including-spouse-details-and-income-tests/income-tests/net-rental-property-loss",
+  "title": "Net rental property loss",
+  "description": "This section is about the net loss, if any, from any rental property you owned.",
+  "nat_number": "",
+  "quick_code": "80462",
+  "date_updated": "2024-03-04T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "It is not about capital gains or capital losses from your rental properties."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "We will calculate the amount of your net rental property loss for you using the information you provide in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "MyTax will show your net rental property loss in the Income tests section."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Calculating net rental property loss"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to know how we work out your net rental property loss, complete the worksheet below."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Row",
+          "Calculation",
+          "Amount"
+        ],
+        [
+          "a",
+          "Foreign rental income - Gross income less Deductible expenses (show a loss as a negative)",
+          "$"
+        ],
+        [
+          "b",
+          "Managed funds - Your share of Total net foreign rent (show a loss as a negative)",
+          "$"
+        ],
+        [
+          "c",
+          "Rent - Net rent (show a loss as a negative)",
+          "$"
+        ],
+        [
+          "d",
+          "Partnerships - Partnership net rental property income or loss (show a loss as a negative)",
+          "$"
+        ],
+        [
+          "e",
+          "Loss details - Partnership: Deferred loss amount from carrying on a rental property business",
+          "$"
+        ],
+        [
+          "f",
+          "Loss details - Sole trader: Deferred loss amount from carrying on a rental property business",
+          "$"
+        ],
+        [
+          "g",
+          "Any other income - Assessable adjustment from low-value pool relating to rental property",
+          "$"
+        ],
+        [
+          "h",
+          "Add all amounts from rows a to g .",
+          "$"
+        ],
+        [
+          "i",
+          "Low value pool deduction - Low value pool deduction relating to rental property",
+          "$"
+        ],
+        [
+          "j",
+          "Partnerships - Partnership rental property deductions",
+          "$"
+        ],
+        [
+          "k",
+          "Other deductions - Debt deductions incurred in deriving foreign rental income",
+          "$"
+        ],
+        [
+          "l",
+          "Add all amounts from rows i to k .",
+          "$"
+        ],
+        [
+          "m",
+          "Take row l away from row h . If the amount is a negative, this amount is your Net rental property loss . Otherwise the amount will be 0 .",
+          "$"
+        ]
+      ]
+    }
+  ],
+  "content_text": "It is not about capital gains or capital losses from your rental properties.\n## Completing this section\nWe will calculate the amount of your net rental property loss for you using the information you provide in your tax return.\nMyTax will show your net rental property loss in the Income tests section.\n### Calculating net rental property loss\nIf you want to know how we work out your net rental property loss, complete the worksheet below.\nRow | Calculation | Amount\na | Foreign rental income - Gross income less Deductible expenses (show a loss as a negative) | $\nb | Managed funds - Your share of Total net foreign rent (show a loss as a negative) | $\nc | Rent - Net rent (show a loss as a negative) | $\nd | Partnerships - Partnership net rental property income or loss (show a loss as a negative) | $\ne | Loss details - Partnership: Deferred loss amount from carrying on a rental property business | $\nf | Loss details - Sole trader: Deferred loss amount from carrying on a rental property business | $\ng | Any other income - Assessable adjustment from low-value pool relating to rental property | $\nh | Add all amounts from rows a to g . | $\ni | Low value pool deduction - Low value pool deduction relating to rental property | $\nj | Partnerships - Partnership rental property deductions | $\nk | Other deductions - Debt deductions incurred in deriving foreign rental income | $\nl | Add all amounts from rows i to k . | $\nm | Take row l away from row h . If the amount is a negative, this amount is your Net rental property loss . Otherwise the amount will be 0 . | $",
+  "child_links": [],
+  "word_count": 309,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

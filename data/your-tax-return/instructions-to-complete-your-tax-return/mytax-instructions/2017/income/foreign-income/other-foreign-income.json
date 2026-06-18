@@ -1,0 +1,78 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2017/income/foreign-income/other-foreign-income",
+  "title": "myTax 2017 Other foreign income",
+  "description": "How to report attributed personal services income when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "51013",
+  "date_updated": "2017-06-11T14:00:00Z",
+  "first_published": "",
+  "keywords": "myTax, e-tax, online tax return, other income, other foreign income, foreign, income, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Other foreign income includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "foreign rental income",
+        "foreign superannuation lump sums",
+        "interest, royalties or dividends",
+        "income from carrying on a business wholly or partly overseas",
+        "any other foreign income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Foreign source income and foreign assets or property ."
+    },
+    {
+      "type": "paragraph",
+      "text": "MyTax will ask you to indicate the type of other foreign income. When you indicate the type is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Foreign rental income ; myTax will use this amount to calculate any Net rental property loss at the Income tests section",
+        "Other foreign income from a financial investment ; myTax will use this amount to calculate any Net financial investment loss at the Income tests section."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Depreciation and capital allowances tool"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use the Depreciation and capital allowances tool to work out any deductible decline in value or any balancing adjustments associated with other foreign income. To access the tool, select the 'Work it out' link in the Deductions section on the Prepare return screen."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need distribution advices from companies, partnerships and trusts and details of expenses you incurred in earning your foreign income."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each other foreign income source, select Add .",
+        "Indicate the other foreign income Type and enter information into the corresponding fields. Note: If you used the Depreciation and capital allowances tool, fields containing information from the tool cannot be directly adjusted in myTax. To make any adjustments to this information, or to add new assets to the tool, select Work it out .",
+        "Select Save .",
+        "If you haven't already done so, answer the question During the year did you have an interest - direct or indirect - in overseas assets worth AUD$50,000 or more?",
+        "Select Save and continue ."
+      ]
+    }
+  ],
+  "content_text": "Other foreign income includes:\n- foreign rental income\n- foreign superannuation lump sums\n- interest, royalties or dividends\n- income from carrying on a business wholly or partly overseas\n- any other foreign income.\nFor more information, see Foreign source income and foreign assets or property .\nMyTax will ask you to indicate the type of other foreign income. When you indicate the type is:\n- Foreign rental income ; myTax will use this amount to calculate any Net rental property loss at the Income tests section\n- Other foreign income from a financial investment ; myTax will use this amount to calculate any Net financial investment loss at the Income tests section.\n## Depreciation and capital allowances tool\nYou can use the Depreciation and capital allowances tool to work out any deductible decline in value or any balancing adjustments associated with other foreign income. To access the tool, select the 'Work it out' link in the Deductions section on the Prepare return screen.\n## Completing this section\nYou will need distribution advices from companies, partnerships and trusts and details of expenses you incurred in earning your foreign income.\n- For each other foreign income source, select Add .\n- Indicate the other foreign income Type and enter information into the corresponding fields. Note: If you used the Depreciation and capital allowances tool, fields containing information from the tool cannot be directly adjusted in myTax. To make any adjustments to this information, or to add new assets to the tool, select Work it out .\n- Select Save .\n- If you haven't already done so, answer the question During the year did you have an interest - direct or indirect - in overseas assets worth AUD$50,000 or more?\n- Select Save and continue .",
+  "child_links": [],
+  "word_count": 295,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

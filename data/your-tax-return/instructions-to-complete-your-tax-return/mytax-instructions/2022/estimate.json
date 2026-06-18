@@ -1,0 +1,313 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2022/estimate",
+  "title": "myTax 2022 Tax estimate – important information",
+  "description": "How to understand your myTax estimate and why it may differ from your final assessment.",
+  "nat_number": "",
+  "quick_code": "67848",
+  "date_updated": "2022-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Your tax estimate is based on the information in your tax return. This includes information:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you've provided",
+        "that's been pre-filled that you consider is correct."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you haven't completed all your information, myTax will still show you an estimate based on the information currently in your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "The myTax calculation is an estimate only and the final balance of your assessment may differ."
+    },
+    {
+      "type": "paragraph",
+      "text": "When we have processed your return, we will send you a notice of assessment . In some cases we send a statement of account with a notice of assessment."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Understand your myTax estimate"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you select Calculate , myTax will work out your tax estimate."
+    },
+    {
+      "type": "paragraph",
+      "text": "myTax will show your estimated tax refund or estimated tax amount owing to the ATO ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can see more details of this amount by selecting Show calculation . This will show you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your taxable income",
+        "your estimated refund or estimated amount payable, worked out as Tax on your taxable income minus Non-refundable tax offsets (these only reduce tax on your taxable income) plus Other liabilities (including Medicare levy, Medicare levy surcharge and compulsory repayment of HELP or other study and training support loans) minus Refundable tax offsets and Credits and other entitlements"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Low and middle income tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "As announced in the 2022–23 Federal Budget, the low and middle income tax offset (LMITO) has been increased by $420 for the 2021–22 income year. The base amount for the 2021–22 income year has increased to $675 and the full amount is $1,500."
+    },
+    {
+      "type": "paragraph",
+      "text": "This offset can only reduce tax on your taxable income to zero, it is not a bonus payment ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you meet the eligibility conditions , the amount of offset you receive depends on your individual circumstances, such as your taxable income and tax on your taxable income."
+    },
+    {
+      "type": "paragraph",
+      "text": "We will work out the amount of LMITO for you. You can see how much LMITO you are entitled to in the myTax estimate."
+    },
+    {
+      "type": "paragraph",
+      "text": "To see the myTax estimate, select Calculate , then select Show calculation . Any LMITO will be listed under 'Non-refundable tax offsets' as Low and middle income ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Low and middle income earner tax offsets provides more information about:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "LMITO",
+        "what is a tax offset",
+        "how tax offsets affect the tax you pay."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why your myTax estimate may differ from your final assessment"
+    },
+    {
+      "type": "paragraph",
+      "text": "The final balance of your assessment may differ from the myTax estimate when:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "it involves complex calculations – for example, income averaging",
+        "we receive information that affects the balance of your assessment."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This includes situations where you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "have a credit or debit balance with the ATO",
+        "have a debt with Services Australia or another Australian Government department",
+        "are lodging the return late",
+        "have incorrectly edited or deleted pre-filled information",
+        "received an employment termination payment",
+        "received an Australian superannuation lump sum payment",
+        "had excess concessional superannuation contributions",
+        "had excess non-concessional superannuation contributions",
+        "are entitled to use your spouse’s unused seniors and pensioners tax offset",
+        "have requested we calculate the deductible amount of your undeducted purchase price of a foreign pension or annuity",
+        "received credit for tax paid by a trustee",
+        "are entitled to a government super contribution",
+        "are entitled to a low income super tax offset",
+        "have amounts where rounding rules apply."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "After you've lodged"
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember, you have until 31 October 2022 to lodge your 2022 tax return with myTax, unless we have allowed you to lodge it later."
+    },
+    {
+      "type": "paragraph",
+      "text": "If we work out you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "are entitled to a tax refund – we will pay it to the Australian financial institution account you've nominated at Step 2 Financial institution details.",
+        "have a tax bill to pay if you lodge on time , any tax bill will be due the later of 21 November 2022 (21 days after your tax return was due to be lodged), or 21 days after you receive your notice of assessment. if you lodge late , any tax bill will be due 21 November 2022 (21 days after the tax return was due to be lodged). your notice of assessment will contain your payment advice. However, when your account balance is different to the outcome of your assessment, we send a statement of account and attach the payment advice to it. you can make payment towards your tax bill after you have lodged your tax return. See How to pay for your options."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Why you may receive a tax bill may also assist you in understanding your estimate and help preventing future debt."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "More information"
+    },
+    {
+      "type": "paragraph",
+      "text": "Outlined below are the different elements to help you understand your myTax estimate ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Taxable income"
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out your taxable income, we add together your income from all sources. This includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "employment income from your income statements and payment summaries",
+        "interest income",
+        "dividends",
+        "managed fund distributions",
+        "rental income",
+        "business or sole trader, partnership and trust income (including loss details)",
+        "capital gains or losses",
+        "foreign income, assets and entities",
+        "other income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We then reduce your income amount by any allowable deductions. These may include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Work-related expenses – for example, working from home expenses.",
+        "Other expenses – for example, gifts and donations or the cost of managing your tax affairs."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Tax on your taxable income"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your taxable income amount is matched to the income tax bracket depending on your circumstances. See, Individual income tax rates ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Non-refundable tax offsets"
+    },
+    {
+      "type": "paragraph",
+      "text": "Non-refundable tax offsets, depending on your circumstances, may include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "low income tax offset",
+        "low and middle income tax offset",
+        "beneficiary tax offset",
+        "seniors and pensioners tax offset"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Non-refundable tax offsets only reduce against the tax on your taxable income. Any excess offset is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "not refundable, and",
+        "not offset against other liabilities, like Medicare levy. (One exclusion here is any excess foreign income tax offset (FITO). Excess FITO can be offset against Medicare levy and Medicare levy surcharge.)"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Other liabilities"
+    },
+    {
+      "type": "paragraph",
+      "text": "Other liabilities, depending on your circumstances, may include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Medicare levy",
+        "Medicare levy surcharge",
+        "compulsory repayments of study and training support loans if your taxable income is more than the repayment threshold, and you have debt for Higher Education Loan Program (HELP – formerly known as HECS) VET Student Loan (VSL) Trade Support Loan (TSL) Student Financial Supplement Scheme (SFSS) Student Start-up Loan (SSL) and ABSTUDY Student Start-up Loan."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Refundable tax offsets"
+    },
+    {
+      "type": "paragraph",
+      "text": "Refundable tax offsets may include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "franking credits",
+        "private health insurance rebate or offset"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Credits and other entitlements"
+    },
+    {
+      "type": "paragraph",
+      "text": "Credits from tax may include:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "PAYG withholding – that is, tax deducted by your employer or bank.",
+        "PAYG instalments – amounts from your activity statements."
+      ]
+    }
+  ],
+  "content_text": "Your tax estimate is based on the information in your tax return. This includes information:\n- you've provided\n- that's been pre-filled that you consider is correct.\n## Things to know\nIf you haven't completed all your information, myTax will still show you an estimate based on the information currently in your tax return.\nThe myTax calculation is an estimate only and the final balance of your assessment may differ.\nWhen we have processed your return, we will send you a notice of assessment . In some cases we send a statement of account with a notice of assessment.\n## Understand your myTax estimate\nWhen you select Calculate , myTax will work out your tax estimate.\nmyTax will show your estimated tax refund or estimated tax amount owing to the ATO .\nYou can see more details of this amount by selecting Show calculation . This will show you:\n- your taxable income\n- your estimated refund or estimated amount payable, worked out as Tax on your taxable income minus Non-refundable tax offsets (these only reduce tax on your taxable income) plus Other liabilities (including Medicare levy, Medicare levy surcharge and compulsory repayment of HELP or other study and training support loans) minus Refundable tax offsets and Credits and other entitlements\n## Low and middle income tax offset\nAs announced in the 2022–23 Federal Budget, the low and middle income tax offset (LMITO) has been increased by $420 for the 2021–22 income year. The base amount for the 2021–22 income year has increased to $675 and the full amount is $1,500.\nThis offset can only reduce tax on your taxable income to zero, it is not a bonus payment .\nIf you meet the eligibility conditions , the amount of offset you receive depends on your individual circumstances, such as your taxable income and tax on your taxable income.\nWe will work out the amount of LMITO for you. You can see how much LMITO you are entitled to in the myTax estimate.\nTo see the myTax estimate, select Calculate , then select Show calculation . Any LMITO will be listed under 'Non-refundable tax offsets' as Low and middle income .\nLow and middle income earner tax offsets provides more information about:\n- LMITO\n- what is a tax offset\n- how tax offsets affect the tax you pay.\n## Why your myTax estimate may differ from your final assessment\nThe final balance of your assessment may differ from the myTax estimate when:\n- it involves complex calculations – for example, income averaging\n- we receive information that affects the balance of your assessment.\nThis includes situations where you:\n- have a credit or debit balance with the ATO\n- have a debt with Services Australia or another Australian Government department\n- are lodging the return late\n- have incorrectly edited or deleted pre-filled information\n- received an employment termination payment\n- received an Australian superannuation lump sum payment\n- had excess concessional superannuation contributions\n- had excess non-concessional superannuation contributions\n- are entitled to use your spouse’s unused seniors and pensioners tax offset\n- have requested we calculate the deductible amount of your undeducted purchase price of a foreign pension or annuity\n- received credit for tax paid by a trustee\n- are entitled to a government super contribution\n- are entitled to a low income super tax offset\n- have amounts where rounding rules apply.\n## After you've lodged\nRemember, you have until 31 October 2022 to lodge your 2022 tax return with myTax, unless we have allowed you to lodge it later.\nIf we work out you:\n- are entitled to a tax refund – we will pay it to the Australian financial institution account you've nominated at Step 2 Financial institution details.\n- have a tax bill to pay if you lodge on time , any tax bill will be due the later of 21 November 2022 (21 days after your tax return was due to be lodged), or 21 days after you receive your notice of assessment. if you lodge late , any tax bill will be due 21 November 2022 (21 days after the tax return was due to be lodged). your notice of assessment will contain your payment advice. However, when your account balance is different to the outcome of your assessment, we send a statement of account and attach the payment advice to it. you can make payment towards your tax bill after you have lodged your tax return. See How to pay for your options.\nWhy you may receive a tax bill may also assist you in understanding your estimate and help preventing future debt.\n## More information\nOutlined below are the different elements to help you understand your myTax estimate .\n### Taxable income\nTo work out your taxable income, we add together your income from all sources. This includes:\n- employment income from your income statements and payment summaries\n- interest income\n- dividends\n- managed fund distributions\n- rental income\n- business or sole trader, partnership and trust income (including loss details)\n- capital gains or losses\n- foreign income, assets and entities\n- other income.\nWe then reduce your income amount by any allowable deductions. These may include:\n- Work-related expenses – for example, working from home expenses.\n- Other expenses – for example, gifts and donations or the cost of managing your tax affairs.\n### Tax on your taxable income\nYour taxable income amount is matched to the income tax bracket depending on your circumstances. See, Individual income tax rates .\n### Non-refundable tax offsets\nNon-refundable tax offsets, depending on your circumstances, may include:\n- low income tax offset\n- low and middle income tax offset\n- beneficiary tax offset\n- seniors and pensioners tax offset\nNon-refundable tax offsets only reduce against the tax on your taxable income. Any excess offset is:\n- not refundable, and\n- not offset against other liabilities, like Medicare levy. (One exclusion here is any excess foreign income tax offset (FITO). Excess FITO can be offset against Medicare levy and Medicare levy surcharge.)\n### Other liabilities\nOther liabilities, depending on your circumstances, may include:\n- Medicare levy\n- Medicare levy surcharge\n- compulsory repayments of study and training support loans if your taxable income is more than the repayment threshold, and you have debt for Higher Education Loan Program (HELP – formerly known as HECS) VET Student Loan (VSL) Trade Support Loan (TSL) Student Financial Supplement Scheme (SFSS) Student Start-up Loan (SSL) and ABSTUDY Student Start-up Loan.\n### Refundable tax offsets\nRefundable tax offsets may include:\n- franking credits\n- private health insurance rebate or offset\n### Credits and other entitlements\nCredits from tax may include:\n- PAYG withholding – that is, tax deducted by your employer or bank.\n- PAYG instalments – amounts from your activity statements.",
+  "child_links": [],
+  "word_count": 1137,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

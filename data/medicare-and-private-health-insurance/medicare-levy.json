@@ -1,0 +1,33 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy",
+  "title": "Medicare levy",
+  "description": "Find out about the Medicare levy and if you are eligible for an exemption or reduction.",
+  "nat_number": "9161",
+  "quick_code": "27030",
+  "date_updated": "2026-04-29T14:00:00Z",
+  "first_published": "",
+  "keywords": "Medicare, medicare levy, medicare levy exemption, medicare exemption, medicare levy surcharge, medicare surcharge",
+  "content_blocks": [],
+  "content_text": "",
+  "child_links": [
+    {
+      "title": "What is the Medicare levy?",
+      "description": "The Medicare levy is an amount you pay in addition to the tax you pay on your taxable income.",
+      "url": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy/what-is-the-medicare-levy"
+    },
+    {
+      "title": "Medicare levy exemption",
+      "description": "Find out about Medicare levy exemptions for medical conditions, foreign residents or entitlement to Medicare benefits.",
+      "url": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy/medicare-levy-exemption"
+    },
+    {
+      "title": "Medicare levy reduction",
+      "description": "Find out if you are eligible for a Medicare levy reduction based on your income or family income.",
+      "url": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy/medicare-levy-reduction"
+    }
+  ],
+  "word_count": 0,
+  "source_title": "",
+  "source_description": "",
+  "category": "medicare-and-private-health-insurance"
+}

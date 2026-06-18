@@ -1,0 +1,198 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/income/australian-income-or-losses-from-investments-or-property/rent",
+  "title": "myTax 2018 Rent",
+  "description": "How to report rent when you lodge your return using myTax.",
+  "nat_number": "",
+  "quick_code": "55664",
+  "date_updated": "2018-06-27T14:00:00Z",
+  "first_published": "",
+  "keywords": "2018, myTax, e-tax, online tax return, rent, rental income, etax, rental property",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "For further help about this section, use the left hand side table of contents."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rental income"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the full amount of money you earn when you rent out your property (including if you are renting out a room through the sharing economy). You must include any bond money retained in place of rent or kept because of damage to the property requiring repairs. An insurance payout for lost rent or a reimbursement of any rental expenses you claim in 2017–18 or claimed in an earlier year must also be included as income."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rental expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim most expenses relating to your rental property but only for the period your property was rented or available for rent, for example, advertised for rent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Expenses could include advertising for tenants, bank charges, body corporate fees, borrowing expenses, council rates, decline in value of depreciating assets, gardening and lawn mowing, insurance, land tax, pest control, property agent fees or commissions, repairs and maintenance, stationery, phone and water charges."
+    },
+    {
+      "type": "paragraph",
+      "text": "If part of your property is used to earn rent, you can claim expenses relating to only that part of the property. You will need to work out a reasonable basis to apportion the claim. You can however, claim 100% of any fees or commissions charged by a sharing economy facilitator or administrator."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information about rental income and expenses, see:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Rental income",
+        "Rental expenses"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Changes to residential rental property travel expenses"
+    },
+    {
+      "type": "paragraph",
+      "text": "From 1 July 2017, travel expenses relating to your residential rental property are not deductible unless you are carrying on a business of property investing . As with prior years, these travel expenses cannot be included in calculations of your capital gain or capital loss when you dispose of the property."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your travel expenses relate to your residential rental property and another income producing activity, you will need to apportion the expenses on a fair and reasonable basis."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Travel and car expenses ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Changes to limit on deductions for decline in value of second-hand depreciating assets"
+    },
+    {
+      "type": "paragraph",
+      "text": "From 1 July 2017, you cannot claim a deduction for the decline in value of certain second-hand depreciating assets in your residential rental property unless you are carrying on a business of property investing ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, see Limit on deduction for decline in value of second-hand depreciating assets ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Do not show at this section"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "a deduction for the decline in value of a low-value pool; show this at Low-value pool deduction in the Deductions section",
+        "foreign source rental income, that is, rental income from properties outside Australia; show this at Other foreign income in the Foreign income, assets and entities section",
+        "expenses incurred in earning rental income from properties located outside Australia; show this at Other foreign income in the Foreign income, assets and entities section."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you can't see these sections, use the Personalise return screen to select those sections that apply to you. For further help with personalising your return, see How to personalise your return ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Depreciation and capital allowances tool"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use the Depreciation and capital allowances tool to work out any capital allowances or capital works expenses. The tool can be accessed when you add your rental property details."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following video shows you how to use the Depreciation and capital allowances tool."
+    },
+    {
+      "type": "paragraph",
+      "text": "Media: How to use the Depreciation and capital allowance tool http://tv.ato.gov.au/ato-tv/media?v=bd1bdiuboi7hki External Link ( Duration: 3:56)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need details of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "all rental income earned",
+        "interest charged on money you borrowed for the rental property",
+        "other expenses relating to your rental property",
+        "any expenditure on capital works to your rental property."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We may have pre-filled your tax return with some rental property details from your last year's tax return. Check for rental properties you own or have an interest in that are not pre-filled and ensure you add them."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each rental property that has been pre-filled in your tax return, add any rental property details not pre-filled.",
+        "For each rental property you own or have an interest in that has not been pre-filled in your tax return, select Add and enter rental property details into the corresponding fields. Co-ownership If your Ownership percentage is less than 100%, myTax will calculate your share of rental income and expenses, using your ownership percentage, and display the amount at the corresponding Your share field. For more information, see Co-ownership of rental property . You may alter your share of the amounts. If you do, keep a record of how you worked out your share.",
+        "Enter rental income in the corresponding fields.",
+        "Enter rental expenses in the corresponding fields.",
+        "Select Save .",
+        "Select Save and continue ."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: If you used the Depreciation and capital allowances tool, fields containing information from the tool cannot be directly adjusted in myTax. To make any adjustments to this information, or to add new assets to the tool, select Work it out ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following video shows you how to include rental income and expenses in myTax."
+    },
+    {
+      "type": "paragraph",
+      "text": "Media: How to include rental income and expenses in myTax http://tv.ato.gov.au/ato-tv/media?v=bd1bdiubtjsfhw External Link ( Duration: 4:06)"
+    }
+  ],
+  "content_text": "For further help about this section, use the left hand side table of contents.\n## Rental income\nThis is the full amount of money you earn when you rent out your property (including if you are renting out a room through the sharing economy). You must include any bond money retained in place of rent or kept because of damage to the property requiring repairs. An insurance payout for lost rent or a reimbursement of any rental expenses you claim in 2017–18 or claimed in an earlier year must also be included as income.\n## Rental expenses\nYou can claim most expenses relating to your rental property but only for the period your property was rented or available for rent, for example, advertised for rent.\nExpenses could include advertising for tenants, bank charges, body corporate fees, borrowing expenses, council rates, decline in value of depreciating assets, gardening and lawn mowing, insurance, land tax, pest control, property agent fees or commissions, repairs and maintenance, stationery, phone and water charges.\nIf part of your property is used to earn rent, you can claim expenses relating to only that part of the property. You will need to work out a reasonable basis to apportion the claim. You can however, claim 100% of any fees or commissions charged by a sharing economy facilitator or administrator.\nFor more information about rental income and expenses, see:\n- Rental income\n- Rental expenses\n### Changes to residential rental property travel expenses\nFrom 1 July 2017, travel expenses relating to your residential rental property are not deductible unless you are carrying on a business of property investing . As with prior years, these travel expenses cannot be included in calculations of your capital gain or capital loss when you dispose of the property.\nIf your travel expenses relate to your residential rental property and another income producing activity, you will need to apportion the expenses on a fair and reasonable basis.\nFor more information, see Travel and car expenses .\n### Changes to limit on deductions for decline in value of second-hand depreciating assets\nFrom 1 July 2017, you cannot claim a deduction for the decline in value of certain second-hand depreciating assets in your residential rental property unless you are carrying on a business of property investing .\nFor more information, see Limit on deduction for decline in value of second-hand depreciating assets .\n## Do not show at this section\n- a deduction for the decline in value of a low-value pool; show this at Low-value pool deduction in the Deductions section\n- foreign source rental income, that is, rental income from properties outside Australia; show this at Other foreign income in the Foreign income, assets and entities section\n- expenses incurred in earning rental income from properties located outside Australia; show this at Other foreign income in the Foreign income, assets and entities section.\nIf you can't see these sections, use the Personalise return screen to select those sections that apply to you. For further help with personalising your return, see How to personalise your return .\n## Depreciation and capital allowances tool\nYou can use the Depreciation and capital allowances tool to work out any capital allowances or capital works expenses. The tool can be accessed when you add your rental property details.\nThe following video shows you how to use the Depreciation and capital allowances tool.\nMedia: How to use the Depreciation and capital allowance tool http://tv.ato.gov.au/ato-tv/media?v=bd1bdiuboi7hki External Link ( Duration: 3:56)\n## Completing this section\nYou will need details of:\n- all rental income earned\n- interest charged on money you borrowed for the rental property\n- other expenses relating to your rental property\n- any expenditure on capital works to your rental property.\nWe may have pre-filled your tax return with some rental property details from your last year's tax return. Check for rental properties you own or have an interest in that are not pre-filled and ensure you add them.\n- For each rental property that has been pre-filled in your tax return, add any rental property details not pre-filled.\n- For each rental property you own or have an interest in that has not been pre-filled in your tax return, select Add and enter rental property details into the corresponding fields. Co-ownership If your Ownership percentage is less than 100%, myTax will calculate your share of rental income and expenses, using your ownership percentage, and display the amount at the corresponding Your share field. For more information, see Co-ownership of rental property . You may alter your share of the amounts. If you do, keep a record of how you worked out your share.\n- Enter rental income in the corresponding fields.\n- Enter rental expenses in the corresponding fields.\n- Select Save .\n- Select Save and continue .\nNote: If you used the Depreciation and capital allowances tool, fields containing information from the tool cannot be directly adjusted in myTax. To make any adjustments to this information, or to add new assets to the tool, select Work it out .\nThe following video shows you how to include rental income and expenses in myTax.\nMedia: How to include rental income and expenses in myTax http://tv.ato.gov.au/ato-tv/media?v=bd1bdiubtjsfhw External Link ( Duration: 4:06)",
+  "child_links": [
+    {
+      "title": "You need to know",
+      "description": "Details of co-ownership of rental property.",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/income/australian-income-or-losses-from-investments-or-property/rent/you-need-to-know"
+    },
+    {
+      "title": "Rental income",
+      "description": "Details of rental and other rental-related income to guide you on your tax return.",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/income/australian-income-or-losses-from-investments-or-property/rent/rental-income"
+    },
+    {
+      "title": "Rental expenses",
+      "description": "Refer to this guide on what you can and cannot claim under rental expenses.",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/income/australian-income-or-losses-from-investments-or-property/rent/rental-expenses"
+    },
+    {
+      "title": "Other tax considerations",
+      "description": "Details on capital gains tax, GST, negative gearing and PAYG instalments.",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/income/australian-income-or-losses-from-investments-or-property/rent/other-tax-considerations"
+    },
+    {
+      "title": "Definitions",
+      "description": "Descriptions on excluded entity, residential rental property, plant and examples.",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/income/australian-income-or-losses-from-investments-or-property/rent/definitions"
+    }
+  ],
+  "word_count": 873,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

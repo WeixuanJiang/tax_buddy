@@ -1,0 +1,212 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2011/tax-return/income/4-employment-termination-payments-2011",
+  "title": "About question 4",
+  "description": "Complete question 4 to declare employment termination payments you received due to the termination of your employment.",
+  "nat_number": "976",
+  "quick_code": "25443",
+  "date_updated": "2014-11-05T13:00:00Z",
+  "first_published": "",
+  "keywords": "TaxPack, ETP, eligible termination payment, income",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "This question is about employment termination payments (ETPs), which you received as a result of the termination of your employment."
+    },
+    {
+      "type": "paragraph",
+      "text": "These payments are shown on a PAYG payment summary - employment termination payment (NAT 70868)."
+    },
+    {
+      "type": "paragraph",
+      "text": "This item also includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "death benefit ETPs; these are certain payments made as a consequence of the cessation of a person's employment that you received due to that person's death (see Special circumstances and glossary for more information)",
+        "foreign ETPs; these are certain ETPs received from overseas employment which were exempt from income tax under that country's law (see Special circumstances and glossary for more information)",
+        "late termination payments; these are certain ETPs you received more than 12 months after you retired or ceased employment (see Special circumstances and glossary for more information)",
+        "transitional termination payments; these are certain ETPs you were entitled to on 9 May 2006 (see Special circumstances and glossary for more information)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show the following payments anywhere on your tax return:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "foreign termination payments; these are certain termination payments that were not exempt from income tax of the foreign country (see Special circumstances and glossary for more information)",
+        "directed termination payments; these are transitional termination payments that can, at your request, be paid by your employer to a complying superannuation fund or to purchase a superannuation annuity",
+        "ETPs you received as the trustee of a deceased estate; these payments must be shown on the trust tax return of the deceased estate."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Did you receive an ETP?"
+        ],
+        [
+          "No",
+          "go to question 5 - Australian Government allowances and payments , or return to main menu Tax return for individuals instructions ."
+        ],
+        [
+          "Yes",
+          "Read below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Answering this question"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your PAYG payment summary - employment termination payment ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you do not have all your payment summaries, refer to statutory declaration ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have received a foreign ETP, your foreign employer may not have issued you with a PAYG payment summary - employment termination payment . See Special circumstances and glossary for further instructions."
+    },
+    {
+      "type": "paragraph",
+      "text": "For information about late termination payments , transitional termination payments , foreign termination payments , directed termination payments and death benefits dependants , see Special circumstances and glossary ."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received two or more ETPs, go to step 5. Otherwise, read on."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write in the left column at item 4 the date of payment and your payer's Australian business number (ABN), as shown on your PAYG payment summary - employment termination payment ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the total amount of tax withheld from your ETP, as shown on your PAYG payment summary - employment termination payment, under Tax withheld at the left of I item 4 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write the taxable component of your ETP, as shown on your PAYG payment summary - employment termination payment, at I item 4 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print the appropriate code letter for the payment type in the TYPE box at the right of I on your tax return. If none of the following apply to you, leave the box blank."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "T",
+          "if you received a transitional termination payment"
+        ],
+        [
+          "S",
+          "if you received an ETP in 2010-11 that was not a transitional termination payment or a death benefit ETP and you had received another such ETP in an earlier income year for the same termination of employment"
+        ],
+        [
+          "D",
+          "if you received a death benefit ETP and you were a death benefits dependant"
+        ],
+        [
+          "B",
+          "if you received a death benefit ETP in 2010-11 and you were not a death benefits dependant and you had received another death benefit ETP in an earlier income year for the same termination of employment"
+        ],
+        [
+          "N",
+          "if you received a death benefit ETP and you were not a death benefits dependant, and code B does not apply."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You have now finished this question, go to question 5 - Australian Government allowances and payments or return to main menu Tax return for individuals instructions ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received two or more ETPs, you need to complete an Employment termination payment schedule (NAT 71744) using the information shown on your payment summaries."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 6"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you have completed the schedule, transfer the totals you have written on it to item 4 on your tax return. Write the total tax withheld under Tax withheld at the left of I , write the total taxable component at I , and print the code letter M in the TYPE box."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not write any date of payment or payer's ABN on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Step 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Attach your schedule to page 3 of your tax return and print X in the Yes box at Taxpayer's declaration question 2a on page 12 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "More information"
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information about employment termination payments (ETPs), go to www.ato.gov.au and enter 'employment termination payments' in the 'Search for' box at the top of the page."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Where to go next go to question 5 - Australian Government allowances and payments return to main menu Tax return for individuals instructions , or go back to question 3 - Employer lump sum payments ."
+        ]
+      ]
+    }
+  ],
+  "content_text": "This question is about employment termination payments (ETPs), which you received as a result of the termination of your employment.\nThese payments are shown on a PAYG payment summary - employment termination payment (NAT 70868).\nThis item also includes:\n- death benefit ETPs; these are certain payments made as a consequence of the cessation of a person's employment that you received due to that person's death (see Special circumstances and glossary for more information)\n- foreign ETPs; these are certain ETPs received from overseas employment which were exempt from income tax under that country's law (see Special circumstances and glossary for more information)\n- late termination payments; these are certain ETPs you received more than 12 months after you retired or ceased employment (see Special circumstances and glossary for more information)\n- transitional termination payments; these are certain ETPs you were entitled to on 9 May 2006 (see Special circumstances and glossary for more information).\nDo not show the following payments anywhere on your tax return:\n- foreign termination payments; these are certain termination payments that were not exempt from income tax of the foreign country (see Special circumstances and glossary for more information)\n- directed termination payments; these are transitional termination payments that can, at your request, be paid by your employer to a complying superannuation fund or to purchase a superannuation annuity\n- ETPs you received as the trustee of a deceased estate; these payments must be shown on the trust tax return of the deceased estate.\nDid you receive an ETP?\nNo | go to question 5 - Australian Government allowances and payments , or return to main menu Tax return for individuals instructions .\nYes | Read below.\n# Answering this question\nYou will need your PAYG payment summary - employment termination payment .\nIf you do not have all your payment summaries, refer to statutory declaration .\nIf you have received a foreign ETP, your foreign employer may not have issued you with a PAYG payment summary - employment termination payment . See Special circumstances and glossary for further instructions.\nFor information about late termination payments , transitional termination payments , foreign termination payments , directed termination payments and death benefits dependants , see Special circumstances and glossary .\n# Completing your tax return\nIf you received two or more ETPs, go to step 5. Otherwise, read on.\n## Step 1\nWrite in the left column at item 4 the date of payment and your payer's Australian business number (ABN), as shown on your PAYG payment summary - employment termination payment .\n## Step 2\nWrite the total amount of tax withheld from your ETP, as shown on your PAYG payment summary - employment termination payment, under Tax withheld at the left of I item 4 .\n## Step 3\nWrite the taxable component of your ETP, as shown on your PAYG payment summary - employment termination payment, at I item 4 .\n## Step 4\nPrint the appropriate code letter for the payment type in the TYPE box at the right of I on your tax return. If none of the following apply to you, leave the box blank.\nT | if you received a transitional termination payment\nS | if you received an ETP in 2010-11 that was not a transitional termination payment or a death benefit ETP and you had received another such ETP in an earlier income year for the same termination of employment\nD | if you received a death benefit ETP and you were a death benefits dependant\nB | if you received a death benefit ETP in 2010-11 and you were not a death benefits dependant and you had received another death benefit ETP in an earlier income year for the same termination of employment\nN | if you received a death benefit ETP and you were not a death benefits dependant, and code B does not apply.\nYou have now finished this question, go to question 5 - Australian Government allowances and payments or return to main menu Tax return for individuals instructions .\n## Step 5\nIf you received two or more ETPs, you need to complete an Employment termination payment schedule (NAT 71744) using the information shown on your payment summaries.\n## Step 6\nWhen you have completed the schedule, transfer the totals you have written on it to item 4 on your tax return. Write the total tax withheld under Tax withheld at the left of I , write the total taxable component at I , and print the code letter M in the TYPE box.\nDo not write any date of payment or payer's ABN on your tax return.\n## Step 7\nAttach your schedule to page 3 of your tax return and print X in the Yes box at Taxpayer's declaration question 2a on page 12 of your tax return.\n## More information\nFor more information about employment termination payments (ETPs), go to www.ato.gov.au and enter 'employment termination payments' in the 'Search for' box at the top of the page.\nWhere to go next go to question 5 - Australian Government allowances and payments return to main menu Tax return for individuals instructions , or go back to question 3 - Employer lump sum payments .",
+  "child_links": [],
+  "word_count": 874,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

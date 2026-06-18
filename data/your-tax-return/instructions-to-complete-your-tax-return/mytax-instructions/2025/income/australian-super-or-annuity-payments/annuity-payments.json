@@ -1,0 +1,98 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2025/income/australian-super-or-annuity-payments/annuity-payments",
+  "title": "myTax 2025 Australian annuity payments",
+  "description": "How to report payments you received from Australian annuities when lodging your tax return using myTax.",
+  "nat_number": "",
+  "quick_code": "104168",
+  "date_updated": "2025-06-01T22:08:00Z",
+  "first_published": true,
+  "keywords": "myTax 2025, Annuity payment, myTax",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete this section if you received any Australian annuities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Australian annuities (or non-superannuation annuities) are a series of regular payments you receive from a life insurance company or friendly society in return for a lump sum payment. These payments are shown on your PAYG payment summary – individual non-business ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Most annuities have both taxable and tax-free components."
+    },
+    {
+      "type": "paragraph",
+      "text": "Taxable annuity payments will be included in your assessable income when received. This includes annuities received by you as a reversionary beneficiary ."
+    },
+    {
+      "type": "paragraph",
+      "text": "There may be a deductible amount of the undeducted purchase price (UPP)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The UPP is the amount you contributed towards the purchase price of your annuity for which you didn't claim, and weren't eligible to claim, a tax deduction. The deductible amount is that part of your annual annuity income which represents a return to you of your personal contribution that is free from tax."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Reversionary beneficiary"
+    },
+    {
+      "type": "paragraph",
+      "text": "The person nominated by a super fund member to automatically receive an income stream (pension/annuity) on the death of a member."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll need your PAYG payment summary – individual non-business that shows the amount of your annuity and its undeducted purchase price (UPP)."
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your tax return with payment summary information provided to us. Check them and add any Australian annuity payments you received that haven't pre-filled."
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your tax return to show Australian annuity payments, at Personalise return select:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You had income from Australian superannuation or annuity funds",
+        "Annuities"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your Australian annuity payments, at Prepare return select 'Add/Edit' at the Income statements and payment summaries banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Australian annuity payments banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each Australian annuity payment summary that hasn't pre-filled in your tax return, select Add and enter information into the corresponding fields. MyTax will work out the assessable amount by subtracting the Deductible amount of UPP from the Gross amount of annuity .",
+        "Select Save .",
+        "Select Save and continue when you have completed the Income statements and payment summaries section."
+      ]
+    }
+  ],
+  "content_text": "## Things to know\nComplete this section if you received any Australian annuities.\nAustralian annuities (or non-superannuation annuities) are a series of regular payments you receive from a life insurance company or friendly society in return for a lump sum payment. These payments are shown on your PAYG payment summary – individual non-business .\nMost annuities have both taxable and tax-free components.\nTaxable annuity payments will be included in your assessable income when received. This includes annuities received by you as a reversionary beneficiary .\nThere may be a deductible amount of the undeducted purchase price (UPP).\nThe UPP is the amount you contributed towards the purchase price of your annuity for which you didn't claim, and weren't eligible to claim, a tax deduction. The deductible amount is that part of your annual annuity income which represents a return to you of your personal contribution that is free from tax.\n### Reversionary beneficiary\nThe person nominated by a super fund member to automatically receive an income stream (pension/annuity) on the death of a member.\n## Completing this section\nYou'll need your PAYG payment summary – individual non-business that shows the amount of your annuity and its undeducted purchase price (UPP).\nWe pre-fill your tax return with payment summary information provided to us. Check them and add any Australian annuity payments you received that haven't pre-filled.\nTo personalise your tax return to show Australian annuity payments, at Personalise return select:\n- You had income from Australian superannuation or annuity funds\n- Annuities\nTo show your Australian annuity payments, at Prepare return select 'Add/Edit' at the Income statements and payment summaries banner.\nAt the Australian annuity payments banner:\n- For each Australian annuity payment summary that hasn't pre-filled in your tax return, select Add and enter information into the corresponding fields. MyTax will work out the assessable amount by subtracting the Deductible amount of UPP from the Gross amount of annuity .\n- Select Save .\n- Select Save and continue when you have completed the Income statements and payment summaries section.",
+  "child_links": [],
+  "word_count": 340,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

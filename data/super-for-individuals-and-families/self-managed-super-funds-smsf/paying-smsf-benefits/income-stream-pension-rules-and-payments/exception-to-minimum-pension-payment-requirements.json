@@ -1,0 +1,281 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/paying-smsf-benefits/income-stream-pension-rules-and-payments/exception-to-minimum-pension-payment-requirements",
+  "title": "Exception to minimum pension payment requirements",
+  "description": "The required conditions for us to consider allowing a pension to continue when it hasn't met minimum pension payments.",
+  "nat_number": "",
+  "quick_code": "103944",
+  "date_updated": "2025-11-04T13:00:00Z",
+  "first_published": "",
+  "keywords": "exception minimum pension payment requirements SMSF, SMSF pension exception, exception account-based income stream SMSF, exception TRIS SMSF, request exception SMSF",
+  "content_blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "About the exception"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are limited circumstances where the Commissioner of Taxation's general administrative powers may allow an account-based pension to continue even though the minimum pension payment requirement for the income year has not been met."
+    },
+    {
+      "type": "paragraph",
+      "text": "The minimum pension payments will not have been met if the total payments for an income year are less than the minimum pension payment requirement for the pension for the income year."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conditions for the exception"
+    },
+    {
+      "type": "paragraph",
+      "text": "The exception generally applies only if all the following conditions are met:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You did not pay the minimum pension amount in that income year because an honest mistake resulted in a small underpayment (does not exceed one-twelfth of the minimum pension payment in the income year), or there were matters outside of your control",
+        "If the income stream was in the retirement phase, the exempt current pension income (ECPI) exemption would have continued if you had made the minimum payment.",
+        "When you became aware the minimum payment was not made, you either made a catch-up payment as soon as practicable (generally within 28 days) in the current income year treated a payment made in the current income year as being made in that prior income year.",
+        "If you had made the catch-up payment in the prior income year, the minimum pension standards would have been met.",
+        "For all other purposes, you treat the catch-up payment as if it were made in the prior income year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have not applied the exception in a prior income year, you can self-assess whether you meet the conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have applied the exception in the past (by self-assessing conditions are met), you cannot apply it again. You will need to write to us and ask us if we will make an exception."
+    },
+    {
+      "type": "paragraph",
+      "text": "If all conditions above are met:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The super income stream is considered to have continued. The proportions of tax-free and taxable components calculated when the super income stream commenced will continue to apply to superannuation income stream benefits.",
+        "If the income stream was in the retirement phase, you can continue to claim a tax exemption for earnings on assets supporting that pension.",
+        "Payments continue to be treated as super income stream benefit payments (pension payments) and not super lump sums."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If all conditions above are not met, the super income stream will be treated as having ended at the start of the income year for income tax purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "If an SMSF pays more than one pension to one or more members, the minimum pension payment requirements must be met for each pension. If you did not meet the minimum pension payments for one or more pensions, you must consider the exception conditions for each pension."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: trustee did not meet minimum pension payment for one member's pension in an income year, but did for another"
+    },
+    {
+      "type": "paragraph",
+      "text": "The fund has 2 members who both receive a pension:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Member A gets Pension 1 and receives income greater than the minimum required.",
+        "Member B gets Pension 2 and receives less than the minimum required."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Both pensions are in the retirement phase."
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustee must ensure each pension meets the minimum payment requirements. The requirement is met for Pension 1 but not for Pension 2."
+    },
+    {
+      "type": "paragraph",
+      "text": "If all conditions are met, the exception can be applied for Pension 2. The fund will be treated as if it continuously paid Pension 2 despite the underpayment."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the conditions are not met, Pension 2 will cease for income tax purposes and we will treat it as not having been paid from the start of the income year. The fund can't claim ECPI in relation to income from the assets supporting Pension 2."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: trustee incorrectly calculates minimum pension requirement"
+    },
+    {
+      "type": "paragraph",
+      "text": "The trustee uses the incorrect minimum pension payment concession (minimum percentage reduced by 50% for the 2019–23 income years). To calculate the minimum pension payment amount for the 2024 income year, they used the previous year reduced percentage rate and there was a delay in updating their computer system to the new rate. This was an honest administrative error."
+    },
+    {
+      "type": "paragraph",
+      "text": "They need to assess if all the following apply:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Payments were made during the year and failing to meet the minimum payment requirements by 30 June 2024 was due to an honest administrative error.",
+        "The underpayment was small (it doesn't exceed one-twelfth of the minimum annual pension payment).",
+        "They made a catch-up payment as soon as practicable, in the following income year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If they meet all of these conditions, they can self-assess the entitlement to the exception to treat the SMSF as having continuously paid a super income stream."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Example: minimum payment requirements were not met due to factors outside trustee's control"
+    },
+    {
+      "type": "paragraph",
+      "text": "Both members of a 2-member SMSF are injured in a car accident just before the final pension payment for the relevant year. They were both incapacitated and spent extended periods in hospital recovering."
+    },
+    {
+      "type": "paragraph",
+      "text": "They were unable to make the payment before 30 June. The payment is made in August of the following income year."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, we would consider all the following to determine whether to allow the exception:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The pension would have continued if the minimum amount had been paid.",
+        "The catch-up amount was made as soon as practicable and the trustee treats it as if it were made in the prior income year.",
+        "The circumstances were out of the trustee's control."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Transition to retirement income stream (TRIS)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The exception may apply for a TRIS if you did not pay the minimum pension amount for the income year, but the TRIS must still meet all the other minimum pension standards to be an account-based pension."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exception does not apply to a TRIS if you have paid more than the maximum limit of 10% of the account balance."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a TRIS is not in retirement phase in the income year you failed to pay the minimum pension amount, it will not be eligible for the ECPI exemption, therefore the ECPI component of the exception will not be relevant."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Allocated pensions started before 19 September 2007"
+    },
+    {
+      "type": "paragraph",
+      "text": "The exception may apply to these pensions if they continue to be paid under the previous pension payment standards ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also consider applying the exception if you made a choice after 1 July 2007 to start paying the allocated pension under the new minimum pension standards (or account-based pension standards). The fund rules must allow the choice to operate under the new minimum pension standards. A new pension is not required."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "What is a small underpayment?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A small underpayment is one that doesn't exceed one-twelfth of the minimum pension payment in the income year. If the underpayment exceeds one-twelfth, you need to write to us and explain why you couldn't make the minimum payment."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "What does 'as soon as practicable' mean?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, if the underpayment is due to an honest error, we consider 'as soon as practicable' is within 28 days after you become aware of the underpayment."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the underpayment is due to matters outside your control, 'as soon as practicable' is within 28 days after you are in a position to be aware of the underpayment."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to request the exception"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can request in writing that we apply the exception if you:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "haven't met all the exception conditions to self-assess and apply the exception",
+        "have previously (through self-assessment or at the Commissioner's discretion) applied the exception."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You need to write to us, provide evidence and explain why you did not meet the minimum pension payment requirements. We'll consider each case and make a decision."
+    },
+    {
+      "type": "paragraph",
+      "text": "Include the following information with your request:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "details for all pensions paid by the fund during the relevant income year the underpayment was made including the recipient member type of pension – for example, account-based, allocated or market-linked minimum pension amount and minimum percentage factor actual amount paid and shortfall amount, if relevant",
+        "date each shortfall was identified",
+        "how each shortfall was identified",
+        "detailed reasoning why the shortfall occurred",
+        "evidence showing the catch-up payments paid from the fund's account to the members receipt of each catch-up payment by the members the fund had sufficient liquidity on 30 June to have otherwise met the minimum pension amounts required",
+        "if the fund previously failed to meet its minimum pension requirements, provide details of the underpayment and whether the trustees self-assessed or applied for the Commissioner's discretion",
+        "outline the systems put in place by the trustees to ensure minimum pension requirements will be met in future income years",
+        "the amount of tax in dispute – this is the difference between the tax position if the Commissioner both does not consider the fund to have met its minimum pension requirements considers the fund to have met its minimum pension requirements."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To make a request, write to us at:"
+    },
+    {
+      "type": "paragraph",
+      "text": "AUSTRALIAN TAXATION OFFICE PO BOX 3100 PENRITH NSW 2740"
+    },
+    {
+      "type": "paragraph",
+      "text": "To ensure a fair and reasonable outcome for each case, decisions align to the:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "ATO Charter",
+        "compliance model",
+        "good decision-making model."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The good decision-making model requires decisions to be legal, ethical, open, sensible, timely and in accordance with the principles of natural justice."
+    }
+  ],
+  "content_text": "## About the exception\nThere are limited circumstances where the Commissioner of Taxation's general administrative powers may allow an account-based pension to continue even though the minimum pension payment requirement for the income year has not been met.\nThe minimum pension payments will not have been met if the total payments for an income year are less than the minimum pension payment requirement for the pension for the income year.\n## Conditions for the exception\nThe exception generally applies only if all the following conditions are met:\n- You did not pay the minimum pension amount in that income year because an honest mistake resulted in a small underpayment (does not exceed one-twelfth of the minimum pension payment in the income year), or there were matters outside of your control\n- If the income stream was in the retirement phase, the exempt current pension income (ECPI) exemption would have continued if you had made the minimum payment.\n- When you became aware the minimum payment was not made, you either made a catch-up payment as soon as practicable (generally within 28 days) in the current income year treated a payment made in the current income year as being made in that prior income year.\n- If you had made the catch-up payment in the prior income year, the minimum pension standards would have been met.\n- For all other purposes, you treat the catch-up payment as if it were made in the prior income year.\nIf you have not applied the exception in a prior income year, you can self-assess whether you meet the conditions.\nIf you have applied the exception in the past (by self-assessing conditions are met), you cannot apply it again. You will need to write to us and ask us if we will make an exception.\nIf all conditions above are met:\n- The super income stream is considered to have continued. The proportions of tax-free and taxable components calculated when the super income stream commenced will continue to apply to superannuation income stream benefits.\n- If the income stream was in the retirement phase, you can continue to claim a tax exemption for earnings on assets supporting that pension.\n- Payments continue to be treated as super income stream benefit payments (pension payments) and not super lump sums.\nIf all conditions above are not met, the super income stream will be treated as having ended at the start of the income year for income tax purposes.\nIf an SMSF pays more than one pension to one or more members, the minimum pension payment requirements must be met for each pension. If you did not meet the minimum pension payments for one or more pensions, you must consider the exception conditions for each pension.\n### Example: trustee did not meet minimum pension payment for one member's pension in an income year, but did for another\nThe fund has 2 members who both receive a pension:\n- Member A gets Pension 1 and receives income greater than the minimum required.\n- Member B gets Pension 2 and receives less than the minimum required.\nBoth pensions are in the retirement phase.\nThe trustee must ensure each pension meets the minimum payment requirements. The requirement is met for Pension 1 but not for Pension 2.\nIf all conditions are met, the exception can be applied for Pension 2. The fund will be treated as if it continuously paid Pension 2 despite the underpayment.\nIf the conditions are not met, Pension 2 will cease for income tax purposes and we will treat it as not having been paid from the start of the income year. The fund can't claim ECPI in relation to income from the assets supporting Pension 2.\n### Example: trustee incorrectly calculates minimum pension requirement\nThe trustee uses the incorrect minimum pension payment concession (minimum percentage reduced by 50% for the 2019–23 income years). To calculate the minimum pension payment amount for the 2024 income year, they used the previous year reduced percentage rate and there was a delay in updating their computer system to the new rate. This was an honest administrative error.\nThey need to assess if all the following apply:\n- Payments were made during the year and failing to meet the minimum payment requirements by 30 June 2024 was due to an honest administrative error.\n- The underpayment was small (it doesn't exceed one-twelfth of the minimum annual pension payment).\n- They made a catch-up payment as soon as practicable, in the following income year.\nIf they meet all of these conditions, they can self-assess the entitlement to the exception to treat the SMSF as having continuously paid a super income stream.\n### Example: minimum payment requirements were not met due to factors outside trustee's control\nBoth members of a 2-member SMSF are injured in a car accident just before the final pension payment for the relevant year. They were both incapacitated and spent extended periods in hospital recovering.\nThey were unable to make the payment before 30 June. The payment is made in August of the following income year.\nIn this case, we would consider all the following to determine whether to allow the exception:\n- The pension would have continued if the minimum amount had been paid.\n- The catch-up amount was made as soon as practicable and the trustee treats it as if it were made in the prior income year.\n- The circumstances were out of the trustee's control.\n### Transition to retirement income stream (TRIS)\nThe exception may apply for a TRIS if you did not pay the minimum pension amount for the income year, but the TRIS must still meet all the other minimum pension standards to be an account-based pension.\nThe exception does not apply to a TRIS if you have paid more than the maximum limit of 10% of the account balance.\nIf a TRIS is not in retirement phase in the income year you failed to pay the minimum pension amount, it will not be eligible for the ECPI exemption, therefore the ECPI component of the exception will not be relevant.\n### Allocated pensions started before 19 September 2007\nThe exception may apply to these pensions if they continue to be paid under the previous pension payment standards .\nYou can also consider applying the exception if you made a choice after 1 July 2007 to start paying the allocated pension under the new minimum pension standards (or account-based pension standards). The fund rules must allow the choice to operate under the new minimum pension standards. A new pension is not required.\n### What is a small underpayment?\nA small underpayment is one that doesn't exceed one-twelfth of the minimum pension payment in the income year. If the underpayment exceeds one-twelfth, you need to write to us and explain why you couldn't make the minimum payment.\n### What does 'as soon as practicable' mean?\nGenerally, if the underpayment is due to an honest error, we consider 'as soon as practicable' is within 28 days after you become aware of the underpayment.\nIf the underpayment is due to matters outside your control, 'as soon as practicable' is within 28 days after you are in a position to be aware of the underpayment.\n## How to request the exception\nYou can request in writing that we apply the exception if you:\n- haven't met all the exception conditions to self-assess and apply the exception\n- have previously (through self-assessment or at the Commissioner's discretion) applied the exception.\nYou need to write to us, provide evidence and explain why you did not meet the minimum pension payment requirements. We'll consider each case and make a decision.\nInclude the following information with your request:\n- details for all pensions paid by the fund during the relevant income year the underpayment was made including the recipient member type of pension – for example, account-based, allocated or market-linked minimum pension amount and minimum percentage factor actual amount paid and shortfall amount, if relevant\n- date each shortfall was identified\n- how each shortfall was identified\n- detailed reasoning why the shortfall occurred\n- evidence showing the catch-up payments paid from the fund's account to the members receipt of each catch-up payment by the members the fund had sufficient liquidity on 30 June to have otherwise met the minimum pension amounts required\n- if the fund previously failed to meet its minimum pension requirements, provide details of the underpayment and whether the trustees self-assessed or applied for the Commissioner's discretion\n- outline the systems put in place by the trustees to ensure minimum pension requirements will be met in future income years\n- the amount of tax in dispute – this is the difference between the tax position if the Commissioner both does not consider the fund to have met its minimum pension requirements considers the fund to have met its minimum pension requirements.\nTo make a request, write to us at:\nAUSTRALIAN TAXATION OFFICE PO BOX 3100 PENRITH NSW 2740\nTo ensure a fair and reasonable outcome for each case, decisions align to the:\n- ATO Charter\n- compliance model\n- good decision-making model.\nThe good decision-making model requires decisions to be legal, ethical, open, sensible, timely and in accordance with the principles of natural justice.",
+  "child_links": [],
+  "word_count": 1546,
+  "source_title": "Exception to minimum pension payment requirements | Austr...",
+  "source_description": "The required conditions for us to consider allowing a pension to continue when it hasn't met minimum pension payments.",
+  "category": "super-for-individuals-and-families"
+}

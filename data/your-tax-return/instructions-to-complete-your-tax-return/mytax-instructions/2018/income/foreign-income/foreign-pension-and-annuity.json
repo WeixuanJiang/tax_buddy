@@ -1,0 +1,184 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2018/income/foreign-income/foreign-pension-and-annuity",
+  "title": "myTax 2018 Foreign pensions and annuities",
+  "description": "How to complete the business and professional items section of your return using myTax.",
+  "nat_number": "",
+  "quick_code": "55649",
+  "date_updated": "2018-05-30T14:00:00Z",
+  "first_published": "",
+  "keywords": "2018, Foreign income, Foreign pensions, foreign, annuities, pension, myTax, e-tax, online tax return, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "Most foreign pensions and annuities are taxable in Australia, even if tax was withheld from your payment by the country from which the payment came. Examples of foreign pensions and annuities that fall into this category are age and superannuation pensions paid from Austria, Germany, Italy, the Netherlands and the United Kingdom."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may claim a foreign income tax offset if:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "the country from which your foreign pension or annuity came withheld tax from your payment",
+        "you were not entitled to seek a refund of the foreign tax from that country, and",
+        "the foreign pension or annuity is also taxable in Australia."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A refund may result from the terms of an agreement between Australia and that country to prevent double taxation."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your foreign pension or annuity is paid from a country with which Australia has a tax treaty, you may be able to make arrangements to not have tax withheld from future payments from that country."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under our tax treaties foreign tax authorities tell us about foreign source income paid to (and the tax withheld from) Australian resident taxpayers. We use that information to check tax returns. Make sure you show your foreign income fully and correctly on your tax return."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount of the offset depends on the amount of foreign tax paid. For more information, see Foreign income tax offset ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also include at this section any lump sum payment of your foreign pension that relates to an earlier year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not show at this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your foreign pension or annuity (including any lump sum payment of your foreign pension or annuity in arrears) is not taxable in Australia, do not show it anywhere on your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Undeducted purchase price (UPP) of a foreign pension or annuity"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be entitled to claim a deduction to reduce the taxable amount of the pension or annuity income if your pension or annuity has a UPP. Only some foreign pensions and annuities have a UPP. The UPP is the amount you contributed towards the purchase price of your pension or annuity (your personal contributions)."
+    },
+    {
+      "type": "paragraph",
+      "text": "That part of your annual pension or annuity income which represents a return to you of your personal contributions is free from tax. This tax-free portion is called the deductible amount of the UPP, and it is usually calculated by dividing the UPP of your pension or annuity by a life expectancy factor, according to life expectancy statistics."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on Austrian, British, Dutch, German and Italian pensions, or pensions from another country, see You need to know ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this section"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need the details of your foreign pension or annuity."
+    },
+    {
+      "type": "paragraph",
+      "text": "All foreign income, deductions and foreign tax paid must be converted to Australian dollars before you complete this section. You can use the Foreign income conversion calculator This link opens in a new window ."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each foreign pension or annuity, select Add and enter information into the corresponding fields. At Gross income : if you had foreign tax taken from your pension or annuity, add the amount of foreign tax to the amount of pension or annuity you received. At Deductible expenses : include any deductible expenses that you incurred in gaining your foreign pension or annuity, excluding any debt deductions such as interest and borrowing costs. Do not include your deductible amount of UPP amount here. MyTax will work out the Assessable amount by subtracting the deductible expenses from the gross income. At Undeducted purchase price (UPP) : If your foreign pension or annuity does not have a UPP, leave this field blank. Otherwise, enter the deductible amount of your UPP, if you know it. If you do not know your deductible amount and have completed a Request for a determination of the deductible amount of UPP of a foreign pension or annuity , leave this field blank. We will address your request in a private binding ruling. If you need information or assistance with this section, phone 13 10 20 . At Foreign tax paid : enter the foreign tax paid (in Australian dollars).",
+        "For each foreign pension or annuity, answer the question Did you receive a lump sum payment that relates to an earlier year? If Yes , enter the Lump sum in arrears amount and the required additional information (year and amount earned), and select Save . If the payment relates to more than one year, select Add and provide additional details.",
+        "Select Save .",
+        "If you haven't already done so, answer the question During the year did you have an interest - direct or indirect - in overseas assets worth AUD$50,000 or more?",
+        "Select Save and continue ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "You need to know"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Australian resident"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received income from overseas, you must show your assessable foreign income here, even if tax was taken out of the income in the foreign country."
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign income that is exempt from Australian tax may still be taken into account to work out the amount of tax you have to pay on your other income."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Austrian pensions"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received an age, premature age, invalid, disability, widowed persons or orphans pension paid by an Austrian superannuation insurance fund under one of the Austrian social insurance acts, Allgemeines Sozialversicherungsgesetz (ASVG), Gewerbliches Sozialversicherungsgesetz (GSVG) or Bauern-Sozialversicherungsgesetz (BSVG), you are entitled to a deductible amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where you have evidence of your actual contributions, actual monthly salary or you have received from the Austrian superannuation insurance fund a list of your insurance periods, you will need to complete a Request for a determination of the deductible amount of UPP of a foreign pension or annuity ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "British pensions"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a category A pension or a category B widows pension from the United Kingdom State (UK State) Pension (previously known as the British National Insurance Scheme), you are entitled to a UPP deduction. These pensions are paid from Newcastle-upon-Tyne."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can calculate your deduction by multiplying your UK State Pension (in Australian dollars) by 8%, or by using the exact method. For more information about the exact method, phone 13 10 20 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Dutch pensions"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received an old age pension, or a widows, widowers or orphans pension from the Sociale Verzekeringsbank (SVB) under the Netherlands social insurance system and you can obtain all the necessary information to determine the deductible amount of your UPP, claim the amount you have worked out. If you cannot determine the deductible amount, you can claim an annual deductible amount equal to 25% of your gross pension payment."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "German pensions"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a German pension, you will need to provide a copy of the insurance resume (Versicherungsverlauf) from the pension provider. You will need to contact the pension provider directly to obtain this information. When you have evidence of your employment history and the salary income that you earned at those dates, you will need to complete a Request for a determination of the deductible amount of UPP of a foreign pension or annuity ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Italian pensions"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received an Italian government pension, the Italian government authorities will send you an Article 10 letter each year giving you an estimate of the amount of pension income you will receive, and the amount that you contributed towards your pension. If you are unable to work out your deductible amount, you will need to complete a Request for a determination of the deductible amount of UPP of a foreign pension or annuity ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pensions from another country"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you received a pension from another country, other than an Austrian, British, Dutch, German or Italian pension, and you think you are entitled to claim a deductible amount, complete a Request for a determination of the deductible amount of UPP of a foreign pension or annuity ."
+    }
+  ],
+  "content_text": "Most foreign pensions and annuities are taxable in Australia, even if tax was withheld from your payment by the country from which the payment came. Examples of foreign pensions and annuities that fall into this category are age and superannuation pensions paid from Austria, Germany, Italy, the Netherlands and the United Kingdom.\nYou may claim a foreign income tax offset if:\n- the country from which your foreign pension or annuity came withheld tax from your payment\n- you were not entitled to seek a refund of the foreign tax from that country, and\n- the foreign pension or annuity is also taxable in Australia.\nA refund may result from the terms of an agreement between Australia and that country to prevent double taxation.\nIf your foreign pension or annuity is paid from a country with which Australia has a tax treaty, you may be able to make arrangements to not have tax withheld from future payments from that country.\nUnder our tax treaties foreign tax authorities tell us about foreign source income paid to (and the tax withheld from) Australian resident taxpayers. We use that information to check tax returns. Make sure you show your foreign income fully and correctly on your tax return.\nThe amount of the offset depends on the amount of foreign tax paid. For more information, see Foreign income tax offset .\nAlso include at this section any lump sum payment of your foreign pension that relates to an earlier year.\nDo not show at this section\nIf your foreign pension or annuity (including any lump sum payment of your foreign pension or annuity in arrears) is not taxable in Australia, do not show it anywhere on your tax return.\n## Undeducted purchase price (UPP) of a foreign pension or annuity\nYou may be entitled to claim a deduction to reduce the taxable amount of the pension or annuity income if your pension or annuity has a UPP. Only some foreign pensions and annuities have a UPP. The UPP is the amount you contributed towards the purchase price of your pension or annuity (your personal contributions).\nThat part of your annual pension or annuity income which represents a return to you of your personal contributions is free from tax. This tax-free portion is called the deductible amount of the UPP, and it is usually calculated by dividing the UPP of your pension or annuity by a life expectancy factor, according to life expectancy statistics.\nFor more information on Austrian, British, Dutch, German and Italian pensions, or pensions from another country, see You need to know .\n## Completing this section\nYou will need the details of your foreign pension or annuity.\nAll foreign income, deductions and foreign tax paid must be converted to Australian dollars before you complete this section. You can use the Foreign income conversion calculator This link opens in a new window .\n- For each foreign pension or annuity, select Add and enter information into the corresponding fields. At Gross income : if you had foreign tax taken from your pension or annuity, add the amount of foreign tax to the amount of pension or annuity you received. At Deductible expenses : include any deductible expenses that you incurred in gaining your foreign pension or annuity, excluding any debt deductions such as interest and borrowing costs. Do not include your deductible amount of UPP amount here. MyTax will work out the Assessable amount by subtracting the deductible expenses from the gross income. At Undeducted purchase price (UPP) : If your foreign pension or annuity does not have a UPP, leave this field blank. Otherwise, enter the deductible amount of your UPP, if you know it. If you do not know your deductible amount and have completed a Request for a determination of the deductible amount of UPP of a foreign pension or annuity , leave this field blank. We will address your request in a private binding ruling. If you need information or assistance with this section, phone 13 10 20 . At Foreign tax paid : enter the foreign tax paid (in Australian dollars).\n- For each foreign pension or annuity, answer the question Did you receive a lump sum payment that relates to an earlier year? If Yes , enter the Lump sum in arrears amount and the required additional information (year and amount earned), and select Save . If the payment relates to more than one year, select Add and provide additional details.\n- Select Save .\n- If you haven't already done so, answer the question During the year did you have an interest - direct or indirect - in overseas assets worth AUD$50,000 or more?\n- Select Save and continue .\n## You need to know\n### Australian resident\nIf you received income from overseas, you must show your assessable foreign income here, even if tax was taken out of the income in the foreign country.\nForeign income that is exempt from Australian tax may still be taken into account to work out the amount of tax you have to pay on your other income.\n### Austrian pensions\nIf you received an age, premature age, invalid, disability, widowed persons or orphans pension paid by an Austrian superannuation insurance fund under one of the Austrian social insurance acts, Allgemeines Sozialversicherungsgesetz (ASVG), Gewerbliches Sozialversicherungsgesetz (GSVG) or Bauern-Sozialversicherungsgesetz (BSVG), you are entitled to a deductible amount.\nWhere you have evidence of your actual contributions, actual monthly salary or you have received from the Austrian superannuation insurance fund a list of your insurance periods, you will need to complete a Request for a determination of the deductible amount of UPP of a foreign pension or annuity .\n### British pensions\nIf you received a category A pension or a category B widows pension from the United Kingdom State (UK State) Pension (previously known as the British National Insurance Scheme), you are entitled to a UPP deduction. These pensions are paid from Newcastle-upon-Tyne.\nYou can calculate your deduction by multiplying your UK State Pension (in Australian dollars) by 8%, or by using the exact method. For more information about the exact method, phone 13 10 20 .\n### Dutch pensions\nIf you received an old age pension, or a widows, widowers or orphans pension from the Sociale Verzekeringsbank (SVB) under the Netherlands social insurance system and you can obtain all the necessary information to determine the deductible amount of your UPP, claim the amount you have worked out. If you cannot determine the deductible amount, you can claim an annual deductible amount equal to 25% of your gross pension payment.\n### German pensions\nIf you received a German pension, you will need to provide a copy of the insurance resume (Versicherungsverlauf) from the pension provider. You will need to contact the pension provider directly to obtain this information. When you have evidence of your employment history and the salary income that you earned at those dates, you will need to complete a Request for a determination of the deductible amount of UPP of a foreign pension or annuity .\n### Italian pensions\nIf you received an Italian government pension, the Italian government authorities will send you an Article 10 letter each year giving you an estimate of the amount of pension income you will receive, and the amount that you contributed towards your pension. If you are unable to work out your deductible amount, you will need to complete a Request for a determination of the deductible amount of UPP of a foreign pension or annuity .\n### Pensions from another country\nIf you received a pension from another country, other than an Austrian, British, Dutch, German or Italian pension, and you think you are entitled to claim a deductible amount, complete a Request for a determination of the deductible amount of UPP of a foreign pension or annuity .",
+  "child_links": [],
+  "word_count": 1309,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

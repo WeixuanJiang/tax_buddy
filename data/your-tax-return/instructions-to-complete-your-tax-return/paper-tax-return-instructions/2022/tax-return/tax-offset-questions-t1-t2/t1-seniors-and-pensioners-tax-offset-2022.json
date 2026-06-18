@@ -1,0 +1,359 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/paper-tax-return-instructions/2022/tax-return/tax-offset-questions-t1-t2/t1-seniors-and-pensioners-tax-offset-2022",
+  "title": "T1 Seniors and pensioners (includes self-funded retirees) 2022",
+  "description": "Complete this question if you meet the conditions to claim the seniors and pensioners tax offset.",
+  "nat_number": "",
+  "quick_code": "67743",
+  "date_updated": "2022-05-25T14:00:00Z",
+  "first_published": "",
+  "keywords": "Pensioner, Pensioner tax offset, Senior Australian, Senior Australians tax offset (SATO), TaxPack, tax, government pension, tax return, 2022, paper tax return, paper form, paper return, paper lodgement",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "You can claim the seniors and pensioners tax offset if you met all the conditions relating to:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "eligibility for Australian Government pensions or allowances, and",
+        "income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a spouse:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you also need to work out whether they were eligible",
+        "you may not get the seniors and pensioners tax offset even if you meet all the eligibility conditions as the amount of the tax offset is based on your individual rebate income, not your combined rebate income."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "See the definition of spouse in Special circumstances and glossary 2022 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "You cannot claim this tax offset if you were in jail for the whole of 2021–22."
+    },
+    {
+      "type": "paragraph",
+      "text": "Work out your rebate income using the worksheet in Rebate income 2022 ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Answering this question"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Condition 1: Eligibility for Australian Government pensions and similar payments"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Condition",
+          "Explanation"
+        ],
+        [
+          "A",
+          "You showed at item 6 on your tax return: an Australian Government pension or allowance from Centrelink, or a pension, allowance or benefit from the Department of Veterans' Affairs (DVA)."
+        ],
+        [
+          "B",
+          "You met the Centrelink age pension age requirement and were eligible for an Australian Government age pension during 2021–22, but did not receive it because you did not make a claim, or because of the income test or the assets test, and you satisfied one of the following: you had been an Australian resident for age-pension purposes for 10 years or more, of which five years were continuous you had a qualifying residence exemption because you arrived in Australia as a refugee or under a special humanitarian program you received a partner allowance, a widow allowance, or a widow B pension immediately before turning age pension age you are a woman who was widowed in Australia, and you and your late partner were Australian residents when your late partner died you are currently in Australia, and you have been an Australian resident for at least the last two years you are a woman and on 19 March 2020 you were receiving a wife pension and you were not receiving a carer allowance, or you were receiving a special needs widow B pension you would have qualified for an age pension under an international social security agreement. To find out whether you meet the Centrelink age pension age requirement, go to More information . If you need help to work out whether you were eligible for a social security or Centrelink pension, go to servicesaustralia.gov.au External Link or contact us External Link . For all other enquiries about the seniors and pensioners tax offset, contact us ."
+        ],
+        [
+          "C",
+          "You met the veteran pension age test and were eligible for a pension, allowance or benefit from Veterans’ Affairs during 2021–22, but did not receive it because you did not make a claim, or because of the income test or the assets test, and you were: a veteran with eligible war service, or a Commonwealth veteran, allied veteran or allied mariner with qualifying service. To find out whether you meet the veteran pension age test, go to More information . If you are not sure whether you were eligible for a payment, go to dva.gov.au External Link or contact us External Link ."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "You meet condition 1. Read condition 2."
+        ],
+        [
+          "No",
+          "You are not eligible for this tax offset. Go to question T2 Australian superannuation income stream 2022 , or return to main menu Individual tax return instructions 2022 ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Condition 2: Income"
+    },
+    {
+      "type": "paragraph",
+      "text": "You meet this condition if any of the following applied to you in 2021–22:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You did not have a spouse, and your rebate income was less than $50,119.",
+        "You had a spouse, and the combined rebate income of you and your spouse was less than $83,580.",
+        "At any time in 2021–22 you and your spouse had to live apart due to illness or because one of you was in a nursing home, and the combined rebate income of you and your spouse was less than $95,198."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your combined rebate income is the total of:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "your rebate income",
+        "your spouse's rebate income",
+        "the amount on which a trustee of a trust was liable to pay tax in respect of your spouse because your spouse was under a legal disability, such as being an undischarged bankrupt or a person who was declared legally incapable because of a mental condition."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you meet condition 2?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Yes",
+          "You meet condition 2. Go to Completing your tax return ."
+        ],
+        [
+          "No",
+          "You are not eligible for this tax offset. Go to question T2 Australian superannuation income stream 2022 , or return to main menu Individual tax return instructions 2022 ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing your tax return"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work out which of the following code letters applied to your circumstances at any time in 2021–22."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Code letter",
+          "Explanation"
+        ],
+        [
+          "A",
+          "You were single, separated or widowed."
+        ],
+        [
+          "B",
+          "You and your spouse: were both eligible for the seniors and pensioners tax offset, and had to live apart due to illness or lived apart because one of you was in a nursing home."
+        ],
+        [
+          "C",
+          "Your spouse was not eligible for the seniors and pensioners tax offset, and you and your spouse had to live apart due to illness , or lived apart because one of you was in a nursing home."
+        ],
+        [
+          "D",
+          "You and your spouse: lived together, and were both eligible for the seniors and pensioners tax offset."
+        ],
+        [
+          "E",
+          "You and your spouse: lived together, and your spouse was not eligible for the seniors and pensioners tax offset."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Had to live apart due to illness refers to situations where you and your spouse did not live together because one or both of you had an indefinitely continuing illness or infirmity and, as a result, your combined living expenses were increased."
+    },
+    {
+      "type": "paragraph",
+      "text": "Did more than one code letter apply?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to step 2"
+        ],
+        [
+          "Yes",
+          "Use the first code letter that applied to you in the list above, unless one of the two circumstances below applied to you: Both A and B applied, and your spouse's taxable income was less than $18,334 use code B . Both A and D applied, and your spouse's taxable income was less than $12,494 use code D . Your spouse's taxable income is the amount you show at O on page 9 of your tax return."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Print your code letter from step 1 in the TAX OFFSET CODE box at N item T1 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "We will work out the amount of your tax offset."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Are you or your spouse a veteran, war widow or war widower?"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No",
+          "Go to step 4 ."
+        ],
+        [
+          "Yes",
+          "Select the veteran code letter that applies to you."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Veteran code letters"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "You were a veteran, war widow or war widower.",
+          "V"
+        ],
+        [
+          "Your spouse was a veteran, war widow or war widower.",
+          "W"
+        ],
+        [
+          "Both V and W applied to you.",
+          "X"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Print the code letter in the VETERAN CODE box at Y item T1 ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "You must read Income tests 2022 and complete all income tests items."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Step 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a spouse during 2021–22 you must complete Spouse details – married or de facto on pages 8–9 of your tax return."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Any unused portion of tax offset"
+    },
+    {
+      "type": "paragraph",
+      "text": "If both you and your spouse are eligible for the seniors and pensioners tax offset and one of you does not use it all, the unused portion may be available for transfer to the other person. We will work this out automatically and transfer any entitlement."
+    },
+    {
+      "type": "paragraph",
+      "text": "To work out whether there is any unused spouse’s seniors and pensioners tax offset available to transfer to you, we do not take your spouse’s other credits and tax offsets into account."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "More information"
+    },
+    {
+      "type": "paragraph",
+      "text": "To be eligible for an Australian Government age pension from Centrelink, on 30 June 2022 a pensioner must be 66 years and six months or older External Link ."
+    },
+    {
+      "type": "paragraph",
+      "text": "To be eligible for a pension , allowance or benefit from Veterans' Affairs you must meet the veteran pension age test and on 30 June 2022 be 60 years old or older."
+    },
+    {
+      "type": "paragraph",
+      "text": "You meet the veteran pension age test if one of the following applied to you and you were eligible for a pension, allowance or benefit under the Veterans' Entitlements Act 1986 :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "you have eligible war service, that is, service in World War II or operational service as a member of the Australian Defence Force",
+        "you are a Commonwealth or allied veteran who served in a conflict in which the Australian Defence Force was engaged during a period of hostilities, that is, in World War II, Korea, Malaya, Indonesia or Vietnam",
+        "you are an Australian or allied mariner who served during World War II",
+        "you are the war widow or widower of a former member of the Australian Defence Force."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Pension , allowance or benefit includes:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "disability pension",
+        "service pension",
+        "white or gold Repatriation health cards for treatment entitlements."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are not sure if you meet the veteran pension age test, go to dva.gov.au External Link or contact us External Link ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to go next"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Go to question T2 Australian superannuation income stream 2022 .",
+        "Return to main menu Individual tax return instructions 2022 .",
+        "Go back to Taxable income or loss 2022 ."
+      ]
+    }
+  ],
+  "content_text": "You can claim the seniors and pensioners tax offset if you met all the conditions relating to:\n- eligibility for Australian Government pensions or allowances, and\n- income.\nIf you had a spouse:\n- you also need to work out whether they were eligible\n- you may not get the seniors and pensioners tax offset even if you meet all the eligibility conditions as the amount of the tax offset is based on your individual rebate income, not your combined rebate income.\nSee the definition of spouse in Special circumstances and glossary 2022 .\nYou cannot claim this tax offset if you were in jail for the whole of 2021–22.\nWork out your rebate income using the worksheet in Rebate income 2022 .\n## Answering this question\n### Condition 1: Eligibility for Australian Government pensions and similar payments\nCondition | Explanation\nA | You showed at item 6 on your tax return: an Australian Government pension or allowance from Centrelink, or a pension, allowance or benefit from the Department of Veterans' Affairs (DVA).\nB | You met the Centrelink age pension age requirement and were eligible for an Australian Government age pension during 2021–22, but did not receive it because you did not make a claim, or because of the income test or the assets test, and you satisfied one of the following: you had been an Australian resident for age-pension purposes for 10 years or more, of which five years were continuous you had a qualifying residence exemption because you arrived in Australia as a refugee or under a special humanitarian program you received a partner allowance, a widow allowance, or a widow B pension immediately before turning age pension age you are a woman who was widowed in Australia, and you and your late partner were Australian residents when your late partner died you are currently in Australia, and you have been an Australian resident for at least the last two years you are a woman and on 19 March 2020 you were receiving a wife pension and you were not receiving a carer allowance, or you were receiving a special needs widow B pension you would have qualified for an age pension under an international social security agreement. To find out whether you meet the Centrelink age pension age requirement, go to More information . If you need help to work out whether you were eligible for a social security or Centrelink pension, go to servicesaustralia.gov.au External Link or contact us External Link . For all other enquiries about the seniors and pensioners tax offset, contact us .\nC | You met the veteran pension age test and were eligible for a pension, allowance or benefit from Veterans’ Affairs during 2021–22, but did not receive it because you did not make a claim, or because of the income test or the assets test, and you were: a veteran with eligible war service, or a Commonwealth veteran, allied veteran or allied mariner with qualifying service. To find out whether you meet the veteran pension age test, go to More information . If you are not sure whether you were eligible for a payment, go to dva.gov.au External Link or contact us External Link .\nYes | You meet condition 1. Read condition 2.\nNo | You are not eligible for this tax offset. Go to question T2 Australian superannuation income stream 2022 , or return to main menu Individual tax return instructions 2022 .\n### Condition 2: Income\nYou meet this condition if any of the following applied to you in 2021–22:\n- You did not have a spouse, and your rebate income was less than $50,119.\n- You had a spouse, and the combined rebate income of you and your spouse was less than $83,580.\n- At any time in 2021–22 you and your spouse had to live apart due to illness or because one of you was in a nursing home, and the combined rebate income of you and your spouse was less than $95,198.\nYour combined rebate income is the total of:\n- your rebate income\n- your spouse's rebate income\n- the amount on which a trustee of a trust was liable to pay tax in respect of your spouse because your spouse was under a legal disability, such as being an undischarged bankrupt or a person who was declared legally incapable because of a mental condition.\nDo you meet condition 2?\nYes | You meet condition 2. Go to Completing your tax return .\nNo | You are not eligible for this tax offset. Go to question T2 Australian superannuation income stream 2022 , or return to main menu Individual tax return instructions 2022 .\n## Completing your tax return\n### Step 1\nWork out which of the following code letters applied to your circumstances at any time in 2021–22.\nCode letter | Explanation\nA | You were single, separated or widowed.\nB | You and your spouse: were both eligible for the seniors and pensioners tax offset, and had to live apart due to illness or lived apart because one of you was in a nursing home.\nC | Your spouse was not eligible for the seniors and pensioners tax offset, and you and your spouse had to live apart due to illness , or lived apart because one of you was in a nursing home.\nD | You and your spouse: lived together, and were both eligible for the seniors and pensioners tax offset.\nE | You and your spouse: lived together, and your spouse was not eligible for the seniors and pensioners tax offset.\nHad to live apart due to illness refers to situations where you and your spouse did not live together because one or both of you had an indefinitely continuing illness or infirmity and, as a result, your combined living expenses were increased.\nDid more than one code letter apply?\nNo | Go to step 2\nYes | Use the first code letter that applied to you in the list above, unless one of the two circumstances below applied to you: Both A and B applied, and your spouse's taxable income was less than $18,334 use code B . Both A and D applied, and your spouse's taxable income was less than $12,494 use code D . Your spouse's taxable income is the amount you show at O on page 9 of your tax return.\n### Step 2\nPrint your code letter from step 1 in the TAX OFFSET CODE box at N item T1 .\nWe will work out the amount of your tax offset.\n### Step 3\nAre you or your spouse a veteran, war widow or war widower?\nNo | Go to step 4 .\nYes | Select the veteran code letter that applies to you.\nVeteran code letters\nYou were a veteran, war widow or war widower. | V\nYour spouse was a veteran, war widow or war widower. | W\nBoth V and W applied to you. | X\nPrint the code letter in the VETERAN CODE box at Y item T1 .\n### Step 4\nYou must read Income tests 2022 and complete all income tests items.\n### Step 5\nIf you had a spouse during 2021–22 you must complete Spouse details – married or de facto on pages 8–9 of your tax return.\n## Any unused portion of tax offset\nIf both you and your spouse are eligible for the seniors and pensioners tax offset and one of you does not use it all, the unused portion may be available for transfer to the other person. We will work this out automatically and transfer any entitlement.\nTo work out whether there is any unused spouse’s seniors and pensioners tax offset available to transfer to you, we do not take your spouse’s other credits and tax offsets into account.\n## More information\nTo be eligible for an Australian Government age pension from Centrelink, on 30 June 2022 a pensioner must be 66 years and six months or older External Link .\nTo be eligible for a pension , allowance or benefit from Veterans' Affairs you must meet the veteran pension age test and on 30 June 2022 be 60 years old or older.\nYou meet the veteran pension age test if one of the following applied to you and you were eligible for a pension, allowance or benefit under the Veterans' Entitlements Act 1986 :\n- you have eligible war service, that is, service in World War II or operational service as a member of the Australian Defence Force\n- you are a Commonwealth or allied veteran who served in a conflict in which the Australian Defence Force was engaged during a period of hostilities, that is, in World War II, Korea, Malaya, Indonesia or Vietnam\n- you are an Australian or allied mariner who served during World War II\n- you are the war widow or widower of a former member of the Australian Defence Force.\nPension , allowance or benefit includes:\n- disability pension\n- service pension\n- white or gold Repatriation health cards for treatment entitlements.\nIf you are not sure if you meet the veteran pension age test, go to dva.gov.au External Link or contact us External Link .\n## Where to go next\n- Go to question T2 Australian superannuation income stream 2022 .\n- Return to main menu Individual tax return instructions 2022 .\n- Go back to Taxable income or loss 2022 .",
+  "child_links": [],
+  "word_count": 1579,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}

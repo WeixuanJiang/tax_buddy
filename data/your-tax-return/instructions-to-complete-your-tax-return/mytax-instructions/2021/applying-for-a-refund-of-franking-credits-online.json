@@ -1,0 +1,225 @@
+{
+  "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/instructions-to-complete-your-tax-return/mytax-instructions/2021/applying-for-a-refund-of-franking-credits-online",
+  "title": "myTax 2021 Applying for a refund of franking credits",
+  "description": "How to complete a refund of franking credits application using myTax.",
+  "nat_number": "",
+  "quick_code": "65609",
+  "date_updated": "2021-05-31T14:00:00Z",
+  "first_published": "",
+  "keywords": "2021, RFC, refund of franking credits, franking credits, refund, dividends, dividend distributions, myTax, e-tax, online tax return, etax",
+  "content_blocks": [
+    {
+      "type": "paragraph",
+      "text": "If you have franking credits and you meet the eligibility criteria , you may be able to apply for a refund online via your myGov account linked to the ATO."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once logged in to myGov, select 'Australian Taxation Office'."
+    },
+    {
+      "type": "paragraph",
+      "text": "From the menu at the top of the ATO Online screen select 'Tax', then 'Lodgments' then 'Refund of franking credits'."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Things to know"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "What are franking credits?"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you own shares or non-share equity interests in a company or when you invest in a managed fund, you might receive dividend distributions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dividends paid to you by Australian companies and some New Zealand companies are taxed under a system known as imputation. The tax paid by the company is allocated (or imputed) to you as franking credits attached to the dividends you receive."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "When are franking credits refunded to you?"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can claim a tax refund if the franking credits you receive exceed the tax you have to pay. This is a refund of excess franking credits."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may receive a refund of the full amount of franking credits received even if you don't usually lodge a tax return."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Who can use this form?"
+    },
+    {
+      "type": "paragraph",
+      "text": "All the following criteria must apply for you to be able to use this online form to claim a refund of your franking credits. All the statements below relate to the income year 1 July 2020 to 30 June 2021."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "You don't have to lodge a tax return. Need help? Use the do I need to lodge a tax return? tool.",
+        "You were an Australian resident for tax purposes for the whole of 2020–21. Need help? Use the are you a resident? tool.",
+        "Your total dividend income was either: $18,200 or less $416 or less if you were under 18 years old on 30 June 2021.",
+        "You received dividends from shares (or non-share equity interests) in an Australian or New Zealand company. or",
+        "You were entitled to distributions from investments in a managed fund.",
+        "Your dividend or distribution statement showed franking credits. Statements from New Zealand companies must show Australian franking credits. New Zealand imputation credits don't qualify. or",
+        "You had amounts withheld from your dividends because you did not provide your tax file number (TFN)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have franking credits but all the eligibility criteria did not apply, you will need to lodge a tax return to claim the benefits of these credits"
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information on who can use this form and how to use it, see Frequently asked questions ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Completing this form"
+    },
+    {
+      "type": "paragraph",
+      "text": "You will need your statements from each company that paid you dividends or made distributions to you between 1 July 2020 and 30 June 2021 inclusive."
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't include dividends or a distribution on which family trust distribution tax has been paid."
+    },
+    {
+      "type": "paragraph",
+      "text": "We pre-fill your form with:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "dividends that were paid or credited to you by Australian companies",
+        "managed fund distributions information provided to us by managed investment funds and trusts."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Check them and add any dividend and managed fund distributions that have not pre-filled."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you had a spouse in 2019–20, we may have also pre-filled your spouse details."
+    },
+    {
+      "type": "paragraph",
+      "text": "To personalise your form, at Personalise your 2020–21 form :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "if you meet the eligibility criteria to use this form, answer Yes to the question 'Do all the following statements apply to you for the full income year 1 July 2020 to 30 June 2021?'.",
+        "answer the question 'Did you have a spouse at any time between 1 July 2020 and 30 June 2021?'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your dividend income, at Prepare your 2020–21 form select 'Add/Edit' at the Dividends banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Dividends banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each Dividend that has not pre-filled, select Add and enter information into the corresponding fields. Joint accounts If you had shares in joint names, show the number of account holders and the total amount of dividends, credits and tax withheld. myTax will divide the amounts equally between the number of account holders. You may alter your share of the amount of dividends, credits and tax withheld if the shares are owned in unequal proportions. If you do, keep a record of how you worked out your share. If your statement does not show a breakdown of the franked and unfranked portions of the dividend, enter the total dividend amount at Total franked amount .",
+        "Select Save .",
+        "Select Save and continue when you have completed the Dividends section. This will return you to the Prepare your 2020–21 form screen."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your managed fund distributions, at Prepare your 2020–21 form select 'Add/Edit' at the Managed fund distributions banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Managed fund distributions banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "For each managed fund distribution that has not pre-filled, select Add and enter information into corresponding fields. For more information, see Managed fund distributions . Joint accounts If you had a joint account, show the number of account holders and the total amounts. myTax will divide the amounts equally between the number of account holders. You may alter your share of the amounts. If you do, keep a record of how you worked out your share.",
+        "Select Save .",
+        "Select Save and continue when you have completed the Managed fund distributions section. This will return you to the Prepare your 2020–21 form screen."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To show your spouse details, at Prepare your 2020–21 form select 'Add/Edit' at the Spouse details banner."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Spouse details banner:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Review or enter your spouse's details into the corresponding fields.",
+        "Select Save and continue when you have completed the Spouse details section. This will return you to the Prepare your 2020–21 form screen."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To lodge your refund of franking credits form, at Prepare your 2020–21 form :"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Answer the question 'How did you complete this refund of franking credits?'",
+        "Select Calculate to see your estimated refund",
+        "Review the declaration and, if you agree, tick the declaration box",
+        "Select Lodge ."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Managed fund distributions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Based on your statements from managed funds, we will pre-fill the following amount fields in the Managed fund distributions section:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "13U. Total non-primary production income",
+        "13C. Total franked distribution",
+        "13Q. Total franking credits",
+        "13R. Total TFN amounts withheld",
+        "20M. Total other foreign income",
+        "20F. Total Australian credits from a NZ franking company"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your statements may show other amounts that are not pre-filled in this section. If this is the case, you may need to lodge a tax return instead."
+    }
+  ],
+  "content_text": "If you have franking credits and you meet the eligibility criteria , you may be able to apply for a refund online via your myGov account linked to the ATO.\nOnce logged in to myGov, select 'Australian Taxation Office'.\nFrom the menu at the top of the ATO Online screen select 'Tax', then 'Lodgments' then 'Refund of franking credits'.\n## Things to know\n### What are franking credits?\nWhen you own shares or non-share equity interests in a company or when you invest in a managed fund, you might receive dividend distributions.\nDividends paid to you by Australian companies and some New Zealand companies are taxed under a system known as imputation. The tax paid by the company is allocated (or imputed) to you as franking credits attached to the dividends you receive.\n### When are franking credits refunded to you?\nYou can claim a tax refund if the franking credits you receive exceed the tax you have to pay. This is a refund of excess franking credits.\nYou may receive a refund of the full amount of franking credits received even if you don't usually lodge a tax return.\n### Who can use this form?\nAll the following criteria must apply for you to be able to use this online form to claim a refund of your franking credits. All the statements below relate to the income year 1 July 2020 to 30 June 2021.\n- You don't have to lodge a tax return. Need help? Use the do I need to lodge a tax return? tool.\n- You were an Australian resident for tax purposes for the whole of 2020–21. Need help? Use the are you a resident? tool.\n- Your total dividend income was either: $18,200 or less $416 or less if you were under 18 years old on 30 June 2021.\n- You received dividends from shares (or non-share equity interests) in an Australian or New Zealand company. or\n- You were entitled to distributions from investments in a managed fund.\n- Your dividend or distribution statement showed franking credits. Statements from New Zealand companies must show Australian franking credits. New Zealand imputation credits don't qualify. or\n- You had amounts withheld from your dividends because you did not provide your tax file number (TFN).\nIf you have franking credits but all the eligibility criteria did not apply, you will need to lodge a tax return to claim the benefits of these credits\nFor more information on who can use this form and how to use it, see Frequently asked questions .\n## Completing this form\nYou will need your statements from each company that paid you dividends or made distributions to you between 1 July 2020 and 30 June 2021 inclusive.\nDon't include dividends or a distribution on which family trust distribution tax has been paid.\nWe pre-fill your form with:\n- dividends that were paid or credited to you by Australian companies\n- managed fund distributions information provided to us by managed investment funds and trusts.\nCheck them and add any dividend and managed fund distributions that have not pre-filled.\nIf you had a spouse in 2019–20, we may have also pre-filled your spouse details.\nTo personalise your form, at Personalise your 2020–21 form :\n- if you meet the eligibility criteria to use this form, answer Yes to the question 'Do all the following statements apply to you for the full income year 1 July 2020 to 30 June 2021?'.\n- answer the question 'Did you have a spouse at any time between 1 July 2020 and 30 June 2021?'.\nTo show your dividend income, at Prepare your 2020–21 form select 'Add/Edit' at the Dividends banner.\nAt the Dividends banner:\n- For each Dividend that has not pre-filled, select Add and enter information into the corresponding fields. Joint accounts If you had shares in joint names, show the number of account holders and the total amount of dividends, credits and tax withheld. myTax will divide the amounts equally between the number of account holders. You may alter your share of the amount of dividends, credits and tax withheld if the shares are owned in unequal proportions. If you do, keep a record of how you worked out your share. If your statement does not show a breakdown of the franked and unfranked portions of the dividend, enter the total dividend amount at Total franked amount .\n- Select Save .\n- Select Save and continue when you have completed the Dividends section. This will return you to the Prepare your 2020–21 form screen.\nTo show your managed fund distributions, at Prepare your 2020–21 form select 'Add/Edit' at the Managed fund distributions banner.\nAt the Managed fund distributions banner:\n- For each managed fund distribution that has not pre-filled, select Add and enter information into corresponding fields. For more information, see Managed fund distributions . Joint accounts If you had a joint account, show the number of account holders and the total amounts. myTax will divide the amounts equally between the number of account holders. You may alter your share of the amounts. If you do, keep a record of how you worked out your share.\n- Select Save .\n- Select Save and continue when you have completed the Managed fund distributions section. This will return you to the Prepare your 2020–21 form screen.\nTo show your spouse details, at Prepare your 2020–21 form select 'Add/Edit' at the Spouse details banner.\nAt the Spouse details banner:\n- Review or enter your spouse's details into the corresponding fields.\n- Select Save and continue when you have completed the Spouse details section. This will return you to the Prepare your 2020–21 form screen.\nTo lodge your refund of franking credits form, at Prepare your 2020–21 form :\n- Answer the question 'How did you complete this refund of franking credits?'\n- Select Calculate to see your estimated refund\n- Review the declaration and, if you agree, tick the declaration box\n- Select Lodge .\n### Managed fund distributions\nBased on your statements from managed funds, we will pre-fill the following amount fields in the Managed fund distributions section:\n- 13U. Total non-primary production income\n- 13C. Total franked distribution\n- 13Q. Total franking credits\n- 13R. Total TFN amounts withheld\n- 20M. Total other foreign income\n- 20F. Total Australian credits from a NZ franking company\nYour statements may show other amounts that are not pre-filled in this section. If this is the case, you may need to lodge a tax return instead.",
+  "child_links": [],
+  "word_count": 1088,
+  "source_title": "",
+  "source_description": "",
+  "category": "your-tax-return"
+}
