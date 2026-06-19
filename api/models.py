@@ -1,7 +1,9 @@
 """API request/response schemas."""
 from __future__ import annotations
 
-from pydantic import BaseModel, Field
+import re
+
+from pydantic import BaseModel, Field, field_validator
 
 
 class AskRequest(BaseModel):
@@ -9,13 +11,40 @@ class AskRequest(BaseModel):
     reasoning: bool = Field(default=False, description="Enable LLM 'thinking' mode.")
 
 
+class RegisterRequest(BaseModel):
+    username: str = Field(..., min_length=3, max_length=32)
+    password: str = Field(..., min_length=8)
+    occupation: str = Field(..., min_length=1)
+    postcode: str = Field(...)
+
+    @field_validator("username")
+    @classmethod
+    def _username_chars(cls, v: str) -> str:
+        if not re.fullmatch(r"[A-Za-z0-9_]+", v):
+            raise ValueError("username may contain only letters, digits, underscore")
+        return v
+
+    @field_validator("postcode")
+    @classmethod
+    def _postcode_au(cls, v: str) -> str:
+        if not re.fullmatch(r"\d{4}", v):
+            raise ValueError("postcode must be exactly 4 digits")
+        return v
+
+
+class LoginRequest(BaseModel):
+    username: str = Field(..., min_length=1)
+    password: str = Field(..., min_length=1)
+
+
+class AuthResponse(BaseModel):
+    token: str
+    username: str
+
+
 class ChatRequest(BaseModel):
     question: str = Field(..., min_length=2)
     thread_id: str = Field(..., description="Conversation id for multi-turn memory.")
-    user_id: str | None = Field(
-        default=None,
-        description="Stable user id for cross-session memory. Defaults to "
-                    "thread_id when omitted.")
     reasoning: bool = Field(default=False, description="Enable LLM 'thinking' mode.")
 
 
