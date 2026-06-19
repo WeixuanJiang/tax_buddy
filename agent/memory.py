@@ -181,3 +181,86 @@ def remember(user_id: str, analysis: Optional[dict]) -> None:
     except Exception:
         logger.warning("memory: remember failed (skipping persist)", exc_info=True)
         return
+
+
+def register_user_profile(user_id: str, occupation: str, postcode: str) -> None:
+    """Seed durable profile preferences at registration (occupation, postcode)."""
+    if not settings.memory_enabled or not user_id:
+        return
+
+    async def _run() -> None:
+        client = await _get_client()
+        for label, value in (("occupation", occupation), ("postcode", postcode)):
+            if value and value.strip():
+                await client.long_term.add_preference(
+                    category="profile",
+                    preference=f"{label}: {value.strip()}",
+                    user_identifier=user_id,
+                )
+
+    try:
+        _submit(_run(), timeout=_WRITE_TIMEOUT)
+    except Exception:
+        logger.warning("memory: register_user_profile failed", exc_info=True)
+
+
+def save_turn(user_id: str, thread_id: str, question: str, answer: str) -> None:
+    """Persist one Q/A turn to the user's conversation (Neo4j short-term)."""
+    if not settings.memory_enabled or not user_id or not thread_id:
+        return
+
+    async def _run() -> None:
+        client = await _get_client()
+        for role, content in (("user", question), ("assistant", answer)):
+            if content and content.strip():
+                await client.short_term.add_message(
+                    session_id=thread_id,
+                    role=role,
+                    content=content,
+                    user_identifier=user_id,
+                    extract_entities=False,
+                    extract_relations=False,
+                    generate_embedding=True,
+                )
+
+    try:
+        _submit(_run(), timeout=_WRITE_TIMEOUT)
+    except Exception:
+        logger.warning("memory: save_turn failed (skipping persist)", exc_info=True)
+
+
+def _format_messages(msgs: Any) -> str:
+    lines = []
+    for m in msgs or []:
+        role = getattr(m, "role", "") or ""
+        role = getattr(role, "value", role)  # MessageRole enum -> str
+        content = getattr(m, "content", None) or str(m)
+        text = str(content).strip().replace("\n", " ")[:200]
+        if text:
+            lines.append(f"- {role}: {text}")
+    return "\n".join(lines).strip()
+
+
+def recall_conversation(user_id: str, query: str) -> str:
+    """Recall the user's relevant past messages across their conversations."""
+    if not settings.memory_enabled or not user_id:
+        return ""
+
+    async def _run() -> str:
+        client = await _get_client()
+        msgs = await client.short_term.search_messages(
+            query, metadata_filters={"user_identifier": user_id}, limit=5
+        )
+        return _format_messages(msgs)
+
+    try:
+        return _submit(_run()) or ""
+    except Exception:
+        logger.warning("memory: recall_conversation failed (returning empty)", exc_info=True)
+        return ""
+
+
+def get_user_context(user_id: str, query: str) -> str:
+    """Combined recall injected by the API: durable preferences + relevant past messages."""
+    parts = [p for p in (get_user_profile(user_id), recall_conversation(user_id, query)) if p]
+    return "\n".join(parts).strip()
