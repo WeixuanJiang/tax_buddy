@@ -38,6 +38,12 @@ def _user_query(state: AgentState) -> str:
     return ""
 
 
+def _profile_block(state: AgentState) -> str:
+    """Format recalled user facts for prompt injection; '' when none."""
+    profile = (state.get("user_profile") or "").strip()
+    return prompts.PROFILE_PREFIX + profile if profile else ""
+
+
 def _recent_messages(state: AgentState, max_messages: int = 8) -> list:
     """Recent conversation turns to give the model, selected with LangChain's
     `trim_messages` (counting by message). Memory itself is the LangGraph
@@ -70,7 +76,8 @@ def triage(state: AgentState) -> dict:
     reasoning = state.get("reasoning")
     try:
         t: Triage = structured(Triage, reasoning=reasoning).invoke(
-            [SystemMessage(prompts.TRIAGE_SYS), *history, HumanMessage(q)]
+            [SystemMessage(prompts.TRIAGE_SYS + _profile_block(state)),
+             *history, HumanMessage(q)]
         )
         if not t.in_scope or t.unsafe:
             route = "refuse"
@@ -249,6 +256,7 @@ def synthesize(state: AgentState) -> dict:
         return {"draft": msg, "route": "finalize"}
     sys = prompts.SYNTH_SYS.format(year_label=state.get("income_year_label",
                                                         settings.tax_year_label))
+    sys = sys + _profile_block(state)
     history = _recent_messages(state)
     calcs = state.get("calculations") or []
     calc_block = ""

@@ -100,3 +100,10 @@ REFUSE_MSG = (
     "(income, deductions, offsets, Medicare levy, CGT, super, lodging/amending "
     "returns). For this topic, please see ato.gov.au or a registered tax agent."
 )
+
+PROFILE_PREFIX = (
+    "\n\nKnown about this user from past sessions. Use it to avoid re-asking "
+    "facts already known (e.g. occupation, residency) and to apply the right "
+    "income year when the user did not state one. This is context only — still "
+    "give general information, NOT personalised advice:\n"
+)

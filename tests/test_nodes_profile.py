@@ -20,3 +20,18 @@ def test_chat_request_accepts_user_id():
 def test_chat_request_user_id_optional():
     r = ChatRequest(question="hello there", thread_id="t1")
     assert r.user_id is None
+
+
+from knowledge_engine.agent import nodes
+
+
+def test_profile_block_empty_when_no_profile():
+    assert nodes._profile_block({}) == ""
+    assert nodes._profile_block({"user_profile": "   "}) == ""
+
+
+def test_profile_block_includes_facts_and_guardrail():
+    block = nodes._profile_block({"user_profile": "income year 2026; sole trader"})
+    assert "income year 2026" in block
+    assert "sole trader" in block
+    assert "personalised advice" in block.lower()
