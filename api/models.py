@@ -12,6 +12,10 @@ class AskRequest(BaseModel):
 class ChatRequest(BaseModel):
     question: str = Field(..., min_length=2)
     thread_id: str = Field(..., description="Conversation id for multi-turn memory.")
+    user_id: str | None = Field(
+        default=None,
+        description="Stable user id for cross-session memory. Defaults to "
+                    "thread_id when omitted.")
     reasoning: bool = Field(default=False, description="Enable LLM 'thinking' mode.")
 
 

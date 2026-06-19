@@ -55,6 +55,12 @@ class Triage(BaseModel):
     income_year: Optional[int] = Field(
         default=None,
         description="Income year the user named (year ending 30 June), else null.")
+    entities: list[str] = Field(
+        default_factory=list,
+        description="Durable facts about the user worth remembering across "
+                    "sessions: occupation, residency status, asset types "
+                    "(e.g. 'sole trader', 'foreign resident', 'rental property'). "
+                    "Only include facts the user actually stated.")
     needs_clarification: bool = Field(
         default=False,
         description="True only when a quick missing detail (e.g. occupation, "
@@ -91,6 +97,7 @@ class GroundingCheck(BaseModel):
 class AgentState(TypedDict, total=False):
     messages: Annotated[list[AnyMessage], add_messages]
     query: str
+    user_profile: str               # facts recalled from long-term memory
     reasoning: bool                  # per-request "thinking mode" toggle
     route: str                       # 'answer' | 'refuse' | 'clarify'
     analysis: dict[str, Any]
