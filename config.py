@@ -52,6 +52,18 @@ class Settings(BaseSettings):
     retrieve_max_rounds: int = Field(default=2, alias="RETRIEVE_MAX_ROUNDS")
     verify_max_rounds: int = Field(default=1, alias="VERIFY_MAX_ROUNDS")
 
+    # --- Long-term memory (trial: neo4j-labs/agent-memory) ---
+    memory_enabled: bool = Field(default=False, alias="MEMORY_ENABLED")
+    neo4j_uri: str = Field(default="bolt://localhost:7687", alias="NEO4J_URI")
+    neo4j_user: str = Field(default="neo4j", alias="NEO4J_USER")
+    neo4j_password: str = Field(default="", alias="NEO4J_PASSWORD")
+    # Bare model name; the provider (sentence_transformers) is set separately
+    # when the adapter builds EmbeddingConfig.
+    memory_embedding_model: str = Field(
+        default="all-MiniLM-L6-v2",
+        alias="MEMORY_EMBEDDING_MODEL",
+    )
+
     @property
     def fast_model(self) -> str:
         return self.openrouter_fast_model or self.openrouter_model
