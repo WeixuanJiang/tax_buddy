@@ -20,10 +20,13 @@ services:
     image: neo4j:5.20
     container_name: ato_kb_neo4j
     environment:
-      NEO4J_AUTH: neo4j/please-change-me
+      # Password sourced from the environment (.env), never committed. Compose
+      # errors out if NEO4J_PASSWORD is unset, so there is no weak default.
+      NEO4J_AUTH: neo4j/${NEO4J_PASSWORD:?set NEO4J_PASSWORD in .env}
     ports:
-      - "7474:7474"          # browser UI
-      - "7687:7687"          # bolt
+      # Bound to loopback: reachable by host tools (demo, browser) but not off-host.
+      - "127.0.0.1:7474:7474"   # browser UI
+      - "127.0.0.1:7687:7687"   # bolt
     volumes:
       - ato_kb_neo4jdata:/data
     healthcheck:
