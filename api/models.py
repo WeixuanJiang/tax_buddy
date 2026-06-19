@@ -42,6 +42,22 @@ class AuthResponse(BaseModel):
     username: str
 
 
+class Message(BaseModel):
+    role: str
+    content: str
+
+
+class ConversationSummary(BaseModel):
+    thread_id: str
+    title: str
+    updated_at: str
+
+
+class ConversationDetail(BaseModel):
+    thread_id: str
+    messages: list[Message] = []
+
+
 class ChatRequest(BaseModel):
     question: str = Field(..., min_length=2)
     thread_id: str = Field(..., description="Conversation id for multi-turn memory.")
