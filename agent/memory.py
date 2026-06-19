@@ -270,3 +270,42 @@ def get_user_context(user_id: str, query: str) -> str:
     """Combined recall injected by the API: durable preferences + relevant past messages."""
     parts = [p for p in (get_user_profile(user_id), recall_conversation(user_id, query)) if p]
     return "\n".join(parts).strip()
+
+
+def load_conversation(thread_id: str) -> list[dict]:
+    """Return a thread's messages [{role, content}] in order; [] on any issue."""
+    if not settings.memory_enabled or not thread_id:
+        return []
+
+    async def _run() -> list[dict]:
+        client = await _get_client()
+        conv = await client.short_term.get_conversation(session_id=thread_id)
+        msgs = getattr(conv, "messages", conv) or []
+        out: list[dict] = []
+        for m in msgs:
+            role = getattr(m, "role", "") or ""
+            role = getattr(role, "value", role)  # MessageRole enum -> str
+            content = getattr(m, "content", None) or ""
+            out.append({"role": str(role), "content": str(content)})
+        return out
+
+    try:
+        return _submit(_run()) or []
+    except Exception:
+        logger.warning("memory: load_conversation failed (returning [])", exc_info=True)
+        return []
+
+
+def delete_conversation_messages(thread_id: str) -> None:
+    """Purge a thread's messages from Neo4j short-term. No-op on any issue."""
+    if not settings.memory_enabled or not thread_id:
+        return
+
+    async def _run() -> None:
+        client = await _get_client()
+        await client.short_term.clear_session(thread_id)
+
+    try:
+        _submit(_run(), timeout=_WRITE_TIMEOUT)
+    except Exception:
+        logger.warning("memory: delete_conversation_messages failed", exc_info=True)
