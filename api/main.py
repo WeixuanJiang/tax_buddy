@@ -71,6 +71,21 @@ def _to_response(s: dict) -> AnswerResponse:
     )
 
 
+def _memory_read(user_id: str) -> str:
+    """Recall the user's profile (deferred import keeps the library optional)."""
+    if not user_id:
+        return ""
+    from knowledge_engine.agent import memory
+    return memory.get_user_profile(user_id)
+
+
+def _memory_write(user_id: str, state: dict) -> None:
+    if not user_id:
+        return
+    from knowledge_engine.agent import memory
+    memory.remember(user_id, state.get("analysis"))
+
+
 @app.get("/health")
 def health():
     return {"status": "ok", "model": settings.openrouter_model,
@@ -91,14 +106,16 @@ def ask(req: AskRequest):
 
 @app.post("/chat", response_model=AnswerResponse)
 def chat(req: ChatRequest):
+    uid = req.user_id or req.thread_id
     cfg = {"configurable": {"thread_id": req.thread_id}}
     try:
         s = _state["chat_graph"].invoke({
             "messages": [HumanMessage(req.question)], "query": req.question,
-            "reasoning": req.reasoning,
+            "reasoning": req.reasoning, "user_profile": _memory_read(uid),
         }, cfg)
     except Exception as e:  # noqa: BLE001
         raise HTTPException(500, f"agent error: {e}")
+    _memory_write(uid, s)
     return _to_response(s)
 
 
@@ -113,9 +130,10 @@ def chat_stream(req: ChatRequest):
     Emits `token` events while the `synthesize` node generates the answer, then a
     single `done` event carrying the finalized answer + citations + related links.
     """
+    uid = req.user_id or req.thread_id
     cfg = {"configurable": {"thread_id": req.thread_id}}
     inp = {"messages": [HumanMessage(req.question)], "query": req.question,
-           "reasoning": req.reasoning}
+           "reasoning": req.reasoning, "user_profile": _memory_read(uid)}
 
     stages = {
         "triage": "Understanding your question",
@@ -144,6 +162,7 @@ def chat_stream(req: ChatRequest):
                             yield _sse("token", {"text": text})
                 elif mode == "values":
                     final = data
+            _memory_write(uid, final or {})
             yield _sse("done", _to_response(final or {}).model_dump())
         except Exception as e:  # noqa: BLE001
             yield _sse("error", {"message": str(e)})
