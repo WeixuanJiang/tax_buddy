@@ -10,11 +10,14 @@ client is created lazily and kept open for the process lifetime.
 from __future__ import annotations
 
 import asyncio
+import logging
 import threading
 from concurrent.futures import Future
 from typing import Any, Optional
 
 from knowledge_engine.config import settings
+
+logger = logging.getLogger(__name__)
 
 _CALL_TIMEOUT = 8.0  # seconds; a slow/unreachable Neo4j must not stall a response
 
@@ -69,6 +72,9 @@ async def _get_client() -> Any:
     global _client
     if _client is not None:
         return _client
+    # No async lock needed: _get_client only ever runs on the single background
+    # event loop (every call is funnelled through _submit), so creation is
+    # serialized and _client is set before any concurrent caller can observe it.
     from neo4j_agent_memory import (
         EmbeddingConfig,
         LLMConfig,
@@ -131,6 +137,7 @@ def get_user_profile(user_id: str) -> str:
     try:
         return _submit(_run()) or ""
     except Exception:
+        logger.warning("memory: get_user_profile failed (returning empty)", exc_info=True)
         return ""
 
 
@@ -164,4 +171,5 @@ def remember(user_id: str, analysis: Optional[dict]) -> None:
     try:
         _submit(_run())
     except Exception:
+        logger.warning("memory: remember failed (skipping persist)", exc_info=True)
         return
