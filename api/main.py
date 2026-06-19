@@ -197,8 +197,10 @@ def chat_stream(req: ChatRequest, username: str | None = Depends(current_usernam
                             yield _sse("token", {"text": text})
                 elif mode == "values":
                     final = data
-            _memory_write(username, req.thread_id, req.question, final or {})
+            # Emit the terminal event FIRST so the client isn't left waiting on
+            # the (possibly slow, cold) memory write after the answer has streamed.
             yield _sse("done", _to_response(final or {}).model_dump())
+            _memory_write(username, req.thread_id, req.question, final or {})
         except Exception as e:  # noqa: BLE001
             yield _sse("error", {"message": str(e)})
 
