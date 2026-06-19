@@ -57,12 +57,9 @@ class Settings(BaseSettings):
     neo4j_uri: str = Field(default="bolt://localhost:7687", alias="NEO4J_URI")
     neo4j_user: str = Field(default="neo4j", alias="NEO4J_USER")
     neo4j_password: str = Field(default="", alias="NEO4J_PASSWORD")
-    # Bare model name; the provider (sentence_transformers) is set separately
-    # when the adapter builds EmbeddingConfig.
-    memory_embedding_model: str = Field(
-        default="all-MiniLM-L6-v2",
-        alias="MEMORY_EMBEDDING_MODEL",
-    )
+    # Memory reuses the corpus embedding model/dims (EMBED_MODEL / EMBED_DIM,
+    # qwen via OpenRouter) — see agent/memory.py — so there is no separate
+    # memory embedding setting.
 
     @property
     def fast_model(self) -> str:

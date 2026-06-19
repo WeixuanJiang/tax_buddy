@@ -6,7 +6,6 @@ def test_memory_defaults_off_and_local():
     assert s.memory_enabled is False
     assert s.neo4j_uri == "bolt://localhost:7687"
     assert s.neo4j_user == "neo4j"
-    assert s.memory_embedding_model == "all-MiniLM-L6-v2"
 
 
 def test_memory_enabled_reads_env(monkeypatch):
