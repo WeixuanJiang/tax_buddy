@@ -61,6 +61,10 @@ class Settings(BaseSettings):
     # qwen via OpenRouter) — see agent/memory.py — so there is no separate
     # memory embedding setting.
 
+    # --- Auth (Phase 1: accounts) ---
+    auth_secret: str = Field(default="", alias="AUTH_SECRET")
+    auth_token_ttl_hours: int = Field(default=24, alias="AUTH_TOKEN_TTL_HOURS")
+
     @property
     def fast_model(self) -> str:
         return self.openrouter_fast_model or self.openrouter_model
