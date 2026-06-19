@@ -35,6 +35,7 @@ Thumbs.db
 
 # Claude / local agent config
 .claude/
+.sdd/
 
 # Data / models (corpus lives outside the repo)
 output/
