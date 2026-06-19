@@ -157,7 +157,7 @@ export default function App() {
         )}
         <main className="thread" id="thread">
           {empty ? (
-            <EmptyState onPick={send} />
+            <EmptyState onPick={send} occupation={auth?.occupation} />
           ) : (
             <div className="thread__list">
               {exchanges.map((e) => (

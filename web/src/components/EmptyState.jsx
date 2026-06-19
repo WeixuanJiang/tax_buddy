@@ -1,4 +1,4 @@
-const EXAMPLES = [
+const DEFAULT_EXAMPLES = [
   "How do I amend my tax return after lodging?",
   "What can I claim for working from home?",
   "I'm a nurse — what work-related expenses can I claim?",
@@ -7,7 +7,30 @@ const EXAMPLES = [
   "What is the Medicare levy and what rate do I pay?",
 ];
 
-export default function EmptyState({ onPick }) {
+function article(word) {
+  return /^[aeiou]/i.test(word) ? "an" : "a";
+}
+
+// Tailor the starter questions to the signed-in user's occupation.
+function examplesFor(occupation) {
+  const occ = (occupation || "").trim();
+  if (!occ) return DEFAULT_EXAMPLES;
+  const a = article(occ);
+  return [
+    `What work-related expenses can I claim as ${a} ${occ}?`,
+    `Can I claim tools, equipment, or a uniform as ${a} ${occ}?`,
+    `What car and travel expenses can I claim as ${a} ${occ}?`,
+    `What self-education or training can ${a} ${occ} deduct?`,
+    "What can I claim for working from home?",
+    "How does the capital gains tax discount work?",
+  ];
+}
+
+export default function EmptyState({ onPick, occupation }) {
+  const examples = examplesFor(occupation);
+  const occ = (occupation || "").trim();
+  const label = occ ? `Suggested for your work as ${article(occ)} ${occ}` : "Try one of these";
+
   return (
     <section className="empty" aria-labelledby="empty-title">
       <p className="empty__eyebrow">Australian individual tax returns</p>
@@ -21,9 +44,9 @@ export default function EmptyState({ onPick }) {
       </p>
 
       <div className="empty__examples">
-        <p className="empty__examples-label">Try one of these</p>
+        <p className="empty__examples-label">{label}</p>
         <ul className="chiprow" role="list">
-          {EXAMPLES.map((q) => (
+          {examples.map((q) => (
             <li key={q}>
               <button type="button" className="chip" onClick={() => onPick(q)}>
                 {q}

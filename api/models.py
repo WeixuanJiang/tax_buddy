@@ -40,6 +40,7 @@ class LoginRequest(BaseModel):
 class AuthResponse(BaseModel):
     token: str
     username: str
+    occupation: str | None = None
 
 
 class Message(BaseModel):

@@ -122,7 +122,8 @@ def register(req: RegisterRequest):
         raise HTTPException(409, "username already taken")
     from knowledge_engine.agent import memory
     memory.register_user_profile(req.username, req.occupation, req.postcode)
-    return AuthResponse(token=security.create_token(req.username), username=req.username)
+    return AuthResponse(token=security.create_token(req.username),
+                        username=req.username, occupation=req.occupation)
 
 
 @app.post("/auth/login", response_model=AuthResponse)
@@ -132,7 +133,8 @@ def login(req: LoginRequest):
     u = users.get_user(req.username)
     if not u or not security.verify_password(req.password, u["password_hash"]):
         raise HTTPException(401, "invalid username or password")
-    return AuthResponse(token=security.create_token(req.username), username=req.username)
+    return AuthResponse(token=security.create_token(req.username),
+                        username=req.username, occupation=u.get("occupation"))
 
 
 @app.get("/conversations", response_model=list[ConversationSummary])
