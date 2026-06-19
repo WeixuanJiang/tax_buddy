@@ -4,6 +4,7 @@ export default function Masthead({
   canReset,
   thinking,
   onToggleThinking,
+  authControl,
 }) {
   return (
     <header className="masthead">
@@ -41,6 +42,7 @@ export default function Masthead({
         >
           New question
         </button>
+        {authControl}
       </div>
     </header>
   );

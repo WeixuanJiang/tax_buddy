@@ -20,6 +20,7 @@ export default function App() {
   const [thinking, setThinking] = useState(false);
   const [threadId, setThreadId] = useState(newThreadId);
   const [auth, setAuth] = useState(getAuth);
+  const [authOpen, setAuthOpen] = useState(false);
   const [conversations, setConversations] = useState([]);
   const threadRef = useRef(threadId);
   const thinkingRef = useRef(thinking);
@@ -112,6 +113,27 @@ export default function App() {
 
   const empty = exchanges.length === 0;
 
+  function signOut() {
+    logout();
+    setAuth(null);
+    setConversations([]);
+    newChat();
+  }
+
+  const authControl = auth ? (
+    <div className="userchip">
+      <span className="userchip__avatar" aria-hidden="true">
+        {auth.username.slice(0, 1).toUpperCase()}
+      </span>
+      <span className="userchip__name">{auth.username}</span>
+      <button type="button" className="userchip__out" onClick={signOut}>Log out</button>
+    </div>
+  ) : (
+    <button type="button" className="btn-ghost" onClick={() => setAuthOpen(true)}>
+      Log in
+    </button>
+  );
+
   return (
     <div className="app">
       <Masthead
@@ -120,17 +142,9 @@ export default function App() {
         canReset={!empty && !busy}
         thinking={thinking}
         onToggleThinking={() => setThinking((v) => !v)}
+        authControl={authControl}
       />
-      <div className="authbar">
-        {auth ? (
-          <span>Signed in as <b>{auth.username}</b>{" "}
-            <button onClick={() => { logout(); setAuth(null); }}>Log out</button>
-          </span>
-        ) : (
-          <Auth onAuth={setAuth} />
-        )}
-      </div>
-      <div className="layout">
+      <div className={"layout" + (auth ? " layout--rail" : "")}>
         {auth && (
           <ConversationList
             items={conversations}
@@ -157,6 +171,13 @@ export default function App() {
       <div className="dock">
         <Composer onSend={send} busy={busy} />
       </div>
+
+      {authOpen && !auth && (
+        <Auth
+          onAuth={(a) => { setAuth(a); setAuthOpen(false); }}
+          onClose={() => setAuthOpen(false)}
+        />
+      )}
     </div>
   );
 }
