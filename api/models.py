@@ -84,3 +84,9 @@ class AnswerResponse(BaseModel):
     citations: list[Citation] = []
     related_links: list[Link] = []
     suggestions: list[str] = []
+
+
+class SuggestionsResponse(BaseModel):
+    """Starter questions for the empty state, tailored to the user's work."""
+    occupation: str | None = None
+    suggestions: list[str] = []

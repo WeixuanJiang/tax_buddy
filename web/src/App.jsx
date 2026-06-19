@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import {
   chatStream, getAuth, logout,
   listConversations, getConversation, deleteConversation, closeConversation,
+  getSuggestions,
 } from "./api.js";
 import Auth from "./components/Auth.jsx";
 import Masthead from "./components/Masthead.jsx";
@@ -22,6 +23,7 @@ export default function App() {
   const [auth, setAuth] = useState(getAuth);
   const [authOpen, setAuthOpen] = useState(false);
   const [conversations, setConversations] = useState([]);
+  const [suggestions, setSuggestions] = useState(null);
   const threadRef = useRef(threadId);
   const thinkingRef = useRef(thinking);
   const bottomRef = useRef(null);
@@ -49,6 +51,17 @@ export default function App() {
     try { setConversations(await listConversations()); } catch { /* ignore */ }
   }
   useEffect(() => { refreshConversations(); }, [auth]);
+
+  // Fetch the AI-recommended starter questions once the user is known. The
+  // server generates them a single time and caches them in the DB.
+  useEffect(() => {
+    let cancelled = false;
+    if (!getAuth()) { setSuggestions(null); return; }
+    getSuggestions()
+      .then((data) => { if (!cancelled) setSuggestions(data?.suggestions ?? null); })
+      .catch(() => { if (!cancelled) setSuggestions(null); });
+    return () => { cancelled = true; };
+  }, [auth]);
 
   function patch(id, fields) {
     setExchanges((prev) => prev.map((e) => (e.id === id ? { ...e, ...fields } : e)));
@@ -166,7 +179,7 @@ export default function App() {
         )}
         <main className="thread" id="thread">
           {empty ? (
-            <EmptyState onPick={send} occupation={auth?.occupation} />
+            <EmptyState onPick={send} occupation={auth?.occupation} suggestions={suggestions} />
           ) : (
             <div className="thread__list">
               {exchanges.map((e) => (

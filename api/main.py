@@ -21,7 +21,7 @@ from knowledge_engine.agent.graph import build_graph
 from knowledge_engine.api import conversations, security, users
 from knowledge_engine.api.models import (
     AnswerResponse, AskRequest, AuthResponse, ChatRequest, ConversationDetail,
-    ConversationSummary, LoginRequest, RegisterRequest,
+    ConversationSummary, LoginRequest, RegisterRequest, SuggestionsResponse,
 )
 from knowledge_engine.config import settings
 
@@ -202,6 +202,36 @@ def login(req: LoginRequest):
         raise HTTPException(401, "invalid username or password")
     return AuthResponse(token=security.create_token(req.username),
                         username=req.username, occupation=u.get("occupation"))
+
+
+@app.get("/suggestions", response_model=SuggestionsResponse)
+def suggestions_route(username: str | None = Depends(current_username)):
+    """AI-recommended starter questions for the empty state.
+
+    For a signed-in user we generate the questions once from their occupation and
+    cache them in the users table; later requests return the stored set. Guests
+    get a generic generated set (not persisted, since there's no row to store on).
+    """
+    from knowledge_engine.api import suggestions as suggestions_mod
+
+    if not username:
+        return SuggestionsResponse(suggestions=suggestions_mod.generate_suggestions(""))
+
+    user = users.get_user(username)
+    if user is None:
+        raise HTTPException(404, "user not found")
+    occupation = user.get("occupation") or ""
+
+    cached = users.get_suggestions(username)
+    if cached:
+        return SuggestionsResponse(occupation=occupation, suggestions=cached)
+
+    generated = suggestions_mod.generate_suggestions(occupation)
+    try:
+        users.set_suggestions(username, generated)
+    except Exception as e:  # noqa: BLE001 - caching is best-effort
+        print(f"[warn] caching suggestions failed ({e})")
+    return SuggestionsResponse(occupation=occupation, suggestions=generated)
 
 
 @app.get("/conversations", response_model=list[ConversationSummary])

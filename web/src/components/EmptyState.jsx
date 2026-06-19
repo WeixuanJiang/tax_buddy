@@ -26,8 +26,14 @@ function examplesFor(occupation) {
   ];
 }
 
-export default function EmptyState({ onPick, occupation }) {
-  const examples = examplesFor(occupation);
+export default function EmptyState({ onPick, occupation, suggestions }) {
+  // Prefer the AI-recommended questions from the server (generated once per user
+  // and cached in the DB); fall back to local templates while they load or if the
+  // request failed.
+  const examples =
+    Array.isArray(suggestions) && suggestions.length
+      ? suggestions
+      : examplesFor(occupation);
   const occ = (occupation || "").trim();
   const label = occ ? `Suggested for your work as ${article(occ)} ${occ}` : "Try one of these";
 

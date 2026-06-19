@@ -34,6 +34,11 @@ async function get(path) {
 export function listConversations() {
   return get("/conversations");
 }
+// AI-recommended starter questions, tailored to the signed-in user's occupation
+// (generated once server-side, then cached in the DB).
+export function getSuggestions() {
+  return get("/suggestions");
+}
 export function getConversation(threadId) {
   return get(`/conversations/${encodeURIComponent(threadId)}`);
 }
