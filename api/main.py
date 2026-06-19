@@ -12,13 +12,16 @@ from __future__ import annotations
 import json
 from contextlib import asynccontextmanager
 
-from fastapi import FastAPI, HTTPException
+from fastapi import Depends, FastAPI, Header, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from langchain_core.messages import HumanMessage
 
 from knowledge_engine.agent.graph import build_graph
-from knowledge_engine.api.models import AnswerResponse, AskRequest, ChatRequest
+from knowledge_engine.api import security, users
+from knowledge_engine.api.models import (
+    AnswerResponse, AskRequest, AuthResponse, ChatRequest, LoginRequest, RegisterRequest,
+)
 from knowledge_engine.config import settings
 
 _state: dict = {}
@@ -28,6 +31,10 @@ _state: dict = {}
 async def lifespan(app: FastAPI):
     # Stateless graph for /ask
     _state["graph"] = build_graph()
+    try:
+        users.ensure_users_table()
+    except Exception as e:  # noqa: BLE001
+        print(f"[warn] users table init failed ({e}); auth will error until DB is up")
     # Persistent graph for /chat (Postgres checkpointer)
     try:
         from psycopg_pool import ConnectionPool
@@ -71,25 +78,55 @@ def _to_response(s: dict) -> AnswerResponse:
     )
 
 
-def _memory_read(user_id: str) -> str:
-    """Recall the user's profile (deferred import keeps the library optional)."""
-    if not user_id:
+def current_username(authorization: str | None = Header(default=None)) -> str | None:
+    """Resolve the logged-in username from a Bearer token; None for guests."""
+    if not authorization or not authorization.lower().startswith("bearer "):
+        return None
+    return security.decode_token(authorization.split(" ", 1)[1].strip())
+
+
+def _memory_read(username: str | None, query: str) -> str:
+    if not username:
         return ""
     from knowledge_engine.agent import memory
-    return memory.get_user_profile(user_id)
+    return memory.get_user_context(username, query)
 
 
-def _memory_write(user_id: str, state: dict) -> None:
-    if not user_id:
+def _memory_write(username: str | None, thread_id: str, question: str, state: dict) -> None:
+    if not username or state.get("route") != "answer":
         return
     from knowledge_engine.agent import memory
-    memory.remember(user_id, state.get("analysis"))
+    memory.save_turn(username, thread_id, question, state.get("answer", ""))
+    memory.remember(username, state.get("analysis"))
 
 
 @app.get("/health")
 def health():
     return {"status": "ok", "model": settings.openrouter_model,
             "tax_year": settings.tax_year_label}
+
+
+@app.post("/auth/register", response_model=AuthResponse)
+def register(req: RegisterRequest):
+    if not settings.auth_secret:
+        raise HTTPException(503, "auth not configured (AUTH_SECRET unset)")
+    ok = users.create_user(req.username, security.hash_password(req.password),
+                           req.occupation, req.postcode)
+    if not ok:
+        raise HTTPException(409, "username already taken")
+    from knowledge_engine.agent import memory
+    memory.register_user_profile(req.username, req.occupation, req.postcode)
+    return AuthResponse(token=security.create_token(req.username), username=req.username)
+
+
+@app.post("/auth/login", response_model=AuthResponse)
+def login(req: LoginRequest):
+    if not settings.auth_secret:
+        raise HTTPException(503, "auth not configured (AUTH_SECRET unset)")
+    u = users.get_user(req.username)
+    if not u or not security.verify_password(req.password, u["password_hash"]):
+        raise HTTPException(401, "invalid username or password")
+    return AuthResponse(token=security.create_token(req.username), username=req.username)
 
 
 @app.post("/ask", response_model=AnswerResponse)
@@ -105,19 +142,16 @@ def ask(req: AskRequest):
 
 
 @app.post("/chat", response_model=AnswerResponse)
-def chat(req: ChatRequest):
-    uid = req.user_id or req.thread_id
+def chat(req: ChatRequest, username: str | None = Depends(current_username)):
     cfg = {"configurable": {"thread_id": req.thread_id}}
     try:
         s = _state["chat_graph"].invoke({
             "messages": [HumanMessage(req.question)], "query": req.question,
-            "reasoning": req.reasoning, "user_profile": _memory_read(uid),
+            "reasoning": req.reasoning, "user_profile": _memory_read(username, req.question),
         }, cfg)
     except Exception as e:  # noqa: BLE001
         raise HTTPException(500, f"agent error: {e}")
-    # Persist only after a completed answer (not on clarify/refuse turns).
-    if s.get("route") == "answer":
-        _memory_write(uid, s)
+    _memory_write(username, req.thread_id, req.question, s)
     return _to_response(s)
 
 
@@ -126,16 +160,15 @@ def _sse(event: str, data: dict) -> str:
 
 
 @app.post("/chat/stream")
-def chat_stream(req: ChatRequest):
+def chat_stream(req: ChatRequest, username: str | None = Depends(current_username)):
     """Stream the answer token-by-token (SSE).
 
     Emits `token` events while the `synthesize` node generates the answer, then a
     single `done` event carrying the finalized answer + citations + related links.
     """
-    uid = req.user_id or req.thread_id
     cfg = {"configurable": {"thread_id": req.thread_id}}
     inp = {"messages": [HumanMessage(req.question)], "query": req.question,
-           "reasoning": req.reasoning, "user_profile": _memory_read(uid)}
+           "reasoning": req.reasoning, "user_profile": _memory_read(username, req.question)}
 
     stages = {
         "triage": "Understanding your question",
@@ -164,9 +197,7 @@ def chat_stream(req: ChatRequest):
                             yield _sse("token", {"text": text})
                 elif mode == "values":
                     final = data
-            # Persist only after a cleanly completed answer.
-            if final and final.get("route") == "answer":
-                _memory_write(uid, final)
+            _memory_write(username, req.thread_id, req.question, final or {})
             yield _sse("done", _to_response(final or {}).model_dump())
         except Exception as e:  # noqa: BLE001
             yield _sse("error", {"message": str(e)})
