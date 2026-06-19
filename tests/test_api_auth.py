@@ -28,6 +28,8 @@ def test_memory_write_guest_and_nonanswer(monkeypatch):
                         lambda *a, **k: calls.append("save"))
     monkeypatch.setattr("knowledge_engine.agent.memory.remember",
                         lambda *a, **k: calls.append("remember"))
+    monkeypatch.setattr("knowledge_engine.api.conversations.touch_conversation",
+                        lambda *a, **k: None)
     main._memory_write(None, "t1", "q", {"route": "answer", "answer": "a"})   # guest
     main._memory_write("alice", "t1", "q", {"route": "clarify"})              # not an answer
     assert calls == []
@@ -39,6 +41,8 @@ def test_memory_write_persists_on_answer(monkeypatch):
                         lambda u, t, q, a: calls.append(("save", u, t, q, a)))
     monkeypatch.setattr("knowledge_engine.agent.memory.remember",
                         lambda u, an: calls.append(("remember", u, an)))
+    monkeypatch.setattr("knowledge_engine.api.conversations.touch_conversation",
+                        lambda *a, **k: None)
     state = {"route": "answer", "answer": "hello", "analysis": {"income_year": 2026}}
     main._memory_write("alice", "t1", "q", state)
     assert ("save", "alice", "t1", "q", "hello") in calls

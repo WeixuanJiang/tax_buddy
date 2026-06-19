@@ -18,9 +18,10 @@ from fastapi.responses import StreamingResponse
 from langchain_core.messages import HumanMessage
 
 from knowledge_engine.agent.graph import build_graph
-from knowledge_engine.api import security, users
+from knowledge_engine.api import conversations, security, users
 from knowledge_engine.api.models import (
-    AnswerResponse, AskRequest, AuthResponse, ChatRequest, LoginRequest, RegisterRequest,
+    AnswerResponse, AskRequest, AuthResponse, ChatRequest, ConversationDetail,
+    ConversationSummary, LoginRequest, RegisterRequest,
 )
 from knowledge_engine.config import settings
 
@@ -33,8 +34,9 @@ async def lifespan(app: FastAPI):
     _state["graph"] = build_graph()
     try:
         users.ensure_users_table()
+        conversations.ensure_conversations_table()
     except Exception as e:  # noqa: BLE001
-        print(f"[warn] users table init failed ({e}); auth will error until DB is up")
+        print(f"[warn] account tables init failed ({e}); auth/history error until DB is up")
     # Persistent graph for /chat (Postgres checkpointer)
     try:
         from psycopg_pool import ConnectionPool
@@ -98,6 +100,10 @@ def _memory_write(username: str | None, thread_id: str, question: str, state: di
     from knowledge_engine.agent import memory
     memory.save_turn(username, thread_id, question, state.get("answer", ""))
     memory.remember(username, state.get("analysis"))
+    try:
+        conversations.touch_conversation(thread_id, username, question)
+    except Exception as e:  # noqa: BLE001
+        print(f"[warn] conversation touch failed ({e})")
 
 
 @app.get("/health")
@@ -127,6 +133,41 @@ def login(req: LoginRequest):
     if not u or not security.verify_password(req.password, u["password_hash"]):
         raise HTTPException(401, "invalid username or password")
     return AuthResponse(token=security.create_token(req.username), username=req.username)
+
+
+@app.get("/conversations", response_model=list[ConversationSummary])
+def list_conversations_route(username: str | None = Depends(current_username)):
+    if not username:
+        raise HTTPException(401, "login required")
+    return conversations.list_conversations(username)
+
+
+@app.get("/conversations/{thread_id}", response_model=ConversationDetail)
+def get_conversation_route(thread_id: str, username: str | None = Depends(current_username)):
+    if not username:
+        raise HTTPException(401, "login required")
+    owner = conversations.get_owner(thread_id)
+    if owner is None:
+        raise HTTPException(404, "conversation not found")
+    if owner != username:
+        raise HTTPException(403, "not your conversation")
+    from knowledge_engine.agent import memory
+    return {"thread_id": thread_id, "messages": memory.load_conversation(thread_id)}
+
+
+@app.delete("/conversations/{thread_id}")
+def delete_conversation_route(thread_id: str, username: str | None = Depends(current_username)):
+    if not username:
+        raise HTTPException(401, "login required")
+    owner = conversations.get_owner(thread_id)
+    if owner is None:
+        raise HTTPException(404, "conversation not found")
+    if owner != username:
+        raise HTTPException(403, "not your conversation")
+    conversations.delete_conversation(thread_id)
+    from knowledge_engine.agent import memory
+    memory.delete_conversation_messages(thread_id)
+    return {"deleted": thread_id}
 
 
 @app.post("/ask", response_model=AnswerResponse)
