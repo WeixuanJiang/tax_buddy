@@ -19,7 +19,7 @@ def test_remember_disabled_is_noop(monkeypatch):
 def test_get_profile_swallows_errors(monkeypatch):
     monkeypatch.setattr(mem.settings, "memory_enabled", True)
 
-    def boom(coro):
+    def boom(coro, *args, **kwargs):
         coro.close()  # avoid "coroutine never awaited" warning
         raise RuntimeError("neo4j down")
 
@@ -30,7 +30,7 @@ def test_get_profile_swallows_errors(monkeypatch):
 def test_remember_swallows_errors(monkeypatch):
     monkeypatch.setattr(mem.settings, "memory_enabled", True)
 
-    def boom(coro):
+    def boom(coro, *args, **kwargs):
         coro.close()
         raise RuntimeError("neo4j down")
 

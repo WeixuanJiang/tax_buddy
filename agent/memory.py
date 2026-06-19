@@ -19,7 +19,8 @@ from knowledge_engine.config import settings
 
 logger = logging.getLogger(__name__)
 
-_CALL_TIMEOUT = 8.0  # seconds; a slow/unreachable Neo4j must not stall a response
+_CALL_TIMEOUT = 8.0    # read budget (on the answer's critical path): a slow/unreachable Neo4j must not stall a response
+_WRITE_TIMEOUT = 30.0  # write budget (post-answer): allow cold connect + qwen embedding over the network
 
 _loop: Optional[asyncio.AbstractEventLoop] = None
 _loop_lock = threading.Lock()
@@ -38,16 +39,23 @@ def _ensure_loop() -> asyncio.AbstractEventLoop:
         return _loop
 
 
-def _submit(coro) -> Any:
+def _submit(coro, timeout: float = _CALL_TIMEOUT) -> Any:
     """Run a coroutine on the background loop and block (bounded) for its result."""
     fut: Future = asyncio.run_coroutine_threadsafe(coro, _ensure_loop())
-    return fut.result(timeout=_CALL_TIMEOUT)
+    return fut.result(timeout=timeout)
 
 
 class _QwenEmbedder:
     """Custom embedder implementing the library's `Embedder` protocol by reusing
     the project's qwen/OpenRouter embedding. `embed_passages` is sync (httpx), so
-    we run it off the event loop with asyncio.to_thread."""
+    we run it off the event loop with asyncio.to_thread.
+
+    Must expose `dimensions` + `embed` + `embed_batch` to satisfy the library's
+    runtime-checkable `Embedder` protocol (checked in connect())."""
+
+    @property
+    def dimensions(self) -> int:
+        return settings.embed_dim
 
     async def embed(self, text: str) -> list[float]:
         from knowledge_engine.ingestion.embed import embed_passages
@@ -169,7 +177,7 @@ def remember(user_id: str, analysis: Optional[dict]) -> None:
                 )
 
     try:
-        _submit(_run())
+        _submit(_run(), timeout=_WRITE_TIMEOUT)
     except Exception:
         logger.warning("memory: remember failed (skipping persist)", exc_info=True)
         return
