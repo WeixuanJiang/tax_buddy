@@ -115,7 +115,9 @@ def chat(req: ChatRequest):
         }, cfg)
     except Exception as e:  # noqa: BLE001
         raise HTTPException(500, f"agent error: {e}")
-    _memory_write(uid, s)
+    # Persist only after a completed answer (not on clarify/refuse turns).
+    if s.get("route") == "answer":
+        _memory_write(uid, s)
     return _to_response(s)
 
 
@@ -162,7 +164,9 @@ def chat_stream(req: ChatRequest):
                             yield _sse("token", {"text": text})
                 elif mode == "values":
                     final = data
-            _memory_write(uid, final or {})
+            # Persist only after a cleanly completed answer.
+            if final and final.get("route") == "answer":
+                _memory_write(uid, final)
             yield _sse("done", _to_response(final or {}).model_dump())
         except Exception as e:  # noqa: BLE001
             yield _sse("error", {"message": str(e)})

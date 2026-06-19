@@ -26,7 +26,7 @@ def _turn(graph, cfg, question: str, uid: str) -> dict:
          "user_profile": profile},
         cfg,
     )
-    memory.remember(uid, state)
+    memory.remember(uid, state.get("analysis"))
     return state
 
 
