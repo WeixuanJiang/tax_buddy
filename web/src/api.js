@@ -25,6 +25,27 @@ export async function login(username, password) {
   return a;
 }
 
+async function get(path) {
+  const res = await fetch(`${BASE}${path}`, { headers: { ...authHeader() } });
+  if (!res.ok) throw new Error(`Request failed (${res.status})`);
+  return res.json();
+}
+
+export function listConversations() {
+  return get("/conversations");
+}
+export function getConversation(threadId) {
+  return get(`/conversations/${encodeURIComponent(threadId)}`);
+}
+export async function deleteConversation(threadId) {
+  const res = await fetch(`${BASE}/conversations/${encodeURIComponent(threadId)}`, {
+    method: "DELETE",
+    headers: { ...authHeader() },
+  });
+  if (!res.ok) throw new Error(`Request failed (${res.status})`);
+  return res.json();
+}
+
 async function post(path, body) {
   const res = await fetch(`${BASE}${path}`, {
     method: "POST",
