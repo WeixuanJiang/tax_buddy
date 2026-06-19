@@ -1,9 +1,9 @@
-# Tax Buddy
+# Roboti Tax
 
 An LLM-agent (LangGraph) + RAG service that answers **Australian individual
 tax-return** questions, grounded only in the extracted ATO content in `../output/`,
 with source citations and a general-info disclaimer. The web UI is branded as
-Tax Buddy.
+Roboti Tax.
 
 - **Orchestration:** LangGraph state graph (intake → analyze → plan → retrieve →
   grade → synthesize → verify → finalize, with clarification & refusal branches).
