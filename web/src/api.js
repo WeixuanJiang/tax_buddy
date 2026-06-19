@@ -2,10 +2,33 @@
 // (/api -> FastAPI) in dev; set VITE_API_BASE for other deployments.
 const BASE = import.meta.env.VITE_API_BASE ?? "/api";
 
+const AUTH_KEY = "ke_auth";
+
+export function getAuth() {
+  try { return JSON.parse(localStorage.getItem(AUTH_KEY)); } catch { return null; }
+}
+function setAuth(a) { localStorage.setItem(AUTH_KEY, JSON.stringify(a)); }
+export function logout() { localStorage.removeItem(AUTH_KEY); }
+function authHeader() {
+  const a = getAuth();
+  return a?.token ? { Authorization: `Bearer ${a.token}` } : {};
+}
+
+export async function register(username, password, occupation, postcode) {
+  const a = await post("/auth/register", { username, password, occupation, postcode });
+  setAuth(a);
+  return a;
+}
+export async function login(username, password) {
+  const a = await post("/auth/login", { username, password });
+  setAuth(a);
+  return a;
+}
+
 async function post(path, body) {
   const res = await fetch(`${BASE}${path}`, {
     method: "POST",
-    headers: { "Content-Type": "application/json" },
+    headers: { "Content-Type": "application/json", ...authHeader() },
     body: JSON.stringify(body),
   });
   if (!res.ok) {
@@ -53,7 +76,7 @@ export async function chatStream(question, threadId, handlers, opts = {}) {
   try {
     res = await fetch(`${BASE}/chat/stream`, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: { "Content-Type": "application/json", ...authHeader() },
       body: JSON.stringify({
         question,
         thread_id: threadId,

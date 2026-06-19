@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { chatStream } from "./api.js";
+import { chatStream, getAuth, logout } from "./api.js";
+import Auth from "./components/Auth.jsx";
 import Masthead from "./components/Masthead.jsx";
 import EmptyState from "./components/EmptyState.jsx";
 import Composer from "./components/Composer.jsx";
@@ -14,6 +15,7 @@ export default function App() {
   const [busy, setBusy] = useState(false);
   const [thinking, setThinking] = useState(false);
   const [threadId, setThreadId] = useState(newThreadId);
+  const [auth, setAuth] = useState(getAuth);
   const threadRef = useRef(threadId);
   const thinkingRef = useRef(thinking);
   const bottomRef = useRef(null);
@@ -84,6 +86,16 @@ export default function App() {
         thinking={thinking}
         onToggleThinking={() => setThinking((v) => !v)}
       />
+
+      <div className="authbar">
+        {auth ? (
+          <span>Signed in as <b>{auth.username}</b>{" "}
+            <button onClick={() => { logout(); setAuth(null); }}>Log out</button>
+          </span>
+        ) : (
+          <Auth onAuth={setAuth} />
+        )}
+      </div>
 
       <main className="thread" id="thread">
         {empty ? (
