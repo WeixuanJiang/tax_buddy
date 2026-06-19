@@ -228,7 +228,9 @@ def compute(state: AgentState) -> dict:
         llm = get_llm(reasoning=state.get("reasoning")).bind_tools([calculator])
     except Exception:
         return {}
-    msgs = [SystemMessage(prompts.COMPUTE_SYS), HumanMessage(state["query"])]
+    profile = _profile_block(state)
+    prompt = f"{profile}\n\nQuestion: {state['query']}" if profile else state["query"]
+    msgs = [SystemMessage(prompts.COMPUTE_SYS), HumanMessage(prompt)]
     calcs: list[dict[str, str]] = []
     try:
         for _ in range(4):
@@ -352,6 +354,15 @@ def finalize_response(state: AgentState) -> dict:
 
 
 def refuse_redirect(state: AgentState) -> dict:
-    return {"answer": prompts.REFUSE_MSG, "route": "refuse",
+    q = _user_query(state)
+    try:
+        out = get_llm(temperature=0.0, reasoning=state.get("reasoning")).invoke([
+            SystemMessage(prompts.REFUSE_SYS),
+            HumanMessage(q),
+        ])
+        msg = (out.content or "").strip() or prompts.REFUSE_MSG
+    except Exception:
+        msg = prompts.REFUSE_MSG
+    return {"answer": msg, "route": "refuse",
             "citations": [], "related_links": [],
-            "messages": [AIMessage(prompts.REFUSE_MSG)]}
+            "messages": [AIMessage(msg)]}

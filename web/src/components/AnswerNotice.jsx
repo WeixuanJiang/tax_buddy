@@ -32,7 +32,14 @@ export default function AnswerNotice({ exchange, onAsk, busy }) {
     return (
       <div className="notice notice--aside" role="note">
         <p className="notice__kind">Outside scope</p>
-        <p className="notice__text">{answer}</p>
+        <div className="notice__text markdown">
+          <ReactMarkdown
+            remarkPlugins={[remarkGfm]}
+            components={markdownComponents(exchange.id)}
+          >
+            {answer}
+          </ReactMarkdown>
+        </div>
       </div>
     );
   }
@@ -41,7 +48,14 @@ export default function AnswerNotice({ exchange, onAsk, busy }) {
     return (
       <div className="notice notice--ask" role="note">
         <p className="notice__kind">One quick thing</p>
-        <p className="notice__text">{answer}</p>
+        <div className="notice__text markdown">
+          <ReactMarkdown
+            remarkPlugins={[remarkGfm]}
+            components={markdownComponents(exchange.id)}
+          >
+            {answer}
+          </ReactMarkdown>
+        </div>
       </div>
     );
   }

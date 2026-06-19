@@ -12,7 +12,7 @@ from __future__ import annotations
 import json
 from contextlib import asynccontextmanager
 
-from fastapi import Depends, FastAPI, Header, HTTPException
+from fastapi import BackgroundTasks, Depends, FastAPI, Header, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from langchain_core.messages import HumanMessage
@@ -80,6 +80,64 @@ def _to_response(s: dict) -> AnswerResponse:
     )
 
 
+def _should_recommend_tax_agents(state: dict) -> bool:
+    text = f"{state.get('draft', '')}\n{state.get('answer', '')}".lower()
+    if state.get("route") in {"refuse", "clarify"}:
+        return "tax agent" in text or "personalised tax advice" in text
+    if state.get("route") != "answer":
+        return False
+    if not state.get("retrieved"):
+        return True
+    verification = state.get("verification") or {}
+    if verification.get("confidence") == "low":
+        return True
+    if verification.get("issues"):
+        return True
+    return "couldn't find ato content" in text or "not fully covered" in text
+
+
+def _format_tax_agent_section(agents: list[dict]) -> str:
+    if not agents:
+        return ""
+    lines = [
+        "Nearby tax agents you may want to contact:",
+        "",
+        "| Tax agent | Address | Contact number | Google rating |",
+        "|---|---|---|---|",
+    ]
+    for agent in agents[:5]:
+        rating = agent.get("rating")
+        reviews = agent.get("user_rating_count") or 0
+        rating_text = f"{rating} ({reviews} reviews)" if rating else "Not available"
+        lines.append(
+            "| "
+            f"{agent.get('name') or 'Not available'} | "
+            f"{agent.get('address') or 'Not available'} | "
+            f"{agent.get('phone') or 'Not available'} | "
+            f"{rating_text} |"
+        )
+    lines.append(
+        "These are Google Places results ranked by rating and review count, not an endorsement."
+    )
+    return "\n".join(lines)
+
+
+def _add_tax_agent_recommendations(
+    response: AnswerResponse, username: str | None, state: dict
+) -> AnswerResponse:
+    if not username or not _should_recommend_tax_agents(state):
+        return response
+    user = users.get_user(username)
+    postcode = (user or {}).get("postcode", "")
+    if not postcode:
+        return response
+    from knowledge_engine.api import tax_agents
+    section = _format_tax_agent_section(tax_agents.search_tax_agents(postcode))
+    if section:
+        response.answer = f"{response.answer}\n\n{section}"
+    return response
+
+
 def current_username(authorization: str | None = Header(default=None)) -> str | None:
     """Resolve the logged-in username from a Bearer token; None for guests."""
     if not authorization or not authorization.lower().startswith("bearer "):
@@ -95,15 +153,24 @@ def _memory_read(username: str | None, query: str) -> str:
 
 
 def _memory_write(username: str | None, thread_id: str, question: str, state: dict) -> None:
-    if not username or state.get("route") != "answer":
+    answer = state.get("answer", "")
+    if not username or not answer:
         return
     from knowledge_engine.agent import memory
-    memory.save_turn(username, thread_id, question, state.get("answer", ""))
-    memory.remember(username, state.get("analysis"))
+    memory.save_turn(username, thread_id, question, answer)
     try:
         conversations.touch_conversation(thread_id, username, question)
     except Exception as e:  # noqa: BLE001
         print(f"[warn] conversation touch failed ({e})")
+
+
+def _memory_write_response(
+    username: str | None, thread_id: str, question: str, response: AnswerResponse
+) -> None:
+    _memory_write(username, thread_id, question, {
+        "route": response.route,
+        "answer": response.answer,
+    })
 
 
 @app.get("/health")
@@ -157,6 +224,24 @@ def get_conversation_route(thread_id: str, username: str | None = Depends(curren
     return {"thread_id": thread_id, "messages": memory.load_conversation(thread_id)}
 
 
+@app.post("/conversations/{thread_id}/close")
+def close_conversation_route(
+    thread_id: str,
+    background_tasks: BackgroundTasks,
+    username: str | None = Depends(current_username),
+):
+    if not username:
+        raise HTTPException(401, "login required")
+    owner = conversations.get_owner(thread_id)
+    if owner is None:
+        raise HTTPException(404, "conversation not found")
+    if owner != username:
+        raise HTTPException(403, "not your conversation")
+    from knowledge_engine.agent import memory
+    background_tasks.add_task(memory.remember_conversation, username, thread_id)
+    return {"closed": thread_id}
+
+
 @app.delete("/conversations/{thread_id}")
 def delete_conversation_route(thread_id: str, username: str | None = Depends(current_username)):
     if not username:
@@ -194,8 +279,9 @@ def chat(req: ChatRequest, username: str | None = Depends(current_username)):
         }, cfg)
     except Exception as e:  # noqa: BLE001
         raise HTTPException(500, f"agent error: {e}")
-    _memory_write(username, req.thread_id, req.question, s)
-    return _to_response(s)
+    response = _add_tax_agent_recommendations(_to_response(s), username, s)
+    _memory_write_response(username, req.thread_id, req.question, response)
+    return response
 
 
 def _sse(event: str, data: dict) -> str:
@@ -242,8 +328,9 @@ def chat_stream(req: ChatRequest, username: str | None = Depends(current_usernam
                     final = data
             # Emit the terminal event FIRST so the client isn't left waiting on
             # the (possibly slow, cold) memory write after the answer has streamed.
-            yield _sse("done", _to_response(final or {}).model_dump())
-            _memory_write(username, req.thread_id, req.question, final or {})
+            response = _add_tax_agent_recommendations(_to_response(final or {}), username, final or {})
+            yield _sse("done", response.model_dump())
+            _memory_write_response(username, req.thread_id, req.question, response)
         except Exception as e:  # noqa: BLE001
             yield _sse("error", {"message": str(e)})
 

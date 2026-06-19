@@ -45,6 +45,14 @@ export async function deleteConversation(threadId) {
   if (!res.ok) throw new Error(`Request failed (${res.status})`);
   return res.json();
 }
+export async function closeConversation(threadId) {
+  const res = await fetch(`${BASE}/conversations/${encodeURIComponent(threadId)}/close`, {
+    method: "POST",
+    headers: { ...authHeader() },
+  });
+  if (!res.ok) throw new Error(`Request failed (${res.status})`);
+  return res.json();
+}
 
 async function post(path, body) {
   const res = await fetch(`${BASE}${path}`, {

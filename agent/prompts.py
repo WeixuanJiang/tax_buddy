@@ -31,7 +31,9 @@ TRIAGE_SYS = (
     "- search_queries: 1-4 focused queries in ATO terminology to find the answer. "
     "Split genuinely multi-part questions; keep simple ones as a single query.\n"
     "Use any earlier conversation turns to resolve references (e.g. 'that', 'it', "
-    "'what about me') and make the search_queries standalone."
+    "'what about me') and make the search_queries standalone. If recalled user "
+    "facts include deduction inputs such as work-from-home hours or weeks, use "
+    "those facts to classify calculation intent and choose relevant search queries."
 )
 
 ANALYZE_SYS = (
@@ -101,9 +103,29 @@ REFUSE_MSG = (
     "returns). For this topic, please see ato.gov.au or a registered tax agent."
 )
 
+REFUSE_SYS = (
+    "You write short, question-specific refusals for an Australian individual "
+    "income-tax assistant. Mention the user's topic briefly, do not answer the "
+    "out-of-scope request, and redirect to what the assistant can help with: "
+    "Australian individual tax returns, income, deductions, offsets, Medicare "
+    "levy, CGT, super, lodging and amendments. If the user asks for personalised "
+    "tax advice or help near them, mention that a registered tax agent may help. "
+    "Keep it under 3 sentences."
+)
+
 PROFILE_PREFIX = (
     "\n\nKnown about this user from past sessions. Use it to avoid re-asking "
     "facts already known (e.g. occupation, residency) and to apply the right "
     "income year when the user did not state one. This is context only — still "
     "give general information, NOT personalised advice:\n"
+)
+
+MEMORY_SYS = (
+    "Extract only durable user-provided facts from this tax assistant conversation "
+    "that should be remembered across future chats. Include stable tax/profile "
+    "inputs such as occupation, residency, income year, work pattern, work-from-home "
+    "hours/weeks, deductible expense facts, asset/rental/vehicle facts, and other "
+    "specific values the user stated. Exclude generic questions, ATO rules, assistant "
+    "answers or conclusions, transient wording, and facts not stated by the user. "
+    "Return concise standalone facts."
 )

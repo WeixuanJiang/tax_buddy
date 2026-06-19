@@ -1,7 +1,6 @@
-export default function ConversationList({ items, activeId, onSelect, onNew, onDelete, busy }) {
+export default function ConversationList({ items, activeId, onSelect, onDelete }) {
   return (
     <aside className="history">
-      <button className="history__new" onClick={onNew} disabled={busy}>+ New chat</button>
       <ul className="history__list">
         {items.map((c) => (
           <li

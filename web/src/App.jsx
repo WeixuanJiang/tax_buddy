@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
   chatStream, getAuth, logout,
-  listConversations, getConversation, deleteConversation,
+  listConversations, getConversation, deleteConversation, closeConversation,
 } from "./api.js";
 import Auth from "./components/Auth.jsx";
 import Masthead from "./components/Masthead.jsx";
@@ -83,7 +83,13 @@ export default function App() {
     refreshConversations();
   }
 
+  function closeCurrentChat() {
+    if (!getAuth() || exchanges.length === 0) return;
+    closeConversation(threadRef.current).catch(() => { /* ignore */ });
+  }
+
   function newChat() {
+    closeCurrentChat();
     setExchanges([]);
     setThreadId(newThreadId());
   }
@@ -108,16 +114,21 @@ export default function App() {
   async function removeConversation(tid) {
     try { await deleteConversation(tid); } catch { /* ignore */ }
     setConversations((prev) => prev.filter((c) => c.thread_id !== tid));
-    if (tid === threadRef.current) newChat();
+    if (tid === threadRef.current) {
+      setExchanges([]);
+      setThreadId(newThreadId());
+    }
   }
 
   const empty = exchanges.length === 0;
 
   function signOut() {
+    closeCurrentChat();
     logout();
     setAuth(null);
     setConversations([]);
-    newChat();
+    setExchanges([]);
+    setThreadId(newThreadId());
   }
 
   const authControl = auth ? (
@@ -150,9 +161,7 @@ export default function App() {
             items={conversations}
             activeId={threadId}
             onSelect={openConversation}
-            onNew={newChat}
             onDelete={removeConversation}
-            busy={busy}
           />
         )}
         <main className="thread" id="thread">

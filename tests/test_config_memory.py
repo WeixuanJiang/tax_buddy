@@ -12,3 +12,9 @@ def test_memory_enabled_reads_env(monkeypatch):
     monkeypatch.setenv("MEMORY_ENABLED", "true")
     s = Settings(_env_file=None)
     assert s.memory_enabled is True
+
+
+def test_google_places_defaults_disabled():
+    s = Settings(_env_file=None)
+    assert s.google_maps_api_key == ""
+    assert s.tax_agent_max_results == 5

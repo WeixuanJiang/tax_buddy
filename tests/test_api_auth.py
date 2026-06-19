@@ -22,7 +22,7 @@ def test_memory_read_guest_short_circuits(monkeypatch):
     assert called["n"] == 0
 
 
-def test_memory_write_guest_and_nonanswer(monkeypatch):
+def test_memory_write_guest_short_circuits(monkeypatch):
     calls = []
     monkeypatch.setattr("knowledge_engine.agent.memory.save_turn",
                         lambda *a, **k: calls.append("save"))
@@ -31,19 +31,18 @@ def test_memory_write_guest_and_nonanswer(monkeypatch):
     monkeypatch.setattr("knowledge_engine.api.conversations.touch_conversation",
                         lambda *a, **k: None)
     main._memory_write(None, "t1", "q", {"route": "answer", "answer": "a"})   # guest
-    main._memory_write("alice", "t1", "q", {"route": "clarify"})              # not an answer
     assert calls == []
 
 
-def test_memory_write_persists_on_answer(monkeypatch):
+def test_memory_write_persists_completed_routes(monkeypatch):
     calls = []
     monkeypatch.setattr("knowledge_engine.agent.memory.save_turn",
                         lambda u, t, q, a: calls.append(("save", u, t, q, a)))
     monkeypatch.setattr("knowledge_engine.agent.memory.remember",
-                        lambda u, an: calls.append(("remember", u, an)))
+                        lambda *a, **k: calls.append(("remember",)))
     monkeypatch.setattr("knowledge_engine.api.conversations.touch_conversation",
                         lambda *a, **k: None)
-    state = {"route": "answer", "answer": "hello", "analysis": {"income_year": 2026}}
+    state = {"route": "refuse", "answer": "hello", "analysis": {"income_year": 2026}}
     main._memory_write("alice", "t1", "q", state)
     assert ("save", "alice", "t1", "q", "hello") in calls
-    assert ("remember", "alice", {"income_year": 2026}) in calls
+    assert ("remember",) not in calls

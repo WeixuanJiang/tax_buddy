@@ -65,6 +65,10 @@ class Settings(BaseSettings):
     auth_secret: str = Field(default="", alias="AUTH_SECRET")
     auth_token_ttl_hours: int = Field(default=24, alias="AUTH_TOKEN_TTL_HOURS")
 
+    # Google Places fallback recommendations
+    google_maps_api_key: str = Field(default="", alias="GOOGLE_MAPS_API_KEY")
+    tax_agent_max_results: int = Field(default=5, alias="TAX_AGENT_MAX_RESULTS")
+
     @property
     def fast_model(self) -> str:
         return self.openrouter_fast_model or self.openrouter_model

@@ -947,27 +947,6 @@ a:hover {
   background: var(--surface);
   border-right: 1px solid var(--line);
 }
-.history__new {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: var(--sp-2);
-  font: inherit;
-  font-size: var(--t-sm);
-  font-weight: 500;
-  color: var(--teal-deep);
-  background: var(--bg);
-  border: 1px solid color-mix(in oklch, var(--teal) 30%, var(--line-strong));
-  border-radius: var(--radius-sm);
-  padding: 0.55rem 0.8rem;
-  cursor: pointer;
-  transition: background var(--dur) var(--ease), border-color var(--dur) var(--ease);
-}
-.history__new:hover:not(:disabled) {
-  background: var(--teal-tint);
-  border-color: var(--teal);
-}
-.history__new:disabled { opacity: 0.5; cursor: not-allowed; }
 .history__list {
   list-style: none;
   margin: 0;

@@ -11,7 +11,7 @@ export default function Masthead({
       <div className="masthead__id">
         <span className="masthead__mark" aria-hidden="true">§</span>
         <div className="masthead__titles">
-          <h1 className="masthead__title">Tax-return assistant</h1>
+          <h1 className="masthead__title">Tax Buddy</h1>
           <p className="masthead__sub">General information from ATO content</p>
         </div>
       </div>

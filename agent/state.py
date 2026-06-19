@@ -58,8 +58,10 @@ class Triage(BaseModel):
     entities: list[str] = Field(
         default_factory=list,
         description="Durable facts about the user worth remembering across "
-                    "sessions: occupation, residency status, asset types "
-                    "(e.g. 'sole trader', 'foreign resident', 'rental property'). "
+                    "sessions: occupation, residency status, asset types, and "
+                    "deduction-relevant facts such as work-from-home hours/weeks "
+                    "(e.g. 'sole trader', 'foreign resident', 'rental property', "
+                    "'works from home 37.5 hours per week for 48 weeks'). "
                     "Only include facts the user actually stated.")
     needs_clarification: bool = Field(
         default=False,
@@ -90,6 +92,17 @@ class GroundingCheck(BaseModel):
                                        "supported by the provided sources.")
     issues: list[str] = Field(default_factory=list)
     confidence: Literal["high", "medium", "low"] = "medium"
+
+
+class MemoryFacts(BaseModel):
+    facts: list[str] = Field(
+        default_factory=list,
+        description="Key durable tax/profile facts the user explicitly stated and "
+                    "may expect remembered across chats. Include occupation, "
+                    "residency, income year, work patterns, work-from-home hours/"
+                    "weeks, deductible expense facts, asset/rental/vehicle facts, "
+                    "and other stable tax-return inputs. Exclude generic questions, "
+                    "legal rules, assistant conclusions, and unstated facts.")
 
 
 # ---- graph state -----------------------------------------------------------
