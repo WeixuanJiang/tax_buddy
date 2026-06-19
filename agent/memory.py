@@ -19,8 +19,9 @@ from knowledge_engine.config import settings
 
 logger = logging.getLogger(__name__)
 
-_CALL_TIMEOUT = 8.0    # read budget (on the answer's critical path): a slow/unreachable Neo4j must not stall a response
-_WRITE_TIMEOUT = 30.0  # write budget (post-answer): allow cold connect + qwen embedding over the network
+_CALL_TIMEOUT = 8.0     # read budget (on the answer's critical path): a slow/unreachable Neo4j must not stall a response
+_RECALL_TIMEOUT = 15.0  # conversation recall embeds the query via qwen; allow a cold first call (warms after)
+_WRITE_TIMEOUT = 30.0   # write budget (post-answer): allow cold connect + qwen embedding over the network
 
 _loop: Optional[asyncio.AbstractEventLoop] = None
 _loop_lock = threading.Lock()
@@ -218,6 +219,11 @@ def save_turn(user_id: str, thread_id: str, question: str, answer: str) -> None:
                     role=role,
                     content=content,
                     user_identifier=user_id,
+                    # Also tag the metadata: add_message does NOT store
+                    # user_identifier as a queryable Message property, so
+                    # search_messages(metadata_filters={"user_identifier": ...})
+                    # only matches when it lives in metadata.
+                    metadata={"user_identifier": user_id},
                     extract_entities=False,
                     extract_relations=False,
                     generate_embedding=True,
@@ -254,7 +260,7 @@ def recall_conversation(user_id: str, query: str) -> str:
         return _format_messages(msgs)
 
     try:
-        return _submit(_run()) or ""
+        return _submit(_run(), timeout=_RECALL_TIMEOUT) or ""
     except Exception:
         logger.warning("memory: recall_conversation failed (returning empty)", exc_info=True)
         return ""
